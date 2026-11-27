@@ -1,0 +1,38 @@
+# Local builds and dependencies
+.build/
+.swiftpm/
+dist/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# User data, credentials and local configuration
+.env
+.env.*
+!.env.example
+Web/data/
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.pem
+*.key
+*.p12
+.aws/
+.cloudflared/
+
+# Local tooling and logs
+.devlogs/
+.codex/
+.agents/
+*.log
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Packaging archives
+*.tgz
+*.tar.gz
+*.zip
+*.dmg
