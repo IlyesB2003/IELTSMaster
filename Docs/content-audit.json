@@ -1,0 +1,1141 @@
+{
+  "scope": "All JSON served by the web content loader, plus all Python exam sources.",
+  "limitations": [
+    "Automated structural checks only; answers and factual claims need editorial review.",
+    "The 600-word listening minimum is a local authoring guideline, not an official IELTS word-count requirement.",
+    "Counts are inventory counts, not a certification of distinct, reviewed exercises.",
+    "Targets interpret 200 exercises as 200 per skill; writing counts Task 1 and Task 2 separately.",
+    "Listening and reading counts are focused sessions sharing practice-only source texts; see source_counts.",
+    "Regenerate the native resource with node Scripts/sync_native_content.mjs after editing content.",
+    "Listening audio delivery uses browser speech synthesis; recordings were not assessed."
+  ],
+  "counts": {
+    "mock_exams": 31,
+    "practice_sets": 19,
+    "listening": 263,
+    "reading": 254,
+    "writing_task1": 55,
+    "writing_task2": 145,
+    "speaking": 200,
+    "writing": 200
+  },
+  "source_counts": {
+    "mock_exams": 31,
+    "practice_sets": 19,
+    "listening": 84,
+    "reading": 65,
+    "writing_task1": 55,
+    "writing_task2": 145,
+    "speaking": 200,
+    "writing": 200
+  },
+  "targets": {
+    "mock_exams": 100,
+    "listening": 200,
+    "reading": 200,
+    "writing": 200,
+    "speaking": 200
+  },
+  "practice_separation": {
+    "published_mock_catalog": [
+      {
+        "id": "authored-01",
+        "number": 1,
+        "authoringNumber": 1,
+        "title": "Mock Exam 1: Land, Food & Environment"
+      },
+      {
+        "id": "authored-02",
+        "number": 2,
+        "authoringNumber": 2,
+        "title": "Mock Exam 2: Health, Cities & Technology"
+      },
+      {
+        "id": "exam03",
+        "number": 3,
+        "authoringNumber": 3,
+        "title": "Mock Exam 3: Energy, Oceans & Innovation"
+      },
+      {
+        "id": "exam04",
+        "number": 4,
+        "authoringNumber": 4,
+        "title": "Mock Exam 4: Cities, Homes & Getting Around"
+      },
+      {
+        "id": "exam05",
+        "number": 5,
+        "authoringNumber": 5,
+        "title": "Mock Exam 5: Language, Writing & the Mind"
+      },
+      {
+        "id": "exam06",
+        "number": 6,
+        "authoringNumber": 6,
+        "title": "Mock Exam 6: Earth, Space & Time"
+      },
+      {
+        "id": "exam07",
+        "number": 7,
+        "authoringNumber": 7,
+        "title": "Mock Exam 7: Wildlife, Forests & Conservation"
+      },
+      {
+        "id": "exam08",
+        "number": 8,
+        "authoringNumber": 8,
+        "title": "Mock Exam 8: Sport, Fitness & Everyday Life"
+      },
+      {
+        "id": "exam09",
+        "number": 9,
+        "authoringNumber": 9,
+        "title": "Mock Exam 9: Art, Archaeology & the Past"
+      },
+      {
+        "id": "exam10",
+        "number": 10,
+        "authoringNumber": 10,
+        "title": "Mock Exam 10: Oceans, Coasts & Marine Life"
+      },
+      {
+        "id": "exam11",
+        "number": 11,
+        "authoringNumber": 11,
+        "title": "Mock Exam 11: Medicine, Discovery & Public Health"
+      },
+      {
+        "id": "exam12",
+        "number": 12,
+        "authoringNumber": 12,
+        "title": "Mock Exam 12: Volcanoes, Earthquakes & Natural Hazards"
+      },
+      {
+        "id": "exam13",
+        "number": 13,
+        "authoringNumber": 13,
+        "title": "Mock Exam 13: Music, Sound & the Arts"
+      },
+      {
+        "id": "exam14",
+        "number": 14,
+        "authoringNumber": 14,
+        "title": "Mock Exam 14: Migration, Population & Identity"
+      },
+      {
+        "id": "exam15",
+        "number": 15,
+        "authoringNumber": 15,
+        "title": "Mock Exam 15: Marketing, Advertising & Consumer Behaviour"
+      },
+      {
+        "id": "exam16",
+        "number": 16,
+        "authoringNumber": 16,
+        "title": "Mock Exam 16: Robots, Automation & Artificial Intelligence"
+      },
+      {
+        "id": "exam17",
+        "number": 17,
+        "authoringNumber": 17,
+        "title": "Mock Exam 17: Trade, Money & the Global Economy"
+      },
+      {
+        "id": "exam18",
+        "number": 18,
+        "authoringNumber": 18,
+        "title": "Mock Exam 18: Deserts, Drylands & Survival"
+      },
+      {
+        "id": "exam19",
+        "number": 19,
+        "authoringNumber": 19,
+        "title": "Mock Exam 19: Ancient Civilisations & Early Writing"
+      },
+      {
+        "id": "exam20",
+        "number": 20,
+        "authoringNumber": 20,
+        "title": "Mock Exam 20: Future Energy: Batteries, Hydrogen & Nuclear"
+      },
+      {
+        "id": "exam21",
+        "number": 21,
+        "authoringNumber": 21,
+        "title": "Mock Exam 21: Mountains, Glaciers & the Polar Regions"
+      },
+      {
+        "id": "exam22",
+        "number": 22,
+        "authoringNumber": 22,
+        "title": "Mock Exam 22: Designing Everyday Services"
+      },
+      {
+        "id": "exam23",
+        "number": 23,
+        "authoringNumber": 23,
+        "title": "Mock Exam 23: Making Room for Everyday Life"
+      },
+      {
+        "id": "exam24",
+        "number": 24,
+        "authoringNumber": 24,
+        "title": "Mock Exam 24: Clay, Craft and Useful Objects"
+      },
+      {
+        "id": "exam25",
+        "number": 25,
+        "authoringNumber": 25,
+        "title": "Mock Exam 25: Packing, Delivering and Returning"
+      },
+      {
+        "id": "exam26",
+        "number": 26,
+        "authoringNumber": 26,
+        "title": "Mock Exam 26: Clocks, Precision and Public Time"
+      },
+      {
+        "id": "exam50",
+        "number": 27,
+        "authoringNumber": 50,
+        "title": "Mock Exam 27: Life Along the Rocky Shore"
+      },
+      {
+        "id": "exam51",
+        "number": 28,
+        "authoringNumber": 51,
+        "title": "Mock Exam 28: Water Beneath Our Feet"
+      },
+      {
+        "id": "exam76",
+        "number": 29,
+        "authoringNumber": 76,
+        "title": "Mock Exam 29: Working Drafts and Shared Judgements"
+      },
+      {
+        "id": "exam77",
+        "number": 30,
+        "authoringNumber": 77,
+        "title": "Mock Exam 30: Passing Knowledge On"
+      },
+      {
+        "id": "exam78",
+        "number": 31,
+        "authoringNumber": 78,
+        "title": "Mock Exam 31: Language Beyond a Printed Page"
+      }
+    ],
+    "counts": {
+      "reading": 254,
+      "listening": 263,
+      "writing": 200,
+      "speaking": 200
+    },
+    "cross_pool_content_overlap": [],
+    "cross_pool_question_overlap": [],
+    "repeated_drill_question_ids": [],
+    "max_drill_questions": 4
+  },
+  "remaining": {
+    "mock_exams": 69,
+    "listening": 0,
+    "reading": 0,
+    "writing": 0,
+    "speaking": 0
+  },
+  "structural_issues": {
+    "authored-01": [
+      "authored-01-lp1: only 506 words (min 600)",
+      "authored-01-lp2: only 574 words (min 600)",
+      "authored-01-lp3: only 555 words (min 600)",
+      "authored-01-lp4: only 524 words (min 600)"
+    ],
+    "authored-02": [
+      "authored-02-lp1: only 425 words (min 600)",
+      "authored-02-lp2: only 433 words (min 600)",
+      "authored-02-lp3: only 435 words (min 600)",
+      "authored-02-lp4: only 487 words (min 600)"
+    ]
+  },
+  "source_issues": {},
+  "duplicate_question_ids": [],
+  "duplicate_practice_prompts": {
+    "writing1": [],
+    "writing2": [],
+    "speaking": []
+  },
+  "question_types": {
+    "listening: Form Completion": 205,
+    "listening: Multiple Choice": 507,
+    "listening: Matching": 164,
+    "listening: Note Completion": 1058,
+    "reading: True / False / Not Given": 352,
+    "reading: Note Completion": 155,
+    "reading: Matching Information": 50,
+    "reading: Matching Features": 180,
+    "reading: Sentence Completion": 241,
+    "reading: Multiple Choice": 243,
+    "reading: Yes / No / Not Given": 247,
+    "reading: Summary Completion": 249,
+    "listening: Flowchart Completion": 19,
+    "reading: Matching Headings": 264,
+    "reading: Short Answer": 6,
+    "reading: Matching Sentence Endings": 42,
+    "reading: Flowchart Completion": 3,
+    "listening: Map / Diagram Labeling": 15,
+    "listening: Sentence Completion": 49,
+    "listening: Table Completion": 15
+  },
+  "exams": [
+    {
+      "id": "authored-01",
+      "title": "Mock Exam 1: Land, Food & Environment",
+      "pool": "mock",
+      "listening_words": [
+        506,
+        574,
+        555,
+        524
+      ],
+      "reading_words": [
+        802,
+        775,
+        856
+      ],
+      "official": false
+    },
+    {
+      "id": "authored-02",
+      "title": "Mock Exam 2: Health, Cities & Technology",
+      "pool": "mock",
+      "listening_words": [
+        425,
+        433,
+        435,
+        487
+      ],
+      "reading_words": [
+        759,
+        726,
+        754
+      ],
+      "official": false
+    },
+    {
+      "id": "exam03",
+      "title": "Mock Exam 3: Energy, Oceans & Innovation",
+      "pool": "mock",
+      "listening_words": [
+        673,
+        678,
+        606,
+        740
+      ],
+      "reading_words": [
+        709,
+        716,
+        741
+      ],
+      "official": false
+    },
+    {
+      "id": "exam04",
+      "title": "Mock Exam 4: Cities, Homes & Getting Around",
+      "pool": "mock",
+      "listening_words": [
+        620,
+        617,
+        608,
+        628
+      ],
+      "reading_words": [
+        704,
+        708,
+        743
+      ],
+      "official": false
+    },
+    {
+      "id": "exam05",
+      "title": "Mock Exam 5: Language, Writing & the Mind",
+      "pool": "mock",
+      "listening_words": [
+        603,
+        606,
+        601,
+        622
+      ],
+      "reading_words": [
+        708,
+        716,
+        700
+      ],
+      "official": false
+    },
+    {
+      "id": "exam06",
+      "title": "Mock Exam 6: Earth, Space & Time",
+      "pool": "mock",
+      "listening_words": [
+        637,
+        611,
+        602,
+        705
+      ],
+      "reading_words": [
+        762,
+        751,
+        806
+      ],
+      "official": false
+    },
+    {
+      "id": "exam07",
+      "title": "Mock Exam 7: Wildlife, Forests & Conservation",
+      "pool": "mock",
+      "listening_words": [
+        646,
+        661,
+        622,
+        644
+      ],
+      "reading_words": [
+        701,
+        702,
+        722
+      ],
+      "official": false
+    },
+    {
+      "id": "exam08",
+      "title": "Mock Exam 8: Sport, Fitness & Everyday Life",
+      "pool": "mock",
+      "listening_words": [
+        634,
+        603,
+        600,
+        601
+      ],
+      "reading_words": [
+        700,
+        701,
+        702
+      ],
+      "official": false
+    },
+    {
+      "id": "exam09",
+      "title": "Mock Exam 9: Art, Archaeology & the Past",
+      "pool": "mock",
+      "listening_words": [
+        626,
+        637,
+        605,
+        720
+      ],
+      "reading_words": [
+        700,
+        708,
+        758
+      ],
+      "official": false
+    },
+    {
+      "id": "exam10",
+      "title": "Mock Exam 10: Oceans, Coasts & Marine Life",
+      "pool": "mock",
+      "listening_words": [
+        620,
+        611,
+        601,
+        646
+      ],
+      "reading_words": [
+        722,
+        704,
+        723
+      ],
+      "official": false
+    },
+    {
+      "id": "exam11",
+      "title": "Mock Exam 11: Medicine, Discovery & Public Health",
+      "pool": "mock",
+      "listening_words": [
+        700,
+        659,
+        644,
+        642
+      ],
+      "reading_words": [
+        777,
+        734,
+        795
+      ],
+      "official": false
+    },
+    {
+      "id": "exam12",
+      "title": "Mock Exam 12: Volcanoes, Earthquakes & Natural Hazards",
+      "pool": "mock",
+      "listening_words": [
+        657,
+        613,
+        616,
+        662
+      ],
+      "reading_words": [
+        706,
+        735,
+        718
+      ],
+      "official": false
+    },
+    {
+      "id": "exam13",
+      "title": "Mock Exam 13: Music, Sound & the Arts",
+      "pool": "mock",
+      "listening_words": [
+        643,
+        657,
+        607,
+        671
+      ],
+      "reading_words": [
+        732,
+        726,
+        700
+      ],
+      "official": false
+    },
+    {
+      "id": "exam14",
+      "title": "Mock Exam 14: Migration, Population & Identity",
+      "pool": "mock",
+      "listening_words": [
+        708,
+        661,
+        679,
+        671
+      ],
+      "reading_words": [
+        774,
+        762,
+        784
+      ],
+      "official": false
+    },
+    {
+      "id": "exam15",
+      "title": "Mock Exam 15: Marketing, Advertising & Consumer Behaviour",
+      "pool": "mock",
+      "listening_words": [
+        629,
+        651,
+        705,
+        769
+      ],
+      "reading_words": [
+        848,
+        764,
+        762
+      ],
+      "official": false
+    },
+    {
+      "id": "exam16",
+      "title": "Mock Exam 16: Robots, Automation & Artificial Intelligence",
+      "pool": "mock",
+      "listening_words": [
+        683,
+        699,
+        667,
+        702
+      ],
+      "reading_words": [
+        749,
+        738,
+        773
+      ],
+      "official": false
+    },
+    {
+      "id": "exam17",
+      "title": "Mock Exam 17: Trade, Money & the Global Economy",
+      "pool": "mock",
+      "listening_words": [
+        706,
+        709,
+        681,
+        692
+      ],
+      "reading_words": [
+        757,
+        763,
+        788
+      ],
+      "official": false
+    },
+    {
+      "id": "exam18",
+      "title": "Mock Exam 18: Deserts, Drylands & Survival",
+      "pool": "mock",
+      "listening_words": [
+        716,
+        636,
+        636,
+        697
+      ],
+      "reading_words": [
+        813,
+        784,
+        823
+      ],
+      "official": false
+    },
+    {
+      "id": "exam19",
+      "title": "Mock Exam 19: Ancient Civilisations & Early Writing",
+      "pool": "mock",
+      "listening_words": [
+        677,
+        637,
+        646,
+        688
+      ],
+      "reading_words": [
+        941,
+        842,
+        822
+      ],
+      "official": false
+    },
+    {
+      "id": "exam20",
+      "title": "Mock Exam 20: Future Energy: Batteries, Hydrogen & Nuclear",
+      "pool": "mock",
+      "listening_words": [
+        752,
+        723,
+        697,
+        830
+      ],
+      "reading_words": [
+        814,
+        900,
+        912
+      ],
+      "official": false
+    },
+    {
+      "id": "exam21",
+      "title": "Mock Exam 21: Mountains, Glaciers & the Polar Regions",
+      "pool": "mock",
+      "listening_words": [
+        749,
+        830,
+        689,
+        736
+      ],
+      "reading_words": [
+        762,
+        761,
+        922
+      ],
+      "official": false
+    },
+    {
+      "id": "exam22",
+      "title": "Mock Exam 22: Designing Everyday Services",
+      "pool": "mock",
+      "listening_words": [
+        729,
+        661,
+        702,
+        654
+      ],
+      "reading_words": [
+        741,
+        738,
+        736
+      ],
+      "official": false
+    },
+    {
+      "id": "exam23",
+      "title": "Mock Exam 23: Making Room for Everyday Life",
+      "pool": "mock",
+      "listening_words": [
+        673,
+        622,
+        609,
+        622
+      ],
+      "reading_words": [
+        740,
+        736,
+        731
+      ],
+      "official": false
+    },
+    {
+      "id": "exam24",
+      "title": "Mock Exam 24: Clay, Craft and Useful Objects",
+      "pool": "mock",
+      "listening_words": [
+        646,
+        650,
+        620,
+        608
+      ],
+      "reading_words": [
+        745,
+        720,
+        720
+      ],
+      "official": false
+    },
+    {
+      "id": "exam25",
+      "title": "Mock Exam 25: Packing, Delivering and Returning",
+      "pool": "mock",
+      "listening_words": [
+        687,
+        621,
+        610,
+        611
+      ],
+      "reading_words": [
+        744,
+        733,
+        740
+      ],
+      "official": false
+    },
+    {
+      "id": "exam26",
+      "title": "Mock Exam 26: Clocks, Precision and Public Time",
+      "pool": "mock",
+      "listening_words": [
+        685,
+        661,
+        627,
+        641
+      ],
+      "reading_words": [
+        729,
+        742,
+        743
+      ],
+      "official": false
+    },
+    {
+      "id": "exam50",
+      "title": "Mock Exam 50: Life Along the Rocky Shore",
+      "pool": "mock",
+      "listening_words": [
+        681,
+        607,
+        609,
+        602
+      ],
+      "reading_words": [
+        748,
+        727,
+        749
+      ],
+      "official": false
+    },
+    {
+      "id": "exam51",
+      "title": "Mock Exam 51: Water Beneath Our Feet",
+      "pool": "mock",
+      "listening_words": [
+        692,
+        615,
+        605,
+        642
+      ],
+      "reading_words": [
+        728,
+        744,
+        737
+      ],
+      "official": false
+    },
+    {
+      "id": "exam76",
+      "title": "Mock Exam 76: Working Drafts and Shared Judgements",
+      "pool": "mock",
+      "listening_words": [
+        678,
+        620,
+        631,
+        629
+      ],
+      "reading_words": [
+        756,
+        726,
+        737
+      ],
+      "official": false
+    },
+    {
+      "id": "exam77",
+      "title": "Mock Exam 77: Passing Knowledge On",
+      "pool": "mock",
+      "listening_words": [
+        699,
+        618,
+        621,
+        634
+      ],
+      "reading_words": [
+        728,
+        741,
+        753
+      ],
+      "official": false
+    },
+    {
+      "id": "exam78",
+      "title": "Mock Exam 78: Language Beyond a Printed Page",
+      "pool": "mock",
+      "listening_words": [
+        678,
+        628,
+        602,
+        610
+      ],
+      "reading_words": [
+        736,
+        751,
+        794
+      ],
+      "official": false
+    },
+    {
+      "id": "practice01",
+      "title": "Practice Test 1: Health, Sleep & the Senses",
+      "pool": "practice",
+      "listening_words": [
+        617,
+        631,
+        602,
+        697
+      ],
+      "reading_words": [
+        700,
+        712,
+        711
+      ],
+      "official": false
+    },
+    {
+      "id": "practice02",
+      "title": "Practice Test 2: Farming, Food & Animals",
+      "pool": "practice",
+      "listening_words": [
+        603,
+        623,
+        644,
+        641
+      ],
+      "reading_words": [
+        703,
+        707,
+        707
+      ],
+      "official": false
+    },
+    {
+      "id": "practice03",
+      "title": "Practice Test 3: Travel, Leisure & Culture",
+      "pool": "practice",
+      "listening_words": [
+        606,
+        602,
+        602,
+        618
+      ],
+      "reading_words": [
+        700,
+        702,
+        700
+      ],
+      "official": false
+    },
+    {
+      "id": "practice04",
+      "title": "Practice Test 4: Work, Business & Money",
+      "pool": "practice",
+      "listening_words": [
+        614,
+        652,
+        613,
+        638
+      ],
+      "reading_words": [
+        704,
+        719,
+        740
+      ],
+      "official": false
+    },
+    {
+      "id": "practice05",
+      "title": "Practice Test 5: Technology, Media & Society",
+      "pool": "practice",
+      "listening_words": [
+        601,
+        604,
+        609,
+        615
+      ],
+      "reading_words": [
+        701,
+        707,
+        711
+      ],
+      "official": false
+    },
+    {
+      "id": "practice06",
+      "title": "Practice Test 6: Mind, Memory & Decision-Making",
+      "pool": "practice",
+      "listening_words": [
+        617,
+        642,
+        622,
+        656
+      ],
+      "reading_words": [
+        711,
+        735,
+        743
+      ],
+      "official": false
+    },
+    {
+      "id": "practice07",
+      "title": "Practice Test 7: Water, Weather & Climate",
+      "pool": "practice",
+      "listening_words": [
+        623,
+        608,
+        603,
+        617
+      ],
+      "reading_words": [
+        701,
+        700,
+        701
+      ],
+      "official": false
+    },
+    {
+      "id": "practice08",
+      "title": "Practice Test 8: Transport, Engineering & Design",
+      "pool": "practice",
+      "listening_words": [
+        626,
+        622,
+        610,
+        617
+      ],
+      "reading_words": [
+        710,
+        712,
+        701
+      ],
+      "official": false
+    },
+    {
+      "id": "practice09",
+      "title": "Practice Test 9: Food Science, Cooking & Nutrition",
+      "pool": "practice",
+      "listening_words": [
+        630,
+        617,
+        617,
+        660
+      ],
+      "reading_words": [
+        784,
+        715,
+        708
+      ],
+      "official": false
+    },
+    {
+      "id": "practice10",
+      "title": "Practice Test 10: Childhood, Learning & Development",
+      "pool": "practice",
+      "listening_words": [
+        634,
+        635,
+        613,
+        612
+      ],
+      "reading_words": [
+        727,
+        708,
+        733
+      ],
+      "official": false
+    },
+    {
+      "id": "practice11",
+      "title": "Practice Test 11: Architecture, Buildings & Materials",
+      "pool": "practice",
+      "listening_words": [
+        625,
+        650,
+        629,
+        669
+      ],
+      "reading_words": [
+        721,
+        722,
+        724
+      ],
+      "official": false
+    },
+    {
+      "id": "practice12",
+      "title": "Practice Test 12: Space Travel & Exploring the Solar System",
+      "pool": "practice",
+      "listening_words": [
+        616,
+        634,
+        650,
+        663
+      ],
+      "reading_words": [
+        726,
+        717,
+        753
+      ],
+      "official": false
+    },
+    {
+      "id": "practice13",
+      "title": "Practice Test 13: Chemistry & Everyday Materials",
+      "pool": "practice",
+      "listening_words": [
+        673,
+        645,
+        617,
+        771
+      ],
+      "reading_words": [
+        853,
+        752,
+        815
+      ],
+      "official": false
+    },
+    {
+      "id": "practice14",
+      "title": "Practice Test 14: Rivers, Lakes & Freshwater",
+      "pool": "practice",
+      "listening_words": [
+        712,
+        676,
+        680,
+        693
+      ],
+      "reading_words": [
+        769,
+        783,
+        763
+      ],
+      "official": false
+    },
+    {
+      "id": "practice15",
+      "title": "Practice Test 15: Insects, Pollinators & Tiny Creatures",
+      "pool": "practice",
+      "listening_words": [
+        667,
+        668,
+        669,
+        693
+      ],
+      "reading_words": [
+        755,
+        757,
+        743
+      ],
+      "official": false
+    },
+    {
+      "id": "practice16",
+      "title": "Practice Test 16: Fashion, Textiles & Design",
+      "pool": "practice",
+      "listening_words": [
+        654,
+        613,
+        615,
+        635
+      ],
+      "reading_words": [
+        810,
+        764,
+        774
+      ],
+      "official": false
+    },
+    {
+      "id": "practice17",
+      "title": "Practice Test 17: Birds & Animal Migration",
+      "pool": "practice",
+      "listening_words": [
+        640,
+        613,
+        620,
+        689
+      ],
+      "reading_words": [
+        769,
+        785,
+        726
+      ],
+      "official": false
+    },
+    {
+      "id": "practice18",
+      "title": "Practice Test 18: Photography, Film & Cinema",
+      "pool": "practice",
+      "listening_words": [
+        660,
+        665,
+        610,
+        682
+      ],
+      "reading_words": [
+        804,
+        733,
+        727
+      ],
+      "official": false
+    },
+    {
+      "id": "practice19",
+      "title": "Practice Test 19: Plants, Gardens & Botany",
+      "pool": "practice",
+      "listening_words": [
+        634,
+        729,
+        610,
+        673
+      ],
+      "reading_words": [
+        763,
+        753,
+        833
+      ],
+      "official": false
+    }
+  ]
+}
