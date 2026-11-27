@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "bank-w2-001",
+  "title": "University tuition",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education",
+  "promptText": "Some people think that university education should be free for all students, whatever their background. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-002",
+  "title": "Practical vs academic subjects",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education",
+  "promptText": "Some people believe that schools should focus on practical skills such as managing money and cooking, while others think academic subjects are more important. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-003",
+  "title": "Online degrees",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Education",
+  "promptText": "More and more students are choosing to study for a degree entirely online. Do the advantages of this development outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-004",
+  "title": "Falling interest in science",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Education",
+  "promptText": "In many countries, fewer young people are choosing to study science at university. What are the reasons for this, and what can be done to encourage more students to study science?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-005",
+  "title": "Learning a foreign language",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Education",
+  "promptText": "Many children now begin learning a foreign language at primary school. Why do you think this is happening? Is it a positive or negative development?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-006",
+  "title": "Homework",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education",
+  "promptText": "Some people argue that homework should be banned in primary schools because children need time to play. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-007",
+  "title": "Single-sex schools",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education",
+  "promptText": "Some people believe that boys and girls learn better in separate schools, while others think mixed schools are better. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-008",
+  "title": "Gap year",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Education",
+  "promptText": "It is becoming common for young people to take a year off between finishing school and starting university. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-009",
+  "title": "Artificial intelligence and jobs",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Technology",
+  "promptText": "Some people fear that artificial intelligence will replace most human jobs within the next few decades. To what extent do you agree or disagree with this view?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-010",
+  "title": "Screen time and children",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Technology",
+  "promptText": "Children today spend many hours every day using phones and computers. What problems does this cause, and what solutions can you suggest?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-011",
+  "title": "Cashless society",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Technology",
+  "promptText": "In many countries, people are using cash less and less, and paying for almost everything by card or phone. Do the advantages of this trend outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-012",
+  "title": "Online friendships",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Technology",
+  "promptText": "Many people now have friends they have met only online. Why is this the case? Do you think online friendships can be as valuable as face-to-face friendships?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-013",
+  "title": "Privacy and security",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Technology",
+  "promptText": "Some people believe that governments should be allowed to monitor online communication to prevent crime, while others think this is a serious threat to privacy. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-014",
+  "title": "Space exploration",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Technology",
+  "promptText": "Some people think that the money spent on space exploration would be better spent on solving problems on Earth. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-015",
+  "title": "Driverless cars",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Technology",
+  "promptText": "In the future, most cars may drive themselves without human drivers. Do you think the advantages of this will outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-016",
+  "title": "Banning private cars in city centres",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Environment",
+  "promptText": "Some people believe that private cars should be banned from city centres. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-017",
+  "title": "Plastic waste",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment",
+  "promptText": "The amount of plastic waste produced worldwide is increasing rapidly. What are the main causes of this, and what measures could be taken to reduce it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-018",
+  "title": "Individuals or governments",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Environment",
+  "promptText": "Some people say that individuals can do little to protect the environment and that only governments and large companies can make a difference. Others disagree. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-019",
+  "title": "Flying less",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Environment",
+  "promptText": "Air travel is one of the fastest-growing sources of greenhouse gas emissions. Should people be encouraged to fly less? How could this be achieved?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-020",
+  "title": "Vegetarian diets",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Environment",
+  "promptText": "More people are choosing to eat less meat or none at all. Do the advantages of this trend outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-021",
+  "title": "Taxing fuel",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Environment",
+  "promptText": "The best way to reduce traffic and pollution is to make petrol much more expensive. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-022",
+  "title": "Water shortages",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment",
+  "promptText": "Many parts of the world are facing increasing shortages of fresh water. What are the causes of this problem, and what can be done to solve it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-023",
+  "title": "Zoos",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Environment",
+  "promptText": "Some people think that zoos are cruel and should be closed, while others believe they play an important role in protecting wildlife. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-024",
+  "title": "Sugar tax",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Health",
+  "promptText": "Governments should tax sugary drinks and unhealthy food in order to improve public health. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-025",
+  "title": "Rising obesity",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Health",
+  "promptText": "Obesity rates among children are rising in many countries. What are the causes of this, and what can be done about it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-026",
+  "title": "Mental health awareness",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Health",
+  "promptText": "People today talk much more openly about mental health than in the past. Why has this change happened? Is it a positive development?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-027",
+  "title": "Free healthcare",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Health",
+  "promptText": "Some people believe that healthcare should be completely free and paid for by the state, while others think people should pay for their own medical treatment. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-028",
+  "title": "Ageing population",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Health",
+  "promptText": "In many countries, the proportion of older people is increasing. Do the advantages of this trend outweigh the disadvantages for society?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-029",
+  "title": "Sport in schools",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Health",
+  "promptText": "Physical education should be a compulsory subject every day for all school students. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-030",
+  "title": "Sleep deprivation",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Health",
+  "promptText": "Many people today do not get enough sleep. Why is this, and what effects does it have on individuals and society?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-031",
+  "title": "Four-day working week",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Work",
+  "promptText": "Some people believe that a four-day working week would be better for employees and employers. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-032",
+  "title": "Working from home",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Work",
+  "promptText": "Since the pandemic, many companies allow employees to work from home for part or all of the week. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-033",
+  "title": "Job satisfaction or salary",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Work",
+  "promptText": "Some people think that a high salary is the most important factor when choosing a job, while others believe job satisfaction matters more. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-034",
+  "title": "Changing careers",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Work",
+  "promptText": "Nowadays many people change their career several times during their working lives. Why do you think this happens? Is it a positive or negative development?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-035",
+  "title": "Youth unemployment",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Work",
+  "promptText": "In many countries, a large number of young people cannot find work after finishing their education. What are the causes, and what solutions can you suggest?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-036",
+  "title": "Retirement age",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Work",
+  "promptText": "Governments should raise the retirement age because people are living longer. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-037",
+  "title": "Living in cities or the countryside",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Society",
+  "promptText": "Some people prefer to live in big cities, while others prefer life in small towns or the countryside. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-038",
+  "title": "Housing costs",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Society",
+  "promptText": "In many cities, the cost of housing has risen so much that young people cannot afford to buy a home. What are the causes of this, and what can be done?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-039",
+  "title": "Community service for young offenders",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Society",
+  "promptText": "Young people who commit minor crimes should do unpaid work in the community instead of going to prison. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-040",
+  "title": "Family size",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Society",
+  "promptText": "In many countries, families are much smaller than they were fifty years ago. What are the reasons for this? What effects does it have on society?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-041",
+  "title": "Living alone",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Society",
+  "promptText": "An increasing number of people choose to live alone. Do the advantages of this trend outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-042",
+  "title": "Celebrities as role models",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Society",
+  "promptText": "Some people think that famous sports stars and entertainers are good role models for young people, while others disagree. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-043",
+  "title": "Volunteering",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Society",
+  "promptText": "All young people should be required to do some unpaid voluntary work in their community. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-044",
+  "title": "Loneliness among the elderly",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Society",
+  "promptText": "Many elderly people in modern societies feel lonely and isolated. What are the causes of this problem, and how could it be addressed?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-045",
+  "title": "Government funding for the arts",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Culture",
+  "promptText": "Governments should spend money on museums, theatres and art galleries rather than on sports facilities. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-046",
+  "title": "Global culture",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Culture",
+  "promptText": "Some people believe that globalisation is making cultures around the world more similar, which is a loss. Others think it brings people closer together. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-047",
+  "title": "Reading books",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Culture",
+  "promptText": "Fewer people read books for pleasure than in the past. Why is this? What could be done to encourage reading?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-048",
+  "title": "Tourism in historic places",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Culture",
+  "promptText": "Large numbers of tourists now visit famous historic sites every year. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-049",
+  "title": "Preserving old buildings",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Culture",
+  "promptText": "Old buildings should always be protected, even if this prevents new development. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-050",
+  "title": "Disappearing languages",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Culture",
+  "promptText": "Many of the world's languages are disappearing. Why is this happening, and what can be done to protect them?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-051",
+  "title": "Advertising to children",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Media",
+  "promptText": "Advertising aimed at children should be banned. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-052",
+  "title": "News on social media",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Media",
+  "promptText": "Some people think that social media is now the best source of news, while others believe traditional newspapers and television are more reliable. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-053",
+  "title": "Streaming services",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Media",
+  "promptText": "People increasingly watch films and series on streaming platforms rather than at the cinema or on television. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-054",
+  "title": "Compulsory voting",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Government",
+  "promptText": "Voting in elections should be compulsory for all adult citizens. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-055",
+  "title": "Public transport funding",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Government",
+  "promptText": "Some people believe that public transport should be free and paid for by taxes, while others think passengers should pay the full cost. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-056",
+  "title": "Traffic congestion",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Government",
+  "promptText": "Traffic congestion is becoming a serious problem in many large cities. What are the causes, and what measures could governments take to reduce it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-057",
+  "title": "International aid",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Government",
+  "promptText": "Rich countries often give financial aid to poorer countries. Why do they do this? Is financial aid the best way to help poorer nations?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-058",
+  "title": "Animal testing",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Science",
+  "promptText": "Testing medicines on animals is necessary for medical progress and should continue. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-059",
+  "title": "Genetically modified crops",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Science",
+  "promptText": "Some countries are growing more genetically modified crops to increase food production. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-060",
+  "title": "Funding research",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Science",
+  "promptText": "Some people think that governments should fund scientific research that has practical benefits, while others believe pure research for its own sake is equally important. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-061",
+  "title": "Local food",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Agriculture",
+  "promptText": "People should buy food that is produced locally rather than food imported from other countries. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-062",
+  "title": "Food waste",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Agriculture",
+  "promptText": "A large proportion of the food produced in the world is wasted. What are the causes of this, and what can be done to reduce it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-063",
+  "title": "Leaving farming",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Agriculture",
+  "promptText": "In many countries, young people are leaving rural areas and fewer are choosing to work in farming. Why is this happening? What problems might it cause?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-064",
+  "title": "Shopping online",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Business",
+  "promptText": "More and more people are doing their shopping online rather than in shops. Do the advantages of this development outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-065",
+  "title": "Corporate responsibility",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Business",
+  "promptText": "Large companies have a responsibility to support the communities in which they operate, not just to make a profit. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-066",
+  "title": "Small shops and supermarkets",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Business",
+  "promptText": "Some people think large supermarkets are good for consumers, while others believe they harm small local shops and communities. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-067",
+  "title": "Repair information",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Consumer goods",
+  "promptText": "Some people believe that manufacturers should provide the parts and instructions needed to repair their products. Others think that repairs should only be carried out by the manufacturers themselves. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-068",
+  "title": "Choosing a timetable",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education",
+  "promptText": "Secondary school students should be allowed to choose when their school day begins and ends, provided that they attend all required lessons. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-069",
+  "title": "Shared facilities",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Housing",
+  "promptText": "Some new apartment buildings provide shared kitchens, workspaces and guest rooms instead of giving each household its own facilities. Do the advantages of this arrangement outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-070",
+  "title": "Missed connections",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Transport",
+  "promptText": "Passengers sometimes avoid using public transport because they cannot rely on connections between services. What problems does this cause, and what could transport operators do to address them?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-071",
+  "title": "Recording family histories",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Culture",
+  "promptText": "Some people record interviews with older relatives to preserve their family histories. Why might they choose to do this? Should schools encourage students to take part in such projects?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-072",
+  "title": "Publishing salaries",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Work",
+  "promptText": "Some people think that employers should make the salaries of all employees available to their colleagues. Others believe that this information should remain private. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-073",
+  "title": "Packaging responsibility",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Environment",
+  "promptText": "Shops should be required to take back the packaging of the products they sell. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-074",
+  "title": "Visitor reservations",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Tourism",
+  "promptText": "Some popular tourist attractions require visitors to book a particular arrival time rather than allowing them to arrive whenever they wish. Do the advantages of this policy outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-075",
+  "title": "Empty meeting spaces",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Community",
+  "promptText": "In some neighbourhoods, public meeting rooms remain unused even though residents say they need places to meet. Why might this happen, and what could be done to make better use of these rooms?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-076",
+  "title": "Automatic recommendations",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Technology",
+  "promptText": "Online services can recommend music, films and books based on what a person has previously chosen. How might these recommendations affect the choices people make? Is this a positive or negative development?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-077",
+  "title": "Local projects at university",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education",
+  "promptText": "Some people believe university students should complete a project that benefits the local community before graduating. Others think their time should be devoted entirely to academic study. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-078",
+  "title": "Paid trial work",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Employment",
+  "promptText": "Employers should be required to pay job applicants for any trial work they ask them to perform. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-079",
+  "title": "Borrowing household equipment",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Society",
+  "promptText": "Some communities operate services through which residents can borrow tools and household equipment instead of buying them. Do the advantages of these services outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-080",
+  "title": "Complicated application forms",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Public services",
+  "promptText": "People can find it difficult to apply for public services because the forms and instructions are complicated. What effects can this have, and how could public authorities improve the application process?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-081",
+  "title": "Temporary exhibitions",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Culture",
+  "promptText": "Some museums organise temporary exhibitions that remain open for only a few weeks. Why might museums choose to do this? Should they focus more on their permanent collections?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-082",
+  "title": "School streets",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Urban planning",
+  "promptText": "Some people believe roads beside schools should be closed to cars at the beginning and end of the school day. Others think these restrictions create difficulties for local residents. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-083",
+  "title": "Subscription cancellation",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Consumer protection",
+  "promptText": "Cancelling a subscription to a service should be as easy as signing up for it. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-084",
+  "title": "Rotating team leadership",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Work",
+  "promptText": "In some workplaces, team members take turns leading a project rather than having one permanent team leader. Do the advantages of this approach outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-085",
+  "title": "Unused teacher feedback",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Education",
+  "promptText": "Some students read the marks on their assignments but pay little attention to their teachers' written feedback. Why might this happen, and what could teachers and students do to make feedback more useful?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-086",
+  "title": "Naming public places",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Community",
+  "promptText": "Local authorities sometimes invite residents to suggest names for new streets and public buildings. What benefits might this bring? Should residents or elected officials make the final decision?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-087",
+  "title": "Exams and assessment",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education",
+  "promptText": "Some people believe that exams are not a good way to assess students and that continuous assessment through coursework is fairer. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-088",
+  "title": "Teachers or technology",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education",
+  "promptText": "Some people think that computers and the internet will eventually replace teachers in the classroom. Others believe teachers will always be essential. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-089",
+  "title": "University dropout",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Education",
+  "promptText": "In many countries, a significant number of students leave university before completing their degree. What are the reasons for this, and what can be done to help students complete their studies?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-090",
+  "title": "Studying abroad",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Education",
+  "promptText": "An increasing number of students choose to study in a foreign country. What are the reasons for this trend? Is it a positive development for the students' home countries?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-091",
+  "title": "Learning at home",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Education",
+  "promptText": "Some parents choose to educate their children at home rather than send them to school. Do the advantages of home schooling outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-092",
+  "title": "Robots caring for the elderly",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Technology",
+  "promptText": "In the future, robots may be used to look after elderly people in their homes. Some people think this is a good idea. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-093",
+  "title": "Fake news",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Technology",
+  "promptText": "False information spreads quickly on the internet and social media. What problems does this cause, and what can be done to tackle it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-094",
+  "title": "Children and smartphones",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Technology",
+  "promptText": "Some people think children should not be allowed smartphones until they are teenagers, while others believe phones help children stay safe and learn. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-095",
+  "title": "Video games",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Technology",
+  "promptText": "Video games are now one of the most popular forms of entertainment in the world. Why are they so popular? Do they have a positive or negative effect on young people?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-096",
+  "title": "Facial recognition",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Technology",
+  "promptText": "Police in some cities now use facial recognition cameras in public places. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-097",
+  "title": "Tourism and the environment",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Environment",
+  "promptText": "International tourism is harmful to the environment and should be limited. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-098",
+  "title": "Air pollution in cities",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment",
+  "promptText": "Air pollution is a serious problem in many large cities. What are the main causes, and what measures could be taken to improve air quality?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-099",
+  "title": "Nuclear power",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Environment",
+  "promptText": "Some people believe nuclear power is the best way to reduce carbon emissions, while others think it is too dangerous and expensive. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-100",
+  "title": "Fast fashion",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Environment",
+  "promptText": "Many people buy cheap clothes and throw them away after wearing them only a few times. Why do people do this? What can be done to reduce the environmental impact?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-101",
+  "title": "Electric cars",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Environment",
+  "promptText": "Many governments are encouraging people to switch to electric cars. Do the advantages of this policy outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-102",
+  "title": "Banning smoking completely",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Health",
+  "promptText": "Smoking should be made completely illegal. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-103",
+  "title": "Alternative medicine",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Health",
+  "promptText": "Some people prefer traditional or alternative medicine to modern medical treatment. Others think only scientifically tested treatments should be used. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-104",
+  "title": "Stress at work",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Health",
+  "promptText": "Many workers today suffer from stress. What are the causes of this, and how can employers and employees reduce it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-105",
+  "title": "Life expectancy",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Health",
+  "promptText": "People are living longer than ever before. What are the reasons for this? What challenges does it create for society?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-106",
+  "title": "Equal pay",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Work",
+  "promptText": "Governments should make it a legal requirement for companies to publish what they pay all their employees. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-107",
+  "title": "Working for a large or small company",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Work",
+  "promptText": "Some people prefer to work for large international companies, while others prefer small local businesses. Discuss the advantages of both and give your own opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-108",
+  "title": "Skills shortages",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Work",
+  "promptText": "Many industries report that they cannot find workers with the right skills. Why is this happening, and what can be done about it?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-109",
+  "title": "Automation in factories",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Work",
+  "promptText": "Robots and machines are replacing many factory workers. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-110",
+  "title": "Public spending on the elderly",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Society",
+  "promptText": "Governments should spend more money on services for older people than on services for young people. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-111",
+  "title": "Crime prevention",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Society",
+  "promptText": "Some people think the best way to reduce crime is longer prison sentences, while others believe education and job training are more effective. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-112",
+  "title": "Moving to cities",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Society",
+  "promptText": "Many people around the world are moving from rural areas to cities. Why is this happening? What problems does it cause?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-113",
+  "title": "Living in a multicultural society",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Society",
+  "promptText": "Many cities today are home to people from many different cultures. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-114",
+  "title": "Learning history",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Culture",
+  "promptText": "History is one of the most important subjects at school. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-115",
+  "title": "Traditional or modern architecture",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Culture",
+  "promptText": "Some people think new buildings should follow traditional local styles, while others prefer modern designs. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-116",
+  "title": "Loss of traditional skills",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Culture",
+  "promptText": "Traditional skills such as handicrafts and local cooking are disappearing in many countries. Why is this happening, and what can be done to preserve them?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-117",
+  "title": "Celebrity news",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Media",
+  "promptText": "Newspapers and websites give too much attention to the private lives of celebrities. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-118",
+  "title": "Podcasts and radio",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Media",
+  "promptText": "Podcasts have become very popular in recent years. Why do you think this is? Will they replace traditional radio?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-119",
+  "title": "Free public transport",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Government",
+  "promptText": "Public transport in cities should be free for everyone. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-120",
+  "title": "National service",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Government",
+  "promptText": "Some people believe all young people should do a year of national service, either military or community work. Others disagree. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-121",
+  "title": "Antibiotic resistance",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Science",
+  "promptText": "Many antibiotics are becoming less effective because bacteria are developing resistance. Why is this happening, and what can be done?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-122",
+  "title": "Organic food",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Agriculture",
+  "promptText": "Organic food is a luxury that most families cannot afford, and governments should not encourage it. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-123",
+  "title": "Urban farming",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Agriculture",
+  "promptText": "In some cities, people are growing food on rooftops and in community gardens. Why is this becoming popular? Can urban farming make a real contribution to food supplies?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-124",
+  "title": "Advertising in schools",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Business",
+  "promptText": "Some schools accept money from companies in exchange for displaying advertisements. Do the advantages of this outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-125",
+  "title": "Shopping on Sundays",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Business",
+  "promptText": "Shops should be closed on one day each week so that workers can rest. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ {
+  "id": "bank-w2-126",
+  "title": "Global brands",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Business",
+  "promptText": "Some people think global brands bring better products to consumers, while others believe they damage local businesses and culture. Discuss both views and give your opinion.",
+  "minimumWords": 250
+ }
+]

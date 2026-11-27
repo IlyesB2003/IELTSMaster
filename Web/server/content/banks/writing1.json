@@ -1,0 +1,2841 @@
+[
+ {
+  "id": "bank-w1-001",
+  "title": "Cinema attendance by age group",
+  "visualType": "Line Chart",
+  "instructions": "The line graph shows the percentage of people in three age groups in Britain who went to the cinema at least once a month between 1990 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "242B70C3-3122-5B17-8F2B-FF24A599ADDE",
+    "series": "15–24",
+    "category": "1990",
+    "value": 48.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "B425981A-3A4F-515B-BF0A-1DCF15856D24",
+    "series": "25–44",
+    "category": "1990",
+    "value": 22.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "7C520B33-7F86-5F07-BD28-A8AF0A5EF5FD",
+    "series": "45 and over",
+    "category": "1990",
+    "value": 9.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "3B17DC40-C756-5F5D-978D-92DCD1C5755E",
+    "series": "15–24",
+    "category": "1995",
+    "value": 55.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "4439B214-7666-5B79-9326-6E146C019B0C",
+    "series": "25–44",
+    "category": "1995",
+    "value": 26.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "B4450945-106C-50A4-92F7-F38DADE57F1B",
+    "series": "45 and over",
+    "category": "1995",
+    "value": 11.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "A9A14974-F38E-5E95-8471-35C4FB642055",
+    "series": "15–24",
+    "category": "2000",
+    "value": 61.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "4010FA12-7E83-52C8-B230-D191A6C60DCC",
+    "series": "25–44",
+    "category": "2000",
+    "value": 30.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "F63B5732-5862-50B8-97B5-DF4F97E4E4C0",
+    "series": "45 and over",
+    "category": "2000",
+    "value": 14.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "C2E4ED99-BDA7-5C9C-8FC4-5146BD0E14C2",
+    "series": "15–24",
+    "category": "2005",
+    "value": 58.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "5260B5A1-707F-5F23-9B3E-C1F959ED92DE",
+    "series": "25–44",
+    "category": "2005",
+    "value": 33.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "28BD4D0E-CBEE-5870-9477-898B7A508B70",
+    "series": "45 and over",
+    "category": "2005",
+    "value": 17.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "135305FD-4CE6-5D48-950C-A90DF8BF74C0",
+    "series": "15–24",
+    "category": "2010",
+    "value": 52.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "95BE16DD-F4B3-5AFE-BF78-0E1E373F8BC0",
+    "series": "25–44",
+    "category": "2010",
+    "value": 35.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "78D5A2B6-262C-5590-8D73-E0156AC5A0F7",
+    "series": "45 and over",
+    "category": "2010",
+    "value": 21.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "5ABB83ED-0325-5CA4-9894-CE10A30E8179",
+    "series": "15–24",
+    "category": "2015",
+    "value": 45.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "E8F8F733-6DB0-5833-8017-104BEF0CC963",
+    "series": "25–44",
+    "category": "2015",
+    "value": 34.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "0FAB207A-2153-5082-9254-C7BABE9D6F63",
+    "series": "45 and over",
+    "category": "2015",
+    "value": 24.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "DED6BFE0-9FAB-53C2-B4C4-36C630C24A20",
+    "series": "15–24",
+    "category": "2020",
+    "value": 30.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "94A1E117-0276-5DC4-9F13-14DAD732C393",
+    "series": "25–44",
+    "category": "2020",
+    "value": 25.0,
+    "unit": "% attending monthly"
+   },
+   {
+    "id": "053EB4D2-12CC-563A-B70E-2293B491571D",
+    "series": "45 and over",
+    "category": "2020",
+    "value": 18.0,
+    "unit": "% attending monthly"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Young people attended most throughout, but their rate fell sharply after 2000.",
+   "Attendance among the 45+ group rose steadily until 2015.",
+   "All groups dropped in 2020."
+  ]
+ },
+ {
+  "id": "bank-w1-002",
+  "title": "Household spending on four categories",
+  "visualType": "Bar Chart",
+  "instructions": "The bar chart compares the proportion of household income spent on housing, food, transport and leisure in four countries in 2022. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "1B87CA96-E54E-5948-90F4-EAE7830ACEBD",
+    "series": "Housing",
+    "category": "Canada",
+    "value": 31.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "054F7C4A-CD69-5D17-8DD0-BA1351A52E68",
+    "series": "Food",
+    "category": "Canada",
+    "value": 11.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "46E18FC5-BA13-5137-8ADD-7C6528E32F52",
+    "series": "Transport",
+    "category": "Canada",
+    "value": 16.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "AFEAC1D5-F8C8-5D80-8975-15EEB48C95C7",
+    "series": "Leisure",
+    "category": "Canada",
+    "value": 9.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "EDAF6BAB-3323-5373-B8AD-8E958EA047F5",
+    "series": "Housing",
+    "category": "Japan",
+    "value": 24.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "B1CFF4DC-C9D2-5483-854F-D72117C49794",
+    "series": "Food",
+    "category": "Japan",
+    "value": 19.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "40EAB298-D7EC-5688-A718-EE3751D01E4C",
+    "series": "Transport",
+    "category": "Japan",
+    "value": 10.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "E5EEAF4A-8F34-588A-9875-EB30E0BE15EB",
+    "series": "Leisure",
+    "category": "Japan",
+    "value": 11.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "74E31120-C8F9-5BD2-8C80-B741B56C9478",
+    "series": "Housing",
+    "category": "Mexico",
+    "value": 22.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "29D6E3C0-66F0-54FF-9429-4E27256BB02D",
+    "series": "Food",
+    "category": "Mexico",
+    "value": 27.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "08D04FBA-C7E1-5DD5-BE3F-B395EF45497D",
+    "series": "Transport",
+    "category": "Mexico",
+    "value": 18.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "BEBE67C7-4DAF-53D9-99A0-753607B156D2",
+    "series": "Leisure",
+    "category": "Mexico",
+    "value": 5.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "4D02FC4A-6FDA-5B25-9BA2-29F6E0F8563E",
+    "series": "Housing",
+    "category": "Spain",
+    "value": 33.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "47251524-6D9B-534C-8040-4AB91152D216",
+    "series": "Food",
+    "category": "Spain",
+    "value": 14.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "D27A66B9-B504-5FD6-8B62-92ED9D00686E",
+    "series": "Transport",
+    "category": "Spain",
+    "value": 12.0,
+    "unit": "% of household budget"
+   },
+   {
+    "id": "C114C77C-FDAD-5EE8-A636-6E1C8168007F",
+    "series": "Leisure",
+    "category": "Spain",
+    "value": 10.0,
+    "unit": "% of household budget"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Housing was the largest expense in every country except Mexico, where food took the biggest share.",
+   "Leisure accounted for the smallest proportion everywhere."
+  ]
+ },
+ {
+  "id": "bank-w1-003",
+  "title": "How students travel to university",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts show how students at one university travelled to campus in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "59AA4E48-7946-517C-963C-A50C35ACE535",
+    "series": "2005",
+    "category": "Car",
+    "value": 41.0,
+    "unit": "%"
+   },
+   {
+    "id": "9E4671B7-6E69-5356-81DB-D80EFD2B5CC1",
+    "series": "2005",
+    "category": "Bus",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "E2AA5ADF-7382-51FD-9A2A-D277B041A5FC",
+    "series": "2005",
+    "category": "Bicycle",
+    "value": 8.0,
+    "unit": "%"
+   },
+   {
+    "id": "4FF89B39-8275-521F-9DF9-C831E86419E8",
+    "series": "2005",
+    "category": "Walking",
+    "value": 19.0,
+    "unit": "%"
+   },
+   {
+    "id": "D365BB33-A47B-5358-A38B-72D3B30A83C5",
+    "series": "2005",
+    "category": "Train",
+    "value": 5.0,
+    "unit": "%"
+   },
+   {
+    "id": "5DB067A6-794A-5EED-8E93-4CB4BDABD7C9",
+    "series": "2025",
+    "category": "Car",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "34F16F19-C939-5856-B59D-0F314CA173A7",
+    "series": "2025",
+    "category": "Bus",
+    "value": 30.0,
+    "unit": "%"
+   },
+   {
+    "id": "CD8FDAB2-A56A-52DE-8CAD-330015298EEE",
+    "series": "2025",
+    "category": "Bicycle",
+    "value": 24.0,
+    "unit": "%"
+   },
+   {
+    "id": "76C57110-0131-5597-8BF5-65B7A6D856F8",
+    "series": "2025",
+    "category": "Walking",
+    "value": 17.0,
+    "unit": "%"
+   },
+   {
+    "id": "181794BB-8F99-5AF4-AF27-B0F8950C6D4F",
+    "series": "2025",
+    "category": "Train",
+    "value": 11.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Car use more than halved, losing its position as the most common method.",
+   "Cycling tripled; bus became the most popular choice."
+  ]
+ },
+ {
+  "id": "bank-w1-004",
+  "title": "Internet users in five countries",
+  "visualType": "Table",
+  "instructions": "The table shows the number of internet users in five countries in 2000, 2010 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "304F6EF1-D826-5232-BCEA-9F9CA8A935CC",
+    "series": "2000",
+    "category": "Brazil",
+    "value": 5.0,
+    "unit": "millions"
+   },
+   {
+    "id": "03252F2D-4ACB-5C69-948D-97735EDE34A3",
+    "series": "2010",
+    "category": "Brazil",
+    "value": 81.0,
+    "unit": "millions"
+   },
+   {
+    "id": "2A8E03CA-011A-54FC-B2AE-A663F69BF651",
+    "series": "2020",
+    "category": "Brazil",
+    "value": 171.0,
+    "unit": "millions"
+   },
+   {
+    "id": "ABB65F6F-0CAE-53F5-964F-187918F6F836",
+    "series": "2000",
+    "category": "Egypt",
+    "value": 0.5,
+    "unit": "millions"
+   },
+   {
+    "id": "8D222FCF-EE2B-5077-BD48-8DB64C904C9D",
+    "series": "2010",
+    "category": "Egypt",
+    "value": 22.0,
+    "unit": "millions"
+   },
+   {
+    "id": "E865C3B4-404B-5B6A-A9C0-BE4697F9AF2B",
+    "series": "2020",
+    "category": "Egypt",
+    "value": 72.0,
+    "unit": "millions"
+   },
+   {
+    "id": "C680A48E-0AC1-5A13-8D87-933221956DEF",
+    "series": "2000",
+    "category": "Germany",
+    "value": 24.0,
+    "unit": "millions"
+   },
+   {
+    "id": "17232E80-CB31-5912-8975-0C5D69EF8D5D",
+    "series": "2010",
+    "category": "Germany",
+    "value": 67.0,
+    "unit": "millions"
+   },
+   {
+    "id": "824F88E6-510A-5F1B-B05C-5A0578F70F65",
+    "series": "2020",
+    "category": "Germany",
+    "value": 78.0,
+    "unit": "millions"
+   },
+   {
+    "id": "510200D4-16D7-5E90-989B-CBB65EDAE69A",
+    "series": "2000",
+    "category": "Indonesia",
+    "value": 2.0,
+    "unit": "millions"
+   },
+   {
+    "id": "5840CD5B-64A0-50B9-B9E2-2B9D6BCB5164",
+    "series": "2010",
+    "category": "Indonesia",
+    "value": 26.0,
+    "unit": "millions"
+   },
+   {
+    "id": "7091069E-C70B-5932-BFEA-4D7C817F6F62",
+    "series": "2020",
+    "category": "Indonesia",
+    "value": 175.0,
+    "unit": "millions"
+   },
+   {
+    "id": "E4419FC0-CDBF-5050-8340-EA5FC471B7BA",
+    "series": "2000",
+    "category": "Nigeria",
+    "value": 0.2,
+    "unit": "millions"
+   },
+   {
+    "id": "29802F1B-AD1F-55EF-BAFE-9CD680952F88",
+    "series": "2010",
+    "category": "Nigeria",
+    "value": 19.0,
+    "unit": "millions"
+   },
+   {
+    "id": "CD528D8B-7132-5661-8665-0E65C5D9EEB1",
+    "series": "2020",
+    "category": "Nigeria",
+    "value": 109.0,
+    "unit": "millions"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Every country saw growth, but it was far faster in the developing economies.",
+   "Germany grew slowly after 2010, while Indonesia overtook Brazil by 2020."
+  ]
+ },
+ {
+  "id": "bank-w1-005",
+  "title": "How chocolate is made",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows the stages in the production of chocolate from cocoa beans. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Ripe cocoa pods are harvested by hand from trees",
+   "Beans are removed and left to ferment for about a week",
+   "Fermented beans are dried in the sun",
+   "Dried beans are packed and shipped to factories",
+   "Beans are roasted at high temperature",
+   "Shells are removed and the beans are ground into a paste",
+   "Sugar and milk are mixed in and the mixture is refined",
+   "Liquid chocolate is poured into moulds and cooled"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, beginning on the farm and ending in the factory.",
+   "The first half takes place where the cocoa is grown; the second involves industrial processing."
+  ]
+ },
+ {
+  "id": "bank-w1-006",
+  "title": "Changes to a seaside village",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show the village of Portwell in 1980 and today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "1980|NW|Fishing huts",
+   "1980|N|Beach",
+   "1980|NE|Sand dunes",
+   "1980|W|Farmland",
+   "1980|C|Main street with shops",
+   "1980|E|Farmland",
+   "1980|S|Road to town",
+   "1980|SE|Woodland",
+   "Today|NW|Marina",
+   "Today|N|Beach",
+   "Today|NE|Hotel and car park",
+   "Today|W|Holiday apartments",
+   "Today|C|Main street (pedestrian only)",
+   "Today|E|Golf course",
+   "Today|S|Dual carriageway",
+   "Today|SE|Woodland (smaller)",
+   "Today|SW|Supermarket"
+  ],
+  "keyOverviewPoints": [
+   "Portwell has changed from a fishing and farming village into a tourist resort.",
+   "Most farmland and the dunes have been replaced, though the beach remains."
+  ]
+ },
+ {
+  "id": "bank-w1-007",
+  "title": "Average house prices in three cities",
+  "visualType": "Line Chart",
+  "instructions": "The graph shows average house prices in three cities between 2010 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "D8F9994B-D06F-5593-B17C-72BB9CA4928E",
+    "series": "Northport",
+    "category": "2010",
+    "value": 210.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "12291BF8-6055-551A-9337-2B77A3922695",
+    "series": "Easton",
+    "category": "2010",
+    "value": 220.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "150E291D-A0EC-5FB4-BE8E-ADDB66FB243D",
+    "series": "Southville",
+    "category": "2010",
+    "value": 245.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "C6350CDA-5FAD-587D-AE05-B702310EA13D",
+    "series": "Northport",
+    "category": "2012",
+    "value": 150.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "0577846C-8DFB-5197-A8C8-FFCFB9E9185D",
+    "series": "Easton",
+    "category": "2012",
+    "value": 148.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "DD26B803-37AF-5E0D-AE1D-DAB224B8BDD3",
+    "series": "Southville",
+    "category": "2012",
+    "value": 150.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "C04F5E34-DDDA-593A-ACAB-6E27D824183C",
+    "series": "Northport",
+    "category": "2014",
+    "value": 180.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "DD63D57C-181B-5E99-9AC9-DD652C983A41",
+    "series": "Easton",
+    "category": "2014",
+    "value": 170.0,
+    "unit": "thousand dollars"
+   },
+   {
+    "id": "A17D3E67-3BE8-55C0-AF09-739D97D212BC",
+    "series": "Southville",
+    "category": "2014",
+    "value": 165.0,
+    "unit": "thousand dollars"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Prices rose overall in all three cities, most dramatically in Northport.",
+   "Southville fell at first before rising steeply after 2018."
+  ]
+ },
+ {
+  "id": "bank-w1-008",
+  "title": "Hours of sleep by age",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows the average number of hours men and women in five age groups slept per night in one country. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "5BE7692D-5AC8-57D8-8587-69B23A02A263",
+    "series": "Men",
+    "category": "18–24",
+    "value": 7.6,
+    "unit": "hours per night"
+   },
+   {
+    "id": "D715639C-4686-5D57-AC94-25E5198F187D",
+    "series": "Women",
+    "category": "18–24",
+    "value": 7.9,
+    "unit": "hours per night"
+   },
+   {
+    "id": "CA1964D2-E4FC-59BA-A6D8-D33864DE3844",
+    "series": "Men",
+    "category": "25–34",
+    "value": 7.1,
+    "unit": "hours per night"
+   },
+   {
+    "id": "B3BB8B6A-8106-5D54-A2E4-50DB9C1B0DF2",
+    "series": "Women",
+    "category": "25–34",
+    "value": 7.0,
+    "unit": "hours per night"
+   },
+   {
+    "id": "11AF0013-B900-5BB8-B2CD-8C0E365A8AE7",
+    "series": "Men",
+    "category": "35–49",
+    "value": 6.6,
+    "unit": "hours per night"
+   },
+   {
+    "id": "90BFB461-5CC5-5A17-8F6A-07ACE1CF8DA6",
+    "series": "Women",
+    "category": "35–49",
+    "value": 6.5,
+    "unit": "hours per night"
+   },
+   {
+    "id": "29886319-331B-501A-BF27-005DC23030D5",
+    "series": "Men",
+    "category": "50–64",
+    "value": 6.8,
+    "unit": "hours per night"
+   },
+   {
+    "id": "1A746B5F-C26A-5C48-815C-FEEF48D81162",
+    "series": "Women",
+    "category": "50–64",
+    "value": 6.9,
+    "unit": "hours per night"
+   },
+   {
+    "id": "5660FA00-89D1-5BFB-9AC1-160B2D33319B",
+    "series": "Men",
+    "category": "65+",
+    "value": 7.4,
+    "unit": "hours per night"
+   },
+   {
+    "id": "23CFC17F-3FF1-5774-99AE-AE167337A718",
+    "series": "Women",
+    "category": "65+",
+    "value": 7.2,
+    "unit": "hours per night"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Sleep fell from the youngest group to the middle-aged before recovering in older age.",
+   "Differences between men and women were small at every age."
+  ]
+ },
+ {
+  "id": "bank-w1-009",
+  "title": "Causes of food waste in homes",
+  "visualType": "Pie Chart",
+  "instructions": "The pie chart shows the main reasons why food is thrown away in homes in one European country. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "A5A5359A-8010-5D77-BD9F-BF7AD38B9E33",
+    "series": "All households",
+    "category": "Not used in time",
+    "value": 38.0,
+    "unit": "%"
+   },
+   {
+    "id": "EFFFD517-16D0-5082-AA7B-6297D4C67F16",
+    "series": "All households",
+    "category": "Cooked too much",
+    "value": 24.0,
+    "unit": "%"
+   },
+   {
+    "id": "CEA7F8C9-9E0D-55E1-B1D4-2B62163A5AB7",
+    "series": "All households",
+    "category": "Past the date label",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "73569ECA-13BB-5A13-AE11-CCF4A9BED268",
+    "series": "All households",
+    "category": "Did not like taste",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "E142B1D6-73F3-527D-BDCD-7B5EE7E1C65B",
+    "series": "All households",
+    "category": "Bought too much",
+    "value": 11.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Food not being used in time is the leading cause, accounting for over a third.",
+   "Taste is the least common reason."
+  ]
+ },
+ {
+  "id": "bank-w1-010",
+  "title": "Museum visitors by month",
+  "visualType": "Table",
+  "instructions": "The table shows the number of visitors to three museums in one city during four months of 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "F2D8571E-5621-5866-B83F-003F73D0C31B",
+    "series": "Science Museum",
+    "category": "January",
+    "value": 42.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "DBB95674-2B2F-5006-8B7B-F0B48E28725E",
+    "series": "Art Gallery",
+    "category": "January",
+    "value": 18.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "76BB52C9-CC00-50A1-9DD5-45D4457DCEC0",
+    "series": "History Museum",
+    "category": "January",
+    "value": 25.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "8FE1061E-1D51-5E62-92FD-DF85155F4FDC",
+    "series": "Science Museum",
+    "category": "April",
+    "value": 55.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "07E33823-36D7-510B-AECD-DB405814A219",
+    "series": "Art Gallery",
+    "category": "April",
+    "value": 24.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "11821CDD-9E3F-5046-988A-6556607FFF79",
+    "series": "History Museum",
+    "category": "April",
+    "value": 31.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "DF787FBB-1012-5B85-BCBF-87D8FBA58B23",
+    "series": "Science Museum",
+    "category": "July",
+    "value": 96.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "7F97E70C-9B63-5112-8D93-70D709D0BBF8",
+    "series": "Art Gallery",
+    "category": "July",
+    "value": 30.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "3BD9C10A-71C5-5AD7-A591-A990C52589B3",
+    "series": "History Museum",
+    "category": "July",
+    "value": 48.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "EE95C8BE-17C3-5557-8334-B5CC19BCB294",
+    "series": "Science Museum",
+    "category": "October",
+    "value": 51.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "9DBD9821-D802-55A4-BBF0-B898AD83C6EE",
+    "series": "Art Gallery",
+    "category": "October",
+    "value": 27.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "12231F83-70A5-5F27-8437-EC729E78A43A",
+    "series": "History Museum",
+    "category": "October",
+    "value": 29.0,
+    "unit": "thousands"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The Science Museum was the most visited in every month.",
+   "July was the busiest month for all three, especially the Science Museum."
+  ]
+ },
+ {
+  "id": "bank-w1-011",
+  "title": "Recycling glass bottles",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows how glass bottles are recycled. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Used bottles are collected from homes and bottle banks",
+   "Bottles are taken to a recycling plant",
+   "Glass is sorted by colour and cleaned",
+   "Clean glass is crushed into small pieces called cullet",
+   "Cullet is melted in a furnace with sand and other materials",
+   "Molten glass is moulded into new bottles",
+   "New bottles are filled and sent to shops"
+  ],
+  "keyOverviewPoints": [
+   "Recycling glass is a cyclical process with seven stages.",
+   "It begins with collection and ends with new bottles returning to shops."
+  ]
+ },
+ {
+  "id": "bank-w1-012",
+  "title": "Redevelopment of a factory site",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show an old factory site and the plan for its redevelopment. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Now|NW|Warehouse",
+   "Now|N|River",
+   "Now|NE|Warehouse",
+   "Now|W|Car park",
+   "Now|C|Factory building",
+   "Now|E|Loading yard",
+   "Now|S|Main road",
+   "Plan|NW|Apartments",
+   "Plan|N|Riverside walk",
+   "Plan|NE|Apartments",
+   "Plan|W|Primary school",
+   "Plan|C|Park with lake",
+   "Plan|E|Shops and cafés",
+   "Plan|S|Main road",
+   "Plan|SW|Bus stop",
+   "Plan|SE|Health centre"
+  ],
+  "keyOverviewPoints": [
+   "The industrial site will become a residential area with community facilities.",
+   "The factory will be replaced by a park at the centre."
+  ]
+ },
+ {
+  "id": "bank-w1-013",
+  "title": "Rainfall and temperature in Darwin",
+  "visualType": "Combined Visual Data",
+  "instructions": "The chart shows average monthly rainfall and temperature in the Australian city of Darwin. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "1DF02EE3-9BBE-5C97-8733-CBD03116AC97",
+    "series": "Rainfall (mm)",
+    "category": "Jan",
+    "value": 420.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "44087318-E87B-5F42-B8BC-ABFAF0836657",
+    "series": "~Temperature (°C)",
+    "category": "Jan",
+    "value": 29.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "A90A135C-EE39-523E-8BCE-600B8F53DBF7",
+    "series": "Rainfall (mm)",
+    "category": "Mar",
+    "value": 320.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "309972F4-7777-558E-92FB-7CC0032EC8B8",
+    "series": "~Temperature (°C)",
+    "category": "Mar",
+    "value": 29.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "19C110A4-537A-568A-924B-9E1FA8D51A25",
+    "series": "Rainfall (mm)",
+    "category": "May",
+    "value": 20.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "FA7488EA-43EB-55CD-9F48-3C3CB044F780",
+    "series": "~Temperature (°C)",
+    "category": "May",
+    "value": 28.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "721349B9-96B9-52E0-81B6-908F0F10874D",
+    "series": "Rainfall (mm)",
+    "category": "Jul",
+    "value": 1.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "15FB8737-8D46-5628-87C9-1107DC4EE0F4",
+    "series": "~Temperature (°C)",
+    "category": "Jul",
+    "value": 25.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "0858AB99-7B46-5E28-9AF8-D8E8882C7D9D",
+    "series": "Rainfall (mm)",
+    "category": "Sep",
+    "value": 15.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "E30EAA45-991E-5752-897A-C912D4D40A81",
+    "series": "~Temperature (°C)",
+    "category": "Sep",
+    "value": 28.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "2092AB24-B776-5AF5-94D2-097702030E92",
+    "series": "Rainfall (mm)",
+    "category": "Nov",
+    "value": 140.0,
+    "unit": "mm / °C"
+   },
+   {
+    "id": "B7D345EA-CFB7-5441-AB39-0B68B2549B34",
+    "series": "~Temperature (°C)",
+    "category": "Nov",
+    "value": 30.0,
+    "unit": "mm / °C"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Darwin has a very wet season and an almost completely dry season.",
+   "Temperatures stay warm all year, varying by only about five degrees."
+  ]
+ },
+ {
+  "id": "bank-w1-014",
+  "title": "Electric car sales",
+  "visualType": "Line Chart",
+  "instructions": "The graph shows electric cars as a percentage of new car sales in four countries from 2015 to 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "5E1575BE-4720-5436-83A7-19B029612C93",
+    "series": "Norway",
+    "category": "2015",
+    "value": 22.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "20B8BBE3-E575-5BA8-B36F-872751DB0176",
+    "series": "China",
+    "category": "2015",
+    "value": 39.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "FD9D5EA6-976F-5430-AA9A-9604382104ED",
+    "series": "Germany",
+    "category": "2015",
+    "value": 56.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "C1ACC145-6A92-5427-B8D9-2169571DFD4A",
+    "series": "USA",
+    "category": "2015",
+    "value": 86.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "28B82C74-34C2-5BE9-B1DD-B50B8E015FA2",
+    "series": "Norway",
+    "category": "2017",
+    "value": 1.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "4C5431E2-039A-5C9E-9A56-C5575B611BD0",
+    "series": "China",
+    "category": "2017",
+    "value": 2.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "67344A7A-15E4-51A5-AD52-8B3C507B3C2B",
+    "series": "Germany",
+    "category": "2017",
+    "value": 5.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "21C83F9B-2186-55C1-8524-6A090C29EE1A",
+    "series": "USA",
+    "category": "2017",
+    "value": 16.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "48B71539-BC04-5858-9828-18F65ED00A7B",
+    "series": "Norway",
+    "category": "2019",
+    "value": 1.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "593960A5-24DE-502E-85F5-37CC4BC75A37",
+    "series": "China",
+    "category": "2019",
+    "value": 2.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "6F5B2842-7B3E-57BF-A493-8EB738077922",
+    "series": "Germany",
+    "category": "2019",
+    "value": 3.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "819A102E-82C7-518D-B5E6-6D3A8F2A23CF",
+    "series": "USA",
+    "category": "2019",
+    "value": 26.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "14380DAC-DECF-554D-9D28-55D02A74B354",
+    "series": "Norway",
+    "category": "2021",
+    "value": 1.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "55FB624C-30A1-5C57-86E8-CB0CB8F6BE14",
+    "series": "China",
+    "category": "2021",
+    "value": 1.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "81D73BC1-8B9D-5D3C-96D9-EAD5060A48FA",
+    "series": "Germany",
+    "category": "2021",
+    "value": 2.0,
+    "unit": "% of new car sales"
+   },
+   {
+    "id": "79A7F696-B9B4-5D81-A92E-243C587F29D9",
+    "series": "USA",
+    "category": "2021",
+    "value": 5.0,
+    "unit": "% of new car sales"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Norway led throughout and electric cars became almost all new sales there.",
+   "China rose fastest after 2019, while Germany fell back after 2021."
+  ]
+ },
+ {
+  "id": "bank-w1-015",
+  "title": "Reasons for using public libraries",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows the main reasons why adults and children used public libraries in one city in 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "CC116125-045A-5865-BE52-F0988DEEC19C",
+    "series": "Adults",
+    "category": "Borrowing books",
+    "value": 62.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "67F9B7F2-3F53-56E5-8F36-44C102B0B255",
+    "series": "Children",
+    "category": "Borrowing books",
+    "value": 78.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "84C95647-999D-5409-8A0C-A5CAF31A6D2A",
+    "series": "Adults",
+    "category": "Studying",
+    "value": 28.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "9F528358-3AF7-5363-80B6-46FEADC5D9E7",
+    "series": "Children",
+    "category": "Studying",
+    "value": 41.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "E316B262-6F01-5195-B522-009C53B4B6DB",
+    "series": "Adults",
+    "category": "Using computers",
+    "value": 35.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "5BE3A5BF-EB13-5596-B338-458AF9C36B0F",
+    "series": "Children",
+    "category": "Using computers",
+    "value": 12.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "B1E288A8-454D-532E-A114-ABFC5FF91F94",
+    "series": "Adults",
+    "category": "Events and classes",
+    "value": 19.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "870DD90D-44C8-54F5-B90F-66653FC10CF6",
+    "series": "Children",
+    "category": "Events and classes",
+    "value": 33.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "74BB0C83-11A1-50AA-8AE0-4DAD5BD79FA4",
+    "series": "Adults",
+    "category": "Meeting friends",
+    "value": 8.0,
+    "unit": "% of library users"
+   },
+   {
+    "id": "49EF57DB-24C6-5101-955A-B6787708F9A0",
+    "series": "Children",
+    "category": "Meeting friends",
+    "value": 25.0,
+    "unit": "% of library users"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Borrowing books was the main reason for both groups.",
+   "Children used libraries more for social and study purposes; adults more for computers."
+  ]
+ },
+ {
+  "id": "bank-w1-016",
+  "title": "Sources of energy used in homes",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts compare the sources of energy used for heating homes in one country in 1995 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "98C76844-87CF-5703-A3CA-F9D7B9E1660B",
+    "series": "1995",
+    "category": "Gas",
+    "value": 52.0,
+    "unit": "%"
+   },
+   {
+    "id": "727722C3-110D-5993-AA01-55140D865554",
+    "series": "1995",
+    "category": "Oil",
+    "value": 26.0,
+    "unit": "%"
+   },
+   {
+    "id": "078BC2A5-3DA5-54EC-8B5B-01E9A964CD82",
+    "series": "1995",
+    "category": "Electricity",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "1F559A86-7E4D-54A6-A7F1-C2C9AA8D69E1",
+    "series": "1995",
+    "category": "Wood",
+    "value": 7.0,
+    "unit": "%"
+   },
+   {
+    "id": "99BAD232-4DA3-5EDA-AEE1-BCC823905938",
+    "series": "1995",
+    "category": "Heat pumps",
+    "value": 3.0,
+    "unit": "%"
+   },
+   {
+    "id": "A5A0B803-843D-55E8-ACB9-EBA29F0CCE03",
+    "series": "2025",
+    "category": "Gas",
+    "value": 41.0,
+    "unit": "%"
+   },
+   {
+    "id": "1A1804EB-74D2-5291-B7B1-CF6DE7AB6B43",
+    "series": "2025",
+    "category": "Oil",
+    "value": 6.0,
+    "unit": "%"
+   },
+   {
+    "id": "A760F19F-4977-5115-9B70-B392A82A887E",
+    "series": "2025",
+    "category": "Electricity",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "9FDEE2A3-A1CB-5FFB-8BD5-F439A56AF37A",
+    "series": "2025",
+    "category": "Wood",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "8E008AA2-4786-5424-8B40-1E2D042A3288",
+    "series": "2025",
+    "category": "Heat pumps",
+    "value": 26.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Gas remained the main source but its share declined.",
+   "Heat pumps grew from a tiny share to the second largest, while oil almost disappeared."
+  ]
+ },
+ {
+  "id": "bank-w1-017",
+  "title": "Employment by sector",
+  "visualType": "Table",
+  "instructions": "The table shows the percentage of workers employed in agriculture, industry and services in three countries in 1970 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "823A5A1E-0834-588A-962F-F26E36D6B10A",
+    "series": "Agriculture 1970",
+    "category": "South Korea",
+    "value": 50.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "CE6E5D19-2220-5C57-853E-10F31A86C955",
+    "series": "Agriculture 2020",
+    "category": "South Korea",
+    "value": 5.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "91FBAC49-95A4-5F6F-A95A-C73846C7BAE1",
+    "series": "Industry 1970",
+    "category": "South Korea",
+    "value": 17.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "8A36E14B-A4A0-5B8C-9E46-86ABCE185C77",
+    "series": "Industry 2020",
+    "category": "South Korea",
+    "value": 25.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "40F73CD3-FD6A-5BC7-9010-3BDE2DF11905",
+    "series": "Services 1970",
+    "category": "South Korea",
+    "value": 33.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "F0205F40-C60E-5268-A8E3-64C9BEEF1BBC",
+    "series": "Services 2020",
+    "category": "South Korea",
+    "value": 70.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "0B108C2D-035D-5E82-BA33-0B5B0F7ED1ED",
+    "series": "Agriculture 1970",
+    "category": "Italy",
+    "value": 20.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "E23EAC1C-90A9-53D7-A7B6-4A1830501394",
+    "series": "Agriculture 2020",
+    "category": "Italy",
+    "value": 4.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "76094819-7C54-52B0-9998-FB40741F8A77",
+    "series": "Industry 1970",
+    "category": "Italy",
+    "value": 39.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "692C6EE0-DAA9-5F08-BA3F-75FF783B168A",
+    "series": "Industry 2020",
+    "category": "Italy",
+    "value": 26.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "FBA2855F-844A-5A8A-BC79-E4BD9FF3AD5E",
+    "series": "Services 1970",
+    "category": "Italy",
+    "value": 41.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "92A6BA3F-0372-57A4-90C9-2819DA76D023",
+    "series": "Services 2020",
+    "category": "Italy",
+    "value": 70.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "88E9C98C-9882-5024-8F59-FC6CB6C0C1FA",
+    "series": "Agriculture 1970",
+    "category": "Algeria",
+    "value": 47.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "7B4DF85F-63E0-5E9B-9638-C4A6AB720BCC",
+    "series": "Agriculture 2020",
+    "category": "Algeria",
+    "value": 10.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "A567C4CF-523F-527C-9A6B-D1BCD944BB88",
+    "series": "Industry 1970",
+    "category": "Algeria",
+    "value": 18.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "92623A0C-D2A6-5DD8-8E21-E1483CC54774",
+    "series": "Industry 2020",
+    "category": "Algeria",
+    "value": 31.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "B05EBF59-6BCB-5537-A760-574294925921",
+    "series": "Services 1970",
+    "category": "Algeria",
+    "value": 35.0,
+    "unit": "% of workforce"
+   },
+   {
+    "id": "7217CB3A-682F-59E5-B39A-4B295C77E73A",
+    "series": "Services 2020",
+    "category": "Algeria",
+    "value": 59.0,
+    "unit": "% of workforce"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Agriculture fell sharply in all three countries.",
+   "Services became the largest employer everywhere by 2020."
+  ]
+ },
+ {
+  "id": "bank-w1-018",
+  "title": "Producing olive oil",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram illustrates how olive oil is produced. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Olives are harvested from trees in autumn",
+   "Leaves and twigs are removed and the olives are washed",
+   "Olives are crushed into a paste, including the stones",
+   "The paste is slowly mixed for 30–40 minutes",
+   "The paste is spun in a centrifuge to separate oil from water and solids",
+   "Oil is left to settle in tanks",
+   "Oil is filtered and bottled"
+  ],
+  "keyOverviewPoints": [
+   "Olive oil production involves seven main stages.",
+   "Most of the process is mechanical and no heat is added."
+  ]
+ },
+ {
+  "id": "bank-w1-019",
+  "title": "Visitors to a national park",
+  "visualType": "Line Chart",
+  "instructions": "The graph shows the number of visitors to a national park by season between 2016 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "9E950D9F-608E-599C-BC41-A9226D4528E0",
+    "series": "Summer",
+    "category": "2016",
+    "value": 310.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "91FA409F-5F93-5FED-8AA8-083C130BFCCF",
+    "series": "Winter",
+    "category": "2016",
+    "value": 350.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "B7726278-92F2-577A-B8FE-9797AF38F21F",
+    "series": "Summer",
+    "category": "2018",
+    "value": 40.0,
+    "unit": "thousands"
+   },
+   {
+    "id": "DA016930-1B3B-5B8B-8619-110738D851D0",
+    "series": "Winter",
+    "category": "2018",
+    "value": 55.0,
+    "unit": "thousands"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Summer visitors far outnumbered winter visitors throughout.",
+   "Both seasons fell sharply in 2020 before recovering to record levels."
+  ]
+ },
+ {
+  "id": "bank-w1-020",
+  "title": "Water use per person",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows average daily water use per person for four purposes in two cities. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "0A93B17C-BD16-528E-8584-81A7A0236879",
+    "series": "City A",
+    "category": "Showers and baths",
+    "value": 62.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "19903EB1-3E14-5ACE-B7AF-14E450AC0223",
+    "series": "City B",
+    "category": "Showers and baths",
+    "value": 41.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "ACE38B0D-175B-582F-9EE0-ADA6C56C2594",
+    "series": "City A",
+    "category": "Toilets",
+    "value": 38.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "6B03B17E-0C8A-5324-B2E4-607574AC9476",
+    "series": "City B",
+    "category": "Toilets",
+    "value": 30.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "69386746-8C30-5D3B-82C8-5532C86FF7F1",
+    "series": "City A",
+    "category": "Washing clothes",
+    "value": 22.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "EF835433-9600-52FD-8BBF-32DB25066160",
+    "series": "City B",
+    "category": "Washing clothes",
+    "value": 18.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "B86BC2F4-F9AD-5EF1-A3E1-FE068B45E413",
+    "series": "City A",
+    "category": "Drinking and cooking",
+    "value": 8.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "BF42F969-FA7D-55F8-B297-264ED8AB033F",
+    "series": "City B",
+    "category": "Drinking and cooking",
+    "value": 9.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "3CF0DBA8-2C08-520D-8951-53D27DC217B2",
+    "series": "City A",
+    "category": "Garden",
+    "value": 35.0,
+    "unit": "litres per day"
+   },
+   {
+    "id": "8776108D-4E53-5C3D-8216-CE3EA289DB22",
+    "series": "City B",
+    "category": "Garden",
+    "value": 4.0,
+    "unit": "litres per day"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "City A used much more water than City B, mainly because of gardens.",
+   "Bathing was the largest use in both cities."
+  ]
+ },
+ {
+  "id": "bank-w1-021",
+  "title": "Changes to a university campus",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show a university campus in 2000 and in 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "2000|NW|Sports field",
+   "2000|N|Library",
+   "2000|NE|Car park",
+   "2000|W|Lecture halls",
+   "2000|C|Lawn",
+   "2000|E|Science building",
+   "2000|S|Main entrance",
+   "2000|SW|Student housing",
+   "2025|NW|Sports centre",
+   "2025|N|Library (extended)",
+   "2025|NE|New student housing",
+   "2025|W|Lecture halls",
+   "2025|C|Lawn with café",
+   "2025|E|Science building",
+   "2025|S|Main entrance and bus station",
+   "2025|SW|Student housing",
+   "2025|SE|Innovation centre"
+  ],
+  "keyOverviewPoints": [
+   "The campus has become more developed, with new housing and research facilities.",
+   "The car park has been replaced, and public transport access improved."
+  ]
+ },
+ {
+  "id": "bank-w1-022",
+  "title": "Population and car ownership",
+  "visualType": "Combined Visual Data",
+  "instructions": "The chart shows the population of a country and the number of cars per 1,000 people between 1980 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "3CADCA3E-FDAA-570A-8EF9-120102BF65A2",
+    "series": "Population (millions)",
+    "category": "1980",
+    "value": 32.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "E3FD421A-5046-5398-909F-E52C0588B962",
+    "series": "~Cars per 1,000 people",
+    "category": "1980",
+    "value": 90.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "E27E117D-EB86-5072-9CF9-DA145D8A1C8C",
+    "series": "Population (millions)",
+    "category": "1990",
+    "value": 36.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "D6DB243B-0D8B-58F0-B063-9B0A93F2F855",
+    "series": "~Cars per 1,000 people",
+    "category": "1990",
+    "value": 160.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "8F30F005-C0ED-5325-83DE-739F94EC2711",
+    "series": "Population (millions)",
+    "category": "2000",
+    "value": 39.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "D8BC8B12-C4BA-5EE1-8B1C-938DD2A8D36F",
+    "series": "~Cars per 1,000 people",
+    "category": "2000",
+    "value": 250.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "3B67C766-3E0D-555F-A6F6-05E4C4367EEC",
+    "series": "Population (millions)",
+    "category": "2010",
+    "value": 41.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "3D5CA865-12B5-5958-96F0-6CC93A3A91EE",
+    "series": "~Cars per 1,000 people",
+    "category": "2010",
+    "value": 340.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "AB181A5B-A47B-568F-AAA5-2FD763B39EEF",
+    "series": "Population (millions)",
+    "category": "2020",
+    "value": 42.0,
+    "unit": "millions / cars per 1,000 people"
+   },
+   {
+    "id": "4E518C02-168A-5539-ACB1-914CF5BD51BA",
+    "series": "~Cars per 1,000 people",
+    "category": "2020",
+    "value": 410.0,
+    "unit": "millions / cars per 1,000 people"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Car ownership rose much faster than population.",
+   "Population growth slowed after 2000, but car ownership kept increasing steadily."
+  ]
+ },
+ {
+  "id": "bank-w1-023",
+  "title": "Results of a survey on working hours",
+  "visualType": "Table",
+  "instructions": "The table shows the results of a survey of employees in four industries about their weekly working hours. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "C57693EC-FF0E-569F-86D8-8E753B46E42B",
+    "series": "Under 35 hours",
+    "category": "Retail",
+    "value": 38.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "E1F95D80-B4E9-556C-9910-963C82F858ED",
+    "series": "35–45 hours",
+    "category": "Retail",
+    "value": 47.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "D74B29E7-B978-5C37-81BF-D32D17883758",
+    "series": "Over 45 hours",
+    "category": "Retail",
+    "value": 15.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "61AC6190-6946-5DBE-8262-0977250BC39E",
+    "series": "Under 35 hours",
+    "category": "Finance",
+    "value": 9.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "7800D0E0-5EB2-5447-A3B3-3C24653BA56B",
+    "series": "35–45 hours",
+    "category": "Finance",
+    "value": 52.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "334CE698-4470-5C81-B3CB-C89C83F63CA3",
+    "series": "Over 45 hours",
+    "category": "Finance",
+    "value": 39.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "FB2CA71E-650F-5EEE-A8B0-A0DFC3389E34",
+    "series": "Under 35 hours",
+    "category": "Healthcare",
+    "value": 21.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "D2A6A63D-4DCB-52D1-8832-C8C222309648",
+    "series": "35–45 hours",
+    "category": "Healthcare",
+    "value": 46.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "A7AD59B8-B5F0-5D56-BCED-E571F6F09387",
+    "series": "Over 45 hours",
+    "category": "Healthcare",
+    "value": 33.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "9388BD0B-6405-59F3-A94C-087E116B919B",
+    "series": "Under 35 hours",
+    "category": "Education",
+    "value": 14.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "7F18C982-0E2F-5929-B3F9-9D9C3B422681",
+    "series": "35–45 hours",
+    "category": "Education",
+    "value": 49.0,
+    "unit": "% of employees"
+   },
+   {
+    "id": "4655CD23-CD8E-5687-A610-B058CCF24166",
+    "series": "Over 45 hours",
+    "category": "Education",
+    "value": 37.0,
+    "unit": "% of employees"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "In every industry, the largest group worked 35–45 hours.",
+   "Retail had the most short-hours workers, finance the most long-hours workers."
+  ]
+ },
+ {
+  "id": "bank-w1-024",
+  "title": "Uses of mobile phones by teenagers",
+  "visualType": "Pie Chart",
+  "instructions": "The pie chart shows how teenagers in one country spent their time on mobile phones in 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "84D30F1F-A70B-5510-B0F1-C71D9D8C520E",
+    "series": "Teenagers 2024",
+    "category": "Social media",
+    "value": 34.0,
+    "unit": "%"
+   },
+   {
+    "id": "A6203C76-5350-5634-B26B-5245DC4EA727",
+    "series": "Teenagers 2024",
+    "category": "Video",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "C85B1B91-CDC8-5E9D-9966-0F5C41E901FC",
+    "series": "Teenagers 2024",
+    "category": "Games",
+    "value": 16.0,
+    "unit": "%"
+   },
+   {
+    "id": "ECFA4099-5424-5869-900F-FFD926C72AE1",
+    "series": "Teenagers 2024",
+    "category": "Messaging",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "D9C353AA-E950-59E2-8A47-DB4F348E2971",
+    "series": "Teenagers 2024",
+    "category": "Schoolwork",
+    "value": 6.0,
+    "unit": "%"
+   },
+   {
+    "id": "662CBA4E-3803-5633-B9EF-AF972B236F8B",
+    "series": "Teenagers 2024",
+    "category": "Other",
+    "value": 3.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Social media and video together made up over 60% of phone time.",
+   "Schoolwork accounted for only a small fraction."
+  ]
+ },
+ {
+  "id": "bank-w1-025",
+  "title": "Average life expectancy in four countries",
+  "visualType": "Line Chart",
+  "instructions": "The graph shows average life expectancy at birth in four countries between 1960 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "451086AC-2F85-566B-9D49-4203E1D01FB8",
+    "series": "Japan",
+    "category": "1960",
+    "value": 68.0,
+    "unit": "years"
+   },
+   {
+    "id": "03E773A4-B701-5589-AED5-5DD54D90C779",
+    "series": "Brazil",
+    "category": "1960",
+    "value": 52.0,
+    "unit": "years"
+   },
+   {
+    "id": "50AFC01F-09E2-5C09-8E1A-BADB260BBC3B",
+    "series": "Nigeria",
+    "category": "1960",
+    "value": 37.0,
+    "unit": "years"
+   },
+   {
+    "id": "65A01601-DA2C-59BD-B360-1A63E3E1F914",
+    "series": "France",
+    "category": "1960",
+    "value": 70.0,
+    "unit": "years"
+   },
+   {
+    "id": "66D756AD-CE54-50EC-8855-044C68817A25",
+    "series": "Japan",
+    "category": "1970",
+    "value": 72.0,
+    "unit": "years"
+   },
+   {
+    "id": "500B4849-1E4B-54BF-8211-FF218A8B13B9",
+    "series": "Brazil",
+    "category": "1970",
+    "value": 59.0,
+    "unit": "years"
+   },
+   {
+    "id": "CC8D6DA5-7386-5AEA-9EC8-B65CAEF17BDD",
+    "series": "Nigeria",
+    "category": "1970",
+    "value": 40.0,
+    "unit": "years"
+   },
+   {
+    "id": "01909961-9221-599D-8F3F-00F03184F8B6",
+    "series": "France",
+    "category": "1970",
+    "value": 72.0,
+    "unit": "years"
+   },
+   {
+    "id": "5FED6A83-874E-58C5-9773-563E870AD268",
+    "series": "Japan",
+    "category": "1980",
+    "value": 76.0,
+    "unit": "years"
+   },
+   {
+    "id": "617C29F5-0B9F-5CD7-9A45-F48A77DEB1F1",
+    "series": "Brazil",
+    "category": "1980",
+    "value": 63.0,
+    "unit": "years"
+   },
+   {
+    "id": "A9B6A64C-0A2E-54C2-9150-1D331AD8C4FB",
+    "series": "Nigeria",
+    "category": "1980",
+    "value": 44.0,
+    "unit": "years"
+   },
+   {
+    "id": "37944083-9F2B-574F-BE0F-250300377056",
+    "series": "France",
+    "category": "1980",
+    "value": 74.0,
+    "unit": "years"
+   },
+   {
+    "id": "736107A0-ADF3-5CE8-99D8-2930E48562F0",
+    "series": "Japan",
+    "category": "1990",
+    "value": 79.0,
+    "unit": "years"
+   },
+   {
+    "id": "FD734BA4-A0B8-57D6-A3FA-B3840F77EE41",
+    "series": "Brazil",
+    "category": "1990",
+    "value": 66.0,
+    "unit": "years"
+   },
+   {
+    "id": "AEFE39BE-1215-5566-8AFE-B0DD6AA24FF7",
+    "series": "Nigeria",
+    "category": "1990",
+    "value": 46.0,
+    "unit": "years"
+   },
+   {
+    "id": "ED397417-8BFE-5FDF-B94F-3A4D91FA4BF5",
+    "series": "France",
+    "category": "1990",
+    "value": 77.0,
+    "unit": "years"
+   },
+   {
+    "id": "02616E74-6A2A-599B-80F6-30BDA07F8B61",
+    "series": "Japan",
+    "category": "2000",
+    "value": 81.0,
+    "unit": "years"
+   },
+   {
+    "id": "AE7D16EC-BAA3-5342-99F0-EDB6B99199DE",
+    "series": "Brazil",
+    "category": "2000",
+    "value": 70.0,
+    "unit": "years"
+   },
+   {
+    "id": "6C2B4117-65E2-5FE7-9F7A-C7F841471F8B",
+    "series": "Nigeria",
+    "category": "2000",
+    "value": 46.0,
+    "unit": "years"
+   },
+   {
+    "id": "60662727-D21C-537F-9AC8-587F8650CB62",
+    "series": "France",
+    "category": "2000",
+    "value": 79.0,
+    "unit": "years"
+   },
+   {
+    "id": "5A2AA257-56E7-5DF3-9EEC-787DD2251B66",
+    "series": "Japan",
+    "category": "2010",
+    "value": 83.0,
+    "unit": "years"
+   },
+   {
+    "id": "1A384E83-774C-5784-A991-29DD281E01B4",
+    "series": "Brazil",
+    "category": "2010",
+    "value": 73.0,
+    "unit": "years"
+   },
+   {
+    "id": "FE97899D-DC97-5B4F-9718-E8CAAD8FB139",
+    "series": "Nigeria",
+    "category": "2010",
+    "value": 51.0,
+    "unit": "years"
+   },
+   {
+    "id": "90D22DEE-9781-54C3-900A-E92189CEA688",
+    "series": "France",
+    "category": "2010",
+    "value": 81.0,
+    "unit": "years"
+   },
+   {
+    "id": "DACEDC21-E8BD-588F-9D75-4E52CE52C0C4",
+    "series": "Japan",
+    "category": "2020",
+    "value": 85.0,
+    "unit": "years"
+   },
+   {
+    "id": "73D4F035-8C8E-5133-AF67-A9EE1BC42A79",
+    "series": "Brazil",
+    "category": "2020",
+    "value": 76.0,
+    "unit": "years"
+   },
+   {
+    "id": "C2EFD0A3-F857-5573-A87E-06D1949E53D0",
+    "series": "Nigeria",
+    "category": "2020",
+    "value": 55.0,
+    "unit": "years"
+   },
+   {
+    "id": "201A2BE2-8012-538F-B430-A19280F8D1F8",
+    "series": "France",
+    "category": "2020",
+    "value": 82.0,
+    "unit": "years"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Life expectancy rose in all four countries.",
+   "Japan moved from second to highest; Nigeria remained lowest despite steady gains."
+  ]
+ },
+ {
+  "id": "bank-w1-026",
+  "title": "How people travel to work in three cities",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows the main methods of travelling to work in three cities in 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "3795D30E-0FF0-5F91-83FF-A1CD2A9FFC1C",
+    "series": "Copenhagen",
+    "category": "Car",
+    "value": 22.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "AADDFCB0-A29C-5466-902C-0896F78F3BC5",
+    "series": "Los Angeles",
+    "category": "Car",
+    "value": 73.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "A1DE9E37-CE6E-5743-810D-9E2F14428A3A",
+    "series": "Tokyo",
+    "category": "Car",
+    "value": 12.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "E1422901-6DA3-5C37-933D-B19A6666428C",
+    "series": "Copenhagen",
+    "category": "Public transport",
+    "value": 26.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "E56FC974-A5EE-5121-9302-5255F82570C6",
+    "series": "Los Angeles",
+    "category": "Public transport",
+    "value": 8.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "05CD7E1C-7A9C-513E-AC69-0A9B054E1128",
+    "series": "Tokyo",
+    "category": "Public transport",
+    "value": 57.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "EA5BCA83-7902-5E13-8588-872F7DDEE5C6",
+    "series": "Copenhagen",
+    "category": "Bicycle",
+    "value": 45.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "0B0D2508-5509-5332-818D-97A9E39D73DC",
+    "series": "Los Angeles",
+    "category": "Bicycle",
+    "value": 2.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "67B7E3E6-A391-50C7-841B-2BD787784267",
+    "series": "Tokyo",
+    "category": "Bicycle",
+    "value": 15.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "01F54D21-F91D-5DB4-A751-2A4188F33298",
+    "series": "Copenhagen",
+    "category": "Walking",
+    "value": 7.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "C191A22A-6BE2-5335-A8FD-B00C01225913",
+    "series": "Los Angeles",
+    "category": "Walking",
+    "value": 17.0,
+    "unit": "% of commuters"
+   },
+   {
+    "id": "2BDF9FCF-5CD4-5622-AF58-7AD4643FB187",
+    "series": "Tokyo",
+    "category": "Walking",
+    "value": 16.0,
+    "unit": "% of commuters"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Los Angeles relied overwhelmingly on cars, Tokyo on public transport and Copenhagen on bicycles.",
+   "Walking was a minor method everywhere."
+  ]
+ },
+ {
+  "id": "bank-w1-027",
+  "title": "Household waste composition",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts show the composition of household waste in one city in 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "2DE4F63F-5AB0-5FD2-8CB8-46FF1930E816",
+    "series": "2000",
+    "category": "Food",
+    "value": 32.0,
+    "unit": "%"
+   },
+   {
+    "id": "540DE2A2-48AD-5759-A801-FD1BC9FBAADE",
+    "series": "2000",
+    "category": "Paper",
+    "value": 26.0,
+    "unit": "%"
+   },
+   {
+    "id": "C2ED43C9-AB44-55C4-B58F-836F558E2139",
+    "series": "2000",
+    "category": "Plastic",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "0F572DB8-AEB9-5FDE-BEE9-FE3671FDC30E",
+    "series": "2000",
+    "category": "Glass",
+    "value": 10.0,
+    "unit": "%"
+   },
+   {
+    "id": "9A74C4ED-0278-51EE-AA37-32DFDA7D0FA3",
+    "series": "2000",
+    "category": "Garden",
+    "value": 13.0,
+    "unit": "%"
+   },
+   {
+    "id": "4677F350-2527-51CD-9009-501FF351E1D1",
+    "series": "2000",
+    "category": "Other",
+    "value": 7.0,
+    "unit": "%"
+   },
+   {
+    "id": "E7A2D3E2-F883-527B-819F-C9911F979808",
+    "series": "2020",
+    "category": "Food",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "F0EBC3FA-1552-53CB-851D-5799C59CD547",
+    "series": "2020",
+    "category": "Paper",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "E77BA982-AC7A-5EDC-9EFC-3B52BC0AD89C",
+    "series": "2020",
+    "category": "Plastic",
+    "value": 24.0,
+    "unit": "%"
+   },
+   {
+    "id": "2C0CF2E4-04D7-5F27-B144-199F69C6A003",
+    "series": "2020",
+    "category": "Glass",
+    "value": 6.0,
+    "unit": "%"
+   },
+   {
+    "id": "E7B93902-922D-5B4A-9F19-3CB94C6C3D73",
+    "series": "2020",
+    "category": "Garden",
+    "value": 17.0,
+    "unit": "%"
+   },
+   {
+    "id": "9A166F9C-1EA3-55F4-9F20-8EAA80A8C41C",
+    "series": "2020",
+    "category": "Other",
+    "value": 11.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Plastic doubled its share, while paper fell sharply.",
+   "Food remained the largest category in both years."
+  ]
+ },
+ {
+  "id": "bank-w1-028",
+  "title": "Top international student destinations",
+  "visualType": "Table",
+  "instructions": "The table shows the number of international students in five countries in 2005, 2015 and 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "D6D6C878-D7F9-5DB0-80AF-61822B4E4E08",
+    "series": "2005",
+    "category": "USA",
+    "value": 590.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "B55C5CB6-D017-592A-9273-25FE31CD1BAD",
+    "series": "2015",
+    "category": "USA",
+    "value": 907.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "866B5064-D1E8-50DB-9311-41B053F6C7F8",
+    "series": "2023",
+    "category": "USA",
+    "value": 1057.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "4F69F94C-1EB7-5746-BC56-2A072F636C82",
+    "series": "2005",
+    "category": "UK",
+    "value": 318.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "EAABB333-C24C-5DD1-94C8-95BAAEAA83ED",
+    "series": "2015",
+    "category": "UK",
+    "value": 431.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "86D1216C-4D11-502B-A893-32D627F080AC",
+    "series": "2023",
+    "category": "UK",
+    "value": 680.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "94E63E69-6FFE-52A2-9503-3BFA423946E0",
+    "series": "2005",
+    "category": "Australia",
+    "value": 177.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "6443122B-D6A5-5A79-9F29-F5357ADAB708",
+    "series": "2015",
+    "category": "Australia",
+    "value": 294.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "1384BD29-5C71-56B9-8D43-8D930BED0737",
+    "series": "2023",
+    "category": "Australia",
+    "value": 429.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "90C2D8BF-2489-5AA8-8A32-7D6525C28582",
+    "series": "2005",
+    "category": "Canada",
+    "value": 75.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "8B9A3FED-7629-51B7-A9C3-5AB638A5EF51",
+    "series": "2015",
+    "category": "Canada",
+    "value": 171.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "C3538BD4-B6B1-56BF-BF3B-B6FA1D6B444A",
+    "series": "2023",
+    "category": "Canada",
+    "value": 525.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "9F37C3C4-0178-5707-8AEC-2171AB0B5E93",
+    "series": "2005",
+    "category": "Germany",
+    "value": 259.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "2524BD8F-0305-517B-A6F1-E8CD2CC9CD31",
+    "series": "2015",
+    "category": "Germany",
+    "value": 235.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "FA1CE362-B98E-5AD0-BFE5-26C06D3DF959",
+    "series": "2023",
+    "category": "Germany",
+    "value": 367.0,
+    "unit": "thousands of students"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The USA hosted the most students throughout.",
+   "Canada grew most dramatically, overtaking Australia by 2023."
+  ]
+ },
+ {
+  "id": "bank-w1-029",
+  "title": "How paper is recycled",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows the process of recycling paper. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Waste paper is collected from homes and offices",
+   "Paper is sorted by type and quality",
+   "Paper is mixed with water and chemicals to make pulp",
+   "Ink is removed by washing and air bubbles",
+   "Pulp is cleaned and screened to remove plastic and staples",
+   "Pulp is spread onto a mesh to drain water",
+   "Sheets are pressed and dried by heated rollers",
+   "New paper is cut into rolls and sent to customers"
+  ],
+  "keyOverviewPoints": [
+   "Recycling paper involves eight main stages.",
+   "The paper is turned into pulp, cleaned and then re-formed into new sheets."
+  ]
+ },
+ {
+  "id": "bank-w1-030",
+  "title": "How a hydroelectric dam produces electricity",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows how electricity is generated at a hydroelectric power station. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Rainwater fills a reservoir behind a dam",
+   "Gates open to let water flow into a large pipe",
+   "Water flows downhill and gains speed",
+   "Fast-moving water turns a turbine",
+   "The turbine drives a generator that produces electricity",
+   "Transformers increase the voltage",
+   "Power lines carry electricity to homes and businesses",
+   "Water flows out into the river below the dam"
+  ],
+  "keyOverviewPoints": [
+   "Electricity is generated by the movement of water from a high reservoir to a lower river.",
+   "The process is continuous and does not burn fuel."
+  ]
+ },
+ {
+  "id": "bank-w1-031",
+  "title": "Changes to an airport",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show an airport in 2005 and how it looks today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "2005|NW|Farmland",
+   "2005|N|Runway",
+   "2005|NE|Farmland",
+   "2005|W|Car park",
+   "2005|C|Terminal",
+   "2005|E|Cargo area",
+   "2005|S|Main road",
+   "2005|SW|Hotel",
+   "Today|NW|Second runway",
+   "Today|N|Runway",
+   "Today|NE|Solar farm",
+   "Today|W|Multi-storey car park",
+   "Today|C|Terminal (enlarged)",
+   "Today|E|Cargo area",
+   "Today|S|Main road and railway station",
+   "Today|SW|Hotel",
+   "Today|SE|Shopping centre"
+  ],
+  "keyOverviewPoints": [
+   "The airport has expanded significantly, with a second runway and a larger terminal.",
+   "Public transport links and new facilities have been added."
+  ]
+ },
+ {
+  "id": "bank-w1-032",
+  "title": "A town centre before and after pedestrianisation",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show a town centre in 1995 and today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "1995|NW|Bus station",
+   "1995|N|Shops",
+   "1995|NE|Bank",
+   "1995|W|Car park",
+   "1995|C|Main street (two-way traffic)",
+   "1995|E|Cinema",
+   "1995|S|Shops",
+   "1995|SE|Petrol station",
+   "Today|NW|Bus station",
+   "Today|N|Cafés with outdoor seating",
+   "Today|NE|Restaurant (former bank)",
+   "Today|W|Park",
+   "Today|C|Pedestrian street with trees",
+   "Today|E|Cinema",
+   "Today|S|Shops",
+   "Today|SE|Apartments",
+   "Today|SW|Bicycle parking"
+  ],
+  "keyOverviewPoints": [
+   "The centre has become pedestrian-friendly, with traffic removed from the main street.",
+   "Car-related facilities have been replaced by green space, housing and leisure uses."
+  ]
+ },
+ {
+  "id": "bank-w1-033",
+  "title": "Ice cream sales and temperature",
+  "visualType": "Combined Visual Data",
+  "instructions": "The chart shows monthly ice cream sales and average temperature in one city over a year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "A28984D9-BD0C-51D0-BB3B-0A12944903B7",
+    "series": "Sales (thousands)",
+    "category": "Jan",
+    "value": 12.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "094B2409-78C1-516D-B001-DA52FEE894C3",
+    "series": "~Temperature (°C)",
+    "category": "Jan",
+    "value": 4.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "06AD7FE7-7F72-53A7-B050-8AB6393882FB",
+    "series": "Sales (thousands)",
+    "category": "Mar",
+    "value": 20.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "910AC36F-B6AC-5D14-BAA9-13123BBBB443",
+    "series": "~Temperature (°C)",
+    "category": "Mar",
+    "value": 9.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "9A2441B4-51D3-5F28-8F16-E95918676EAF",
+    "series": "Sales (thousands)",
+    "category": "May",
+    "value": 48.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "CC2A84E4-EE52-5914-A6C5-303C47DAB53D",
+    "series": "~Temperature (°C)",
+    "category": "May",
+    "value": 16.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "571CFE3B-52CA-5AF1-8307-7B41E8463A9F",
+    "series": "Sales (thousands)",
+    "category": "Jul",
+    "value": 95.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "06BC4927-C2F8-52F2-8356-25F48605DBCF",
+    "series": "~Temperature (°C)",
+    "category": "Jul",
+    "value": 24.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "6DEB35D4-0714-552A-8BD7-F0CD80B0E0F1",
+    "series": "Sales (thousands)",
+    "category": "Sep",
+    "value": 52.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "0992E35E-66AB-59F3-9382-8B289DEA8CF1",
+    "series": "~Temperature (°C)",
+    "category": "Sep",
+    "value": 18.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "690FB672-F2CB-5F43-BBD2-48210A4A64EE",
+    "series": "Sales (thousands)",
+    "category": "Nov",
+    "value": 15.0,
+    "unit": "thousand units / °C"
+   },
+   {
+    "id": "5CFB7977-EAEE-5B1C-AC61-C7525BF7F506",
+    "series": "~Temperature (°C)",
+    "category": "Nov",
+    "value": 8.0,
+    "unit": "thousand units / °C"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Ice cream sales closely followed temperature, peaking in July.",
+   "Sales were lowest in the coldest months."
+  ]
+ },
+ {
+  "id": "bank-w1-034",
+  "title": "Smartphone ownership by age",
+  "visualType": "Line Chart",
+  "instructions": "The graph shows the percentage of people in three age groups who owned a smartphone between 2010 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "D7D74485-1AE1-51A1-BDB7-469CBEF9C6CE",
+    "series": "18–34",
+    "category": "2010",
+    "value": 35.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "A3B910F1-AABD-562D-A776-173C5967B541",
+    "series": "35–54",
+    "category": "2010",
+    "value": 62.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "38046183-25FF-54E6-A1ED-EB50F35D2DE0",
+    "series": "55+",
+    "category": "2010",
+    "value": 80.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "6FA88D18-7EFD-5AC1-91D4-36826D3F13C0",
+    "series": "18–34",
+    "category": "2012",
+    "value": 20.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "9FACCBCB-07C5-506B-A98C-CFA290DF4FE3",
+    "series": "35–54",
+    "category": "2012",
+    "value": 41.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "2B6236D7-94A4-5F58-90A4-1FE6EF7B5A00",
+    "series": "55+",
+    "category": "2012",
+    "value": 64.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "D760F996-83C0-508B-AFB9-521154EBA8E2",
+    "series": "18–34",
+    "category": "2014",
+    "value": 6.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "BF81DD7F-24B5-5507-AFE7-5B0E5C1F8D82",
+    "series": "35–54",
+    "category": "2014",
+    "value": 14.0,
+    "unit": "% owning a smartphone"
+   },
+   {
+    "id": "FD91661B-114D-5016-9F55-086D85B20690",
+    "series": "55+",
+    "category": "2014",
+    "value": 28.0,
+    "unit": "% owning a smartphone"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Ownership rose sharply in all age groups.",
+   "Young adults led throughout, while the oldest group grew most in later years, narrowing the gap."
+  ]
+ },
+ {
+  "id": "bank-w1-035",
+  "title": "Spending on leisure activities by income group",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows average monthly spending on four leisure activities by low-, middle- and high-income households. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "A85D53DA-940B-5A00-A638-A73DCB8A7138",
+    "series": "Low income",
+    "category": "Eating out",
+    "value": 40.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "07971CD4-706E-5F6C-89C8-A60FAD1D96BB",
+    "series": "Middle income",
+    "category": "Eating out",
+    "value": 120.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "DE62CA91-1CC8-5D59-BA21-E7FAE8490264",
+    "series": "High income",
+    "category": "Eating out",
+    "value": 310.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "0B064B5E-45F5-5AE2-B715-518E0CB85694",
+    "series": "Low income",
+    "category": "Sport and fitness",
+    "value": 15.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "3F5D6DB9-1CD9-5A45-88A2-1E0F795A2AC9",
+    "series": "Middle income",
+    "category": "Sport and fitness",
+    "value": 45.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "C931AC5A-7BAF-5D19-A32D-667C7F46409F",
+    "series": "High income",
+    "category": "Sport and fitness",
+    "value": 110.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "0D4002CA-BC0C-5CE3-93A9-1303ED5BB7D3",
+    "series": "Low income",
+    "category": "Holidays",
+    "value": 30.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "60FA2E92-2E81-5001-B1B4-E51DF8A660E7",
+    "series": "Middle income",
+    "category": "Holidays",
+    "value": 150.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "221538FE-4171-59F6-B9C2-E361C99F2121",
+    "series": "High income",
+    "category": "Holidays",
+    "value": 520.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "D356B36C-7885-5608-B38A-189B563F78BB",
+    "series": "Low income",
+    "category": "Streaming and games",
+    "value": 25.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "3254BBB9-8F94-5DBE-A50C-C3C89DF6087E",
+    "series": "Middle income",
+    "category": "Streaming and games",
+    "value": 30.0,
+    "unit": "$ per month"
+   },
+   {
+    "id": "53515E78-2090-59BE-839D-B203CAFF4F3F",
+    "series": "High income",
+    "category": "Streaming and games",
+    "value": 35.0,
+    "unit": "$ per month"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "High-income households spent far more on most activities, especially holidays.",
+   "Spending on streaming and games was similar across all groups."
+  ]
+ },
+ {
+  "id": "bank-w1-036",
+  "title": "Energy consumption per person",
+  "visualType": "Table",
+  "instructions": "The table shows energy consumption per person in five countries in 1990 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "B7B59A4A-3346-57A6-BC44-67DB029D41D3",
+    "series": "1990",
+    "category": "Canada",
+    "value": 390.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "B18221E4-ECFB-518A-B4FC-940B1E160861",
+    "series": "2020",
+    "category": "Canada",
+    "value": 380.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "6169E049-4742-5CCB-9DFE-C77AFD4585CF",
+    "series": "1990",
+    "category": "China",
+    "value": 27.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "52250EA7-7ADF-5D03-AE5A-44C3E9822775",
+    "series": "2020",
+    "category": "China",
+    "value": 101.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "CC23AADF-90FA-5498-9E35-784D43C3D7C8",
+    "series": "1990",
+    "category": "India",
+    "value": 14.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "649FBCD6-C421-5B68-87B7-1DF3FD371E10",
+    "series": "2020",
+    "category": "India",
+    "value": 25.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "700D55D5-8CFD-5ACB-A18B-A5101BA73D68",
+    "series": "1990",
+    "category": "Germany",
+    "value": 178.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "9B59AB54-5BFB-56D3-B0F9-F3BA3080C364",
+    "series": "2020",
+    "category": "Germany",
+    "value": 140.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "012C2063-362E-5BD4-AB21-26E352DEFDDF",
+    "series": "1990",
+    "category": "Kenya",
+    "value": 17.0,
+    "unit": "gigajoules per year"
+   },
+   {
+    "id": "3C08380D-2DAF-52FD-9621-3ACE5E786C76",
+    "series": "2020",
+    "category": "Kenya",
+    "value": 21.0,
+    "unit": "gigajoules per year"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Canada had by far the highest consumption in both years.",
+   "China's consumption nearly quadrupled, while Germany's fell."
+  ]
+ }
+]

@@ -1,0 +1,4950 @@
+[
+ {
+  "id": "bank-sp-001",
+  "theme": "Hometown and neighbourhood",
+  "part1Questions": [
+   "Where is your hometown?",
+   "What do you like most about it?",
+   "Has it changed much since you were a child?",
+   "Would you like to live there in the future?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place in your hometown that you enjoy visiting.",
+   "bulletPoints": [
+    "where it is",
+    "how often you go there",
+    "what you do there",
+    "and explain why you enjoy visiting it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a neighbourhood a good place to live?",
+   "How have cities in your country changed in recent years?",
+   "Should local governments spend more on parks or on roads?",
+   "Why do some people move away from the place where they grew up?",
+   "Do you think small towns will disappear in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-002",
+  "theme": "Studies and learning",
+  "part1Questions": [
+   "Are you a student or do you work?",
+   "What subject do you enjoy most?",
+   "Do you prefer studying alone or with others?",
+   "What would you like to learn in the future?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a teacher who has influenced you.",
+   "bulletPoints": [
+    "who this teacher was",
+    "what subject they taught",
+    "what they were like",
+    "and explain how they influenced you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What qualities make a good teacher?",
+   "Is it better to learn from a teacher or from the internet?",
+   "How has education changed since your parents were at school?",
+   "Should education be free at all levels?",
+   "Do exams measure intelligence accurately?"
+  ]
+ },
+ {
+  "id": "bank-sp-003",
+  "theme": "Technology in daily life",
+  "part1Questions": [
+   "How often do you use your phone?",
+   "What apps do you use most?",
+   "Do you think you spend too much time online?",
+   "Was technology important when you were a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a piece of technology you find very useful.",
+   "bulletPoints": [
+    "what it is",
+    "when you got it",
+    "how you use it",
+    "and explain why it is so useful to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How has technology changed the way people communicate?",
+   "Do you think older people find new technology difficult?",
+   "Should children be allowed to have smartphones?",
+   "What jobs might disappear because of technology?",
+   "Does technology make people more or less creative?"
+  ]
+ },
+ {
+  "id": "bank-sp-004",
+  "theme": "Food and cooking",
+  "part1Questions": [
+   "What kind of food do you like?",
+   "Do you often cook at home?",
+   "Is there any food you disliked as a child but like now?",
+   "Do you prefer eating at home or in restaurants?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a cooking skill you would like to improve.",
+   "bulletPoints": [
+    "what the skill is",
+    "what you can already do",
+    "how you would practise it",
+    "and explain why you would like to improve this skill"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How have eating habits changed in your country?",
+   "Why is fast food so popular?",
+   "Should schools teach children how to cook?",
+   "Do you think traditional dishes will survive in the future?",
+   "Who should be responsible for healthy eating, individuals or governments?"
+  ]
+ },
+ {
+  "id": "bank-sp-005",
+  "theme": "Travel and holidays",
+  "part1Questions": [
+   "Do you like travelling?",
+   "Where did you go on your last holiday?",
+   "Do you prefer travelling alone or with others?",
+   "What do you usually take with you on a trip?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a journey that you remember well.",
+   "bulletPoints": [
+    "where you went",
+    "how you travelled",
+    "who you were with",
+    "and explain why the journey was memorable"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people enjoy travelling to other countries?",
+   "What are the negative effects of tourism?",
+   "How has travel changed in the last thirty years?",
+   "Should people travel less to protect the environment?",
+   "Is it better to travel independently or on an organised tour?"
+  ]
+ },
+ {
+  "id": "bank-sp-006",
+  "theme": "Books and reading",
+  "part1Questions": [
+   "Do you like reading?",
+   "What kind of books do you read?",
+   "Do you prefer paper books or e-books?",
+   "Did you read much as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a book that you enjoyed reading.",
+   "bulletPoints": [
+    "what the book was",
+    "when you read it",
+    "what it was about",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do fewer young people read books today?",
+   "Are films based on books as good as the books themselves?",
+   "Should parents read to their children?",
+   "Will libraries still be important in the future?",
+   "What can people learn from reading fiction?"
+  ]
+ },
+ {
+  "id": "bank-sp-007",
+  "theme": "Sport and exercise",
+  "part1Questions": [
+   "Do you play any sports?",
+   "How often do you exercise?",
+   "What sports are popular in your country?",
+   "Did you do sport at school?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a sporting event you watched or took part in.",
+   "bulletPoints": [
+    "what the event was",
+    "where it took place",
+    "who was involved",
+    "and explain how you felt about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people not enjoy exercise?",
+   "Should professional athletes be paid so much?",
+   "How can governments encourage people to be more active?",
+   "What are the benefits of team sports for children?",
+   "Do major sporting events benefit the host country?"
+  ]
+ },
+ {
+  "id": "bank-sp-008",
+  "theme": "Friends and relationships",
+  "part1Questions": [
+   "Do you have many friends?",
+   "How do you usually spend time with friends?",
+   "Is it easy to make new friends?",
+   "Do you keep in touch with old school friends?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a friend you have known for a long time.",
+   "bulletPoints": [
+    "who this person is",
+    "how you met",
+    "what you do together",
+    "and explain why your friendship has lasted"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes someone a good friend?",
+   "Has social media changed friendship?",
+   "Is it possible to be friends with a colleague?",
+   "Why do people lose touch with friends?",
+   "Are friendships more important than family relationships?"
+  ]
+ },
+ {
+  "id": "bank-sp-009",
+  "theme": "Work and careers",
+  "part1Questions": [
+   "What job do you do, or would you like to do?",
+   "What do you like about your work or studies?",
+   "Would you like to work in another country?",
+   "What job did you want as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a job you would like to do in the future.",
+   "bulletPoints": [
+    "what the job is",
+    "what skills it needs",
+    "how you could get it",
+    "and explain why you would like to do it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a job satisfying?",
+   "Is salary the most important thing when choosing a job?",
+   "Should young people follow their parents' careers?",
+   "How will working life change in the future?",
+   "Is it better to work for a large company or a small one?"
+  ]
+ },
+ {
+  "id": "bank-sp-010",
+  "theme": "Music",
+  "part1Questions": [
+   "What kind of music do you like?",
+   "When do you usually listen to music?",
+   "Can you play a musical instrument?",
+   "Has your taste in music changed over time?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a situation in which background music changed your experience of a place.",
+   "bulletPoints": [
+    "where you were",
+    "what kind of music was playing",
+    "what you were doing",
+    "and explain how the music affected your experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is music important in people's lives?",
+   "Should music be taught in schools?",
+   "How has technology changed the music industry?",
+   "Do traditional forms of music still matter?",
+   "Why do people go to live concerts when they can listen at home?"
+  ]
+ },
+ {
+  "id": "bank-sp-011",
+  "theme": "Shopping",
+  "part1Questions": [
+   "Do you enjoy shopping?",
+   "Do you prefer shopping online or in shops?",
+   "What was the last thing you bought?",
+   "Are there markets near where you live?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you bought recently that you were pleased with.",
+   "bulletPoints": [
+    "what it was",
+    "where you bought it",
+    "why you bought it",
+    "and explain why you were pleased with it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people buy things they do not need?",
+   "How has online shopping affected town centres?",
+   "Should advertising be more strictly controlled?",
+   "Do people today care more about brands than in the past?",
+   "Is it better to repair things or replace them?"
+  ]
+ },
+ {
+  "id": "bank-sp-012",
+  "theme": "Weather and seasons",
+  "part1Questions": [
+   "What is the weather like where you live?",
+   "What is your favourite season?",
+   "Does the weather affect your mood?",
+   "Do you check the weather forecast often?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when the weather affected your plans.",
+   "bulletPoints": [
+    "when it happened",
+    "what you had planned",
+    "what the weather was like",
+    "and explain how you felt about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does climate affect the way people live?",
+   "Is the weather in your country changing?",
+   "How can people prepare for extreme weather?",
+   "Do you think weather forecasts are reliable?",
+   "Should cities be redesigned for hotter summers?"
+  ]
+ },
+ {
+  "id": "bank-sp-013",
+  "theme": "Transport",
+  "part1Questions": [
+   "How do you usually travel to work or school?",
+   "Is public transport good where you live?",
+   "Do you have a driving licence?",
+   "Do you like cycling?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you were late for something.",
+   "bulletPoints": [
+    "what you were late for",
+    "why you were late",
+    "what happened as a result",
+    "and explain how you felt"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the main transport problems in cities?",
+   "Should public transport be free?",
+   "Will electric cars solve pollution problems?",
+   "How might transport change in the next fifty years?",
+   "Why do many people prefer driving to using buses?"
+  ]
+ },
+ {
+  "id": "bank-sp-014",
+  "theme": "Free time and hobbies",
+  "part1Questions": [
+   "What do you do in your free time?",
+   "Do you have more free time now than before?",
+   "Is there a hobby you would like to start?",
+   "Do you prefer relaxing at home or going out?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a hobby you enjoy.",
+   "bulletPoints": [
+    "what it is",
+    "when you started it",
+    "how often you do it",
+    "and explain why you enjoy it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are hobbies important?",
+   "Do people have less free time than in the past?",
+   "Should children's free time be organised by adults?",
+   "Are some hobbies better than others?",
+   "How has the internet changed the way people spend free time?"
+  ]
+ },
+ {
+  "id": "bank-sp-015",
+  "theme": "Family",
+  "part1Questions": [
+   "How many people are there in your family?",
+   "Do you spend a lot of time with your family?",
+   "Who are you closest to in your family?",
+   "Do you have any family traditions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a family member you admire.",
+   "bulletPoints": [
+    "who this person is",
+    "what they do",
+    "what they are like",
+    "and explain why you admire them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How have families changed in your country?",
+   "Should grandparents help to raise children?",
+   "Is it better to grow up in a large or small family?",
+   "Who should care for elderly parents?",
+   "Do children today respect their parents less than before?"
+  ]
+ },
+ {
+  "id": "bank-sp-016",
+  "theme": "Nature and the outdoors",
+  "part1Questions": [
+   "Do you like spending time in nature?",
+   "Are there parks near your home?",
+   "Did you play outside much as a child?",
+   "Do you prefer the mountains or the sea?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a natural place you have visited.",
+   "bulletPoints": [
+    "where it is",
+    "when you went there",
+    "what you did there",
+    "and explain why you liked it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is contact with nature important for people?",
+   "How can children be encouraged to spend more time outdoors?",
+   "Should some natural areas be closed to tourists?",
+   "What are the main environmental problems in your country?",
+   "Can technology help protect wildlife?"
+  ]
+ },
+ {
+  "id": "bank-sp-017",
+  "theme": "Health and wellbeing",
+  "part1Questions": [
+   "Do you think you have a healthy lifestyle?",
+   "What do you do to stay healthy?",
+   "Do you sleep well?",
+   "Have you changed any habits recently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you made a change to improve your health.",
+   "bulletPoints": [
+    "what change you made",
+    "why you made it",
+    "how difficult it was",
+    "and explain how it affected you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people find it hard to change unhealthy habits?",
+   "Should the government control what people eat?",
+   "Is stress more common now than in the past?",
+   "How important is sleep for success at work or school?",
+   "Should companies be responsible for their employees' health?"
+  ]
+ },
+ {
+  "id": "bank-sp-018",
+  "theme": "Celebrations and festivals",
+  "part1Questions": [
+   "What is the most important festival in your country?",
+   "How do you usually celebrate your birthday?",
+   "Do you like big celebrations?",
+   "Have celebrations changed since you were young?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a celebration you enjoyed.",
+   "bulletPoints": [
+    "what the celebration was",
+    "where it took place",
+    "who was there",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are traditional festivals important?",
+   "Have festivals become too commercial?",
+   "Should people spend a lot of money on weddings?",
+   "How do young people celebrate differently from older people?",
+   "Can festivals help tourism?"
+  ]
+ },
+ {
+  "id": "bank-sp-019",
+  "theme": "Clothes and fashion",
+  "part1Questions": [
+   "What kind of clothes do you like to wear?",
+   "Do you care about fashion?",
+   "Do you wear different clothes at weekends?",
+   "Have you ever worn traditional clothes?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an item of clothing that is important to you.",
+   "bulletPoints": [
+    "what it is",
+    "where you got it",
+    "when you wear it",
+    "and explain why it is important to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people follow fashion?",
+   "Should students wear school uniforms?",
+   "What are the environmental effects of cheap clothing?",
+   "Do clothes show a person's personality?",
+   "How do companies influence what people wear?"
+  ]
+ },
+ {
+  "id": "bank-sp-020",
+  "theme": "Science and discovery",
+  "part1Questions": [
+   "Did you enjoy science at school?",
+   "Are you interested in scientific news?",
+   "What scientific subject would you like to learn more about?",
+   "Do you watch science documentaries?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a scientific discovery or invention that has changed people's lives.",
+   "bulletPoints": [
+    "what it is",
+    "when it was discovered or invented",
+    "how it is used",
+    "and explain why it is important"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do fewer students choose science subjects?",
+   "Should governments spend more on scientific research?",
+   "Do people trust scientists less than before?",
+   "What are the dangers of new technologies?",
+   "How can science be made more interesting for children?"
+  ]
+ },
+ {
+  "id": "bank-sp-021",
+  "theme": "Art and creativity",
+  "part1Questions": [
+   "Do you like art?",
+   "Have you ever been to an art gallery?",
+   "Did you draw or paint as a child?",
+   "Do you think you are a creative person?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a piece of art you like.",
+   "bulletPoints": [
+    "what it is",
+    "where you saw it",
+    "what it looks like",
+    "and explain why you like it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is art important in society?",
+   "Should art be a compulsory school subject?",
+   "Should governments fund museums and galleries?",
+   "Is street art a form of art or vandalism?",
+   "Can creativity be taught?"
+  ]
+ },
+ {
+  "id": "bank-sp-022",
+  "theme": "Helping others",
+  "part1Questions": [
+   "Do you like helping people?",
+   "Have you ever done voluntary work?",
+   "Who do you usually ask for help?",
+   "Do people in your country help their neighbours?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you helped someone.",
+   "bulletPoints": [
+    "who you helped",
+    "what the situation was",
+    "what you did",
+    "and explain how you felt afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people volunteer?",
+   "Should schools make students do community work?",
+   "Are people less helpful than in the past?",
+   "Should rich people give more to charity?",
+   "What can governments do to support people in need?"
+  ]
+ },
+ {
+  "id": "bank-sp-023",
+  "theme": "Advertising and media",
+  "part1Questions": [
+   "Do you watch television?",
+   "Where do you get your news?",
+   "Do you pay attention to advertisements?",
+   "What kind of programmes do you enjoy?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an advertisement you remember.",
+   "bulletPoints": [
+    "what it was for",
+    "where you saw it",
+    "what happened in it",
+    "and explain why you remember it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does advertising influence people?",
+   "Should advertising to children be banned?",
+   "Is social media a reliable source of news?",
+   "How has the media changed in your country?",
+   "Do celebrities have too much influence?"
+  ]
+ },
+ {
+  "id": "bank-sp-024",
+  "theme": "Childhood",
+  "part1Questions": [
+   "Where did you grow up?",
+   "What games did you play as a child?",
+   "Did you prefer playing indoors or outdoors?",
+   "What is your earliest memory?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a happy memory from your childhood.",
+   "bulletPoints": [
+    "what happened",
+    "when it happened",
+    "who was with you",
+    "and explain why it is a happy memory"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How is childhood today different from the past?",
+   "Do children today have too much pressure?",
+   "What is the best age for children to start school?",
+   "Should children be allowed to make their own decisions?",
+   "How do toys affect a child's development?"
+  ]
+ },
+ {
+  "id": "bank-sp-025",
+  "theme": "Buildings and architecture",
+  "part1Questions": [
+   "What kind of building do you live in?",
+   "Is there a building you like in your town?",
+   "Do you prefer modern or old buildings?",
+   "Would you like to live in a high-rise flat?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a building you find interesting.",
+   "bulletPoints": [
+    "where it is",
+    "what it looks like",
+    "what it is used for",
+    "and explain why you find it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should old buildings be protected?",
+   "What makes a building beautiful?",
+   "Should architects consider the environment more?",
+   "Why do cities build very tall buildings?",
+   "How will homes change in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-026",
+  "theme": "Time management",
+  "part1Questions": [
+   "Are you good at managing your time?",
+   "Do you use a diary or calendar?",
+   "Are you usually early or late?",
+   "What do you do when you have too much to do?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you were very busy.",
+   "bulletPoints": [
+    "when it was",
+    "why you were busy",
+    "what you had to do",
+    "and explain how you managed"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people feel they never have enough time?",
+   "Is it important to plan your free time?",
+   "Do modern devices save time or waste it?",
+   "Should schools teach time management?",
+   "Is it better to do one thing at a time or several at once?"
+  ]
+ },
+ {
+  "id": "bank-sp-027",
+  "theme": "Animals",
+  "part1Questions": [
+   "Do you like animals?",
+   "Have you ever had a pet?",
+   "What animals are common in your country?",
+   "Do you like visiting zoos?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an animal you find interesting.",
+   "bulletPoints": [
+    "what animal it is",
+    "where you saw it or learned about it",
+    "what it is like",
+    "and explain why you find it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people keep pets?",
+   "Should zoos exist?",
+   "How can endangered animals be protected?",
+   "Is it acceptable to use animals for medical research?",
+   "Do people treat animals better than in the past?"
+  ]
+ },
+ {
+  "id": "bank-sp-028",
+  "theme": "Languages",
+  "part1Questions": [
+   "How many languages can you speak?",
+   "When did you start learning English?",
+   "Do you find English difficult?",
+   "Would you like to learn another language?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you had difficulty understanding someone.",
+   "bulletPoints": [
+    "who the person was",
+    "where you were",
+    "why it was difficult",
+    "and explain what you did"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people learn foreign languages?",
+   "Is English becoming too dominant?",
+   "What is the best age to learn a language?",
+   "Will translation technology make language learning unnecessary?",
+   "Why are some languages disappearing?"
+  ]
+ },
+ {
+  "id": "bank-sp-029",
+  "theme": "Money and saving",
+  "part1Questions": [
+   "Do you prefer to save money or spend it?",
+   "Did you get pocket money as a child?",
+   "Do you plan how you spend your money?",
+   "What would you buy if you had more money?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you saved money to buy.",
+   "bulletPoints": [
+    "what it was",
+    "how long you saved",
+    "how you saved the money",
+    "and explain how you felt when you bought it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should children learn about money at school?",
+   "Why do some people find it hard to save?",
+   "Is it good to borrow money?",
+   "Does money bring happiness?",
+   "How has the way people pay for things changed?"
+  ]
+ },
+ {
+  "id": "bank-sp-030",
+  "theme": "Rules and laws",
+  "part1Questions": [
+   "Were there many rules at your school?",
+   "Do you think rules are important?",
+   "Is there a rule you would like to change?",
+   "Do people in your country follow traffic rules?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a rule that you think is important.",
+   "bulletPoints": [
+    "what the rule is",
+    "where it applies",
+    "why it exists",
+    "and explain why you think it is important"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people break rules?",
+   "Should punishments be stricter?",
+   "Who should decide the rules in a family?",
+   "Are there too many laws in modern society?",
+   "How can young people be encouraged to respect the law?"
+  ]
+ },
+ {
+  "id": "bank-sp-031",
+  "theme": "Cities",
+  "part1Questions": [
+   "Do you live in a city?",
+   "What do you like about city life?",
+   "Is there a city you would like to visit?",
+   "Is your city good for young people?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a city you have visited and liked.",
+   "bulletPoints": [
+    "which city it was",
+    "when you went there",
+    "what you did there",
+    "and explain why you liked it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What problems do large cities face?",
+   "Why do people move to cities?",
+   "How can cities be made greener?",
+   "Should cities limit the number of cars?",
+   "Will more people live in cities in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-032",
+  "theme": "The internet",
+  "part1Questions": [
+   "How often do you use the internet?",
+   "What do you mainly use it for?",
+   "Could you live without the internet?",
+   "When did you first use the internet?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a website or app that you use often.",
+   "bulletPoints": [
+    "what it is",
+    "how you found it",
+    "what you use it for",
+    "and explain why you use it so often"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How has the internet changed education?",
+   "Should there be more control over what is published online?",
+   "Do people spend too much time on social media?",
+   "What are the risks of sharing personal information online?",
+   "Will the internet make libraries and newspapers unnecessary?"
+  ]
+ },
+ {
+  "id": "bank-sp-033",
+  "theme": "Plans and ambitions",
+  "part1Questions": [
+   "What are your plans for the next year?",
+   "Do you like making plans?",
+   "What did you want to be when you were younger?",
+   "Do you think it is important to have goals?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an ambition you have.",
+   "bulletPoints": [
+    "what it is",
+    "when you first had it",
+    "what you need to do to achieve it",
+    "and explain why it is important to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Is it important to have ambitions?",
+   "Do young people today have different ambitions from their parents?",
+   "Should parents decide their children's future careers?",
+   "Is success mainly the result of hard work or luck?",
+   "How can schools help students achieve their goals?"
+  ]
+ },
+ {
+  "id": "bank-sp-034",
+  "theme": "Gifts",
+  "part1Questions": [
+   "Do you like giving gifts?",
+   "What was the last gift you received?",
+   "Is it difficult to choose gifts?",
+   "Do people in your country give gifts on special occasions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a gift you gave to someone.",
+   "bulletPoints": [
+    "what it was",
+    "who you gave it to",
+    "why you chose it",
+    "and explain how the person reacted"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people give gifts?",
+   "Is it better to give money or a present?",
+   "Has gift-giving become too commercial?",
+   "Are handmade gifts more valuable than bought ones?",
+   "Should companies give gifts to employees?"
+  ]
+ },
+ {
+  "id": "bank-sp-035",
+  "theme": "Photography",
+  "part1Questions": [
+   "Do you like taking photos?",
+   "What do you usually take photos of?",
+   "Do you prefer taking photos with a phone or a camera?",
+   "Do you print your photos?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a photograph that is important to you.",
+   "bulletPoints": [
+    "what the photo shows",
+    "when it was taken",
+    "who took it",
+    "and explain why it is important to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people take so many photos today?",
+   "Can photos be misleading?",
+   "Should people be allowed to photograph strangers?",
+   "Has photography changed how people remember events?",
+   "Is photography an art?"
+  ]
+ },
+ {
+  "id": "bank-sp-036",
+  "theme": "Water and rivers",
+  "part1Questions": [
+   "Do you live near a river or lake?",
+   "Do you like swimming?",
+   "How much water do you drink each day?",
+   "Do you try to save water?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you spent near water, such as a river, lake or the sea.",
+   "bulletPoints": [
+    "where it was",
+    "who you were with",
+    "what you did",
+    "and explain why you remember it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is clean water important?",
+   "How can people save water at home?",
+   "Should water be free?",
+   "What causes water pollution?",
+   "How will water shortages affect the world in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-037",
+  "theme": "Noise",
+  "part1Questions": [
+   "Is it noisy where you live?",
+   "Do you prefer quiet or noisy places?",
+   "Do you listen to music while you study?",
+   "What sounds do you find relaxing?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you were in a very noisy place.",
+   "bulletPoints": [
+    "where you were",
+    "why it was noisy",
+    "how long you stayed",
+    "and explain how you felt"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does noise affect people's health?",
+   "Should there be laws to control noise?",
+   "Are cities becoming noisier?",
+   "Do young people mind noise less than older people?",
+   "How can buildings be designed to reduce noise?"
+  ]
+ },
+ {
+  "id": "bank-sp-038",
+  "theme": "Decisions",
+  "part1Questions": [
+   "Do you find it easy to make decisions?",
+   "Do you ask others for advice?",
+   "Have you made any important decisions recently?",
+   "Do you make decisions quickly?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an important decision you made.",
+   "bulletPoints": [
+    "what the decision was",
+    "when you made it",
+    "how you made it",
+    "and explain why it was important"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people find decisions difficult?",
+   "Should teenagers make their own decisions about education?",
+   "Is it better to decide quickly or slowly?",
+   "Do people have too many choices today?",
+   "Who should make important decisions in a country?"
+  ]
+ },
+ {
+  "id": "bank-sp-039",
+  "theme": "Mobile phones",
+  "part1Questions": [
+   "How long have you had a mobile phone?",
+   "What do you use your phone for most?",
+   "Do you ever turn your phone off?",
+   "Would you like a new phone?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when your phone was very useful.",
+   "bulletPoints": [
+    "when it was",
+    "where you were",
+    "how you used your phone",
+    "and explain why it was so useful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "At what age should children have a phone?",
+   "Should phones be banned in schools?",
+   "Have phones made people less sociable?",
+   "How have phones changed the way people work?",
+   "What will phones be able to do in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-040",
+  "theme": "Old age",
+  "part1Questions": [
+   "Do you spend time with older people?",
+   "What can young people learn from older people?",
+   "Is there an older person you admire?",
+   "Do older people in your country live with their families?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an older person who has taught you something.",
+   "bulletPoints": [
+    "who the person is",
+    "how you know them",
+    "what they taught you",
+    "and explain why it was valuable"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should society care for elderly people?",
+   "Should people be forced to retire at a certain age?",
+   "Is the experience of older workers valued?",
+   "How will an ageing population affect your country?",
+   "Do older and younger people understand each other?"
+  ]
+ },
+ {
+  "id": "bank-sp-041",
+  "theme": "Environment at home",
+  "part1Questions": [
+   "Do you recycle at home?",
+   "Do you try to save energy?",
+   "Is there much rubbish in the streets where you live?",
+   "Do you use reusable bags?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you do to help the environment.",
+   "bulletPoints": [
+    "what it is",
+    "when you started doing it",
+    "how often you do it",
+    "and explain why you do it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What is the biggest environmental problem today?",
+   "Should people pay more for products that pollute?",
+   "Can individuals really make a difference?",
+   "Should companies be punished for pollution?",
+   "How can children learn to care for the environment?"
+  ]
+ },
+ {
+  "id": "bank-sp-042",
+  "theme": "Neighbours and community",
+  "part1Questions": [
+   "Do you know your neighbours well?",
+   "What is your neighbourhood like?",
+   "Do people in your area help each other?",
+   "Have you ever had a problem with a neighbour?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a neighbour you know well.",
+   "bulletPoints": [
+    "who this person is",
+    "how long you have known them",
+    "what you do together",
+    "and explain why you get on well with them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people know their neighbours less than in the past?",
+   "What can be done to create stronger communities?",
+   "Is it better to live in a big city or a small community?",
+   "Should local people have more say in decisions about their area?",
+   "How do new residents affect a community?"
+  ]
+ },
+ {
+  "id": "bank-sp-043",
+  "theme": "Restaurants and eating out",
+  "part1Questions": [
+   "How often do you eat out?",
+   "What kind of restaurants do you like?",
+   "Do you prefer eating alone or with others?",
+   "Is there a restaurant you would recommend?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a restaurant you enjoyed going to.",
+   "bulletPoints": [
+    "where it is",
+    "when you went there",
+    "what you ate",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people eat out more than in the past?",
+   "Is fast food a problem in your country?",
+   "Should restaurants show the calories in their food?",
+   "How has food delivery changed eating habits?",
+   "Do you think people will cook less at home in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-044",
+  "theme": "Websites and online learning",
+  "part1Questions": [
+   "Have you ever taken an online course?",
+   "Do you prefer learning online or in a classroom?",
+   "What websites do you use for studying?",
+   "Do you watch educational videos?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you learned online.",
+   "bulletPoints": [
+    "what you learned",
+    "how you learned it",
+    "how long it took",
+    "and explain why it was useful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the advantages of online learning?",
+   "Can online courses replace universities?",
+   "Is it harder to concentrate when studying online?",
+   "Should all school materials be available online?",
+   "How will technology change education in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-045",
+  "theme": "Public transport",
+  "part1Questions": [
+   "Do you often use public transport?",
+   "What kind of public transport is there where you live?",
+   "Do you prefer buses or trains?",
+   "Is public transport expensive in your country?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a memorable journey on public transport.",
+   "bulletPoints": [
+    "where you were going",
+    "what kind of transport it was",
+    "what happened",
+    "and explain why it was memorable"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can cities encourage people to use public transport?",
+   "Should public transport be free?",
+   "What are the problems with public transport in your country?",
+   "Will people use cars less in the future?",
+   "Who should pay for new railways?"
+  ]
+ },
+ {
+  "id": "bank-sp-046",
+  "theme": "Patience and waiting",
+  "part1Questions": [
+   "Are you a patient person?",
+   "Do you mind waiting in queues?",
+   "What do you do when you have to wait?",
+   "Were you more patient as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you had to wait a long time for something.",
+   "bulletPoints": [
+    "what you were waiting for",
+    "how long you waited",
+    "how you felt",
+    "and explain whether it was worth waiting for"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are people less patient today?",
+   "Is patience an important quality at work?",
+   "How has technology affected people's patience?",
+   "Should children be taught to be patient?",
+   "In which jobs is patience most important?"
+  ]
+ },
+ {
+  "id": "bank-sp-047",
+  "theme": "Rivers, lakes and the sea",
+  "part1Questions": [
+   "Do you live near water?",
+   "Can you swim?",
+   "Do you like boats?",
+   "Do you prefer the sea or lakes?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you spent by a river, lake or the sea.",
+   "bulletPoints": [
+    "where it was",
+    "who you were with",
+    "what you did",
+    "and explain why you remember it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do many people like living near water?",
+   "How can we keep rivers and seas clean?",
+   "Are water sports popular in your country?",
+   "What problems do coastal towns face?",
+   "Should swimming be taught in all schools?"
+  ]
+ },
+ {
+  "id": "bank-sp-048",
+  "theme": "Teamwork",
+  "part1Questions": [
+   "Do you prefer working alone or in a team?",
+   "Did you do group projects at school?",
+   "What makes a good team member?",
+   "Have you ever been the leader of a group?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you worked successfully in a team.",
+   "bulletPoints": [
+    "what the task was",
+    "who was in the team",
+    "what your role was",
+    "and explain why the team was successful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some teams fail?",
+   "Are leaders born or made?",
+   "Is teamwork more important now than in the past?",
+   "How can schools teach children to work together?",
+   "Do online meetings make teamwork harder?"
+  ]
+ },
+ {
+  "id": "bank-sp-049",
+  "theme": "Inventions",
+  "part1Questions": [
+   "What invention do you use most?",
+   "What do you think is the most important invention ever?",
+   "Would you like to invent something?",
+   "Do you like learning about science?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an invention that has changed your life.",
+   "bulletPoints": [
+    "what it is",
+    "when you started using it",
+    "how you use it",
+    "and explain how it has changed your life"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Which inventions have changed society most?",
+   "Do all inventions make life better?",
+   "Should governments fund inventors?",
+   "Why are some countries more inventive than others?",
+   "What will be the next great invention?"
+  ]
+ },
+ {
+  "id": "bank-sp-050",
+  "theme": "Mistakes and learning",
+  "part1Questions": [
+   "Do you often make mistakes?",
+   "How do you feel when you make a mistake?",
+   "Do you learn from your mistakes?",
+   "Have you ever made a mistake in English?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a mistake you made and what you learned from it.",
+   "bulletPoints": [
+    "what the mistake was",
+    "when it happened",
+    "what the result was",
+    "and explain what you learned"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are people afraid of making mistakes?",
+   "Should teachers punish students for mistakes?",
+   "Can mistakes be useful in business?",
+   "Do children learn more from mistakes than adults?",
+   "Should politicians admit their mistakes?"
+  ]
+ },
+ {
+  "id": "bank-sp-051",
+  "theme": "Social media",
+  "part1Questions": [
+   "Do you use social media?",
+   "Which platform do you use most?",
+   "Have you ever taken a break from social media?",
+   "Do you post photos online?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a post or video you saw online that you found interesting.",
+   "bulletPoints": [
+    "what it was about",
+    "where you saw it",
+    "why you watched or read it",
+    "and explain why you found it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How has social media changed friendships?",
+   "Should there be age limits for social media?",
+   "Can social media be used for good causes?",
+   "Do people present a false image of themselves online?",
+   "Will social media still be popular in twenty years?"
+  ]
+ },
+ {
+  "id": "bank-sp-052",
+  "theme": "Sleep and rest",
+  "part1Questions": [
+   "How many hours do you usually sleep?",
+   "Do you take naps?",
+   "What do you do to relax?",
+   "Do you sleep better at weekends?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place where you like to relax.",
+   "bulletPoints": [
+    "where it is",
+    "how often you go there",
+    "what you do there",
+    "and explain why it helps you relax"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do many people not get enough sleep?",
+   "Should schools start later in the day?",
+   "Is it important to have hobbies to relax?",
+   "Do people work too hard today?",
+   "How can employers help workers rest?"
+  ]
+ },
+ {
+  "id": "bank-sp-053",
+  "theme": "Shopping habits",
+  "part1Questions": [
+   "Do you like going to shopping centres?",
+   "Do you compare prices before buying?",
+   "Do you buy second-hand things?",
+   "What do you usually buy online?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a shop you like to visit.",
+   "bulletPoints": [
+    "where it is",
+    "what it sells",
+    "how often you go there",
+    "and explain why you like it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are small shops closing in many towns?",
+   "Is online shopping better than going to shops?",
+   "Do people buy too many things today?",
+   "Should advertising be controlled more strictly?",
+   "How will shopping change in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-054",
+  "theme": "Famous people",
+  "part1Questions": [
+   "Is there a famous person you admire?",
+   "Would you like to be famous?",
+   "Do you follow celebrities online?",
+   "Have you ever met a famous person?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a famous person you admire.",
+   "bulletPoints": [
+    "who this person is",
+    "what they are famous for",
+    "how you know about them",
+    "and explain why you admire them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do young people want to be famous?",
+   "Do celebrities have a responsibility to be good role models?",
+   "Should famous people have a private life?",
+   "Is fame more temporary now than in the past?",
+   "Are sports stars paid too much?"
+  ]
+ },
+ {
+  "id": "bank-sp-055",
+  "theme": "Learning skills",
+  "part1Questions": [
+   "Is there a skill you would like to learn?",
+   "Do you prefer to learn by yourself or with a teacher?",
+   "What skills did you learn as a child?",
+   "Is learning new things easy for you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a skill you learned that took a long time.",
+   "bulletPoints": [
+    "what the skill is",
+    "when you started learning it",
+    "how you learned it",
+    "and explain why it took so long"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Which skills are most important for young people today?",
+   "Should schools teach practical skills like cooking?",
+   "Is it harder for adults to learn new skills?",
+   "Can every skill be learned online?",
+   "Will people need different skills in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-056",
+  "theme": "Air and pollution",
+  "part1Questions": [
+   "Is the air clean where you live?",
+   "Do you spend much time outdoors?",
+   "What causes pollution in your town?",
+   "Do you think about the environment when you travel?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place you visited where the air was very clean.",
+   "bulletPoints": [
+    "where it was",
+    "when you went there",
+    "what you did there",
+    "and explain how you felt there"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the main causes of air pollution?",
+   "Should cars be banned from city centres?",
+   "Is air pollution a bigger problem than in the past?",
+   "What can individuals do to reduce pollution?",
+   "Should factories pay for the pollution they cause?"
+  ]
+ },
+ {
+  "id": "bank-sp-057",
+  "theme": "Colours and design",
+  "part1Questions": [
+   "What is your favourite colour?",
+   "Do you wear bright colours?",
+   "What colour is your bedroom?",
+   "Do colours affect your mood?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a beautifully designed object you own.",
+   "bulletPoints": [
+    "what it is",
+    "where you got it",
+    "what it looks like",
+    "and explain why you like its design"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Is good design important?",
+   "Why do people pay more for designer products?",
+   "How do companies use colour in advertising?",
+   "Should cities pay attention to the design of public spaces?",
+   "Is design more about beauty or usefulness?"
+  ]
+ },
+ {
+  "id": "bank-sp-058",
+  "theme": "Childhood games",
+  "part1Questions": [
+   "What games did you play as a child?",
+   "Did you prefer playing inside or outside?",
+   "Do children still play the same games today?",
+   "Did you have a favourite toy?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a game you enjoyed playing as a child.",
+   "bulletPoints": [
+    "what the game was",
+    "who you played it with",
+    "how you played it",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How has children's play changed?",
+   "Is it important for children to play outside?",
+   "Should parents limit screen time?",
+   "Do toys help children learn?",
+   "Why do some adults still enjoy games?"
+  ]
+ },
+ {
+  "id": "bank-sp-059",
+  "theme": "Rules at work and school",
+  "part1Questions": [
+   "Did you wear a uniform at school?",
+   "What rules were there at your school?",
+   "Are rules important at work?",
+   "Is there a rule you disagree with?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a rule at school or work that you agreed with.",
+   "bulletPoints": [
+    "what the rule was",
+    "where it applied",
+    "why it existed",
+    "and explain why you agreed with it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people break rules?",
+   "Should workplaces have dress codes?",
+   "Are schools too strict or too relaxed today?",
+   "Who should make rules in a school?",
+   "How should rule-breaking be punished?"
+  ]
+ },
+ {
+  "id": "bank-sp-060",
+  "theme": "Hotels and accommodation",
+  "part1Questions": [
+   "Do you like staying in hotels?",
+   "Have you ever stayed in a hostel or campsite?",
+   "What do you look for in a hotel?",
+   "Do you prefer hotels or rented apartments?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place you stayed on holiday.",
+   "bulletPoints": [
+    "where it was",
+    "what type of accommodation it was",
+    "how long you stayed",
+    "and explain whether you would stay there again"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How has the internet changed the way people book holidays?",
+   "Are holiday rental apartments bad for local residents?",
+   "What makes good customer service?",
+   "Is tourism good for local people?",
+   "Will people travel more or less in the future?"
+  ]
+ },
+ {
+  "id": "bank-sp-061",
+  "theme": "Books and films",
+  "part1Questions": [
+   "Do you prefer books or films?",
+   "What was the last film you watched?",
+   "Do you read before going to sleep?",
+   "Have you watched a film based on a book?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a film that made a strong impression on you.",
+   "bulletPoints": [
+    "what the film was",
+    "when you watched it",
+    "what it was about",
+    "and explain why it made an impression on you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are films based on books so popular?",
+   "Do people read less because of films and TV?",
+   "Should governments support the film industry?",
+   "Are cinemas still important?",
+   "Can films teach us about history?"
+  ]
+ },
+ {
+  "id": "bank-sp-062",
+  "theme": "Finding your way",
+  "part1Questions": [
+   "Do you enjoy looking at maps?",
+   "How do you find unfamiliar places?",
+   "Is your neighbourhood easy to navigate?",
+   "Did you learn directions at school?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you helped someone find their way.",
+   "bulletPoints": [
+    "who needed help",
+    "where they wanted to go",
+    "how you explained the route",
+    "why you remember helping them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes directions easy to follow?",
+   "How can cities help visitors navigate?",
+   "Can navigation apps reduce people's awareness of their surroundings?",
+   "Should schools teach practical map skills?"
+  ]
+ },
+ {
+  "id": "bank-sp-063",
+  "theme": "Quiet corners",
+  "part1Questions": [
+   "Where do you go for quiet?",
+   "Do you study with background sound?",
+   "When is your home quietest?",
+   "Were you sensitive to noise as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a quiet corner of a busy place that you know.",
+   "bulletPoints": [
+    "where it is",
+    "how you discovered it",
+    "what you do there",
+    "why it feels quiet"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people value quiet differently?",
+   "How can public buildings provide peaceful areas?",
+   "Should noise limits depend on the time of day?",
+   "Who should resolve disagreements about neighbourhood noise?"
+  ]
+ },
+ {
+  "id": "bank-sp-064",
+  "theme": "Everyday repairs",
+  "part1Questions": [
+   "Do you enjoy fixing things?",
+   "What do you do when something breaks?",
+   "Who taught you a practical skill?",
+   "Do you keep basic tools at home?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you repaired or helped to repair.",
+   "bulletPoints": [
+    "what needed repairing",
+    "what the problem was",
+    "what you did",
+    "how you felt about the result"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people replace things instead of repairing them?",
+   "Should repair skills be taught at school?",
+   "How could manufacturers make repairs easier?",
+   "Can repair services strengthen local communities?"
+  ]
+ },
+ {
+  "id": "bank-sp-065",
+  "theme": "Unexpected kindness",
+  "part1Questions": [
+   "Do you greet your neighbours?",
+   "When do you usually help other people?",
+   "Do you find it easy to ask for help?",
+   "Did your family encourage you to be helpful?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small favour from someone you did not know well.",
+   "bulletPoints": [
+    "who the person was",
+    "what you needed",
+    "what the person did",
+    "why the favour mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can small acts of kindness be memorable?",
+   "Is helping strangers different from helping friends?",
+   "How can communities encourage mutual support?",
+   "Should public services depend on volunteers?"
+  ]
+ },
+ {
+  "id": "bank-sp-066",
+  "theme": "Personal routines",
+  "part1Questions": [
+   "What do you do first in the morning?",
+   "Do you like predictable days?",
+   "When do you change your routine?",
+   "Did you follow a routine as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small change to your daily routine that worked well.",
+   "bulletPoints": [
+    "what you changed",
+    "why you made the change",
+    "how you maintained it",
+    "what difference it made"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are habits difficult to change?",
+   "Do workplaces benefit from fixed routines?",
+   "How can a routine become too restrictive?",
+   "Should children choose their own daily schedules?"
+  ]
+ },
+ {
+  "id": "bank-sp-067",
+  "theme": "Learning from errors",
+  "part1Questions": [
+   "Do you check your work carefully?",
+   "How do you remember corrections?",
+   "Do you prefer quick feedback?",
+   "Who helps you when you are learning?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a mistake that taught you a useful lesson.",
+   "bulletPoints": [
+    "what you were trying to do",
+    "what went wrong",
+    "how you responded",
+    "what you learned"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should teachers respond to mistakes?",
+   "Why do some people hide errors at work?",
+   "Can making mistakes improve judgement?",
+   "When is preventing an error more important than learning from it?"
+  ]
+ },
+ {
+  "id": "bank-sp-068",
+  "theme": "Borrowed belongings",
+  "part1Questions": [
+   "Do you often borrow things?",
+   "What are you comfortable lending?",
+   "How do you remember to return items?",
+   "Did you share belongings as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when borrowing something helped you.",
+   "bulletPoints": [
+    "what you borrowed",
+    "who lent it to you",
+    "how you used it",
+    "why borrowing was useful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some possessions difficult to share?",
+   "How can lending services build trust?",
+   "Should communities share expensive equipment?",
+   "Does easy access to borrowing change purchasing habits?"
+  ]
+ },
+ {
+  "id": "bank-sp-069",
+  "theme": "Looking through windows",
+  "part1Questions": [
+   "What can you see from your window?",
+   "Do you prefer a sunny room?",
+   "Do you look outside while travelling?",
+   "What view did you have as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a view through a window that you remember clearly.",
+   "bulletPoints": [
+    "where the window was",
+    "what you could see",
+    "when you saw the view",
+    "why it stayed in your memory"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can views affect people's experience of a building?",
+   "Should offices give priority to natural light?",
+   "Why might people pay more for a particular view?",
+   "How can urban planning protect shared views?"
+  ]
+ },
+ {
+  "id": "bank-sp-070",
+  "theme": "Instructions",
+  "part1Questions": [
+   "Do you read instructions before starting?",
+   "Do you prefer pictures or written steps?",
+   "Have you explained a task to someone recently?",
+   "What instructions do you find confusing?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a set of instructions that you found especially clear.",
+   "bulletPoints": [
+    "what the instructions were for",
+    "where you found them",
+    "what made them clear",
+    "how they helped you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Who is responsible when instructions are confusing?",
+   "How can designers make instructions accessible?",
+   "Are videos always better than written guidance?",
+   "Should safety instructions be tested with users?"
+  ]
+ },
+ {
+  "id": "bank-sp-071",
+  "theme": "Arranging a room",
+  "part1Questions": [
+   "Do you enjoy arranging furniture?",
+   "What is your favourite spot at home?",
+   "Do you keep your desk tidy?",
+   "Has your room changed recently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a change you made to the arrangement of a room.",
+   "bulletPoints": [
+    "which room it was",
+    "what you moved",
+    "why you changed the arrangement",
+    "how the room felt afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does room design influence behaviour?",
+   "Why are flexible spaces useful?",
+   "Should residents help design shared rooms?",
+   "How can small homes be made comfortable?"
+  ]
+ },
+ {
+  "id": "bank-sp-072",
+  "theme": "Remembering names",
+  "part1Questions": [
+   "Are names easy for you to remember?",
+   "Do you use nicknames?",
+   "How do you introduce yourself?",
+   "Are there names that are common in your area?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when remembering someone's name was useful.",
+   "bulletPoints": [
+    "who the person was",
+    "where you met again",
+    "how you remembered the name",
+    "why it helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do names matter in social relationships?",
+   "How should people handle unfamiliar names?",
+   "Can organisations become too impersonal?",
+   "What makes a visitor feel welcome?"
+  ]
+ },
+ {
+  "id": "bank-sp-073",
+  "theme": "Homemade presents",
+  "part1Questions": [
+   "Do you enjoy choosing gifts?",
+   "Have you ever made a present?",
+   "Do you keep gift wrapping?",
+   "What occasions do people celebrate in your family?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a present you made or could make with your own skills.",
+   "bulletPoints": [
+    "who it was or would be for",
+    "what materials it involved",
+    "how you made or would make it",
+    "why it would suit the person"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What gives a present personal value?",
+   "Is spending more necessarily generous?",
+   "How do gift traditions change?",
+   "Should children be encouraged to make gifts?"
+  ]
+ },
+ {
+  "id": "bank-sp-074",
+  "theme": "Useful questions",
+  "part1Questions": [
+   "Do you ask many questions?",
+   "When do you ask for clarification?",
+   "Do you enjoy explaining your interests?",
+   "Who answers your practical questions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a question you asked that helped you understand something.",
+   "bulletPoints": [
+    "what you wanted to understand",
+    "who you asked",
+    "what answer you received",
+    "why asking helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are people sometimes reluctant to ask questions?",
+   "How can teachers encourage curiosity?",
+   "What makes a question useful in a discussion?",
+   "Can asking questions be more valuable than giving advice?"
+  ]
+ },
+ {
+  "id": "bank-sp-075",
+  "theme": "Waiting well",
+  "part1Questions": [
+   "Do you mind waiting?",
+   "What do you do in queues?",
+   "Do you usually arrive early?",
+   "Where do you often have to wait?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when a wait was more pleasant than you expected.",
+   "bulletPoints": [
+    "where you were waiting",
+    "why you were there",
+    "what you did while waiting",
+    "why the experience was pleasant"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a queue seem fair?",
+   "How can public services improve waiting areas?",
+   "Do appointment systems always save time?",
+   "Why can uncertainty make waiting harder?"
+  ]
+ },
+ {
+  "id": "bank-sp-076",
+  "theme": "Local notices",
+  "part1Questions": [
+   "Do you read community notices?",
+   "Where do you learn about local events?",
+   "Do you notice posters in shops?",
+   "Have you ever put up a notice?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a local notice or announcement that was useful to you.",
+   "bulletPoints": [
+    "where you saw or heard it",
+    "what it announced",
+    "what you did afterwards",
+    "why it was useful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can local information reach people without internet access?",
+   "What makes a notice trustworthy?",
+   "Should public noticeboards be moderated?",
+   "Who should pay for community information services?"
+  ]
+ },
+ {
+  "id": "bank-sp-077",
+  "theme": "Keeping promises",
+  "part1Questions": [
+   "Do you like making plans in advance?",
+   "How do you remember commitments?",
+   "Are you usually punctual?",
+   "What do you do if your plans change?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a promise that took effort to keep.",
+   "bulletPoints": [
+    "who you made the promise to",
+    "what you promised",
+    "what made it difficult",
+    "how you kept it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do promises create trust?",
+   "When is changing a commitment reasonable?",
+   "How should organisations communicate delays?",
+   "Is honesty about limitations a sign of reliability?"
+  ]
+ },
+ {
+  "id": "bank-sp-078",
+  "theme": "Trying unfamiliar food",
+  "part1Questions": [
+   "Do you like tasting unfamiliar food?",
+   "How do you choose a new dish?",
+   "Do you ask about ingredients?",
+   "Have your food preferences changed?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a food you were uncertain about trying but later enjoyed.",
+   "bulletPoints": [
+    "what it was",
+    "where you tried it",
+    "why you were uncertain",
+    "what you enjoyed about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are food preferences connected to familiarity?",
+   "How can schools introduce varied foods respectfully?",
+   "Should restaurants adapt dishes for visitors?",
+   "Can food help people understand another culture?"
+  ]
+ },
+ {
+  "id": "bank-sp-079",
+  "theme": "Reading aloud",
+  "part1Questions": [
+   "Do you ever read aloud?",
+   "Did someone read to you as a child?",
+   "Do you enjoy listening to stories?",
+   "When do you prefer a written explanation?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you read aloud to another person.",
+   "bulletPoints": [
+    "what you read",
+    "who listened",
+    "why you read it aloud",
+    "how the listener responded"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does listening to a story differ from reading it?",
+   "Should schools give more time to reading aloud?",
+   "What makes a good storyteller?",
+   "Can recorded stories replace live storytelling?"
+  ]
+ },
+ {
+  "id": "bank-sp-080",
+  "theme": "Choosing a seat",
+  "part1Questions": [
+   "Where do you sit on a bus?",
+   "Do you have a preferred place to study?",
+   "Do you like sitting outdoors?",
+   "What makes a chair comfortable?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place to sit that you particularly appreciate.",
+   "bulletPoints": [
+    "where it is",
+    "what the seat is like",
+    "when you use it",
+    "why you appreciate it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why does seating matter in public spaces?",
+   "Who is excluded by poor seating design?",
+   "Should businesses allow people to sit without buying anything?",
+   "How can seating encourage conversation?"
+  ]
+ },
+ {
+  "id": "bank-sp-081",
+  "theme": "Learning by watching",
+  "part1Questions": [
+   "Do you watch demonstrations?",
+   "What can you learn by observing people?",
+   "Do you take notes while watching?",
+   "Do you prefer to practise immediately?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a skill you began learning by watching someone.",
+   "bulletPoints": [
+    "who you watched",
+    "what the person demonstrated",
+    "what you noticed",
+    "how you practised afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "When is observation an effective learning method?",
+   "What are its limitations?",
+   "How can an expert make hidden steps visible?",
+   "Should practical courses combine demonstrations with independent work?"
+  ]
+ },
+ {
+  "id": "bank-sp-082",
+  "theme": "Making a list",
+  "part1Questions": [
+   "What kinds of lists do you make?",
+   "Do you use paper or a phone?",
+   "Do shopping lists help you?",
+   "Do you finish everything on your lists?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a list that helped you manage a difficult day.",
+   "bulletPoints": [
+    "what you needed to do",
+    "how you organised the list",
+    "how you used it",
+    "why it helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can writing tasks down reduce confusion?",
+   "Can planning become excessive?",
+   "How should teams decide priorities?",
+   "Should schools teach organisational skills explicitly?"
+  ]
+ },
+ {
+  "id": "bank-sp-083",
+  "theme": "Changing your mind",
+  "part1Questions": [
+   "Do you decide quickly?",
+   "Whose opinions do you consider?",
+   "Do you enjoy comparing alternatives?",
+   "What helps you make a choice?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when new information made you change your mind.",
+   "bulletPoints": [
+    "what you originally thought",
+    "what information you received",
+    "how your view changed",
+    "why the information was persuasive"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is changing one's mind sometimes difficult?",
+   "How can people assess conflicting information?",
+   "Should leaders acknowledge changed opinions?",
+   "What is the difference between flexibility and indecision?"
+  ]
+ },
+ {
+  "id": "bank-sp-084",
+  "theme": "Welcoming a newcomer",
+  "part1Questions": [
+   "Do new people often join your class or workplace?",
+   "How do you introduce people?",
+   "What helps you feel included?",
+   "Do you remember your first day somewhere?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you did to welcome a newcomer.",
+   "bulletPoints": [
+    "who the person was",
+    "where they were new",
+    "what you did",
+    "how they responded"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes joining a group difficult?",
+   "How can institutions improve first-day experiences?",
+   "Should existing members be responsible for inclusion?",
+   "Can informal customs exclude newcomers unintentionally?"
+  ]
+ },
+ {
+  "id": "bank-sp-085",
+  "theme": "Recognising improvement",
+  "part1Questions": [
+   "How do you notice progress?",
+   "Do you keep examples of earlier work?",
+   "Do small successes motivate you?",
+   "Who encourages you to keep practising?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a moment when you noticed that you had improved at something.",
+   "bulletPoints": [
+    "what you were practising",
+    "what you could do before",
+    "what you managed to do later",
+    "how you felt about the progress"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is progress sometimes difficult to measure?",
+   "Should learners compare themselves with others?",
+   "How can feedback make improvement visible?",
+   "Can frequent assessment reduce motivation?"
+  ]
+ },
+ {
+  "id": "bank-sp-086",
+  "theme": "Saving a useful object",
+  "part1Questions": [
+   "Do you keep old objects?",
+   "What do you usually throw away?",
+   "Do you reuse containers?",
+   "Is storage space important to you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an ordinary object you kept because it remained useful.",
+   "bulletPoints": [
+    "what it is",
+    "how long you have had it",
+    "how you use it",
+    "why you have kept it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some objects remain useful for years?",
+   "How can design extend a product's life?",
+   "Is keeping things always environmentally helpful?",
+   "What makes reuse convenient?"
+  ]
+ },
+ {
+  "id": "bank-sp-087",
+  "theme": "Small celebrations",
+  "part1Questions": [
+   "Do you celebrate small achievements?",
+   "Who do you usually celebrate with?",
+   "Do you prefer simple gatherings?",
+   "What makes an occasion feel special?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a simple celebration that meant a great deal to you.",
+   "bulletPoints": [
+    "what was being celebrated",
+    "who took part",
+    "what you did",
+    "why it mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do communities mark achievements?",
+   "Can celebrations create pressure?",
+   "Should workplaces recognise small successes?",
+   "How do shared rituals strengthen relationships?"
+  ]
+ },
+ {
+  "id": "bank-sp-088",
+  "theme": "Handling a delay",
+  "part1Questions": [
+   "Do delays upset your plans?",
+   "How do you use unexpected free time?",
+   "Do you carry something to read?",
+   "How do you inform others if you are late?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a delay that led to an unexpected opportunity.",
+   "bulletPoints": [
+    "what was delayed",
+    "where you were",
+    "what opportunity appeared",
+    "what happened as a result"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do delays affect people differently?",
+   "What should service providers do when delays occur?",
+   "Is compensation always the best response?",
+   "How can organisations plan for uncertainty?"
+  ]
+ },
+ {
+  "id": "bank-sp-089",
+  "theme": "Local shortcuts",
+  "part1Questions": [
+   "Do you walk around your area?",
+   "Do you know alternative routes?",
+   "How did you learn your neighbourhood?",
+   "Do you prefer familiar paths?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a walking route that is more interesting than the main road.",
+   "bulletPoints": [
+    "where it goes",
+    "how you discovered it",
+    "what you notice along it",
+    "why you prefer it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do people develop knowledge of a neighbourhood?",
+   "Should cities prioritise pedestrians?",
+   "Can small paths contribute to community life?",
+   "How can route design improve accessibility?"
+  ]
+ },
+ {
+  "id": "bank-sp-090",
+  "theme": "Asking for an opinion",
+  "part1Questions": [
+   "Do you ask others before choosing something?",
+   "Who gives you practical advice?",
+   "Do you like giving opinions?",
+   "When do you decide independently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an opinion you requested before making a choice.",
+   "bulletPoints": [
+    "what the choice involved",
+    "whose opinion you asked for",
+    "what the person said",
+    "how it influenced your decision"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes an adviser credible?",
+   "When can too much advice become confusing?",
+   "Should experts explain uncertainty?",
+   "How can people retain independence while seeking guidance?"
+  ]
+ },
+ {
+  "id": "bank-sp-091",
+  "theme": "Sharing a workspace",
+  "part1Questions": [
+   "Do you enjoy studying beside others?",
+   "What distracts you at a desk?",
+   "Do you use shared tables?",
+   "What do you do before leaving a shared space?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a successful experience of sharing a place to work or study.",
+   "bulletPoints": [
+    "where it was",
+    "who shared it",
+    "how you organised the space",
+    "why the arrangement worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What rules help shared workspaces function?",
+   "Should quiet and collaborative areas be separate?",
+   "How can people resolve competing needs?",
+   "Does shared space necessarily encourage cooperation?"
+  ]
+ },
+ {
+  "id": "bank-sp-092",
+  "theme": "Useful reminders",
+  "part1Questions": [
+   "Do you set reminders?",
+   "What appointments are easy to forget?",
+   "Do you write dates on a calendar?",
+   "How do family members remind each other?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a reminder that prevented you from forgetting something important.",
+   "bulletPoints": [
+    "what you needed to remember",
+    "how the reminder was set",
+    "when you noticed it",
+    "what happened next"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people forget planned tasks?",
+   "Can excessive notifications make reminders ineffective?",
+   "Should public services send appointment reminders?",
+   "How can reminders respect people's privacy?"
+  ]
+ },
+ {
+  "id": "bank-sp-093",
+  "theme": "First impressions of places",
+  "part1Questions": [
+   "What do you notice when entering a building?",
+   "Do smells affect your impressions?",
+   "Do you like familiar places?",
+   "How quickly do you feel comfortable somewhere?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place that felt different from what you had expected.",
+   "bulletPoints": [
+    "where it was",
+    "what you expected",
+    "what you actually found",
+    "how your impression changed"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do photographs shape expectations of places?",
+   "Why can first impressions be misleading?",
+   "Should tourist advertising show disadvantages too?",
+   "What makes a place feel welcoming?"
+  ]
+ },
+ {
+  "id": "bank-sp-094",
+  "theme": "Personal collections",
+  "part1Questions": [
+   "Do you collect anything small?",
+   "Did you collect things as a child?",
+   "How do you organise keepsakes?",
+   "Do you enjoy seeing other people's collections?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small collection with a story behind it.",
+   "bulletPoints": [
+    "what the collection contains",
+    "how it began",
+    "how it has developed",
+    "why it interests you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people collect everyday objects?",
+   "How does collecting differ from storing?",
+   "When does a personal collection have public value?",
+   "Should museums display ordinary possessions?"
+  ]
+ },
+ {
+  "id": "bank-sp-095",
+  "theme": "Clear explanations",
+  "part1Questions": [
+   "Do you enjoy explaining ideas?",
+   "How do you check someone understands?",
+   "Do examples help you learn?",
+   "What subject do you find easy to explain?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a difficult idea that someone explained using a simple example.",
+   "bulletPoints": [
+    "what the idea was",
+    "who explained it",
+    "what example they used",
+    "why the example helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes an explanation effective?",
+   "Can simplifying an idea distort it?",
+   "Should experts adapt their language for the public?",
+   "How can teachers discover what learners misunderstand?"
+  ]
+ },
+ {
+  "id": "bank-sp-096",
+  "theme": "Organising photographs",
+  "part1Questions": [
+   "Do you take many photographs?",
+   "How do you store them?",
+   "Do you print favourite pictures?",
+   "Do you enjoy looking at family photographs?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a photograph you rediscovered after forgetting about it.",
+   "bulletPoints": [
+    "where you found it",
+    "what it showed",
+    "what memories it brought back",
+    "why rediscovering it mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do photographs shape family memories?",
+   "Can too many pictures make important ones harder to find?",
+   "Should people seek consent before sharing old photos?",
+   "How might future generations use personal photo collections?"
+  ]
+ },
+ {
+  "id": "bank-sp-097",
+  "theme": "Working outdoors",
+  "part1Questions": [
+   "Do you like spending time outside?",
+   "Have you ever done a task outdoors?",
+   "What weather do you prefer?",
+   "Do you take breaks outside?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a useful task you did outside your home.",
+   "bulletPoints": [
+    "where you did it",
+    "what the task involved",
+    "who was with you",
+    "what you enjoyed or learned"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can outdoor tasks feel different from indoor work?",
+   "Should schools provide practical outdoor activities?",
+   "How can outdoor workers be supported in poor weather?",
+   "Can volunteering improve shared outdoor spaces?"
+  ]
+ },
+ {
+  "id": "bank-sp-098",
+  "theme": "Unexpected conversations",
+  "part1Questions": [
+   "Do you talk to people while waiting?",
+   "What topics are easy to discuss?",
+   "Do you enjoy short conversations?",
+   "When do you prefer silence?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a brief conversation that made your day better.",
+   "bulletPoints": [
+    "who you spoke with",
+    "where you were",
+    "what you discussed",
+    "why the conversation helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can brief social contact matter?",
+   "How do public spaces encourage conversation?",
+   "Are people less willing to speak to strangers now?",
+   "How should boundaries be respected in casual conversation?"
+  ]
+ },
+ {
+  "id": "bank-sp-099",
+  "theme": "Keeping a notebook",
+  "part1Questions": [
+   "Do you write notes by hand?",
+   "What do you record during the day?",
+   "Do you enjoy choosing stationery?",
+   "Do you reread your notes?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a page of notes that you were glad you had kept.",
+   "bulletPoints": [
+    "what the notes concerned",
+    "when you wrote them",
+    "when you needed them again",
+    "why they were helpful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What is the value of a personal record?",
+   "Does handwriting affect how people process information?",
+   "Should learners be taught different note-taking methods?",
+   "When should records be shared with others?"
+  ]
+ },
+ {
+  "id": "bank-sp-100",
+  "theme": "Practical demonstrations",
+  "part1Questions": [
+   "Have you attended a demonstration?",
+   "Do you ask demonstrators questions?",
+   "Do you like trying things yourself?",
+   "What practical skill interests you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a demonstration that changed how you carried out a task.",
+   "bulletPoints": [
+    "what was demonstrated",
+    "who demonstrated it",
+    "what surprised you",
+    "what you did differently afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can demonstrations help beginners?",
+   "What risks come from copying without understanding?",
+   "Should public workshops be free?",
+   "How can demonstrators accommodate different abilities?"
+  ]
+ },
+ {
+  "id": "bank-sp-101",
+  "theme": "Making space for others",
+  "part1Questions": [
+   "Do you often have visitors?",
+   "What do you prepare before someone arrives?",
+   "Do you enjoy being a host?",
+   "Where do you usually meet friends?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you adapted a space to make someone comfortable.",
+   "bulletPoints": [
+    "who the person was",
+    "what they needed",
+    "what changes you made",
+    "how the changes helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people's needs in shared spaces differ?",
+   "Who should identify accessibility barriers?",
+   "Can small changes make a large difference?",
+   "Should accessibility be planned from the start?"
+  ]
+ },
+ {
+  "id": "bank-sp-102",
+  "theme": "An unfinished project",
+  "part1Questions": [
+   "Do you finish projects quickly?",
+   "What sometimes interrupts your plans?",
+   "Do you revisit old ideas?",
+   "How do you choose what to work on?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a project you returned to after leaving it unfinished.",
+   "bulletPoints": [
+    "what the project was",
+    "why you paused it",
+    "why you returned to it",
+    "what happened when you resumed"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people abandon projects?",
+   "When is stopping a project sensible?",
+   "How can teams preserve work during a pause?",
+   "Does completing everything always show good judgement?"
+  ]
+ },
+ {
+  "id": "bank-sp-103",
+  "theme": "Useful comparisons",
+  "part1Questions": [
+   "Do you compare products before choosing?",
+   "What features matter to you?",
+   "Do you use comparison tables?",
+   "Do you ask friends about their experiences?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a comparison that helped you make a practical decision.",
+   "bulletPoints": [
+    "what you compared",
+    "which differences you considered",
+    "how you obtained information",
+    "what you decided"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a comparison fair?",
+   "Can rankings hide important differences?",
+   "Should reviewers explain their criteria?",
+   "Why do people value different features in the same product?"
+  ]
+ },
+ {
+  "id": "bank-sp-104",
+  "theme": "Noticing a detail",
+  "part1Questions": [
+   "Do you notice small changes?",
+   "What details interest you in buildings?",
+   "Do you inspect things before buying?",
+   "Are you good at spotting differences?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small detail you noticed that other people had missed.",
+   "bulletPoints": [
+    "where you were",
+    "what you noticed",
+    "why others missed it",
+    "what difference noticing it made"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some details easy to overlook?",
+   "How can teams benefit from different observers?",
+   "When can attention to detail slow progress?",
+   "Should observation skills be taught?"
+  ]
+ },
+ {
+  "id": "bank-sp-105",
+  "theme": "Adapting a recipe",
+  "part1Questions": [
+   "Do you follow recipes exactly?",
+   "What ingredients do you usually have?",
+   "Do you cook for other people?",
+   "How do you learn new cooking methods?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you adapted instructions for preparing food.",
+   "bulletPoints": [
+    "what you wanted to prepare",
+    "what you needed to change",
+    "how you adapted the method",
+    "how the result turned out"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do recipes change between households?",
+   "How can cooks accommodate dietary needs?",
+   "Does adapting traditional food preserve or weaken tradition?",
+   "Should schools teach flexibility as well as basic cooking techniques?"
+  ]
+ },
+ {
+  "id": "bank-sp-106",
+  "theme": "Shared responsibility",
+  "part1Questions": [
+   "What jobs do you do at home?",
+   "Do you prefer dividing tasks?",
+   "How do you agree who does what?",
+   "Did you have household jobs as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a shared task in which everyone had a clear responsibility.",
+   "bulletPoints": [
+    "what the task was",
+    "who took part",
+    "how responsibilities were divided",
+    "why the division worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a division of labour fair?",
+   "Should responsibilities follow ability or preference?",
+   "How can invisible work be recognised?",
+   "What should a group do when someone cannot complete a task?"
+  ]
+ },
+ {
+  "id": "bank-sp-107",
+  "theme": "Changing an arrangement",
+  "part1Questions": [
+   "Do you make flexible plans?",
+   "How do you contact people about changes?",
+   "Do last-minute changes bother you?",
+   "What helps you reorganise your day?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when you rearranged a plan successfully.",
+   "bulletPoints": [
+    "what the original plan was",
+    "why it had to change",
+    "how you contacted others",
+    "why the new arrangement worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is clear communication important during change?",
+   "Who should bear the cost of altered plans?",
+   "How can organisations offer flexibility fairly?",
+   "When do fixed arrangements protect people's interests?"
+  ]
+ },
+ {
+  "id": "bank-sp-108",
+  "theme": "Recognising effort",
+  "part1Questions": [
+   "Do you thank people for their help?",
+   "Do compliments motivate you?",
+   "How do you encourage friends?",
+   "What kind of feedback do you appreciate?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when someone recognised an effort you had made.",
+   "bulletPoints": [
+    "what you had done",
+    "who noticed",
+    "how they expressed appreciation",
+    "why the recognition mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is effort sometimes overlooked?",
+   "Should rewards focus on outcomes or effort?",
+   "How can managers recognise contributions fairly?",
+   "Can public praise make some people uncomfortable?"
+  ]
+ },
+ {
+  "id": "bank-sp-109",
+  "theme": "An everyday sound",
+  "part1Questions": [
+   "What sounds do you hear in the morning?",
+   "Do you enjoy natural sounds?",
+   "Are there sounds you associate with home?",
+   "Do you listen carefully when walking?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an everyday sound that brings back a particular memory.",
+   "bulletPoints": [
+    "what the sound is",
+    "where you hear it",
+    "what memory it brings back",
+    "why the connection is strong"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do sounds contribute to the identity of a place?",
+   "Should cities protect distinctive local sounds?",
+   "When does sound become unwanted noise?",
+   "How can designers consider people with different hearing needs?"
+  ]
+ },
+ {
+  "id": "bank-sp-110",
+  "theme": "Useful feedback",
+  "part1Questions": [
+   "Do you ask people to check your work?",
+   "Do you prefer spoken feedback?",
+   "How do you respond to suggestions?",
+   "What helps you revise something?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a specific suggestion that improved something you were making.",
+   "bulletPoints": [
+    "what you were making",
+    "who gave the suggestion",
+    "what you changed",
+    "why the result improved"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes feedback constructive?",
+   "Should criticism always include praise?",
+   "How can people disagree with feedback respectfully?",
+   "Why is timing important when giving advice?"
+  ]
+ },
+ {
+  "id": "bank-sp-111",
+  "theme": "Finding a replacement",
+  "part1Questions": [
+   "Do you keep spare items?",
+   "What do you do if a tool is missing?",
+   "Are you good at improvising?",
+   "Who helps you solve practical problems?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when you used an unexpected substitute for something.",
+   "bulletPoints": [
+    "what you needed",
+    "what you used instead",
+    "how you adapted it",
+    "whether the solution worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "When is improvisation useful?",
+   "What are the limits of temporary solutions?",
+   "Should workplaces encourage experimentation?",
+   "How can people distinguish a safe alternative from a risky one?"
+  ]
+ },
+ {
+  "id": "bank-sp-112",
+  "theme": "Sharing knowledge locally",
+  "part1Questions": [
+   "Do you exchange tips with neighbours?",
+   "What local information do you know?",
+   "Do you recommend services?",
+   "Who knows your area particularly well?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a useful piece of local knowledge you passed on.",
+   "bulletPoints": [
+    "what the information was",
+    "how you learned it",
+    "who needed it",
+    "how it helped them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can local knowledge be difficult to document?",
+   "How can newcomers contribute knowledge?",
+   "Should authorities consult residents before making changes?",
+   "How can communities preserve knowledge without excluding outsiders?"
+  ]
+ },
+ {
+  "id": "bank-sp-113",
+  "theme": "Using a public facility",
+  "part1Questions": [
+   "Do you use public facilities nearby?",
+   "Which ones are convenient?",
+   "What opening hours suit you?",
+   "How do you find out about local services?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a public facility you used for the first time.",
+   "bulletPoints": [
+    "what the facility was",
+    "why you went there",
+    "how you used it",
+    "what you thought of the experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should authorities decide which facilities to fund?",
+   "Why can useful facilities be underused?",
+   "Should residents help evaluate public services?",
+   "How can services remain accessible on limited budgets?"
+  ]
+ },
+ {
+  "id": "bank-sp-114",
+  "theme": "Making something fit",
+  "part1Questions": [
+   "Do you measure things before buying?",
+   "Do you enjoy practical challenges?",
+   "Have you rearranged a shelf?",
+   "Do you prefer adjustable furniture?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you found a way to fit something into a limited space.",
+   "bulletPoints": [
+    "what needed to fit",
+    "where you wanted to put it",
+    "what you tried",
+    "why your solution worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can design help people use limited space?",
+   "Is flexibility more valuable than size?",
+   "Should housing standards consider storage?",
+   "How do people's space needs change over time?"
+  ]
+ },
+ {
+  "id": "bank-sp-115",
+  "theme": "Remembering an explanation",
+  "part1Questions": [
+   "Do you explain things to friends?",
+   "Do you remember examples well?",
+   "What helps you recall new information?",
+   "Do you review what you learn?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an explanation you remembered when you later needed it.",
+   "bulletPoints": [
+    "what was explained",
+    "who explained it",
+    "when you needed the information",
+    "how remembering it helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some explanations memorable?",
+   "How does practical use support learning?",
+   "Should courses revisit ideas in different contexts?",
+   "Can memorisation and understanding support each other?"
+  ]
+ },
+ {
+  "id": "bank-sp-116",
+  "theme": "Taking a sensible break",
+  "part1Questions": [
+   "When do you take study breaks?",
+   "What do you do during a short break?",
+   "Do you prefer breaks indoors or outside?",
+   "Do you notice when you are tired?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a break that helped you return to a task with fresh attention.",
+   "bulletPoints": [
+    "what you were doing",
+    "why you stopped",
+    "how you spent the break",
+    "what changed afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can people judge when a break is needed?",
+   "Should workplaces set common break times?",
+   "Can constant availability reduce effective rest?",
+   "How can schools balance concentration and recovery?"
+  ]
+ },
+ {
+  "id": "bank-sp-117",
+  "theme": "A shared achievement",
+  "part1Questions": [
+   "Do you enjoy group projects?",
+   "What role do you usually take?",
+   "How do you celebrate finishing?",
+   "Do you prefer working with familiar people?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small achievement that depended on several people's contributions.",
+   "bulletPoints": [
+    "what was achieved",
+    "who contributed",
+    "what you did",
+    "why cooperation mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should credit be shared in a team?",
+   "Can competition within a group be useful?",
+   "What makes a common goal motivating?",
+   "How can groups include less confident members?"
+  ]
+ },
+ {
+  "id": "bank-sp-118",
+  "theme": "Deciding what to keep",
+  "part1Questions": [
+   "Do you sort your belongings regularly?",
+   "What is difficult to give away?",
+   "Do you donate useful items?",
+   "How do you decide whether to keep something?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an object you decided to pass on to someone else.",
+   "bulletPoints": [
+    "what the object was",
+    "why you no longer needed it",
+    "who received it",
+    "how you felt about passing it on"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can possessions be emotionally important?",
+   "What helps people reuse unwanted goods?",
+   "Should towns provide exchange spaces?",
+   "How can charities avoid receiving unusable donations?"
+  ]
+ },
+ {
+  "id": "bank-sp-119",
+  "theme": "An invitation you accepted",
+  "part1Questions": [
+   "Do you enjoy invitations?",
+   "Do you prefer advance notice?",
+   "Who usually organises gatherings?",
+   "Do you like meeting new groups?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an invitation you almost declined but were glad you accepted.",
+   "bulletPoints": [
+    "who invited you",
+    "what you were invited to",
+    "why you hesitated",
+    "why you were glad you went"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people hesitate to join unfamiliar activities?",
+   "How can invitations be inclusive?",
+   "Should participation in workplace social events be optional?",
+   "What makes a group easy to join?"
+  ]
+ },
+ {
+  "id": "bank-sp-120",
+  "theme": "A temporary solution",
+  "part1Questions": [
+   "Do you solve problems immediately?",
+   "Have you made a temporary repair?",
+   "Do you keep backup plans?",
+   "When do you ask for expert help?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a temporary solution that worked until proper help arrived.",
+   "bulletPoints": [
+    "what the problem was",
+    "what you did temporarily",
+    "why that was appropriate",
+    "how the problem was finally resolved"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do temporary solutions sometimes become permanent?",
+   "Who should decide when expert help is necessary?",
+   "How can organisations prepare for small disruptions?",
+   "Can resourcefulness be learned?"
+  ]
+ },
+ {
+  "id": "bank-sp-121",
+  "theme": "Discovering a local activity",
+  "part1Questions": [
+   "Do you look for activities nearby?",
+   "Where do you see event announcements?",
+   "Do you prefer regular activities?",
+   "Have you tried something new locally?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a local activity you discovered by chance.",
+   "bulletPoints": [
+    "what it was",
+    "how you discovered it",
+    "what you did",
+    "why it interested you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are local activities sometimes poorly advertised?",
+   "How can organisers reach different age groups?",
+   "Should public spaces host free activities?",
+   "What encourages people to return after a first visit?"
+  ]
+ },
+ {
+  "id": "bank-sp-122",
+  "theme": "Respecting a different preference",
+  "part1Questions": [
+   "Do your friends share your tastes?",
+   "How do you choose a group activity?",
+   "Are you comfortable with different opinions?",
+   "What do you enjoy doing independently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you accommodated another person's preference.",
+   "bulletPoints": [
+    "who the person was",
+    "what they preferred",
+    "how your preferences differed",
+    "how you reached an arrangement"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can people compromise without resentment?",
+   "Should the majority always decide?",
+   "Why do preferences become part of identity?",
+   "How can public services serve people with different needs?"
+  ]
+ },
+ {
+  "id": "bank-sp-123",
+  "theme": "A useful public sign",
+  "part1Questions": [
+   "Do you notice signs in buildings?",
+   "Which signs are easy to understand?",
+   "Do you find symbols useful?",
+   "Have you ever missed a direction sign?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a public sign that helped you avoid a problem.",
+   "bulletPoints": [
+    "where it was",
+    "what it communicated",
+    "why you needed it",
+    "what you did after seeing it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a sign effective?",
+   "Should signs rely on words or symbols?",
+   "How can signage support people with limited vision?",
+   "Who should check whether public information is understandable?"
+  ]
+ },
+ {
+  "id": "bank-sp-124",
+  "theme": "Starting again",
+  "part1Questions": [
+   "Do you enjoy fresh starts?",
+   "Have you repeated a course or activity?",
+   "What encourages you after difficulty?",
+   "Do you usually keep old attempts?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you started again using a different approach.",
+   "bulletPoints": [
+    "what it was",
+    "why the first approach was unsuccessful",
+    "what you changed",
+    "what you learned from restarting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can restarting feel discouraging?",
+   "When is a new approach better than more effort?",
+   "How can teachers normalise revision?",
+   "Do organisations learn enough from unsuccessful projects?"
+  ]
+ },
+ {
+  "id": "bank-sp-125",
+  "theme": "Finding common ground",
+  "part1Questions": [
+   "What topics do you discuss with new people?",
+   "Do your friends have varied interests?",
+   "Do you enjoy learning about other people's hobbies?",
+   "What helps you continue a conversation?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a shared interest you discovered with someone unexpectedly.",
+   "bulletPoints": [
+    "who the person was",
+    "how the interest came up",
+    "what you discussed",
+    "how it affected your relationship"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do common interests help people connect?",
+   "Can differences strengthen a friendship?",
+   "Should community activities bring different groups together?",
+   "How can people avoid making assumptions about others?"
+  ]
+ },
+ {
+  "id": "bank-sp-126",
+  "theme": "Making a fair choice",
+  "part1Questions": [
+   "Do you take turns with other people?",
+   "How do you divide shared items?",
+   "Do you enjoy choosing for a group?",
+   "What does fairness mean in daily life?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you helped a group make a fair decision.",
+   "bulletPoints": [
+    "what had to be decided",
+    "who was involved",
+    "what method you suggested",
+    "why you considered it fair"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Does fairness always mean equal treatment?",
+   "How should minority preferences be considered?",
+   "What makes a decision process trustworthy?",
+   "Should children help create rules that affect them?"
+  ]
+ },
+ {
+  "id": "bank-sp-127",
+  "theme": "An object with a label",
+  "part1Questions": [
+   "Do you label your belongings?",
+   "Do you read product labels?",
+   "What information do you look for?",
+   "Do you keep instructions attached to objects?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a label that gave you useful information about an object.",
+   "bulletPoints": [
+    "what the object was",
+    "what the label said",
+    "why you read it",
+    "how you used the information"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How much information should a label contain?",
+   "Can detailed labels overwhelm consumers?",
+   "Who should verify product claims?",
+   "How can essential information be made accessible?"
+  ]
+ },
+ {
+  "id": "bank-sp-128",
+  "theme": "Learning a local word",
+  "part1Questions": [
+   "Do you enjoy learning new expressions?",
+   "Does your family use local words?",
+   "Do you ask what unfamiliar words mean?",
+   "Do you notice different accents?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a local expression someone explained to you.",
+   "bulletPoints": [
+    "what the expression was",
+    "who explained it",
+    "when it is used",
+    "why you remember it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do local expressions survive?",
+   "Should schools teach regional varieties of language?",
+   "How can media represent linguistic diversity?",
+   "Can shared language change while retaining local identity?"
+  ]
+ },
+ {
+  "id": "bank-sp-129",
+  "theme": "Helping with a choice",
+  "part1Questions": [
+   "Do friends ask for your advice?",
+   "What choices can you help with?",
+   "Do you explain your reasons?",
+   "Do you mind if someone chooses differently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a decision you helped another person think through.",
+   "bulletPoints": [
+    "who needed help",
+    "what options they had",
+    "how you compared the options",
+    "what role you played in their decision"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What responsibilities come with giving advice?",
+   "Should advisers share personal experience?",
+   "How can people avoid imposing their preferences?",
+   "When is it better to ask questions than recommend an answer?"
+  ]
+ },
+ {
+  "id": "bank-sp-130",
+  "theme": "A memorable entrance",
+  "part1Questions": [
+   "Do you notice building entrances?",
+   "What makes a place easy to enter?",
+   "Do you prefer automatic doors?",
+   "How do you identify a building from the street?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an entrance to a building that you found interesting.",
+   "bulletPoints": [
+    "which building it belonged to",
+    "what it looked like",
+    "how you used it",
+    "why it caught your attention"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do entrances shape first impressions?",
+   "What makes an entrance accessible?",
+   "Should historic buildings be adapted for modern access?",
+   "Can attractive design also be practical?"
+  ]
+ },
+ {
+  "id": "bank-sp-131",
+  "theme": "Taking care of equipment",
+  "part1Questions": [
+   "Do you clean things after using them?",
+   "Who taught you to care for equipment?",
+   "Do you read care instructions?",
+   "What item do you look after carefully?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a routine that helps you keep something in good condition.",
+   "bulletPoints": [
+    "what you look after",
+    "what you do",
+    "how you learned the routine",
+    "why it is worthwhile"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is maintenance often postponed?",
+   "Should maintenance costs influence purchasing decisions?",
+   "How can shared equipment be cared for fairly?",
+   "Is prevention valued enough in public spending?"
+  ]
+ },
+ {
+  "id": "bank-sp-132",
+  "theme": "Changing the pace",
+  "part1Questions": [
+   "Do you like a busy day?",
+   "When do you slow down?",
+   "Do you finish tasks quickly?",
+   "What activities make you lose track of time?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a day when you deliberately changed your usual pace.",
+   "bulletPoints": [
+    "what your normal pace is",
+    "why you changed it",
+    "what you did differently",
+    "how the day felt"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people value speed differently?",
+   "When can working quickly reduce quality?",
+   "Should services always aim to be faster?",
+   "How can people balance efficiency with careful attention?"
+  ]
+ },
+ {
+  "id": "bank-sp-133",
+  "theme": "An improvised game",
+  "part1Questions": [
+   "Did you invent games as a child?",
+   "Do you enjoy simple games?",
+   "Who do you play games with?",
+   "Do you prefer clear rules?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a game you played using ordinary objects.",
+   "bulletPoints": [
+    "where you played",
+    "what objects you used",
+    "how the game worked",
+    "why it was enjoyable"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a simple game engaging?",
+   "Should children help invent rules?",
+   "How do games teach negotiation?",
+   "Do expensive toys necessarily support richer play?"
+  ]
+ },
+ {
+  "id": "bank-sp-134",
+  "theme": "Meeting a deadline",
+  "part1Questions": [
+   "Do you work steadily or near a deadline?",
+   "How do you divide a large task?",
+   "Do you use a calendar?",
+   "What helps you concentrate?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a deadline you met by changing how you organised your work.",
+   "bulletPoints": [
+    "what had to be completed",
+    "how much time you had",
+    "what you changed",
+    "how the change helped"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "When do deadlines improve performance?",
+   "Can unrealistic deadlines create hidden costs?",
+   "How should teams negotiate delivery dates?",
+   "Should schools assess planning as well as final results?"
+  ]
+ },
+ {
+  "id": "bank-sp-135",
+  "theme": "An accessible explanation",
+  "part1Questions": [
+   "Do you prefer simple language?",
+   "What information do you sometimes need help understanding?",
+   "Do diagrams help you?",
+   "Do you ask people to repeat themselves?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe information that became useful after someone explained it differently.",
+   "bulletPoints": [
+    "what the information concerned",
+    "why the first explanation was difficult",
+    "how it was explained differently",
+    "what you could do afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why should public information use clear language?",
+   "Does technical language always improve precision?",
+   "How can authorities test understanding?",
+   "Should essential services offer several communication formats?"
+  ]
+ },
+ {
+  "id": "bank-sp-136",
+  "theme": "Sharing a recipe",
+  "part1Questions": [
+   "Do people exchange recipes in your family?",
+   "Do you write down cooking ideas?",
+   "Who taught you a favourite dish?",
+   "Do you explain recipes step by step?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a recipe or food preparation tip you shared with someone.",
+   "bulletPoints": [
+    "what you shared",
+    "who wanted it",
+    "how you explained it",
+    "what happened afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does food knowledge pass between generations?",
+   "Why are some recipes kept private?",
+   "Can online sharing change traditional dishes?",
+   "Should practical food knowledge be recorded formally?"
+  ]
+ },
+ {
+  "id": "bank-sp-137",
+  "theme": "A small discovery at home",
+  "part1Questions": [
+   "Do you explore storage spaces?",
+   "Have you found something you thought was lost?",
+   "Do you enjoy sorting drawers?",
+   "What do you keep in a familiar place?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something useful you unexpectedly found at home.",
+   "bulletPoints": [
+    "what you found",
+    "where it was",
+    "why it had been overlooked",
+    "how you used it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people lose track of possessions?",
+   "Can organisation reduce unnecessary purchases?",
+   "How can homes accommodate changing needs?",
+   "Does having more storage always solve clutter?"
+  ]
+ },
+ {
+  "id": "bank-sp-138",
+  "theme": "Being shown a neighbourhood",
+  "part1Questions": [
+   "Do you like guided walks?",
+   "Who knows your local area well?",
+   "What would you show a visitor first?",
+   "Do you enjoy hearing local stories?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a neighbourhood someone introduced to you on foot.",
+   "bulletPoints": [
+    "who showed you around",
+    "where you walked",
+    "what they pointed out",
+    "what you understood better afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What do residents know that guidebooks may miss?",
+   "Should walking tours include everyday life?",
+   "How can neighbourhood tours respect residents' privacy?",
+   "Who should decide how a place is represented?"
+  ]
+ },
+ {
+  "id": "bank-sp-139",
+  "theme": "A thoughtful arrangement",
+  "part1Questions": [
+   "Do you plan activities for others?",
+   "Do you check people's availability?",
+   "What makes an arrangement convenient?",
+   "Do you like having choices?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a plan someone made that took your needs into account.",
+   "bulletPoints": [
+    "who made the plan",
+    "what you were going to do",
+    "what need they considered",
+    "why you appreciated it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do small arrangements affect inclusion?",
+   "How can organisers discover participants' needs?",
+   "Should convenience for the majority determine every plan?",
+   "What limits should organisers explain clearly?"
+  ]
+ },
+ {
+  "id": "bank-sp-140",
+  "theme": "Learning to estimate",
+  "part1Questions": [
+   "Do you estimate how long tasks take?",
+   "Are you good at judging distances?",
+   "Do you measure ingredients carefully?",
+   "When do you need an exact number?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you learned to make a more accurate estimate.",
+   "bulletPoints": [
+    "what you estimated",
+    "what your first judgement was",
+    "how you checked it",
+    "what you learned"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "When are estimates sufficient?",
+   "Why should people communicate uncertainty?",
+   "Can precise-looking figures be misleading?",
+   "How can schools teach practical estimation?"
+  ]
+ },
+ {
+  "id": "bank-sp-141",
+  "theme": "Returning a favour",
+  "part1Questions": [
+   "Do you remember help people give you?",
+   "How do you usually say thank you?",
+   "Do you enjoy helping friends?",
+   "Do you expect favours to be returned?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you found a way to return someone's kindness.",
+   "bulletPoints": [
+    "who had helped you",
+    "what they had done",
+    "what opportunity arose",
+    "how you returned the kindness"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should favours create obligations?",
+   "How can gratitude be expressed without spending money?",
+   "Why do communities rely on reciprocity?",
+   "Can expecting a return reduce generosity?"
+  ]
+ },
+ {
+  "id": "bank-sp-142",
+  "theme": "A useful boundary",
+  "part1Questions": [
+   "Do you set aside time for yourself?",
+   "How do you avoid interruptions?",
+   "Do you tell others when you are busy?",
+   "What helps you switch off after work or study?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a rule you adopted to protect time for an important activity.",
+   "bulletPoints": [
+    "what activity mattered",
+    "what interruptions you faced",
+    "what rule you adopted",
+    "how it affected your routine"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can personal boundaries be difficult to communicate?",
+   "Should employers expect replies outside working hours?",
+   "How can families respect different schedules?",
+   "When is flexibility more important than a fixed boundary?"
+  ]
+ },
+ {
+  "id": "bank-sp-143",
+  "theme": "An unfamiliar tool",
+  "part1Questions": [
+   "Do you enjoy learning to use tools?",
+   "Do you ask for a demonstration?",
+   "What tools do you use regularly?",
+   "Do you check safety instructions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a tool you used for the first time with someone's guidance.",
+   "bulletPoints": [
+    "what the tool was",
+    "why you needed it",
+    "what guidance you received",
+    "how the experience went"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is supervision important when learning practical tasks?",
+   "Should beginners use simplified equipment?",
+   "How can instructions prevent common errors?",
+   "When should a person seek professional assistance?"
+  ]
+ },
+ {
+  "id": "bank-sp-144",
+  "theme": "Correcting a misunderstanding",
+  "part1Questions": [
+   "Do you ask people to clarify messages?",
+   "Do you prefer calling or texting?",
+   "Have you ever misread a plan?",
+   "What helps you communicate clearly?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a misunderstanding you resolved by asking a question.",
+   "bulletPoints": [
+    "who was involved",
+    "what had been misunderstood",
+    "what you asked",
+    "how the situation was resolved"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do written messages sometimes create confusion?",
+   "What makes clarification respectful?",
+   "Should organisations confirm important instructions in more than one way?",
+   "How can people acknowledge misunderstandings without blaming others?"
+  ]
+ },
+ {
+  "id": "bank-sp-145",
+  "theme": "A nearby change",
+  "part1Questions": [
+   "Do you notice changes in your street?",
+   "Do you use local footpaths?",
+   "How do you hear about building work?",
+   "What small change would improve your area?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small physical change that improved a place near you.",
+   "bulletPoints": [
+    "where the change happened",
+    "what was changed",
+    "who benefited",
+    "why it made a difference"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can small infrastructure changes have large effects?",
+   "Should residents be consulted about street improvements?",
+   "How can authorities evaluate who benefits?",
+   "Is maintaining existing facilities as valuable as building new ones?"
+  ]
+ },
+ {
+  "id": "bank-sp-146",
+  "theme": "A task with limited materials",
+  "part1Questions": [
+   "Do you enjoy making things?",
+   "What materials do you save?",
+   "Have you used recycled paper?",
+   "Do you prefer planning before making something?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you made using only the materials available at the time.",
+   "bulletPoints": [
+    "what you made",
+    "what materials you had",
+    "how the limitations shaped your idea",
+    "what you thought of the result"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Can limited resources encourage creativity?",
+   "When do constraints prevent good work?",
+   "Should schools provide open-ended making activities?",
+   "How can reuse be taught without lowering safety standards?"
+  ]
+ },
+ {
+  "id": "bank-sp-147",
+  "theme": "Choosing a helpful example",
+  "part1Questions": [
+   "Do examples help you understand rules?",
+   "Do you remember stories from lessons?",
+   "Do you explain ideas using familiar situations?",
+   "What makes an example memorable?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an example you used to help someone understand your point.",
+   "bulletPoints": [
+    "what you were discussing",
+    "who you were speaking to",
+    "what example you chose",
+    "why it worked"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes an example relevant to an audience?",
+   "Can a memorable story outweigh stronger evidence?",
+   "How should teachers explain exceptions?",
+   "Why is it useful to compare several examples?"
+  ]
+ },
+ {
+  "id": "bank-sp-148",
+  "theme": "An unexpected responsibility",
+  "part1Questions": [
+   "Do you like being trusted with tasks?",
+   "What responsibilities do you have?",
+   "Do you ask questions before starting?",
+   "Who can you turn to for support?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a responsibility you took on with little preparation.",
+   "bulletPoints": [
+    "what you needed to do",
+    "why you were asked",
+    "how you prepared quickly",
+    "what you learned"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should new responsibilities be introduced?",
+   "When does trust become an unreasonable expectation?",
+   "Should people be allowed to decline extra tasks?",
+   "How can organisations support inexperienced members?"
+  ]
+ },
+ {
+  "id": "bank-sp-149",
+  "theme": "Checking an assumption",
+  "part1Questions": [
+   "Do you check information before acting?",
+   "What sources do you usually consult?",
+   "Do you enjoy testing ideas?",
+   "Have your expectations surprised you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you checked an assumption and discovered it was wrong.",
+   "bulletPoints": [
+    "what you had assumed",
+    "why you decided to check",
+    "what you found",
+    "how you changed your action"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do assumptions persist?",
+   "How can teams encourage people to question routines?",
+   "Should public decisions explain the evidence behind them?",
+   "What makes admitting uncertainty useful?"
+  ]
+ },
+ {
+  "id": "bank-sp-150",
+  "theme": "A useful timetable",
+  "part1Questions": [
+   "Do you consult transport timetables?",
+   "Do you plan study sessions?",
+   "What schedules do you follow?",
+   "Do you prefer regular starting times?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a timetable that helped you coordinate more than one activity.",
+   "bulletPoints": [
+    "what activities you had",
+    "where the timetable came from",
+    "how you used it",
+    "why it was helpful"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a timetable realistic?",
+   "How can schedules accommodate different needs?",
+   "Should public timetables include extra time for delays?",
+   "Can excessive scheduling reduce flexibility?"
+  ]
+ },
+ {
+  "id": "bank-sp-151",
+  "theme": "Noticing good design",
+  "part1Questions": [
+   "Do you notice how objects are designed?",
+   "What object is easy for you to use?",
+   "Do you prefer simple controls?",
+   "Have you struggled with an everyday device?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an ordinary object whose design you admire.",
+   "bulletPoints": [
+    "what it is",
+    "how you use it",
+    "what design detail you appreciate",
+    "why that detail matters"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What is the relationship between appearance and usability?",
+   "Should users help test new designs?",
+   "Why can simple objects be difficult to design well?",
+   "How can designers account for different physical abilities?"
+  ]
+ },
+ {
+  "id": "bank-sp-152",
+  "theme": "A short independent trip",
+  "part1Questions": [
+   "Do you enjoy travelling alone locally?",
+   "How do you plan a route?",
+   "What do you take on a short outing?",
+   "Do you prefer familiar destinations?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a short trip you organised entirely by yourself.",
+   "bulletPoints": [
+    "where you went",
+    "why you wanted to go",
+    "what you arranged",
+    "what the experience taught you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can independent travel build confidence?",
+   "What information helps inexperienced travellers?",
+   "Should public transport be easier to use without a phone?",
+   "How can cities support people making unfamiliar journeys?"
+  ]
+ },
+ {
+  "id": "bank-sp-153",
+  "theme": "Learning someone's preference",
+  "part1Questions": [
+   "Do you remember how friends take their drinks?",
+   "Do you ask guests what they prefer?",
+   "Are your preferences consistent?",
+   "What small detail makes you feel welcome?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time remembering someone's preference helped you.",
+   "bulletPoints": [
+    "who the person was",
+    "what preference you remembered",
+    "how you used that knowledge",
+    "how the person responded"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can remembering small preferences show care?",
+   "When does personalisation become intrusive?",
+   "Should businesses store customer preferences?",
+   "How can hosts avoid making assumptions?"
+  ]
+ },
+ {
+  "id": "bank-sp-154",
+  "theme": "An explanation you revised",
+  "part1Questions": [
+   "Do you change how you explain something?",
+   "How do you notice confusion?",
+   "Do you use drawings?",
+   "Do you give people time to ask questions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you explained the same thing in two different ways.",
+   "bulletPoints": [
+    "what you explained",
+    "who was listening",
+    "why you changed your explanation",
+    "which approach worked better"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people need different explanations?",
+   "How can teachers adapt without lowering expectations?",
+   "Should instructions be tested before publication?",
+   "Can explaining improve the speaker's own understanding?"
+  ]
+ },
+ {
+  "id": "bank-sp-155",
+  "theme": "A shared resource",
+  "part1Questions": [
+   "Do you use a community library?",
+   "Have you shared equipment with neighbours?",
+   "What would you like to borrow locally?",
+   "Do you look after shared items?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a shared resource that you think is managed well.",
+   "bulletPoints": [
+    "what the resource is",
+    "who uses it",
+    "how it is organised",
+    "why the arrangement works"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What rules protect shared resources?",
+   "Should access be free for everyone?",
+   "How can heavy use be balanced with fair availability?",
+   "Who should make decisions about shared facilities?"
+  ]
+ },
+ {
+  "id": "bank-sp-156",
+  "theme": "Planning for weather",
+  "part1Questions": [
+   "Do you check the weather before going out?",
+   "What do you carry in wet weather?",
+   "Do you change plans because of heat?",
+   "What weather do you enjoy walking in?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an outdoor plan you adapted because of the weather.",
+   "bulletPoints": [
+    "what you planned",
+    "what the weather was like",
+    "what you changed",
+    "how the day turned out"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can public spaces be comfortable in different weather?",
+   "Should events offer backup arrangements?",
+   "How do weather needs differ between age groups?",
+   "Who should provide reliable local weather information?"
+  ]
+ },
+ {
+  "id": "bank-sp-157",
+  "theme": "An unusual use for a room",
+  "part1Questions": [
+   "Do rooms in your home serve several purposes?",
+   "Do you enjoy flexible spaces?",
+   "Where do you do practical tasks?",
+   "Do you move things before an activity?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a room you saw being used for an unexpected purpose.",
+   "bulletPoints": [
+    "where the room was",
+    "its usual purpose",
+    "how it was used differently",
+    "why the arrangement interested you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do communities need flexible buildings?",
+   "What limits the reuse of existing rooms?",
+   "Should new buildings be designed for changing purposes?",
+   "Can temporary use help evaluate a permanent change?"
+  ]
+ },
+ {
+  "id": "bank-sp-158",
+  "theme": "Helping someone practise",
+  "part1Questions": [
+   "Have you helped someone revise?",
+   "Do you enjoy listening to practice talks?",
+   "How do you encourage a beginner?",
+   "What feedback do you find useful?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you helped someone practise before an important occasion.",
+   "bulletPoints": [
+    "who the person was",
+    "what they were preparing for",
+    "how you helped",
+    "what improved during the practice"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is rehearsal useful?",
+   "How can practice partners give honest feedback kindly?",
+   "Should schools teach peer coaching?",
+   "Can too much rehearsal make performance less natural?"
+  ]
+ },
+ {
+  "id": "bank-sp-159",
+  "theme": "A useful mistake in a plan",
+  "part1Questions": [
+   "Do you check plans before starting?",
+   "How do you notice missing details?",
+   "Do you discuss plans with someone?",
+   "What planning tools do you use?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an error you spotted before a plan was carried out.",
+   "bulletPoints": [
+    "what was planned",
+    "what the error was",
+    "how you noticed it",
+    "what changed as a result"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why should plans be reviewed by more than one person?",
+   "How can groups make it safe to report problems?",
+   "When should planning give way to action?",
+   "What is the value of a small trial?"
+  ]
+ },
+ {
+  "id": "bank-sp-160",
+  "theme": "Being trusted with an object",
+  "part1Questions": [
+   "Do you look after other people's belongings?",
+   "Have you kept something safe for a friend?",
+   "What items need special care?",
+   "How do you remember what belongs to whom?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an object someone trusted you to look after.",
+   "bulletPoints": [
+    "what the object was",
+    "who owned it",
+    "how you cared for it",
+    "why the responsibility mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people attach different values to objects?",
+   "How does trust develop through small responsibilities?",
+   "Should shared storage services guarantee replacement?",
+   "What should someone do if a borrowed object is damaged?"
+  ]
+ },
+ {
+  "id": "bank-sp-161",
+  "theme": "A low-cost improvement",
+  "part1Questions": [
+   "Do you enjoy improving your surroundings?",
+   "What small purchases are useful to you?",
+   "Do you reuse things creatively?",
+   "Who gives you practical suggestions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an improvement you made without spending much money.",
+   "bulletPoints": [
+    "what you wanted to improve",
+    "what you used",
+    "what you changed",
+    "why it was effective"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people associate quality with price?",
+   "How can communities share affordable ideas?",
+   "When is investing more worthwhile?",
+   "Should public projects prioritise simple improvements?"
+  ]
+ },
+ {
+  "id": "bank-sp-162",
+  "theme": "Comparing two explanations",
+  "part1Questions": [
+   "Do you consult more than one source?",
+   "What makes an explanation convincing?",
+   "Do you enjoy discussing different viewpoints?",
+   "How do you deal with conflicting advice?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe two explanations you heard for the same situation.",
+   "bulletPoints": [
+    "what the situation was",
+    "who gave each explanation",
+    "how the explanations differed",
+    "what you concluded"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can reasonable people explain events differently?",
+   "How should people evaluate competing explanations?",
+   "Should news reports distinguish facts from interpretation?",
+   "What role does uncertainty play in responsible communication?"
+  ]
+ },
+ {
+  "id": "bank-sp-163",
+  "theme": "A thoughtful question",
+  "part1Questions": [
+   "Do people ask about your interests?",
+   "What questions make you feel understood?",
+   "Do you enjoy detailed conversations?",
+   "How do you show interest in someone?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a question someone asked that made you think carefully.",
+   "bulletPoints": [
+    "who asked it",
+    "what the question concerned",
+    "why it was difficult",
+    "what you realised while answering"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can questions encourage reflection?",
+   "Should interviews allow time for thought?",
+   "How can questions be respectful rather than intrusive?",
+   "Do schools reward good questions enough?"
+  ]
+ },
+ {
+  "id": "bank-sp-164",
+  "theme": "An organised handover",
+  "part1Questions": [
+   "Have you taken over a task from someone?",
+   "Do you leave notes for others?",
+   "What instructions do you usually need?",
+   "Do you check what has already been done?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you handed a task over to another person.",
+   "bulletPoints": [
+    "what the task was",
+    "why someone else took over",
+    "what information you provided",
+    "how you made the transition easier"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are handovers important?",
+   "What knowledge is difficult to record?",
+   "Should workplaces set aside time for transitions?",
+   "How can teams avoid depending on one person's memory?"
+  ]
+ },
+ {
+  "id": "bank-sp-165",
+  "theme": "Learning to notice progress",
+  "part1Questions": [
+   "Do you record practice sessions?",
+   "Do you compare old and new work?",
+   "What motivates you to continue?",
+   "Who notices your improvements?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an early piece of work that showed you how far you had progressed.",
+   "bulletPoints": [
+    "what the work was",
+    "when you produced it",
+    "how it compared with later work",
+    "what you felt when comparing them"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can portfolios show development?",
+   "Are grades sufficient to describe progress?",
+   "Why do learners sometimes underestimate improvement?",
+   "Should assessment include reflection on earlier work?"
+  ]
+ },
+ {
+  "id": "bank-sp-166",
+  "theme": "An unexpected recommendation",
+  "part1Questions": [
+   "Do you accept recommendations from strangers?",
+   "What do you recommend to visitors?",
+   "Do you read reviews?",
+   "How do you judge whether advice suits you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a recommendation from an unexpected person that proved useful.",
+   "bulletPoints": [
+    "who offered it",
+    "what they recommended",
+    "why you tried it",
+    "how it helped or interested you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a recommendation relevant?",
+   "How do personal and commercial recommendations differ?",
+   "Should paid recommendations be clearly identified?",
+   "Can recommendation systems narrow people's choices?"
+  ]
+ },
+ {
+  "id": "bank-sp-167",
+  "theme": "Making an activity inclusive",
+  "part1Questions": [
+   "Do you enjoy mixed-ability groups?",
+   "How do you include a quiet friend?",
+   "Do you explain rules before starting?",
+   "What makes an activity welcoming?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small change that allowed more people to join an activity.",
+   "bulletPoints": [
+    "what the activity was",
+    "who had difficulty joining",
+    "what was changed",
+    "how participation improved"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What barriers prevent people joining activities?",
+   "Should organisers ask participants about adjustments?",
+   "How can inclusion benefit an entire group?",
+   "When is a separate activity more appropriate?"
+  ]
+ },
+ {
+  "id": "bank-sp-168",
+  "theme": "A well-kept public space",
+  "part1Questions": [
+   "Do you notice litter in your area?",
+   "Do you use public squares?",
+   "What makes a space pleasant?",
+   "Have you helped tidy a shared place?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a public place where regular care is easy to notice.",
+   "bulletPoints": [
+    "where it is",
+    "what care it receives",
+    "who uses it",
+    "why its condition impresses you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Who should maintain public spaces?",
+   "How can maintenance be funded fairly?",
+   "Should residents help set maintenance priorities?",
+   "Does good upkeep influence people's behaviour?"
+  ]
+ },
+ {
+  "id": "bank-sp-169",
+  "theme": "A conversation across generations",
+  "part1Questions": [
+   "Do you talk often with older relatives?",
+   "What do you ask younger people about?",
+   "Do family members share stories?",
+   "What interests cross age groups in your family?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a practical conversation with someone from a different generation.",
+   "bulletPoints": [
+    "who the person was",
+    "what you discussed",
+    "what each of you contributed",
+    "what you understood better afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What can generations learn from one another?",
+   "Why do stereotypes about age persist?",
+   "Should communities create more activities across age groups?",
+   "How can people discuss changed customs respectfully?"
+  ]
+ },
+ {
+  "id": "bank-sp-170",
+  "theme": "Finding time for a hobby",
+  "part1Questions": [
+   "What do you do in short free periods?",
+   "Do you plan time for hobbies?",
+   "What interrupts your leisure time?",
+   "Do you prefer frequent short sessions?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a way you found time for an interest during a busy period.",
+   "bulletPoints": [
+    "what interested you",
+    "what made you busy",
+    "how you found time",
+    "why continuing mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should leisure time be treated as a priority?",
+   "How can employers support life outside work?",
+   "Can turning a hobby into work change its value?",
+   "Why do people's leisure opportunities differ?"
+  ]
+ },
+ {
+  "id": "bank-sp-171",
+  "theme": "A rule you understood later",
+  "part1Questions": [
+   "Do you ask why rules exist?",
+   "What rules are easy to remember?",
+   "Do you prefer written guidelines?",
+   "Have you helped explain a rule to someone?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a rule whose purpose became clear after you saw it in use.",
+   "bulletPoints": [
+    "what the rule was",
+    "where it applied",
+    "what experience clarified it",
+    "how your view changed"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should rules always have explanations?",
+   "How can rules be reviewed when circumstances change?",
+   "When should exceptions be allowed?",
+   "What helps people see a rule as legitimate?"
+  ]
+ },
+ {
+  "id": "bank-sp-172",
+  "theme": "A modest ambition",
+  "part1Questions": [
+   "Do you set small goals?",
+   "What would you like to do better soon?",
+   "Do you tell others about your plans?",
+   "How do you choose achievable targets?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a modest goal you would like to achieve in the next few months.",
+   "bulletPoints": [
+    "what the goal is",
+    "why you chose it",
+    "what steps you would take",
+    "how you would recognise success"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can small goals be motivating?",
+   "Should ambitions be adjusted when circumstances change?",
+   "How do social expectations influence goals?",
+   "Is visible achievement the only sign of success?"
+  ]
+ },
+ {
+  "id": "bank-sp-173",
+  "theme": "Recognising another person's skill",
+  "part1Questions": [
+   "Do you watch people doing practical tasks?",
+   "Whose work do you admire?",
+   "Do you notice careful preparation?",
+   "Have you thanked someone for doing a job well?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a person whose skill you appreciated after seeing them work.",
+   "bulletPoints": [
+    "who the person was",
+    "what they were doing",
+    "what you noticed about their technique",
+    "why it changed your appreciation"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some skills undervalued?",
+   "How can professional expertise be made visible?",
+   "Should practical and academic skills receive equal respect?",
+   "What makes evaluating someone else's work difficult?"
+  ]
+ },
+ {
+  "id": "bank-sp-174",
+  "theme": "A reminder of a place",
+  "part1Questions": [
+   "Do objects remind you of places?",
+   "Do you keep tickets or postcards?",
+   "What reminds you of your neighbourhood?",
+   "Do you enjoy familiar smells?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small object that reminds you of a particular place.",
+   "bulletPoints": [
+    "what the object is",
+    "how you obtained it",
+    "what place it recalls",
+    "why the connection matters to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do ordinary objects become meaningful?",
+   "How do souvenirs represent a place?",
+   "Can commercial souvenirs misrepresent local culture?",
+   "Should museums invite people to share personal objects?"
+  ]
+ },
+ {
+  "id": "bank-sp-175",
+  "theme": "Making a task enjoyable",
+  "part1Questions": [
+   "Do you listen to music during chores?",
+   "Do you prefer company for routine jobs?",
+   "How do you stay motivated?",
+   "What ordinary task do you enjoy?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a way you made a routine task more enjoyable.",
+   "bulletPoints": [
+    "what the task was",
+    "why it felt routine",
+    "what you changed",
+    "how the change affected your experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do routine tasks become tiring?",
+   "Should workplaces redesign repetitive jobs?",
+   "Can rewards reduce enjoyment over time?",
+   "How can people find meaning in necessary everyday work?"
+  ]
+ },
+ {
+  "id": "bank-sp-176",
+  "theme": "An honest limitation",
+  "part1Questions": [
+   "Do you ask for help when needed?",
+   "Do you tell people if you lack experience?",
+   "What do you prefer learning slowly?",
+   "Do you value clear expectations?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time you explained honestly what you could and could not do.",
+   "bulletPoints": [
+    "what you were asked to do",
+    "what your limitation was",
+    "how you explained it",
+    "what arrangement followed"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why is admitting limitations sometimes difficult?",
+   "Should professionals be open about uncertainty?",
+   "How can organisations avoid rewarding overconfidence?",
+   "What is the relationship between honesty and trust?"
+  ]
+ },
+ {
+  "id": "bank-sp-177",
+  "theme": "Checking before leaving",
+  "part1Questions": [
+   "What do you check before going out?",
+   "Do you pack in advance?",
+   "Have you developed a travel checklist?",
+   "Do you leave things near the door?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a checking habit that saved you inconvenience.",
+   "bulletPoints": [
+    "what you usually check",
+    "how the habit began",
+    "when it proved useful",
+    "why you have continued it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can simple checks prevent larger problems?",
+   "When do checklists become ineffective?",
+   "Should workplaces involve staff in designing procedures?",
+   "What tasks need independent checks?"
+  ]
+ },
+ {
+  "id": "bank-sp-178",
+  "theme": "A successful compromise",
+  "part1Questions": [
+   "Do you choose activities with friends?",
+   "Are you comfortable suggesting alternatives?",
+   "What helps you negotiate plans?",
+   "Do you take turns deciding?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a compromise that allowed a shared activity to go ahead.",
+   "bulletPoints": [
+    "what people wanted",
+    "where preferences differed",
+    "what compromise you suggested",
+    "why it was acceptable"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What distinguishes compromise from simply giving in?",
+   "Should everyone make equal concessions?",
+   "How can groups recognise non-negotiable needs?",
+   "Why does explaining priorities help negotiation?"
+  ]
+ },
+ {
+  "id": "bank-sp-179",
+  "theme": "Discovering an ability",
+  "part1Questions": [
+   "Do you enjoy trying unfamiliar tasks?",
+   "Have people encouraged you to try something?",
+   "Do you consider yourself practical?",
+   "What ability would you like to explore?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a task that revealed an ability you had not recognised before.",
+   "bulletPoints": [
+    "what the task was",
+    "why you attempted it",
+    "what you found you could do",
+    "how the discovery affected you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How do people discover their strengths?",
+   "Can early labels limit children's interests?",
+   "Should education offer more opportunities to experiment?",
+   "How can adults explore new abilities without major expense?"
+  ]
+ },
+ {
+  "id": "bank-sp-180",
+  "theme": "A careful purchase",
+  "part1Questions": [
+   "Do you wait before buying something?",
+   "What information do you look for?",
+   "Do you prefer trying items first?",
+   "What makes a purchase worthwhile?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a purchase you considered carefully before making.",
+   "bulletPoints": [
+    "what you needed",
+    "which alternatives you considered",
+    "what information helped",
+    "why your final choice suited you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can consumers compare long-term value?",
+   "Do advertisements make careful choices harder?",
+   "Should retailers explain product limitations?",
+   "What role should independent testing play?"
+  ]
+ },
+ {
+  "id": "bank-sp-181",
+  "theme": "Seeing a place at a different time",
+  "part1Questions": [
+   "Do you walk early in the morning?",
+   "How does your area change at night?",
+   "When are local streets quiet?",
+   "Do you enjoy returning to familiar places?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a familiar place you experienced at an unusual time of day.",
+   "bulletPoints": [
+    "which place it was",
+    "when you visited",
+    "what felt different",
+    "why you remember the experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does time affect the use of public spaces?",
+   "Should cities plan for night-time users?",
+   "What makes a place feel safe after dark?",
+   "How can different activities share the same space over a day?"
+  ]
+ }
+]

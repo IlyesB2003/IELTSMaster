@@ -1,0 +1,740 @@
+[
+ {
+  "id": "focus-reading-001",
+  "title": "What a seed packet can tell a gardener",
+  "questions": [
+   {
+    "id": "focus-reading-001-R1",
+    "number": 1,
+    "format": "True / False / Not Given",
+    "prompt": "Information about plant height helps a gardener anticipate its mature size.",
+    "explanation": "Height information describes an expected mature characteristic.",
+    "evidenceQuote": "a description of height helps a gardener imagine the mature plant",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "TRUE"
+    ]
+   },
+   {
+    "id": "focus-reading-001-R2",
+    "number": 2,
+    "format": "True / False / Not Given",
+    "prompt": "Different results from one packet necessarily demonstrate an inaccurate label.",
+    "explanation": "Other growing conditions must be considered.",
+    "evidenceQuote": "Different results would not, by themselves, prove that the label was inaccurate.",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "FALSE"
+    ]
+   },
+   {
+    "id": "focus-reading-001-R3",
+    "number": 3,
+    "format": "Sentence Completion",
+    "prompt": "A sowing period provides advice about __________.",
+    "explanation": "The sowing period concerns when to sow.",
+    "evidenceQuote": "A sowing period gives guidance about timing",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "timing"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-001-R4",
+    "number": 4,
+    "format": "Sentence Completion",
+    "prompt": "The packet is a starting point for a practical __________.",
+    "explanation": "Guidance supports a decision but cannot cover all circumstances.",
+    "evidenceQuote": "a starting point for a practical decision",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "decision"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 2,
+    "instruction": "Questions 1–2. Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN."
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "instruction": "Questions 3–4. Complete the sentences. Choose ONE WORD ONLY from the text."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Information Literacy",
+  "paragraphs": [
+   "A packet of seeds can contain several kinds of information, and they should not all be read in the same way. The plant name identifies what the packet is intended to contain. A sowing period gives guidance about timing, while a description of height helps a gardener imagine the mature plant. None of these details guarantees that every seed will develop successfully. Conditions in a particular garden may differ from those assumed by the writer of the instructions.",
+   "Imagine two gardeners using seeds from the same packet. One grows them in a sheltered container; the other chooses an exposed bed. Different results would not, by themselves, prove that the label was inaccurate. To investigate a disappointing outcome, the gardener would need to consider preparation, moisture and other conditions rather than selecting a single explanation immediately. The packet is therefore a starting point for a practical decision, not a complete description of every possible growing situation. Clear guidance can acknowledge such limits without becoming so cautious that it provides no useful direction."
+  ],
+  "estimatedWordCount": 171
+ },
+ {
+  "id": "focus-reading-002",
+  "title": "The limits of a building model",
+  "questions": [
+   {
+    "id": "focus-reading-002-R1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "What may a simple block model usefully compare?",
+    "explanation": "Overall form can be studied without detailed openings.",
+    "evidenceQuote": "appropriate for comparing overall shapes",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. The overall forms of proposed buildings.",
+     "B. The durability of window materials.",
+     "C. The exact amount of daylight in each room."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. The overall forms of proposed buildings.",
+     "The overall forms of proposed buildings."
+    ]
+   },
+   {
+    "id": "focus-reading-002-R2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "Why might a model omit doors?",
+    "explanation": "Omissions can match the intended task rather than indicate poor quality.",
+    "evidenceQuote": "they may reflect a deliberately limited purpose",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. The designer forgot the entrance.",
+     "B. The future building will have no doors.",
+     "C. Doors are irrelevant to its particular purpose."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. Doors are irrelevant to its particular purpose.",
+     "Doors are irrelevant to its particular purpose."
+    ]
+   },
+   {
+    "id": "focus-reading-002-R3",
+    "number": 3,
+    "format": "Multiple Choice",
+    "prompt": "What is the problem with judging daylight from an exhibition model?",
+    "explanation": "Display lighting does not establish full-sized performance.",
+    "evidenceQuote": "does not establish the amount of daylight the full-sized room will receive",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. All models are unsuitable for public exhibitions.",
+     "B. The display conditions do not establish the real result.",
+     "C. A bright room is necessarily uncomfortable."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. The display conditions do not establish the real result.",
+     "The display conditions do not establish the real result."
+    ]
+   },
+   {
+    "id": "focus-reading-002-R4",
+    "number": 4,
+    "format": "Multiple Choice",
+    "prompt": "Explaining a model’s limits allows observers to",
+    "explanation": "Clear limits support more relevant discussion.",
+    "evidenceQuote": "ask appropriate questions",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. ask questions suited to what it represents.",
+     "B. avoid considering the proposal further.",
+     "C. treat visual appeal as proof of performance."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. ask questions suited to what it represents.",
+     "ask questions suited to what it represents."
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Choose the correct letter, A, B or C."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Design Methods",
+  "paragraphs": [
+   "An architectural model can make the arrangement of a proposed building easier to understand. A viewer may see how rooms connect or where an entrance sits in relation to a street. But the model's usefulness depends on what it was made to represent. A simple block model may be appropriate for comparing overall shapes, even if it contains no doors or windows. Its missing details do not automatically make it a poor model; they may reflect a deliberately limited purpose.",
+   "Problems arise when a viewer treats a representation as evidence for a claim it was not designed to support. A miniature room that looks bright under an exhibition lamp does not establish the amount of daylight the full-sized room will receive. That question needs a method suited to light and the relevant conditions. Designers should explain what a model can and cannot show. Doing so does not weaken the proposal. It allows observers to ask appropriate questions and prevents visual appeal from being mistaken for a completed assessment of performance."
+  ],
+  "estimatedWordCount": 170
+ },
+ {
+  "id": "focus-reading-003",
+  "title": "A collection is not automatically a sample",
+  "questions": [
+   {
+    "id": "focus-reading-003-R1",
+    "number": 1,
+    "format": "True / False / Not Given",
+    "prompt": "The photographs may preserve valuable accounts of individual experiences.",
+    "explanation": "A non-representative collection can still be valuable.",
+    "evidenceQuote": "The pictures may offer rich accounts of particular experiences.",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "TRUE"
+    ]
+   },
+   {
+    "id": "focus-reading-003-R2",
+    "number": 2,
+    "format": "True / False / Not Given",
+    "prompt": "Every household in the hypothetical school has photographs available to contribute.",
+    "explanation": "Some households have no available photographs.",
+    "evidenceQuote": "others have none to contribute",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "FALSE"
+    ]
+   },
+   {
+    "id": "focus-reading-003-R3",
+    "number": 3,
+    "format": "True / False / Not Given",
+    "prompt": "The anniversary exhibition will remain open for six weeks.",
+    "explanation": "The text gives no opening duration.",
+    "evidenceQuote": "an anniversary exhibition",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "NOT GIVEN"
+    ]
+   },
+   {
+    "id": "focus-reading-003-R4",
+    "number": 4,
+    "format": "True / False / Not Given",
+    "prompt": "Explaining how contributions were obtained can help visitors interpret the collection.",
+    "explanation": "Assembly information clarifies the limits of representativeness.",
+    "evidenceQuote": "Stating how the collection was assembled helps visitors distinguish",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "TRUE"
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Research Methods",
+  "paragraphs": [
+   "Imagine a school displaying photographs submitted by families for an anniversary exhibition. The pictures may offer rich accounts of particular experiences. They do not necessarily represent every family connected with the school. Some households may have preserved many photographs, while others have none to contribute. The exhibition reflects both the original events and later decisions about what was kept, found and submitted.",
+   "This limitation does not make the collection worthless. It changes the questions that can responsibly be asked of it. A photograph can document an occasion or invite further investigation, but counting the activities visible in the collection cannot by itself establish how often all pupils took part in those activities. An organiser could seek additional material from less represented groups and record how contributions were obtained. Even then, the aim should be to broaden understanding rather than announce that every absence has been corrected. Stating how the collection was assembled helps visitors distinguish an engaging set of examples from a representative survey."
+  ],
+  "estimatedWordCount": 164
+ },
+ {
+  "id": "focus-reading-004",
+  "title": "When two figures do not describe the same thing",
+  "questions": [
+   {
+    "id": "focus-reading-004-R1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "What differs between the two hypothetical centres’ percentages?",
+    "explanation": "The underlying populations differ.",
+    "evidenceQuote": "The first figure concerns people attending workshops; the second includes people who came for other reasons.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. The unit used to measure distance.",
+     "B. The groups included in the totals.",
+     "C. The definition of a bicycle."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. The groups included in the totals.",
+     "The groups included in the totals."
+    ]
+   },
+   {
+    "id": "focus-reading-004-R2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "What should precede an explanation of the numerical difference?",
+    "explanation": "Comparability should be checked before interpreting the difference.",
+    "evidenceQuote": "establish whether the figures answer the same question",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Checking whether the measures are comparable.",
+     "B. Assuming both figures describe a whole year.",
+     "C. Choosing the centre with the larger percentage."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. Checking whether the measures are comparable.",
+     "Checking whether the measures are comparable."
+    ]
+   },
+   {
+    "id": "focus-reading-004-R3",
+    "number": 3,
+    "format": "Sentence Completion",
+    "prompt": "Each number should be linked to the __________ it describes.",
+    "explanation": "The population is the group underlying the figure.",
+    "evidenceQuote": "what population each number refers to",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "population"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-004-R4",
+    "number": 4,
+    "format": "Sentence Completion",
+    "prompt": "Both percentages may be accurate while the comparison is __________.",
+    "explanation": "Accurate individual figures do not guarantee a fair comparison.",
+    "evidenceQuote": "Neither percentage has to be inaccurate for the comparison to be misleading.",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "misleading"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 2,
+    "instruction": "Questions 1–2. Choose the correct letter, A, B or C."
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "instruction": "Questions 3–4. Complete the sentences. Choose ONE WORD ONLY from the text."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Quantitative Reasoning",
+  "paragraphs": [
+   "Two percentages can look directly comparable while referring to different totals. Suppose a hypothetical centre reports that thirty per cent of its workshop participants travelled by bicycle. Another centre reports that twenty per cent of all its visitors cycled. The first figure concerns people attending workshops; the second includes people who came for other reasons. Comparing the figures without noting this distinction would assume that the groups being described were equivalent.",
+   "The period covered matters as well. A figure collected during a summer activity programme may not describe behaviour throughout the year. Neither percentage has to be inaccurate for the comparison to be misleading. A careful reader asks what population each number refers to, when the information was collected and how participation was defined. These questions should come before an explanation of why one centre appears more successful. Otherwise, an attractive numerical difference can invite a confident story that the available evidence does not support. The first task is to establish whether the figures answer the same question."
+  ],
+  "estimatedWordCount": 168
+ },
+ {
+  "id": "focus-reading-005",
+  "title": "Why a catalogue may preserve disagreement",
+  "questions": [
+   {
+    "id": "focus-reading-005-R1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "The example box may have had several __________.",
+    "explanation": "Different remembered uses can both be correct.",
+    "evidenceQuote": "served several purposes at different times",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "purposes"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-005-R2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "A record should identify who supplied an __________.",
+    "explanation": "Attribution helps readers judge the source.",
+    "evidenceQuote": "who supplied an account",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "account"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-005-R3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "A contributor’s recollection differs from a __________ based on documents.",
+    "explanation": "The record distinguishes kinds of support.",
+    "evidenceQuote": "a conclusion reached after examining documents",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "conclusion"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-005-R4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "An honest description can include __________.",
+    "explanation": "Uncertainty should not be hidden by a confident story.",
+    "evidenceQuote": "uncertainty is part of an honest description",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "uncertainty"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Choose ONE WORD ONLY from the text."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Heritage Interpretation",
+  "paragraphs": [
+   "A community archive may receive two different accounts of an object. One contributor remembers a wooden box being used to store tools; another recalls seeing it used for sewing materials. These statements need not be mutually exclusive. The box may have served several purposes at different times. An archive that selects one account simply to produce a single neat label risks losing part of the object's history.",
+   "However, preserving accounts is not the same as treating every claim as equally well supported. A useful record can identify who supplied an account, when it was recorded and whether other evidence supports it. The archive may distinguish a contributor's recollection from a conclusion reached after examining documents. If new information changes the interpretation, earlier accounts can remain accessible with an explanation of the change. This approach allows visitors to understand how knowledge developed. It also recognises that uncertainty is part of an honest description, rather than a defect that must be concealed by choosing the most confident-sounding story."
+  ],
+  "estimatedWordCount": 166
+ },
+ {
+  "id": "focus-reading-006",
+  "title": "The value of an unsuccessful prototype",
+  "questions": [
+   {
+    "id": "focus-reading-006-R1",
+    "number": 1,
+    "format": "True / False / Not Given",
+    "prompt": "A prototype may be designed to investigate a limited question.",
+    "explanation": "A prototype need not test every product feature.",
+    "evidenceQuote": "answer a narrow question",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "TRUE"
+    ]
+   },
+   {
+    "id": "focus-reading-006-R2",
+    "number": 2,
+    "format": "True / False / Not Given",
+    "prompt": "Every unsuccessful trial demonstrates that a design has improved.",
+    "explanation": "The value depends on framing and interpretation.",
+    "evidenceQuote": "not that every failure proves progress",
+    "skillTag": "tfng",
+    "options": [
+     "TRUE",
+     "FALSE",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "FALSE"
+    ]
+   },
+   {
+    "id": "focus-reading-006-R3",
+    "number": 3,
+    "format": "Multiple Choice",
+    "prompt": "The cardboard model might help investigate",
+    "explanation": "Its purpose may concern grip location rather than load strength.",
+    "evidenceQuote": "where a user's hand naturally falls",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. the maximum safe load of the final material.",
+     "B. the long-term cost of production.",
+     "C. the natural position of a user’s hand."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. the natural position of a user’s hand.",
+     "the natural position of a user’s hand."
+    ]
+   },
+   {
+    "id": "focus-reading-006-R4",
+    "number": 4,
+    "format": "Multiple Choice",
+    "prompt": "Why should differences between the model and proposed product be considered?",
+    "explanation": "A feature of the model may influence the observation.",
+    "evidenceQuote": "in ways that affected the result",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. They may influence the trial’s outcome.",
+     "B. They guarantee the result will be wrong.",
+     "C. They remove the need to describe the procedure."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. They may influence the trial’s outcome.",
+     "They may influence the trial’s outcome."
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 2,
+    "instruction": "Questions 1–2. Do the statements agree with the information? Write TRUE, FALSE or NOT GIVEN."
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "instruction": "Questions 3–4. Choose the correct letter, A, B or C."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Design Evaluation",
+  "paragraphs": [
+   "A prototype is not necessarily intended to succeed in every respect. It may be built to answer a narrow question before a designer commits to a complete product. Imagine a temporary handle attached to a cardboard model. The assembly might be unsuitable for carrying a heavy load but still useful for investigating where a user's hand naturally falls. Judging it solely by its strength would overlook its intended purpose.",
+   "An unsuccessful trial can therefore be informative, provided the result is interpreted carefully. If users cannot find the handle, that may reveal a problem worth addressing. But the designer must consider whether the model differs from the proposed product in ways that affected the result. A missing colour contrast, for example, could influence what users notice. The trial should be described with enough detail to make these limitations visible. The lesson is not that every failure proves progress. It is that a clearly framed trial can produce useful information even when it does not confirm the designer's expectations."
+  ],
+  "estimatedWordCount": 167
+ },
+ {
+  "id": "focus-reading-007",
+  "title": "Should every instruction include every detail?",
+  "questions": [
+   {
+    "id": "focus-reading-007-R1",
+    "number": 1,
+    "format": "Yes / No / Not Given",
+    "prompt": "Readers may need to understand the ordinary procedure before unusual cases.",
+    "explanation": "The writer supports organising routine guidance before exceptions.",
+    "evidenceQuote": "A newcomer may need a clear first step before learning about unusual exceptions.",
+    "skillTag": "ynng",
+    "options": [
+     "YES",
+     "NO",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "YES"
+    ]
+   },
+   {
+    "id": "focus-reading-007-R2",
+    "number": 2,
+    "format": "Yes / No / Not Given",
+    "prompt": "Safety information may be concealed to keep a page short.",
+    "explanation": "Shortness does not justify hiding consequential information.",
+    "evidenceQuote": "This does not justify hiding information that affects safety",
+    "skillTag": "ynng",
+    "options": [
+     "YES",
+     "NO",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "NO"
+    ]
+   },
+   {
+    "id": "focus-reading-007-R3",
+    "number": 3,
+    "format": "Yes / No / Not Given",
+    "prompt": "The writer tested these instructions with twenty new users.",
+    "explanation": "A judgement criterion is given, not a report of a test or sample size.",
+    "evidenceQuote": "I would judge instructions",
+    "skillTag": "ynng",
+    "options": [
+     "YES",
+     "NO",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "NOT GIVEN"
+    ]
+   },
+   {
+    "id": "focus-reading-007-R4",
+    "number": 4,
+    "format": "Yes / No / Not Given",
+    "prompt": "Successful action is a better criterion than the apparent brevity of instructions.",
+    "explanation": "The writer prioritises accurate task completion and recognising the need for help.",
+    "evidenceQuote": "rather than by how short the text appears",
+    "skillTag": "ynng",
+    "options": [
+     "YES",
+     "NO",
+     "NOT GIVEN"
+    ],
+    "acceptedAnswers": [
+     "YES"
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Communication Design",
+  "paragraphs": [
+   "Instructions can become difficult because they contain too little information, but additional detail is not always the answer. A newcomer may need a clear first step before learning about unusual exceptions. If every exception appears before that step, the reader can struggle to identify what applies to an ordinary case. In my view, guidance should distinguish the usual route from circumstances requiring additional help.",
+   "This does not justify hiding information that affects safety or access. A reader must be able to discover relevant alternatives before making a consequential choice. The challenge is to organise detail, not simply to remove it. Headings, examples and a clear route to further assistance can make complexity manageable. I would judge instructions by whether users can complete the intended task and recognise when they need help, rather than by how short the text appears. A brief page that repeatedly sends users in the wrong direction is not an improvement over a longer explanation that supports accurate action."
+  ],
+  "estimatedWordCount": 162
+ },
+ {
+  "id": "focus-reading-008",
+  "title": "The appeal and limits of a single score",
+  "questions": [
+   {
+    "id": "focus-reading-008-R1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "Why might learners with the same total need different activities?",
+    "explanation": "Their strengths and weaknesses can be distributed differently.",
+    "evidenceQuote": "Their totals match, but useful next steps would differ.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. The exercise contains no vocabulary questions.",
+     "B. Their performance patterns may differ.",
+     "C. One total must have been calculated incorrectly."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. Their performance patterns may differ.",
+     "Their performance patterns may differ."
+    ]
+   },
+   {
+    "id": "focus-reading-008-R2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "What concern does the writer raise about very small question groups?",
+    "explanation": "A small sample can support only cautious inferences.",
+    "evidenceQuote": "too little evidence for confident conclusions",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. They always measure too many skills.",
+     "B. They cannot produce a raw score.",
+     "C. They may be insufficient for a firm judgement."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. They may be insufficient for a firm judgement.",
+     "They may be insufficient for a firm judgement."
+    ]
+   },
+   {
+    "id": "focus-reading-008-R3",
+    "number": 3,
+    "format": "Sentence Completion",
+    "prompt": "An overall result should help the learner __________.",
+    "explanation": "Feedback should guide a practical next step.",
+    "evidenceQuote": "information that helps a learner act",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "act"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-reading-008-R4",
+    "number": 4,
+    "format": "Sentence Completion",
+    "prompt": "A summary score is not a complete __________.",
+    "explanation": "The score summarises performance rather than explaining every skill.",
+    "evidenceQuote": "rather than a complete diagnosis",
+    "skillTag": "sentence_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "diagnosis"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 2,
+    "instruction": "Questions 1–2. Choose the correct letter, A, B or C."
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "instruction": "Questions 3–4. Complete the sentences. Choose ONE WORD ONLY from the text."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "passageNumber": 1,
+  "discipline": "Assessment Literacy",
+  "paragraphs": [
+   "A single score is convenient. It can summarise a result, make a table compact and allow a quick comparison. Yet the convenience can hide differences between the performances being summarised. Imagine two learners receiving the same total on an exercise with several skills. One answers the vocabulary questions well but struggles with inference; the other shows the opposite pattern. Their totals match, but useful next steps would differ.",
+   "In my view, an overall result should therefore be accompanied by information that helps a learner act. This need not mean reporting a separate score for every tiny feature. Very small groups of questions may provide too little evidence for confident conclusions. A responsible explanation distinguishes a pattern worth investigating from a secure judgement of ability. The purpose of feedback is not to create the greatest possible quantity of numbers. It is to identify what the available evidence supports, explain its limits and suggest a reasonable next activity. A summary score remains useful when it is treated as a summary rather than a complete diagnosis."
+  ],
+  "estimatedWordCount": 173
+ }
+]

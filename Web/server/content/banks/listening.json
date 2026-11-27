@@ -1,0 +1,864 @@
+[
+ {
+  "id": "focus-listening-001",
+  "title": "A changed collection arrangement",
+  "questions": [
+   {
+    "id": "focus-listening-001-L1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "New collection day: __________.",
+    "explanation": "The repair date is unchanged, but collection is moved to Sunday.",
+    "evidenceQuote": "You can collect on Sunday instead.",
+    "skillTag": "note_completion",
+    "distractorNote": "Saturday is when the repair is ready, not when collection is available.",
+    "options": [],
+    "acceptedAnswers": [
+     "Sunday"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-001-L2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "Use the __________ entrance.",
+    "explanation": "The courtyard entrance replaces the unavailable front entrance.",
+    "evidenceQuote": "Please use the courtyard entrance.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "courtyard"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-001-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "Collection point: beside the __________.",
+    "explanation": "The greenhouse is the stated landmark.",
+    "evidenceQuote": "The collection point is beside the greenhouse.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "greenhouse"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-001-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "Bring the __________.",
+    "explanation": "Only the receipt is required; the repair form is not.",
+    "evidenceQuote": "Bring your receipt so we can identify the bicycle.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "receipt"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Write ONE WORD ONLY for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 1,
+  "contextDescription": "A customer confirms the arrangements for collecting a repaired bicycle.",
+  "primaryAccent": "en-GB",
+  "dialogue": [
+   {
+    "id": "2F3B29BE-5020-53FD-A612-3455D7B53253",
+    "speaker": "Customer",
+    "accent": "en-GB",
+    "text": "Hello, I'm calling about the bicycle I left with you yesterday. I was told I could collect it on Saturday, but a message arrived saying the arrangements had changed. Could you tell me what I should do? I can come on either day this weekend."
+   },
+   {
+    "id": "82CC7601-FDD4-5C3B-B5BA-75D63177E56B",
+    "speaker": "Assistant",
+    "accent": "en-AU",
+    "text": "Certainly. The repair will be ready on Saturday, as promised, but our collection desk will be closed then because the front entrance is being painted. You can collect on Sunday instead. We're opening especially for collections between ten and one, although the workshop itself won't be operating."
+   },
+   {
+    "id": "DD8093E1-2907-5241-B466-905BC1DB9A7C",
+    "speaker": "Customer",
+    "accent": "en-GB",
+    "text": "Sunday is fine. Do I come through the front entrance once the paint is dry, or is there another way in? I don't know the building very well."
+   },
+   {
+    "id": "E8939C84-BF36-5819-8EEC-D2653C9DB9B8",
+    "speaker": "Assistant",
+    "accent": "en-AU",
+    "text": "Please use the courtyard entrance. The side gate opens from the small lane behind the building. The collection point is beside the greenhouse. Bring your receipt so we can identify the bicycle. You don't need the original repair form as well; we kept a copy when you left the bike."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-002",
+  "title": "Choosing a suitable evening class",
+  "questions": [
+   {
+    "id": "focus-listening-002-L1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "First project: a __________ cover.",
+    "explanation": "A cushion cover precedes the later bag project.",
+    "evidenceQuote": "In the first session you'll make a cushion cover",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "cushion"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-002-L2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "New classroom: Room __________.",
+    "explanation": "Room Seven replaces Room Twelve.",
+    "evidenceQuote": "They've moved to Room Seven",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "Seven",
+     "7"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-002-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "Learners must bring __________.",
+    "explanation": "Machines, fabric and thread are supplied.",
+    "evidenceQuote": "bring your own scissors",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "scissors"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-002-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "The introductory course has __________ places.",
+    "explanation": "Twelve refers to the clothes course.",
+    "evidenceQuote": "there are only eight places",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "eight",
+     "8"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 1,
+  "contextDescription": "A learner asks a course coordinator about two beginner courses.",
+  "primaryAccent": "en-IE",
+  "dialogue": [
+   {
+    "id": "4262D80E-A3D1-5003-88D5-44261ED52C1F",
+    "speaker": "Learner",
+    "accent": "en-IE",
+    "text": "I'm interested in learning to sew, but I have never used a machine. The website lists two evening courses, and I can't work out which one would be suitable. One seems to include making clothes, which is what I eventually want to do."
+   },
+   {
+    "id": "25CE9AC7-74D8-5DEC-95B4-5F8DB416E8CC",
+    "speaker": "Coordinator",
+    "accent": "en-GB",
+    "text": "The clothes course assumes that you can already set up a machine and stitch a straight seam. Start with the introductory course. In the first session you'll make a cushion cover, and later you'll try a simple bag. You don't have to bring a project of your own."
+   },
+   {
+    "id": "03F72170-8BCE-5EB8-8749-E4C5902B796E",
+    "speaker": "Learner",
+    "accent": "en-IE",
+    "text": "That sounds more realistic. The old leaflet says classes are in Room Twelve. Is that still correct? I need to tell a friend who might join me."
+   },
+   {
+    "id": "1F0B19D0-116B-5B89-915F-49B926FADD28",
+    "speaker": "Coordinator",
+    "accent": "en-GB",
+    "text": "They've moved to Room Seven, on the ground floor. The room is more spacious. We provide machines, fabric and thread, but bring your own scissors. You'll also need to book before arriving, because there are only eight places. The clothes course has twelve places, but don't confuse that with the beginner group."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-003",
+  "title": "Guidance for a community seed exchange",
+  "questions": [
+   {
+    "id": "focus-listening-003-L1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "What should a participant do if a seed variety is unknown?",
+    "explanation": "The organiser asks for uncertainty to be stated.",
+    "evidenceQuote": "If you don't know the variety, say so rather than guessing.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Leave the packet at home.",
+     "B. Indicate that the variety is uncertain.",
+     "C. Choose the most likely variety."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. Indicate that the variety is uncertain.",
+     "Indicate that the variety is uncertain."
+    ]
+   },
+   {
+    "id": "focus-listening-003-L2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "Who may take part in the exchange?",
+    "explanation": "Bringing seeds is not a condition of participation.",
+    "evidenceQuote": "You are welcome even if you have nothing to exchange.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Only experienced gardeners.",
+     "B. Only people who make a donation.",
+     "C. People without anything to contribute."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. People without anything to contribute.",
+     "People without anything to contribute."
+    ]
+   },
+   {
+    "id": "focus-listening-003-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "Package dry seeds in __________.",
+    "explanation": "Envelopes are preferred to plastic bags.",
+    "evidenceQuote": "Please bring dry seeds in envelopes",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "envelopes"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-003-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "Wet-weather location for the talk: the __________.",
+    "explanation": "The talk moves to the classroom; the exchange stays in the hall.",
+    "evidenceQuote": "If it rains, we'll move to the classroom",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "classroom"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 2,
+    "instruction": "Questions 1–2. Choose the correct letter, A, B or C."
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "instruction": "Questions 3–4. Complete the notes. Write ONE WORD ONLY for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 2,
+  "contextDescription": "An organiser explains the procedure for a small seed-exchange event.",
+  "primaryAccent": "en-AU",
+  "dialogue": [
+   {
+    "id": "4C730148-6153-5C8B-83B8-D473B6BEC3E1",
+    "speaker": "Organiser",
+    "accent": "en-AU",
+    "text": "Before we open the exchange tables, let me explain the labels. We are not asking people to be experts, but other gardeners need enough information to decide whether a packet is suitable. Write the plant name clearly and include the year the seeds were collected. If you don't know the variety, say so rather than guessing. There are blank labels at reception."
+   },
+   {
+    "id": "E5C070F2-21B6-5F71-9539-0A1AE57B7222",
+    "speaker": "Organiser",
+    "accent": "en-AU",
+    "text": "Please bring dry seeds in envelopes, not in plastic bags that might trap moisture. We have a separate table for plants in pots, so don't put those among the seed packets. A volunteer can show you which table is appropriate when you arrive."
+   },
+   {
+    "id": "AF981AA7-DB14-51B2-9A68-E1B55640B4B5",
+    "speaker": "Organiser",
+    "accent": "en-AU",
+    "text": "You are welcome even if you have nothing to exchange. We want beginners to participate, not feel that they must already own a collection. Donations are optional and help us buy labels. The short talk starts at eleven in the courtyard. If it rains, we'll move to the classroom; the exchange itself will remain in this hall throughout the morning."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-004",
+  "title": "An orientation for volunteer readers",
+  "questions": [
+   {
+    "id": "focus-listening-004-L1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "How should volunteers begin a reading session?",
+    "explanation": "Participants should have a say in the reading material.",
+    "evidenceQuote": "Begin by asking participants what they would enjoy hearing.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Ask the group about their preferences.",
+     "B. Set a target number of pages.",
+     "C. Read the newspaper before offering alternatives."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. Ask the group about their preferences.",
+     "Ask the group about their preferences."
+    ]
+   },
+   {
+    "id": "focus-listening-004-L2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "What does the coordinator identify as the main purpose?",
+    "explanation": "The session is for enjoyment, not assessment or speed.",
+    "evidenceQuote": "The aim is shared enjoyment",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Improving examination performance.",
+     "B. Completing a whole book.",
+     "C. Enjoying reading together."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. Enjoying reading together.",
+     "Enjoying reading together."
+    ]
+   },
+   {
+    "id": "focus-listening-004-L3",
+    "number": 3,
+    "format": "Multiple Choice",
+    "prompt": "What belongs in the session diary?",
+    "explanation": "The diary records materials and future requests.",
+    "evidenceQuote": "Record which texts were used and any requests for next time",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Detailed personal histories.",
+     "B. Texts and requests for future sessions.",
+     "C. Corrections to each participant’s reading."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. Texts and requests for future sessions.",
+     "Texts and requests for future sessions."
+    ]
+   },
+   {
+    "id": "focus-listening-004-L4",
+    "number": 4,
+    "format": "Multiple Choice",
+    "prompt": "Where should volunteers return books?",
+    "explanation": "The trolley is the current storage location.",
+    "evidenceQuote": "Put books back on the trolley.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. On the trolley.",
+     "B. In the craft cupboard.",
+     "C. At the reception desk."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. On the trolley.",
+     "On the trolley."
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Choose the correct letter, A, B or C."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 2,
+  "contextDescription": "A coordinator briefs volunteers who will read aloud at a community centre.",
+  "primaryAccent": "en-GB",
+  "dialogue": [
+   {
+    "id": "E485934A-2D7B-57D7-B276-6C5D6C3C75C0",
+    "speaker": "Coordinator",
+    "accent": "en-GB",
+    "text": "Thank you for joining our volunteer reading group. Each session lasts forty minutes, but you won't read continuously for that whole time. Begin by asking participants what they would enjoy hearing. Some may want a story, while others prefer a newspaper article. We have examples available, and you can offer a choice without overwhelming the group."
+   },
+   {
+    "id": "841430A8-7529-57B2-AD14-FE15E4AF1CD9",
+    "speaker": "Coordinator",
+    "accent": "en-GB",
+    "text": "Read at a comfortable pace and pause when people want to discuss a passage. The aim is shared enjoyment rather than finishing a particular number of pages. Please don't correct a participant who wants to try reading aloud unless they ask for help. Quiet encouragement is usually more appropriate than turning the session into a test."
+   },
+   {
+    "id": "F1487D27-A399-5014-9A48-273E3159F724",
+    "speaker": "Coordinator",
+    "accent": "en-GB",
+    "text": "Afterwards, write a brief note in the session diary. Record which texts were used and any requests for next time, but don't include personal details about participants. Put books back on the trolley. We used to keep them in the cupboard, but that space is now for craft materials. If you cannot attend a booked session, contact reception rather than simply asking another volunteer to take over."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-005",
+  "title": "Separating observation from explanation",
+  "questions": [
+   {
+    "id": "focus-listening-005-L1",
+    "number": 1,
+    "format": "Multiple Choice",
+    "prompt": "Why does Nadia question the word “motivated”?",
+    "explanation": "The description moves from observed behaviour to an inferred cause.",
+    "evidenceQuote": "I'm not sure we observed motivation directly",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. The group produced no written work.",
+     "B. The observation was conducted outdoors.",
+     "C. It interprets behaviour rather than simply recording it."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. It interprets behaviour rather than simply recording it.",
+     "It interprets behaviour rather than simply recording it."
+    ]
+   },
+   {
+    "id": "focus-listening-005-L2",
+    "number": 2,
+    "format": "Multiple Choice",
+    "prompt": "What limitation will they state in the report?",
+    "explanation": "One session cannot establish a general causal conclusion.",
+    "evidenceQuote": "we only watched one session",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Only one session was observed.",
+     "B. No group completed a recording sheet.",
+     "C. The instructions were deliberately changed."
+    ],
+    "acceptedAnswers": [
+     "A",
+     "A. Only one session was observed.",
+     "Only one session was observed."
+    ]
+   },
+   {
+    "id": "focus-listening-005-L3",
+    "number": 3,
+    "format": "Multiple Choice",
+    "prompt": "What will they clarify before timing the next activity?",
+    "explanation": "A shared definition is needed before recording starting times.",
+    "evidenceQuote": "we need to agree what 'begins' means",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. Which group is most motivated.",
+     "B. What counts as starting the task.",
+     "C. How many windows the room contains."
+    ],
+    "acceptedAnswers": [
+     "B",
+     "B. What counts as starting the task.",
+     "What counts as starting the task."
+    ]
+   },
+   {
+    "id": "focus-listening-005-L4",
+    "number": 4,
+    "format": "Multiple Choice",
+    "prompt": "How will groups be identified in the report?",
+    "explanation": "Letters replace names in the report.",
+    "evidenceQuote": "We can refer to the groups by letters instead.",
+    "skillTag": "multiple_choice",
+    "options": [
+     "A. By the names of their leaders.",
+     "B. By the number of ideas produced.",
+     "C. By letters."
+    ],
+    "acceptedAnswers": [
+     "C",
+     "C. By letters.",
+     "By letters."
+    ]
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Choose the correct letter, A, B or C."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 3,
+  "contextDescription": "Two students discuss observations made during a classroom design activity.",
+  "primaryAccent": "en-GB",
+  "dialogue": [
+   {
+    "id": "FB1AAD4A-6AA4-54EA-B250-A4C000FDF7DF",
+    "speaker": "Nadia",
+    "accent": "en-GB",
+    "text": "I've looked at our notes from the classroom activity. You wrote that the group beside the window was more motivated, but I'm not sure we observed motivation directly. What exactly did we see that led you to that conclusion?"
+   },
+   {
+    "id": "D9ABDB89-2EC0-515D-9646-4B9FAC0E933E",
+    "speaker": "Evan",
+    "accent": "en-US",
+    "text": "They started writing sooner and produced more ideas on their sheet. But you're right: that doesn't necessarily mean they were more motivated. They might have understood the instructions more quickly, or one member might have suggested an approach immediately."
+   },
+   {
+    "id": "14B769C5-6785-5FB5-93CE-5A26229CFC7B",
+    "speaker": "Nadia",
+    "accent": "en-GB",
+    "text": "Let's describe what happened first, then discuss possible explanations separately. We should also say that we only watched one session. We can't conclude that sitting near a window makes groups work faster from that alone."
+   },
+   {
+    "id": "7535CB42-5789-5DE4-8249-0B6DA3C9F17A",
+    "speaker": "Evan",
+    "accent": "en-US",
+    "text": "Agreed. For the next observation, let's use the same recording sheet independently. We can compare the descriptions afterwards. I'd like to record when each group begins the task, but we need to agree what 'begins' means. Talking about an idea might be part of the work even before anyone writes."
+   },
+   {
+    "id": "265C36E4-B9B5-5FA3-9FD8-DAA0A53BCB20",
+    "speaker": "Nadia",
+    "accent": "en-GB",
+    "text": "And we should remove the names from the report. The assignment is about the activity, not ranking individual classmates. We can refer to the groups by letters instead."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-006",
+  "title": "Selecting material for a student exhibition",
+  "questions": [
+   {
+    "id": "focus-listening-006-L1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "Choose a sketch showing a changed __________.",
+    "explanation": "The chosen sketch should demonstrate development, not merely neatness.",
+    "evidenceQuote": "Let's choose one that shows a decision changing.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "decision"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-006-L2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "Label the early model as a __________.",
+    "explanation": "The label prevents it being mistaken for a finished product.",
+    "evidenceQuote": "label the first model as a prototype",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "prototype"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-006-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "The early model was made to test the __________.",
+    "explanation": "Material durability was outside the test.",
+    "evidenceQuote": "it was made only to test the grip",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "grip"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-006-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "Remove volunteers’ __________ from the feedback sheet.",
+    "explanation": "Feedback can be shown without identifying volunteers.",
+    "evidenceQuote": "remove the volunteers' names first",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "names"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Write ONE WORD ONLY for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 3,
+  "contextDescription": "Two students decide what to include in an exhibition about a design process.",
+  "primaryAccent": "en-AU",
+  "dialogue": [
+   {
+    "id": "00247416-89BE-5A1C-8329-819C17941E3D",
+    "speaker": "Priya",
+    "accent": "en-AU",
+    "text": "For our exhibition, I originally thought we should show only the final models. They look much neater than the early attempts. But then visitors wouldn't see how our ideas developed, and that is the point of the assignment."
+   },
+   {
+    "id": "AEBD7D88-54F0-5789-9584-7B2C3D1E3EB5",
+    "speaker": "Daniel",
+    "accent": "en-GB",
+    "text": "Exactly. We don't need every sketch, though. Let's choose one that shows a decision changing. Your first version had a handle at the top, and the later one moved it to the side. That would let us explain why trying the model affected the design."
+   },
+   {
+    "id": "E67ADAC4-22D6-502D-8FC8-8EB84F5B6962",
+    "speaker": "Priya",
+    "accent": "en-AU",
+    "text": "We should label the first model as a prototype, so nobody thinks it is a finished product. The caption needs to mention that it was made only to test the grip. We didn't test how long the material would last."
+   },
+   {
+    "id": "BC1E5C38-4041-5793-9F64-3F8653A6DADD",
+    "speaker": "Daniel",
+    "accent": "en-GB",
+    "text": "And let's include the feedback sheet, but remove the volunteers' names first. We can summarise repeated comments rather than display every response. I don't think an average score alone would explain what people found awkward."
+   },
+   {
+    "id": "1DB3D2EF-0AC4-5558-952E-91874E357E18",
+    "speaker": "Priya",
+    "accent": "en-AU",
+    "text": "For the last panel, let's state what remains unresolved. We could invite suggestions, but we shouldn't imply that the final version has passed a full safety assessment. The exhibition shows a learning process, not a product launch."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-007",
+  "title": "Understanding a demonstration model",
+  "questions": [
+   {
+    "id": "focus-listening-007-L1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "The value of a demonstration depends on its __________.",
+    "explanation": "The model must have a defined explanatory purpose.",
+    "evidenceQuote": "Its usefulness depends on a clear purpose.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "purpose"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-007-L2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "Several changed conditions can make results hard to __________.",
+    "explanation": "Changing several variables makes attribution difficult.",
+    "evidenceQuote": "an interesting visual change can be difficult to interpret",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "interpret"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-007-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "An unexpected result may reveal a missing __________.",
+    "explanation": "Unsuccessful attempts can expose assumptions needing attention.",
+    "evidenceQuote": "they may reveal a missing assumption",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "assumption"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-007-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "Include the model’s __________ in the explanation.",
+    "explanation": "Limitations should be stated proactively.",
+    "evidenceQuote": "Its limitations should therefore appear in the explanation",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "limitations"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Write ONE WORD ONLY for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 4,
+  "contextDescription": "A lecturer explains the purpose and limitations of a simplified model.",
+  "primaryAccent": "en-IE",
+  "dialogue": [
+   {
+    "id": "B68D6814-E2C7-5092-AD4C-D18BE3454B10",
+    "speaker": "Lecturer",
+    "accent": "en-IE",
+    "text": "A demonstration model represents selected features of a system. Its usefulness depends on a clear purpose. Imagine using a tray of sand to show how a channel changes when water flows through it. The model may make the movement of sediment visible, but that does not mean every detail behaves like a full-sized river. The scale, material and duration have all been changed."
+   },
+   {
+    "id": "6FE2C2C6-2370-5938-A62B-34F1040495AF",
+    "speaker": "Lecturer",
+    "accent": "en-IE",
+    "text": "Before beginning, state which relationship you want to demonstrate. Then identify which conditions will remain constant and which one you will vary. Otherwise, an interesting visual change can be difficult to interpret. If several things change together, you may not know which produced the result."
+   },
+   {
+    "id": "E6EE0B31-17DE-5320-9E37-D03AE84EE7E4",
+    "speaker": "Lecturer",
+    "accent": "en-IE",
+    "text": "Keep a record of the sequence, including attempts that did not behave as expected. These are not automatically useless; they may reveal a missing assumption. However, an unexpected result should not immediately be treated as a discovery about the larger system. First check the model itself. A demonstration can generate a useful question without providing a complete answer. Its limitations should therefore appear in the explanation, rather than being mentioned only if someone challenges the conclusion."
+   }
+  ],
+  "keyVocabulary": []
+ },
+ {
+  "id": "focus-listening-008",
+  "title": "From a proposal to a reliable schedule",
+  "questions": [
+   {
+    "id": "focus-listening-008-L1",
+    "number": 1,
+    "format": "Note Completion",
+    "prompt": "A schedule shows relationships known as __________.",
+    "explanation": "Some activities depend on earlier tasks being completed.",
+    "evidenceQuote": "It also expresses dependencies.",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "dependencies"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-008-L2",
+    "number": 2,
+    "format": "Note Completion",
+    "prompt": "Consider people’s __________ as well as task duration.",
+    "explanation": "A qualified person may be occupied elsewhere.",
+    "evidenceQuote": "the availability of the people who carry it out",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "availability"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-008-L3",
+    "number": 3,
+    "format": "Note Completion",
+    "prompt": "Allow a __________ for minor delays.",
+    "explanation": "A buffer provides planned spare time.",
+    "evidenceQuote": "includes a buffer: a realistic allowance for minor delays",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "buffer"
+    ],
+    "maxWordCount": 1
+   },
+   {
+    "id": "focus-listening-008-L4",
+    "number": 4,
+    "format": "Note Completion",
+    "prompt": "Mark old schedule copies as __________.",
+    "explanation": "Clear version control prevents contradictory instructions.",
+    "evidenceQuote": "mark earlier copies as withdrawn",
+    "skillTag": "note_completion",
+    "options": [],
+    "acceptedAnswers": [
+     "withdrawn"
+    ],
+    "maxWordCount": 1
+   }
+  ],
+  "groups": [
+   {
+    "from": 1,
+    "to": 4,
+    "instruction": "Questions 1–4. Complete the notes. Write ONE WORD ONLY for each answer."
+   }
+  ],
+  "practiceMode": "focused",
+  "isOfficialIELTSMaterial": false,
+  "sourceNote": "Original short skill drill. Not a complete IELTS test or an official past paper.",
+  "partNumber": 4,
+  "contextDescription": "A lecturer discusses planning a small public event.",
+  "primaryAccent": "en-GB",
+  "dialogue": [
+   {
+    "id": "A7B372C4-F58C-57F4-924F-3FC3260637A7",
+    "speaker": "Lecturer",
+    "accent": "en-GB",
+    "text": "A schedule is more than a list of activities with starting times. It also expresses dependencies. If a demonstration requires a table to be assembled first, the assembly is not simply another optional task. It must be completed before that activity can begin. Identifying these relationships early helps organisers see why a small delay in one place can affect several later events."
+   },
+   {
+    "id": "C0E94CCE-BFED-510E-B654-793E6EDC30BD",
+    "speaker": "Lecturer",
+    "accent": "en-GB",
+    "text": "Distinguish the time an activity takes from the availability of the people who carry it out. A task requiring twenty minutes may still delay the programme for an hour if the only trained person is busy elsewhere. Recording responsibilities beside activities helps expose such conflicts before the event."
+   },
+   {
+    "id": "D96F0C17-6112-5951-92EF-98889ABE9233",
+    "speaker": "Lecturer",
+    "accent": "en-GB",
+    "text": "A useful plan also includes a buffer: a realistic allowance for minor delays. This should not be confused with making every estimate deliberately vague. Explain what the extra time is intended to absorb. Finally, decide how changes will be communicated. A revised schedule helps only if the people affected receive it. Keeping several conflicting versions in circulation can create more confusion than the original delay. Use one clearly identified current version and mark earlier copies as withdrawn."
+   }
+  ],
+  "keyVocabulary": []
+ }
+]
