@@ -1,0 +1,2258 @@
+{
+ "id": "exam40",
+ "examNumber": 40,
+ "pool": "mock",
+ "title": "Mock Exam 40: Volunteering, Charity & Community",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Volunteering, Charity & Community",
+ "listeningParts": [
+  {
+   "id": "exam40-lp1",
+   "partNumber": 1,
+   "title": "Volunteering at a food bank",
+   "contextDescription": "A woman phones a community food bank because she wants to become a volunteer.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "8B81AA11-B391-5742-8665-994E55599152",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Hello, Riverside Food Bank, this is Gary speaking."
+    },
+    {
+     "id": "AEBBDA30-0921-5558-A99A-3FE32044D840",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hi. I saw a poster in the library saying you need more volunteers, and I'd like to find out how I can help."
+    },
+    {
+     "id": "35D18773-7A3C-5BC6-A3DE-51E2B2F1C54D",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "That's great, thank you for calling. We always need more people, especially at this time of year. Have you volunteered anywhere before?"
+    },
+    {
+     "id": "E390604A-4035-503B-AE55-A3AB0166B186",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Not at a food bank, no. I used to help at my children's school, listening to young children read, but that was a few years ago. I've just retired from my job, so now I've got a lot more free time."
+    },
+    {
+     "id": "897E8F63-506B-5215-ABB6-9AB4CA3570C0",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Well, you'd be very welcome. Let me tell you a bit about how we work. People bring us donations of food, mainly tins and packets, and we also collect food from two supermarkets every week. Volunteers check and sort everything, and then we pack it into bags for families who've been sent to us by doctors, schools or social workers."
+    },
+    {
+     "id": "9E607B21-CB20-541D-884C-070C3404439D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I see. And when do you need people?"
+    },
+    {
+     "id": "86EB2E99-4FA4-5EAE-9549-12F7CBA40B48",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "We're open three days a week: Monday, Wednesday and Saturday. Which days would suit you?"
+    },
+    {
+     "id": "BBB14956-E3DE-567C-B601-03BA026E1309",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Wednesdays are difficult, because I look after my grandson that day. But Saturday would be fine."
+    },
+    {
+     "id": "6D6E9FAE-88A8-5C53-805B-653BADD569D2",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Saturday's perfect. That's our busiest day, actually. There are two shifts: the morning shift is from nine until twelve, and the afternoon shift is from twelve until three."
+    },
+    {
+     "id": "BF584A84-1A6E-551E-A436-1AC366055D3D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'd prefer the morning, if that's possible."
+    },
+    {
+     "id": "FADEE8CE-5DD7-5F02-A0EB-7A2B727C6412",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "No problem. On Saturday mornings, most volunteers work in the warehouse at the back, sorting donations. We need to check the dates on everything, because we can't give out food that's out of date. Then later in the morning, some people move to the front and help with packing the bags."
+    },
+    {
+     "id": "C3C062DD-00BB-5340-B0C9-71C082A351FD",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds fine. Is there anything I need to wear?"
+    },
+    {
+     "id": "9CE03686-5ADD-5EAA-A305-0AD97BD5FEA1",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Just comfortable clothes. But you must wear closed shoes, like trainers or boots, because people sometimes drop heavy tins. Sandals aren't allowed in the warehouse. We give everyone an apron, so you don't need to bring one."
+    },
+    {
+     "id": "4276FFF8-5C43-599B-8696-B7C6BF110F5C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Okay. Do I need any training?"
+    },
+    {
+     "id": "15EAADBD-9362-565E-8D62-F0943B9FB5DA",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Yes, all new volunteers come to a short induction session first. It takes about ninety minutes, and we explain health and safety, how to lift boxes properly, and how to talk to the people who visit us. The next one is on Thursday evening at six thirty."
+    },
+    {
+     "id": "DA4B6041-8641-59FC-A723-0FB5C227CA93",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Ninety minutes. That's fine. Where do I go?"
+    },
+    {
+     "id": "F44649C8-3E96-5948-B265-33E1FC942B26",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "We're at forty-two Mill Lane. That's M-I-L-L, Mill Lane. It's the old church hall, opposite the fire station. If you come by car, you can park in the car park behind the church. It's free on weekdays and Saturdays."
+    },
+    {
+     "id": "E2360946-BA13-57E3-AE47-1ACF49B5300E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Lovely. What else do you need from me?"
+    },
+    {
+     "id": "8FCBE578-2C7A-5D6B-B206-D388B32F1D10",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "I'll take your name and number now, and then I'll send you a form. On the form, you need to give the name of someone who can give you a reference, such as a previous employer. It's just a short note to say you're reliable."
+    },
+    {
+     "id": "71E06E84-FEB1-5465-AE0E-ED755F4D3FAD",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's easy. My old manager will do that."
+    },
+    {
+     "id": "635BAF97-DB8C-5FA0-AC90-C269A5431B8A",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Great. So, what's your name, please?"
+    },
+    {
+     "id": "6B4FCD11-8DAE-5CC0-A141-11CE62404380",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Margaret Hargreaves."
+    },
+    {
+     "id": "7B0725F2-1512-5985-8158-1931724F5054",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Could you spell your surname for me?"
+    },
+    {
+     "id": "41F4A536-43CB-5321-96E0-B21DC8931DE6",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, it's Hargreaves: H-A-R-G-R-E-A-V-E-S."
+    },
+    {
+     "id": "B4D15F28-2988-5B16-A717-99D0473B5DD6",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Thank you. And a phone number?"
+    },
+    {
+     "id": "9B7521DD-F30F-5B20-B22C-FEA31C61591D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's 07723 418 506."
+    },
+    {
+     "id": "2D8D6206-75D4-51DB-911F-42A27CE9E79D",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Lovely. One more thing: we're also looking for drivers to collect food from the supermarkets on Monday mornings. Is that something you might be interested in?"
+    },
+    {
+     "id": "CC507178-08F3-5161-B0F1-7250248EFA09",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Maybe later. I'd like to start with the sorting first and see how I get on."
+    },
+    {
+     "id": "FF292E7B-48A2-541F-97BE-668864796CA2",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "That makes sense. Many of our volunteers start with one shift and then do more. Some of them have been with us for over ten years! Well, thank you, Margaret. I'll see you at the induction on Thursday."
+    },
+    {
+     "id": "6D5C0480-D211-581D-AB22-B99398DD539F",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Thanks, Gary. See you then."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam40-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Previous volunteering: helped children to __________ at a school",
+     "explanation": "She listened to children read.",
+     "evidenceQuote": "listening to young children read",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "read"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Day available: __________",
+     "explanation": "She can come on Saturday.",
+     "evidenceQuote": "But Saturday would be fine.",
+     "skillTag": "dates",
+     "distractorNote": "Wednesday is difficult because she looks after her grandson.",
+     "options": [],
+     "acceptedAnswers": [
+      "Saturday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Shift: morning, 9.00 to __________",
+     "explanation": "The morning shift ends at twelve.",
+     "evidenceQuote": "the morning shift is from nine until twelve",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "12",
+      "twelve",
+      "12.00"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Main job: sorting __________ in the warehouse",
+     "explanation": "They sort donations.",
+     "evidenceQuote": "most volunteers work in the warehouse at the back, sorting donations",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "donations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Must wear closed __________, e.g. trainers",
+     "explanation": "Closed shoes are needed.",
+     "evidenceQuote": "you must wear closed shoes, like trainers or boots",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "shoes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Induction session: lasts __________ minutes",
+     "explanation": "It lasts about 90 minutes.",
+     "evidenceQuote": "It takes about ninety minutes",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "90",
+      "ninety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Address: 42 __________ Lane",
+     "explanation": "The address is Mill Lane.",
+     "evidenceQuote": "We're at forty-two Mill Lane. That's M-I-L-L, Mill Lane.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Mill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Parking: behind the __________",
+     "explanation": "Parking is behind the church.",
+     "evidenceQuote": "you can park in the car park behind the church",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "church"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Form: give the name of a person for a __________",
+     "explanation": "She needs a reference.",
+     "evidenceQuote": "someone who can give you a reference",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "reference"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Surname: Margaret __________",
+     "explanation": "She spells Hargreaves.",
+     "evidenceQuote": "Yes, it's Hargreaves: H-A-R-G-R-E-A-V-E-S.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hargreaves"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "food bank",
+    "donation",
+    "shift",
+    "induction",
+    "reference"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam40-lp2",
+   "partNumber": 2,
+   "title": "A river clean-up day",
+   "contextDescription": "An organiser gives instructions to volunteers at the start of a community river clean-up.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "BD0B624F-8441-5148-B339-37879DCDA326",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Good morning, everyone! Can you all hear me at the back? Great. Welcome to the fifth Millbrook River Clean-Up. My name's Jess, and I'm one of the organisers. Thank you so much for giving up your Sunday morning. We've got more than eighty volunteers here today, which is a record. Last year we had about fifty."
+    },
+    {
+     "id": "0BAB698D-82F9-561C-AE41-7A88DCBB754C",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Before we start, I'll explain how the morning will work and give you some safety information. Please listen carefully, because the river is beautiful, but it can also be dangerous."
+    },
+    {
+     "id": "3E15A84E-440F-54FB-811A-F038EF68FAA4",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "First, the plan. We'll work from now until twelve thirty, and then we'll all meet back here at the bandstand for lunch. The lunch is free, and it's been provided by the bakery on the high street, so please thank them if you go in there. There are vegetarian options too."
+    },
+    {
+     "id": "7CC4F737-7380-5A3C-AE7D-DDF061144864",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Now, safety. Everyone must wear one of the yellow high-visibility vests, which are in the boxes next to me, and everyone must wear gloves. Never pick up anything sharp, like broken glass or needles, with your hands, even if you're wearing gloves. If you find something like that, don't touch it. Just mark the place with one of the small orange flags and tell your team leader, who'll deal with it."
+    },
+    {
+     "id": "53BEF68B-2B60-57F9-8519-F9E115E50362",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Please don't go into the water at all, even where it looks shallow. The river bottom is very muddy, and it's easy to get stuck. If you see something in the water that you'd like us to remove, tell your team leader. And please stay on the path side of the fence near the old mill, because the bank there is not safe."
+    },
+    {
+     "id": "E3588ED8-918F-5609-B794-86EA1CCD40D9",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "We have a first-aid tent next to the car park. It's the white tent with a green cross on it. If you cut yourself, even slightly, please go there and get it cleaned, because river water can carry infections."
+    },
+    {
+     "id": "D022C742-3C53-56E6-AABC-09DBDB4CFC00",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Right, you've all been put into teams of about ten, and each team has a different job. Your team name is on the sticker you got when you signed in. Let me explain what each team will be doing."
+    },
+    {
+     "id": "6B9F3713-93A9-56B2-A5AD-216737E82527",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "The Kingfisher team will be working along the riverbank between the bridge and the old mill, collecting general litter. That's the longest section, so you're the biggest team. You'll each have a litter picker and two bags, a black one for rubbish and a clear one for things that can be recycled, such as cans and plastic bottles."
+    },
+    {
+     "id": "F243D436-2D50-509B-A332-025B66D67170",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "The Otter team will be in the children's playground and the picnic area. This is a good team for families with young children, because it's away from the water. Your job is mainly to collect small items, such as sweet wrappers and bottle tops."
+    },
+    {
+     "id": "80774278-5540-54C4-A97D-78FFB5E26845",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "The Heron team has a special job this year. You'll be counting and recording everything you collect on a form, so that we can send the information to a national charity that studies river pollution. So it's a bit slower, but it's really useful."
+    },
+    {
+     "id": "CADA7419-0B44-5BB9-A0DF-36E953092D00",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "The Badger team will be cutting back plants that are growing over the footpath. You'll be working with two staff members from the council's parks department, who'll show you how to use the tools safely."
+    },
+    {
+     "id": "BE044B3C-6606-5720-9CD4-51EF81831C80",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "And finally, the Swan team will stay here at the bandstand. You'll be weighing the full bags as the other teams bring them back, so that we know how much rubbish we've collected in total. Last year it was over six hundred kilograms! Then, at about twelve, you'll help to set up the tables for lunch."
+    },
+    {
+     "id": "904459FF-15E2-52C8-BEF4-D125078C3C0C",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "One last thing. We'd love to share some photos of today on our website and in the local newspaper. If you don't want to appear in any photos, please tell the photographer, who's wearing a red cap. Okay, team leaders, please hold up your signs, and let's get started!"
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam40-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How many volunteers came to last year's river clean-up?",
+     "explanation": "About fifty came last year.",
+     "evidenceQuote": "Last year we had about fifty.",
+     "skillTag": "numbers",
+     "options": [
+      "A. about fifty",
+      "B. about eighty",
+      "C. more than a hundred"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. about fifty",
+      "about fifty"
+     ]
+    },
+    {
+     "id": "exam40-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Who has provided the free lunch for the volunteers?",
+     "explanation": "A local bakery provided it.",
+     "evidenceQuote": "it's been provided by the bakery on the high street",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the town council",
+      "B. the organisers",
+      "C. a local bakery"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. a local bakery",
+      "a local bakery"
+     ]
+    },
+    {
+     "id": "exam40-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What should volunteers do if they find broken glass?",
+     "explanation": "They should mark it and tell a leader.",
+     "evidenceQuote": "Just mark the place with one of the small orange flags and tell your team leader",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pick it up carefully with gloves",
+      "B. mark the place and tell a team leader",
+      "C. take it to the first-aid tent"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. mark the place and tell a team leader",
+      "mark the place and tell a team leader"
+     ]
+    },
+    {
+     "id": "exam40-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why must volunteers stay out of the river?",
+     "explanation": "People can get stuck in the mud.",
+     "evidenceQuote": "The river bottom is very muddy, and it's easy to get stuck.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They could get stuck in the mud.",
+      "B. The water is very deep.",
+      "C. The water is polluted."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They could get stuck in the mud.",
+      "They could get stuck in the mud."
+     ]
+    },
+    {
+     "id": "exam40-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why should anyone with a small cut go to the first-aid tent?",
+     "explanation": "The water may cause an infection.",
+     "evidenceQuote": "river water can carry infections",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to report the accident",
+      "B. to avoid getting an infection",
+      "C. to get a new pair of gloves"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to avoid getting an infection",
+      "to avoid getting an infection"
+     ]
+    },
+    {
+     "id": "exam40-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "Kingfisher team",
+     "explanation": "They collect litter along the bank.",
+     "evidenceQuote": "collecting general litter",
+     "skillTag": "matching",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. collect litter beside the river",
+      "collect litter beside the river"
+     ]
+    },
+    {
+     "id": "exam40-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "Otter team",
+     "explanation": "They pick up small items in the play area.",
+     "evidenceQuote": "Your job is mainly to collect small items, such as sweet wrappers and bottle tops.",
+     "skillTag": "matching",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. pick up small pieces of rubbish where children play",
+      "pick up small pieces of rubbish where children play"
+     ]
+    },
+    {
+     "id": "exam40-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Heron team",
+     "explanation": "They record what they find.",
+     "evidenceQuote": "You'll be counting and recording everything you collect on a form",
+     "skillTag": "matching",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. keep a record of the rubbish found",
+      "keep a record of the rubbish found"
+     ]
+    },
+    {
+     "id": "exam40-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Badger team",
+     "explanation": "They cut back plants.",
+     "evidenceQuote": "cutting back plants that are growing over the footpath",
+     "skillTag": "matching",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. cut back plants",
+      "cut back plants"
+     ]
+    },
+    {
+     "id": "exam40-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Swan team",
+     "explanation": "They weigh the bags.",
+     "evidenceQuote": "You'll be weighing the full bags",
+     "skillTag": "matching",
+     "distractorNote": "They also set up tables later, but their main job is weighing.",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. weigh the bags of rubbish",
+      "weigh the bags of rubbish"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "litter picker",
+    "high-visibility vest",
+    "recycling",
+    "riverbank",
+    "first aid"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What will each team do? Choose FIVE answers from the box and write the correct letter, A–G.",
+     "options": [
+      "A. cut back plants",
+      "B. take photographs",
+      "C. pick up small pieces of rubbish where children play",
+      "D. weigh the bags of rubbish",
+      "E. collect litter beside the river",
+      "F. remove objects from the water",
+      "G. keep a record of the rubbish found"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam40-lp3",
+   "partNumber": 3,
+   "title": "A survey on student volunteering",
+   "contextDescription": "Two students, Aisha and Ben, talk to their tutor about a survey they carried out on volunteering at their college.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "37D16F54-BA94-5E6A-8AD8-7383CF0055BE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hi, Aisha, hi, Ben. Come in and sit down. So, you've finished your survey on student volunteering. How did it go?"
+    },
+    {
+     "id": "B1928A24-A023-58A5-A1C3-27E023C37FE5",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "Really well, thanks. We wanted to find out how many students at the college do voluntary work, what kind of work they do, and why some students don't volunteer at all."
+    },
+    {
+     "id": "9102160A-BE54-5C1F-9D7A-F3CC4B99C573",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And how did you collect your answers?"
+    },
+    {
+     "id": "8B79E844-4040-5FFF-A74F-03EF2E27C7FF",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "We used an online questionnaire. At first we planned to stand in the canteen and ask people questions face to face, but we decided online would be quicker, and people might be more honest if they didn't have to talk to us."
+    },
+    {
+     "id": "3E8A340C-D608-5EB6-8FF9-8159882B7C21",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good thinking. How many people answered?"
+    },
+    {
+     "id": "C4EEC121-D2DE-528F-80B6-357051E4E1EB",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "We sent it to about six hundred students, and two hundred and twelve people completed it. We were quite pleased with that."
+    },
+    {
+     "id": "AF9C8BD0-86C6-5B37-97AE-B7AA0A35E189",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So am I. That's a good number for a project like this. How did you get so many replies?"
+    },
+    {
+     "id": "0974A499-C0F7-5175-9D08-44FDD7E53E9C",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "We offered a prize. Everyone who finished the questionnaire could enter a draw to win a voucher for the college café. I think that helped a lot."
+    },
+    {
+     "id": "C0D4D392-E68F-59C7-81C2-CFC9A92CDE9E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Okay. And what were the main results?"
+    },
+    {
+     "id": "ABE267CE-B32C-528F-94B3-C508536B9AC2",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "Well, about a third of the students said they'd done some volunteering in the last year. That was more than we expected, actually. We thought it would be around one in five."
+    },
+    {
+     "id": "D34692A4-3A9F-5822-8D09-E743D339253B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. What kind of volunteering was most common?"
+    },
+    {
+     "id": "FFC8FA0F-62B8-53AE-B82C-EA761A82AEFF",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "Sport was the biggest group. Lots of students help to coach children's football or swimming teams at the weekend. The second biggest was helping in charity shops, and then working with animals, for example at the animal rescue centre near the college."
+    },
+    {
+     "id": "A60CD4AE-A93F-57F5-8102-1685E92829D4",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And why did they say they volunteer?"
+    },
+    {
+     "id": "5E6FBC2E-8985-5049-A737-CEF5527CFFAE",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "We gave them a list of reasons and asked them to choose the most important one. The top answer was that they enjoy helping other people. But the second was that it looks good on a CV, which isn't surprising, because many of them are applying for jobs or university places."
+    },
+    {
+     "id": "3B538A52-DA90-535C-8A25-F807FDCB8E5B",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "And quite a few said they started volunteering because a friend asked them to come along. We hadn't really thought about that, but it seems to be important."
+    },
+    {
+     "id": "3A36508A-3468-50F5-8EFA-B7C277315103",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, research often shows that being asked is one of the main reasons people start. What about the students who don't volunteer?"
+    },
+    {
+     "id": "51656D74-7230-5406-8BD3-E437B9F1092B",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "The biggest reason was lack of time. Lots of students have part-time jobs as well as their studies. The next reason was that they didn't know how to find opportunities. Some of them said they'd like to volunteer, but they didn't know where to start."
+    },
+    {
+     "id": "412356CB-D297-5332-A43D-657971FD29AE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a useful finding, because it's something the college could do something about. Did you include any recommendations?"
+    },
+    {
+     "id": "A0A0BC7C-6977-56B5-A7BA-44ACA2DD02D8",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "Yes. We suggest the college should have a volunteering fair at the start of each year, where local charities can come in and talk to students. And we'd like a noticeboard on the college website with a list of opportunities."
+    },
+    {
+     "id": "ECB33CF3-6153-5101-B5DC-389F3FC8D234",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Both good ideas. Now, were there any problems with the survey?"
+    },
+    {
+     "id": "B0C4F74A-9BD1-573A-BBAF-35C8E45D962E",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "One question was confusing. We asked how many hours a month people volunteer, but some people answered in hours a week, so we had to remove some answers."
+    },
+    {
+     "id": "67194A02-9E27-5798-A5D7-32A0B1B8885C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That happens a lot. Mention it in your report, and explain what you'd change next time. Is there anything else?"
+    },
+    {
+     "id": "D853F05A-B16E-5954-A8E3-D4DDA6F65E69",
+     "speaker": "Aisha",
+     "accent": "en-US",
+     "text": "We also wondered whether we should have asked about the types of organisation people volunteer for. Quite a few people mentioned animal shelters and sports clubs in the comments box, but we hadn't given those as options."
+    },
+    {
+     "id": "39284ED9-9646-517F-8892-646F1EA1CDE0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That would be a useful improvement for a follow-up survey. Include the comments as examples in an appendix."
+    },
+    {
+     "id": "58B7784E-EC42-5C4F-AD66-5C68E58E114E",
+     "speaker": "Ben",
+     "accent": "en-GB",
+     "text": "Not really. Oh, the student magazine asked if they could publish our results. Is that all right?"
+    },
+    {
+     "id": "DF3A7972-654F-5CC6-970B-7CAC8FB9B9D9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's fine, as long as you don't include any names. I'd love to see it. Well done, both of you."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam40-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did Aisha and Ben decide to use an online questionnaire?",
+     "explanation": "Online answers might be more honest.",
+     "evidenceQuote": "people might be more honest if they didn't have to talk to us",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was cheaper to print.",
+      "B. People might give more honest answers.",
+      "C. Their tutor told them to."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People might give more honest answers.",
+      "People might give more honest answers."
+     ]
+    },
+    {
+     "id": "exam40-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "How did the students encourage people to complete the questionnaire?",
+     "explanation": "They offered a café voucher prize draw.",
+     "evidenceQuote": "Everyone who finished the questionnaire could enter a draw to win a voucher for the college café.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They sent several reminders.",
+      "B. They made it very short.",
+      "C. They offered the chance to win a prize."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They offered the chance to win a prize.",
+      "They offered the chance to win a prize."
+     ]
+    },
+    {
+     "id": "exam40-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What proportion of the students had volunteered in the last year?",
+     "explanation": "About a third had volunteered.",
+     "evidenceQuote": "about a third of the students said they'd done some volunteering in the last year",
+     "skillTag": "numbers",
+     "distractorNote": "One in five was what the students had expected.",
+     "options": [
+      "A. about one in three",
+      "B. about one in five",
+      "C. about half"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. about one in three",
+      "about one in three"
+     ]
+    },
+    {
+     "id": "exam40-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Which type of volunteering was the most common?",
+     "explanation": "Sport was most common.",
+     "evidenceQuote": "Sport was the biggest group.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. working in charity shops",
+      "B. helping at an animal centre",
+      "C. coaching sport"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. coaching sport",
+      "coaching sport"
+     ]
+    },
+    {
+     "id": "exam40-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What reason for volunteering surprised Ben?",
+     "explanation": "Being asked by a friend.",
+     "evidenceQuote": "because a friend asked them to come along",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. wanting to improve their CV",
+      "B. being invited by a friend",
+      "C. enjoying helping people"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. being invited by a friend",
+      "being invited by a friend"
+     ]
+    },
+    {
+     "id": "exam40-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What was the problem with one of the survey questions?",
+     "explanation": "Some answered in the wrong unit.",
+     "evidenceQuote": "some people answered in hours a week",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People misunderstood the time period.",
+      "B. Too many people skipped it.",
+      "C. It asked for personal information."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People misunderstood the time period.",
+      "People misunderstood the time period."
+     ]
+    },
+    {
+     "id": "exam40-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Number of students who completed the survey: __________",
+     "explanation": "212 people completed it.",
+     "evidenceQuote": "two hundred and twelve people completed it",
+     "skillTag": "numbers",
+     "distractorNote": "Six hundred is the number of students it was sent to.",
+     "options": [],
+     "acceptedAnswers": [
+      "212"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Main reason for not volunteering: lack of __________",
+     "explanation": "They had no time.",
+     "evidenceQuote": "The biggest reason was lack of time.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "time"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Recommendation: a volunteering __________ at the start of the year",
+     "explanation": "They suggest a fair.",
+     "evidenceQuote": "the college should have a volunteering fair",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fair"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Results may be published in the student __________",
+     "explanation": "The magazine may publish them.",
+     "evidenceQuote": "the student magazine asked if they could publish our results",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "magazine"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "questionnaire",
+    "respondent",
+    "motivation",
+    "barrier",
+    "percentage"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam40-lp4",
+   "partNumber": 4,
+   "title": "Henry Dunant and the birth of the Red Cross",
+   "contextDescription": "A lecture in a history course about how the Red Cross movement began.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "79F93C7B-BBBA-5D77-95CD-0BAF19B01CF0",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning, everyone. Today we're going to look at the beginnings of one of the largest volunteer organisations in the world: the Red Cross. Its story begins with one man and one terrible day."
+    },
+    {
+     "id": "FBFC73FF-6F31-5D3F-A95C-811C108B141D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The man was Henry Dunant, who was born in Geneva, in Switzerland, in 1828. He was a businessman, and in the eighteen-fifties he had business interests in Algeria, in North Africa. In June 1859, he travelled to northern Italy, hoping to meet the French emperor, Napoleon the Third, to ask for help with his business."
+    },
+    {
+     "id": "D963951D-AE81-5601-9491-0DEFAC8B2BFC",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "At that time, France and its ally were fighting the Austrian army in northern Italy. On the evening of the twenty-fourth of June, Dunant arrived near the small town of Solferino, just after a huge battle had taken place there. Around forty thousand soldiers had been killed or wounded in a single day. What shocked Dunant most was that thousands of wounded men were simply left lying on the battlefield, because the armies had very few doctors and almost no medical supplies."
+    },
+    {
+     "id": "434A2244-E3BD-5F53-BDA2-B2A3DA92E2EB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Dunant forgot all about his business. He went to the nearby town of Castiglione, where many of the wounded had been taken, and organised the local people, many of them women, to help. They brought water and food, washed and dressed wounds, and wrote letters for dying soldiers to their families. Importantly, Dunant insisted that they should care for soldiers from both sides equally. The local women repeated a phrase in Italian which means 'all are brothers'."
+    },
+    {
+     "id": "8549EF8B-C7EC-5757-A5B9-554474BA4A56",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "When Dunant returned to Geneva, he couldn't forget what he had seen. In 1862, he wrote a short book called A Memory of Solferino. In it, he described the battle and its terrible results, and he made two important suggestions. First, every country should set up a society of trained volunteers who would be ready to care for wounded soldiers in times of war. And second, countries should sign an international agreement to protect these volunteers and the wounded."
+    },
+    {
+     "id": "FEA0D66B-FFE9-5D04-BFB6-9855EB82B097",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The book was a great success and was translated into many languages. In 1863, Dunant and four other men from Geneva formed a committee to put his ideas into action. This group later became the International Committee of the Red Cross. Just one year later, in 1864, the representatives of twelve countries signed the first Geneva Convention, which said that medical staff and the wounded must be protected and treated as neutral."
+    },
+    {
+     "id": "56E64FA6-3C1D-5292-9370-07FF3AF0FDA7",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The volunteers needed a symbol, so that soldiers would recognise and respect them. They chose a red cross on a white background. This is the Swiss flag with the colours reversed, as a way of honouring Switzerland, where the movement began. Later, in the eighteen-seventies, during a war with Russia, the Ottoman Empire began to use a red crescent instead, and today the Red Crescent is used in many countries."
+    },
+    {
+     "id": "4499A528-9709-58A6-AE87-C0B905A6E29A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Sadly, Dunant's own life did not go well. His business in Algeria failed, and in 1867 he went bankrupt. He had to leave Geneva, and for many years he lived in poverty, almost forgotten. Then, in 1895, a journalist found him living in a small care home in the Swiss village of Heiden and wrote an article about him. People around the world were reminded of what he had done, and in 1901, Dunant was awarded the very first Nobel Peace Prize, which he shared with a French campaigner for peace."
+    },
+    {
+     "id": "DA12256C-7B87-5B97-AC08-A1494FB82613",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Today, the Red Cross and Red Crescent Movement has national societies in more than one hundred and ninety countries, and it depends on millions of volunteers. Every year, on the eighth of May, World Red Cross and Red Crescent Day is celebrated. That date was chosen because it was Dunant's birthday. Next time, we'll look at how the movement's work has changed since the two World Wars."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam40-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Dunant worked as a __________",
+     "explanation": "He was a businessman.",
+     "evidenceQuote": "He was a businessman",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "businessman"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "In 1859 he hoped to meet the French __________",
+     "explanation": "He wanted to meet the emperor.",
+     "evidenceQuote": "hoping to meet the French emperor",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "emperor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Armies at Solferino had very few doctors and almost no medical __________",
+     "explanation": "There were no medical supplies.",
+     "evidenceQuote": "the armies had very few doctors and almost no medical supplies",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "supplies"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Local people also wrote __________ for dying soldiers",
+     "explanation": "They wrote letters.",
+     "evidenceQuote": "wrote letters for dying soldiers to their families",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "letters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Dunant's 1862 __________ described the battle",
+     "explanation": "He wrote a book.",
+     "evidenceQuote": "he wrote a short book called A Memory of Solferino",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "book"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "He suggested societies of trained __________ in every country",
+     "explanation": "He wanted trained volunteers.",
+     "evidenceQuote": "every country should set up a society of trained volunteers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "volunteers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Under the 1864 agreement, medical staff were to be treated as __________",
+     "explanation": "They were treated as neutral.",
+     "evidenceQuote": "must be protected and treated as neutral",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "neutral"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "The red cross symbol is the reverse of the Swiss __________",
+     "explanation": "It reverses the Swiss flag.",
+     "evidenceQuote": "This is the Swiss flag with the colours reversed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flag"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In 1895, a __________ found Dunant in a care home",
+     "explanation": "A journalist found him.",
+     "evidenceQuote": "a journalist found him living in a small care home",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "journalist"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "World Red Cross Day takes place in __________",
+     "explanation": "It is on the eighth of May.",
+     "evidenceQuote": "on the eighth of May",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "May"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "battlefield",
+    "wounded",
+    "neutral",
+    "convention",
+    "emblem"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam40-rp1",
+   "passageNumber": 1,
+   "title": "The story of the charity shop",
+   "discipline": "Social History",
+   "paragraphs": [
+    "Walk down almost any high street in Britain today and you will find at least one charity shop. These shops sell second-hand clothes, books, toys and furniture that members of the public have given away, and the money they make goes to a good cause, such as medical research, help for homeless people or aid for poor countries. There are now more than ten thousand charity shops in the United Kingdom, and they have become a familiar part of everyday life. But how did they begin?",
+    "One early example opened in 1899, when the Wolverhampton Society for the Blind started a shop on Victoria Street in the English city of Wolverhampton. It was rather different from a modern charity shop. Instead of selling goods that had been given away, it sold baskets, mats and chair seats that had been made by blind and partially sighted people. The shop gave them a way to earn money from their work, and it also helped to raise money for the society.",
+    "The idea of selling donated goods became much more common during the Second World War. In 1941, the Red Cross opened a shop on Old Bond Street in London, where people could give items they no longer needed so that they could be sold to raise money for the war effort. The idea quickly spread. Over the next few years, the Red Cross opened more than two hundred permanent shops, as well as many temporary ones, across the country.",
+    "The organisation most closely linked with charity shops today, however, is Oxfam. It began in 1942 as a small group of people in the city of Oxford who called themselves the Oxford Committee for Famine Relief. At that time, Greece was occupied by enemy forces, and the Allied countries had blocked ships from reaching it. As a result, many Greek people were starving. The committee campaigned for food to be allowed through and collected money to help.",
+    "After the war ended, the committee continued its work, sending help to people in Europe who had lost their homes. In the late 1940s, it opened a shop on Broad Street in the centre of Oxford, where people could bring clothes and other goods to be sold. The shop was a great success, and it is still open today. Over the following decades, the committee, which officially took the shorter name Oxfam in 1965, opened hundreds of shops, and many other charities copied its example.",
+    "Charity shops can make money for several reasons. First, almost everything they sell has been donated, so they do not have to buy stock. Second, most of the people who work in them are volunteers, who give their time for free, although larger shops usually have a paid manager. Third, in the United Kingdom, charity shops pay much lower business taxes than ordinary shops. This means that even when items are sold for low prices, a large part of the money can go to the charity.",
+    "Over time, charity shops have changed. Many now sell some new goods, such as cards and fair trade products, as well as second-hand items. Some specialise in one type of product, such as furniture, wedding dresses or books. Oxfam, for example, says that it is the largest seller of second-hand books in Europe. Many charities also sell donated goods online, which allows rare or valuable items to reach buyers who will pay a higher price for them.",
+    "Charity shops are not without their critics. Some owners of small businesses say that it is unfair for them to compete with shops that pay lower taxes and do not have to pay most of their staff. However, supporters point out that charity shops give a second life to clothes and other goods that might otherwise be thrown away, which is good for the environment. They also give volunteers, many of them retired people or young people looking for work experience, a chance to meet others and learn new skills. For many people, a charity shop is not just a place to buy a cheap jacket but a small but important part of the community. Whatever the arguments, charity shops remain a familiar part of town centres, and for many shoppers a visit to one is now a normal part of looking for a bargain."
+   ],
+   "questions": [
+    {
+     "id": "exam40-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The shop opened in Wolverhampton in 1899 sold items that people had given away.",
+     "explanation": "It sold goods made by blind people.",
+     "evidenceQuote": "Instead of selling goods that had been given away, it sold baskets, mats and chair seats",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam40-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Red Cross shop on Old Bond Street raised money for the war effort.",
+     "explanation": "Money went to the war effort.",
+     "evidenceQuote": "so that they could be sold to raise money for the war effort",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam40-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The Red Cross shops sold mainly clothes and shoes.",
+     "explanation": "The type of goods is not stated.",
+     "evidenceQuote": "people could give items they no longer needed",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam40-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The Oxford Committee for Famine Relief was set up to help people in Greece.",
+     "explanation": "It helped starving Greeks.",
+     "evidenceQuote": "As a result, many Greek people were starving.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam40-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Oxfam's first shop on Broad Street closed after a few years.",
+     "explanation": "It is still open.",
+     "evidenceQuote": "The shop was a great success, and it is still open today.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam40-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Oxfam was the first charity in Britain to sell goods online.",
+     "explanation": "It does not say who was first.",
+     "evidenceQuote": "Many charities also sell donated goods online",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam40-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Some small business owners think charity shops have an unfair advantage.",
+     "explanation": "They say it is unfair.",
+     "evidenceQuote": "Some owners of small businesses say that it is unfair for them to compete with shops that pay lower taxes",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam40-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "The Oxford committee was founded in the year __________.",
+     "explanation": "It began in 1942.",
+     "evidenceQuote": "It began in 1942 as a small group of people in the city of Oxford",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1942"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "The committee began using the name Oxfam officially in __________.",
+     "explanation": "The name was adopted in 1965.",
+     "evidenceQuote": "officially took the shorter name Oxfam in 1965",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1965"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Charity shops do not need to buy __________ because goods are donated.",
+     "explanation": "They do not buy stock.",
+     "evidenceQuote": "so they do not have to buy stock",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stock"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Larger charity shops usually employ a paid __________.",
+     "explanation": "They have a paid manager.",
+     "evidenceQuote": "larger shops usually have a paid manager",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "manager"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Some charity shops sell only one type of product, for example wedding __________.",
+     "explanation": "Some sell wedding dresses.",
+     "evidenceQuote": "such as furniture, wedding dresses or books",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dresses"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Selling online helps rare or __________ items find buyers who will pay more.",
+     "explanation": "Valuable items get higher prices.",
+     "evidenceQuote": "allows rare or valuable items to reach buyers who will pay a higher price",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "valuable"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 717,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam40-rp2",
+   "passageNumber": 2,
+   "title": "Is volunteering good for you?",
+   "discipline": "Health & Social Science",
+   "paragraphs": [
+    "Every year, millions of people around the world give up their free time to help others without being paid. They coach children's sports teams, visit elderly neighbours, plant trees, answer phones for helplines and serve food in community kitchens. Most people volunteer because they want to help, but a growing amount of research suggests that the volunteers themselves may also benefit in important ways. Scientists, doctors and governments have become increasingly interested in these benefits, partly because volunteering costs very little and is available to almost everyone. If helping others really does make people happier and healthier, it could be a simple way to improve the lives of millions of people.",
+    "One of the most common benefits that volunteers report is a feeling of happiness and satisfaction. Many people describe a warm, positive feeling after helping someone, and this has sometimes been called a 'helper's high'. Studies that ask people about their wellbeing have often found that volunteers say they are more satisfied with their lives than people who do not volunteer. Doing something useful for others seems to give people a sense of purpose. This may be especially important for people who have recently retired from work or whose children have left home, because these changes can leave them feeling that they are no longer needed.",
+    "Volunteering can also help people to make friends and feel part of a community. Loneliness is a serious problem in many countries, especially among older people and people who live alone. Working alongside others towards a shared goal gives people a natural reason to talk and spend time together. For people who have recently moved to a new area, volunteering can be one of the quickest ways to get to know their neighbours. Volunteers often say that the friendships they make are among the most valuable things they get from their work, and some of these friendships last for many years.",
+    "There is also some evidence of benefits to physical health. In 2013, researchers at the University of Exeter Medical School in England looked at the results of many earlier studies. They found that, in studies which followed people over a number of years, volunteers were less likely to die during the study period than people who did not volunteer. Volunteering was also linked to lower levels of depression. Other studies have suggested that older volunteers, in particular, tend to stay more physically active, perhaps because their work involves walking, carrying things or simply leaving the house more often.",
+    "However, the researchers were careful to explain that these results do not prove that volunteering itself makes people healthier. It is possible that people who are already healthy, active and well connected are simply more likely to volunteer in the first place. In other words, good health might lead to volunteering, rather than the other way round. To be more certain, scientists need more studies in which people are chosen at random to volunteer or not, and then followed over time.",
+    "For younger people, one important benefit of volunteering is the chance to develop skills that are useful at work. Volunteers may learn how to work in a team, communicate with the public, organise events or handle money. These experiences can give them confidence and can also be mentioned on a CV or in a job interview. Some employers say they value voluntary work because it shows that a person is reliable and willing to take responsibility. For students who are not sure what career they want, volunteering can also be a way to try out different kinds of work, such as teaching, nursing or working outdoors, before making a decision.",
+    "Volunteering is not always a positive experience, though. Some volunteers find that they are given boring tasks or that they are not properly trained or supported. Others take on too much and begin to feel tired and stressed, especially if their work involves helping people in difficult situations. Experts say that good organisations should give volunteers clear information about what they will do, offer training and make sure they feel appreciated. Something as simple as saying thank you, or inviting volunteers to a small celebration at the end of the year, can make a big difference to whether people decide to continue.",
+    "So, is volunteering good for you? The answer seems to be that it often is, although perhaps not in every case. Most people who volunteer say they get a lot out of it, and there are good reasons to think that helping others can improve our happiness and our connections with other people. Perhaps the best advice is to choose an activity that you enjoy and that fits into your life, rather than one that you feel you ought to do."
+   ],
+   "questions": [
+    {
+     "id": "exam40-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B is about happiness and satisfaction.",
+     "evidenceQuote": "One of the most common benefits that volunteers report is a feeling of happiness and satisfaction.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Feeling good by doing good",
+      "Feeling good by doing good"
+     ]
+    },
+    {
+     "id": "exam40-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C is about friendship and loneliness.",
+     "evidenceQuote": "Volunteering can also help people to make friends and feel part of a community.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Fighting loneliness",
+      "Fighting loneliness"
+     ]
+    },
+    {
+     "id": "exam40-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes evidence on health.",
+     "evidenceQuote": "There is also some evidence of benefits to physical health.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Living longer?",
+      "Living longer?"
+     ]
+    },
+    {
+     "id": "exam40-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E warns about the evidence.",
+     "evidenceQuote": "these results do not prove that volunteering itself makes people healthier",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A reason to be careful",
+      "A reason to be careful"
+     ]
+    },
+    {
+     "id": "exam40-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F is about work skills.",
+     "evidenceQuote": "one important benefit of volunteering is the chance to develop skills that are useful at work",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Preparing for working life",
+      "Preparing for working life"
+     ]
+    },
+    {
+     "id": "exam40-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes problems for volunteers.",
+     "evidenceQuote": "Volunteering is not always a positive experience, though.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. When helping goes wrong",
+      "When helping goes wrong"
+     ]
+    },
+    {
+     "id": "exam40-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H gives a conclusion and advice.",
+     "evidenceQuote": "So, is volunteering good for you?",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A final answer and some advice",
+      "A final answer and some advice"
+     ]
+    },
+    {
+     "id": "exam40-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph C, why can volunteering be helpful for people who have just moved house?",
+     "explanation": "It helps them meet neighbours quickly.",
+     "evidenceQuote": "volunteering can be one of the quickest ways to get to know their neighbours",
+     "skillTag": "detail",
+     "options": [
+      "A. It helps them find a new job.",
+      "B. It helps them meet local people quickly.",
+      "C. It helps them learn about the history of the area.",
+      "D. It helps them save money."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It helps them meet local people quickly.",
+      "It helps them meet local people quickly."
+     ]
+    },
+    {
+     "id": "exam40-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What kind of studies do scientists need in order to be more certain about the health effects of volunteering?",
+     "explanation": "People should be chosen at random.",
+     "evidenceQuote": "studies in which people are chosen at random to volunteer or not",
+     "skillTag": "detail",
+     "options": [
+      "A. studies of older people only",
+      "B. studies that ask volunteers about their feelings",
+      "C. shorter studies with more people",
+      "D. studies where people are randomly chosen to volunteer"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. studies where people are randomly chosen to volunteer",
+      "studies where people are randomly chosen to volunteer"
+     ]
+    },
+    {
+     "id": "exam40-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why do some employers value voluntary work, according to the writer?",
+     "explanation": "It shows reliability.",
+     "evidenceQuote": "it shows that a person is reliable and willing to take responsibility",
+     "skillTag": "detail",
+     "options": [
+      "A. It shows that a person can be trusted.",
+      "B. It means people need less training.",
+      "C. It proves a person is healthy.",
+      "D. It shows that a person has a lot of free time."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It shows that a person can be trusted.",
+      "It shows that a person can be trusted."
+     ]
+    },
+    {
+     "id": "exam40-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The good feeling people get after helping others is sometimes called a '__________'.",
+     "explanation": "It is called a helper's high.",
+     "evidenceQuote": "this has sometimes been called a 'helper's high'",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "helper's high"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam40-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "In the 2013 review, volunteering was linked to lower levels of __________.",
+     "explanation": "Depression levels were lower.",
+     "evidenceQuote": "Volunteering was also linked to lower levels of depression.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "depression"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam40-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Volunteers who take on too much may start to feel tired and __________.",
+     "explanation": "They feel stressed.",
+     "evidenceQuote": "begin to feel tired and stressed",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stressed"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 790,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A reason to be careful",
+      "ii. Fighting loneliness",
+      "iii. When helping goes wrong",
+      "iv. How to find a volunteering job",
+      "v. Feeling good by doing good",
+      "vi. Preparing for working life",
+      "vii. Why fewer people volunteer today",
+      "viii. Living longer?",
+      "ix. A final answer and some advice"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam40-rp3",
+   "passageNumber": 3,
+   "title": "Should volunteering be compulsory for students?",
+   "discipline": "Education & Social Policy",
+   "paragraphs": [
+    "In many countries, governments and schools are keen to encourage young people to help in their communities. Some have gone further and made a certain amount of community service a requirement for finishing school. Supporters say this teaches young people to care about others, while critics argue that forced 'volunteering' is not really volunteering at all. Looking at some of the programmes that exist around the world can help us to think about this question.",
+    "In the United States, the state of Maryland became, in 1992, the first state to require all students to complete community service before they could finish high school. Students there must do seventy-five hours of service, which can include helping at food banks, tutoring younger children or working on environmental projects. Many schools in other states have since introduced their own requirements, although most states have not made it a rule for every school.",
+    "In Canada, the province of Ontario introduced a similar rule in 1999. Since then, every student must complete forty hours of community involvement in order to receive a secondary school diploma. Students can choose their own activities, as long as they are unpaid and benefit the community. Some schools help students to find suitable placements, while others leave it to the students and their families.",
+    "Service is also part of some international qualifications. Students taking the International Baccalaureate Diploma, which is offered by schools in many countries, must complete a programme called Creativity, Activity, Service, usually known as CAS. As part of this programme, students take part in service activities and write about what they have learned from them. The aim is to help students think about their own role in the wider world.",
+    "Other countries have chosen to encourage young people rather than force them. In England, the National Citizen Service, which was introduced in 2011, offers teenagers aged fifteen to seventeen a programme of activities that includes planning and carrying out a project in their local community. It is completely voluntary. In Germany, after compulsory military service was suspended in 2011, a Federal Volunteer Service was created, which gives people of all ages the chance to work for a period in areas such as social care, sport or the environment. Taking part is entirely voluntary, and the programme is designed to be affordable, so that young people from all kinds of families can join.",
+    "France has taken a different approach again. In 2019, it launched a programme called the Universal National Service, which brings together young people of around fifteen to seventeen from different backgrounds for a period of group activities, followed by a mission helping an organisation in the community. The government has discussed making it compulsory for all young people, but this has been controversial, and so far it has remained mostly voluntary.",
+    "So, do compulsory programmes work? Researchers have reached mixed conclusions. Some studies suggest that students who are required to do community service are just as likely to volunteer later in life as those who are not, or even more likely. Others have found that being forced to help can make some young people less keen to volunteer in the future, especially if the activities feel pointless. Much seems to depend on the quality of the experience and on whether students are allowed to choose what they do. Part of the difficulty is that it is hard to measure the long-term effects of such programmes, since students who choose to volunteer may already be different in important ways from those who do not. Researchers also point out that the quality of the experience seems to matter a great deal: well-organised placements that give students real responsibility appear to have more positive effects than tasks that feel pointless.",
+    "In my view, schools are right to make some form of community service part of education. Many young people never try volunteering simply because nobody asks them, and a requirement can open doors that would otherwise stay closed. However, I believe the number of hours should be modest, and students must be given a real choice of activities. It is also important that students have time to talk about what they have done. Without this, I think community service risks becoming just another box to tick, rather than an experience that changes the way young people see the world."
+   ],
+   "questions": [
+    {
+     "id": "exam40-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "was the first in its country to make community service necessary for leaving school",
+     "explanation": "Maryland was first.",
+     "evidenceQuote": "the state of Maryland became, in 1992, the first state to require all students to complete community service",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Maryland",
+      "Maryland"
+     ]
+    },
+    {
+     "id": "exam40-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "requires students to write about what they have learned from helping others",
+     "explanation": "This is the IB CAS programme.",
+     "evidenceQuote": "students take part in service activities and write about what they have learned from them",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the International Baccalaureate",
+      "the International Baccalaureate"
+     ]
+    },
+    {
+     "id": "exam40-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "requires forty hours of unpaid work in the community",
+     "explanation": "This is Ontario.",
+     "evidenceQuote": "every student must complete forty hours of community involvement",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Ontario",
+      "Ontario"
+     ]
+    },
+    {
+     "id": "exam40-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "was created after young people no longer had to do military service",
+     "explanation": "This is Germany.",
+     "evidenceQuote": "after compulsory military service was suspended in 2011, a Federal Volunteer Service was created",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Germany",
+      "Germany"
+     ]
+    },
+    {
+     "id": "exam40-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "has considered making its programme compulsory for every young person",
+     "explanation": "This is France.",
+     "evidenceQuote": "The government has discussed making it compulsory for all young people",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. France",
+      "France"
+     ]
+    },
+    {
+     "id": "exam40-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Research clearly shows that compulsory service makes young people volunteer more later in life.",
+     "explanation": "The evidence is mixed.",
+     "evidenceQuote": "Researchers have reached mixed conclusions.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam40-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Many young people do not volunteer because nobody has asked them to.",
+     "explanation": "The writer says nobody asks them.",
+     "evidenceQuote": "Many young people never try volunteering simply because nobody asks them",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam40-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Students should be required to do a large number of hours of service.",
+     "explanation": "The writer wants a modest number of hours.",
+     "evidenceQuote": "I believe the number of hours should be modest",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam40-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Community service is more successful in Canada than in the United States.",
+     "explanation": "The two countries' results are not compared.",
+     "evidenceQuote": "In Canada, the province of Ontario introduced a similar rule in 1999.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam40-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Students need time to discuss their community service experiences.",
+     "explanation": "The writer says discussion is important.",
+     "evidenceQuote": "It is also important that students have time to talk about what they have done.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam40-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In Maryland, students can help by __________ younger children.",
+     "explanation": "Tutoring is one option.",
+     "evidenceQuote": "tutoring younger children",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tutoring"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "In Ontario, some schools help students to find suitable __________.",
+     "explanation": "Schools help find placements.",
+     "evidenceQuote": "Some schools help students to find suitable placements",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "placements"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "The National Citizen Service in England is completely __________.",
+     "explanation": "It is voluntary.",
+     "evidenceQuote": "It is completely voluntary.",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "voluntary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam40-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Being forced to help may put young people off if the activities seem __________.",
+     "explanation": "Pointless activities can put them off.",
+     "evidenceQuote": "especially if the activities feel pointless",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pointless"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 721,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of places and programmes below. Match each statement with the correct place or programme, A–F.",
+     "options": [
+      "A. Maryland",
+      "B. Ontario",
+      "C. the International Baccalaureate",
+      "D. England",
+      "E. Germany",
+      "F. France"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam40-w1",
+  "title": "Types of voluntary work done by adults",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts below show the types of voluntary work done by adult volunteers in one country in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "CA62ED07-449D-5882-BD6B-F5C3276864D4",
+    "series": "2005",
+    "category": "Sport and leisure",
+    "value": 26.0,
+    "unit": "%"
+   },
+   {
+    "id": "F561FD1E-0D9A-5DBC-9845-DA15B855F034",
+    "series": "2005",
+    "category": "Health and care",
+    "value": 22.0,
+    "unit": "%"
+   },
+   {
+    "id": "AFED4FC3-5866-53BA-A53B-EE55833ABDF8",
+    "series": "2005",
+    "category": "Education",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "1BA69B7B-AEB2-52D1-AE50-5593D70352B5",
+    "series": "2005",
+    "category": "Environment",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "6E743339-5114-5168-B5AC-A254E6D00AD1",
+    "series": "2005",
+    "category": "Other",
+    "value": 25.0,
+    "unit": "%"
+   },
+   {
+    "id": "4E41A4AA-A210-5E2B-BEBA-DA9BDE932D92",
+    "series": "2025",
+    "category": "Sport and leisure",
+    "value": 21.0,
+    "unit": "%"
+   },
+   {
+    "id": "7868FAF1-5A89-5E08-8561-D2C4EF3B097D",
+    "series": "2025",
+    "category": "Health and care",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "DDA506BF-29B2-57FA-B7AC-A2EC9D47FCF8",
+    "series": "2025",
+    "category": "Education",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "37FE8D30-552C-5845-926D-E2940B1DBD41",
+    "series": "2025",
+    "category": "Environment",
+    "value": 20.0,
+    "unit": "%"
+   },
+   {
+    "id": "C97BCE23-7DD3-5D71-BD31-A0DA1A42201A",
+    "series": "2025",
+    "category": "Other",
+    "value": 18.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Sport and leisure was the largest type of voluntary work in 2005, but health and care took first place in 2025.",
+   "Environmental volunteering more than doubled, while education and other types fell."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam40-w2",
+  "title": "Giving money or giving time",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Society & Community",
+  "promptText": "Some people think that the best way to help a charity is to give it money. Others believe that giving your time as a volunteer is more useful. Discuss both these views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam40-spk",
+  "theme": "Helping others and the community",
+  "part1Questions": [
+   "Do you know your neighbours well?",
+   "Have you ever done any voluntary work?",
+   "Do people in your country often give money to charity?",
+   "Is there a community centre or library near your home?",
+   "Did your school ever organise activities to help other people?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you helped someone in your community.",
+   "bulletPoints": [
+    "who you helped",
+    "when and where it happened",
+    "what you did to help",
+    "and explain how you felt afterwards"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people choose to volunteer while others do not?",
+   "Should companies give their workers time off to do voluntary work?",
+   "How can communities help older people who live alone?",
+   "Do you think people help their neighbours less than they did in the past?",
+   "What can governments do to encourage people to help each other?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and facts are checked against standard reference sources; survey figures in Writing Task 1 are invented for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,2233 @@
+{
+ "id": "exam30",
+ "examNumber": 30,
+ "pool": "mock",
+ "title": "Mock Exam 30: Happiness, Well-being & Positive Psychology",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Happiness, Well-being & Positive Psychology",
+ "listeningParts": [
+  {
+   "id": "exam30-lp1",
+   "partNumber": 1,
+   "title": "Joining a well-being course",
+   "contextDescription": "A man phones a community centre to sign up for a course in its spring well-being programme.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "187FF50E-BAB2-5CDE-A14E-C68C52369CBD",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Good morning, Hillcrest Community Centre, Megan speaking. How can I help?"
+    },
+    {
+     "id": "D97E2137-7EE9-57D2-A8BC-3343137ED843",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Oh, hello. I'm calling about your Feel Good programme. I'm interested in joining one of the courses, and I wondered if you could give me some details."
+    },
+    {
+     "id": "23F8C29D-3E59-5978-A790-25D0650A91DE",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Of course. The Feel Good programme is a series of short courses that run throughout the spring. They're all about looking after your mental and physical well-being. At the moment we've got four courses: mindfulness, gardening for health, laughter yoga and a walking group. Did you have one in mind?"
+    },
+    {
+     "id": "0D3088B5-3730-5314-9B0B-8BF3948D52C2",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I was thinking about the mindfulness course. I've been quite stressed at work recently, and a colleague told me it really helped her when she was going through a difficult time."
+    },
+    {
+     "id": "35883549-6992-52B5-AE12-B422EA8DE49A",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "That's one of our most popular courses. It runs for eight weeks, and the sessions are on Tuesday evenings, from seven until half past eight. The walking group and the gardening course are both during the day, so they tend to suit people who are retired."
+    },
+    {
+     "id": "167F184F-8F11-5EFE-82FE-AA86522B3591",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Evenings are much better for me. When does it start?"
+    },
+    {
+     "id": "3C4C8C2E-4760-5AA7-9F94-9DD4C2F831F7",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "The first session is on the fourteenth of March. We did have a course starting at the end of February, but that one's completely full now, I'm afraid."
+    },
+    {
+     "id": "B20547A6-4C74-5113-B9CC-1E8B32532701",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "The fourteenth is fine. And where does it take place? Here at the centre?"
+    },
+    {
+     "id": "C5136913-8365-5C84-B8ED-D87D6140EDE6",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Usually, yes, in the Garden Room on the ground floor. It's the quietest room in the building, because it looks out onto the back garden rather than the main road. But for the first two weeks we're having some building work done, so those sessions will be in the library next door instead. There'll be a sign on the door to remind people."
+    },
+    {
+     "id": "084B6229-4D66-54E6-83BD-D9984AE78429",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Okay, that's no problem. How much does the course cost?"
+    },
+    {
+     "id": "EBD7159D-9CD3-5C07-B50C-64AFA5943F52",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "The full course is sixty pounds. If you're a student or over sixty-five, there's a reduced price of forty pounds. And if you'd just like to try it first, you can pay twelve pounds for a single session."
+    },
+    {
+     "id": "8BDD965E-193D-5A0E-8A13-7290ACC7EEB2",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I'll pay the full price, sixty pounds. I think I'd rather commit to the whole thing, otherwise I'll probably find excuses not to go. Who teaches it?"
+    },
+    {
+     "id": "E45883C5-C4B6-53A3-B33C-2091354D1D10",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "The teacher is Anna Kowalski. She used to be a nurse, and she's been teaching mindfulness for over ten years now. People really like her because she's very practical. She doesn't expect you to sit in silence for an hour on the first evening; she starts with very short exercises, just two or three minutes long."
+    },
+    {
+     "id": "326D2A9F-A6B3-5E57-9913-5421E4B5C124",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "That's good to hear, because I'm not sure I could manage an hour. Is there anything I need to bring?"
+    },
+    {
+     "id": "B322DE80-F51B-5950-945A-2D9244868731",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Just wear comfortable clothes. We provide mats and cushions, but quite a few people like to bring their own blanket, because the room can get a bit cold in the evenings. Anna will also ask you to keep a short diary during the week, about how you're feeling and when you practise, so a small notebook is useful."
+    },
+    {
+     "id": "2A529648-99D0-5626-86D8-CCFE61134388",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Right. And do I need any experience?"
+    },
+    {
+     "id": "9D0D2DE4-2D58-5D7D-AC9E-DBCD065AF697",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "None at all. It's designed for complete beginners. Is there anything about your health that Anna should know about?"
+    },
+    {
+     "id": "A6F8C659-3F1F-5355-A26E-CF4F364CF60A",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Well, I've got a bad back, so I can't sit on the floor for very long."
+    },
+    {
+     "id": "140B8940-4F64-5EEF-A477-A3F46C4E429C",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "That's no problem at all. Lots of people prefer to use chairs, and we always have plenty in the room. Now, can I take some details to register you? What's your name, please?"
+    },
+    {
+     "id": "648A4AD4-3B1C-5BA0-BC14-2E554D8FB331",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "It's Daniel Hartigan. That's H-A-R-T-I-G-A-N."
+    },
+    {
+     "id": "7D49E8D3-E30D-56CE-900F-29B2D6023BFD",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Thank you, Daniel. And could I ask how you heard about the programme? We like to know which kind of advertising works best."
+    },
+    {
+     "id": "0260921F-79FA-5630-BEA7-9F07C9F6B0C8",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I heard an advert for it on the local radio, on my way to work one morning."
+    },
+    {
+     "id": "5BC70F3C-33E1-59C3-B360-E341288FEE5A",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "Oh, good. That's the first year we've tried that, so it's nice to know it's working. Is there anything else you'd like to know?"
+    },
+    {
+     "id": "4CE91ECC-146E-5B0F-8F7E-45061DB2BED5",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Just one thing. Is there somewhere to park?"
+    },
+    {
+     "id": "C2CE611E-4367-5DD7-8CAA-FB4D7BADF5FC",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "There's a small car park behind the building, but it fills up very quickly in the evening because of the gym classes. Most people park in Station Road, just round the corner, which is free after six o'clock."
+    },
+    {
+     "id": "EF69FDE7-ED3E-5340-9955-D5EAB5605858",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Station Road. Great. Thanks very much for your help."
+    },
+    {
+     "id": "30DABFDF-DB8F-51DB-AE44-07FBA79655E4",
+     "speaker": "Receptionist",
+     "accent": "en-AU",
+     "text": "You're welcome, Daniel. I'll send you a confirmation by email this afternoon, with a link so you can pay online. We look forward to seeing you on the fourteenth."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam30-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Course chosen: __________",
+     "explanation": "He chooses the mindfulness course.",
+     "evidenceQuote": "I was thinking about the mindfulness course.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "mindfulness"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Day and time: __________ evenings, 7.00–8.30",
+     "explanation": "Sessions are on Tuesday evenings.",
+     "evidenceQuote": "the sessions are on Tuesday evenings",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "First session: __________ March",
+     "explanation": "The course starts on 14 March.",
+     "evidenceQuote": "The first session is on the fourteenth of March.",
+     "skillTag": "dates",
+     "distractorNote": "The course starting at the end of February is full.",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Weeks 1–2 held in the __________ next door",
+     "explanation": "The first two sessions are in the library.",
+     "evidenceQuote": "those sessions will be in the library next door instead",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Price paid: £__________",
+     "explanation": "He pays the full price of £60.",
+     "evidenceQuote": "I'll pay the full price, sixty pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£40 is the reduced price; £12 is a single session.",
+     "options": [],
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Teacher's previous job: __________",
+     "explanation": "Anna used to be a nurse.",
+     "evidenceQuote": "She used to be a nurse",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "nurse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring: own blanket (optional) and a small __________",
+     "explanation": "A notebook is needed for the diary.",
+     "evidenceQuote": "so a small notebook is useful",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "notebook"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Hartigan.",
+     "evidenceQuote": "It's Daniel Hartigan. That's H-A-R-T-I-G-A-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hartigan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Heard about programme on the local __________",
+     "explanation": "He heard a radio advert.",
+     "evidenceQuote": "I heard an advert for it on the local radio",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "radio"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Free parking after 6 p.m. in __________ Road",
+     "explanation": "Station Road is free after six.",
+     "evidenceQuote": "Most people park in Station Road",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Station"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "mindfulness",
+    "well-being",
+    "beginner",
+    "reduced price",
+    "register"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam30-lp2",
+   "partNumber": 2,
+   "title": "A community volunteering scheme",
+   "contextDescription": "The coordinator of a local volunteering scheme speaks to people at an information evening.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "4A871C3D-DBE1-5BE2-8BFD-147FCCCE412C",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Hello everyone, and thank you for coming along this evening. My name's Siobhan, and I coordinate the Kindness Counts volunteering scheme here in Ashford. Tonight I'd like to explain how the scheme works, tell you a little about the different roles that are available, and then answer any questions you might have."
+    },
+    {
+     "id": "A8CFD14B-A713-5C30-B916-47770E364082",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Kindness Counts was set up four years ago by the local council, together with three local charities. The idea came from a survey of residents, which found that a lot of people wanted to help in their community but didn't know where to start. Some had contacted charities directly, but had been put off by long application forms, or by being asked to commit to several days a week. So our aim was to make volunteering as simple and flexible as possible. You register once with us, and then you can try out different roles without filling in new forms every time."
+    },
+    {
+     "id": "FE61F0EF-F366-5081-9E92-B68F588F3E75",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Since we started, more than eleven hundred people have registered, and around four hundred volunteer with us every month. Interestingly, the biggest group isn't retired people, as many people expect, but people in their twenties and thirties, many of whom are looking for something meaningful to do outside work."
+    },
+    {
+     "id": "372825AC-9CDC-5530-AD74-A40FA9CF5E06",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Now, some of you may know that researchers have found links between volunteering and well-being. People who volunteer regularly tend to report higher life satisfaction and lower levels of depression. However, it's not always clear which comes first: it may be partly that happier people are more likely to volunteer in the first place. What we've noticed, though, is that the benefits seem greatest when people choose a role they really care about, rather than one they feel they ought to do. So please don't feel guilty about picking something you'll enjoy."
+    },
+    {
+     "id": "B806C18A-7C2C-5E94-953E-92C812B601F8",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Let me run through the main roles. First, there's our telephone befriending service. Volunteers phone an older person who lives alone, once a week, just for a chat. It's ideal if you find it hard to leave the house yourself, or if you work irregular hours, because you can make the calls from home at a time that suits you both. Because you'll be speaking to people who may be vulnerable, you'll need to have a background check before you start, which we arrange free of charge."
+    },
+    {
+     "id": "941BD82C-618C-546F-9C6E-C5CF2E30E4BA",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Second, there's the Green Team. They meet every Saturday morning in Riverside Park, planting trees, clearing paths and looking after the wildflower meadow. You don't need any experience, and all the tools and gloves are provided. Just bring old clothes and waterproof boots, because it can get very muddy down by the river, especially in winter."
+    },
+    {
+     "id": "C8E829D6-7A73-5917-9007-4CB73F2E67D8",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Third, Reading Buddies. Volunteers go into local primary schools and listen to children read, for an hour a week. This role is during school hours, of course, so it tends to suit people who are retired or who work part-time. The teachers tell us that the children's confidence improves enormously, and many of our volunteers say it's the highlight of their week."
+    },
+    {
+     "id": "6F7C5BBC-3B84-5AC7-82A6-C6FF5BE2E4AF",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Fourth, the food bank on Mill Lane. Volunteers sort donations, pack parcels and help to hand them out. It's busiest before Christmas, so if you can only give a few days a year, that would be the time we need you most."
+    },
+    {
+     "id": "87BB56E1-7B6E-5DF4-842A-520BE655E705",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "And finally, there's the Repair Café, which takes place on the first Sunday of every month in the church hall. People bring along broken items, such as lamps, bicycles and clothes, and volunteers show them how to fix them, rather than throwing them away. It's very sociable, and there's always tea and cake. This is the only role where we ask for a particular skill, so if you're good with a sewing machine or a screwdriver, we'd love to hear from you."
+    },
+    {
+     "id": "6B89B8FC-1C27-5D09-8537-A28D33BD6E36",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "To register, you simply fill in one form online and come to a one-hour welcome session, which runs on the second Thursday of every month. After that, you can sign up for activities through our app, and you can change roles whenever you like. Right, has anyone got any questions?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam30-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was the main purpose of setting up Kindness Counts?",
+     "explanation": "It aimed to make volunteering simple and flexible.",
+     "evidenceQuote": "So our aim was to make volunteering as simple and flexible as possible.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to make it easier for people to start volunteering",
+      "B. to raise money for three local charities",
+      "C. to replace services that the council had cut"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to make it easier for people to start volunteering",
+      "to make it easier for people to start volunteering"
+     ]
+    },
+    {
+     "id": "exam30-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "How many people volunteer with the scheme each month?",
+     "explanation": "About 400 volunteer monthly.",
+     "evidenceQuote": "around four hundred volunteer with us every month",
+     "skillTag": "numbers",
+     "distractorNote": "More than 1,100 have registered, but not all volunteer each month.",
+     "options": [
+      "A. about 1,100",
+      "B. about 400",
+      "C. about 40"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. about 400",
+      "about 400"
+     ]
+    },
+    {
+     "id": "exam30-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Which group of people makes up the largest number of Kindness Counts volunteers?",
+     "explanation": "People in their twenties and thirties are the biggest group.",
+     "evidenceQuote": "but people in their twenties and thirties",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. retired people",
+      "B. students and teenagers",
+      "C. people in their twenties and thirties"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. people in their twenties and thirties",
+      "people in their twenties and thirties"
+     ]
+    },
+    {
+     "id": "exam30-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What does Siobhan say about research into volunteering and well-being?",
+     "explanation": "Cause and effect are not clear.",
+     "evidenceQuote": "it's not always clear which comes first",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It has only studied older volunteers.",
+      "B. It cannot show which factor causes the other.",
+      "C. It shows that volunteering prevents depression."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It cannot show which factor causes the other.",
+      "It cannot show which factor causes the other."
+     ]
+    },
+    {
+     "id": "exam30-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Siobhan advises new volunteers to choose a role that",
+     "explanation": "Benefits are greatest when people care about the role.",
+     "evidenceQuote": "the benefits seem greatest when people choose a role they really care about",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. they feel strongly about.",
+      "B. is most needed by the community.",
+      "C. their friends are already doing."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. they feel strongly about.",
+      "they feel strongly about."
+     ]
+    },
+    {
+     "id": "exam30-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "requires a check before volunteers can begin",
+     "explanation": "Telephone befrienders need a background check.",
+     "evidenceQuote": "you'll need to have a background check before you start",
+     "skillTag": "matching",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. telephone befriending",
+      "telephone befriending"
+     ]
+    },
+    {
+     "id": "exam30-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "needs volunteers most at one time of year",
+     "explanation": "The food bank needs most help before Christmas.",
+     "evidenceQuote": "It's busiest before Christmas",
+     "skillTag": "matching",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the food bank",
+      "the food bank"
+     ]
+    },
+    {
+     "id": "exam30-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "is the only role that asks for a particular skill",
+     "explanation": "The Repair Café needs practical skills.",
+     "evidenceQuote": "This is the only role where we ask for a particular skill",
+     "skillTag": "matching",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the Repair Café",
+      "the Repair Café"
+     ]
+    },
+    {
+     "id": "exam30-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "is mainly suitable for retired or part-time workers",
+     "explanation": "Reading Buddies takes place in school hours.",
+     "evidenceQuote": "it tends to suit people who are retired or who work part-time",
+     "skillTag": "matching",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Reading Buddies",
+      "Reading Buddies"
+     ]
+    },
+    {
+     "id": "exam30-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "requires volunteers to wear suitable footwear",
+     "explanation": "The Green Team needs waterproof boots.",
+     "evidenceQuote": "Just bring old clothes and waterproof boots",
+     "skillTag": "matching",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the Green Team",
+      "the Green Team"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "befriending",
+    "background check",
+    "food bank",
+    "repair café",
+    "life satisfaction"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which volunteering role matches each description? Choose the correct letter, A–E.",
+     "options": [
+      "A. telephone befriending",
+      "B. the Green Team",
+      "C. Reading Buddies",
+      "D. the food bank",
+      "E. the Repair Café"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam30-lp3",
+   "partNumber": 3,
+   "title": "Planning a presentation on hedonic adaptation",
+   "contextDescription": "Two psychology students, Maya and Tom, discuss their seminar presentation with their tutor.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "BB23C785-3B34-5A46-BBBC-FBEE0AAD62E8",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Hi, Maya, Tom, come in and sit down. So you're presenting to the seminar group next week on hedonic adaptation. How's it going?"
+    },
+    {
+     "id": "5AA03FDE-4784-5820-B721-3E2114E08117",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "Pretty well, I think. We've done most of the reading, but we wanted to check the structure with you before we make the slides."
+    },
+    {
+     "id": "99612FA0-7CE1-583E-89C4-8F63D11EFE1B",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Sure. Remind me how you're going to start."
+    },
+    {
+     "id": "9FA67E4D-7921-55AE-A594-DCD5A055B069",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We thought we'd begin with a question for the audience: if you won a million pounds tomorrow, how much happier do you think you'd be in a year's time? We'll ask everyone to write down a number from one to ten, and then we'll come back to it at the very end."
+    },
+    {
+     "id": "EEFDB250-1EAB-55B5-BA73-DBFA11FC871E",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "I like that. It gets people involved straight away. Then what?"
+    },
+    {
+     "id": "35C7A497-3891-55A6-B589-33F13D1EE95D",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "Then we explain the basic idea: that people tend to get used to changes in their lives, both good and bad, so after a while their happiness returns to roughly where it was before. The term 'hedonic treadmill' was introduced by Philip Brickman and Donald Campbell in 1971. The idea is that, like someone on a treadmill, you keep moving, but you don't really get anywhere."
+    },
+    {
+     "id": "F01685B5-609C-580F-999E-F09C3C344CAC",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "And then the classic study?"
+    },
+    {
+     "id": "45736936-34C3-5E46-8169-CAB77CC124DB",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Yes, that's the 1978 paper by Brickman and two colleagues, which compared lottery winners with people who had been seriously injured in accidents, and with a control group. The winners weren't significantly happier than the control group, and they actually got less pleasure from everyday things, like chatting with friends or hearing a joke."
+    },
+    {
+     "id": "F9549C21-6705-5DDA-9E24-C7A1E3C43EDF",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Why do you think that was?"
+    },
+    {
+     "id": "D1A63BB2-483F-5F20-874F-BBC7DC345A96",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The authors suggested two reasons. One was contrast: compared with the excitement of winning, ordinary pleasures just didn't seem as exciting any more. The other was habituation, which means they simply got used to their new wealth."
+    },
+    {
+     "id": "CDEE7093-C3C7-50E9-AD3F-203DAE957801",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "But we want to be careful not to exaggerate the findings. It's often reported as if the accident victims ended up just as happy as everyone else, and that's not what the study found. They were less happy than the control group, although not as unhappy as people might have expected."
+    },
+    {
+     "id": "1DAED26B-9D9E-5729-B28A-DF0D1A92E0B3",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Good. That's exactly the kind of critical point I'm looking for. Are you going to say anything about the methods?"
+    },
+    {
+     "id": "851FE08D-2C97-5B64-B92F-0516E610232E",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Yes, we'll point out that the groups were quite small, and that the study only measured people at one point in time, so it can't really show how anyone's happiness changed."
+    },
+    {
+     "id": "E2895D99-FEA8-51DA-BCA4-65A8780EB2AB",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Right. And that's why the later research matters so much. Have you looked at the long-term studies?"
+    },
+    {
+     "id": "86549096-7F1B-5038-B332-A427E8D9E453",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "We have. Richard Lucas and his colleagues used data from a German survey that followed thousands of people every year for a long time. They found that, on average, people who became unemployed didn't fully return to their previous level of life satisfaction, even after they found a new job. So adaptation isn't complete for every kind of event."
+    },
+    {
+     "id": "005AD906-CB64-5057-B5E0-3F677E4CAF23",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Exactly. And Ed Diener, together with Lucas and another colleague, wrote a well-known paper in 2006 revising the treadmill model. One of their points was that people don't start from a neutral point. Most people are slightly happy most of the time."
+    },
+    {
+     "id": "9D0B6C95-8662-5BC0-A42D-B8F008337844",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We hadn't included that. We'll add it to the section on later research."
+    },
+    {
+     "id": "8A9C73BD-C4DA-5BDF-BB1C-B4343843A011",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "And you'll finish with some practical implications?"
+    },
+    {
+     "id": "1FFD2620-68E2-5CF1-86B1-553D3D9E8C52",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "Yes, we want to end with ways of slowing down adaptation to positive things. One is variety: for example, changing how you spend your free time rather than doing the same thing every weekend. Another is gratitude. There's a study by Robert Emmons and Michael McCullough from 2003, where people who wrote down things they were grateful for each week felt better about their lives than people who wrote about their problems."
+    },
+    {
+     "id": "4C54BD0D-C82F-50EC-8B8C-FAE988E80826",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's a nice way to end, and it links back to your opening question. How long is it at the moment?"
+    },
+    {
+     "id": "824A4EAA-D7AB-58A2-9862-BFEB8032643A",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We've been given twenty minutes, plus five for questions. At the moment it's running at about twenty-five, so we need to cut something."
+    },
+    {
+     "id": "81DC03B7-76A0-57BD-989D-04F81BFF2E87",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "I'd shorten the history section. The audience doesn't need every date. And I'd strongly recommend a graph for the German data, rather than a table full of numbers. It'll be much easier for people to follow."
+    },
+    {
+     "id": "335D2F5C-6BB3-5122-8295-7ACB6071F1EB",
+     "speaker": "Maya",
+     "accent": "en-AU",
+     "text": "Okay. Should we give out a handout as well?"
+    },
+    {
+     "id": "88991108-4EA9-50BC-87E6-031E300A164E",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Yes, but keep it to one page, with your references on it. And please send me your slides by Friday, so I've got time to look at them before the seminar."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam30-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How will the students open their presentation?",
+     "explanation": "They will ask the audience to predict their future happiness.",
+     "evidenceQuote": "how much happier do you think you'd be in a year's time?",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by asking the audience to make a prediction",
+      "B. by showing a video about a lottery winner",
+      "C. by explaining the history of the research"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. by asking the audience to make a prediction",
+      "by asking the audience to make a prediction"
+     ]
+    },
+    {
+     "id": "exam30-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "In the 1978 study, how did the lottery winners differ from the control group?",
+     "explanation": "Winners enjoyed everyday pleasures less.",
+     "evidenceQuote": "they actually got less pleasure from everyday things",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were much happier a year later.",
+      "B. They had more friends.",
+      "C. They enjoyed ordinary activities less."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They enjoyed ordinary activities less.",
+      "They enjoyed ordinary activities less."
+     ]
+    },
+    {
+     "id": "exam30-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What point does Maya want to make about the accident victims?",
+     "explanation": "They were less happy than the control group.",
+     "evidenceQuote": "They were less happy than the control group",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They became as happy as the control group.",
+      "B. They were less happy than the control group.",
+      "C. They were happier than the lottery winners."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They were less happy than the control group.",
+      "They were less happy than the control group."
+     ]
+    },
+    {
+     "id": "exam30-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Which weakness of the 1978 study will Tom mention?",
+     "explanation": "It measured people only once.",
+     "evidenceQuote": "the study only measured people at one point in time",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It measured happiness only once.",
+      "B. It used an unreliable questionnaire.",
+      "C. It included only young people."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It measured happiness only once.",
+      "It measured happiness only once."
+     ]
+    },
+    {
+     "id": "exam30-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What did the German survey show about people who lost their jobs?",
+     "explanation": "They did not fully recover their satisfaction.",
+     "evidenceQuote": "didn't fully return to their previous level of life satisfaction",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They recovered quickly once they found work.",
+      "B. They became more satisfied than before.",
+      "C. Their satisfaction did not completely recover."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their satisfaction did not completely recover.",
+      "Their satisfaction did not completely recover."
+     ]
+    },
+    {
+     "id": "exam30-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What point from the 2006 paper does the tutor mention?",
+     "explanation": "Most people are slightly happy, not neutral.",
+     "evidenceQuote": "Most people are slightly happy most of the time.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Adaptation happens faster than expected.",
+      "B. People usually start from a slightly happy level.",
+      "C. Happiness cannot be measured reliably."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People usually start from a slightly happy level.",
+      "People usually start from a slightly happy level."
+     ]
+    },
+    {
+     "id": "exam30-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Year the term 'hedonic treadmill' was introduced: __________",
+     "explanation": "The term dates from 1971.",
+     "evidenceQuote": "introduced by Philip Brickman and Donald Campbell in 1971",
+     "skillTag": "numbers",
+     "distractorNote": "1978 is the year of the lottery study.",
+     "options": [],
+     "acceptedAnswers": [
+      "1971"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Ways to slow adaptation: variety and __________",
+     "explanation": "Gratitude is the second way.",
+     "evidenceQuote": "Another is gratitude.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gratitude"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Show the German data in a __________, not a table",
+     "explanation": "The tutor recommends a graph.",
+     "evidenceQuote": "I'd strongly recommend a graph for the German data",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "graph"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Send slides to the tutor by __________",
+     "explanation": "Slides are due on Friday.",
+     "evidenceQuote": "please send me your slides by Friday",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Friday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "hedonic treadmill",
+    "control group",
+    "habituation",
+    "life satisfaction",
+    "gratitude"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam30-lp4",
+   "partNumber": 4,
+   "title": "How can happiness be measured?",
+   "contextDescription": "A lecture in a psychology course on the methods researchers use to measure happiness and well-being.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "86C3F023-8478-56A0-BBA9-187A5FD38951",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good afternoon. Today we're going to look at a question that might seem impossible to answer: how can we measure something as personal as happiness? After all, you can't put happiness on a scale or measure it with a ruler. Yet researchers have developed a number of methods, and each has its own strengths and weaknesses."
+    },
+    {
+     "id": "F5C8529D-C928-5FED-AE3D-7D3A8A2F296B",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "First, a word about terms. Psychologists usually avoid the word 'happiness', because it means different things to different people. Instead, they tend to talk about subjective well-being, which is usually divided into three parts: how satisfied people are with their lives as a whole, how often they experience positive emotions, and how often they experience negative ones."
+    },
+    {
+     "id": "B0128440-E667-525E-A79B-24FBD73E6F53",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The simplest method is just to ask people. One of the best-known questions is the Cantril ladder, developed by the American researcher Hadley Cantril in the 1960s. People are asked to imagine a ladder with steps numbered from zero at the bottom to ten at the top, where the top represents the best possible life for them, and to say which step they're standing on now. This question is used in the Gallup World Poll, and it provides the rankings in the World Happiness Report, which was first published in 2012. You may have seen headlines about it; Finland was ranked first in every edition from 2018 to 2025."
+    },
+    {
+     "id": "DF922FF0-2ED9-529B-A7C5-06705E2E1CE0",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The problem with simple questions like this is that the answers can be influenced by things that have nothing to do with how people's lives are really going. In a famous study published in 1983, Norbert Schwarz and Gerald Clore phoned people and asked them how satisfied they were with their lives. People questioned on sunny days reported higher satisfaction than people questioned on rainy days. Interestingly, the effect disappeared when the interviewer first asked about the weather, as if people then realised that their mood was partly caused by the rain, and ignored it."
+    },
+    {
+     "id": "57D408EA-7939-5079-A3B3-1D0B54E3A4DC",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "To get around this kind of problem, researchers have developed methods that measure feelings as they happen, rather than asking people to sum up their whole lives. In experience sampling, which was developed in the 1970s by the psychologist Mihaly Csikszentmihalyi and his colleagues, participants carried electronic pagers that beeped at random times during the day. Each time, they wrote down what they were doing and how they felt. Today, the same thing is done with smartphone apps."
+    },
+    {
+     "id": "DBEB0F46-8D19-5F52-B4AB-59F3FE75E607",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "One well-known app study, published in 2010 by Matthew Killingsworth and Daniel Gilbert, found that people's minds were wandering, that is, thinking about something other than what they were doing, almost half the time. And people were generally less happy when their minds were wandering, even when they were thinking about pleasant things."
+    },
+    {
+     "id": "742E6967-BFF7-51E6-B192-1C9B7019B373",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Experience sampling is accurate, but it's also expensive and disturbs people's daily lives. So Daniel Kahneman and his colleagues developed a simpler alternative, the Day Reconstruction Method, which they described in 2004. Participants, in their first study around nine hundred working women in Texas, filled in a diary of the previous day, dividing it into episodes and rating how they felt during each one. Among the least enjoyable activities was commuting, while socialising with friends was among the most enjoyable."
+    },
+    {
+     "id": "47BA80AE-1E75-5575-9E99-0E3A87F9AB7B",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Finally, some researchers try to avoid self-report altogether by using physical measures. One is cortisol, a hormone that the body releases when we're under stress, which can be measured in saliva. Another is facial expression. In the nineteenth century, the French doctor Guillaume Duchenne showed that a genuine smile involves not only the mouth but also the muscles around the eyes, while a polite smile uses only the mouth. Genuine smiles are now often called Duchenne smiles."
+    },
+    {
+     "id": "BDF6E2CF-4787-5B7A-A2C9-A8694A650074",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "In a study published in 2001, LeeAnne Harker and Dacher Keltner looked at photographs of women in their college yearbook, taken around the age of twenty-one. Those who showed genuine smiles were more likely, decades later, to report being married and to have higher well-being. Of course, physical measures like these have their own limits, so most researchers now combine several methods. Next week, we'll look at what these methods have revealed about the causes of well-being."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam30-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Instead of \"happiness\", psychologists prefer the term subjective __________",
+     "explanation": "The term is subjective well-being.",
+     "evidenceQuote": "they tend to talk about subjective well-being",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "well-being"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Hadley Cantril asked people to imagine standing on a step of a __________",
+     "explanation": "It is called the Cantril ladder.",
+     "evidenceQuote": "People are asked to imagine a ladder with steps numbered from zero",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ladder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "World Happiness Report: __________ was ranked first from 2018 to 2025",
+     "explanation": "Finland topped the rankings.",
+     "evidenceQuote": "Finland was ranked first in every edition from 2018 to 2025",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Finland"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Schwarz and Clore: people questioned on __________ days were more satisfied",
+     "explanation": "Sunny days raised satisfaction.",
+     "evidenceQuote": "People questioned on sunny days reported higher satisfaction",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sunny"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Early experience sampling: participants carried electronic __________",
+     "explanation": "They carried pagers.",
+     "evidenceQuote": "participants carried electronic pagers that beeped at random times",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pagers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "In the 2010 app study, people's minds wandered almost __________ the time",
+     "explanation": "Minds wandered almost half the time.",
+     "evidenceQuote": "almost half the time",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "half"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Day Reconstruction Method: one of the least enjoyable activities was __________",
+     "explanation": "Commuting was rated low.",
+     "evidenceQuote": "Among the least enjoyable activities was commuting",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "commuting"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "The stress hormone __________ can be measured in saliva",
+     "explanation": "Cortisol is the stress hormone.",
+     "evidenceQuote": "One is cortisol, a hormone that the body releases when we're under stress",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cortisol"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "A genuine smile uses the muscles around the __________",
+     "explanation": "Genuine smiles involve the eyes.",
+     "evidenceQuote": "the muscles around the eyes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eyes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Harker and Keltner studied college yearbook __________",
+     "explanation": "They studied yearbook photographs.",
+     "evidenceQuote": "looked at photographs of women in their college yearbook",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "photographs"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "subjective well-being",
+    "self-report",
+    "experience sampling",
+    "cortisol",
+    "Duchenne smile"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam30-rp1",
+   "passageNumber": 1,
+   "title": "Eighty years of good lives",
+   "discipline": "Psychology & Public Health",
+   "paragraphs": [
+    "In 1938, researchers at Harvard University began following the lives of 268 second-year students. The idea came from Arlie Bock, a doctor at the university's health service, who felt that medicine spent too much time studying people who were ill and too little studying those who were healthy. With funding from the businessman William T. Grant, the owner of a chain of department stores, the Grant Study, as it became known, set out to discover what allowed some young men to thrive. Nobody involved could have imagined that it would still be running more than eighty years later.",
+    "The original participants were all men, since Harvard did not admit women as undergraduates at the time, and almost all of them were white. Several went on to have remarkable careers; the most famous was John F. Kennedy, who later became President of the United States. Most, however, led more ordinary lives as lawyers, doctors, teachers and businessmen. At around the same time, a separate study led by Sheldon and Eleanor Glueck, of Harvard Law School, began following 456 boys from some of Boston's poorest neighbourhoods. The Gluecks had originally been interested in why some young people turned to crime while others did not.",
+    "In the 1970s, the two groups were brought together into what is now called the Harvard Study of Adult Development. Combining them gave the researchers something unusual: two very different groups of people, one privileged and one from much harder backgrounds, followed over the whole course of their lives. Every two years, the men completed long questionnaires about their work, health, marriages and friendships. Every five years, researchers collected their medical records, and at regular intervals the men were interviewed in their homes. In later decades, the researchers also took blood samples and carried out brain scans.",
+    "Keeping a study going for so long has not been easy. Funding has often been difficult to find, because few organisations are willing to pay for research that will not produce results for decades. Some participants stopped replying to questionnaires, and others died in the Second World War. The study has also had several directors. The psychiatrist George Vaillant led it for more than three decades, from 1972 to 2004, and wrote a number of books about its findings. The current director, Robert Waldinger, is the fourth person to hold the role.",
+    "So what has the study found? Its most famous conclusion is surprisingly simple: the quality of people's relationships has a greater influence on their health and happiness than almost anything else. In a talk given in 2015, which has since been viewed tens of millions of times, Waldinger explained that the men who were most satisfied with their relationships at the age of fifty were the healthiest at the age of eighty. It was not their cholesterol levels in middle age that best predicted how they would grow old, he said, but how satisfied they were in their relationships.",
+    "Importantly, the study suggests that it is the quality of relationships, rather than their number, that matters. Having many friends or being married was not enough on its own; people in marriages with a great deal of conflict often did worse than those who were divorced. On the other hand, people who felt they could rely on a partner or a friend in difficult times tended to keep their memories sharper for longer. Loneliness, by contrast, was associated with poorer health and earlier decline. As Waldinger put it, loneliness turns out to be toxic.",
+    "The study has its limitations. Because the original participants were all men, and nearly all white, its findings cannot automatically be applied to everyone. The researchers have tried to address this by extending the study to include the men's wives and, more recently, their children, more than half of whom are women. They have also been careful to point out that a study which simply observes people can show links between relationships and health, but cannot on its own prove that one causes the other.",
+    "Even so, the findings are consistent with many other studies, and they have a practical message. Relationships, Waldinger and his co-author Marc Schulz argue in their 2023 book The Good Life, need to be looked after, just as the body does. Small actions, such as getting in touch with an old friend or setting aside regular time for a partner, may have a bigger effect on well-being than a promotion or a pay rise. Very few of the original participants are still alive, but the lives they shared with researchers continue to offer lessons to the generations that have followed them."
+   ],
+   "questions": [
+    {
+     "id": "exam30-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Arlie Bock believed medical research focused too much on illness.",
+     "explanation": "He thought medicine neglected healthy people.",
+     "evidenceQuote": "felt that medicine spent too much time studying people who were ill",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam30-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Most of the Grant Study men became famous public figures.",
+     "explanation": "Most led ordinary lives.",
+     "evidenceQuote": "Most, however, led more ordinary lives",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam30-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The boys in the Glueck study came from wealthy Boston families.",
+     "explanation": "They came from the poorest areas.",
+     "evidenceQuote": "456 boys from some of Boston's poorest neighbourhoods",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam30-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Participants were paid for completing the questionnaires.",
+     "explanation": "Payment is not mentioned.",
+     "evidenceQuote": "Every two years, the men completed long questionnaires",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam30-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The study has always been easy to fund because of its famous results.",
+     "explanation": "Funding has often been difficult.",
+     "evidenceQuote": "Funding has often been difficult to find",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam30-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "According to Waldinger, cholesterol at fifty was a weaker predictor of ageing than relationship satisfaction.",
+     "explanation": "Relationship satisfaction was the better predictor.",
+     "evidenceQuote": "It was not their cholesterol levels in middle age that best predicted how they would grow old",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam30-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "People in unhappy marriages always did better than divorced people.",
+     "explanation": "They often did worse.",
+     "evidenceQuote": "people in marriages with a great deal of conflict often did worse than those who were divorced",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam30-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Funding came from the owner of a chain of department __________.",
+     "explanation": "Grant owned department stores.",
+     "evidenceQuote": "the owner of a chain of department stores",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stores"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The Gluecks first wanted to know why some young people turned to __________.",
+     "explanation": "They studied crime.",
+     "evidenceQuote": "why some young people turned to crime while others did not",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "crime"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "In later decades, researchers took blood samples and did brain __________.",
+     "explanation": "They carried out brain scans.",
+     "evidenceQuote": "took blood samples and carried out brain scans",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scans"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "George Vaillant directed the study for more than three __________.",
+     "explanation": "He led it for over thirty years.",
+     "evidenceQuote": "led it for more than three decades",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "decades"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Reliable relationships helped people keep their __________ sharper.",
+     "explanation": "Their memories stayed sharper.",
+     "evidenceQuote": "tended to keep their memories sharper for longer",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "memories"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Waldinger described loneliness as __________.",
+     "explanation": "He called loneliness toxic.",
+     "evidenceQuote": "loneliness turns out to be toxic",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "toxic"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 770,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam30-rp2",
+   "passageNumber": 2,
+   "title": "Can money buy happiness?",
+   "discipline": "Behavioural Economics & Psychology",
+   "paragraphs": [
+    "Few questions have been debated for as long as whether money makes people happy. Philosophers and religious teachers have often warned that wealth brings anxiety rather than contentment, while most ordinary people, if asked, say that a little more money would make their lives better. Over the past fifty years, economists and psychologists have tried to settle the matter with data, and their answers have turned out to be more complicated, and more interesting, than either side expected.",
+    "The modern debate began in 1974, when the American economist Richard Easterlin published a paper that pointed out a strange pattern. Within any one country, he found, richer people were on average happier than poorer people. Yet when he looked at the United States over time, average happiness had hardly changed in the decades after the Second World War, even though incomes had risen substantially. This apparent contradiction became known as the Easterlin paradox, and it has been argued about ever since.",
+    "One explanation is that people judge their income not in absolute terms but by comparing it with the incomes of others. If everyone becomes richer at the same rate, nobody feels better off relative to their neighbours. Another explanation is adaptation: as people's incomes rise, their expectations rise too, so that luxuries soon come to feel like necessities. Not all economists accept the paradox, however. Some have argued that, with better data covering more countries, a link between national wealth and average life satisfaction can in fact be seen.",
+    "In 2010, the psychologist Daniel Kahneman and the economist Angus Deaton, both Nobel prize winners, added an important distinction. Analysing more than 450,000 responses to a daily survey of Americans, they separated two aspects of well-being. The first, life evaluation, is what people think about their lives when they reflect on them. The second, emotional well-being, refers to the feelings, such as joy, stress or sadness, that people experience day to day. Life evaluation rose steadily with income. Emotional well-being also rose, but it appeared to level off at an annual income of around 75,000 dollars.",
+    "That figure was widely reported, but in 2021 a younger researcher, Matthew Killingsworth, published results that seemed to contradict it. Using more than 1.7 million reports collected from over 33,000 people through a smartphone app, he found that feelings continued to improve as income rose, with no sign of a plateau. Rather than arguing in print, Killingsworth and Kahneman agreed to work together, with the psychologist Barbara Mellers acting as a referee. Their joint paper, published in 2023, concluded that for most people happiness does keep rising with income, but that for the unhappiest group, roughly the least happy fifth, it stops rising at around 100,000 dollars.",
+    "Other researchers have asked a different question: not how much money people have, but how they spend it. In a study published in 2008, Elizabeth Dunn, Lara Aknin and Michael Norton gave students in Vancouver an envelope containing either five or twenty dollars, and asked them to spend it by five o'clock that afternoon. Half were told to spend it on themselves, and half on someone else or on a charity. That evening, those who had spent the money on others reported feeling happier, while the amount they had been given made no difference.",
+    "Spending on experiences may also bring more lasting happiness than spending on possessions. Research by Leaf Van Boven and Thomas Gilovich in 2003 found that people tended to look back on purchases such as holidays, concerts and meals with friends more positively than on material goods. Experiences are often shared with others, they become part of our identity, and they are harder to compare unfavourably with what other people have. More recently, studies have suggested that paying to avoid disliked tasks, such as cleaning, can increase life satisfaction by giving people more free time.",
+    "None of this means that money is unimportant. For people living in poverty, extra income can make an enormous difference, reducing stress and allowing them to meet basic needs such as food, housing and healthcare. The research suggests, rather, that beyond a certain point, the way money is used matters as much as the amount. A pay rise is likely to make someone happier, but so too, perhaps, is spending some of it on friends, on experiences, or on a few extra hours of free time."
+   ],
+   "questions": [
+    {
+     "id": "exam30-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the Easterlin paradox.",
+     "evidenceQuote": "a paper that pointed out a strange pattern",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "A puzzling contrast between individuals and nations over time"
+     ]
+    },
+    {
+     "id": "exam30-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C gives possible explanations and doubts.",
+     "evidenceQuote": "One explanation is that people judge their income not in absolute terms",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Possible reasons and continuing disagreement",
+      "Possible reasons and continuing disagreement"
+     ]
+    },
+    {
+     "id": "exam30-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D distinguishes two kinds of well-being.",
+     "evidenceQuote": "they separated two aspects of well-being",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Separating thoughts about life from daily feelings",
+      "Separating thoughts about life from daily feelings"
+     ]
+    },
+    {
+     "id": "exam30-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the joint paper.",
+     "evidenceQuote": "Rather than arguing in print, Killingsworth and Kahneman agreed to work together",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Former opponents settle a dispute together",
+      "Former opponents settle a dispute together"
+     ]
+    },
+    {
+     "id": "exam30-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes spending on others.",
+     "evidenceQuote": "those who had spent the money on others reported feeling happier",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. The unexpected rewards of generosity",
+      "The unexpected rewards of generosity"
+     ]
+    },
+    {
+     "id": "exam30-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers experiences and free time.",
+     "evidenceQuote": "Spending on experiences may also bring more lasting happiness than spending on possessions.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Buying memories and time",
+      "Buying memories and time"
+     ]
+    },
+    {
+     "id": "exam30-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H says money matters most for the poor.",
+     "evidenceQuote": "For people living in poverty, extra income can make an enormous difference",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Where extra money matters most",
+      "Where extra money matters most"
+     ]
+    },
+    {
+     "id": "exam30-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did Easterlin find about the United States after the Second World War?",
+     "explanation": "Happiness hardly changed although incomes rose.",
+     "evidenceQuote": "average happiness had hardly changed in the decades after the Second World War",
+     "skillTag": "detail",
+     "options": [
+      "A. Poorer people became happier than richer people.",
+      "B. Incomes rose only slightly.",
+      "C. Average happiness stayed almost the same as incomes rose.",
+      "D. Happiness rose faster than incomes."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Average happiness stayed almost the same as incomes rose.",
+      "Average happiness stayed almost the same as incomes rose."
+     ]
+    },
+    {
+     "id": "exam30-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Kahneman and Deaton, what happened above an income of about 75,000 dollars?",
+     "explanation": "Emotional well-being levelled off.",
+     "evidenceQuote": "it appeared to level off at an annual income of around 75,000 dollars",
+     "skillTag": "detail",
+     "options": [
+      "A. Daily feelings stopped improving.",
+      "B. Life evaluation began to fall.",
+      "C. Stress increased sharply.",
+      "D. Both measures stopped rising."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Daily feelings stopped improving.",
+      "Daily feelings stopped improving."
+     ]
+    },
+    {
+     "id": "exam30-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did the Vancouver study show about the amount of money given?",
+     "explanation": "The amount made no difference.",
+     "evidenceQuote": "the amount they had been given made no difference",
+     "skillTag": "detail",
+     "options": [
+      "A. Twenty dollars produced more happiness than five.",
+      "B. Small amounts were usually spent on charity.",
+      "C. Students saved larger amounts.",
+      "D. It did not affect how happy people felt."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It did not affect how happy people felt.",
+      "It did not affect how happy people felt."
+     ]
+    },
+    {
+     "id": "exam30-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Kahneman and Deaton called what people think when they reflect on their lives __________.",
+     "explanation": "This is life evaluation.",
+     "evidenceQuote": "The first, life evaluation, is what people think about their lives",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "life evaluation"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam30-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "In the 2021 study, data were collected through a __________.",
+     "explanation": "A smartphone app was used.",
+     "evidenceQuote": "collected from over 33,000 people through a smartphone app",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "smartphone app"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam30-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Paying someone to do tasks such as __________ may increase life satisfaction.",
+     "explanation": "Cleaning is the example given.",
+     "evidenceQuote": "paying to avoid disliked tasks, such as cleaning",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cleaning"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 726,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Separating thoughts about life from daily feelings",
+      "ii. Buying memories and time",
+      "iii. A puzzling contrast between individuals and nations over time",
+      "iv. Why lottery winners often lose their money",
+      "v. The unexpected rewards of generosity",
+      "vi. How wealth affects physical health",
+      "vii. Possible reasons and continuing disagreement",
+      "viii. Where extra money matters most",
+      "ix. Former opponents settle a dispute together"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam30-rp3",
+   "passageNumber": 3,
+   "title": "Should governments measure happiness?",
+   "discipline": "Economics & Public Policy",
+   "paragraphs": [
+    "For most of the past century, the success of a country has been judged mainly by a single number: gross domestic product, or GDP, the total value of the goods and services it produces. Yet even the economist who did much to create modern national accounts doubted that it should be used in this way. In a report to the United States Congress in 1934, Simon Kuznets warned that the welfare of a nation could scarcely be inferred from a measurement of national income. GDP tells us how much a country produces, but not whether its people are living good lives.",
+    "The best-known alternative comes from Bhutan, a small Himalayan kingdom. In the 1970s, its fourth king, Jigme Singye Wangchuck, is reported to have declared that gross national happiness was more important than gross national product. The idea was later written into the country's constitution, adopted in 2008, and Bhutan now carries out regular surveys to calculate a Gross National Happiness Index, which covers nine areas, including health, education, the use of time, community life and the environment.",
+    "For many years, Bhutan's approach was seen as a curiosity, but interest grew in wealthier countries after the turn of the century. In 2008, the French president Nicolas Sarkozy asked a group of leading economists, including the Nobel prize winners Joseph Stiglitz and Amartya Sen, to examine how economic and social progress should be measured. Their report, published the following year, argued that governments should pay far more attention to well-being and to whether progress could be sustained for future generations.",
+    "The United Kingdom followed. In 2010, the prime minister, David Cameron, announced that the government would begin measuring national well-being, and since 2011 the Office for National Statistics has included four questions in a large annual survey. People are asked, on a scale from zero to ten, how satisfied they are with their lives, how far they feel the things they do are worthwhile, how happy they felt yesterday and how anxious they felt yesterday. In 2019, New Zealand went further, presenting what it called a Wellbeing Budget, in which new government spending was expected to address priorities such as mental health and child poverty.",
+    "Critics have raised several objections. Some argue that answers to happiness questions are too easily influenced by culture to be compared between countries. Finland, for example, has regularly topped international rankings of life satisfaction, yet Finns are often described, not least by themselves, as reserved and modest rather than joyful. Others fear that governments might try to raise happiness scores through propaganda rather than real improvements, or that a focus on happiness could encourage politicians to interfere in areas of private life where they do not belong.",
+    "These concerns deserve to be taken seriously, but in my view they are not a reason to abandon the idea. Cultural differences certainly make it difficult to compare countries, yet they matter much less when a government tracks changes within its own population over time, which is the main purpose of most well-being statistics. Nor is GDP itself free from problems: it counts the cost of cleaning up a disaster as economic growth, and it ignores unpaid work such as caring for children or elderly relatives.",
+    "Nobody seriously proposes that governments should simply try to maximise a single happiness score. The more modest aim is to use well-being data to identify problems that GDP hides. The British figures, for example, have consistently shown that unemployment and poor health have a much larger effect on life satisfaction than modest changes in income, and that loneliness is a serious problem for many people. This kind of evidence can help governments decide where public money will do the most good.",
+    "In my view, the answer is not to replace GDP but to stop relying on it alone. A country that grows richer while its people become more anxious, lonely and overworked is not, in any meaningful sense, making progress. Measuring well-being will not tell governments exactly what to do, and the numbers must be interpreted with care. But a society tends to value what it measures, and it seems to me that how people feel about their lives is one of the things most worth measuring."
+   ],
+   "questions": [
+    {
+     "id": "exam30-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "cautioned that a measure of national income was a poor guide to welfare",
+     "explanation": "Kuznets gave this warning in 1934.",
+     "evidenceQuote": "warned that the welfare of a nation could scarcely be inferred from a measurement of national income",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Simon Kuznets",
+      "Simon Kuznets"
+     ]
+    },
+    {
+     "id": "exam30-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "included the goal of happiness in its constitution",
+     "explanation": "Bhutan's constitution includes it.",
+     "evidenceQuote": "The idea was later written into the country's constitution, adopted in 2008",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Bhutan",
+      "Bhutan"
+     ]
+    },
+    {
+     "id": "exam30-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "asked a group of economists to suggest how progress should be measured",
+     "explanation": "The French president commissioned the report.",
+     "evidenceQuote": "asked a group of leading economists",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. France",
+      "France"
+     ]
+    },
+    {
+     "id": "exam30-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "asks people how anxious they felt on the previous day",
+     "explanation": "The UK survey includes this question.",
+     "evidenceQuote": "how anxious they felt yesterday",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the United Kingdom",
+      "the United Kingdom"
+     ]
+    },
+    {
+     "id": "exam30-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "expected new government spending to address well-being priorities",
+     "explanation": "New Zealand's Wellbeing Budget did this.",
+     "evidenceQuote": "new government spending was expected to address priorities such as mental health and child poverty",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. New Zealand",
+      "New Zealand"
+     ]
+    },
+    {
+     "id": "exam30-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The objections raised by critics are a good reason to give up measuring well-being.",
+     "explanation": "The writer rejects this.",
+     "evidenceQuote": "in my view they are not a reason to abandon the idea",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam30-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Cultural differences are less of a problem when a country compares its own figures over time.",
+     "explanation": "The writer says they matter much less.",
+     "evidenceQuote": "they matter much less when a government tracks changes within its own population over time",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam30-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Bhutan's citizens are happier than those of its neighbouring countries.",
+     "explanation": "No comparison with neighbours is made.",
+     "evidenceQuote": "Bhutan now carries out regular surveys to calculate a Gross National Happiness Index",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam30-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Governments should stop using GDP altogether.",
+     "explanation": "GDP should be kept but not used alone.",
+     "evidenceQuote": "the answer is not to replace GDP but to stop relying on it alone",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam30-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "People's feelings about their lives are among the most valuable things a society can measure.",
+     "explanation": "The writer says this directly.",
+     "evidenceQuote": "how people feel about their lives is one of the things most worth measuring",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam30-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Some critics fear governments may use __________ to raise happiness scores.",
+     "explanation": "They fear propaganda.",
+     "evidenceQuote": "raise happiness scores through propaganda rather than real improvements",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "propaganda"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "GDP ignores unpaid work such as caring for children or __________ relatives.",
+     "explanation": "It ignores care for elderly relatives.",
+     "evidenceQuote": "caring for children or elderly relatives",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "elderly"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "British data show that unemployment and poor __________ strongly affect life satisfaction.",
+     "explanation": "Poor health matters greatly.",
+     "evidenceQuote": "unemployment and poor health have a much larger effect on life satisfaction",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "health"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam30-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "The data also show that __________ is a serious problem for many people.",
+     "explanation": "Loneliness is widespread.",
+     "evidenceQuote": "loneliness is a serious problem for many people",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "loneliness"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 704,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of countries and people below. Match each statement with the correct country or person, A–F.",
+     "options": [
+      "A. Simon Kuznets",
+      "B. Bhutan",
+      "C. France",
+      "D. the United Kingdom",
+      "E. New Zealand",
+      "F. Finland"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam30-w1",
+  "title": "Adults reporting high life satisfaction by age group",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows the percentage of adults in one country who reported high life satisfaction in three age groups between 2012 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "A34B3F3F-9803-57B3-B391-F20F40DBCDB7",
+    "series": "18–34",
+    "category": "2012",
+    "value": 58.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "74EE9005-2A05-5FE0-8552-5B25B3E0B89A",
+    "series": "35–54",
+    "category": "2012",
+    "value": 49.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "5A4C31E3-7A44-516C-82FA-01B552A29C28",
+    "series": "55 and over",
+    "category": "2012",
+    "value": 61.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "30082B28-2523-590D-9E0A-F4EBDF86DA48",
+    "series": "18–34",
+    "category": "2015",
+    "value": 60.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "040BA5E4-92D2-5226-A05B-B5E74794E02E",
+    "series": "35–54",
+    "category": "2015",
+    "value": 50.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "F87515EA-D8C6-55E9-AF82-5A1410A78372",
+    "series": "55 and over",
+    "category": "2015",
+    "value": 64.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "EAB913DC-3B0A-53D5-B13F-8347E12B8559",
+    "series": "18–34",
+    "category": "2018",
+    "value": 62.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "D4568254-3548-5CC3-BBD7-3771349E15B6",
+    "series": "35–54",
+    "category": "2018",
+    "value": 52.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "48B915A6-4A5D-5325-9B45-DB3746FEE498",
+    "series": "55 and over",
+    "category": "2018",
+    "value": 66.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "326F99D3-5D64-5183-B466-4A31923ED458",
+    "series": "18–34",
+    "category": "2021",
+    "value": 51.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "1D2608B7-8BF7-5E1B-B8E5-DF6204CDDCDC",
+    "series": "35–54",
+    "category": "2021",
+    "value": 47.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "6BDE4F42-2A4C-510E-87D6-9EE98D4579D4",
+    "series": "55 and over",
+    "category": "2021",
+    "value": 63.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "252045DB-2D96-51FF-8B4C-FEEFE8CA84F2",
+    "series": "18–34",
+    "category": "2024",
+    "value": 55.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "2A283D62-27B0-51A9-AEE6-3574D9A4F684",
+    "series": "35–54",
+    "category": "2024",
+    "value": 50.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "1384EE46-03E7-5ECF-B457-3468AD6E0A33",
+    "series": "55 and over",
+    "category": "2024",
+    "value": 67.0,
+    "unit": "% of adults"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The oldest group reported the highest satisfaction throughout and the middle-aged group the lowest.",
+   "All groups fell in 2021, but the youngest group fell most sharply, while the oldest group recovered fully."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam30-w2",
+  "title": "Governments and happiness",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Society & Government",
+  "promptText": "Some people believe that making citizens happy should be one of the main aims of a government. Others think that happiness is a personal matter and not the responsibility of the state. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam30-spk",
+  "theme": "Happiness and well-being",
+  "part1Questions": [
+   "What do you usually do to relax after a busy day?",
+   "Do you prefer spending free time alone or with other people?",
+   "What small things make you happy?",
+   "Did you have a happy childhood?",
+   "Do you think you are more cheerful in the morning or in the evening?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you helped someone and it made you feel happy.",
+   "bulletPoints": [
+    "who you helped",
+    "what you did for them",
+    "why they needed help",
+    "and explain why helping them made you feel good"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Do you think people today are happier than people fifty years ago?",
+   "Why do some people find it hard to be satisfied with what they have?",
+   "Should schools teach children about mental well-being?",
+   "Can a job be more important for happiness than a high salary?",
+   "How can cities be designed to make people happier?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Research findings are summarised from published studies; the Writing Task 1 figures are illustrative.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,2385 @@
+{
+ "id": "exam05",
+ "examNumber": 5,
+ "pool": "mock",
+ "title": "Mock Exam 5: Language, Writing & the Mind",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Language, Writing & the Mind",
+ "listeningParts": [
+  {
+   "id": "exam05-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on an evening course",
+   "contextDescription": "A man phones a community college to enrol on an evening language course.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "94FA9ACA-4792-5BB5-9C1C-1CFB4AEF18A7",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Good afternoon, Northgate Community College, Enrolment Office. Lucy speaking."
+    },
+    {
+     "id": "6BB8E942-472C-5B25-AABB-705A1005F983",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hello. I'd like some information about your evening language courses, please. I'm hoping to start one this autumn."
+    },
+    {
+     "id": "F22E311C-64F2-5F36-817F-A9C14FAB9583",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Certainly. Which language were you interested in?"
+    },
+    {
+     "id": "A7FE55F9-B201-5112-B09B-6D55AC8335ED",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Spanish. My company is opening an office in Mexico next year, and I might be working there for a few months."
+    },
+    {
+     "id": "E9AFA858-486D-5FF5-86DE-A9FFD07936E6",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Lovely. And have you studied Spanish before?"
+    },
+    {
+     "id": "33F72562-4574-5413-89DE-713192DDB2C5",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "A little, at school, but that was a long time ago. I can remember some basic phrases, but that's about it."
+    },
+    {
+     "id": "E191B202-0394-5174-8DFD-6482254BFE28",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Then you'd probably want our Spanish Level Two course, which is for people who've had some contact with the language but aren't confident. If you're not sure, you can do a short placement test online before you enrol. It only takes about twenty minutes."
+    },
+    {
+     "id": "821EAAEA-21F0-5AAF-AE78-3141CDBF8CAD",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'll do that, thanks. When does the course run?"
+    },
+    {
+     "id": "260A3FE5-8785-5F84-A04F-7156DD99CFDF",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Level Two runs on Tuesday evenings, from seven until nine. There used to be a Thursday group as well, but we've had to cancel that this year because the tutor has moved away."
+    },
+    {
+     "id": "CB53A453-E092-586F-94A5-F8501DF7F96C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Tuesday is fine. How long is the course?"
+    },
+    {
+     "id": "654794E1-7DFF-512F-8534-DD3277D482B9",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "It's thirty weeks, starting on the twenty-third of September, with breaks at Christmas and Easter, and it finishes in June."
+    },
+    {
+     "id": "EB0711C9-BB3F-5D11-A7F6-6B1B23E9D334",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "And the cost?"
+    },
+    {
+     "id": "70BDB46A-F513-581C-B295-78496E60E39C",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "The full fee is three hundred and forty pounds for the year. That includes the course book, but not the online exercises, which are optional and cost an extra twenty pounds. If you're a student, over sixty, or receiving certain benefits, you can get a concession, which brings the fee down to one hundred and ninety."
+    },
+    {
+     "id": "025EA1FB-2CFD-5382-B2A8-77E8F7285A3D",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'm afraid I don't qualify for any of those. Can I pay in instalments?"
+    },
+    {
+     "id": "AE22F89D-6ABF-54B4-A01A-178CEA0DB3F0",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Yes, you can pay in three instalments: one when you enrol, one in January and one in April."
+    },
+    {
+     "id": "C3918E8A-43EB-5CFD-9F82-5B11CD23B221",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That would help. What's the class size?"
+    },
+    {
+     "id": "A5527C5E-315F-5474-BAA5-EE2F31C1A78A",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "The maximum is sixteen, but most groups have around twelve. The tutor for Level Two is Carmen Ortega, who's from Madrid. She's been teaching here for about ten years and she's very popular."
+    },
+    {
+     "id": "7CF9625F-7BB9-5A39-A06C-D920FD7EFBA5",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "And where are the classes held?"
+    },
+    {
+     "id": "4EE8593C-2595-57CE-8837-82870938D344",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Not in the main building, I'm afraid. Evening language classes are in the Elm Building, which is just across the car park. It's the one with the blue door. Parking is free after six."
+    },
+    {
+     "id": "8E75E527-A818-5086-8E63-D92D8307B9C4",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Is there somewhere to get a coffee before class? I'll be coming straight from work."
+    },
+    {
+     "id": "4921F5A4-3EC9-577C-80E4-E6A3904A5378",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "The main café closes at five, but there's a vending machine in the Elm Building, and the student common room on the ground floor stays open until nine. Lots of evening students eat there before their class."
+    },
+    {
+     "id": "FD139885-B334-5A65-97C3-20B19DDB2018",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Great. Is there anything I need to bring to the first class?"
+    },
+    {
+     "id": "A9D6F32C-2DB9-56DA-9C9F-8EFFB44E393F",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Just a notebook and a pen. You'll get the book at the first lesson. Oh, and Carmen likes everyone to bring a photo of somewhere they've visited, because the first lesson is about travel and introducing yourself."
+    },
+    {
+     "id": "11B18992-60C9-54C4-9360-21B5E3472596",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That sounds fun. I'll find one from my last holiday. Is there an exam at the end?"
+    },
+    {
+     "id": "DFB8F607-44DD-5A13-94AF-040CABD68EED",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "There's no compulsory exam. But if you want a qualification, you can take an optional assessment in May, and if you pass, you get a certificate from the college. Many people find it useful for their job."
+    },
+    {
+     "id": "D31C3C4F-24FF-5F93-8BBF-08A76928B324",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That could be useful for me. How do I enrol?"
+    },
+    {
+     "id": "A6896EB7-2879-5D46-8305-5EF47B129FE0",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "You can do it online or I can take your details now. Can I have your name?"
+    },
+    {
+     "id": "C8766AC0-89A2-5761-A102-D060D0A6F0EC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's Graham Fairweather."
+    },
+    {
+     "id": "C0D41A79-F656-576D-9110-76AD46323691",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Could you spell the surname?"
+    },
+    {
+     "id": "9862E812-8CA8-561B-ACCE-532B3346525C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "F-A-I-R-W-E-A-T-H-E-R."
+    },
+    {
+     "id": "EE0BC3BE-1C21-555E-926A-7021D9A1E49E",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Thank you. And an email address?"
+    },
+    {
+     "id": "5E47E7A9-078E-5CBB-B832-24C706C8864B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's g dot fairweather at mailbox dot com."
+    },
+    {
+     "id": "CA86800F-709A-5A49-BF98-D79D19DE2F17",
+     "speaker": "Administrator",
+     "accent": "en-GB",
+     "text": "Lovely. I'll send you the link to the placement test and a confirmation. If the test shows you should be in a different level, we'll move you, so don't worry."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam05-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Reason for learning: may work in __________ next year",
+     "explanation": "His company is opening an office in Mexico.",
+     "evidenceQuote": "opening an office in Mexico next year",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Mexico"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Online placement test: takes about __________ minutes",
+     "explanation": "The placement test takes twenty minutes.",
+     "evidenceQuote": "It only takes about twenty minutes.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Day of class: __________",
+     "explanation": "The Thursday group has been cancelled.",
+     "evidenceQuote": "Level Two runs on Tuesday evenings",
+     "skillTag": "distractor_correction",
+     "distractorNote": "The Thursday group no longer runs.",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Course starts: __________ September",
+     "explanation": "The course starts on 23 September.",
+     "evidenceQuote": "starting on the twenty-third of September",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "23",
+      "23rd",
+      "twenty-third",
+      "the twenty-third"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Full fee: £__________ (includes course book)",
+     "explanation": "The full fee is £340; the concession fee is £190.",
+     "evidenceQuote": "The full fee is three hundred and forty pounds for the year.",
+     "skillTag": "numbers",
+     "distractorNote": "£190 is the concession price; £20 is for online exercises.",
+     "options": [],
+     "acceptedAnswers": [
+      "340",
+      "three hundred and forty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Payment: in three __________",
+     "explanation": "He can pay in three instalments.",
+     "evidenceQuote": "you can pay in three instalments",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "instalments"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Classes held in the __________ Building",
+     "explanation": "Classes are in the Elm Building, not the main building.",
+     "evidenceQuote": "Evening language classes are in the Elm Building",
+     "skillTag": "distractor_correction",
+     "options": [],
+     "acceptedAnswers": [
+      "Elm"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Bring to first class: notebook, pen and a __________",
+     "explanation": "Students bring a photo of a place they visited.",
+     "evidenceQuote": "bring a photo of somewhere they've visited",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "photo"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Optional assessment in: __________",
+     "explanation": "The optional assessment is in May.",
+     "evidenceQuote": "you can take an optional assessment in May",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "May"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Fairweather.",
+     "evidenceQuote": "It's Graham Fairweather.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Fairweather"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "enrolment",
+    "beginner",
+    "intermediate",
+    "concession",
+    "placement test"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam05-lp2",
+   "partNumber": 2,
+   "title": "A guided walk through the botanical garden",
+   "contextDescription": "A guide introduces visitors to a botanical garden and explains its history and layout.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "3B2AFCB4-2C49-5957-A671-1957281AD85E",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Morning, everyone. Welcome to the Halton Botanical Garden. I'm Josh, and I'll be showing you around this morning. Before we start walking, let me give you a bit of background and point out where things are, because the garden is bigger than it looks from the gate."
+    },
+    {
+     "id": "5B0AEFC2-4A64-5E8F-8D2D-88E1F2D8D036",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The garden was founded in 1820 by the university, originally as a place to grow plants for medical students to study. Back then, most medicines came from plants, so future doctors had to be able to recognise them. Today, our main work is conservation. We grow over twelve thousand species, and around four hundred of them are threatened in the wild."
+    },
+    {
+     "id": "6BFC7A1A-B516-5B5D-8448-E97E8BEC3A73",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Right, if you look at the map on the board here, we're at the main gate, at the bottom. The path in front of us leads straight up the middle of the garden to the lake. On your left as you walk up, the first area you come to is the herb garden, which is the oldest part of the site and still laid out in the original pattern from the 1820s."
+    },
+    {
+     "id": "2480B70A-37B3-5C26-BD63-1E76ED833D87",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Opposite the herb garden, on the right of the main path, is the rock garden, where we grow alpine plants from mountain regions around the world. It's at its best in late spring, so you've come at a good time."
+    },
+    {
+     "id": "258A7E63-2B2A-51B4-806F-CC22125834F5",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Carry on up the main path and you'll reach the lake. The glasshouses are on the far side of the lake, at the very top of the map. There are three of them: one for tropical plants, one for desert plants and one for plants from temperate regions like Australia and South Africa. The tropical house is very warm and humid, so you may want to leave your coats in the cloakroom before you go in."
+    },
+    {
+     "id": "DB64AED9-5BA4-568C-90E3-26D6B1AB6DC6",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "To the left of the lake is the woodland walk, a circular path through trees from North America and Asia. It's very peaceful and takes about twenty minutes. And to the right of the lake, between the lake and the east wall, you'll find the visitor centre, with the café, the shop and the toilets."
+    },
+    {
+     "id": "FF3239F0-B366-54C7-B824-F288BD17B68A",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Now, a few words about what goes on behind the scenes. Perhaps the most important part of our work isn't visible at all. In a building behind the glasshouses, we have a seed bank, where seeds of rare species are dried and stored at minus twenty degrees. Stored like this, many seeds can stay alive for decades or even centuries. If a species dies out in the wild, we can grow it again and, in some cases, return it to its natural habitat. That has already happened with a small flowering plant from a Mediterranean island, which we reintroduced in 2015."
+    },
+    {
+     "id": "43E10F79-E56D-5873-9361-0B9A3339934B",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "We also run a training programme for gardeners. Each year we take on six trainees, who spend two years working in every part of the garden. Many of them go on to work in other botanical gardens around the world."
+    },
+    {
+     "id": "B5486B63-5A37-5543-B6FC-AA9F809BD1CA",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "A couple of practical points. The garden closes at five, but the glasshouses close half an hour earlier, at half past four, so if you want to see them, don't leave them till last. Please stay on the paths, because some of our plants are very rare, and a few, especially in the medicinal section of the herb garden, are poisonous, so please don't touch or pick anything."
+    },
+    {
+     "id": "6F943E09-2917-5F64-B07F-C7F42738D309",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "And if you have children with you, they can collect a free activity sheet from the visitor centre. It's a sort of treasure hunt, and anyone who completes it gets a small prize. Okay, if you'd like to follow me, we'll start in the herb garden."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam05-L11",
+     "number": 11,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Herb garden",
+     "explanation": "The herb garden is first on the left of the main path.",
+     "evidenceQuote": "On your left as you walk up, the first area you come to is the herb garden",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam05-L12",
+     "number": 12,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Rock garden",
+     "explanation": "The rock garden is opposite the herb garden, on the right.",
+     "evidenceQuote": "Opposite the herb garden, on the right of the main path, is the rock garden",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "exam05-L13",
+     "number": 13,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Glasshouses",
+     "explanation": "The glasshouses are at the top, beyond the lake.",
+     "evidenceQuote": "The glasshouses are on the far side of the lake, at the very top of the map",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam05-L14",
+     "number": 14,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Woodland walk",
+     "explanation": "The woodland walk is left of the lake.",
+     "evidenceQuote": "To the left of the lake is the woodland walk",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A",
+      "A"
+     ]
+    },
+    {
+     "id": "exam05-L15",
+     "number": 15,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Visitor centre",
+     "explanation": "The visitor centre is right of the lake.",
+     "evidenceQuote": "to the right of the lake, between the lake and the east wall, you'll find the visitor centre",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "exam05-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "The garden was originally created to",
+     "explanation": "It was founded to grow plants for medical students.",
+     "evidenceQuote": "originally as a place to grow plants for medical students to study",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Conservation is its main work today, not its original purpose.",
+     "options": [
+      "A. help students learn about medicinal plants.",
+      "B. protect endangered species.",
+      "C. supply plants to local hospitals."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. help students learn about medicinal plants.",
+      "help students learn about medicinal plants."
+     ]
+    },
+    {
+     "id": "exam05-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "Why should visitors leave their coats before entering the tropical house?",
+     "explanation": "It is very warm and humid.",
+     "evidenceQuote": "The tropical house is very warm and humid",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Coats may damage the plants.",
+      "B. There is not much space inside.",
+      "C. It is hot and humid inside."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It is hot and humid inside.",
+      "It is hot and humid inside."
+     ]
+    },
+    {
+     "id": "exam05-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the plant from a Mediterranean island?",
+     "explanation": "It was returned to the wild from stored seed.",
+     "evidenceQuote": "which we reintroduced in 2015",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is the oldest seed in the bank.",
+      "B. It was returned to its natural habitat.",
+      "C. It is used to make medicine."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It was returned to its natural habitat.",
+      "It was returned to its natural habitat."
+     ]
+    },
+    {
+     "id": "exam05-L19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "What time do the glasshouses close?",
+     "explanation": "Glasshouses close at 4.30.",
+     "evidenceQuote": "the glasshouses close half an hour earlier, at half past four",
+     "skillTag": "numbers",
+     "distractorNote": "The garden itself closes at five.",
+     "options": [
+      "A. 4.30 p.m.",
+      "B. 5.00 p.m.",
+      "C. 5.30 p.m."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. 4.30 p.m.",
+      "4.30 p.m."
+     ]
+    },
+    {
+     "id": "exam05-L20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "Children who complete the activity sheet will",
+     "explanation": "They get a small prize.",
+     "evidenceQuote": "anyone who completes it gets a small prize",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. get free entry next time.",
+      "B. be given a plant to take home.",
+      "C. receive a small prize."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. receive a small prize.",
+      "receive a small prize."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "glasshouse",
+    "specimen",
+    "seed bank",
+    "herb garden",
+    "conservation"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Label the map below. Write the correct letter, A–G, next to Questions 11–15.",
+     "map": {
+      "cols": 3,
+      "rows": 4,
+      "cells": [
+       [
+        0,
+        0,
+        1,
+        1,
+        "C"
+       ],
+       [
+        1,
+        0,
+        1,
+        1,
+        "B"
+       ],
+       [
+        2,
+        0,
+        1,
+        1,
+        "G"
+       ],
+       [
+        0,
+        1,
+        1,
+        1,
+        "A"
+       ],
+       [
+        1,
+        1,
+        1,
+        1,
+        "Lake"
+       ],
+       [
+        2,
+        1,
+        1,
+        1,
+        "E"
+       ],
+       [
+        0,
+        2,
+        1,
+        1,
+        "D"
+       ],
+       [
+        1,
+        2,
+        1,
+        1,
+        "Main path"
+       ],
+       [
+        2,
+        2,
+        1,
+        1,
+        "F"
+       ],
+       [
+        0,
+        3,
+        1,
+        1,
+        "West wall"
+       ],
+       [
+        1,
+        3,
+        1,
+        1,
+        "Main gate"
+       ],
+       [
+        2,
+        3,
+        1,
+        1,
+        "East wall"
+       ]
+      ],
+      "note": "The main gate is at the bottom of the map."
+     }
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Choose the correct letter, A, B or C."
+    }
+   ]
+  },
+  {
+   "id": "exam05-lp3",
+   "partNumber": 3,
+   "title": "A seminar on bilingual children",
+   "contextDescription": "Two education students, Mei and Joseph, discuss an article on bilingualism with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "CF2C4F32-7DBE-5CC9-A288-FE04A1F3E535",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Okay, let's get started. Last week I asked you both to read the review article on bilingual children. Mei, what was your overall impression?"
+    },
+    {
+     "id": "5EE71726-59DB-5EE2-8ABC-412351335CEF",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "I found it really interesting, partly because I grew up speaking Cantonese at home and English at school. The main argument seemed to be that a lot of the fears parents have about bilingualism aren't supported by the research."
+    },
+    {
+     "id": "9F7B464D-A87A-5A4F-954A-AC9673781FF8",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Which fears in particular?"
+    },
+    {
+     "id": "0AE51BDB-CC58-5E78-8B6A-6AF4DF3CFA5A",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "Mainly the idea that learning two languages will confuse children or delay their speech. The article says that bilingual children reach the main milestones, like saying their first words, at about the same age as monolingual children."
+    },
+    {
+     "id": "A626F577-ACA1-5A58-B391-2F97B9F63D02",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "Although it did say that if you test them in just one language, bilingual children often seem to know fewer words. That's what worries a lot of parents."
+    },
+    {
+     "id": "B9999A6C-E6E2-574C-838B-98C765D24E35",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And how does the article explain that?"
+    },
+    {
+     "id": "24F6E816-A415-5251-ADC5-FD9BDE1C40C9",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "Well, the point is that their vocabulary is split between two languages. A child might know the word for kitchen things in Spanish because that's what they speak at home, and school words in English. If you count the words in both languages together, their total vocabulary is usually the same as, or larger than, a monolingual child's."
+    },
+    {
+     "id": "5D954D92-2EF5-504D-A11A-463A74AE3F94",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. So what's the lesson for teachers?"
+    },
+    {
+     "id": "46589522-79B9-585E-9FEF-5AF85EFFB37F",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "That you shouldn't assess bilingual children only in the school language, or you might wrongly think they have a language problem."
+    },
+    {
+     "id": "9B33F1F1-A2C7-597A-A8C1-7045F10ED98E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Now, the article also discusses the so-called bilingual advantage. Joseph, what did you make of that section?"
+    },
+    {
+     "id": "70938988-643C-5C49-8693-EB217A673685",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "That was the part I found most surprising. I'd always heard that being bilingual makes you smarter, especially at what they call executive function, things like switching between tasks and ignoring distractions. The idea is that bilinguals constantly have to control which language they're using, so they get extra practice."
+    },
+    {
+     "id": "96EFDB52-C5E5-59C1-8366-B28033185A43",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "But the article said that the evidence is much weaker than people think. Some early studies found big advantages, but they were small studies, and when researchers repeated them with larger groups, the effect often disappeared."
+    },
+    {
+     "id": "A9F7C1FE-A370-537B-BBD5-1404830BB98C",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "And there's the problem of publication. Apparently, studies that found an advantage were more likely to be published than ones that didn't, which made the effect look stronger than it was."
+    },
+    {
+     "id": "00426461-34DB-5E9E-A9D0-7A1D1E061906",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important general point about research. So where does that leave us?"
+    },
+    {
+     "id": "CCCFB101-75BA-54F5-92EE-2BA205280909",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "I think the article's conclusion was quite balanced. It said there may be some small cognitive benefits, but the main reasons for bilingualism are cultural and practical. Being able to talk to your grandparents, for instance."
+    },
+    {
+     "id": "3B6DD3EF-4026-5B24-AF0A-AE09EC0B0FB1",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "I agree. Though the article also said researchers are still arguing about it, so it's probably too early to say there's no advantage at all."
+    },
+    {
+     "id": "F7E821A2-0545-5802-950A-24366E39A20A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Which brings us to heritage languages. What did the article say about children of immigrants?"
+    },
+    {
+     "id": "5784ACEB-5652-5B7B-9BA1-07AF4C93FDE1",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "That many of them gradually lose their parents' language as they grow up, especially once they start school. Often by the third generation, the family language has disappeared completely."
+    },
+    {
+     "id": "2AFC4842-0C89-5A8D-80F1-CE01A549F301",
+     "speaker": "Mei",
+     "accent": "en-GB",
+     "text": "That happened to some of my cousins. They can understand Cantonese, but they can't really speak it. And the article said that some parents actually stop using their own language at home because a teacher told them it would help the child's English."
+    },
+    {
+     "id": "EEAF94E7-C20A-55A0-B799-B3C47E733487",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, which is advice the research doesn't support. Okay. For next week, I'd like each of you to find one study on how schools can support heritage languages, and be ready to summarise its method and findings in five minutes. Mei, perhaps you could look at weekend community schools, and Joseph, at bilingual programmes within ordinary schools?"
+    },
+    {
+     "id": "1DACBF2D-6780-59BB-8886-6720FEE5655E",
+     "speaker": "Joseph",
+     "accent": "en-US",
+     "text": "Sure. That sounds really interesting. Should we include our own opinions as well?"
+    },
+    {
+     "id": "5A77F9CF-03CD-5EF8-9982-0CFA3919437B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Briefly, at the end, but focus on the evidence first."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam05-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to the article, bilingual children",
+     "explanation": "They reach milestones at about the same age.",
+     "evidenceQuote": "reach the main milestones, like saying their first words, at about the same age",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. start speaking later than other children.",
+      "B. begin to speak at a similar age to other children.",
+      "C. learn to read earlier than other children."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. begin to speak at a similar age to other children.",
+      "begin to speak at a similar age to other children."
+     ]
+    },
+    {
+     "id": "exam05-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why may bilingual children seem to know fewer words?",
+     "explanation": "Their vocabulary is divided between languages.",
+     "evidenceQuote": "their vocabulary is split between two languages",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are given fewer opportunities to speak.",
+      "B. They prefer to use one language.",
+      "C. Their knowledge is spread across two languages."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their knowledge is spread across two languages.",
+      "Their knowledge is spread across two languages."
+     ]
+    },
+    {
+     "id": "exam05-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does Mei say teachers should avoid?",
+     "explanation": "They should not test only in the school language.",
+     "evidenceQuote": "you shouldn't assess bilingual children only in the school language",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. testing children in only one language",
+      "B. speaking to children in their home language",
+      "C. putting bilingual children in separate classes"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. testing children in only one language",
+      "testing children in only one language"
+     ]
+    },
+    {
+     "id": "exam05-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What happened when early studies of the bilingual advantage were repeated?",
+     "explanation": "In larger repeats, the effect often disappeared.",
+     "evidenceQuote": "the effect often disappeared",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The advantage became larger.",
+      "B. The advantage was often not found.",
+      "C. The results were the same."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The advantage was often not found.",
+      "The advantage was often not found."
+     ]
+    },
+    {
+     "id": "exam05-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "According to the article, the main benefits of bilingualism are",
+     "explanation": "The main benefits are cultural and practical.",
+     "evidenceQuote": "the main reasons for bilingualism are cultural and practical",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. better performance in exams.",
+      "B. improved concentration.",
+      "C. cultural and practical."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. cultural and practical.",
+      "cultural and practical."
+     ]
+    },
+    {
+     "id": "exam05-L26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Executive function includes switching between tasks and ignoring __________.",
+     "explanation": "Executive function includes ignoring distractions.",
+     "evidenceQuote": "switching between tasks and ignoring distractions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distractions"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L27",
+     "number": 27,
+     "format": "Sentence Completion",
+     "prompt": "Studies that found an advantage were more likely to be __________.",
+     "explanation": "Positive results were more likely to be published.",
+     "evidenceQuote": "studies that found an advantage were more likely to be published",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "published"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L28",
+     "number": 28,
+     "format": "Sentence Completion",
+     "prompt": "Children of immigrants often lose the family language after starting __________.",
+     "explanation": "Language loss accelerates after starting school.",
+     "evidenceQuote": "especially once they start school",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "school"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L29",
+     "number": 29,
+     "format": "Sentence Completion",
+     "prompt": "Some parents stop using their language because of advice from a __________.",
+     "explanation": "A teacher advised them to stop.",
+     "evidenceQuote": "because a teacher told them it would help",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "teacher"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L30",
+     "number": 30,
+     "format": "Sentence Completion",
+     "prompt": "Mei will research weekend __________ schools.",
+     "explanation": "Mei will look at weekend community schools.",
+     "evidenceQuote": "Mei, perhaps you could look at weekend community schools",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "community"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "bilingual",
+    "executive function",
+    "vocabulary size",
+    "longitudinal study",
+    "heritage language"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the sentences below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam05-lp4",
+   "partNumber": 4,
+   "title": "The invention of writing",
+   "contextDescription": "A lecture in an introductory course on the history of communication.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "CD1B7F8D-E7EA-5ED6-B13A-D51AD94CC103",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning. In this lecture, I'm going to talk about one of the most important inventions in human history: writing. Humans have been speaking for perhaps a hundred thousand years or more, but writing is only around five thousand years old. And unlike speech, which every human community has, writing was invented independently only a few times, perhaps as few as three or four."
+    },
+    {
+     "id": "96615199-A02F-5DFD-9172-97F65589285C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The earliest known writing system developed in Mesopotamia, in what is now southern Iraq, about five thousand two hundred years ago. Interestingly, it wasn't created to record stories, poems or laws. The earliest texts are almost all administrative records: lists of goods, such as grain, sheep and beer, and the names of the people who owed or received them. As cities grew and trade expanded, officials needed a reliable way of keeping track of who owed what."
+    },
+    {
+     "id": "8C87A6ED-5F20-557A-8D28-1F8E9E25D78A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Many researchers believe writing grew out of an older system of small clay tokens, which had been used for thousands of years to count goods. Different shapes represented different things: a cone might stand for a measure of grain, a sphere for a larger measure. These tokens were sometimes sealed inside clay containers, and the shapes were pressed into the outside so that people could see what was inside without breaking the container. Eventually, people realised they could simply make the marks on a flat piece of clay and do without the tokens altogether."
+    },
+    {
+     "id": "E829A0C5-5A88-57FB-B735-81891BA9CA8B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The Mesopotamian script is known as cuneiform, which means wedge-shaped, because the signs were made by pressing a cut reed into soft clay, producing marks shaped like wedges. At first, many signs were pictures of the things they represented, but over time they became more abstract, and scribes began to use signs for their sound rather than their meaning. This was a crucial step, because it meant writing could record any word in the language, including names and grammatical endings."
+    },
+    {
+     "id": "1120D618-ED5B-5BBB-AF3E-772FA3543351",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Clay turned out to be an excellent material for preserving information. Tablets that were baked, either deliberately or accidentally when buildings burned down, became as hard as pottery, and hundreds of thousands have survived. One famous example is the library of the Assyrian king Ashurbanipal at Nineveh, where around thirty thousand tablets were preserved when the palace was destroyed by fire in the seventh century BC."
+    },
+    {
+     "id": "4AC0ECE3-566B-505D-931F-9AA8EBCE83EA",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Writing seems to have appeared in Egypt at around the same time as in Mesopotamia, though whether the Egyptians borrowed the idea or developed it independently is still debated. Writing was invented quite separately in China, where the earliest examples, from about three thousand two hundred years ago, are inscriptions on bones used to predict the future. And in Mesoamerica, the Maya developed a sophisticated script that was only fully deciphered in the late twentieth century."
+    },
+    {
+     "id": "1F424DAA-330A-54B7-8CFD-0514EE4FB879",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Early writing systems were extremely complicated. Cuneiform used several hundred signs, and Egyptian hieroglyphs even more, so reading and writing were skills restricted to a small group of professional scribes, who trained for many years. The development that made writing accessible to ordinary people was the alphabet, in which each sign represents a single sound. The first alphabet was created around three thousand eight hundred years ago by people speaking a Semitic language, possibly workers in Egypt who adapted some Egyptian signs. Because it needed only about two dozen letters, it was far easier to learn."
+    },
+    {
+     "id": "FAE08F14-E1E3-55D1-A79E-8A261717D3BE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "This early alphabet was adopted and adapted by the Phoenicians, who were great traders and spread it around the Mediterranean. The Greeks then made an important change: the Phoenician alphabet had no letters for vowels, so the Greeks added them. The Greek alphabet in turn gave rise to the Latin alphabet, which most European languages use today. Next week, we'll look at the next great revolution in communication: printing."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam05-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Earliest texts were mostly administrative __________",
+     "explanation": "Early texts were administrative records.",
+     "evidenceQuote": "The earliest texts are almost all administrative records",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "records"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Writing was needed as cities and __________ grew",
+     "explanation": "Growth of cities and trade created the need.",
+     "evidenceQuote": "As cities grew and trade expanded",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trade"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Before writing, small clay __________ were used for counting",
+     "explanation": "Clay tokens were used to count goods.",
+     "evidenceQuote": "an older system of small clay tokens",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tokens"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Cuneiform signs were made with a cut __________",
+     "explanation": "A cut reed made the wedge marks.",
+     "evidenceQuote": "pressing a cut reed into soft clay",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Key step: signs were used for their __________ rather than meaning",
+     "explanation": "Using signs for sound allowed any word to be written.",
+     "evidenceQuote": "scribes began to use signs for their sound rather than their meaning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sound"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Baked tablets became as hard as __________",
+     "explanation": "Baked tablets became as hard as pottery.",
+     "evidenceQuote": "became as hard as pottery",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pottery"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Ashurbanipal's tablets survived because the palace was destroyed by __________",
+     "explanation": "The fire preserved the tablets.",
+     "evidenceQuote": "when the palace was destroyed by fire",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fire"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Early Chinese writing: inscriptions on __________",
+     "explanation": "Early Chinese writing was on bones.",
+     "evidenceQuote": "inscriptions on bones used to predict the future",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Early scripts were complex, so only professional __________ could write",
+     "explanation": "Only trained scribes could read and write.",
+     "evidenceQuote": "restricted to a small group of professional scribes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scribes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The Greeks added letters for __________",
+     "explanation": "The Greeks added vowels.",
+     "evidenceQuote": "the Phoenician alphabet had no letters for vowels, so the Greeks added them",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vowels"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "cuneiform",
+    "clay tablet",
+    "pictogram",
+    "alphabet",
+    "scribe"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam05-rp1",
+   "passageNumber": 1,
+   "title": "Cracking the code of the Rosetta Stone",
+   "discipline": "Archaeology & Linguistics",
+   "paragraphs": [
+    "For more than fourteen hundred years, no one could read the writing of ancient Egypt. The last known hieroglyphic inscription was carved in the year 394, and after that the knowledge of how the script worked was gradually lost. Later scholars, including Arab writers in the Middle Ages and European scholars of the Renaissance, were fascinated by the mysterious signs carved on temples and monuments, but most assumed that each sign was a symbol expressing a philosophical or religious idea rather than a way of writing the sounds of a language. This assumption, as it turned out, was the main obstacle to decipherment.",
+    "The key to the problem was discovered in 1799, when French soldiers who were rebuilding a fort near the town of Rashid, known in Europe as Rosetta, in the Nile Delta, found a broken slab of dark stone covered with writing. The stone carried the same text, a decree issued by a council of priests in 196 BC, written three times: in hieroglyphs, in demotic, a cursive script used for everyday purposes in Egypt, and in ancient Greek. Since scholars could read Greek, it seemed that the stone might provide the means to understand the other two scripts. When the French were defeated by the British in Egypt, the stone was handed over under the terms of the peace agreement and taken to the British Museum in London, where it remains today.",
+    "Copies of the inscriptions were circulated among scholars across Europe, and several made progress. One of the most important early contributions came from Thomas Young, an English scientist and doctor who was also a gifted linguist. Young noticed that some hieroglyphs were enclosed in oval rings, now known as cartouches, and argued correctly that these contained the names of rulers. By comparing the cartouches with the Greek text, he identified the name of the king Ptolemy and worked out the sound values of several signs. However, Young believed that the hieroglyphs were used for sounds only when writing foreign names, such as Ptolemy, which was Greek, and that the rest of the script was symbolic.",
+    "The breakthrough came from Jean-François Champollion, a young French scholar who had been obsessed with ancient Egypt since childhood. Unlike Young, Champollion had a deep knowledge of Coptic, the last stage of the Egyptian language, which had survived as the language of the Egyptian Christian church. In 1822, he examined copies of inscriptions from temples in Egypt and found cartouches containing names that were not Greek, but Egyptian, such as that of the pharaoh Ramesses. Using his knowledge of Coptic, he was able to read them. He realised that the hieroglyphic system was a mixture: some signs represented sounds, while others represented whole words or indicated the general category of a word's meaning.",
+    "According to a well-known story, when Champollion understood what he had found, he ran to his brother's office, shouted 'I've done it!' and promptly fainted. Whether or not this is true, his announcement in a letter to the French Academy later that year is generally taken as the moment when hieroglyphs were deciphered. Champollion continued to work on the script until his death in 1832, at the age of only forty-one, and published a grammar and dictionary of ancient Egyptian.",
+    "The relationship between Young and Champollion has been the subject of debate ever since. Young felt that his contribution had not been properly acknowledged, while Champollion insisted that he had reached his conclusions independently. Most historians now accept that Young made important early discoveries, but that it was Champollion who understood the system as a whole. National rivalry between Britain and France, which had recently been at war, undoubtedly made the dispute more bitter.",
+    "The decipherment of hieroglyphs opened up three thousand years of Egyptian history, literature and religion that had been silent for centuries. Thousands of texts, from royal inscriptions to private letters and medical manuals, could now be read. The Rosetta Stone itself has become a symbol of the key that unlocks something previously incomprehensible, and its name has even been borrowed by a well-known language-learning company. In recent years, Egypt has formally requested the return of the stone, arguing that it was removed from the country without the consent of its people."
+   ],
+   "questions": [
+    {
+     "id": "exam05-R1",
+     "number": 1,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph A, why did earlier scholars fail to read hieroglyphs?",
+     "explanation": "They thought the signs were symbols, not sounds.",
+     "evidenceQuote": "most assumed that each sign was a symbol expressing a philosophical or religious idea",
+     "skillTag": "main_idea",
+     "options": [
+      "A. They did not have access to Egyptian monuments.",
+      "B. They wrongly thought the signs represented ideas, not sounds.",
+      "C. They were not interested in ancient Egypt.",
+      "D. They could not read ancient Greek."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They wrongly thought the signs represented ideas, not sounds.",
+      "They wrongly thought the signs represented ideas, not sounds."
+     ]
+    },
+    {
+     "id": "exam05-R2",
+     "number": 2,
+     "format": "Multiple Choice",
+     "prompt": "Why was the Rosetta Stone so useful?",
+     "explanation": "The Greek text allowed comparison with the unknown scripts.",
+     "evidenceQuote": "Since scholars could read Greek, it seemed that the stone might provide the means to understand the other two scripts",
+     "skillTag": "detail",
+     "options": [
+      "A. It explained how hieroglyphs worked.",
+      "B. It was the oldest known Egyptian inscription.",
+      "C. It contained a dictionary of Egyptian words.",
+      "D. It included a version of the text in a known language."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It included a version of the text in a known language.",
+      "It included a version of the text in a known language."
+     ]
+    },
+    {
+     "id": "exam05-R3",
+     "number": 3,
+     "format": "Multiple Choice",
+     "prompt": "What mistake did Thomas Young make?",
+     "explanation": "He thought sound signs were only used for foreign names.",
+     "evidenceQuote": "Young believed that the hieroglyphs were used for sounds only when writing foreign names",
+     "skillTag": "detail",
+     "options": [
+      "A. He thought sound-based signs were only used for foreign names.",
+      "B. He could not identify the name Ptolemy.",
+      "C. He believed cartouches contained religious texts.",
+      "D. He ignored the Greek text."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. He thought sound-based signs were only used for foreign names.",
+      "He thought sound-based signs were only used for foreign names."
+     ]
+    },
+    {
+     "id": "exam05-R4",
+     "number": 4,
+     "format": "Multiple Choice",
+     "prompt": "What advantage did Champollion have over Young?",
+     "explanation": "He knew Coptic, the late form of Egyptian.",
+     "evidenceQuote": "Champollion had a deep knowledge of Coptic",
+     "skillTag": "detail",
+     "options": [
+      "A. He had visited Egypt many times.",
+      "B. He owned the Rosetta Stone.",
+      "C. He knew a later form of the Egyptian language.",
+      "D. He had more scientific training."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. He knew a later form of the Egyptian language.",
+      "He knew a later form of the Egyptian language."
+     ]
+    },
+    {
+     "id": "exam05-R5",
+     "number": 5,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph F, the dispute between Young and Champollion was made worse by",
+     "explanation": "National rivalry intensified the dispute.",
+     "evidenceQuote": "National rivalry between Britain and France",
+     "skillTag": "detail",
+     "options": [
+      "A. disagreements over money.",
+      "B. tension between their two countries.",
+      "C. the loss of important documents.",
+      "D. Champollion's early death."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. tension between their two countries.",
+      "tension between their two countries."
+     ]
+    },
+    {
+     "id": "exam05-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Rosetta Stone was found by archaeologists searching for ancient inscriptions.",
+     "explanation": "It was found by soldiers rebuilding a fort.",
+     "evidenceQuote": "French soldiers who were rebuilding a fort",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam05-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The three texts on the stone contain the same decree.",
+     "explanation": "It carries the same text three times.",
+     "evidenceQuote": "The stone carried the same text",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam05-R8",
+     "number": 8,
+     "format": "True / False / Not Given",
+     "prompt": "Demotic was used mainly for religious purposes.",
+     "explanation": "Demotic was used for everyday purposes.",
+     "evidenceQuote": "a cursive script used for everyday purposes",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam05-R9",
+     "number": 9,
+     "format": "True / False / Not Given",
+     "prompt": "The stone has been displayed in Paris.",
+     "explanation": "Only London is mentioned; nothing is said about Paris.",
+     "evidenceQuote": "taken to the British Museum in London, where it remains today",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam05-R10",
+     "number": 10,
+     "format": "True / False / Not Given",
+     "prompt": "Young correctly identified the purpose of cartouches.",
+     "explanation": "He correctly argued they contained rulers' names.",
+     "evidenceQuote": "argued correctly that these contained the names of rulers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam05-R11",
+     "number": 11,
+     "format": "True / False / Not Given",
+     "prompt": "Champollion found Egyptian names in cartouches from temples.",
+     "explanation": "He found Egyptian names such as Ramesses.",
+     "evidenceQuote": "found cartouches containing names that were not Greek, but Egyptian",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam05-R12",
+     "number": 12,
+     "format": "True / False / Not Given",
+     "prompt": "Champollion's brother helped him with the decipherment.",
+     "explanation": "The brother is mentioned only in the story about fainting.",
+     "evidenceQuote": "he ran to his brother's office",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam05-R13",
+     "number": 13,
+     "format": "True / False / Not Given",
+     "prompt": "Egypt has asked for the Rosetta Stone to be returned.",
+     "explanation": "Egypt has formally requested its return.",
+     "evidenceQuote": "Egypt has formally requested the return of the stone",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    }
+   ],
+   "estimatedWordCount": 708,
+   "groups": [
+    {
+     "from": 1,
+     "to": 5,
+     "instruction": "Questions 1–5. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 6,
+     "to": 13,
+     "instruction": "Questions 6–13. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    }
+   ]
+  },
+  {
+   "id": "exam05-rp2",
+   "passageNumber": 2,
+   "title": "The dance language of honeybees",
+   "discipline": "Animal Behaviour",
+   "paragraphs": [
+    "Among the many ways in which animals communicate, few have attracted as much interest as the dance of the honeybee. When a forager bee discovers a good source of food, she returns to the hive and performs a series of movements on the vertical surface of the honeycomb. Other bees cluster around her, following her movements closely, and soon afterwards many of them leave the hive and fly directly to the food source, even if it is several kilometres away. The dance, it seems, contains precise information about where the food can be found.",
+    "This remarkable behaviour was decoded by the Austrian scientist Karl von Frisch, who studied bees for more than fifty years and was awarded a Nobel Prize in 1973 for his work. Von Frisch identified two main types of dance. When food is close to the hive, generally within about fifty metres, bees perform what he called the round dance, running in small circles and frequently changing direction. This tells the other bees that food is nearby, but not in which direction, and they search the area around the hive, using the scent of flowers carried on the dancer's body to help them.",
+    "When food is further away, bees perform the waggle dance. The bee runs in a straight line while shaking her abdomen rapidly from side to side, then circles back to her starting point, first to one side and then the other, so that her path forms a figure of eight. The straight run carries the key information. Its angle relative to vertical indicates the direction of the food relative to the sun: if the bee runs straight upwards, the food is in the same direction as the sun; if she runs at an angle of forty degrees to the right of vertical, the food lies forty degrees to the right of the sun. The duration of the waggle run indicates distance, with longer runs signalling food that is further away.",
+    "Even more impressively, bees take account of the movement of the sun. Because the sun moves across the sky during the day, a bee that dances for an extended period gradually changes the angle of her waggle run to match. Von Frisch also showed that bees can locate the sun even when it is hidden by clouds, as long as a patch of blue sky is visible, by detecting patterns of polarised light that are invisible to humans.",
+    "Not everyone accepted von Frisch's interpretation. In the 1960s, some researchers argued that bees found food not by decoding the dance but simply by following the scent of flowers carried by the dancer. This led to a long and sometimes bitter debate. The question was largely settled in the 2000s, when scientists attached tiny radar transponders to bees that had watched a dance and tracked their flights. Most of the bees flew directly towards the area indicated by the dance, confirming that they were using the information it contained, although they then relied on scent to find the exact flowers.",
+    "More recent research has revealed that the dance is not perfectly accurate. The angle of the waggle runs varies slightly each time the bee repeats them, so that the information is somewhat imprecise. Some scientists have suggested that this variation may actually be useful, because it spreads the recruited bees over a wider area of flowers rather than concentrating them on a single spot. Others think it is simply a limitation of the system. Studies have also shown that the relationship between the length of the waggle run and distance differs between populations of bees, suggesting that bees in different regions use slightly different 'dialects'.",
+    "The dance is also used for purposes other than food. When a colony becomes too large, part of it leaves the hive with the old queen to establish a new nest. Scout bees search for suitable sites, such as hollow trees, and report back using the waggle dance. Different scouts advertise different sites, and over a period of hours or days, more and more scouts come to support the best site, until a kind of consensus is reached and the whole swarm flies off. The biologist Thomas Seeley has argued that this process is a highly effective form of collective decision-making from which human groups might learn."
+   ],
+   "questions": [
+    {
+     "id": "exam05-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B introduces von Frisch and the round dance for nearby food.",
+     "evidenceQuote": "Von Frisch identified two main types of dance",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. A signal for food close to home",
+      "A signal for food close to home"
+     ]
+    },
+    {
+     "id": "exam05-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains how direction and distance are encoded.",
+     "evidenceQuote": "The straight run carries the key information",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. How direction and distance are communicated",
+      "How direction and distance are communicated"
+     ]
+    },
+    {
+     "id": "exam05-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains adjusting for the sun's movement and finding it behind clouds.",
+     "evidenceQuote": "bees take account of the movement of the sun",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Keeping track of a moving reference point",
+      "Keeping track of a moving reference point"
+     ]
+    },
+    {
+     "id": "exam05-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the challenge and its resolution.",
+     "evidenceQuote": "Not everyone accepted von Frisch's interpretation",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A challenge to an explanation, and how it was resolved",
+      "A challenge to an explanation, and how it was resolved"
+     ]
+    },
+    {
+     "id": "exam05-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F discusses imprecision and regional variation.",
+     "evidenceQuote": "the dance is not perfectly accurate",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Imperfect information and local variations",
+      "Imperfect information and local variations"
+     ]
+    },
+    {
+     "id": "exam05-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers choosing a new nest site.",
+     "evidenceQuote": "The dance is also used for purposes other than food",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Choosing a new home",
+      "Choosing a new home"
+     ]
+    },
+    {
+     "id": "exam05-R20",
+     "number": 20,
+     "format": "Summary Completion",
+     "prompt": "In the waggle dance, the bee's path forms a figure of __________.",
+     "explanation": "The path forms a figure of eight.",
+     "evidenceQuote": "her path forms a figure of eight",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R21",
+     "number": 21,
+     "format": "Summary Completion",
+     "prompt": "The angle of the straight run shows the direction of food in relation to the __________.",
+     "explanation": "Direction is relative to the sun.",
+     "evidenceQuote": "indicates the direction of the food relative to the sun",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sun"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R22",
+     "number": 22,
+     "format": "Summary Completion",
+     "prompt": "The __________ of the waggle run shows how far away the food is.",
+     "explanation": "Duration indicates distance.",
+     "evidenceQuote": "The duration of the waggle run indicates distance",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "duration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "Bees can find the sun behind clouds by detecting __________ light.",
+     "explanation": "They detect polarised light.",
+     "evidenceQuote": "detecting patterns of polarised light",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "polarised"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "Scientists tracked bees using small radar __________.",
+     "explanation": "Radar transponders tracked bees.",
+     "evidenceQuote": "attached tiny radar transponders to bees",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "transponders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "After flying to the area, bees used __________ to find the exact flowers.",
+     "explanation": "Scent guided them to exact flowers.",
+     "evidenceQuote": "they then relied on scent to find the exact flowers",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scent"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam05-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "Bees in different regions may use different __________.",
+     "explanation": "Bees may use regional dialects.",
+     "evidenceQuote": "bees in different regions use slightly different 'dialects'",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dialects"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 716,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below.",
+     "options": [
+      "i. A challenge to an explanation, and how it was resolved",
+      "ii. How direction and distance are communicated",
+      "iii. The danger of predators near the hive",
+      "iv. Choosing a new home",
+      "v. A signal for food close to home",
+      "vi. Why bees are disappearing",
+      "vii. Keeping track of a moving reference point",
+      "viii. Imperfect information and local variations"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 26,
+     "instruction": "Questions 20–26. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam05-rp3",
+   "passageNumber": 3,
+   "title": "Does language shape thought?",
+   "discipline": "Linguistics & Cognitive Science",
+   "paragraphs": [
+    "Does the language we speak affect the way we think? The question is an old one, but it is most closely associated with the American linguist Benjamin Lee Whorf, who argued in the 1930s that speakers of different languages perceive and understand the world in fundamentally different ways. Whorf claimed, for example, that the Hopi language of Arizona had no words or grammatical forms referring to time, and that Hopi speakers therefore had a completely different conception of time from speakers of European languages. This idea, often called linguistic relativity or the Sapir-Whorf hypothesis, became extremely popular, and it remains so outside academic circles.",
+    "Within linguistics, however, Whorf's ideas gradually fell out of favour. Later research showed that his claims about the Hopi language were simply wrong: Hopi does in fact have many ways of talking about time. More fundamentally, the dominant approach to language in the second half of the twentieth century, associated with Noam Chomsky, emphasised the features that all human languages have in common rather than their differences. From this perspective, languages were seen as variations on a single underlying system, and the idea that they might shape thought in deep ways seemed implausible. Few linguists, I suspect, regretted the decline of a theory built on such questionable evidence.",
+    "In the last thirty years, though, the question has returned, this time investigated with careful experiments rather than anecdotes. Researchers now generally reject the strong version of Whorf's hypothesis, the idea that language determines thought so that some concepts are impossible without the right words. Nobody seriously believes, for instance, that speakers of a language without a word for 'blue' cannot see the colour. But many accept a weaker version: that the habits of a particular language may influence attention, memory and perception in subtle but measurable ways.",
+    "One of the most striking lines of research concerns space. In English, we usually describe the location of objects relative to our own bodies: the cup is to the left of the plate. But some languages, such as Guugu Yimithirr, spoken in north-eastern Australia, rarely use words like 'left' and 'right'. Instead, speakers use compass directions, saying that the cup is to the north of the plate, even when talking about objects on a table. To speak like this, people must keep track of their orientation at all times, and studies have found that speakers of such languages are remarkably good at knowing which direction they are facing, even in unfamiliar places or inside buildings.",
+    "Colour has also been extensively studied. Russian has two separate basic words for what English speakers call blue: one for lighter shades and one for darker ones. In one experiment, Russian and English speakers were shown three squares of blue and asked which of the bottom two matched the top one. Russian speakers were faster when the two shades came from different categories in Russian, while English speakers showed no such difference. Interestingly, the Russian speakers' advantage disappeared when they were asked to repeat a series of numbers silently during the task, suggesting that language was actively involved in their judgements.",
+    "Grammar may matter too. In languages such as Spanish and German, nouns have grammatical gender, being classified as masculine or feminine. Some studies have reported that speakers describe objects in ways that reflect this gender: for example, that German speakers, for whom the word for 'bridge' is feminine, are more likely to describe bridges as elegant or beautiful, while Spanish speakers, for whom it is masculine, describe them as strong. These findings have been widely reported in the media, but attempts to repeat some of them have failed, and I would treat them with considerable caution.",
+    "What should we conclude? It seems clear that language does not imprison thought, as Whorf's more enthusiastic followers suggested. People can think about things they have no words for, and they can learn new languages and new ways of describing the world. Yet the evidence also suggests that the language we speak trains us to pay attention to certain aspects of experience more than others. In this modest sense, Whorf may have been more right than his critics allowed, even if many of his own examples were mistaken."
+   ],
+   "questions": [
+    {
+     "id": "exam05-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Whorf's description of the Hopi language was accurate.",
+     "explanation": "His claims about Hopi were wrong.",
+     "evidenceQuote": "his claims about the Hopi language were simply wrong",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam05-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most linguists were sorry to see Whorf's ideas decline.",
+     "explanation": "The writer thinks few regretted it.",
+     "evidenceQuote": "Few linguists, I suspect, regretted the decline of a theory built on such questionable evidence.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam05-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Modern research on language and thought is more scientific than Whorf's.",
+     "explanation": "Modern research uses careful experiments.",
+     "evidenceQuote": "investigated with careful experiments rather than anecdotes",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam05-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Chomsky personally carried out experiments on colour perception.",
+     "explanation": "Chomsky is mentioned only in relation to language universals.",
+     "evidenceQuote": "associated with Noam Chomsky",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam05-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "The findings about grammatical gender should be accepted with confidence.",
+     "explanation": "The writer urges caution.",
+     "evidenceQuote": "I would treat them with considerable caution",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam05-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Whorf was partly right about the relationship between language and thought.",
+     "explanation": "The writer concedes he may have been partly right.",
+     "evidenceQuote": "Whorf may have been more right than his critics allowed",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam05-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "What is the \"weaker version\" of Whorf's hypothesis?",
+     "explanation": "Language habits influence thinking in subtle ways.",
+     "evidenceQuote": "the habits of a particular language may influence attention, memory and perception in subtle but measurable ways",
+     "skillTag": "main_idea",
+     "options": [
+      "A. Language completely controls thought.",
+      "B. Some colours cannot be seen without words.",
+      "C. Language may influence thinking in small ways.",
+      "D. All languages are basically the same."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Language may influence thinking in small ways.",
+      "Language may influence thinking in small ways."
+     ]
+    },
+    {
+     "id": "exam05-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "Speakers of Guugu Yimithirr are notable for",
+     "explanation": "They are excellent at orientation.",
+     "evidenceQuote": "are remarkably good at knowing which direction they are facing",
+     "skillTag": "detail",
+     "options": [
+      "A. their strong sense of direction.",
+      "B. their large vocabulary for colours.",
+      "C. using left and right more than English speakers.",
+      "D. their difficulty with unfamiliar places."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. their strong sense of direction.",
+      "their strong sense of direction."
+     ]
+    },
+    {
+     "id": "exam05-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What happened when Russian speakers repeated numbers silently?",
+     "explanation": "Their advantage disappeared.",
+     "evidenceQuote": "the Russian speakers' advantage disappeared",
+     "skillTag": "detail",
+     "options": [
+      "A. They became faster at the task.",
+      "B. They made more mistakes than English speakers.",
+      "C. They refused to continue.",
+      "D. They lost their advantage."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They lost their advantage.",
+      "They lost their advantage."
+     ]
+    },
+    {
+     "id": "exam05-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "The experiment with numbers suggests that",
+     "explanation": "Language was actively involved in the colour judgements.",
+     "evidenceQuote": "suggesting that language was actively involved in their judgements",
+     "skillTag": "inference",
+     "options": [
+      "A. Russian speakers have better eyesight.",
+      "B. language was involved in the colour judgements.",
+      "C. colour perception is not affected by language.",
+      "D. the task was too difficult for most people."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. language was involved in the colour judgements.",
+      "language was involved in the colour judgements."
+     ]
+    },
+    {
+     "id": "exam05-R37",
+     "number": 37,
+     "format": "Matching Sentence Endings",
+     "prompt": "The strong version of Whorf's hypothesis claims that",
+     "explanation": "It claims thought is determined by language.",
+     "evidenceQuote": "the idea that language determines thought so that some concepts are impossible without the right words",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. constantly know which way they are facing.",
+      "B. cannot learn other languages.",
+      "C. describe bridges with words like elegant.",
+      "D. have no words for time.",
+      "E. some ideas cannot exist without words for them.",
+      "F. two basic words for different shades of blue."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. some ideas cannot exist without words for them.",
+      "some ideas cannot exist without words for them."
+     ]
+    },
+    {
+     "id": "exam05-R38",
+     "number": 38,
+     "format": "Matching Sentence Endings",
+     "prompt": "Speakers of Guugu Yimithirr must",
+     "explanation": "They must always track their orientation.",
+     "evidenceQuote": "people must keep track of their orientation at all times",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. constantly know which way they are facing.",
+      "B. cannot learn other languages.",
+      "C. describe bridges with words like elegant.",
+      "D. have no words for time.",
+      "E. some ideas cannot exist without words for them.",
+      "F. two basic words for different shades of blue."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. constantly know which way they are facing.",
+      "constantly know which way they are facing."
+     ]
+    },
+    {
+     "id": "exam05-R39",
+     "number": 39,
+     "format": "Matching Sentence Endings",
+     "prompt": "Russian has",
+     "explanation": "Russian has two basic words for blue.",
+     "evidenceQuote": "Russian has two separate basic words for what English speakers call blue",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. constantly know which way they are facing.",
+      "B. cannot learn other languages.",
+      "C. describe bridges with words like elegant.",
+      "D. have no words for time.",
+      "E. some ideas cannot exist without words for them.",
+      "F. two basic words for different shades of blue."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. two basic words for different shades of blue.",
+      "two basic words for different shades of blue."
+     ]
+    },
+    {
+     "id": "exam05-R40",
+     "number": 40,
+     "format": "Matching Sentence Endings",
+     "prompt": "German speakers are said to",
+     "explanation": "They describe bridges as elegant.",
+     "evidenceQuote": "German speakers, for whom the word for 'bridge' is feminine, are more likely to describe bridges as elegant or beautiful",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. constantly know which way they are facing.",
+      "B. cannot learn other languages.",
+      "C. describe bridges with words like elegant.",
+      "D. have no words for time.",
+      "E. some ideas cannot exist without words for them.",
+      "F. two basic words for different shades of blue."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. describe bridges with words like elegant.",
+      "describe bridges with words like elegant."
+     ]
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. constantly know which way they are facing.",
+      "B. cannot learn other languages.",
+      "C. describe bridges with words like elegant.",
+      "D. have no words for time.",
+      "E. some ideas cannot exist without words for them.",
+      "F. two basic words for different shades of blue."
+     ]
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam05-w1",
+  "title": "Languages studied by university students",
+  "visualType": "Line Chart",
+  "instructions": "The line graph below shows the number of students studying four foreign languages at universities in one country between 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "36DB6981-D4EE-5A7C-85E1-907E82AC580E",
+    "series": "French",
+    "category": "2000",
+    "value": 42.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "2ECFF157-6121-5E23-94CD-EB71DDC8C335",
+    "series": "German",
+    "category": "2000",
+    "value": 30.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "AC8C65E6-DDB8-5843-B4D5-D0CE1BC03148",
+    "series": "Chinese",
+    "category": "2000",
+    "value": 3.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "EFA54ADB-6DA5-56C8-8391-D616EB390069",
+    "series": "Arabic",
+    "category": "2000",
+    "value": 8.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "387D0361-AA2B-5FAF-B381-91C7B48608EB",
+    "series": "French",
+    "category": "2005",
+    "value": 38.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "0AE98F92-FAD1-5E39-BE17-52C989421AC2",
+    "series": "German",
+    "category": "2005",
+    "value": 27.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "82133025-32A1-5075-A872-6BEC0855FD27",
+    "series": "Chinese",
+    "category": "2005",
+    "value": 7.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "528D688D-4F2C-5282-94B9-FBEE7E763B34",
+    "series": "Arabic",
+    "category": "2005",
+    "value": 10.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "842210B6-FFD3-520C-BEC3-E7362FC2CFD4",
+    "series": "French",
+    "category": "2010",
+    "value": 33.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "4374322B-ED89-5329-A160-009FD7FF8C5B",
+    "series": "German",
+    "category": "2010",
+    "value": 22.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "6A3B5783-C969-59E0-9658-FD00F49975D2",
+    "series": "Chinese",
+    "category": "2010",
+    "value": 14.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "5A96AD27-B5F6-5475-A6E8-A6DE93F44F45",
+    "series": "Arabic",
+    "category": "2010",
+    "value": 11.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "F3D7DF3C-BFA4-57E8-9C84-4FFC4538AC91",
+    "series": "French",
+    "category": "2015",
+    "value": 27.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "1727076D-014F-521E-9952-CAFAB58F51C4",
+    "series": "German",
+    "category": "2015",
+    "value": 18.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "F076E663-1604-5044-A3CB-D549D7C5AD54",
+    "series": "Chinese",
+    "category": "2015",
+    "value": 21.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "EF48D129-8E3C-50D0-BE85-542544609F2E",
+    "series": "Arabic",
+    "category": "2015",
+    "value": 13.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "C6A11A00-C7EE-54C8-8E66-76B620D4D662",
+    "series": "French",
+    "category": "2020",
+    "value": 24.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "9179911F-C37C-54AA-9302-6A978BEFD44C",
+    "series": "German",
+    "category": "2020",
+    "value": 15.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "9327ACC8-6868-5350-B128-451B418C2A13",
+    "series": "Chinese",
+    "category": "2020",
+    "value": 26.0,
+    "unit": "thousands of students"
+   },
+   {
+    "id": "00E4F694-8C01-532A-861C-104E388AC486",
+    "series": "Arabic",
+    "category": "2020",
+    "value": 16.0,
+    "unit": "thousands of students"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "French and German declined steadily, while Chinese and Arabic grew.",
+   "Chinese rose from the least studied to the most studied language by 2020."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam05-w2",
+  "title": "Learning languages with technology",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education & Technology",
+  "promptText": "Some people think that because of translation software and artificial intelligence, it is no longer necessary for people to learn foreign languages. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam05-spk",
+  "theme": "Languages and communication",
+  "part1Questions": [
+   "How many languages do you speak?",
+   "Which language did you learn first?",
+   "Do you enjoy learning languages?",
+   "Do you prefer texting or phoning people?",
+   "Do you write by hand very often?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you had to communicate with someone who did not speak your language.",
+   "bulletPoints": [
+    "who the person was",
+    "where you were",
+    "how you communicated",
+    "and explain how you felt about the experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people find it easier to learn languages than others?",
+   "Should children start learning a foreign language at primary school?",
+   "Will English remain the most important international language?",
+   "What is lost when a language disappears?",
+   "Has technology changed the way people write?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical and linguistic details are simplified for practice and should not be cited as references.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

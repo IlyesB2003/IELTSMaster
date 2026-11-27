@@ -1,0 +1,2233 @@
+{
+ "id": "practice18",
+ "examNumber": 18,
+ "pool": "practice",
+ "title": "Practice Test 18: Photography, Film & Cinema",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Photography, Film & Cinema",
+ "listeningParts": [
+  {
+   "id": "practice18-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on a photography course",
+   "contextDescription": "A woman phones a community college to enrol on an evening photography course.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "7FBE7AF3-5725-5D16-A7F8-8091B8F121F0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Ashford Community College, adult education office. Ellie speaking. How can I help?"
+    },
+    {
+     "id": "BA1A4EFE-B8FB-58F2-A916-B9D4040D3084",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hi, I'm calling about your evening photography courses. I picked up a leaflet in the library, and I'd like to sign up for one, but I'm not sure which would suit me best."
+    },
+    {
+     "id": "0FC8B3A3-E328-5EA4-A677-6D0A27AC99AD",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. This term we're running three. There's Portrait Photography, which is mostly studio work, taking pictures of people with professional lighting. Then there's Landscape Photography, which is mainly outdoors, and there's also a course called Smartphone Photography, for people who'd like to take better pictures without buying a camera."
+    },
+    {
+     "id": "6B4B639B-CC85-59B4-A369-11D04AA84B50",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Well, I already have a camera, and I mostly take pictures when I go walking in the hills, so I think the landscape course would be the right one for me."
+    },
+    {
+     "id": "95A5D0B0-5692-5562-BF71-D4C80DE90581",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That sounds ideal. Just so you know, the portrait course is on Tuesday evenings, but Landscape runs on Thursdays, from seven till nine."
+    },
+    {
+     "id": "B120BB5B-27E6-5885-9221-3F265F22306F",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Thursdays are fine. I'm free most evenings, actually. When does it start?"
+    },
+    {
+     "id": "74592FF1-4825-54A8-AC6B-A8BDCA882D35",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It was going to start on the fifth of September, but the tutor is away that week, so the first session is now on the twelfth. It runs for eight weeks altogether."
+    },
+    {
+     "id": "8DE40640-100C-557E-B0FB-07DDC896E05E",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay, the twelfth. And how much does it cost?"
+    },
+    {
+     "id": "0AFAED2B-913F-5586-A358-6EDC5BA331CD",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The full fee is a hundred and sixty-five pounds, but there's a reduced rate for students, people over sixty and people who are unemployed. That's a hundred and forty pounds."
+    },
+    {
+     "id": "07146B9F-738D-5C66-AF8A-BF28ED624767",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'm a part-time student at the university. Does that count?"
+    },
+    {
+     "id": "4FDC5B52-C661-5FB3-ADC7-1C48CADA80E3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, it does. You'd just need to show your student card at the first session, and we'll charge you the reduced rate."
+    },
+    {
+     "id": "589C5626-A480-5B44-AD4B-9395E01FE9A0",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Great. What kind of camera will I need? Mine's quite old."
+    },
+    {
+     "id": "69DEBB07-87AA-505A-BBF2-90D8C26C064C",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It doesn't matter how old it is. The important thing is that it lets you use manual settings, so you can control things like the shutter speed yourself. A fully automatic camera won't really work for this course. Do you know if yours can do that?"
+    },
+    {
+     "id": "CD66E913-5DB7-5333-B39E-48B9AB0E0885",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'm fairly sure it can. There's a little dial on the top with the letter M on it."
+    },
+    {
+     "id": "01A3E1AA-913A-538E-A073-3AB9C80D07E2",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's the one. You'll also need a tripod, because several of the sessions are at sunset, and in low light you need to keep the camera completely still. If you haven't got one, the college can lend you one, but we only have a few, so it's much better to bring your own."
+    },
+    {
+     "id": "CF0973A2-FB0C-5117-B225-B0EF416C5687",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I think I've got a small one somewhere. What about memory cards and so on?"
+    },
+    {
+     "id": "C11908C1-BF38-5781-B044-8AF3606B8231",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Bring at least one spare memory card and a spare battery, because the cold drains batteries surprisingly quickly. And do wear warm clothes. People are always surprised how cold it gets standing still on a hillside as it gets dark."
+    },
+    {
+     "id": "BE52BD2B-1956-5C75-8653-9CFA7F317A06",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Where does the course take place? In the main college building?"
+    },
+    {
+     "id": "DE253415-A2AE-5610-AB71-4CE7DA59ECD4",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The theory sessions are in the main building, in the computer room, because you'll learn how to edit your pictures there. But on the first evening the class meets in the college garden, behind the café, because the tutor likes to start with a practical exercise straight away."
+    },
+    {
+     "id": "2C7E18D4-5E2A-5A2B-B9EF-42B2BE4E175B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That sounds fun. Are there any trips?"
+    },
+    {
+     "id": "52EB5922-61CD-5C7B-A3C3-BBDE84DFB5FB",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, there's one. In the last week there's a full-day trip on the Saturday to photograph the old lighthouse at Shore Point. Transport is included in the fee, but you'll need to bring your own lunch."
+    },
+    {
+     "id": "58A0493E-4E3F-5FB5-92E7-E34F55EBB79B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Brilliant. Can I enrol now, over the phone?"
+    },
+    {
+     "id": "0329F35A-BA19-51DA-A341-71385F4DB029",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Certainly. Can I take your name, please?"
+    },
+    {
+     "id": "E580B2A8-1853-5750-BECA-AF626FFD8B82",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's Karin Lindqvist. That's K-A-R-I-N, and the surname is L-I-N-D-Q-V-I-S-T."
+    },
+    {
+     "id": "B1BA995A-5B68-515D-B0DC-8836334FD51A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. That's an unusual name. Is it Swedish?"
+    },
+    {
+     "id": "FDF40A2F-FFF6-506D-9CF5-BFA00A1E76B3",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Yes, my father's family is from Sweden, but I grew up in Canada."
+    },
+    {
+     "id": "8D055C95-B0A0-501A-BB94-45835E57AD09",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. And would you like to pay by card now, or would you prefer to pay at the first session?"
+    },
+    {
+     "id": "A915B6A6-5210-51AF-99A3-3DBDC2C72BB0",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'll pay now by card, if that's all right. Then it's done."
+    },
+    {
+     "id": "F38ABB25-A491-5DC8-AA1B-FDCB6AB2EE1C",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Perfect. I'll take the details in a moment, and then I'll email you a confirmation with a map of the college and a list of everything you need to bring."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice18-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Course chosen: __________ Photography",
+     "explanation": "She chooses the landscape course.",
+     "evidenceQuote": "Landscape runs on Thursdays",
+     "skillTag": "detail",
+     "distractorNote": "Portrait is the studio course on Tuesdays.",
+     "options": [],
+     "acceptedAnswers": [
+      "Landscape"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Day: __________ evenings, 7–9 p.m.",
+     "explanation": "The landscape course runs on Thursdays.",
+     "evidenceQuote": "but Landscape runs on Thursdays, from seven till nine",
+     "skillTag": "dates",
+     "distractorNote": "Tuesday is the portrait course.",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday",
+      "Thursdays"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "First session: __________ September",
+     "explanation": "The start moved to the twelfth.",
+     "evidenceQuote": "so the first session is now on the twelfth",
+     "skillTag": "dates",
+     "distractorNote": "The fifth was the original date.",
+     "options": [],
+     "acceptedAnswers": [
+      "twelfth",
+      "12th",
+      "12"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Length of course: __________ weeks",
+     "explanation": "The course lasts eight weeks.",
+     "evidenceQuote": "It runs for eight weeks altogether.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "eight",
+      "8"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Fee (student rate): £__________",
+     "explanation": "Students pay £140.",
+     "evidenceQuote": "That's a hundred and forty pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£165 is the full fee.",
+     "options": [],
+     "acceptedAnswers": [
+      "140"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Camera must allow __________ settings",
+     "explanation": "Manual settings are needed.",
+     "evidenceQuote": "it lets you use manual settings",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "manual"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring a __________ for sunset sessions",
+     "explanation": "A tripod keeps the camera still.",
+     "evidenceQuote": "You'll also need a tripod",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "tripod"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "First evening: meet in the college __________",
+     "explanation": "The first class meets in the garden.",
+     "evidenceQuote": "on the first evening the class meets in the college garden",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "garden"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Final trip: photograph the old __________ at Shore Point",
+     "explanation": "They visit the lighthouse.",
+     "evidenceQuote": "to photograph the old lighthouse at Shore Point",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "lighthouse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Lindqvist.",
+     "evidenceQuote": "It's Karin Lindqvist. That's K-A-R-I-N, and the surname is L-I-N-D-Q-V-I-S-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Lindqvist"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "enrol",
+    "manual settings",
+    "tripod",
+    "shutter speed",
+    "reduced rate"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice18-lp2",
+   "partNumber": 2,
+   "title": "A briefing for film festival volunteers",
+   "contextDescription": "The volunteer coordinator of a town film festival speaks to a group of new and returning volunteers.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "A46086D9-37D2-56A8-98D5-1C5A85F473B7",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "Hello, everyone, and thank you all for coming along this evening. My name's Kirsty Barnes, and I'm the volunteer coordinator for the Riverton Film Festival. Some of you have helped us before, and some of you are completely new, so I'll go through the basics and then tell you a bit about each of our venues."
+    },
+    {
+     "id": "6187A4C7-F6D7-5AEC-A3B5-9C3A961856F7",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "This is our ninth festival, and it's going to be our biggest yet. We'll be showing over a hundred and twenty films across ten days. We've still got five venues, the same as last year, and the festival is the same length, but the big change is that, for the first time, we've got a complete programme of films for children, with screenings every morning during the school holidays. We're really excited about that, and we hope it'll bring in lots of local families."
+    },
+    {
+     "id": "F86588B3-F82B-59BF-87A8-7C27081E4DF7",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "Now, shifts. Most shifts are four hours long, and you can choose as many as you like through the online system. Please arrive half an hour before your shift begins. That gives the venue manager time to brief you and tell you about any changes to the programme, which happen more often than you'd think."
+    },
+    {
+     "id": "342D80A2-7557-5F34-B42E-C42E71D228F5",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "A lot of new volunteers think their main job at the door will be checking tickets, but in fact the scanners do that automatically. The most important thing you'll do is count people as they go in. Every venue has a maximum number of people allowed for fire safety reasons, and we must never go over it, even if someone has a ticket. If a screening's full, call the venue manager and let them deal with it."
+    },
+    {
+     "id": "E3BE2774-AFE2-51FD-92CD-7863650BDB53",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "You may also be approached by journalists, especially during the first weekend. Please don't give interviews or tell them what you think of the films, however tempting it is. Just politely direct them to the press office, which is in the Town Hall."
+    },
+    {
+     "id": "05354BE6-41DE-51D2-8242-1D1CABE8B7E9",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "And what do you get in return? Well, we can't pay travel expenses, I'm afraid, but every volunteer who does at least three shifts receives a festival T-shirt and two free tickets for any screening. There's also a party for all volunteers on the final night, which is always great fun."
+    },
+    {
+     "id": "D9427107-4E42-5B08-946E-3AE1CACEC1E9",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "Right, let me tell you about the venues. Our main venue is the Palace Cinema on the High Street, which is the oldest working cinema in the county. That's where the opening night film will be shown, with the director and some of the cast arriving on the red carpet, so volunteers there will be very busy on the first evening."
+    },
+    {
+     "id": "5020C300-D4CA-5EC7-AF58-5BF79C8E4D3E",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "The Old Corn Exchange is hosting our silent film season this year. Each of the films will be accompanied by live music. Usually it'll be a pianist, but for one of the films we've got a small orchestra, so it's a fantastic place to work if you enjoy music."
+    },
+    {
+     "id": "E0C74250-FCD0-5EDB-B805-A4398F86A23F",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "Down by the river, on the Riverside Lawn, we'll put up a giant inflatable screen for outdoor screenings every evening, as long as the weather allows. If you're working there, bring a warm coat, because it gets cold by the water once the sun goes down."
+    },
+    {
+     "id": "46B34848-580C-5073-BBC1-5DF4766BC374",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "The Central Library will be hosting workshops for young people who want to make their own films. These are run by professional editors and camera operators, and volunteers will mainly help with registration and setting up equipment."
+    },
+    {
+     "id": "36A18183-92F3-5EE0-B1F1-DF06E32F8344",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "And finally, at the Harbour Arts Centre, most screenings will be followed by question-and-answer sessions with the directors, so volunteers there will need to help by passing microphones around the audience."
+    },
+    {
+     "id": "B2916956-DD9F-5657-A0D9-5CA5CB0F373D",
+     "speaker": "Coordinator",
+     "accent": "en-AU",
+     "text": "A couple of other things. Several people have asked about the Regal Cinema, which reopened last month after a long renovation. It looks wonderful, but it isn't one of our venues this year, though we hope it will be next year. And if you need to collect your volunteer pass, remember that the festival box office in the Town Hall is only open in the evenings until the festival begins. Okay, any questions so far?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice18-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What is new about the Riverton Film Festival this year?",
+     "explanation": "There is a children's programme for the first time.",
+     "evidenceQuote": "for the first time, we've got a complete programme of films for children",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It will last longer than before.",
+      "B. It will use more venues.",
+      "C. It will include films for children."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It will include films for children.",
+      "It will include films for children."
+     ]
+    },
+    {
+     "id": "practice18-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "How long before their shift should volunteers arrive?",
+     "explanation": "Volunteers arrive thirty minutes early.",
+     "evidenceQuote": "Please arrive half an hour before your shift begins.",
+     "skillTag": "numbers",
+     "options": [
+      "A. fifteen minutes",
+      "B. thirty minutes",
+      "C. one hour"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. thirty minutes",
+      "thirty minutes"
+     ]
+    },
+    {
+     "id": "practice18-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "According to Kirsty, the most important task for volunteers at the door is to",
+     "explanation": "Counting keeps numbers within fire safety limits.",
+     "evidenceQuote": "The most important thing you'll do is count people as they go in.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. count the people entering.",
+      "B. check everyone's tickets.",
+      "C. sell tickets for full screenings."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. count the people entering.",
+      "count the people entering."
+     ]
+    },
+    {
+     "id": "practice18-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What should volunteers do if journalists ask them questions?",
+     "explanation": "Journalists should be sent to the press office.",
+     "evidenceQuote": "Just politely direct them to the press office",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Give their opinion of the films.",
+      "B. Call the venue manager.",
+      "C. Send them to the press office."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Send them to the press office.",
+      "Send them to the press office."
+     ]
+    },
+    {
+     "id": "practice18-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What do volunteers receive after completing three shifts?",
+     "explanation": "They get a T-shirt and two free tickets.",
+     "evidenceQuote": "receives a festival T-shirt and two free tickets for any screening",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. free tickets and a T-shirt",
+      "B. payment for their travel",
+      "C. an invitation to the opening night"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. free tickets and a T-shirt",
+      "free tickets and a T-shirt"
+     ]
+    },
+    {
+     "id": "practice18-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "Palace Cinema",
+     "explanation": "The opening film is at the Palace.",
+     "evidenceQuote": "That's where the opening night film will be shown",
+     "skillTag": "matching",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The first film of the festival is shown here.",
+      "The first film of the festival is shown here."
+     ]
+    },
+    {
+     "id": "practice18-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "Old Corn Exchange",
+     "explanation": "Silent films there have live music.",
+     "evidenceQuote": "Each of the films will be accompanied by live music.",
+     "skillTag": "matching",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Films have live musical accompaniment.",
+      "Films have live musical accompaniment."
+     ]
+    },
+    {
+     "id": "practice18-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Riverside Lawn",
+     "explanation": "Films are shown outdoors.",
+     "evidenceQuote": "a giant inflatable screen for outdoor screenings every evening",
+     "skillTag": "matching",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Films are shown in the open air.",
+      "Films are shown in the open air."
+     ]
+    },
+    {
+     "id": "practice18-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Central Library",
+     "explanation": "Young film-makers attend workshops.",
+     "evidenceQuote": "workshops for young people who want to make their own films",
+     "skillTag": "matching",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Young people can learn film-making skills.",
+      "Young people can learn film-making skills."
+     ]
+    },
+    {
+     "id": "practice18-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Harbour Arts Centre",
+     "explanation": "Directors answer questions after screenings.",
+     "evidenceQuote": "question-and-answer sessions with the directors",
+     "skillTag": "matching",
+     "distractorNote": "The Regal was recently renovated and the box office opens only in the evenings, but neither is a festival venue.",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Audiences can talk to film directors.",
+      "Audiences can talk to film directors."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "screening",
+    "venue",
+    "shift",
+    "press office",
+    "silent film"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does Kirsty say about each venue? Choose FIVE answers from the box and write the correct letter, A–G.",
+     "options": [
+      "A. The first film of the festival is shown here.",
+      "B. Films are shown in the open air.",
+      "C. Films have live musical accompaniment.",
+      "D. Young people can learn film-making skills.",
+      "E. Audiences can talk to film directors.",
+      "F. It is only open in the evenings.",
+      "G. It has recently been renovated."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice18-lp3",
+   "partNumber": 3,
+   "title": "Making a short documentary",
+   "contextDescription": "Two media students, Sophie and Ravi, discuss their documentary about a local market with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "F80332BA-A0EE-5E67-ABD1-2386F654050D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Sophie, Ravi. Have a seat. So, you've finished filming your documentary about Eastgate Market. How did it go?"
+    },
+    {
+     "id": "DE76E0A2-E21A-59D7-B878-BCB5B8B66522",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "Really well, on the whole. We chose the market because the council's planning to redevelop the whole area in the next couple of years, and lots of the traders don't know whether they'll be able to stay. We felt their stories should be recorded before it's too late."
+    },
+    {
+     "id": "524013F2-0D8E-58B0-ABA1-53B56274518F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That gives the film a real sense of urgency. What equipment did you use?"
+    },
+    {
+     "id": "A2751F1F-20DF-5176-A2E3-120CE8178023",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "We borrowed the department's camera for the interviews, because the picture quality is much better. But for the general scenes of the market, we used our phones."
+    },
+    {
+     "id": "702FA8C2-1961-5184-89CC-D8AF991EF84D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why was that?"
+    },
+    {
+     "id": "03EAF2BE-CBE1-58E2-B832-30A579C04510",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "Mainly because people behaved much more naturally. When we walked around with the big camera, people either stopped what they were doing or started performing for us. With a phone, nobody really noticed, so we got much more realistic footage of the market."
+    },
+    {
+     "id": "E41C8D0A-BD34-5A9D-B851-8F3D2626A87C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a very good observation. What about sound? That's where student films usually go wrong."
+    },
+    {
+     "id": "E1DDB4D8-4F51-5E31-ACE1-A38EF1DA2CFE",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "We learned that the hard way. On the first day, we recorded two interviews using the microphone on top of the camera, and you can hardly hear what people are saying because of the noise in the market. So we had to do them again."
+    },
+    {
+     "id": "3904D679-41CA-5191-9CC6-0FECAB260C39",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "It's a common mistake. Audiences will forgive a picture that's a bit dark or shaky, but they'll stop watching very quickly if they can't hear what people are saying. What did you change?"
+    },
+    {
+     "id": "933BFB22-2554-5797-AC9F-26B2BBB1B322",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "We borrowed clip-on microphones, and we filmed all the interviews early in the morning, before the market opened to the public. The traders were setting up their stalls, so it was quiet, and they had more time to talk."
+    },
+    {
+     "id": "2ED6AF09-F48F-50E3-BC0E-E4C202295197",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And I hope you got everyone's permission."
+    },
+    {
+     "id": "2C1E2E17-38F5-5560-A496-688950C5C4A6",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "Yes. Everyone who appears on camera signed a release form. There was one trader, who sells fish, who agreed at first but then changed his mind after we'd filmed him. He was worried about what his landlord might think."
+    },
+    {
+     "id": "08BCDA63-9D5D-5BC4-BA55-CA064D5670D2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What did you do?"
+    },
+    {
+     "id": "E737BC6B-8B56-5650-B837-4B284FE292A1",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "We took him out of the film completely. It was a shame, because he was very funny, but we felt we had to respect his decision."
+    },
+    {
+     "id": "28AB4485-906F-505D-A04E-44E12B236703",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Quite right. You must never use footage of someone who's withdrawn their consent. Now, how have you structured the film?"
+    },
+    {
+     "id": "7DF41B40-C928-5E9B-AF91-5C4EA41C4AF4",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "At the moment, it's in chronological order. It starts with the history of the market, using old photographs from the local museum, and then moves on to the present day, and finally the plans for the future."
+    },
+    {
+     "id": "5094582D-9AAB-55F4-B281-A62E55BE9B89",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's logical, but it's not very gripping. I'd suggest you open with your strongest character, someone the audience will immediately care about, and bring in the history later, briefly. Who's the most memorable person you interviewed?"
+    },
+    {
+     "id": "69E70C48-AC5F-509D-84BF-46EA0F762495",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "Probably Mrs Okoye, who's run a fabric stall for over forty years. She's got amazing stories."
+    },
+    {
+     "id": "BC731344-F475-5EF0-8453-E54027F41776",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then start with her. How long is the film at the moment?"
+    },
+    {
+     "id": "8A96FA87-FDA5-5777-93F6-272FEF1F8855",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "Our rough cut is eighteen minutes, and the limit for the assignment is ten."
+    },
+    {
+     "id": "7C4D212B-0A89-50B4-855C-2B3D676D0827",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So you'll need to lose almost half of it. That's painful, but it almost always improves a film. I'd start by cutting down the history section, because that's where it drags most. And what about music?"
+    },
+    {
+     "id": "A191BCED-CA36-5648-9176-8A0786375F9C",
+     "speaker": "Ravi",
+     "accent": "en-AU",
+     "text": "We wanted to use a famous song, but we found out we'd need to pay for the rights. So we asked a local band who play at the market on Saturdays, and they gave us permission to use two of their tracks for free."
+    },
+    {
+     "id": "A5B63FE8-27AA-57FE-902E-FDF75CC68A8F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's perfect, and it suits the subject. Make sure you get that permission in writing and credit them at the end. Right, I'd like to see the new version in two weeks."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice18-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students choose Eastgate Market for their documentary?",
+     "explanation": "The market may soon be redeveloped.",
+     "evidenceQuote": "the council's planning to redevelop the whole area",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its history is well known.",
+      "B. Its future is uncertain.",
+      "C. Their families work there."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Its future is uncertain.",
+      "Its future is uncertain."
+     ]
+    },
+    {
+     "id": "practice18-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did they film the general market scenes with phones?",
+     "explanation": "People acted naturally in front of a phone.",
+     "evidenceQuote": "Mainly because people behaved much more naturally.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People acted more naturally.",
+      "B. The picture quality was better.",
+      "C. The department camera was unavailable."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People acted more naturally.",
+      "People acted more naturally."
+     ]
+    },
+    {
+     "id": "practice18-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about sound in films?",
+     "explanation": "Poor sound loses audiences.",
+     "evidenceQuote": "they'll stop watching very quickly if they can't hear what people are saying",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is less important than the picture.",
+      "B. It can be fixed during editing.",
+      "C. Viewers accept poor sound less than poor pictures."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Viewers accept poor sound less than poor pictures.",
+      "Viewers accept poor sound less than poor pictures."
+     ]
+    },
+    {
+     "id": "practice18-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What did the students do about the fish seller?",
+     "explanation": "He was removed after withdrawing consent.",
+     "evidenceQuote": "We took him out of the film completely.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They removed him from the film.",
+      "B. They hid his face.",
+      "C. They asked his landlord for permission."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They removed him from the film.",
+      "They removed him from the film."
+     ]
+    },
+    {
+     "id": "practice18-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "How does the tutor suggest the film should begin?",
+     "explanation": "Start with the most memorable person.",
+     "evidenceQuote": "open with your strongest character",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. with old photographs of the market",
+      "B. with a memorable trader",
+      "C. with the plans for redevelopment"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. with a memorable trader",
+      "with a memorable trader"
+     ]
+    },
+    {
+     "id": "practice18-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "Which part of the film does the tutor suggest cutting first?",
+     "explanation": "The history section drags most.",
+     "evidenceQuote": "I'd start by cutting down the history section",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the interviews",
+      "B. the music",
+      "C. the history"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the history",
+      "the history"
+     ]
+    },
+    {
+     "id": "practice18-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Interviews filmed early in the __________ before the market opened",
+     "explanation": "Mornings were quiet.",
+     "evidenceQuote": "we filmed all the interviews early in the morning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "morning"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Everyone filmed signed a release __________",
+     "explanation": "They signed release forms.",
+     "evidenceQuote": "Everyone who appears on camera signed a release form.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "form"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Length of rough cut: __________ minutes",
+     "explanation": "The rough cut is eighteen minutes.",
+     "evidenceQuote": "Our rough cut is eighteen minutes",
+     "skillTag": "numbers",
+     "distractorNote": "Ten minutes is the assignment limit.",
+     "options": [],
+     "acceptedAnswers": [
+      "18",
+      "eighteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Music provided free by a local __________",
+     "explanation": "A local band gave permission.",
+     "evidenceQuote": "we asked a local band who play at the market on Saturdays",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "band"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "rough cut",
+    "release form",
+    "footage",
+    "clip-on microphone",
+    "copyright"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice18-lp4",
+   "partNumber": 4,
+   "title": "A short history of animation",
+   "contextDescription": "A lecture in a film studies course on how animated films developed from optical toys to computer animation.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5DAE85EE-2202-5EF8-9A17-82F8ED29154D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning, everyone. Today we're going to look at the history of animation, from simple nineteenth-century toys to the computer-animated films that dominate cinema screens today. The word animation comes from the Latin anima, meaning breath, soul or life, and that's exactly what animators do: they bring drawings and objects to life."
+    },
+    {
+     "id": "0DB9A396-2E21-533C-B9E5-75AF03B652F2",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "All film, whether animated or not, depends on the same trick. When we see a series of still images in quick succession, our brains combine them into continuous movement. In the nineteenth century, this was exploited in a number of optical toys. One of the most popular was the zoetrope, a drum with a series of pictures on the inside. When you spun the drum and looked through slits in its side, the pictures appeared to move. These toys were very popular in Victorian homes, but each one could only show a loop of a second or two."
+    },
+    {
+     "id": "9875BFF3-E733-5EB2-BC67-EADA0A788159",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Once cinema was invented in the 1890s, it wasn't long before people began drawing films. A French artist, Émile Cohl, made a film called Fantasmagorie in 1908, which is often described as the first fully animated film. It lasts less than two minutes, but it required around seven hundred drawings, and its simple white figures on a black background constantly change into other shapes."
+    },
+    {
+     "id": "AA378060-FF25-5F74-8B05-F9039E6F16A5",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the United States, the cartoonist Winsor McCay made Gertie the Dinosaur in 1914. McCay used to present the film as part of a live show: he would appear on stage and give instructions to Gertie, who appeared to obey him. Audiences loved it, and it showed that animated characters could have real personality."
+    },
+    {
+     "id": "668C825D-F655-5790-8ECC-30EFD17994BD",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Drawing every part of every picture, though, was extremely slow. The solution, which was developed in the middle of the 1910s, was the cel. Cels were transparent sheets of celluloid on which the moving characters were painted. They were laid over a background, so the background only had to be drawn once for each scene, while the characters were redrawn on new cels for each frame. This system made it possible to produce cartoons on an industrial scale, and it remained the standard method for most of the twentieth century."
+    },
+    {
+     "id": "D2FDC4B9-9DA2-5E49-9A6C-AB55CDDBC72B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The studio most associated with cel animation is, of course, Walt Disney's. In 1928, Disney released Steamboat Willie, starring Mickey Mouse, which was one of the first cartoons with synchronised sound. Then, in 1937, came Snow White and the Seven Dwarfs, the first full-length cel-animated feature film. Many people in Hollywood expected it to fail, and while it was being made, it was nicknamed Disney's Folly. In fact, it was an enormous success and proved that audiences would sit through an animated story lasting well over an hour."
+    },
+    {
+     "id": "C7CAB73B-0C1B-54B1-945F-1349892682B9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Just to give you an idea of the work involved: film is normally projected at twenty-four frames per second. Animators often draw a new image for every two frames, which means twelve drawings for every second of film. A feature film could therefore need well over a hundred thousand drawings."
+    },
+    {
+     "id": "E2FF8BD4-28C2-5741-8CC7-66EF3C91027D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Alongside drawn animation, another technique developed, called stop-motion. Here, real objects are photographed one frame at a time, and moved slightly between each frame. One famous early example is King Kong, made in 1933, in which the giant ape was in fact a set of small models. Later, studios such as Aardman in Britain became famous for stop-motion films using plasticine characters, like Wallace and Gromit. It's incredibly slow work: on a good day, an animator might produce only a few seconds of film."
+    },
+    {
+     "id": "29D4E45D-CC5D-50EF-92A7-8D8ED81A6534",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The biggest change of all came with computers. Computer graphics had been used for short sequences since the 1970s and 1980s, but in 1995 Pixar released Toy Story, the first feature film made entirely with computers. Instead of drawing each frame, animators built three-dimensional digital models of the characters and moved them, rather like puppets, while the computer calculated the final images. Today, computer animation dominates the industry, although many animators still begin by sketching their ideas on paper, and hand-drawn and stop-motion films continue to be made and to win awards. Next week, we'll look at the animation industry in Japan."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice18-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "In a zoetrope, pictures were viewed through __________ in a spinning drum",
+     "explanation": "Viewers looked through slits.",
+     "evidenceQuote": "looked through slits in its side",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "slits"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Fantasmagorie (1908) needed around 700 __________",
+     "explanation": "About 700 drawings were needed.",
+     "evidenceQuote": "it required around seven hundred drawings",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "drawings"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "McCay appeared on __________ and gave instructions to Gertie",
+     "explanation": "McCay performed live on stage.",
+     "evidenceQuote": "he would appear on stage and give instructions to Gertie",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stage"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Cels were transparent sheets of __________",
+     "explanation": "Cels were made of celluloid.",
+     "evidenceQuote": "Cels were transparent sheets of celluloid",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "celluloid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "With cels, each background only had to be drawn __________",
+     "explanation": "Backgrounds were drawn once.",
+     "evidenceQuote": "the background only had to be drawn once for each scene",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "once"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Steamboat Willie was one of the first cartoons with synchronised __________",
+     "explanation": "It had synchronised sound.",
+     "evidenceQuote": "one of the first cartoons with synchronised sound",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sound"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Snow White was nicknamed Disney's __________ while being made",
+     "explanation": "People called it Disney's Folly.",
+     "evidenceQuote": "it was nicknamed Disney's Folly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Folly"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "In King Kong, the ape was really a set of small __________",
+     "explanation": "Models were used.",
+     "evidenceQuote": "the giant ape was in fact a set of small models",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "models"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Aardman characters are made of __________",
+     "explanation": "Aardman uses plasticine.",
+     "evidenceQuote": "stop-motion films using plasticine characters",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plasticine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Pixar animators moved 3D digital models rather like __________",
+     "explanation": "The models are moved like puppets.",
+     "evidenceQuote": "moved them, rather like puppets",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "puppets"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "frame",
+    "zoetrope",
+    "cel",
+    "stop-motion",
+    "feature film"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice18-rp1",
+   "passageNumber": 1,
+   "title": "Capturing light: the birth of photography",
+   "discipline": "History of Photography",
+   "paragraphs": [
+    "The principle of the camera obscura, Latin for 'dark room', had been known since ancient times. When light passes through a small hole into a darkened space, an upside-down image of the scene outside appears on the opposite wall. By the eighteenth century, portable versions in the form of wooden boxes with lenses were widely used by artists as an aid to drawing. But the image they produced vanished as soon as the light changed or the box was moved. The challenge facing inventors in the early nineteenth century was not to form an image, but to find a way of fixing it permanently.",
+    "The first person to succeed was a French inventor, Nicéphore Niépce. In the mid-1820s he coated a pewter plate with bitumen, a substance that hardens when exposed to light, and placed it in a camera obscura at an upstairs window of his family home in Burgundy. After an exposure that probably lasted at least eight hours, and possibly several days, he washed away the bitumen that had not hardened, leaving a faint image of buildings and a tree. The result, now known as View from the Window at Le Gras and generally dated to 1826 or 1827, is the oldest surviving photograph taken with a camera.",
+    "In 1829 Niépce formed a partnership with Louis Daguerre, a theatre designer who was famous in Paris for his huge painted spectacles known as dioramas. Niépce died in 1833, but Daguerre continued the work and discovered that a silver-coated copper plate, made sensitive to light with iodine, could record an image in minutes rather than hours. The image was then developed with mercury vapour and fixed with a salt solution. In 1839, the French government acquired the rights to the process and presented it as a gift to the world. The daguerreotype caused a sensation. Its images were astonishingly detailed, but each one was unique: it could not be copied, and it had to be held at an angle to be seen properly.",
+    "Across the Channel, the English scientist William Henry Fox Talbot had been working on a quite different method. Talbot made images on paper treated with silver salts, and in 1841 he patented an improved process called the calotype. Its great advantage was that it produced a negative, in which light and dark were reversed, from which any number of positive prints could be made. The pictures were less sharp than daguerreotypes, because the fibres of the paper blurred the finest details, but the principle of the negative would dominate photography for the next century and a half.",
+    "Talbot's friend, the astronomer John Herschel, made several important contributions to the new art. He had discovered as early as 1819 that a chemical now known as sodium thiosulphate could dissolve silver salts, and in 1839 he suggested using it to fix photographic images, removing the silver that had not been exposed to light. The same method is still used by photographers who develop film today. Herschel also popularised the word 'photography', from the Greek for 'drawing with light', and introduced the terms 'negative' and 'positive'.",
+    "In 1851, another Englishman, Frederick Scott Archer, introduced the wet collodion process, in which a sticky chemical solution was spread on a sheet of glass. It combined the sharpness of the daguerreotype with the ability of the calotype to produce many prints, and exposures took only a few seconds. Its disadvantage was that each plate had to be coated, exposed and developed while it was still wet, so photographers working outdoors had to carry portable darkrooms with them. When Roger Fenton photographed the Crimean War in 1855, for example, he travelled with a converted van that served as his darkroom.",
+    "Photography remained a specialist activity until an American businessman, George Eastman, introduced the Kodak camera in 1888. It came loaded with a roll of flexible film long enough for one hundred pictures. When the film was finished, the owner sent the whole camera back to the company, which developed and printed the pictures and returned the camera loaded with new film. The advertising slogan summed up the idea: 'You press the button, we do the rest.' In 1900, the company introduced the Brownie, a simple cardboard box camera that sold for just one dollar and was aimed partly at children.",
+    "Within little more than seventy years, then, photography had changed from an experiment requiring hours of exposure into something that almost anyone could do. Its effect on society was profound. It changed the way news was reported, how families remembered their past and how scientists recorded the natural world. It also forced painters to reconsider their role: if a machine could record appearances accurately, perhaps art should do something else. Some historians see this as one of the forces that led towards Impressionism and, eventually, to abstract art."
+   ],
+   "questions": [
+    {
+     "id": "practice18-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The camera obscura was first developed in the eighteenth century.",
+     "explanation": "It was known in ancient times.",
+     "evidenceQuote": "had been known since ancient times",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice18-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Niépce produced his famous image on a sheet of glass.",
+     "explanation": "He used a pewter plate.",
+     "evidenceQuote": "he coated a pewter plate with bitumen",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice18-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Daguerre had a background in the theatre.",
+     "explanation": "Daguerre designed for the theatre.",
+     "evidenceQuote": "a theatre designer who was famous in Paris",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice18-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Niépce earned a great deal of money from his partnership with Daguerre.",
+     "explanation": "Nothing is said about Niépce's earnings.",
+     "evidenceQuote": "In 1829 Niépce formed a partnership with Louis Daguerre",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice18-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "A daguerreotype could be reproduced many times.",
+     "explanation": "Each daguerreotype was unique.",
+     "evidenceQuote": "it could not be copied",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice18-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Talbot was upset when he heard about Daguerre's process.",
+     "explanation": "Talbot's feelings are not mentioned.",
+     "evidenceQuote": "had been working on a quite different method",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice18-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Herschel's method of fixing images is still in use.",
+     "explanation": "It is still used today.",
+     "evidenceQuote": "The same method is still used by photographers who develop film today.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice18-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Niépce used bitumen, which hardens when exposed to __________",
+     "explanation": "Bitumen hardens in light.",
+     "evidenceQuote": "a substance that hardens when exposed to light",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "light"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Daguerre developed his images with __________ vapour",
+     "explanation": "Mercury vapour developed the image.",
+     "evidenceQuote": "developed with mercury vapour",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mercury"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Calotypes were less sharp because of the paper's __________",
+     "explanation": "Paper fibres blurred details.",
+     "evidenceQuote": "because the fibres of the paper blurred the finest details",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fibres"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Wet collodion: outdoor photographers needed portable __________",
+     "explanation": "Plates had to be developed while wet.",
+     "evidenceQuote": "had to carry portable darkrooms with them",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "darkrooms"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "The Brownie was a box camera made of __________",
+     "explanation": "The Brownie was cardboard.",
+     "evidenceQuote": "a simple cardboard box camera",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cardboard"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Photography may have helped lead painters towards __________",
+     "explanation": "Some link it to Impressionism.",
+     "evidenceQuote": "led towards Impressionism",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Impressionism"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 804,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice18-rp2",
+   "passageNumber": 2,
+   "title": "When the movies learned to talk",
+   "discipline": "Film History",
+   "paragraphs": [
+    "For the first thirty years of their existence, films were silent, but cinemas were not. Most screenings were accompanied by live music, ranging from a single pianist in a small-town hall to a full orchestra in a big city picture palace. Some cinemas employed specialists to produce sound effects, and in Japan, performers known as benshi stood beside the screen, narrating the story and voicing the characters. Silent films had developed their own sophisticated language of gesture, close-up and written intertitles, and many directors regarded the medium as a complete art form in its own right.",
+    "Inventors had tried to combine moving pictures with recorded sound almost from the beginning; Thomas Edison's company experimented with the idea in the 1890s. The difficulty was twofold. First, the sound had to be kept precisely in time with the pictures, so that the words matched the movement of the actors' lips. Second, it had to be loud enough to fill a large auditorium, which was impossible before the development of electronic amplification in the 1910s and 1920s.",
+    "By the mid-1920s, two competing solutions had emerged. In the sound-on-disc system, the sound was recorded on large gramophone records that were played alongside the film; Warner Bros. adopted this approach under the name Vitaphone. In the sound-on-film system, the sound was printed as an optical track along the edge of the film itself, which made it much easier to keep sound and picture together, even if the film broke and had to be repaired. Although Warner Bros.' early success gave sound-on-disc a head start, sound-on-film proved more reliable and had replaced it within a few years.",
+    "The film usually credited with launching the sound era is The Jazz Singer, released by Warner Bros. in October 1927. It was not, in fact, a fully talking picture. Most of it was silent with recorded musical accompaniment, but it included several songs and a few passages of spoken dialogue performed by its star, Al Jolson. Audiences were thrilled to hear him speak, especially his line 'You ain't heard nothin' yet!' The film was a great commercial success, and the first all-talking feature film, Lights of New York, followed in 1928.",
+    "The change that followed was remarkably fast. Cinema owners rushed to install sound equipment, and within about three years almost all new Hollywood films had soundtracks. The cost was considerable, and the change came at a difficult moment, as the economic depression that began in 1929 was about to reduce cinema attendance. The transformation also had human victims. Thousands of musicians who had played in cinemas lost their jobs, and although musicians' unions in the United States campaigned against recorded music, they could not stop the change.",
+    "Early sound also created new artistic problems. Cameras were noisy, so they had to be shut inside soundproof booths, which made it difficult to move them. Microphones were insensitive, so actors had to stand close to them, and they were often hidden in vases of flowers or lamps on the set. As a result, many early talkies feel static and stagey compared with the fluid camera work of the late silent period. It took several years, and inventions such as the boom microphone and quieter cameras, before directors regained their freedom.",
+    "The arrival of sound affected actors in different ways. Stars whose voices did not match their screen image, or who had strong foreign accents, sometimes found their careers in decline, although historians now believe that this was less common than legend suggests, and that changing tastes and studio politics also played a part. Meanwhile, performers trained in the theatre, who were used to speaking lines, were in great demand. The musical comedy Singin' in the Rain, made in 1952, famously exaggerated these difficulties for comic effect.",
+    "Sound also created problems for the international film trade. Silent films could be sold anywhere simply by translating their intertitles, but talking films were tied to a single language. Before dubbing and subtitling became common, studios sometimes filmed several versions of the same story in different languages; a Spanish-language version of Dracula, for instance, was shot in 1931 on the same sets as the English version, at night. Some film-makers resisted dialogue altogether. Charlie Chaplin, whose character the Tramp was loved around the world, continued to make films with music and sound effects but almost no dialogue, including City Lights in 1931 and Modern Times in 1936."
+   ],
+   "questions": [
+    {
+     "id": "practice18-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes two technical problems.",
+     "evidenceQuote": "The difficulty was twofold.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Two obstacles to overcome",
+      "Two obstacles to overcome"
+     ]
+    },
+    {
+     "id": "practice18-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C compares sound-on-disc and sound-on-film.",
+     "evidenceQuote": "two competing solutions had emerged",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Rival technologies",
+      "Rival technologies"
+     ]
+    },
+    {
+     "id": "practice18-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D is about The Jazz Singer.",
+     "evidenceQuote": "It was not, in fact, a fully talking picture.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A partial talkie that changed everything",
+      "A partial talkie that changed everything"
+     ]
+    },
+    {
+     "id": "practice18-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E covers the speed of change and lost jobs.",
+     "evidenceQuote": "The transformation also had human victims.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Rapid change and its victims",
+      "Rapid change and its victims"
+     ]
+    },
+    {
+     "id": "practice18-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F shows a loss of visual freedom.",
+     "evidenceQuote": "many early talkies feel static and stagey compared with the fluid camera work of the late silent period",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. A step backwards in style",
+      "A step backwards in style"
+     ]
+    },
+    {
+     "id": "practice18-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers actors who gained and lost.",
+     "evidenceQuote": "The arrival of sound affected actors in different ways.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Winners and losers among performers",
+      "Winners and losers among performers"
+     ]
+    },
+    {
+     "id": "practice18-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H is about language barriers.",
+     "evidenceQuote": "Sound also created problems for the international film trade.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. The challenge of selling films abroad",
+      "The challenge of selling films abroad"
+     ]
+    },
+    {
+     "id": "practice18-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What role did the benshi play in Japanese cinemas?",
+     "explanation": "They narrated and voiced the characters.",
+     "evidenceQuote": "narrating the story and voicing the characters",
+     "skillTag": "detail",
+     "options": [
+      "A. They played the piano.",
+      "B. They told the story and spoke for the characters.",
+      "C. They produced sound effects.",
+      "D. They translated intertitles."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They told the story and spoke for the characters.",
+      "They told the story and spoke for the characters."
+     ]
+    },
+    {
+     "id": "practice18-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What advantage of sound-on-film does the writer mention?",
+     "explanation": "The track stayed in step with the pictures.",
+     "evidenceQuote": "which made it much easier to keep sound and picture together",
+     "skillTag": "detail",
+     "options": [
+      "A. It was cheaper to produce.",
+      "B. It was the system Warner Bros. preferred.",
+      "C. It produced louder sound.",
+      "D. It kept sound and picture in step more easily."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It kept sound and picture in step more easily.",
+      "It kept sound and picture in step more easily."
+     ]
+    },
+    {
+     "id": "practice18-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What do historians now believe about stars whose careers ended with sound?",
+     "explanation": "It happened less than legend suggests.",
+     "evidenceQuote": "this was less common than legend suggests",
+     "skillTag": "detail",
+     "options": [
+      "A. Such cases were rarer than is often thought.",
+      "B. Most of them had foreign accents.",
+      "C. They moved to the theatre.",
+      "D. Singin' in the Rain described them accurately."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Such cases were rarer than is often thought.",
+      "Such cases were rarer than is often thought."
+     ]
+    },
+    {
+     "id": "practice18-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Silent films could be sold abroad just by translating their __________.",
+     "explanation": "Only intertitles needed translating.",
+     "evidenceQuote": "simply by translating their intertitles",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "intertitles"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice18-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Filling a large cinema with recorded sound required electronic __________.",
+     "explanation": "Amplification made sound loud enough.",
+     "evidenceQuote": "before the development of electronic amplification",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "amplification"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice18-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Directors regained their freedom with inventions such as quieter cameras and the __________.",
+     "explanation": "The boom microphone helped.",
+     "evidenceQuote": "inventions such as the boom microphone and quieter cameras",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boom microphone"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 733,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A partial talkie that changed everything",
+      "ii. Two obstacles to overcome",
+      "iii. Rival technologies",
+      "iv. A step backwards in style",
+      "v. Winners and losers among performers",
+      "vi. Rapid change and its victims",
+      "vii. The challenge of selling films abroad",
+      "viii. The arrival of colour",
+      "ix. Why silent films earned more"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice18-rp3",
+   "passageNumber": 3,
+   "title": "Will the cinema survive?",
+   "discipline": "Media & Cultural Economics",
+   "paragraphs": [
+    "Ever since the first audiences paid to watch moving pictures in the 1890s, the cinema has faced predictions of its death. Each new technology that brought moving images into the home, from television to video and now streaming services, was expected to empty the auditoriums. Yet cinemas are still with us, and some of the most successful films in history have been released in the last two decades. Understanding how cinemas survived earlier threats may help us to judge whether they can survive the current one.",
+    "The first and most damaging challenge came from television. In the United States, cinema attendance reached its highest levels in the 1940s, when a large proportion of the population went to the pictures every week. As television sets spread rapidly through American homes in the 1950s, attendance fell steeply, roughly halving between the late 1940s and the end of the decade, and thousands of cinemas closed. In Britain, admissions peaked in 1946 at more than 1.6 billion and then went into a long decline that lasted almost forty years.",
+    "Hollywood's response was to offer what the small black-and-white television screen could not: spectacle. Studios promoted widescreen formats such as CinemaScope, which was introduced in 1953 with the biblical epic The Robe, along with colour and stereo sound. There was also a brief craze for 3D films in the early 1950s, which faded within a couple of years, partly because audiences found the glasses uncomfortable. The format returned with far greater success in 2009, when James Cameron's Avatar became the highest-earning film ever made.",
+    "The next threat was home video. When video cassette recorders became widely available in the late 1970s and early 1980s, many in the film industry feared the worst. In 1982, Jack Valenti, the head of the Motion Picture Association of America, told the US Congress that the video recorder was to the film industry what the Boston Strangler was to a woman home alone. In fact, the opposite happened: sales and rentals of videos became one of the studios' largest sources of income, and the chance to watch films again at home seems, if anything, to have increased interest in seeing new ones at the cinema.",
+    "At the same time, cinemas themselves were changing. The multiplex, a single building containing many screens, spread across North America in the 1970s and 1980s. In Britain, where admissions fell to an all-time low in 1984, the first multiplex opened in Milton Keynes the following year. By offering a wide choice of films, convenient parking and comfortable seating, multiplexes helped to reverse the long decline in attendance in many countries.",
+    "Streaming presents a different kind of challenge. Netflix, which began as a DVD-by-post company, launched its streaming service in 2007, and it has since been joined by many competitors, some of them owned by the studios themselves. The COVID-19 pandemic accelerated the change. When cinemas around the world closed in 2020, several studios released major films directly online, or online and in cinemas on the same day. Even after cinemas reopened, the period during which a new film is shown only in cinemas, which had traditionally lasted around three months, became much shorter, often just a few weeks.",
+    "Supporters of the cinema argue that it offers something streaming cannot: a shared experience. Laughing or gasping together with strangers in a darkened room is, they say, fundamentally different from watching alone on a sofa, where phones and other distractions compete for attention. Cinemas have also diversified, showing live broadcasts of theatre, opera and sporting events, and offering luxury seating and better food to make a visit feel like a special occasion.",
+    "In my view, the cinema will survive, but not in the form that most of us grew up with. The habit of going to the cinema every week, which once sustained thousands of small local cinemas, is unlikely to return. Instead, people will go less often, choosing films they regard as events, and they will expect a higher-quality experience when they do. I suspect this will be good news for large spectacular productions and bad news for medium-budget dramas, which may increasingly be made only for streaming. That would be a real loss, because it is often these smaller films that take creative risks. Cinemas that show a broad range of films, and that are valued by their communities, deserve our support."
+   ],
+   "questions": [
+    {
+     "id": "practice18-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "was compared to a notorious criminal by a film industry leader",
+     "explanation": "Valenti compared the video recorder to the Boston Strangler.",
+     "evidenceQuote": "the video recorder was to the film industry what the Boston Strangler was to a woman home alone",
+     "skillTag": "matching_features",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. home video",
+      "home video"
+     ]
+    },
+    {
+     "id": "practice18-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "was first presented to audiences with a film based on the Bible",
+     "explanation": "CinemaScope began with The Robe.",
+     "evidenceQuote": "which was introduced in 1953 with the biblical epic The Robe",
+     "skillTag": "matching_features",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. widescreen formats",
+      "widescreen formats"
+     ]
+    },
+    {
+     "id": "practice18-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "achieved greater success when it returned decades later",
+     "explanation": "3D returned with Avatar.",
+     "evidenceQuote": "The format returned with far greater success in 2009",
+     "skillTag": "matching_features",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. 3D films",
+      "3D films"
+     ]
+    },
+    {
+     "id": "practice18-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "brought audiences back by offering many films under one roof",
+     "explanation": "Multiplexes offered choice in one building.",
+     "evidenceQuote": "By offering a wide choice of films, convenient parking and comfortable seating",
+     "skillTag": "matching_features",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the multiplex",
+      "the multiplex"
+     ]
+    },
+    {
+     "id": "practice18-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "reduced the time that new films are shown only in cinemas",
+     "explanation": "The cinema-only period shrank in the streaming era.",
+     "evidenceQuote": "became much shorter, often just a few weeks",
+     "skillTag": "matching_features",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. streaming services",
+      "streaming services"
+     ]
+    },
+    {
+     "id": "practice18-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Going to the cinema every week is likely to become popular again.",
+     "explanation": "The writer thinks the weekly habit will not return.",
+     "evidenceQuote": "is unlikely to return",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice18-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Cinema-goers will demand better conditions in future.",
+     "explanation": "People will expect higher quality.",
+     "evidenceQuote": "they will expect a higher-quality experience when they do",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice18-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Smaller films are often more willing to experiment.",
+     "explanation": "Smaller films take creative risks.",
+     "evidenceQuote": "it is often these smaller films that take creative risks",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice18-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Streaming companies will eventually stop paying for new films.",
+     "explanation": "The writer does not predict this.",
+     "evidenceQuote": "may increasingly be made only for streaming",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice18-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Cinemas that serve their local communities are not worth supporting.",
+     "explanation": "The writer says they deserve support.",
+     "evidenceQuote": "deserve our support",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice18-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "The first 3D craze ended partly because viewers disliked wearing the __________.",
+     "explanation": "The glasses were uncomfortable.",
+     "evidenceQuote": "audiences found the glasses uncomfortable",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "glasses"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Netflix started out sending DVDs by __________.",
+     "explanation": "It began as a DVD-by-post company.",
+     "evidenceQuote": "which began as a DVD-by-post company",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "post"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Supporters say the cinema provides a __________ experience that streaming lacks.",
+     "explanation": "Cinema is a shared experience.",
+     "evidenceQuote": "it offers something streaming cannot: a shared experience",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shared"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice18-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Cinemas now also show live broadcasts of theatre, opera and __________ events.",
+     "explanation": "Sporting events are broadcast too.",
+     "evidenceQuote": "live broadcasts of theatre, opera and sporting events",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sporting"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 727,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of developments below. Match each statement with the correct development, A–F.",
+     "options": [
+      "A. television",
+      "B. widescreen formats",
+      "C. 3D films",
+      "D. home video",
+      "E. the multiplex",
+      "F. streaming services"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice18-w1",
+  "title": "How adults watched films, 2005 and 2025",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts below show the main ways in which adults in one country watched films in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "83859F31-0EC7-547C-A294-818FE1FC9048",
+    "series": "2005",
+    "category": "Cinema",
+    "value": 22.0,
+    "unit": "%"
+   },
+   {
+    "id": "0446E9FE-29A8-5314-B5AC-FB3D6CE871C5",
+    "series": "2005",
+    "category": "Television broadcasts",
+    "value": 45.0,
+    "unit": "%"
+   },
+   {
+    "id": "17A4E5C2-5A9A-5A08-A667-0645DEB2D7BD",
+    "series": "2005",
+    "category": "DVD and video",
+    "value": 28.0,
+    "unit": "%"
+   },
+   {
+    "id": "0C927536-FFE2-5555-8D08-7C2453F9A914",
+    "series": "2005",
+    "category": "Streaming",
+    "value": 1.0,
+    "unit": "%"
+   },
+   {
+    "id": "4B1159EF-E910-5459-B320-569132FDE8D6",
+    "series": "2005",
+    "category": "Other",
+    "value": 4.0,
+    "unit": "%"
+   },
+   {
+    "id": "07F98BC9-6EF8-5FBB-A08F-4E5B332499CF",
+    "series": "2025",
+    "category": "Cinema",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "DB2657BC-AC27-5930-B847-3B4B886DEAF6",
+    "series": "2025",
+    "category": "Television broadcasts",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "107E840E-FEC6-50AE-97AF-2CF6F80BEF73",
+    "series": "2025",
+    "category": "DVD and video",
+    "value": 3.0,
+    "unit": "%"
+   },
+   {
+    "id": "180091DC-B233-5FDA-8F0F-B6B3F46A7B03",
+    "series": "2025",
+    "category": "Streaming",
+    "value": 66.0,
+    "unit": "%"
+   },
+   {
+    "id": "810A8584-DA09-5EB7-AF25-FF49837511ED",
+    "series": "2025",
+    "category": "Other",
+    "value": 4.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Streaming rose from almost nothing to become by far the most common way of watching films.",
+   "All the other main methods declined, especially television broadcasts and DVDs, while cinema roughly halved."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice18-w2",
+  "title": "Too many photographs?",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Technology & Culture",
+  "promptText": "Today, many people take hundreds of photographs with their phones every month but rarely look at them again. Why do people take so many photographs? Is this a positive or negative development?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice18-spk",
+  "theme": "Photographs and films",
+  "part1Questions": [
+   "Do you enjoy taking photographs? Why or why not?",
+   "What do you usually take pictures of?",
+   "Do you prefer watching films at home or at the cinema?",
+   "What kind of films did you like when you were a child?",
+   "Do you have any photographs on the walls of your home?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a film that you enjoyed watching recently.",
+   "bulletPoints": [
+    "what the film was called and what kind of film it was",
+    "where and who you watched it with",
+    "what it was about",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think some films become popular all over the world?",
+   "Should governments support their national film industries?",
+   "How has the smartphone changed the way people take and share photographs?",
+   "Do you think photographs in newspapers and online can always be trusted?",
+   "Will people still go to the cinema in twenty years' time?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and names are checked against standard reference sources; attendance figures are rounded.",
+   "The Writing Task 1 country and its figures are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

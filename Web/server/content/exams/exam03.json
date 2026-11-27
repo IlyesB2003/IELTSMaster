@@ -1,0 +1,2394 @@
+{
+ "id": "exam03",
+ "examNumber": 3,
+ "pool": "mock",
+ "title": "Mock Exam 3: Energy, Oceans & Innovation",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Energy, Oceans & Innovation",
+ "listeningParts": [
+  {
+   "id": "exam03-lp1",
+   "partNumber": 1,
+   "title": "Booking a sea-kayaking trip",
+   "contextDescription": "A woman phones a coastal activity centre to book a group kayaking trip.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "1F178B5A-E937-5491-8E7F-1FD7DC9F0AB9",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good afternoon, Harbourside Paddle Centre, this is Owen. How can I help you?"
+    },
+    {
+     "id": "CE43A4EE-2F51-554D-8401-600F3621C68E",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Oh, hello. I'm organising a day out for a group from my office and somebody recommended your sea-kayaking trips. I wondered if I could book one, or at least find out a bit more."
+    },
+    {
+     "id": "271523A6-20C3-5A25-96C0-A5AF7636DD28",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. We run two kinds of trip at the moment: the Bay Explorer, which stays inside the harbour wall, and the Cliff Coast trip, which goes out along the headland. Has anyone in your group paddled before?"
+    },
+    {
+     "id": "7073F6BE-100E-5E37-A786-3FFC694E2FDF",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Hardly anyone. Maybe two people have tried it on holiday, but the rest are complete beginners."
+    },
+    {
+     "id": "94A838AB-AC16-59F0-95CB-FBF24F179DA0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Then I'd definitely suggest the Bay Explorer. The water's calmer and the guides spend the first forty minutes on the beach teaching the basic strokes. The Cliff Coast trip is only for people who can already do a rescue."
+    },
+    {
+     "id": "AC2FAA2C-27F4-5468-A548-53C47DA7BB26",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "The Bay Explorer sounds right. How long does it last?"
+    },
+    {
+     "id": "2C4C16DC-F9DF-569B-9D51-C44AA16B7CC5",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It used to be a three-hour session, but since the spring we've made it four hours, because people kept asking for more time on the water. That includes a break for lunch on the island."
+    },
+    {
+     "id": "D970583F-C590-5EC1-A49E-4F494595581C",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Lovely. And what does it cost?"
+    },
+    {
+     "id": "07746D70-B898-54C3-A7A4-93F5E397C934",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It's forty-two pounds per person. Groups of ten or more get a discount, so it comes down to thirty-eight each."
+    },
+    {
+     "id": "06770237-A5E0-5993-AC0A-E2435F4A8B70",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "There'll be twelve of us, so that's good news. Can I take your details? Sorry, I mean, can I give you mine so you can make the booking?"
+    },
+    {
+     "id": "088CADE9-0A1F-5137-8721-D5C9B6454D4C",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, please. What's your name?"
+    },
+    {
+     "id": "BA766238-6370-5CB4-B284-00EAF037450F",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "It's Priya Venkat. That's V-E-N-K-A-T."
+    },
+    {
+     "id": "1D84937A-92CA-5EA7-ACB9-57CD70C3DF86",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And which date were you thinking of?"
+    },
+    {
+     "id": "B12F0B67-75B3-5785-BF90-D7D66A82C49A",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "We'd originally said Friday the fourteenth of June, but half the team are at a conference that day, so could we do Saturday the fifteenth instead?"
+    },
+    {
+     "id": "D6DEBC08-6F95-528B-AAC9-B3520BCB5399",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Let me check... yes, the fifteenth is fine. Morning or afternoon?"
+    },
+    {
+     "id": "CE89A235-1339-526B-98F1-4817C8937FA8",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Morning, I think. Then people can go home and rest."
+    },
+    {
+     "id": "E5E7F5E4-2FFF-5BA9-B011-3C8A2B7775E6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Sensible. Meet at nine-thirty, but please don't be late, because the tide sets our start time and we launch at ten o'clock exactly."
+    },
+    {
+     "id": "F85E8699-C378-502D-87E3-96F06BC7AA70",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Understood. Where exactly do we meet? Is it at your office on the high street?"
+    },
+    {
+     "id": "FE457371-53BE-537B-9F63-B9B2C9D9535F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "No, the office is just for bookings. You meet us at the boathouse, which is the green building at the end of Quay Road, next to the lifeboat station."
+    },
+    {
+     "id": "95B1B436-2923-53C7-8B35-E9B5CD343924",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Quay Road. Got it. What do people need to bring? I suppose you provide the kayaks."
+    },
+    {
+     "id": "2F48D615-F8B0-5B3E-9125-DBE8181533EA",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We provide kayaks, paddles, buoyancy aids and wetsuits. People should bring a towel, a change of clothes and some old trainers that they don't mind getting wet. Flip-flops aren't allowed because they come off in the water."
+    },
+    {
+     "id": "E1CCCB1C-F6E0-59A4-8D75-8A55E308532F",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Trainers, not flip-flops. And lunch?"
+    },
+    {
+     "id": "A8003742-CDE0-5D1E-92FB-CF035758219F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lunch is included in the price. It's a picnic from the café: sandwiches, fruit and a hot drink. If anyone has dietary requirements, just let us know at least a week before."
+    },
+    {
+     "id": "D39AAB4F-B252-5498-B97B-DA5744E19A59",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "One colleague is vegan, so I'll mention that now if that's all right."
+    },
+    {
+     "id": "AF6B22D5-766E-5966-8065-9E6CA904FF30",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's fine, I'll put a note on the booking. Now, is there anything else we should know about the group? Any medical conditions, for example?"
+    },
+    {
+     "id": "7A80544B-51E0-52CF-9F56-5893BC2C1C60",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Not that I know of. But one person is quite nervous about deep water."
+    },
+    {
+     "id": "75333CE5-44FB-5F7A-9DC4-034450DFAC56",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That happens a lot. We can put her in a double kayak with one of the guides, so she won't need to steer. Just tell her to talk to the lead guide when she arrives."
+    },
+    {
+     "id": "03EC0E63-7ED7-54AB-9CC9-B4921320DE3D",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "That's reassuring. How do I pay?"
+    },
+    {
+     "id": "3BE167A2-6E71-5FA7-B145-FDDEEEC267A8",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We take a deposit now to hold the date, and the rest on the day. The deposit is twenty per cent of the total."
+    },
+    {
+     "id": "D6201D21-801C-5287-BAE5-9D38DD2715CF",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Fine. And what happens if the weather's bad?"
+    },
+    {
+     "id": "75B3D297-2259-549D-A5AA-BCECFEEBC02E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "If the wind is too strong, we'll phone you by seven a.m. on the day and either move you to another date or give you a full refund. You don't lose anything."
+    },
+    {
+     "id": "F09545D2-04B3-5CF2-A396-2D33532198AF",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Perfect. And is there parking?"
+    },
+    {
+     "id": "99844702-70E6-53BA-ABD9-908E084D6541",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There's a pay-and-display car park behind the boathouse, but it fills up quickly on Saturdays in summer. A lot of groups share a minibus, or you can take the number 7 bus, which stops right outside."
+    },
+    {
+     "id": "854EBF30-C950-5373-B8EB-83B5204187DB",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I'll suggest the bus. Thank you so much, Owen, you've been really helpful."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam03-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Recommended trip: the Bay __________",
+     "explanation": "Owen recommends the Bay Explorer because most of the group are beginners; the Cliff Coast trip needs rescue skills.",
+     "evidenceQuote": "I'd definitely suggest the Bay Explorer",
+     "skillTag": "detail",
+     "distractorNote": "The Cliff Coast trip is mentioned first but is only for experienced paddlers.",
+     "options": [],
+     "acceptedAnswers": [
+      "Explorer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Length of session: __________ hours (including lunch)",
+     "explanation": "The session used to be three hours but is now four.",
+     "evidenceQuote": "since the spring we've made it four hours",
+     "skillTag": "distractor_correction",
+     "distractorNote": "\"Three-hour session\" is the old length.",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Price per person for the group: £__________",
+     "explanation": "Twelve people qualify for the group price of £38, not the standard £42.",
+     "evidenceQuote": "so it comes down to thirty-eight each",
+     "skillTag": "numbers",
+     "distractorNote": "£42 is the price for smaller groups.",
+     "options": [],
+     "acceptedAnswers": [
+      "38",
+      "thirty-eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Organiser's surname: __________",
+     "explanation": "The caller spells her surname letter by letter.",
+     "evidenceQuote": "It's Priya Venkat. That's V-E-N-K-A-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Venkat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Date of trip: Saturday __________ June",
+     "explanation": "The Friday was changed to Saturday the 15th because of a conference.",
+     "evidenceQuote": "could we do Saturday the fifteenth instead",
+     "skillTag": "dates",
+     "distractorNote": "Friday the 14th was the original plan.",
+     "options": [],
+     "acceptedAnswers": [
+      "15",
+      "15th",
+      "fifteenth",
+      "the fifteenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Launch time: __________ a.m.",
+     "explanation": "They meet at 9.30, but the kayaks launch at ten.",
+     "evidenceQuote": "we launch at ten o'clock exactly",
+     "skillTag": "numbers",
+     "distractorNote": "9.30 is the meeting time, not the launch time.",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "10:00",
+      "10.00",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Meeting place: the boathouse on __________ Road",
+     "explanation": "The office on the high street is only for bookings; groups meet at the boathouse on Quay Road.",
+     "evidenceQuote": "the green building at the end of Quay Road",
+     "skillTag": "distractor_correction",
+     "distractorNote": "The high street office is suggested by the caller and corrected.",
+     "options": [],
+     "acceptedAnswers": [
+      "Quay"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Bring: towel, change of clothes, old __________",
+     "explanation": "Old trainers are needed; flip-flops are not allowed.",
+     "evidenceQuote": "some old trainers that they don't mind getting wet",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "trainers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Special meal needed: one __________ lunch",
+     "explanation": "The caller mentions a vegan colleague so the café can prepare the picnic.",
+     "evidenceQuote": "One colleague is vegan",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "vegan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Deposit: __________ % of the total",
+     "explanation": "The deposit is 20 per cent; the rest is paid on the day.",
+     "evidenceQuote": "The deposit is twenty per cent of the total.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "deposit",
+    "wetsuit",
+    "beginner",
+    "minibus",
+    "dietary requirements"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam03-lp2",
+   "partNumber": 2,
+   "title": "Visiting the tidal energy centre",
+   "contextDescription": "A guide welcomes visitors to a tidal energy visitor centre and explains the site and the technology.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "54BDA26F-C608-5281-AEB4-BC680EBB150B",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Good morning, everyone, and welcome to the Strangford Point Tidal Energy Centre. My name's Aoife and I'll be looking after you for the next hour or so. Before we set off, I'd like to give you a quick idea of how the site is laid out, so please have a look at the plan in your leaflet."
+    },
+    {
+     "id": "D028F427-2363-51EF-B3DE-AB6F4A5E9E9C",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "We're standing in the entrance hall, at the bottom of the plan. Straight ahead of you, through the glass doors, is the main exhibition, and that's where we'll start. On your right as you came in, you'll have noticed the shop. Next to the shop, in the bottom right-hand corner, are the toilets and the lockers, if you want to leave your bags."
+    },
+    {
+     "id": "09C5173A-2FCF-507F-942A-F5FECF42EC66",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Now, the café. A lot of people expect it to be near the entrance, but in fact it's at the far end of the building, in the top left-hand corner, because it has the best view over the water. If you follow the corridor along the left-hand side past the lecture theatre, you'll come to it."
+    },
+    {
+     "id": "5C51035B-440E-543B-86FD-80B660DAA40C",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The lecture theatre itself is the large room on the left, between the entrance hall and the café. We'll be showing a short film there at eleven. The control room, which is the heart of the whole operation, is in the middle of the building, directly behind the exhibition. You can't go inside, I'm afraid, but there's a window along the corridor where you can watch the engineers at work."
+    },
+    {
+     "id": "930340DB-E98B-54EC-BEEC-BC4C379CAEF7",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, the viewing platform. To reach it, go through the door at the end of the exhibition on the right-hand side and climb the outside stairs. The platform sits right at the top right-hand corner of the site, above the sea wall, and from there you can see the marker buoys that show where the turbines are."
+    },
+    {
+     "id": "C85BEC83-DDDE-55F5-A368-2B5318B71FD0",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "So, a few words about the centre itself. Many visitors assume the turbines produce electricity only when the tide is coming in. In fact, the blades can turn in either direction, so they generate power on the incoming tide and the outgoing tide. The only times they stop are the short periods at high water and low water, when the current is too slow."
+    },
+    {
+     "id": "98528B75-6C43-5B1B-9121-C628733C0EA5",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "People also ask why we chose this spot. Wave height isn't really the issue for tidal power, and the water here isn't especially deep. What makes Strangford Point special is the narrow channel: when the tide pushes a huge volume of water through a gap this small, the current speeds up enormously, and fast water is what a turbine needs."
+    },
+    {
+     "id": "2A4B8F0E-4899-52B5-AE27-F1A7BC5F283D",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "There are currently six turbines on the seabed, each about the height of a three-storey house. Together, on an average day, they supply enough electricity for around four thousand homes. That's less than a large wind farm, of course, but the advantage is that we know exactly when the tides will come, years in advance. Wind and sunshine can't be predicted like that, so the grid operator values our output highly."
+    },
+    {
+     "id": "8EA411D4-2F3E-515A-8D11-1FA30490E03E",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Of course, there are concerns. When the project began, local fishermen were worried that the turbines would harm fish and seals. So, for the first three years, an independent team from the university fitted cameras and sonar to the turbines. They found that seals tended to avoid the blades completely, and there was no measurable fall in fish numbers. Monitoring still continues, but on a smaller scale."
+    },
+    {
+     "id": "E1243233-23F6-5013-84CA-7500E69D3795",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The biggest challenge has actually been maintenance. Saltwater is very hard on machinery, and divers can only work safely during the slack water I mentioned, which might be just forty minutes. So the newer turbines are designed so that the whole unit can be lifted out of the water by a ship and repaired in the harbour. That's far cheaper and safer than sending divers down."
+    },
+    {
+     "id": "99FABF48-3495-5D4F-8C74-7EB441DCFDDA",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "And what about the future? The company would like to add more turbines, but before that happens, the cable that takes the electricity to shore needs to be replaced with a larger one. That work is planned for next year. Right, let's go through to the exhibition."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam03-L11",
+     "number": 11,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Shop",
+     "explanation": "The shop is on the right of the entrance hall, next to the toilets in the bottom right corner.",
+     "evidenceQuote": "On your right as you came in, you'll have noticed the shop",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "exam03-L12",
+     "number": 12,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Café",
+     "explanation": "The café is at the far end, top left, with the view over the water.",
+     "evidenceQuote": "it's at the far end of the building, in the top left-hand corner",
+     "skillTag": "map_labelling",
+     "distractorNote": "Many people expect it near the entrance.",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A",
+      "A"
+     ]
+    },
+    {
+     "id": "exam03-L13",
+     "number": 13,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Lecture theatre",
+     "explanation": "It is on the left side between the entrance hall and the café.",
+     "evidenceQuote": "The lecture theatre itself is the large room on the left, between the entrance hall and the café",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam03-L14",
+     "number": 14,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Control room",
+     "explanation": "The control room is central, behind the exhibition.",
+     "evidenceQuote": "is in the middle of the building, directly behind the exhibition",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam03-L15",
+     "number": 15,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Viewing platform",
+     "explanation": "The platform is at the top right, reached by outside stairs.",
+     "evidenceQuote": "right at the top right-hand corner of the site, above the sea wall",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam03-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "The turbines at Strangford Point generate electricity",
+     "explanation": "The blades turn both ways, so power is produced on both tides; they stop only at slack water.",
+     "evidenceQuote": "so they generate power on the incoming tide and the outgoing tide",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Many visitors assume only the incoming tide; high and low water are when they stop.",
+     "options": [
+      "A. only when the tide is coming in.",
+      "B. only at high and low water.",
+      "C. as the tide comes in and goes out."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. as the tide comes in and goes out.",
+      "as the tide comes in and goes out."
+     ]
+    },
+    {
+     "id": "exam03-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "The site was chosen mainly because of",
+     "explanation": "The narrow channel speeds up the current.",
+     "evidenceQuote": "What makes Strangford Point special is the narrow channel",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Wave height and depth are both dismissed.",
+     "options": [
+      "A. the height of the waves.",
+      "B. the shape of the channel.",
+      "C. the depth of the water."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the shape of the channel.",
+      "the shape of the channel."
+     ]
+    },
+    {
+     "id": "exam03-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "According to the guide, the main advantage of tidal power is that it is",
+     "explanation": "Tides can be predicted years ahead, unlike wind and sun.",
+     "evidenceQuote": "we know exactly when the tides will come, years in advance",
+     "skillTag": "multiple_choice",
+     "distractorNote": "It supplies about 4,000 homes, less than a large wind farm.",
+     "options": [
+      "A. predictable.",
+      "B. cheaper than wind power.",
+      "C. able to supply a large city."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. predictable.",
+      "predictable."
+     ]
+    },
+    {
+     "id": "exam03-L19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "What did the university study find?",
+     "explanation": "Seals avoided the blades and fish numbers did not fall.",
+     "evidenceQuote": "seals tended to avoid the blades completely, and there was no measurable fall in fish numbers",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Fishermen were catching fewer fish.",
+      "B. Seals were attracted to the turbines.",
+      "C. Wildlife was not seriously affected."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Wildlife was not seriously affected.",
+      "Wildlife was not seriously affected."
+     ]
+    },
+    {
+     "id": "exam03-L20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What must happen before more turbines are added?",
+     "explanation": "A larger cable to shore is needed first.",
+     "evidenceQuote": "the cable that takes the electricity to shore needs to be replaced with a larger one",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. New maintenance ships must be bought.",
+      "B. A bigger cable must be installed.",
+      "C. Divers must be trained."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A bigger cable must be installed.",
+      "A bigger cable must be installed."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "turbine",
+    "tidal range",
+    "seabed",
+    "viewing platform",
+    "grid"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Label the plan below. Write the correct letter, A–H, next to Questions 11–15.",
+     "map": {
+      "cols": 3,
+      "rows": 4,
+      "cells": [
+       [
+        0,
+        0,
+        1,
+        1,
+        "A"
+       ],
+       [
+        1,
+        0,
+        1,
+        1,
+        "Sea wall"
+       ],
+       [
+        2,
+        0,
+        1,
+        1,
+        "C"
+       ],
+       [
+        0,
+        1,
+        1,
+        1,
+        "D"
+       ],
+       [
+        1,
+        1,
+        1,
+        1,
+        "B"
+       ],
+       [
+        2,
+        1,
+        1,
+        1,
+        "E"
+       ],
+       [
+        0,
+        2,
+        1,
+        1,
+        "F"
+       ],
+       [
+        1,
+        2,
+        1,
+        1,
+        "Exhibition"
+       ],
+       [
+        2,
+        2,
+        1,
+        1,
+        "H"
+       ],
+       [
+        0,
+        3,
+        1,
+        1,
+        "Corridor"
+       ],
+       [
+        1,
+        3,
+        1,
+        1,
+        "Entrance hall"
+       ],
+       [
+        2,
+        3,
+        1,
+        1,
+        "G"
+       ]
+      ],
+      "note": "Toilets and lockers are beside G. The sea is at the top of the plan."
+     }
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Choose the correct letter, A, B or C."
+    }
+   ]
+  },
+  {
+   "id": "exam03-lp3",
+   "partNumber": 3,
+   "title": "Planning a microplastics project",
+   "contextDescription": "Two marine science students, Leon and Hana, discuss their research project with their tutor, Dr Morris.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "C5330D4A-39CA-5F17-B26E-65EF8F7544B5",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Come in, both of you. So, you've been working on the outline for your microplastics project. How's it going?"
+    },
+    {
+     "id": "119E2129-29F4-558B-BFBC-09487E226927",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "Pretty well, I think. We've decided to compare the amount of microplastics in sand at two beaches: the town beach near the river mouth and the beach at Kelly Bay, which is much more remote."
+    },
+    {
+     "id": "F669695C-7207-5D09-A931-959D51E3CDA4",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "That's a nice clear comparison. What do you expect to find?"
+    },
+    {
+     "id": "7967AB85-9FB3-5BD1-AAE9-1B913486252C",
+     "speaker": "Leon",
+     "accent": "en-GB",
+     "text": "Well, my first thought was that the town beach would have far more, because of all the visitors. But Hana pointed out that the river probably matters more than the tourists. A lot of plastic fibres come from washing machines, and they travel down the river into the sea."
+    },
+    {
+     "id": "3D08967F-DA6D-5174-9DB1-475D4170FF04",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Good. So your hypothesis is about the river rather than the beach users. Make sure that's stated clearly in your introduction. Now, how are you planning to collect the samples?"
+    },
+    {
+     "id": "F3A61444-8DB4-55FE-B7E4-A51FB31FC7FA",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "We'll mark out squares on the beach, half a metre on each side, and take the top five centimetres of sand from each one. We were going to sample just along the high-tide line, where you can actually see rubbish collecting."
+    },
+    {
+     "id": "C8424F7D-BE43-551C-8761-D916A8813801",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Hmm. The trouble is that the high-tide line changes from day to day. I'd suggest you take samples at three distances from the water instead: the high-tide line, the middle of the beach and the back near the dunes. Then you can see whether the particles are spread evenly."
+    },
+    {
+     "id": "607A41B6-3CF3-5B97-9AFC-E85CD06351E5",
+     "speaker": "Leon",
+     "accent": "en-GB",
+     "text": "That would triple the number of samples, though. Is that realistic?"
+    },
+    {
+     "id": "8E95C54C-D13D-56EA-9CFE-559866D6CECF",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "If you cut the number of squares at each distance from ten to five, it's about the same amount of work. And you'll have a much more interesting result."
+    },
+    {
+     "id": "3B31A9C0-575B-5735-8104-F032912CA5D3",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "Okay, that makes sense. The other thing we wanted to ask about was contamination. We've read that people's clothes can shed fibres into the samples."
+    },
+    {
+     "id": "6E244B23-F48F-5E7E-B2CA-BFE659691695",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Yes, it's a real problem in this field. The simplest solution is to wear cotton lab coats and leave a clean dish of filtered water open beside you while you work. Anything that lands in that dish tells you how much contamination there is, and you can subtract it from your results."
+    },
+    {
+     "id": "C7317F4B-23A8-5C00-A14D-51F2B4476AB8",
+     "speaker": "Leon",
+     "accent": "en-GB",
+     "text": "That's clever. We hadn't thought of measuring it rather than just trying to avoid it."
+    },
+    {
+     "id": "8A86D04C-EC2D-523A-8244-B2A62539379D",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Now, your reading. Which sources have you looked at so far?"
+    },
+    {
+     "id": "1215FBD8-A35E-5B33-A803-44B92B9685F6",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "Quite a few. The government report on coastal pollution was useful for background, but honestly, it's ten years old, so a lot of the figures are out of date."
+    },
+    {
+     "id": "6BCB4C38-1BEF-5870-80C2-D91DFF9E0ADE",
+     "speaker": "Leon",
+     "accent": "en-GB",
+     "text": "Then there's the Thompson study. I found it really useful because she explains her laboratory method step by step, so we could almost copy her procedure for separating plastics from sand."
+    },
+    {
+     "id": "B1AF6138-D5A3-5CF6-9505-5C5D9965CD5B",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "I wasn't so sure about Thompson. Her sample was very small, only two beaches, like ours. I preferred the review by Castillo, which brings together results from more than sixty studies around the world."
+    },
+    {
+     "id": "7DF448A4-1FBD-52BD-A3F7-F0778B98621A",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Castillo is excellent for comparison. You could use her figures to say whether your beaches are typical. What about the article in the newspaper you mentioned in your email?"
+    },
+    {
+     "id": "78FDDFF8-E1A1-5EAB-953C-D75F53808E8A",
+     "speaker": "Leon",
+     "accent": "en-GB",
+     "text": "Oh, that one. It had some striking photographs, but when I checked, the numbers it quoted didn't seem to come from any published research."
+    },
+    {
+     "id": "CCFD6D6E-94AE-57FE-B7B4-FA80A9213EF9",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Then leave it out. A newspaper can give you an idea, but it isn't evidence. And the citizen science website?"
+    },
+    {
+     "id": "1AB4B9C0-6AB0-5876-9C14-4C09274EE1D5",
+     "speaker": "Hana",
+     "accent": "en-US",
+     "text": "The Beach Watch site. Volunteers all over the country record what they find. The data isn't as precise as a lab study, but there's an enormous amount of it, and it's updated every month, so it's the most current source we have."
+    },
+    {
+     "id": "9B1D31FE-6ED9-5D54-85E2-B21A851665D7",
+     "speaker": "Dr Morris",
+     "accent": "en-GB",
+     "text": "Exactly. Use it, but explain its limitations. Right, I'd like a draft of your method section by next Thursday, please."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam03-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What is the students' main hypothesis?",
+     "explanation": "Hana argues the river carries fibres from washing machines; Dr Morris confirms the hypothesis is about the river.",
+     "evidenceQuote": "So your hypothesis is about the river rather than the beach users",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Leon's first idea about visitors was replaced.",
+     "options": [
+      "A. Tourists leave most plastic on the town beach.",
+      "B. The river is the main source of microplastics.",
+      "C. Remote beaches are cleaner than people think."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The river is the main source of microplastics.",
+      "The river is the main source of microplastics."
+     ]
+    },
+    {
+     "id": "exam03-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why does Dr Morris suggest sampling at three distances from the water?",
+     "explanation": "Sampling at three distances shows whether particles are spread evenly.",
+     "evidenceQuote": "Then you can see whether the particles are spread evenly",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to find out how the particles are distributed",
+      "B. to avoid the rubbish on the high-tide line",
+      "C. to increase the total number of samples"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to find out how the particles are distributed",
+      "to find out how the particles are distributed"
+     ]
+    },
+    {
+     "id": "exam03-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How will the students keep the workload manageable?",
+     "explanation": "Reducing squares from ten to five per distance keeps the work about the same.",
+     "evidenceQuote": "If you cut the number of squares at each distance from ten to five",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by sampling only one beach",
+      "B. by taking less sand from each square",
+      "C. by sampling fewer squares at each distance"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by sampling fewer squares at each distance",
+      "by sampling fewer squares at each distance"
+     ]
+    },
+    {
+     "id": "exam03-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "The dish of filtered water is used to",
+     "explanation": "The dish measures airborne contamination so it can be subtracted.",
+     "evidenceQuote": "Anything that lands in that dish tells you how much contamination there is",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. measure contamination during the work.",
+      "B. clean the sand samples.",
+      "C. store the plastic particles."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. measure contamination during the work.",
+      "measure contamination during the work."
+     ]
+    },
+    {
+     "id": "exam03-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does Leon think is surprising about the contamination advice?",
+     "explanation": "Leon is struck by the idea of measuring contamination instead of only avoiding it.",
+     "evidenceQuote": "We hadn't thought of measuring it rather than just trying to avoid it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. how expensive it is",
+      "B. that contamination can be measured",
+      "C. that cotton clothing is required"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. that contamination can be measured",
+      "that contamination can be measured"
+     ]
+    },
+    {
+     "id": "exam03-L26",
+     "number": 26,
+     "format": "Matching",
+     "prompt": "The government report",
+     "explanation": "Hana says the report is ten years old and the figures are out of date.",
+     "evidenceQuote": "it's ten years old, so a lot of the figures are out of date",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Its data is no longer current.",
+      "Its data is no longer current."
+     ]
+    },
+    {
+     "id": "exam03-L27",
+     "number": 27,
+     "format": "Matching",
+     "prompt": "The Thompson study",
+     "explanation": "Leon values it because the method is explained step by step.",
+     "evidenceQuote": "she explains her laboratory method step by step",
+     "skillTag": "matching_opinions",
+     "distractorNote": "Hana criticises the small sample, but no option in the box describes that.",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It describes a procedure clearly.",
+      "It describes a procedure clearly."
+     ]
+    },
+    {
+     "id": "exam03-L28",
+     "number": 28,
+     "format": "Matching",
+     "prompt": "The Castillo review",
+     "explanation": "Castillo combines results from more than sixty studies.",
+     "evidenceQuote": "which brings together results from more than sixty studies around the world",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. It summarises a large number of studies.",
+      "It summarises a large number of studies."
+     ]
+    },
+    {
+     "id": "exam03-L29",
+     "number": 29,
+     "format": "Matching",
+     "prompt": "The newspaper article",
+     "explanation": "Its figures are not based on published research.",
+     "evidenceQuote": "the numbers it quoted didn't seem to come from any published research",
+     "skillTag": "matching_opinions",
+     "distractorNote": "The photographs were striking, but that is not why they reject it.",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Its figures are not supported by research.",
+      "Its figures are not supported by research."
+     ]
+    },
+    {
+     "id": "exam03-L30",
+     "number": 30,
+     "format": "Matching",
+     "prompt": "The Beach Watch website",
+     "explanation": "Beach Watch is the most up-to-date source.",
+     "evidenceQuote": "it's updated every month, so it's the most current source we have",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It provides the most recent information.",
+      "It provides the most recent information."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "microplastics",
+    "sample",
+    "sediment",
+    "contamination",
+    "literature review"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. What comment is made about each source? Choose FIVE answers from the box and write the correct letter, A–G, next to Questions 26–30.",
+     "options": [
+      "A. It provides the most recent information.",
+      "B. It describes a procedure clearly.",
+      "C. It contains striking images.",
+      "D. Its figures are not supported by research.",
+      "E. Its data is no longer current.",
+      "F. It was written by volunteers.",
+      "G. It summarises a large number of studies."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam03-lp4",
+   "partNumber": 4,
+   "title": "A short history of wind power",
+   "contextDescription": "Part of a lecture in an engineering history course.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "98A4B090-1869-57C8-92C6-E18234E5CCFA",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning. Today we're continuing our series on energy history, and I want to look at wind power. We tend to think of wind turbines as a modern technology, but people have been using the wind to do work for well over a thousand years."
+    },
+    {
+     "id": "D299778B-1D40-58FF-957D-1F25286612A4",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The earliest windmills that we have clear records of were built in Persia, in what is now eastern Iran, probably in the ninth century. These looked very different from the windmills most of us picture. The sails were arranged around a vertical shaft, a bit like a revolving door, and they were surrounded by walls that directed the wind onto one side. Their main job was grinding grain, though some were also used to pump water for irrigation."
+    },
+    {
+     "id": "82892065-C4FA-5512-9D9F-8360D5EB0AB6",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In Europe, windmills appear in the late twelfth century, and these had a horizontal shaft, with the sails facing into the wind. The early European design was called the post mill, because the whole wooden body of the mill sat on a single large post. When the wind changed direction, the miller had to push the entire building round to face it, using a long beam at the back. As you can imagine, that limited how big a post mill could be."
+    },
+    {
+     "id": "28045E5B-D623-56BB-A93F-39693B8C550B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The solution was the tower mill. Here, the body was a fixed tower of stone or brick, and only the cap at the top, which carried the sails, needed to turn. That meant the mills could be much taller, catching stronger winds. Then, in the eighteenth century, an English inventor added the fantail: a small wheel at the back of the cap that automatically turned the sails into the wind. The miller no longer had to watch the weather all day."
+    },
+    {
+     "id": "EAFD7C2F-1438-51CA-A44C-930E6153138D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Now, the place where windmills had their greatest impact was probably the Netherlands. A large part of the country lies below sea level, and from the fifteenth century onwards, thousands of windmills were used for drainage, pumping water out of the land so that it could be farmed. By the mid-nineteenth century, there were around nine thousand windmills in the country. They also powered sawmills, which helped the Dutch build the ships that made them a major trading nation."
+    },
+    {
+     "id": "E1F6F238-674E-5080-9498-67C8919D6366",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Windmills declined in the late nineteenth century, when steam engines, and later electric motors, became cheap and reliable. But the idea of using wind to make electricity is older than many people realise. In 1887, a Scottish professor, James Blyth, built a wind turbine in the garden of his holiday cottage and used it to charge batteries that lit the house. Local people apparently refused his offer to light the main street, because they thought electricity was the work of the devil."
+    },
+    {
+     "id": "C5A94AFF-9704-50B2-B216-946CC1F34ED3",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In the United States, small wind turbines were common on farms in the 1920s and 1930s, before the national electricity grid reached rural areas. Once farms were connected to the grid, most of these turbines were abandoned. So for much of the twentieth century, wind power was seen as a curiosity, something for remote places only."
+    },
+    {
+     "id": "3F0D2F87-3A45-5033-ADA6-D6A11A33CE02",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "What changed that? The oil crisis of the 1970s. When oil prices rose sharply, governments began to look for other sources of energy, and Denmark in particular invested heavily in wind research. Danish engineers settled on the design you now see everywhere: three blades, facing into the wind, on a tall steel tower. Three blades turned out to be the best balance between efficiency and stability. Two-bladed turbines wobble more as they turn, and four or more blades add weight and cost without producing much extra power."
+    },
+    {
+     "id": "BBC0C971-6348-5ED1-8874-8BB5DC33E1C5",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Since then, the main trend has simply been size. A typical turbine in the 1980s had blades about fifteen metres long. Today, the largest offshore turbines have blades of over a hundred metres, and a single rotation can power an average home for a couple of days. Moving out to sea has been important, because the wind there is stronger and steadier, and turbines don't face the same opposition from people who object to the view."
+    },
+    {
+     "id": "EA8E513B-DE44-53FD-A3EF-8FAA9D1A8B62",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "However, size brings its own problems. Blades this long are extremely difficult to transport by road, and at the end of their life, they're hard to recycle, because they're made from a mixture of glass fibre and resin. Several companies are now developing blades that can be broken down and reused, and that, I think, will be one of the key challenges of the next decade. Next week, we'll move on to solar energy."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam03-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Early Persian windmills: sails turned around a vertical shaft; used mainly for grinding __________",
+     "explanation": "Persian windmills mainly ground grain; some pumped water.",
+     "evidenceQuote": "Their main job was grinding grain",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grain"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Post mill: the miller turned the whole building using a long __________",
+     "explanation": "The miller pushed the building round with a beam at the back.",
+     "evidenceQuote": "using a long beam at the back",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "beam"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Tower mill: only the __________ rotated, so mills could be taller",
+     "explanation": "In a tower mill the cap turned, not the whole body.",
+     "evidenceQuote": "only the cap at the top, which carried the sails, needed to turn",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cap"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The fantail turned the sails into the wind __________",
+     "explanation": "The fantail removed the need for the miller to watch the wind.",
+     "evidenceQuote": "a small wheel at the back of the cap that automatically turned the sails into the wind",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "automatically"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Netherlands: windmills were used for __________ so land could be farmed",
+     "explanation": "Dutch windmills pumped water out of low land.",
+     "evidenceQuote": "thousands of windmills were used for drainage",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "drainage"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Windmills also drove sawmills, which helped the Dutch build __________",
+     "explanation": "Sawmills supplied timber for shipbuilding.",
+     "evidenceQuote": "helped the Dutch build the ships that made them a major trading nation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ships"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Blyth (1887) used his turbine to charge __________",
+     "explanation": "His turbine charged batteries for lighting.",
+     "evidenceQuote": "used it to charge batteries that lit the house",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "batteries"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "US farm turbines were abandoned when farms joined the __________",
+     "explanation": "The arrival of the national grid ended farm turbines.",
+     "evidenceQuote": "Once farms were connected to the grid, most of these turbines were abandoned",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Modern design: three blades give the best balance of efficiency and __________",
+     "explanation": "Two blades wobble; four add weight; three balance efficiency and stability.",
+     "evidenceQuote": "the best balance between efficiency and stability",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Future challenge: old blades are difficult to __________",
+     "explanation": "Glass fibre and resin blades are hard to recycle.",
+     "evidenceQuote": "they're hard to recycle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "recycle"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "windmill",
+    "drainage",
+    "efficiency",
+    "blade",
+    "offshore"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam03-rp1",
+   "passageNumber": 1,
+   "title": "The return of the sail",
+   "discipline": "Engineering & Transport",
+   "paragraphs": [
+    "For most of human history, ships crossed the oceans by sail. Then, in the nineteenth century, steam engines and later diesel engines made sailing ships seem hopelessly old-fashioned. A motor ship could keep to a timetable regardless of the weather, and by the 1930s commercial sail had almost disappeared. Today, around ninety per cent of world trade travels by sea, and almost all of it is carried by ships burning heavy fuel oil. Shipping produces roughly three per cent of global greenhouse gas emissions, about the same as a large industrial country, and international rules now require the industry to cut those emissions sharply by the middle of the century.",
+    "One of the more surprising responses to this pressure is the return of wind power. Engineers are not proposing a return to the clipper ships of the past, which needed large crews to handle hundreds of square metres of canvas. Instead, they are developing what is known as wind-assisted propulsion: equipment fitted to ordinary cargo ships that uses the wind to reduce, rather than replace, the work done by the engine. Because the engine remains on board, the ship can still keep to its schedule when the wind drops. Crucially, most of these systems are largely automated, so they do not require additional crew members, which would quickly cancel out any savings on fuel.",
+    "Several technologies are competing. The oldest of them, the rotor sail, was first tested in the 1920s by the German engineer Anton Flettner. It consists of a tall vertical cylinder that is spun by a small electric motor. When wind blows across the spinning cylinder, the air moves faster on one side than the other, creating a difference in pressure that pushes the ship forward. This is the same effect that makes a football curve when it is kicked with spin. Flettner's rotor ship crossed the Atlantic in 1926, but the low price of oil at the time meant that there was little commercial interest in the idea.",
+    "A second approach uses rigid wing sails, which look rather like aircraft wings standing on end. Made of composite materials, they can be angled automatically by computer to make the best use of the wind, and some designs can be folded down when the ship enters port or passes under a bridge. A third option, the kite, is perhaps the most unusual: a large parafoil flies several hundred metres above the ship, where winds are stronger and more constant, and pulls the vessel along by a cable attached to the bow.",
+    "How much fuel can these devices save? The answer depends heavily on the route and the type of ship. Trials on vessels fitted with rotor sails have reported fuel savings of between five and twenty per cent, and developers claim that wing sails could achieve more than that on routes with steady winds, such as parts of the North Atlantic. Routes through regions with weak or unpredictable winds offer much smaller gains. Critics also point out that many published figures come from the manufacturers themselves, and independent long-term data is still limited.",
+    "There are practical obstacles as well. Rotors and wing sails take up deck space, which on a container ship is valuable, since every container that cannot be carried represents lost income. Tall structures can also interfere with the cranes used to load and unload ships in port. For this reason, early adopters have mostly been bulk carriers and tankers, which carry cargo inside the hull and have relatively clear decks. Ship owners must also weigh the cost of installation, which can run into millions of dollars per vessel, against uncertain future fuel prices.",
+    "Despite these difficulties, interest is growing quickly. In the past decade, the number of large ships fitted with some form of wind-assisted propulsion has risen from a handful to several dozen, and many more are on order. Some analysts believe that the greatest benefit will come from combining wind power with other measures, such as slower sailing speeds and improved hull designs. Even a saving of ten per cent, multiplied across tens of thousands of ships, would represent a significant cut in global emissions. After a century in the background, the wind may be returning to the centre of world trade."
+   ],
+   "questions": [
+    {
+     "id": "exam03-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "By the 1930s, very few commercial ships used sails.",
+     "explanation": "Paragraph A says commercial sail had almost disappeared by the 1930s.",
+     "evidenceQuote": "by the 1930s commercial sail had almost disappeared",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam03-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Shipping produces more greenhouse gases than any single industrial country.",
+     "explanation": "Shipping is compared to a large industrial country, \"about the same\", not more than any country.",
+     "evidenceQuote": "about the same as a large industrial country",
+     "skillTag": "tfng",
+     "distractorNote": "\"Roughly three per cent\" may tempt you, but the comparison is \"about the same\".",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam03-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Wind-assisted ships are designed to operate without an engine.",
+     "explanation": "The engine stays on board; wind reduces its work.",
+     "evidenceQuote": "uses the wind to reduce, rather than replace, the work done by the engine",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam03-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Flettner's rotor ship was faster than other ships of its time.",
+     "explanation": "The passage says it crossed the Atlantic but gives no comparison of speed.",
+     "evidenceQuote": "Flettner's rotor ship crossed the Atlantic in 1926",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam03-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Some wing sails can be lowered when a ship is in port.",
+     "explanation": "Paragraph D says some designs can be folded down in port.",
+     "evidenceQuote": "some designs can be folded down when the ship enters port",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam03-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Kites are attached to the back of the ship.",
+     "explanation": "The cable is attached to the bow, which is the front.",
+     "evidenceQuote": "by a cable attached to the bow",
+     "skillTag": "tfng",
+     "distractorNote": "You need to know that \"bow\" is the front of a ship.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam03-R7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Rotor sail: a spinning __________ creates a pressure difference",
+     "explanation": "The rotor sail is a tall spinning cylinder.",
+     "evidenceQuote": "It consists of a tall vertical cylinder that is spun by a small electric motor",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cylinder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "The effect is similar to the curve of a kicked __________",
+     "explanation": "The pressure effect is compared to a spinning football.",
+     "evidenceQuote": "the same effect that makes a football curve",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "football"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Little interest in the 1920s because __________ was cheap",
+     "explanation": "Cheap oil reduced interest in rotor ships.",
+     "evidenceQuote": "the low price of oil at the time meant that there was little commercial interest",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Kites fly high because the winds there are stronger and more __________",
+     "explanation": "Higher winds are stronger and more constant.",
+     "evidenceQuote": "where winds are stronger and more constant",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "constant"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Doubts: many savings figures come from __________",
+     "explanation": "Critics note that figures often come from manufacturers.",
+     "evidenceQuote": "many published figures come from the manufacturers themselves",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "manufacturers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "On container ships, the devices reduce __________ space",
+     "explanation": "They occupy valuable deck space.",
+     "evidenceQuote": "Rotors and wing sails take up deck space",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "deck"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam03-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Tall devices may get in the way of port __________",
+     "explanation": "Tall structures can interfere with cranes.",
+     "evidenceQuote": "Tall structures can also interfere with the cranes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cranes"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 709,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam03-rp2",
+   "passageNumber": 2,
+   "title": "Meadows beneath the sea",
+   "discipline": "Marine Ecology",
+   "paragraphs": [
+    "Seagrasses are often mistaken for seaweed, but the two are quite different. Seaweeds are algae, which absorb nutrients directly from the water through their surfaces. Seagrasses, by contrast, are true flowering plants, related to the grasses and lilies that grow on land. They have roots, leaves and veins, and they produce flowers and seeds, all underwater. Around seventy species are found in shallow coastal waters on every continent except Antarctica, where they form dense green meadows that can stretch for many kilometres.",
+    "These meadows are among the most productive habitats on Earth. A single hectare of seagrass can support tens of thousands of fish and millions of small invertebrates, and many commercially important species, including cod and some kinds of prawn, spend the early part of their lives sheltering among the leaves. Seagrass is also the main food of animals such as dugongs and green turtles. One study estimated that a fifth of the world's largest fisheries depend on seagrass meadows at some stage of the life cycle of the fish they catch.",
+    "In recent years, however, it is the role of seagrass in tackling climate change that has attracted most attention. Like all plants, seagrasses take carbon dioxide from the atmosphere as they grow. What makes them unusual is what happens to that carbon. The dense leaves slow the movement of water, so fine particles settle on the seabed, and the roots bind these sediments together. Because the sediment contains little oxygen, dead plant material decays very slowly, and carbon can remain locked in the seabed for centuries or even thousands of years. Although seagrass covers less than 0.2 per cent of the ocean floor, it is thought to be responsible for around ten per cent of the carbon buried in ocean sediments each year.",
+    "Unfortunately, seagrass is disappearing. A global assessment published in 2009 concluded that around seven per cent of the world's meadows were being lost every year, a rate comparable to the destruction of tropical rainforests. The causes are varied. Fertiliser and sewage washing off the land encourage the growth of algae, which cloud the water and block the sunlight that seagrass needs. Dredging, boat anchors and coastal construction physically tear up meadows, and in some places disease has killed large areas. When seagrass dies, the sediment it was holding can be washed away, releasing stored carbon back into the water.",
+    "Restoring lost meadows has proved difficult. Early attempts involved digging up plants from healthy meadows and replanting them elsewhere, but this damaged the donor sites and many transplants failed. Researchers at the University of Virginia took a different approach in the coastal bays of the eastern United States, where seagrass had been wiped out by disease and a hurricane in the 1930s. Beginning in 1999, they scattered more than seventy million seeds over the bare seabed. Progress was slow at first, but the meadows eventually began to spread by themselves, and today they cover more than three thousand six hundred hectares. The project's leader, Professor Robert Orth, has described the result as evidence that 'if you give nature a helping hand, it can do remarkable things'.",
+    "Elsewhere, projects have adopted other methods. In Wales, a project known as Seagrass Ocean Rescue collected seeds by hand, with the help of volunteer divers, and planted them in small hessian bags filled with sand, which were then lowered onto the seabed in rows. Marine biologist Dr Richard Unsworth, one of the project's founders, argues that local involvement is just as important as the technique: in his view, a meadow is far more likely to survive if the surrounding community understands its value and supports efforts to reduce pollution.",
+    "Not all scientists are convinced that restoration should be the priority. Dr Carlos Duarte, who has studied seagrass for decades, has pointed out that protecting existing meadows is far cheaper and more reliable than creating new ones, since a damaged meadow may take decades to recover its full carbon store. Others warn against treating seagrass simply as a way to cancel out emissions, a concern raised by the economist Dr Lena Fischer, who fears that companies might pay for planting projects instead of reducing their own pollution. What most experts agree on is that seagrass deserves far more attention than it has received in the past."
+   ],
+   "questions": [
+    {
+     "id": "exam03-R14",
+     "number": 14,
+     "format": "Matching Information",
+     "prompt": "a comparison between the speed of seagrass loss and the loss of another habitat",
+     "explanation": "Paragraph D compares seagrass loss to rainforest destruction.",
+     "evidenceQuote": "a rate comparable to the destruction of tropical rainforests",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam03-R15",
+     "number": 15,
+     "format": "Matching Information",
+     "prompt": "a description of how seagrass differs from seaweed",
+     "explanation": "Paragraph A contrasts algae with flowering seagrass.",
+     "evidenceQuote": "Seagrasses, by contrast, are true flowering plants",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A",
+      "A"
+     ]
+    },
+    {
+     "id": "exam03-R16",
+     "number": 16,
+     "format": "Matching Information",
+     "prompt": "an explanation of why stored carbon remains in the seabed for a long time",
+     "explanation": "Paragraph C explains that low oxygen slows decay.",
+     "evidenceQuote": "Because the sediment contains little oxygen, dead plant material decays very slowly",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam03-R17",
+     "number": 17,
+     "format": "Matching Information",
+     "prompt": "a reference to the importance of seagrass to fishing",
+     "explanation": "Paragraph B links seagrass to major fisheries.",
+     "evidenceQuote": "a fifth of the world's largest fisheries depend on seagrass meadows",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam03-R18",
+     "number": 18,
+     "format": "Matching Information",
+     "prompt": "a reason why an early restoration method was unsuccessful",
+     "explanation": "Paragraph E explains why transplanting failed.",
+     "evidenceQuote": "this damaged the donor sites and many transplants failed",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "exam03-R19",
+     "number": 19,
+     "format": "Matching Features",
+     "prompt": "Protecting healthy seagrass is better value than replacing lost meadows.",
+     "explanation": "Duarte says protection is cheaper and more reliable than restoration.",
+     "evidenceQuote": "protecting existing meadows is far cheaper and more reliable than creating new ones",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Robert Orth",
+      "B. Richard Unsworth",
+      "C. Carlos Duarte",
+      "D. Lena Fischer"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Carlos Duarte",
+      "Carlos Duarte"
+     ]
+    },
+    {
+     "id": "exam03-R20",
+     "number": 20,
+     "format": "Matching Features",
+     "prompt": "The support of local people helps restored meadows to last.",
+     "explanation": "Unsworth stresses community support.",
+     "evidenceQuote": "a meadow is far more likely to survive if the surrounding community understands its value",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Robert Orth",
+      "B. Richard Unsworth",
+      "C. Carlos Duarte",
+      "D. Lena Fischer"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Richard Unsworth",
+      "Richard Unsworth"
+     ]
+    },
+    {
+     "id": "exam03-R21",
+     "number": 21,
+     "format": "Matching Features",
+     "prompt": "Seagrass planting could become an excuse for businesses not to cut emissions.",
+     "explanation": "Fischer worries planting may replace real emission cuts.",
+     "evidenceQuote": "companies might pay for planting projects instead of reducing their own pollution",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Robert Orth",
+      "B. Richard Unsworth",
+      "C. Carlos Duarte",
+      "D. Lena Fischer"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Lena Fischer",
+      "Lena Fischer"
+     ]
+    },
+    {
+     "id": "exam03-R22",
+     "number": 22,
+     "format": "Matching Features",
+     "prompt": "Natural processes can achieve a great deal with a little human assistance.",
+     "explanation": "Orth's quotation expresses this idea.",
+     "evidenceQuote": "if you give nature a helping hand, it can do remarkable things",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Robert Orth",
+      "B. Richard Unsworth",
+      "C. Carlos Duarte",
+      "D. Lena Fischer"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Robert Orth",
+      "Robert Orth"
+     ]
+    },
+    {
+     "id": "exam03-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "In the eastern United States, seagrass had been destroyed by disease and a __________ in the 1930s.",
+     "explanation": "Paragraph E: disease and a hurricane destroyed the meadows.",
+     "evidenceQuote": "wiped out by disease and a hurricane in the 1930s",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hurricane"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam03-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "From 1999, researchers spread over seventy million __________ across the seabed.",
+     "explanation": "They scattered seeds rather than transplanting plants.",
+     "evidenceQuote": "they scattered more than seventy million seeds over the bare seabed",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "seeds"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam03-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "In Wales, seeds were collected with the help of volunteer __________.",
+     "explanation": "Volunteer divers helped collect seeds.",
+     "evidenceQuote": "with the help of volunteer divers",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "divers"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam03-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "The Welsh seeds were planted in small bags made of __________ and filled with sand.",
+     "explanation": "The bags were hessian.",
+     "evidenceQuote": "planted them in small hessian bags filled with sand",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hessian"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 716,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G. You may use any letter more than once."
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Look at the following statements and the list of people below. Match each statement with the correct person, A–D.",
+     "options": [
+      "A. Robert Orth",
+      "B. Richard Unsworth",
+      "C. Carlos Duarte",
+      "D. Lena Fischer"
+     ]
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam03-rp3",
+   "passageNumber": 3,
+   "title": "Why we misjudge our energy use",
+   "discipline": "Psychology & Behavioural Economics",
+   "paragraphs": [
+    "If you ask people how much energy different household activities use, their answers are often surprisingly inaccurate. In a well-known study in the United States, the psychologist Shahzeen Attari asked several hundred participants to estimate the energy used by everyday devices and activities, from running a dishwasher to drying clothes. On average, participants underestimated energy use by a factor of almost three. More strikingly, the errors were not random. People slightly overestimated the energy used by small, visible devices such as light bulbs, but dramatically underestimated the energy used by large appliances, particularly those that produce heat, such as water heaters and tumble dryers.",
+    "Why should this be? One explanation lies in the way people make judgements when they lack precise information. Rather than calculating, they rely on mental shortcuts, and one of the most common is to judge the size of something by how noticeable it is. A light is switched on and off many times a day; it is in plain view, and we are constantly reminded to turn it off. A water heater, by contrast, sits out of sight in a cupboard and works silently. It is therefore easy to assume that the light matters more, even though heating water typically uses many times as much energy.",
+    "A second factor is that energy is, for most people, invisible. When we buy food or petrol, we see exactly how much we are getting, and the price is displayed at the moment of purchase. Electricity and gas, however, arrive continuously through wires and pipes, and the bill comes weeks later as a single figure that combines dozens of activities. It is almost impossible to connect a particular choice, such as taking a longer shower, with its cost. Economists describe this as a problem of feedback: without clear and timely information about the consequences of our actions, we cannot learn to adjust them.",
+    "This analysis suggests an obvious remedy: give people better feedback. In recent years, millions of homes in Europe and North America have been fitted with smart meters, which can display energy use in real time on a small screen in the kitchen. Early trials produced encouraging results, with some households cutting their consumption by ten per cent or more. However, larger and longer studies have generally found smaller effects, typically around two or three per cent. One reason appears to be that the novelty wears off: many people look at their display frequently in the first few weeks, and then rarely, if ever. In my view, this does not mean that feedback is useless, but rather that simply providing data is not enough.",
+    "Some of the most effective interventions have combined information with social comparison. In a series of experiments, an American energy company sent customers letters that compared their consumption with that of similar neighbours, adding a smiling face for those who used less than average. Households receiving these letters reduced their energy use by around two per cent, a small figure for an individual home, but a large one across a whole country, and achieved at very low cost. Interestingly, the researchers found that households who were already using less than their neighbours sometimes increased their consumption after learning this, an effect that was reduced when the letters included the smiling face.",
+    "Defaults offer another powerful tool. Psychologists have long known that people tend to accept whatever option is presented as standard. In one German study, when a town's electricity supplier made green energy the default tariff, so that customers had to take action to switch away from it, more than ninety per cent of households stayed with it, even though it was slightly more expensive. When the same option had to be chosen actively, only a small minority selected it. Critics argue that such techniques can be manipulative, but I believe that when the default is clearly explained and easy to change, it simply makes the sustainable choice the easy one.",
+    "None of this means that behaviour change alone can solve the problem of energy demand. Better insulation, more efficient appliances and cleaner sources of electricity will matter far more in the long run. But buildings and appliances are used by people, and the way they are used depends on what people understand and notice. Policies that ignore human psychology are likely to deliver less than their designers expect, while those that take it into account may achieve a great deal at surprisingly little cost."
+   ],
+   "questions": [
+    {
+     "id": "exam03-R27",
+     "number": 27,
+     "format": "Multiple Choice",
+     "prompt": "What was most notable about the errors in Attari's study?",
+     "explanation": "The errors followed a pattern: small visible devices were overestimated, large heat-producing ones underestimated.",
+     "evidenceQuote": "People slightly overestimated the energy used by small, visible devices",
+     "skillTag": "detail",
+     "options": [
+      "A. Participants consistently overestimated energy use.",
+      "B. Errors were largest for lighting.",
+      "C. The mistakes followed a predictable pattern.",
+      "D. Most participants could not name any appliances."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The mistakes followed a predictable pattern.",
+      "The mistakes followed a predictable pattern."
+     ]
+    },
+    {
+     "id": "exam03-R28",
+     "number": 28,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph B, why do people overestimate the energy used by lights?",
+     "explanation": "People judge importance by how noticeable something is.",
+     "evidenceQuote": "one of the most common is to judge the size of something by how noticeable it is",
+     "skillTag": "inference",
+     "options": [
+      "A. because lights are more noticeable",
+      "B. because lights are left on all day",
+      "C. because lights produce heat",
+      "D. because lights are expensive to replace"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. because lights are more noticeable",
+      "because lights are more noticeable"
+     ]
+    },
+    {
+     "id": "exam03-R29",
+     "number": 29,
+     "format": "Multiple Choice",
+     "prompt": "What problem does the writer describe in paragraph C?",
+     "explanation": "The issue is lack of clear, timely feedback.",
+     "evidenceQuote": "without clear and timely information about the consequences of our actions, we cannot learn to adjust them",
+     "skillTag": "main_idea",
+     "options": [
+      "A. Energy prices change too frequently.",
+      "B. Bills are too difficult to pay.",
+      "C. People do not care about energy costs.",
+      "D. People cannot see the results of their choices."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. People cannot see the results of their choices.",
+      "People cannot see the results of their choices."
+     ]
+    },
+    {
+     "id": "exam03-R30",
+     "number": 30,
+     "format": "Multiple Choice",
+     "prompt": "Why have smart meters had less effect than expected?",
+     "explanation": "People lose interest after the first few weeks.",
+     "evidenceQuote": "many people look at their display frequently in the first few weeks, and then rarely, if ever",
+     "skillTag": "detail",
+     "options": [
+      "A. The displays are difficult to understand.",
+      "B. People stop paying attention to them over time.",
+      "C. They were installed in too few homes.",
+      "D. They give inaccurate readings."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People stop paying attention to them over time.",
+      "People stop paying attention to them over time."
+     ]
+    },
+    {
+     "id": "exam03-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "The results of the smart meter studies show that feedback has no value.",
+     "explanation": "The writer explicitly says feedback is not useless.",
+     "evidenceQuote": "this does not mean that feedback is useless",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam03-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "A two per cent reduction can be significant when applied nationally.",
+     "explanation": "The writer says two per cent is large across a whole country.",
+     "evidenceQuote": "a small figure for an individual home, but a large one across a whole country",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam03-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Letters comparing neighbours are more effective in cities than in rural areas.",
+     "explanation": "Cities and rural areas are never compared.",
+     "evidenceQuote": "compared their consumption with that of similar neighbours",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam03-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Setting green energy as the default is acceptable if customers can easily change it.",
+     "explanation": "The writer accepts defaults when explained and easy to change.",
+     "evidenceQuote": "when the default is clearly explained and easy to change, it simply makes the sustainable choice the easy one",
+     "skillTag": "ynng",
+     "distractorNote": "The critics think defaults are manipulative; the writer disagrees with them.",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam03-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Changing behaviour is more important than improving buildings.",
+     "explanation": "The writer says building and appliance improvements matter more.",
+     "evidenceQuote": "Better insulation, more efficient appliances and cleaner sources of electricity will matter far more in the long run",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam03-R36",
+     "number": 36,
+     "format": "Matching Sentence Endings",
+     "prompt": "Water heaters are often underestimated because they",
+     "explanation": "They are hidden and silent, so people forget them.",
+     "evidenceQuote": "sits out of sight in a cupboard and works silently",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. are hidden and make no noise.",
+      "are hidden and make no noise."
+     ]
+    },
+    {
+     "id": "exam03-R37",
+     "number": 37,
+     "format": "Matching Sentence Endings",
+     "prompt": "Energy bills give poor feedback because they",
+     "explanation": "Bills arrive late and combine many activities.",
+     "evidenceQuote": "the bill comes weeks later as a single figure that combines dozens of activities",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. arrive late and combine many different uses.",
+      "arrive late and combine many different uses."
+     ]
+    },
+    {
+     "id": "exam03-R38",
+     "number": 38,
+     "format": "Matching Sentence Endings",
+     "prompt": "A smiling face on the letters",
+     "explanation": "The smiling face reduced the increase among low users.",
+     "evidenceQuote": "an effect that was reduced when the letters included the smiling face",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. discouraged low users from using more energy.",
+      "discouraged low users from using more energy."
+     ]
+    },
+    {
+     "id": "exam03-R39",
+     "number": 39,
+     "format": "Matching Sentence Endings",
+     "prompt": "When green energy had to be chosen actively, it",
+     "explanation": "Only a small minority chose it actively.",
+     "evidenceQuote": "only a small minority selected it",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. was selected by relatively few customers.",
+      "was selected by relatively few customers."
+     ]
+    },
+    {
+     "id": "exam03-R40",
+     "number": 40,
+     "format": "Matching Sentence Endings",
+     "prompt": "Policies that ignore psychology",
+     "explanation": "They tend to achieve less than expected.",
+     "evidenceQuote": "Policies that ignore human psychology are likely to deliver less than their designers expect",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. may produce weaker results than planned.",
+      "may produce weaker results than planned."
+     ]
+    }
+   ],
+   "estimatedWordCount": 741,
+   "groups": [
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 31,
+     "to": 35,
+     "instruction": "Questions 31–35. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 36,
+     "to": 40,
+     "instruction": "Questions 36–40. Complete each sentence with the correct ending, A–G.",
+     "options": [
+      "A. arrive late and combine many different uses.",
+      "B. cost more than most households can afford.",
+      "C. was selected by relatively few customers.",
+      "D. were installed in millions of homes.",
+      "E. are hidden and make no noise.",
+      "F. may produce weaker results than planned.",
+      "G. discouraged low users from using more energy."
+     ]
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam03-w1",
+  "title": "Electricity generation in Westland, 2000 and 2020",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts below show the sources of electricity generated in a country called Westland in 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "2850C566-98C7-5A2C-B69D-ED3695F63E42",
+    "series": "2000",
+    "category": "Coal",
+    "value": 48.0,
+    "unit": "%"
+   },
+   {
+    "id": "D9FBEBC9-4B9F-5461-B285-89386ED0C57C",
+    "series": "2000",
+    "category": "Natural gas",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "7A94987C-86BD-5553-83DE-0B7AAEA223B1",
+    "series": "2000",
+    "category": "Nuclear",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "C04DAA06-CBEE-5C58-965B-BF463794489A",
+    "series": "2000",
+    "category": "Hydro",
+    "value": 8.0,
+    "unit": "%"
+   },
+   {
+    "id": "3E667EA2-A096-5B82-B2CE-7C8B12CC0871",
+    "series": "2000",
+    "category": "Wind & solar",
+    "value": 2.0,
+    "unit": "%"
+   },
+   {
+    "id": "9BA8B680-76EE-5230-8426-A62F8FB5D5A1",
+    "series": "2020",
+    "category": "Coal",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "B3AD1842-76F5-5230-8807-0D22CC50C32C",
+    "series": "2020",
+    "category": "Natural gas",
+    "value": 34.0,
+    "unit": "%"
+   },
+   {
+    "id": "8104B764-09E6-5A80-BC46-9FF0DB7B0437",
+    "series": "2020",
+    "category": "Nuclear",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "C6603F64-5DE7-52F2-BDA7-AADC2B628E05",
+    "series": "2020",
+    "category": "Hydro",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "10920FA2-520B-5FE3-96C7-DC1194B02CFE",
+    "series": "2020",
+    "category": "Wind & solar",
+    "value": 31.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Coal fell from the largest source (48%) to one of the smallest (12%).",
+   "Wind and solar grew dramatically, from 2% to 31%, becoming the second-largest source.",
+   "Gas rose to become the largest source; nuclear and hydro stayed almost unchanged."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam03-w2",
+  "title": "Large or local renewable energy",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Energy & Environment",
+  "promptText": "Some people believe that governments should invest mainly in large renewable energy projects, such as offshore wind farms. Others think that money is better spent helping homes and communities to produce their own energy. Discuss both these views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam03-spk",
+  "theme": "Weather, water and energy",
+  "part1Questions": [
+   "What kind of weather do you like best? Why?",
+   "Does the weather ever change your plans?",
+   "Do you live near the sea or a river?",
+   "How often do you go to the beach or the coast?",
+   "Do you try to save electricity at home? How?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you saw something new or interesting at the seaside or by a lake or river.",
+   "bulletPoints": [
+    "where you were",
+    "who you were with",
+    "what you saw",
+    "and explain why it was interesting to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people enjoy spending time near water?",
+   "How can coastal areas be protected from pollution?",
+   "Should individuals or governments be responsible for reducing energy use?",
+   "What kinds of energy do you think will be most important in your country in the future?",
+   "Do you think people will travel less in the future because of environmental concerns?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Technical figures about tidal turbines, wind-assisted ships and seagrass are simplified for practice and should not be cited as references.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

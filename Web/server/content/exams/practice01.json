@@ -1,0 +1,2215 @@
+{
+ "id": "practice01",
+ "examNumber": 1,
+ "pool": "practice",
+ "title": "Practice Test 1: Health, Sleep & the Senses",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Health, Sleep & the Senses",
+ "listeningParts": [
+  {
+   "id": "practice01-lp1",
+   "partNumber": 1,
+   "title": "Joining a sports centre",
+   "contextDescription": "A man calls a sports centre to ask about membership options.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "F246BC44-B447-5779-A45C-B919ABC98F28",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Hello, Parkside Leisure Centre, Jenny speaking. How can I help?"
+    },
+    {
+     "id": "97E4359F-28D4-5882-87A9-FEDC96DC9D97",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Hi there. I've just moved to the area and I'm thinking of joining the centre. Could you tell me about the different types of membership?"
+    },
+    {
+     "id": "F2516620-74A8-5D77-AB1A-5EA556F4F2C4",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. We have three main options. The first is Off-Peak, which lets you use the gym and the pool on weekdays before four o'clock and all day at weekends. That's twenty-two pounds a month."
+    },
+    {
+     "id": "317DFAB1-A135-557D-8FED-757995A58210",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Before four on weekdays. That won't really work for me, I'm afraid. I work in an office until half five."
+    },
+    {
+     "id": "A6FE9ABB-0C55-5A88-B554-66A91C6504EA",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Then you'd probably want our Standard membership. That gives you access to the gym, the pool and the sauna at any time the centre is open, which is six in the morning until ten at night. It's thirty-five pounds a month."
+    },
+    {
+     "id": "3020823D-3A1F-51BF-A6EA-91074BF46813",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "And does that include the exercise classes? I'm quite interested in yoga."
+    },
+    {
+     "id": "7A924456-552B-579A-9D8E-8BC1640BD00E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Standard members can book classes, but there's a charge of four pounds per class. If you'd like unlimited classes, there's our Premium membership at forty-eight pounds a month. Premium also includes one session a month with a personal trainer and free parking."
+    },
+    {
+     "id": "A552F1FE-2B7B-51DC-98BB-570D524F4D6E",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Hmm. How many yoga classes are there each week?"
+    },
+    {
+     "id": "B3D7EBB8-92DF-5983-B09F-936C27BD08B1",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There are five: Monday and Wednesday evenings, Friday lunchtime, and two on Saturday morning."
+    },
+    {
+     "id": "2E3C3856-CEAB-5036-AE1F-6FFCAE895DB5",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "If I went twice a week, Premium would probably be cheaper, wouldn't it? Let me think. I'll go for Premium, I think. Is there a joining fee?"
+    },
+    {
+     "id": "6E4F1837-D2DC-5423-AB69-5850D9B819ED",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Normally there's a joining fee of thirty pounds, but this month we've got an offer, so there's no fee if you sign up before the end of March."
+    },
+    {
+     "id": "F03BC66A-4242-5851-8A88-10033C5DF7BF",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Great timing. Is the pool ever closed to members?"
+    },
+    {
+     "id": "D34486D1-60B9-55ED-B710-5F52EC59AA18",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There are swimming lessons for children on weekday afternoons between four and six, when half the pool is reserved, and the whole pool is closed on the first Monday of every month for cleaning. Apart from that, it's open whenever the centre is."
+    },
+    {
+     "id": "417E3B00-7880-5B40-9434-6E035D3B52F2",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That's fine, I'd be swimming in the evenings anyway. Do you have lockers?"
+    },
+    {
+     "id": "4B575223-4F06-5D65-B7F7-6203FC112C9F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, the lockers in the changing rooms take a one-pound coin, which you get back afterwards."
+    },
+    {
+     "id": "758C3190-3305-58B7-AE1E-B48F6040AFE2",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Okay. What else do I need to do?"
+    },
+    {
+     "id": "C47BE8B4-76B8-5D06-8896-7E06EB170F7A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Before you can use the gym, you have to do an induction. That's a session with one of our instructors, who'll show you how to use the equipment safely and help you plan a programme. It takes about an hour."
+    },
+    {
+     "id": "A2AE48A5-4F84-5309-BEAC-9CE48ABC5E9B",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Do I need to book that?"
+    },
+    {
+     "id": "87571A7B-7B2D-533D-9335-0D96EEAD7536",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, you can book it when you register. Inductions run on Tuesday and Thursday evenings, and on Sunday mornings."
+    },
+    {
+     "id": "BF5B76C9-7CAB-5A9E-A56C-9CDAC7F7AF85",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Sunday morning would suit me best."
+    },
+    {
+     "id": "78BCE19A-33E2-52D9-842C-91F875EE26C3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Fine. Can I take a few details? What's your name?"
+    },
+    {
+     "id": "5458F502-BC24-5C67-ACA4-EADD719442D4",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's Declan Moynihan. That's M-O-Y-N-I-H-A-N."
+    },
+    {
+     "id": "66683A79-03A4-5F0B-A08E-AF3A3C3C81F5",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And your address?"
+    },
+    {
+     "id": "D2079F19-58D3-5C25-AAF1-1BB16AA02E00",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Flat 3, 58 Hawthorn Avenue."
+    },
+    {
+     "id": "0B00BA07-7E31-55D7-B4DC-62329EAD1591",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "And the postcode?"
+    },
+    {
+     "id": "BE3B13F4-86A3-5AF3-9AF1-A54D62FAD494",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's NW6 4TR."
+    },
+    {
+     "id": "5B05284A-9C00-588A-967B-C63EFF4728A6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. And are there any health conditions we should know about? It's just so the instructor can adapt your programme."
+    },
+    {
+     "id": "EEF5D32C-12AE-5DE5-ABA1-C5F65E372D9B",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "I hurt my knee playing football a couple of years ago. It's fine now, but I avoid running."
+    },
+    {
+     "id": "554CA458-1B69-52AB-8401-D63240BAE7F7",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "I'll make a note of that, and the instructor will suggest alternatives. Oh, and one more thing. When you come in, please bring a photo for your membership card. Or we can take one here, if that's easier."
+    },
+    {
+     "id": "FA42FF25-828A-5E2C-8A3F-26D5DDC98A6F",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "I'll just have it taken there. How do I pay?"
+    },
+    {
+     "id": "14DEB160-5FC1-5868-AB43-09BE67D087B7",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Membership is paid monthly by direct debit, so you'll need your bank details. The first payment is taken on the day you join."
+    },
+    {
+     "id": "859A7FCF-C6AF-55AA-A3F5-FDCD494870A9",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Perfect. And can I cancel if I move again?"
+    },
+    {
+     "id": "CDAA4A4D-DCAF-54CC-AFC3-CBFCC4FC6E4F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, you just need to give one month's notice in writing. There's no minimum contract."
+    },
+    {
+     "id": "8348F12D-6658-537F-BB3B-FE2797962245",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That's great. And just to check, can I bring a friend sometimes?"
+    },
+    {
+     "id": "6B614251-27C6-530A-B597-65FD3C592D70",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Premium members can bring one guest a month free of charge."
+    },
+    {
+     "id": "323D7E8A-27A3-5CA0-AF32-29CA42E321B9",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That's great. Thanks for your help, Jenny."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice01-L1",
+     "number": 1,
+     "format": "Table Completion",
+     "prompt": "Off-Peak: weekdays before 4 p.m. and at weekends; cost £__________ a month",
+     "explanation": "Off-Peak costs £22 a month.",
+     "evidenceQuote": "That's twenty-two pounds a month.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "22",
+      "twenty-two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L2",
+     "number": 2,
+     "format": "Table Completion",
+     "prompt": "Standard: gym, pool and __________ at any time",
+     "explanation": "Standard includes the gym, pool and sauna.",
+     "evidenceQuote": "access to the gym, the pool and the sauna at any time",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sauna"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L3",
+     "number": 3,
+     "format": "Table Completion",
+     "prompt": "Standard: classes cost £__________ each",
+     "explanation": "Standard members pay £4 per class.",
+     "evidenceQuote": "there's a charge of four pounds per class",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L4",
+     "number": 4,
+     "format": "Table Completion",
+     "prompt": "Premium: includes one session a month with a personal __________",
+     "explanation": "Premium includes a personal trainer session.",
+     "evidenceQuote": "one session a month with a personal trainer",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trainer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L5",
+     "number": 5,
+     "format": "Table Completion",
+     "prompt": "Premium also includes free __________",
+     "explanation": "Premium includes free parking.",
+     "evidenceQuote": "and free parking",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parking"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Induction day: __________ morning",
+     "explanation": "He chooses Sunday morning.",
+     "evidenceQuote": "Sunday morning would suit me best.",
+     "skillTag": "dates",
+     "distractorNote": "Tuesday and Thursday evenings are also offered.",
+     "options": [],
+     "acceptedAnswers": [
+      "Sunday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells his surname.",
+     "evidenceQuote": "It's Declan Moynihan. That's M-O-Y-N-I-H-A-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Moynihan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Address: Flat 3, 58 __________ Avenue",
+     "explanation": "The street is Hawthorn Avenue.",
+     "evidenceQuote": "Flat 3, 58 Hawthorn Avenue.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hawthorn"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Health: previous injury to his __________",
+     "explanation": "He injured his knee playing football.",
+     "evidenceQuote": "I hurt my knee playing football",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "knee"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Notice needed to cancel: one __________",
+     "explanation": "One month's written notice is needed.",
+     "evidenceQuote": "you just need to give one month's notice in writing",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "month"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "off-peak",
+    "induction",
+    "joining fee",
+    "personal trainer",
+    "direct debit"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 5,
+     "instruction": "Questions 1–5. Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer."
+    },
+    {
+     "from": 6,
+     "to": 10,
+     "instruction": "Questions 6–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice01-lp2",
+   "partNumber": 2,
+   "title": "Volunteering at City Hospital",
+   "contextDescription": "A volunteer coordinator gives a talk to new hospital volunteers.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "65A7CACD-D0B3-5953-9B94-8FA96468B19D",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Good evening, everyone, and thank you for coming. My name is Daniel Okafor and I coordinate the volunteer programme here at City Hospital. Some of you have already filled in your application forms, and others are just finding out what's involved, so I'll start with a general overview and then explain the different roles available."
+    },
+    {
+     "id": "B9095BAA-1463-5EE9-8D26-6E7500099221",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "First of all, why does a hospital need volunteers? The answer is that volunteers don't replace the work of nurses or doctors, and you'll never be asked to give medical care. What you do is free up staff time and make patients' experience a little more comfortable. Research here showed that patients who had regular visits from volunteers felt less anxious and actually rated the quality of their care more highly."
+    },
+    {
+     "id": "3264E624-2333-51C7-A1C7-E8E2EE79E15A",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "We currently have just over two hundred volunteers, and they range in age from seventeen to eighty-four. The minimum age is sixteen, but anyone under eighteen can only work in certain roles, and needs a signed form from a parent."
+    },
+    {
+     "id": "09EEFE77-A21E-5615-92B5-E1D128207C8B",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "So, what are the roles? Let me run through the main ones. The Welcome Desk is in the main entrance. Volunteers there greet people, give directions and help visitors find their way around, which is more useful than it sounds, because the hospital is a maze. This role is ideal if you're confident talking to strangers, and it's the one most of our younger volunteers start with."
+    },
+    {
+     "id": "CAE93E8B-AE6D-5E71-93F1-23D5F69A93BA",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Then there's the Ward Companion role. Companions visit patients on the wards who don't have many visitors of their own, just to chat, read to them or help them with a meal. This is particularly valued on the wards for older patients. Because you're spending time with patients directly, it requires an extra half-day of training, focusing on communication and on confidentiality, which means never discussing patients outside the hospital."
+    },
+    {
+     "id": "3761715F-34F2-530F-9187-3A00FEFF7C65",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "The Garden Team looks after the hospital's courtyard garden, which was created by volunteers about ten years ago. You don't need any experience, as long as you don't mind getting your hands dirty, and the team meets every Wednesday morning, whatever the weather."
+    },
+    {
+     "id": "4C960D6E-FB8E-5E90-8967-5CDD90752F99",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "We also have a Shop and Trolley service. Volunteers run the small shop on the ground floor and take a trolley round the wards twice a day selling newspapers, snacks and toiletries. All the profits go back into the hospital, and last year they paid for new chairs in the children's ward. You'll need to be comfortable handling money for this one."
+    },
+    {
+     "id": "E363E2C5-2991-57E2-BDED-19461F309BEB",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Finally, Patient Transport. These volunteers use their own cars to drive patients home after appointments, or bring them in from areas with poor public transport. You need to have held a full driving licence for at least three years, and your fuel costs are paid back by the hospital."
+    },
+    {
+     "id": "C32A35B7-A077-596D-928A-C08A34D821A6",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Now, practical matters. We ask volunteers to commit to at least one session of three or four hours a week, for a minimum of six months. We know that's a significant commitment, but it takes a few weeks to get to know a role properly, and patients really appreciate seeing familiar faces."
+    },
+    {
+     "id": "031A10FC-B728-5391-8208-25DF08CACE36",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Before you start, we'll need two references and a health check. For the roles involving direct contact with patients, there's also a background check, which can take up to four weeks, so please don't worry if you don't hear from us straight away. Once everything is ready, you'll get a uniform, which is a green polo shirt, and an identity badge, which you must wear at all times while you're in the hospital."
+    },
+    {
+     "id": "8BA817BF-8883-5204-8F6D-08C2FCBC3681",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Oh, and meals. Volunteers get a free lunch in the staff canteen on any day they do a session of four hours or more. Right, I'll now hand over to Susan, who's been a ward companion for six years, and she'll tell you what a typical day is like."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice01-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "According to Daniel, the main role of volunteers is to",
+     "explanation": "Volunteers free up staff and comfort patients; they never give medical care.",
+     "evidenceQuote": "free up staff time and make patients' experience a little more comfortable",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. provide basic medical care.",
+      "B. support staff and patients.",
+      "C. raise money for the hospital."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. support staff and patients.",
+      "support staff and patients."
+     ]
+    },
+    {
+     "id": "practice01-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What did research at the hospital find?",
+     "explanation": "Patients with volunteer visits felt less anxious and rated care more highly.",
+     "evidenceQuote": "patients who had regular visits from volunteers felt less anxious",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Patients who were visited felt less worried.",
+      "B. Volunteers needed more training.",
+      "C. Staff spent less time on paperwork."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Patients who were visited felt less worried.",
+      "Patients who were visited felt less worried."
+     ]
+    },
+    {
+     "id": "practice01-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Volunteers under eighteen must",
+     "explanation": "Under-18s need a signed parental form.",
+     "evidenceQuote": "needs a signed form from a parent",
+     "skillTag": "multiple_choice",
+     "distractorNote": "The minimum age is sixteen, not seventeen.",
+     "options": [
+      "A. work with an adult volunteer.",
+      "B. be at least seventeen.",
+      "C. have permission from a parent."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. have permission from a parent.",
+      "have permission from a parent."
+     ]
+    },
+    {
+     "id": "practice01-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why must volunteers commit to at least six months?",
+     "explanation": "Learning the role takes time and patients like familiar faces.",
+     "evidenceQuote": "it takes a few weeks to get to know a role properly, and patients really appreciate seeing familiar faces",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to complete all the training courses",
+      "B. so they can learn the role and patients recognise them",
+      "C. because the background check takes a long time"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. so they can learn the role and patients recognise them",
+      "so they can learn the role and patients recognise them"
+     ]
+    },
+    {
+     "id": "practice01-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "involves an extra half-day of training",
+     "explanation": "Ward Companions get extra training on communication and confidentiality.",
+     "evidenceQuote": "it requires an extra half-day of training",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Ward Companion",
+      "Ward Companion"
+     ]
+    },
+    {
+     "id": "practice01-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "is usually chosen first by younger volunteers",
+     "explanation": "Younger volunteers often start at the Welcome Desk.",
+     "evidenceQuote": "it's the one most of our younger volunteers start with",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Welcome Desk",
+      "Welcome Desk"
+     ]
+    },
+    {
+     "id": "practice01-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "takes place on the same day every week",
+     "explanation": "The Garden Team meets every Wednesday morning.",
+     "evidenceQuote": "the team meets every Wednesday morning",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Garden Team",
+      "Garden Team"
+     ]
+    },
+    {
+     "id": "practice01-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "has paid for furniture",
+     "explanation": "Shop profits paid for new chairs.",
+     "evidenceQuote": "last year they paid for new chairs in the children's ward",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Shop and Trolley",
+      "Shop and Trolley"
+     ]
+    },
+    {
+     "id": "practice01-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "involves having expenses repaid",
+     "explanation": "Drivers get fuel costs repaid.",
+     "evidenceQuote": "your fuel costs are paid back by the hospital",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Patient Transport",
+      "Patient Transport"
+     ]
+    },
+    {
+     "id": "practice01-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "requires confidence with money",
+     "explanation": "The shop and trolley role involves handling money.",
+     "evidenceQuote": "You'll need to be comfortable handling money for this one.",
+     "skillTag": "matching",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Shop and Trolley",
+      "Shop and Trolley"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "volunteer",
+    "ward",
+    "reception",
+    "badge",
+    "confidentiality"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 15,
+     "to": 20,
+     "instruction": "Questions 15–20. Which role has each of the following features? Choose SIX answers from the box and write the correct letter, A–E. You may use any letter more than once.",
+     "options": [
+      "A. Welcome Desk",
+      "B. Ward Companion",
+      "C. Garden Team",
+      "D. Shop and Trolley",
+      "E. Patient Transport"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice01-lp3",
+   "partNumber": 3,
+   "title": "Preparing a presentation on sleep",
+   "contextDescription": "Two psychology students, Ali and Sophie, plan a seminar presentation on sleep research.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "92242510-CA7E-5410-985D-24A08C4E9B48",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "So, Ali, we've got twenty minutes for the presentation, plus questions. I thought we could start by showing the audience how little sleep students actually get. Maybe a quick poll?"
+    },
+    {
+     "id": "47A18745-2101-5F6C-A24F-7D32A598CA04",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Good idea. Everyone could put their hand up for how many hours they slept last night. It gets people involved straight away. Then we move into the science."
+    },
+    {
+     "id": "CE4E5D2B-737E-5A4F-BADC-DEAD07CA7F3B",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Right. Shall I do the section on why we sleep? I've read quite a lot about memory."
+    },
+    {
+     "id": "962E2AB3-E8DE-5F90-9163-EF4BFFB71AF7",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Yes, go for it. The key point for me is that during sleep, the brain seems to replay what we learned during the day and move it into long-term memory. That's why staying up all night before an exam is such a bad strategy."
+    },
+    {
+     "id": "17633C1C-8407-5F58-BC2E-8E5BFB57AE94",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Exactly. And I want to mention that study where students who slept after learning a list of words remembered far more the next day than those who stayed awake for the same length of time."
+    },
+    {
+     "id": "4F040FF9-5669-54FA-B8B0-722F51B466E5",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "That's a great example. Then I'll cover the section on teenagers and body clocks. That's what interested me most."
+    },
+    {
+     "id": "FA577EF7-D7E7-504A-9703-B2301DAB5742",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "The idea that teenagers aren't just lazy?"
+    },
+    {
+     "id": "57C84815-2C66-5B90-911F-132E223F6EC0",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Right. During adolescence, the body releases melatonin, the hormone that makes us feel sleepy, about two hours later than in adults or young children. So a fifteen-year-old who can't fall asleep before midnight isn't being difficult; their body clock has genuinely shifted."
+    },
+    {
+     "id": "90CC5639-1F28-5D27-B50C-AC7B454DA5E8",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "And that's why some schools have experimented with later start times."
+    },
+    {
+     "id": "1B82891D-BFA7-55DE-8658-1676B8FAF357",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Yes. I found a few studies. In one American school district, starting school an hour later led to students sleeping about forty minutes more each night, and their attendance improved. But I need to be careful, because most of these studies are quite small, and it's hard to separate the effect of the start time from other changes the schools made."
+    },
+    {
+     "id": "BBC2D06A-00DD-52F1-95CB-C11AD0F7C0F6",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Good, you should say that. Our tutor always asks about limitations. What about the section on technology? Everyone talks about phones and blue light."
+    },
+    {
+     "id": "D3C50AF1-5D47-5EF4-8444-FC5E8AC9959F",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "I looked into that, and it's more complicated than people think. Some lab studies show that bright screen light delays melatonin, but the effect of a normal phone at normal brightness seems to be quite small. Several researchers now think the bigger problem is what people are doing on the phone, the fact that it keeps the brain alert, rather than the light itself."
+    },
+    {
+     "id": "9F502C76-C8D7-511A-86AC-5831AD68860C",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Interesting. So we could challenge a popular belief there. Audiences always like that."
+    },
+    {
+     "id": "DD586212-A1D3-537A-91AA-E8DED2D7663C",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Then, to finish, practical advice. Things like keeping regular sleep times, even at weekends."
+    },
+    {
+     "id": "34FD58BC-697A-50C5-B681-E6C0EB1BB6D1",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Actually, I'm not sure we should end on advice. It might sound like a lecture. What if we end by asking the audience a question to start the discussion? Like whether universities should avoid scheduling exams early in the morning."
+    },
+    {
+     "id": "B9BF4359-331C-5D8F-8226-F4FE85826452",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Oh, I like that. It connects to the teenage body-clock section, too. Okay, so we end with a discussion question. What about visuals? I was going to put lots of graphs in."
+    },
+    {
+     "id": "0804A080-D310-55C4-AAF4-310AA1292886",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Maybe two or three at most. Our tutor said last time that slides full of data are hard to follow. One clear graph showing sleep by age would be enough for your section."
+    },
+    {
+     "id": "BE301A8A-26AF-5792-9FCE-68D39F1D7ED0",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Fair enough. I'll make sure the axis labels are big enough to read from the back of the room. Last time, nobody could see the numbers on our graph."
+    },
+    {
+     "id": "46D5D97F-08A9-5140-8C00-2D6EDF527A42",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "Good idea. And let's use the same colours for our slides so it looks like one presentation, not two."
+    },
+    {
+     "id": "F4BA8C2B-204F-5E97-86F0-F3FDC981FCCD",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Fair enough. And handouts?"
+    },
+    {
+     "id": "BD62C7D4-06C9-547D-9A49-AB7A8F5FC583",
+     "speaker": "Sophie",
+     "accent": "en-AU",
+     "text": "I'd rather give a one-page summary with our references at the end, so people can follow up if they're interested."
+    },
+    {
+     "id": "3CC580BF-404C-5DB5-AEF2-3FFDB3373C8D",
+     "speaker": "Ali",
+     "accent": "en-GB",
+     "text": "Perfect. Let's have a run-through on Friday, timed, so we know if we're over twenty minutes."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice01-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How will the students begin their presentation?",
+     "explanation": "They will start with a show-of-hands poll.",
+     "evidenceQuote": "Everyone could put their hand up for how many hours they slept last night",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. with a short video",
+      "B. by explaining the science of sleep",
+      "C. by asking the audience about their own sleep"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by asking the audience about their own sleep",
+      "by asking the audience about their own sleep"
+     ]
+    },
+    {
+     "id": "practice01-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What does Sophie want to say about memory?",
+     "explanation": "Sleep after learning improves recall.",
+     "evidenceQuote": "students who slept after learning a list of words remembered far more the next day",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Sleeping after learning helps people remember.",
+      "B. Students forget most of what they learn.",
+      "C. Memory is weaker in the morning."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Sleeping after learning helps people remember.",
+      "Sleeping after learning helps people remember."
+     ]
+    },
+    {
+     "id": "practice01-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to Ali, teenagers often go to bed late because",
+     "explanation": "Melatonin is released later in adolescence.",
+     "evidenceQuote": "their body clock has genuinely shifted",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. they have too much homework.",
+      "B. their bodies produce a sleep hormone later.",
+      "C. they are less disciplined than adults."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. their bodies produce a sleep hormone later.",
+      "their bodies produce a sleep hormone later."
+     ]
+    },
+    {
+     "id": "practice01-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What problem does Ali mention about studies of later school start times?",
+     "explanation": "Studies are small and effects are hard to separate.",
+     "evidenceQuote": "most of these studies are quite small",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They only looked at attendance.",
+      "B. They were carried out a long time ago.",
+      "C. Many of them involved few participants."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Many of them involved few participants.",
+      "Many of them involved few participants."
+     ]
+    },
+    {
+     "id": "practice01-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does Ali say about phones and sleep?",
+     "explanation": "Mental stimulation may matter more than screen light.",
+     "evidenceQuote": "the bigger problem is what people are doing on the phone",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Lab studies show some effect of light, but it is small at normal brightness.",
+     "options": [
+      "A. The activity matters more than the light.",
+      "B. Blue light is the main cause of poor sleep.",
+      "C. Phones have no effect on sleep at all."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The activity matters more than the light.",
+      "The activity matters more than the light."
+     ]
+    },
+    {
+     "id": "practice01-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "How do they decide to end the presentation?",
+     "explanation": "They will end by asking a discussion question.",
+     "evidenceQuote": "we end with a discussion question",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. with practical advice on sleep",
+      "B. with a question for the audience",
+      "C. with a summary of the research"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. with a question for the audience",
+      "with a question for the audience"
+     ]
+    },
+    {
+     "id": "practice01-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Melatonin released about two hours later in __________",
+     "explanation": "The shift happens in adolescence.",
+     "evidenceQuote": "During adolescence, the body releases melatonin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "adolescence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Later start in one school: better __________",
+     "explanation": "Attendance improved.",
+     "evidenceQuote": "their attendance improved",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "attendance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Visuals: only one __________ showing sleep by age",
+     "explanation": "One clear graph is enough.",
+     "evidenceQuote": "One clear graph showing sleep by age would be enough",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "graph"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Handout: one-page summary including __________",
+     "explanation": "The summary will include references.",
+     "evidenceQuote": "a one-page summary with our references at the end",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "references"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "circadian rhythm",
+    "deprivation",
+    "adolescent",
+    "melatonin",
+    "sample size"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice01-lp4",
+   "partNumber": 4,
+   "title": "How we taste",
+   "contextDescription": "A lecture in a biology course on the science of taste and flavour.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "8B7890D4-99AB-5383-B2AB-1167012DBBD0",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "This morning we're looking at taste, one of the senses we probably think about least, even though we use it several times every day. I'm going to look at three things: how the tongue detects taste, why smell is so important for flavour, and what affects individual differences in taste."
+    },
+    {
+     "id": "07948A35-16A0-5E0B-B7B6-B648E55DA21E",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So let's start with the tongue. If you look closely at your tongue in a mirror, you'll see it's covered in tiny bumps. These aren't taste buds themselves, as many people think. They're called papillae, and the taste buds are found within them. An adult has somewhere between two thousand and eight thousand taste buds, and each one contains between fifty and a hundred and fifty receptor cells. These cells are replaced roughly every ten days, which is why your sense of taste recovers so quickly after you burn your tongue on hot coffee."
+    },
+    {
+     "id": "454E7FC5-0088-5915-B910-5F70D3ED3F4E",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "For a long time, scientists recognised four basic tastes: sweet, sour, salty and bitter. In the early twentieth century, a Japanese chemist named Kikunae Ikeda proposed a fifth, which he called umami, from the Japanese word for delicious. Umami is the savoury taste found in foods like meat, cheese, mushrooms and tomatoes. It took almost a century for Western scientists to accept it, because it wasn't until around the year 2000 that the specific receptor for umami on the tongue was identified."
+    },
+    {
+     "id": "6D81A13D-80CE-5DE0-874F-2049BC78E929",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Now, you may have seen a diagram called the tongue map, which shows sweet at the tip, bitter at the back, and so on. I'm afraid this is a myth. It came from a mistranslation of a German paper published in 1901, which said only that some areas were slightly more sensitive than others. In fact, all five tastes can be detected on all parts of the tongue."
+    },
+    {
+     "id": "D7C6E0E6-708F-5A32-9B98-F56BEAEA720D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Why do we have these particular tastes? The usual explanation is evolutionary. Sweetness signals energy-rich food, while salt is needed for our nerves and muscles to work properly. Bitterness, on the other hand, often indicates poison, which is why most people find strongly bitter foods unpleasant, and why young children are particularly sensitive to it. Sourness may warn us of food that has gone bad, although it also helps us identify fruit that's rich in vitamin C."
+    },
+    {
+     "id": "BCFB3F5A-F4E0-508A-938B-30A47694319F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "But the tongue is only part of the story. What we call flavour is actually a combination of taste and smell, and smell contributes far more than taste. When you chew, air carrying aromas from the food travels up the back of your throat into your nose, where it reaches the olfactory receptors. This is why food seems tasteless when you have a cold and your nose is blocked. You can test this yourself: hold your nose and eat a jelly bean, and you'll probably only notice that it's sweet. Let go, and suddenly you can tell whether it's cherry or lemon."
+    },
+    {
+     "id": "8BA1CE2C-5E92-5B8F-83D5-61F8838D7FEB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Our perception of flavour is also influenced by our other senses, especially sight. In one well-known experiment, wine experts were given white wine that had been coloured red with a tasteless dye, and they described it using words normally used for red wine. Sound matters too. Crisps are rated as fresher and crunchier when the sound of the crunch is made louder through headphones."
+    },
+    {
+     "id": "77FB98A1-E0F8-5100-82E2-CD7BED9838EB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Finally, why do people's tastes differ so much? Part of the answer is genetic. About a quarter of people are what researchers call supertasters. They have more taste buds than average and find bitter foods, such as coffee, dark chocolate or certain green vegetables, much more intense. At the other end, around a quarter are non-tasters, who are less sensitive. Age plays a role as well: the number of taste buds gradually declines, which is one reason older people often add more salt to their food."
+    },
+    {
+     "id": "FFD19EFD-664C-57F2-94AF-65B3E3D91BA9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "But culture and experience are probably the most important factors. Most people dislike bitter or very spicy foods the first time they try them, yet many come to enjoy them after repeated exposure. Children may need to try a new vegetable ten or fifteen times before they accept it, which is a useful thing for parents to know. Next time, we'll look at how food companies use this research when they develop new products."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice01-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "The bumps on the tongue are called __________; taste buds are inside them",
+     "explanation": "The bumps are papillae, which contain taste buds.",
+     "evidenceQuote": "They're called papillae",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "papillae"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Receptor cells are replaced about every ten __________",
+     "explanation": "Receptor cells are renewed about every ten days.",
+     "evidenceQuote": "These cells are replaced roughly every ten days",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "days"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Umami: savoury taste found in meat, cheese, mushrooms and __________",
+     "explanation": "Umami foods include tomatoes.",
+     "evidenceQuote": "meat, cheese, mushrooms and tomatoes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tomatoes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The tongue map came from a mistaken __________ of a German paper",
+     "explanation": "The tongue map came from a mistranslation.",
+     "evidenceQuote": "It came from a mistranslation of a German paper",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mistranslation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Bitterness may be a warning of __________",
+     "explanation": "Bitterness often signals poison.",
+     "evidenceQuote": "Bitterness, on the other hand, often indicates poison",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "poison"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Flavour depends more on smell than on __________",
+     "explanation": "Smell contributes more than taste.",
+     "evidenceQuote": "smell contributes far more than taste",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "taste"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Experts described white wine coloured with a __________ as red wine",
+     "explanation": "The wine was coloured with a tasteless dye.",
+     "evidenceQuote": "coloured red with a tasteless dye",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dye"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Crisps seem fresher when the __________ is made louder",
+     "explanation": "A louder crunch makes crisps seem fresher.",
+     "evidenceQuote": "when the sound of the crunch is made louder",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "crunch"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Older people may add more __________ because taste buds decline",
+     "explanation": "Older people tend to add more salt.",
+     "evidenceQuote": "older people often add more salt to their food",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "salt"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Children may need to try a vegetable 10–15 times: importance of repeated __________",
+     "explanation": "Repeated exposure leads to acceptance.",
+     "evidenceQuote": "many come to enjoy them after repeated exposure",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "exposure"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "taste bud",
+    "receptor",
+    "umami",
+    "olfactory",
+    "perception"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice01-rp1",
+   "passageNumber": 1,
+   "title": "The surprising history of coffee",
+   "discipline": "History & Trade",
+   "paragraphs": [
+    "Coffee is now one of the most widely traded agricultural products in the world, and billions of cups are drunk every day. Yet for most of human history it was unknown outside a small part of north-east Africa. The coffee plant grows wild in the highland forests of Ethiopia, and a popular legend tells of a goatherd named Kaldi who noticed that his goats became unusually lively after eating the red berries of a certain shrub. The story is almost certainly invented, and the first reliable evidence of coffee drinking comes not from Ethiopia but from across the Red Sea, in Yemen, in the fifteenth century.",
+    "In Yemen, coffee was first associated with Sufi religious communities, whose members drank it to stay awake during night-time prayers. From there, the habit spread quickly along trade and pilgrimage routes to Mecca, Cairo and eventually Istanbul. By the middle of the sixteenth century, coffee houses had become an established feature of city life across the Ottoman Empire. They were places where men met to talk, play board games, listen to music and discuss the news. Not everyone approved. Religious and political authorities in several cities tried to close coffee houses, partly because of doubts about whether coffee was permitted by religious law, but mainly because they feared the coffee houses were centres of gossip and political criticism. These bans rarely lasted long.",
+    "Europeans first encountered coffee through travellers and merchants trading with the Ottoman world. The first coffee house in Christian Europe is often said to have opened in Venice, although Oxford has a strong claim, with a coffee house recorded there in 1650. Within a few decades, London had hundreds of them. They were sometimes called 'penny universities', because for the price of a cup of coffee, anyone could join conversations with merchants, scientists and writers. Several famous institutions began in coffee houses: the insurance market Lloyd's of London, for example, grew out of a coffee house where ship owners and merchants gathered to share news about shipping.",
+    "For more than two hundred years, almost all the world's coffee came from Yemen, which tried to protect its monopoly by allowing only roasted or boiled beans, which could not be planted, to leave the country. Eventually, however, live plants or fertile seeds were smuggled out. The Dutch established coffee plantations on the island of Java, in what is now Indonesia, in the late seventeenth century, and the French took plants to their Caribbean colonies in the early eighteenth century. From there, coffee cultivation spread to Central and South America, where conditions proved ideal.",
+    "The expansion of coffee production had a dark side. On many plantations in the Caribbean and Brazil, the work was done by enslaved Africans, and the growing European demand for coffee, along with sugar, helped to sustain the slave trade. Even after slavery was abolished, coffee workers often laboured in very poor conditions for low wages. Brazil became the world's largest producer during the nineteenth century, a position it still holds today, and coffee was so important to its economy that the country's political history was shaped by the interests of powerful coffee growers.",
+    "In the twentieth century, coffee became a mass consumer product. Instant coffee, which had been developed earlier, became widely popular after the Second World War, and vacuum-packed ground coffee made it possible to sell coffee in supermarkets that stayed fresh for months. Prices, however, were notoriously unstable, rising and falling sharply with weather conditions in Brazil, and producing countries tried at various times to control supply through international agreements. More recently, concerns about the low prices paid to small farmers led to the growth of certification schemes such as Fairtrade, which guarantee a minimum price.",
+    "Today, coffee faces a new challenge. Arabica, the species that produces most high-quality coffee, grows best within a narrow range of temperatures, and scientists predict that climate change could greatly reduce the land suitable for growing it by the middle of this century. Researchers are now searching wild coffee species in Africa for plants that can tolerate heat and drought, in the hope that the drink which spread from the forests of Ethiopia may yet be saved by its wild relatives."
+   ],
+   "questions": [
+    {
+     "id": "practice01-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The earliest reliable evidence of coffee drinking comes from Ethiopia.",
+     "explanation": "The earliest reliable evidence is from Yemen.",
+     "evidenceQuote": "the first reliable evidence of coffee drinking comes not from Ethiopia but from across the Red Sea, in Yemen",
+     "skillTag": "tfng",
+     "distractorNote": "Coffee grows wild in Ethiopia, but the evidence of drinking is from Yemen.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice01-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Sufi communities used coffee to help them stay awake.",
+     "explanation": "They drank it to stay awake at night.",
+     "evidenceQuote": "whose members drank it to stay awake during night-time prayers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice01-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Women were not allowed to enter Ottoman coffee houses.",
+     "explanation": "The passage mentions men meeting but says nothing about rules for women.",
+     "evidenceQuote": "They were places where men met to talk",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice01-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Bans on coffee houses in the Ottoman Empire were usually short-lived.",
+     "explanation": "The bans rarely lasted long.",
+     "evidenceQuote": "These bans rarely lasted long.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice01-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Oxford had a coffee house before Venice.",
+     "explanation": "Both claims are mentioned, but no date is given for Venice, so we cannot compare.",
+     "evidenceQuote": "Oxford has a strong claim, with a coffee house recorded there in 1650",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice01-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Lloyd's of London began in a coffee house.",
+     "explanation": "Lloyd's grew out of a coffee house.",
+     "evidenceQuote": "grew out of a coffee house where ship owners and merchants gathered",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice01-R7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Yemen protected its __________ by exporting only beans that could not be planted",
+     "explanation": "Yemen protected its monopoly.",
+     "evidenceQuote": "tried to protect its monopoly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "monopoly"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "The Dutch grew coffee on the island of __________",
+     "explanation": "The Dutch set up plantations on Java.",
+     "evidenceQuote": "on the island of Java",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Java"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Demand for coffee and __________ helped to sustain the slave trade",
+     "explanation": "Coffee and sugar demand sustained the slave trade.",
+     "evidenceQuote": "along with sugar, helped to sustain the slave trade",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sugar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Brazil: the largest producer since the nineteenth __________",
+     "explanation": "Brazil has led since the nineteenth century.",
+     "evidenceQuote": "Brazil became the world's largest producer during the nineteenth century",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "century"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Instant coffee became popular after the Second World __________",
+     "explanation": "Instant coffee spread after the war.",
+     "evidenceQuote": "became widely popular after the Second World War",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "War"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Coffee prices were affected by __________ in Brazil",
+     "explanation": "Brazilian weather made prices unstable.",
+     "evidenceQuote": "rising and falling sharply with weather conditions in Brazil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weather"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Scientists are searching for wild species that can survive heat and __________",
+     "explanation": "They seek heat- and drought-tolerant plants.",
+     "evidenceQuote": "plants that can tolerate heat and drought",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "drought"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice01-rp2",
+   "passageNumber": 2,
+   "title": "The power of belief: understanding the placebo effect",
+   "discipline": "Medicine & Psychology",
+   "paragraphs": [
+    "A placebo is a treatment that has no active ingredient: a sugar pill, an injection of salt water, or even a fake operation. In medical research, placebos are given to one group of patients in a trial so that the effects of a real drug can be compared with the effects of simply receiving treatment. Yet patients who receive placebos often improve, sometimes dramatically. This phenomenon, the placebo effect, was once regarded mainly as a nuisance that made drug testing more difficult. Over the last few decades, however, it has become a subject of serious scientific study in its own right.",
+    "The term became widely known after the Second World War, partly through the work of an American anaesthetist, Henry Beecher. Beecher had served as a doctor during the war and reported that when supplies of morphine ran out, nurses sometimes injected wounded soldiers with salt water while telling them it was a powerful painkiller, and that many soldiers reported their pain had eased. In 1955 he published an influential paper claiming that about a third of patients in a range of studies responded to placebos. His figures were later criticised, because many of the patients would probably have improved anyway, but the paper helped make placebo-controlled trials the standard method of testing new medicines.",
+    "This criticism points to an important difficulty. When a patient improves after taking a placebo, the improvement may not be caused by the placebo at all. Many conditions get better naturally over time, and symptoms that vary from day to day tend to be measured when they are at their worst, so that a later measurement is likely to show improvement whatever happens. To identify a true placebo effect, researchers need to compare patients who receive a placebo with others who receive no treatment of any kind. When this is done, the effect on objective measures such as blood tests is usually small, while the effect on symptoms that patients report themselves, such as pain, nausea or tiredness, can be considerable.",
+    "Pain has been studied more than any other symptom, and experiments have revealed some of the mechanisms involved. Brain scans show that when people expect a treatment to relieve pain, areas of the brain involved in processing pain become less active. In some studies, the effect of a placebo painkiller could be blocked by a drug that prevents the action of endorphins, the body's natural painkilling chemicals. This suggests that expectation can trigger real physical changes, rather than merely changing the way people describe their experience.",
+    "Remarkably, the details of a placebo can change its effect. Studies have found that two placebo pills tend to work better than one, that injections work better than pills, and that capsules described as expensive produce more relief than identical ones described as cheap. Colour seems to matter too: in some studies, patients expected blue pills to be calming and red ones to be stimulating. The behaviour of the doctor is also important. In one experiment involving patients with a digestive disorder, those who received a placebo from a warm and attentive practitioner improved considerably more than those who received the same placebo from someone who was brief and businesslike.",
+    "The most surprising findings involve so-called open-label placebos, in which patients are told honestly that the pills they are taking contain no medicine. In several small trials, patients with conditions such as chronic back pain who took open-label placebos reported less pain than those who continued their usual care. Researchers are still unsure why this should happen. One explanation is that the ritual of taking a pill regularly may itself trigger a learned response, built up over a lifetime of taking medicines that work.",
+    "These findings raise difficult ethical questions. Deceiving patients by giving them fake treatments without their knowledge is generally considered unacceptable, because it undermines trust between doctors and patients. Open-label placebos may offer a way around this problem, but they are not a cure-all: there is no evidence that placebos can shrink tumours or cure infections, and relying on them for serious illness could be dangerous. What the research does suggest is that the context in which treatment is given, including the relationship between patient and practitioner, deserves more attention than modern medicine has sometimes given it."
+   ],
+   "questions": [
+    {
+     "id": "practice01-R14",
+     "number": 14,
+     "format": "Matching Information",
+     "prompt": "an example of how a practitioner's manner affected patients' progress",
+     "explanation": "Paragraph E describes the warm versus brief practitioner experiment.",
+     "evidenceQuote": "those who received a placebo from a warm and attentive practitioner improved considerably more",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "practice01-R15",
+     "number": 15,
+     "format": "Matching Information",
+     "prompt": "a reason why some apparent placebo effects may be misleading",
+     "explanation": "Paragraph C explains natural improvement and measurement timing.",
+     "evidenceQuote": "the improvement may not be caused by the placebo at all",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "practice01-R16",
+     "number": 16,
+     "format": "Matching Information",
+     "prompt": "evidence that the body's own chemicals may be involved",
+     "explanation": "Paragraph D mentions endorphins.",
+     "evidenceQuote": "a drug that prevents the action of endorphins",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "practice01-R17",
+     "number": 17,
+     "format": "Matching Information",
+     "prompt": "a warning about using placebos for serious diseases",
+     "explanation": "Paragraph G warns about serious illness.",
+     "evidenceQuote": "relying on them for serious illness could be dangerous",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "practice01-R18",
+     "number": 18,
+     "format": "Matching Information",
+     "prompt": "an account of placebos being used when real medicine was unavailable",
+     "explanation": "Paragraph B describes wartime use.",
+     "evidenceQuote": "when supplies of morphine ran out",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "practice01-R19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "Beecher's work helped to establish __________ trials as the usual way of testing medicines.",
+     "explanation": "His paper helped make placebo-controlled trials standard.",
+     "evidenceQuote": "helped make placebo-controlled trials the standard method",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "placebo-controlled"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice01-R20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "Placebos usually have little effect on objective measures such as __________.",
+     "explanation": "Objective measures like blood tests change little.",
+     "evidenceQuote": "the effect on objective measures such as blood tests is usually small",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blood tests"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice01-R21",
+     "number": 21,
+     "format": "Sentence Completion",
+     "prompt": "Capsules said to be __________ gave more relief than identical cheap ones.",
+     "explanation": "Expensive-seeming capsules worked better.",
+     "evidenceQuote": "capsules described as expensive produce more relief",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "expensive"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice01-R22",
+     "number": 22,
+     "format": "Sentence Completion",
+     "prompt": "Some patients thought that __________ pills would make them feel calm.",
+     "explanation": "Blue pills were expected to be calming.",
+     "evidenceQuote": "patients expected blue pills to be calming",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blue"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice01-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why were Beecher's figures criticised?",
+     "explanation": "Many patients would have improved without treatment.",
+     "evidenceQuote": "many of the patients would probably have improved anyway",
+     "skillTag": "detail",
+     "options": [
+      "A. His studies included too few patients.",
+      "B. He did not allow for natural recovery.",
+      "C. He worked only with soldiers.",
+      "D. He used the wrong kind of placebo."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. He did not allow for natural recovery.",
+      "He did not allow for natural recovery."
+     ]
+    },
+    {
+     "id": "practice01-R24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph D, brain scans suggest that expectation",
+     "explanation": "Pain-processing areas become less active.",
+     "evidenceQuote": "areas of the brain involved in processing pain become less active",
+     "skillTag": "detail",
+     "options": [
+      "A. reduces activity in pain-related brain areas.",
+      "B. increases the production of pain.",
+      "C. has no measurable effect on the brain.",
+      "D. only changes how people describe pain."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. reduces activity in pain-related brain areas.",
+      "reduces activity in pain-related brain areas."
+     ]
+    },
+    {
+     "id": "practice01-R25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What is unusual about open-label placebos?",
+     "explanation": "Patients know the pills are inactive.",
+     "evidenceQuote": "patients are told honestly that the pills they are taking contain no medicine",
+     "skillTag": "detail",
+     "options": [
+      "A. They are more expensive than other placebos.",
+      "B. They contain a small amount of real medicine.",
+      "C. They are only used for back pain.",
+      "D. Patients know they are taking an inactive pill."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Patients know they are taking an inactive pill.",
+      "Patients know they are taking an inactive pill."
+     ]
+    },
+    {
+     "id": "practice01-R26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer conclude about placebo research?",
+     "explanation": "The context of treatment deserves more attention.",
+     "evidenceQuote": "deserves more attention than modern medicine has sometimes given it",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Placebos should replace many medicines.",
+      "B. Placebo research is unethical.",
+      "C. The setting of treatment matters more than was thought.",
+      "D. Doctors should deceive patients when necessary."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The setting of treatment matters more than was thought.",
+      "The setting of treatment matters more than was thought."
+     ]
+    }
+   ],
+   "estimatedWordCount": 712,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G."
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  },
+  {
+   "id": "practice01-rp3",
+   "passageNumber": 3,
+   "title": "Our inner ecosystem",
+   "discipline": "Microbiology",
+   "paragraphs": [
+    "Every human body is home to trillions of microorganisms, most of them bacteria, living on the skin, in the mouth and above all in the gut. For a long time, these microbes attracted attention mainly when they caused disease. Today, however, the community of organisms living in our intestines, known as the gut microbiome, is one of the most active areas of medical research, and scientists increasingly regard it almost as an additional organ, one that influences digestion, immunity and possibly even mood.",
+    "Part of the reason for this change is technological. Most gut bacteria cannot survive in the presence of oxygen, which made them extremely difficult to grow in the laboratory, and for decades scientists could study only a small proportion of the species present. The development of fast and cheap methods of reading DNA changed this. Instead of trying to grow bacteria, researchers can now take a sample, extract all the genetic material it contains and identify the species by their genes. Such studies have revealed that each person carries several hundred species of bacteria in the gut, and that the combination varies greatly from one individual to another.",
+    "Some of the functions of these microbes are now well understood. Human digestive enzymes cannot break down many of the fibres found in plant foods, but gut bacteria can. In doing so, they produce substances called short-chain fatty acids, which provide energy to the cells lining the gut and appear to help reduce inflammation. Gut bacteria also produce certain vitamins, and a healthy community of microbes seems to help protect against harmful bacteria, partly by competing with them for space and nutrients.",
+    "The microbiome also appears to play an important role in training the immune system. Studies of mice raised in completely sterile conditions, with no microbes at all, show that their immune systems do not develop normally. In humans, some researchers have linked the rise in allergies and autoimmune diseases in wealthy countries to reduced exposure to microbes in early life, a theory sometimes called the hygiene hypothesis, although many scientists now prefer the term 'old friends' hypothesis, since the key factor seems to be contact with the microbes humans evolved alongside rather than dirt itself.",
+    "Among the most widely reported findings are links between the microbiome and conditions that seem to have nothing to do with the gut, from obesity to depression. In one striking experiment, gut bacteria taken from human twins, one of whom was obese and one lean, were transferred into mice. Mice that received bacteria from the obese twin gained more fat than those that received bacteria from the lean twin, even though they ate the same diet. Experiments of this kind have generated great excitement, but they need to be interpreted with care. Most of the evidence for links with mental health comes from animal studies, and in humans it is often unclear whether changes in the microbiome cause disease or are a consequence of it.",
+    "In my view, some of the public enthusiasm for the microbiome has run well ahead of the science. Shops now sell a wide range of probiotic products, which contain live bacteria and are promoted as improving health. While certain probiotics have been shown to help with specific problems, such as some kinds of diarrhoea, there is little good evidence that they benefit healthy people. One difficulty is that the bacteria in most products do not settle permanently in the gut, and simply pass through. Spending money on such products is, for most people, unlikely to do much harm, but it is also unlikely to do much good.",
+    "Diet, on the other hand, clearly affects the microbiome. People who eat a wide variety of plant foods tend to have a more diverse community of gut bacteria, and diversity is generally associated with better health. Antibiotics, though essential for treating infections, can sharply reduce bacterial diversity, and some species may take months to recover. For the moment, the advice that follows from microbiome research is reassuringly familiar: eat plenty of fibre and a variety of vegetables, fruit and whole grains, and use antibiotics only when they are really needed. More dramatic treatments may come in the future, but they will need to be tested as carefully as any other medicine."
+   ],
+   "questions": [
+    {
+     "id": "practice01-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Public interest in the microbiome has sometimes gone beyond what the evidence supports.",
+     "explanation": "The writer says enthusiasm has run ahead of the science.",
+     "evidenceQuote": "some of the public enthusiasm for the microbiome has run well ahead of the science",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice01-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Probiotics are dangerous for healthy people.",
+     "explanation": "The writer says they are unlikely to do harm.",
+     "evidenceQuote": "unlikely to do much harm, but it is also unlikely to do much good",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice01-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Probiotic products are too expensive.",
+     "explanation": "The writer mentions spending money but gives no view on price.",
+     "evidenceQuote": "Spending money on such products",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice01-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Antibiotics should be used only when they are genuinely necessary.",
+     "explanation": "The writer advises using antibiotics only when needed.",
+     "evidenceQuote": "use antibiotics only when they are really needed",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice01-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Microbiome research has produced advice that is very different from earlier dietary advice.",
+     "explanation": "The advice is familiar, not different.",
+     "evidenceQuote": "the advice that follows from microbiome research is reassuringly familiar",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice01-R32",
+     "number": 32,
+     "format": "Summary Completion",
+     "prompt": "Most gut bacteria cannot live where there is __________, so they were hard to grow in laboratories.",
+     "explanation": "Oxygen kills most gut bacteria.",
+     "evidenceQuote": "Most gut bacteria cannot survive in the presence of oxygen",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oxygen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R33",
+     "number": 33,
+     "format": "Summary Completion",
+     "prompt": "Now scientists identify species from their __________ instead.",
+     "explanation": "Species are identified by their genes.",
+     "evidenceQuote": "identify the species by their genes",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "genes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R34",
+     "number": 34,
+     "format": "Summary Completion",
+     "prompt": "Bacteria break down plant __________ that human enzymes cannot digest.",
+     "explanation": "Bacteria digest plant fibres.",
+     "evidenceQuote": "cannot break down many of the fibres found in plant foods",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fibres"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R35",
+     "number": 35,
+     "format": "Summary Completion",
+     "prompt": "This produces fatty acids that may help reduce __________.",
+     "explanation": "Short-chain fatty acids may reduce inflammation.",
+     "evidenceQuote": "appear to help reduce inflammation",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "inflammation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R36",
+     "number": 36,
+     "format": "Summary Completion",
+     "prompt": "Mice raised in __________ conditions develop abnormal immune systems.",
+     "explanation": "Sterile mice have abnormal immune development.",
+     "evidenceQuote": "mice raised in completely sterile conditions",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sterile"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice01-R37",
+     "number": 37,
+     "format": "Matching Sentence Endings",
+     "prompt": "The \"old friends\" hypothesis suggests that",
+     "explanation": "The key is contact with familiar microbes, not dirt.",
+     "evidenceQuote": "the key factor seems to be contact with the microbes humans evolved alongside rather than dirt itself",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. put on more fat while eating the same food.",
+      "B. do not remain in the gut for long.",
+      "C. cure most digestive problems.",
+      "D. contact with familiar microbes matters more than dirt.",
+      "E. should be given to all children.",
+      "F. is based mainly on research with animals."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. contact with familiar microbes matters more than dirt.",
+      "contact with familiar microbes matters more than dirt."
+     ]
+    },
+    {
+     "id": "practice01-R38",
+     "number": 38,
+     "format": "Matching Sentence Endings",
+     "prompt": "In the twin experiment, mice given bacteria from the obese twin",
+     "explanation": "They gained more fat on the same diet.",
+     "evidenceQuote": "gained more fat than those that received bacteria from the lean twin",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. put on more fat while eating the same food.",
+      "B. do not remain in the gut for long.",
+      "C. cure most digestive problems.",
+      "D. contact with familiar microbes matters more than dirt.",
+      "E. should be given to all children.",
+      "F. is based mainly on research with animals."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. put on more fat while eating the same food.",
+      "put on more fat while eating the same food."
+     ]
+    },
+    {
+     "id": "practice01-R39",
+     "number": 39,
+     "format": "Matching Sentence Endings",
+     "prompt": "Most of the evidence linking the microbiome with mental health",
+     "explanation": "It comes from animal studies.",
+     "evidenceQuote": "Most of the evidence for links with mental health comes from animal studies",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. put on more fat while eating the same food.",
+      "B. do not remain in the gut for long.",
+      "C. cure most digestive problems.",
+      "D. contact with familiar microbes matters more than dirt.",
+      "E. should be given to all children.",
+      "F. is based mainly on research with animals."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. is based mainly on research with animals.",
+      "is based mainly on research with animals."
+     ]
+    },
+    {
+     "id": "practice01-R40",
+     "number": 40,
+     "format": "Matching Sentence Endings",
+     "prompt": "The bacteria in most probiotic products",
+     "explanation": "They do not settle and simply pass through.",
+     "evidenceQuote": "simply pass through",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. put on more fat while eating the same food.",
+      "B. do not remain in the gut for long.",
+      "C. cure most digestive problems.",
+      "D. contact with familiar microbes matters more than dirt.",
+      "E. should be given to all children.",
+      "F. is based mainly on research with animals."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. do not remain in the gut for long.",
+      "do not remain in the gut for long."
+     ]
+    }
+   ],
+   "estimatedWordCount": 711,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. put on more fat while eating the same food.",
+      "B. do not remain in the gut for long.",
+      "C. cure most digestive problems.",
+      "D. contact with familiar microbes matters more than dirt.",
+      "E. should be given to all children.",
+      "F. is based mainly on research with animals."
+     ]
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice01-w1",
+  "title": "Average hours of sleep by age group and country",
+  "visualType": "Bar Chart",
+  "instructions": "The bar chart below shows the average number of hours that people in three age groups slept per night in four countries in 2022. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "DB8016CC-3910-5527-9991-D27A86084A49",
+    "series": "Teenagers",
+    "category": "Australia",
+    "value": 8.1,
+    "unit": "hours per night"
+   },
+   {
+    "id": "FD80E55E-5CE6-55C5-9E3A-D9868985B1EB",
+    "series": "Adults",
+    "category": "Australia",
+    "value": 7.2,
+    "unit": "hours per night"
+   },
+   {
+    "id": "96361152-2481-54F3-B9DA-17BB9D1BF236",
+    "series": "Over 65s",
+    "category": "Australia",
+    "value": 7.5,
+    "unit": "hours per night"
+   },
+   {
+    "id": "AFF0D00A-A6B0-5AB4-90D8-CDF0E58A0C57",
+    "series": "Teenagers",
+    "category": "Japan",
+    "value": 7.0,
+    "unit": "hours per night"
+   },
+   {
+    "id": "989714BB-DEF9-53E6-AC47-20354BC2A6DE",
+    "series": "Adults",
+    "category": "Japan",
+    "value": 6.3,
+    "unit": "hours per night"
+   },
+   {
+    "id": "E21A958E-E580-5EEF-8F29-3B5A6CEA7379",
+    "series": "Over 65s",
+    "category": "Japan",
+    "value": 6.9,
+    "unit": "hours per night"
+   },
+   {
+    "id": "08A97A8C-FE81-592C-AFF6-F35209F2A8AE",
+    "series": "Teenagers",
+    "category": "Netherlands",
+    "value": 8.4,
+    "unit": "hours per night"
+   },
+   {
+    "id": "1B2A949A-14A9-5CEB-AB34-1A6B69CF326C",
+    "series": "Adults",
+    "category": "Netherlands",
+    "value": 7.6,
+    "unit": "hours per night"
+   },
+   {
+    "id": "CB642571-5B16-5763-B6CD-02A1AA3C02EB",
+    "series": "Over 65s",
+    "category": "Netherlands",
+    "value": 7.8,
+    "unit": "hours per night"
+   },
+   {
+    "id": "01F0713F-2545-5DDC-B064-AABF53778A9C",
+    "series": "Teenagers",
+    "category": "USA",
+    "value": 7.4,
+    "unit": "hours per night"
+   },
+   {
+    "id": "64E17BB0-E821-5D47-B75B-C1C523F1663F",
+    "series": "Adults",
+    "category": "USA",
+    "value": 6.8,
+    "unit": "hours per night"
+   },
+   {
+    "id": "B7BA918D-1D1C-534A-93CE-B5B9AC7C3688",
+    "series": "Over 65s",
+    "category": "USA",
+    "value": 7.1,
+    "unit": "hours per night"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "In every country, teenagers slept the most and working-age adults the least.",
+   "People in the Netherlands slept longest overall, while those in Japan slept least."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice01-w2",
+  "title": "Health: individuals or governments",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Health",
+  "promptText": "Some people think that individuals are responsible for their own health and should make better lifestyle choices. Others believe that governments should take more action to improve public health. Discuss both these views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice01-spk",
+  "theme": "Health, sleep and daily routine",
+  "part1Questions": [
+   "Do you usually get enough sleep?",
+   "What time do you normally go to bed?",
+   "Do you ever take a nap during the day?",
+   "What do you do to stay healthy?",
+   "Is there any food you think is especially healthy?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a healthy habit you have or would like to develop.",
+   "bulletPoints": [
+    "what the habit is",
+    "when you started it or want to start it",
+    "how easy or difficult it is",
+    "and explain why you think it is a good habit"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do many people find it hard to keep healthy habits?",
+   "Should schools teach children about sleep and nutrition?",
+   "Do you think people are healthier now than in the past?",
+   "Should unhealthy food be taxed?",
+   "How can workplaces help employees stay healthy?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Medical and scientific findings are summarised in general terms for practice and are not health advice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

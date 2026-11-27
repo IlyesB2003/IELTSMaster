@@ -1,0 +1,2208 @@
+{
+ "id": "exam43",
+ "examNumber": 43,
+ "pool": "mock",
+ "title": "Mock Exam 43: Endangered Languages, Dialects & Communication",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Endangered Languages, Dialects & Communication",
+ "listeningParts": [
+  {
+   "id": "exam43-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on a sign language course",
+   "contextDescription": "A woman phones a community college to enrol on an evening course in British Sign Language.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "4A58B2C2-B9F2-5F66-A98A-589B7BFF671E",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Good evening, Riverside Community College, Adult Learning. This is Martin. How can I help?"
+    },
+    {
+     "id": "A6168937-EB70-5ECD-AC98-7346B8B2699E",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Hello. I'm interested in your British Sign Language course for beginners. I saw it advertised, and I wanted to find out a bit more before I enrol."
+    },
+    {
+     "id": "77BDFC41-20C9-5BB5-8B0F-904253A87283",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Of course. That's our Level One course. It's for complete beginners, so you don't need any previous experience. By the end, you'll be able to hold simple conversations about everyday topics, like your family, your work and your free time."
+    },
+    {
+     "id": "F98C77B0-B90B-5359-9A48-4A856DEB7DCD",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That sounds ideal. Can I ask how long it lasts?"
+    },
+    {
+     "id": "5D943D3C-11D0-57DA-B94D-BAE7043ADA0D",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "It runs for twenty-four weeks, starting in September, with a break over Christmas. There's one class a week, and each class is two hours long."
+    },
+    {
+     "id": "91CCCDF3-4BD3-59EA-871F-CE7A52C27E7D",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "And which evening is it on?"
+    },
+    {
+     "id": "6187B6F4-DDF8-52F7-B417-2FF299FAABA4",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "We run two groups. There's one on Monday evenings and one on Thursday evenings. The Monday group is already full, I'm afraid, but there are still a few places left on Thursdays."
+    },
+    {
+     "id": "6F530AB8-AF44-5106-8DEC-DB6C40BC6DE3",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Thursday's fine for me. What time does it start?"
+    },
+    {
+     "id": "51A92ACD-2A86-52D8-B39F-3E2A693A14D7",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Classes start at a quarter to seven and finish at a quarter to nine. Most people come straight from work, so we've made it a little later than our other evening courses."
+    },
+    {
+     "id": "45F436A7-DB49-5537-BF59-DB7CE23F86AA",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Good. And what's the fee?"
+    },
+    {
+     "id": "05F9B6F2-A2C6-5814-A452-B0177539B582",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "The full fee is two hundred and ten pounds. There's a reduced fee of a hundred and forty pounds for students and people receiving certain benefits. Do either of those apply to you?"
+    },
+    {
+     "id": "8C5F9705-CE04-5612-AD32-E37E13FF0E71",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "No, I'm working full time, so I'll pay the full fee. Does that include the exam?"
+    },
+    {
+     "id": "AA48DCBF-DAFA-5E32-B994-2787FF57F460",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "It doesn't, unfortunately. At the end of the course there's an assessment, which is optional, and it costs an extra forty-five pounds. If you pass, you get a nationally recognised certificate. Most people do take it."
+    },
+    {
+     "id": "39E3F94E-5554-5C4C-BE70-BDA4E76DF08A",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Okay. Where are the classes held?"
+    },
+    {
+     "id": "DDD1635E-39F5-509E-9160-E035401F87F8",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "In the Hartley Building, which is the newer building opposite the main entrance. The room number will be sent to you by email about a week before the course starts."
+    },
+    {
+     "id": "71D79F2F-E332-58E3-A515-11968F126556",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Great. Is there anything I should buy before the course, a textbook or anything?"
+    },
+    {
+     "id": "5F5E5F8D-B122-50BD-839A-2A34937DC09E",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "No, you don't need a textbook. The tutor gives out handouts, and there are videos on the college website so you can practise at home. Some people find it useful to practise in front of a mirror, so they can check their hand shapes and facial expressions. In sign language, your face is very important, because expressions show things like questions and emotions."
+    },
+    {
+     "id": "6923A684-3EA7-51CF-8679-43F194BA7A91",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "I didn't know that. That's fascinating."
+    },
+    {
+     "id": "FAECF3A9-4EC1-50BB-8AD2-84644C8F3832",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Can I ask why you're interested in learning? We ask everyone, just for our records."
+    },
+    {
+     "id": "AA131304-1586-5A74-A466-31D076C11E38",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Yes, a new colleague has just joined my team, and she's deaf. She lip-reads very well, but I'd like to be able to communicate with her properly, and I think it would make her feel more welcome."
+    },
+    {
+     "id": "5336A48B-6F12-5EC1-8440-C4CE7CD239E1",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "That's a lovely reason. You'll find quite a few people on the course are learning for similar reasons. And the tutor herself is deaf, by the way, so from the very first class, you'll be learning directly from a native signer."
+    },
+    {
+     "id": "637D3FBD-67A2-54CA-9C57-5B7E9BAE82FD",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Even better. Can I enrol now?"
+    },
+    {
+     "id": "5DEF4F2F-688A-5F10-A273-57A00EEA1D16",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Certainly. Can I have your full name, please?"
+    },
+    {
+     "id": "E6E9A404-5D56-54D6-9E71-22F0DE7223E6",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's Aoife Carrick. The surname is C-A-R-R-I-C-K."
+    },
+    {
+     "id": "7DE1BAC1-695E-581E-8CBD-FA6F55FFC502",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Thank you. And your date of birth?"
+    },
+    {
+     "id": "6D030399-AB37-51A4-8F0C-D5EE4DF9A6D6",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "The ninth of March, 1994."
+    },
+    {
+     "id": "0FF3271E-E293-514F-AB3D-DD3343A9BBFA",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Lovely. And could I ask where you heard about the course?"
+    },
+    {
+     "id": "CEFAFDDE-6B08-5513-8B31-212840E2F3D6",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It was on the radio, actually, on the local station. They had someone talking about deaf awareness week."
+    },
+    {
+     "id": "6E7587F4-50EF-5326-B7FD-70FCD3A464E7",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "That's good to know. Right, I'll send you a link to pay online, and once that's done, your place is confirmed. You'll get a welcome pack with a guide to fingerspelling, which is the alphabet you make with your hands. It's worth learning it before the first class if you can."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam43-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Course length: __________ weeks",
+     "explanation": "The course lasts 24 weeks.",
+     "evidenceQuote": "It runs for twenty-four weeks",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "24",
+      "twenty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Each class lasts __________ hours",
+     "explanation": "Classes are two hours long.",
+     "evidenceQuote": "each class is two hours long",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "2",
+      "two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Day: __________ evenings",
+     "explanation": "She chooses the Thursday group.",
+     "evidenceQuote": "Thursday's fine for me.",
+     "skillTag": "dates",
+     "distractorNote": "The Monday group is full.",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Full fee: £__________",
+     "explanation": "She pays the full fee of £210.",
+     "evidenceQuote": "The full fee is two hundred and ten pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£140 is the reduced fee; £45 is the assessment.",
+     "options": [],
+     "acceptedAnswers": [
+      "210"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Optional assessment costs £__________ extra",
+     "explanation": "The assessment costs £45.",
+     "evidenceQuote": "it costs an extra forty-five pounds",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "45"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Venue for the course: the __________ Building",
+     "explanation": "Classes are in the Hartley Building.",
+     "evidenceQuote": "In the Hartley Building",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hartley"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Useful to practise in front of a __________",
+     "explanation": "A mirror helps check hand shapes.",
+     "evidenceQuote": "practise in front of a mirror",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mirror"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Reason for learning: a new __________ is deaf",
+     "explanation": "Her new colleague is deaf.",
+     "evidenceQuote": "a new colleague has just joined my team, and she's deaf",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "colleague"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Carrick.",
+     "evidenceQuote": "It's Aoife Carrick. The surname is C-A-R-R-I-C-K.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Carrick"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Heard about the course on the __________",
+     "explanation": "She heard about it on the radio.",
+     "evidenceQuote": "It was on the radio",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "radio"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "beginners' level",
+    "enrolment",
+    "concession",
+    "assessment",
+    "fingerspelling"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam43-lp2",
+   "partNumber": 2,
+   "title": "A community dialect recording project",
+   "contextDescription": "A project coordinator talks on local radio about a project to record the dialect of a rural area.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B00D8A32-1024-51E5-A9F9-D143F2691159",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And now I'm joined in the studio by Helen Ward, who's coordinating a new project called Valley Voices. Helen, welcome."
+    },
+    {
+     "id": "02D18BFC-7254-5FB0-A25F-512E9B9FAF03",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "Thank you. It's lovely to be here."
+    },
+    {
+     "id": "876885FF-E1C6-504C-BAD0-ED8C82594586",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "So, tell us what the project is about."
+    },
+    {
+     "id": "5B4B6D5C-5658-5378-945E-BDCCDB15BFC9",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "Well, Valley Voices is an attempt to record the way people in this area speak before it changes beyond recognition. The local dialect has its own words, its own grammar and, of course, its own accent, and a lot of people assume it will always be there. But when we spoke to families, we found that many grandparents use words that their grandchildren simply don't understand. So we're collecting recordings now, while there are still plenty of people who speak the dialect naturally."
+    },
+    {
+     "id": "E096DB77-24D2-5F54-A5C8-4C40F45662F1",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Why is it changing so quickly?"
+    },
+    {
+     "id": "574EEC62-50F6-5AAE-A3A4-DB6BD07A7D7E",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "There are several reasons, but the one people mention most often is that young people move away for university or work, and when they come back, their speech has changed. Television and the internet play a part too, but actually the research suggests that face-to-face contact with people from other places has a bigger effect on how we speak than anything we watch."
+    },
+    {
+     "id": "7563CC70-E884-564E-9051-3047A9794295",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "That's surprising. So how does the project work?"
+    },
+    {
+     "id": "CA6D741A-69FB-5B13-954C-D04EE2264BC0",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "We're looking for two kinds of volunteers. First, people who'd like to be recorded. We're especially keen to hear from people over seventy, but we want all ages, because we're interested in how the dialect differs between generations. Each recording session lasts about an hour. We don't ask people to read word lists; we just chat about their memories of school, work and family life, because people speak much more naturally when they're telling a story."
+    },
+    {
+     "id": "18B44527-F68A-5EAE-A3BB-73FDB27D405E",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And the second kind of volunteer?"
+    },
+    {
+     "id": "7C628716-B1C0-5581-96FB-E76944A296B9",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "We need people to help with the recordings and, even more importantly, with transcription, which means typing out exactly what's said. It's slow work, and that's where we really need help. One hour of speech can take six or seven hours to transcribe. You don't need any experience, as we'll give you full training."
+    },
+    {
+     "id": "74FDED97-5E95-5D01-816C-CBE82939425E",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Where will all this material end up?"
+    },
+    {
+     "id": "7A22BA88-169E-5438-AC50-C2B5897A9365",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "Everything will go into a permanent archive at the county record office, so it's preserved for future generations, and a selection will be available free online, with a map, so you'll be able to click on a village and hear the people who live there. We're also working with local primary schools, and children will be interviewing their own grandparents, which we hope will make them proud of the way their families speak."
+    },
+    {
+     "id": "7529793E-FF09-5946-9F47-0901F1D2A787",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "How can people get involved?"
+    },
+    {
+     "id": "D14C6A1D-1709-5526-8488-61B37F2B1AC4",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "We're running a series of events over the next month. On the fourth, there's an introductory talk at the town library, where I'll explain the project and play some of the recordings we've already made. A week later, we're holding a training day for transcription volunteers at the community centre. That's a full day, and lunch is provided."
+    },
+    {
+     "id": "4F0B195F-785D-5B24-9A0B-3548F8F38400",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "Then, on the eighteenth, we have what we're calling a word hunt at the farming museum. People bring in old dialect words they remember, and we record them along with their meanings. Last time we did this, someone brought in a list of over two hundred words that her father had written down in the nineteen fifties. And, finally, at the end of the month, we'll have a recording day back at the community centre, where anyone can drop in and be recorded, no appointment needed."
+    },
+    {
+     "id": "32C31672-DA26-51B0-B50F-ABA7A59D3F01",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And if people can't make any of those?"
+    },
+    {
+     "id": "5DB36B06-18FC-5342-A53A-B4D810CBCAFD",
+     "speaker": "Helen",
+     "accent": "en-GB",
+     "text": "They can still take part. We've set up a page on our website where you can record yourself using a phone or computer, answering a few simple questions. The quality isn't quite as good as in a proper session, but it all helps. We'd also love to hear from people who have old recordings at home, for example cassette tapes of family gatherings, because they give us a picture of how the dialect sounded decades ago."
+    },
+    {
+     "id": "5257926D-822D-5F30-A52D-9E860218B4F6",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Helen Ward, thank you very much."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam43-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What first made the project team realise the dialect was changing?",
+     "explanation": "Grandchildren do not understand their grandparents' words.",
+     "evidenceQuote": "many grandparents use words that their grandchildren simply don't understand",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Fewer people used dialect on local radio.",
+      "B. Young people could not understand some words used by older relatives.",
+      "C. Teachers reported changes in children's writing."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Young people could not understand some words used by older relatives.",
+      "Young people could not understand some words used by older relatives."
+     ]
+    },
+    {
+     "id": "exam43-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "According to Helen, what has the strongest influence on how people speak?",
+     "explanation": "Personal contact matters more than media.",
+     "evidenceQuote": "face-to-face contact with people from other places has a bigger effect on how we speak than anything we watch",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. television",
+      "B. the internet",
+      "C. meeting people from elsewhere"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. meeting people from elsewhere",
+      "meeting people from elsewhere"
+     ]
+    },
+    {
+     "id": "exam43-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why are speakers asked to talk about their memories?",
+     "explanation": "Stories produce natural speech.",
+     "evidenceQuote": "people speak much more naturally when they're telling a story",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Their speech is more natural.",
+      "B. It helps the project write a local history.",
+      "C. It is quicker than reading word lists."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Their speech is more natural.",
+      "Their speech is more natural."
+     ]
+    },
+    {
+     "id": "exam43-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What does Helen say about transcription?",
+     "explanation": "It takes many hours.",
+     "evidenceQuote": "One hour of speech can take six or seven hours to transcribe.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It requires previous experience.",
+      "B. It is very time-consuming.",
+      "C. It can be done partly by computer."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It is very time-consuming.",
+      "It is very time-consuming."
+     ]
+    },
+    {
+     "id": "exam43-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Helen hope the school project will achieve?",
+     "explanation": "She hopes children will feel proud.",
+     "evidenceQuote": "which we hope will make them proud of the way their families speak",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. improve children's interviewing skills",
+      "B. encourage children to study languages",
+      "C. make children proud of their family's speech"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. make children proud of their family's speech",
+      "make children proud of their family's speech"
+     ]
+    },
+    {
+     "id": "exam43-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "an introductory talk with recordings",
+     "explanation": "The talk is at the library.",
+     "evidenceQuote": "there's an introductory talk at the town library",
+     "skillTag": "matching",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. town library",
+      "town library"
+     ]
+    },
+    {
+     "id": "exam43-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "a training day with lunch provided",
+     "explanation": "Training is at the community centre.",
+     "evidenceQuote": "we're holding a training day for transcription volunteers at the community centre",
+     "skillTag": "matching",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. community centre",
+      "community centre"
+     ]
+    },
+    {
+     "id": "exam43-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "collecting old dialect words and their meanings",
+     "explanation": "The word hunt is at the farming museum.",
+     "evidenceQuote": "we have what we're calling a word hunt at the farming museum",
+     "skillTag": "matching",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. farming museum",
+      "farming museum"
+     ]
+    },
+    {
+     "id": "exam43-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "recording without an appointment",
+     "explanation": "Drop-in recording is at the community centre.",
+     "evidenceQuote": "we'll have a recording day back at the community centre, where anyone can drop in",
+     "skillTag": "matching",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. community centre",
+      "community centre"
+     ]
+    },
+    {
+     "id": "exam43-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "recording yourself at home",
+     "explanation": "Self-recording is online.",
+     "evidenceQuote": "We've set up a page on our website where you can record yourself",
+     "skillTag": "matching",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. project website",
+      "project website"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "dialect",
+    "oral history",
+    "archive",
+    "recording session",
+    "volunteer"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Where will each of the following events or services take place? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. town library",
+      "B. community centre",
+      "C. farming museum",
+      "D. project website"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam43-lp3",
+   "partNumber": 3,
+   "title": "A presentation on whistled languages",
+   "contextDescription": "Two linguistics students, Sofia and Josh, discuss a presentation on whistled languages with their tutor.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "79941CBC-D11F-525A-AF3B-D4A02410DF24",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, Sofia, Josh, your presentation is on whistled languages. Remind me why you chose the topic."
+    },
+    {
+     "id": "9F600365-3F28-59D8-9BC6-FE08875118D4",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "Honestly, it started with a video I saw of shepherds on La Gomera, in the Canary Islands, having a conversation across a valley just by whistling. I assumed it was a simple code, like a few signals for 'come here' or 'danger'. But it turns out it's a complete way of speaking Spanish. Almost anything you can say, you can whistle."
+    },
+    {
+     "id": "0D74C07C-EEA0-5C4F-ABBE-085557CDB0E0",
+     "speaker": "Josh",
+     "accent": "en-AU",
+     "text": "That's the key point we want to make at the start. Whistled languages aren't separate languages. They're a way of transmitting an ordinary spoken language, in this case Spanish, by replacing the voice with a whistle. The whistle copies the changes in pitch and rhythm that are there in normal speech."
+    },
+    {
+     "id": "0EC2B384-5634-5C95-ACCB-63E0F8053BB1",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Good. Where else are they found?"
+    },
+    {
+     "id": "414A2F28-2996-5999-AEC6-1C5B1A3B3CD3",
+     "speaker": "Josh",
+     "accent": "en-AU",
+     "text": "In quite a few places, actually. One researcher, Julien Meyer, estimates there are around seventy communities around the world that use or used whistled speech. What they mostly have in common is the landscape: steep mountains or thick forest, where people live and work far apart, and shouting doesn't carry very far."
+    },
+    {
+     "id": "905B4BF2-3566-53C4-B1E3-67F4F620256E",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "A whistle can be heard over several kilometres in the right conditions, much further than a shout. So for farmers or shepherds working on opposite sides of a valley, it saves walking for an hour to deliver a message."
+    },
+    {
+     "id": "02E11F65-E8CA-5E77-9D84-C8B8736BAED4",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "So what's happened to Silbo Gomero, the Gomera whistle, in recent times?"
+    },
+    {
+     "id": "68FF3AED-27C4-5758-B710-02EFBB963ABB",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "It nearly died out in the second half of the twentieth century. Roads were built, telephones arrived, and many young people left the island to find work, so there was less need for it. People also started to see it as old-fashioned, something associated with poverty."
+    },
+    {
+     "id": "155B708E-E9B1-5118-812D-673DFC78F056",
+     "speaker": "Josh",
+     "accent": "en-AU",
+     "text": "But then the local government took action. Since 1999, it's been a compulsory subject in the island's primary schools, so every child learns at least the basics. And in 2009, UNESCO added it to its list of the intangible cultural heritage of humanity, which gave it a lot of international attention."
+    },
+    {
+     "id": "5BB55D2C-73CC-5EF6-A702-DA32FE69B1A7",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Do you think the school programme has been a success?"
+    },
+    {
+     "id": "18FF3B33-459D-57A2-9482-78ECC06BFE2B",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "In terms of numbers, definitely. Thousands of children have learned it. But we read some interviews suggesting that many of them only use it at school or for festivals. It's become more of a cultural symbol than a practical tool, because, of course, they all have mobile phones."
+    },
+    {
+     "id": "C9493193-E02C-593C-B6A1-1B0F52218CB6",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That's a fair point to include. Revival doesn't always mean returning to the original function. What's your second example?"
+    },
+    {
+     "id": "D6D377C6-5AF5-5EAB-9D6E-69DF59BB5EBB",
+     "speaker": "Josh",
+     "accent": "en-AU",
+     "text": "Kuşköy, a village in the mountains near the Black Sea coast of Turkey. The name actually means 'bird village'. People there use whistled Turkish, and in 2017 UNESCO put it on its list of heritage in need of urgent safeguarding, because the number of fluent whistlers has fallen sharply."
+    },
+    {
+     "id": "BA9DFE81-A83D-57B8-AD6C-D686EBBA8BD4",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "And there's a really interesting study connected with Kuşköy. A team led by a German researcher, Onur Güntürkün, tested how people in the village process whistled speech. Normally, we understand language mainly with the left side of the brain. But they found that with whistled Turkish, the two sides of the brain were much more equally involved."
+    },
+    {
+     "id": "BF262C4F-8DB8-517E-88A0-EE4E55203D0A",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Yes, that was published in 2015, I think. It's a striking result, but be careful how you present it. It was a fairly small study, so don't claim more than the authors did."
+    },
+    {
+     "id": "33A52E8D-2EF5-59EC-A99A-7F8E77C6FAA5",
+     "speaker": "Josh",
+     "accent": "en-AU",
+     "text": "Okay, we'll make that clear. We were also planning to include a short audio clip of Silbo Gomero, if that's all right."
+    },
+    {
+     "id": "3DC62D05-4C97-5C31-B52B-A2204D6AFF57",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Absolutely, audio will make a big difference. Just keep it under a minute, and check the sound in the seminar room beforehand, because the speakers there aren't very good. And I'd like you to finish with a question for the group to discuss, perhaps about whether these languages can survive once their practical purpose has gone."
+    },
+    {
+     "id": "4AE522C3-D6F8-5AA4-B802-AD2FE1516129",
+     "speaker": "Sofia",
+     "accent": "en-US",
+     "text": "That's a great idea. We could link it to other endangered languages too."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam43-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did Sofia originally believe about the whistling on La Gomera?",
+     "explanation": "She thought it was a simple code.",
+     "evidenceQuote": "I assumed it was a simple code",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was a basic set of signals.",
+      "B. It was a separate language.",
+      "C. It was used only for music."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It was a basic set of signals.",
+      "It was a basic set of signals."
+     ]
+    },
+    {
+     "id": "exam43-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Josh, what do whistled languages reproduce?",
+     "explanation": "Whistles copy pitch and rhythm.",
+     "evidenceQuote": "The whistle copies the changes in pitch and rhythm",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the vocabulary of birdsong",
+      "B. a simplified grammar",
+      "C. the pitch and rhythm of speech"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the pitch and rhythm of speech",
+      "the pitch and rhythm of speech"
+     ]
+    },
+    {
+     "id": "exam43-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What do most communities that use whistled speech have in common?",
+     "explanation": "They share difficult landscapes.",
+     "evidenceQuote": "What they mostly have in common is the landscape",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are on islands.",
+      "B. They live in difficult terrain.",
+      "C. They work mainly as shepherds."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They live in difficult terrain.",
+      "They live in difficult terrain."
+     ]
+    },
+    {
+     "id": "exam43-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Which factor is NOT mentioned as a cause of the decline of Silbo Gomero?",
+     "explanation": "Tourism is not mentioned.",
+     "evidenceQuote": "Roads were built, telephones arrived, and many young people left the island to find work",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. new roads",
+      "B. young people leaving",
+      "C. growth in tourism"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. growth in tourism",
+      "growth in tourism"
+     ]
+    },
+    {
+     "id": "exam43-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What point does Sofia make about children who learn Silbo at school?",
+     "explanation": "It has become a symbol.",
+     "evidenceQuote": "It's become more of a cultural symbol than a practical tool",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They rarely use it for practical purposes.",
+      "B. Few of them reach a high level.",
+      "C. Their parents disapprove of it."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They rarely use it for practical purposes.",
+      "They rarely use it for practical purposes."
+     ]
+    },
+    {
+     "id": "exam43-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What warning does the tutor give about the Kuşköy brain study?",
+     "explanation": "They should not overstate the findings.",
+     "evidenceQuote": "It was a fairly small study, so don't claim more than the authors did.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its methods have been criticised.",
+      "B. Its findings should not be exaggerated.",
+      "C. It has not yet been published."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Its findings should not be exaggerated.",
+      "Its findings should not be exaggerated."
+     ]
+    },
+    {
+     "id": "exam43-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Silbo Gomero compulsory in primary schools since __________",
+     "explanation": "It has been compulsory since 1999.",
+     "evidenceQuote": "Since 1999, it's been a compulsory subject in the island's primary schools",
+     "skillTag": "numbers",
+     "distractorNote": "2009 is the year of UNESCO recognition.",
+     "options": [],
+     "acceptedAnswers": [
+      "1999"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Kuşköy means \"__________ village\"",
+     "explanation": "Kuşköy means bird village.",
+     "evidenceQuote": "The name actually means 'bird village'.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bird"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Audio clip must be under one __________",
+     "explanation": "The clip must be under a minute.",
+     "evidenceQuote": "Just keep it under a minute",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "minute"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "End the presentation with a __________ for discussion",
+     "explanation": "They should end with a question.",
+     "evidenceQuote": "I'd like you to finish with a question for the group to discuss",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "question"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "whistled speech",
+    "intangible heritage",
+    "pitch",
+    "hemisphere",
+    "terrain"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam43-lp4",
+   "partNumber": 4,
+   "title": "Pidgins and creoles",
+   "contextDescription": "A lecture in a linguistics course on how new languages are born from contact between peoples.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "353C0BD6-83D9-571E-9C3B-F09BF9DB20DE",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning. Much of this course has been about languages disappearing, so today I want to look at the opposite process: how new languages are born. And one of the clearest examples is the development of pidgins and creoles."
+    },
+    {
+     "id": "EC91D724-92D1-592D-8937-3983C04A61F1",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let's start with definitions. A pidgin is a simplified form of communication that develops when groups of people who have no language in common need to communicate, usually for a limited purpose, such as trade. Historically, many pidgins grew up around ports, trading posts and plantations. The word pidgin itself is often said to come from the way the English word business was pronounced in Chinese ports, though that explanation isn't certain."
+    },
+    {
+     "id": "2209B9D4-720C-5725-AC24-BBFA06CE0B06",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "A pidgin has two important features. First, most of its vocabulary comes from one dominant language, which linguists call the lexifier. In many cases this was the language of the traders or colonial powers, such as English, French or Portuguese. Second, its grammar is greatly reduced. There are usually no endings on verbs to show tense, and no complicated rules for plurals. And crucially, a pidgin has no native speakers. Everyone who uses it has another first language, and uses the pidgin only when they need to."
+    },
+    {
+     "id": "3EC70151-E62D-5089-98DB-9FBE7EDCF245",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Something remarkable happens, though, when a pidgin becomes the main language of a community, and children start to grow up speaking it as their first language. At that point, linguists call it a creole. And in the process, the language changes dramatically. Within a generation or two, it develops a much richer vocabulary and a full, consistent grammar, with ways of marking tense, and of building complex sentences. A creole is a complete language in every sense, capable of expressing anything its speakers need, from jokes to legal arguments."
+    },
+    {
+     "id": "688AE9E4-9D2B-564D-8ADC-909C9260E4F0",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let me give you some examples. Tok Pisin, spoken in Papua New Guinea, began as a pidgin used on plantations and in trade, but it's now one of the country's official languages and is spoken by millions of people, many of them as a first language. Its vocabulary comes mostly from English, but its grammar is very much its own. Haitian Creole, which is based mainly on French, is spoken by almost the entire population of Haiti, and since 1987 it has been one of the country's two official languages, alongside French."
+    },
+    {
+     "id": "9507345E-BE74-5E74-96D5-E083D83457ED",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "One of the best-studied cases is in Hawaii. In the late nineteenth and early twentieth centuries, workers arrived on the sugar plantations from China, Japan, Portugal, the Philippines and elsewhere. A pidgin developed so that they could communicate, and the children of these workers turned it into a creole, which is still widely spoken in Hawaii today. The linguist Derek Bickerton, who studied it in detail, argued that children have an inborn ability to create grammar, and that this explains why creoles around the world share many features, even when they developed far apart. That's a controversial theory, and many linguists disagree with it, but it's been very influential."
+    },
+    {
+     "id": "4114EB5B-F220-51C7-910E-BB909DE06501",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Some of the strongest evidence for children's role comes from an unexpected place: Nicaragua. Before the late nineteen seventies, deaf children there were mostly isolated at home, using simple gestures with their families. When new schools for deaf children opened in the capital, Managua, hundreds of them were brought together for the first time. The teachers focused on lip-reading Spanish, with little success, but in the playground and on the buses, the children developed their own system of signs. And researchers found that each new group of younger children made the system more complex and more regular. Within a few decades, it had become a full language, now known as Nicaraguan Sign Language."
+    },
+    {
+     "id": "50AAA06B-6554-5B01-8C9F-C4DCE2CC187A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Finally, a word about attitudes. For a long time, creoles were dismissed as broken or bad versions of European languages, and in many countries children were punished for speaking them at school. Today, linguists recognise them as full languages, and some governments use them in education and the media. But the old prejudices haven't completely disappeared, and that's something we'll come back to next week when we discuss language and identity."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam43-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Pidgins develop when groups need to communicate, usually for __________",
+     "explanation": "Trade is the typical purpose.",
+     "evidenceQuote": "usually for a limited purpose, such as trade",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trade"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Many pidgins began around ports, trading posts and __________",
+     "explanation": "Plantations were common settings.",
+     "evidenceQuote": "many pidgins grew up around ports, trading posts and plantations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plantations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "The language that supplies most of the vocabulary is called the __________",
+     "explanation": "It is called the lexifier.",
+     "evidenceQuote": "which linguists call the lexifier",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lexifier"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "A pidgin has no __________ speakers",
+     "explanation": "Nobody speaks a pidgin as a first language.",
+     "evidenceQuote": "a pidgin has no native speakers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "native"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "A creole develops when __________ grow up speaking a pidgin as a first language",
+     "explanation": "Children turn it into a creole.",
+     "evidenceQuote": "children start to grow up speaking it as their first language",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "children"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Tok Pisin is spoken in Papua New __________",
+     "explanation": "It is spoken in Papua New Guinea.",
+     "evidenceQuote": "Tok Pisin, spoken in Papua New Guinea",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Guinea"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Haitian Creole is based mainly on __________",
+     "explanation": "Its main source is French.",
+     "evidenceQuote": "which is based mainly on French",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "French"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Hawaiian workers came to work on __________ plantations",
+     "explanation": "They worked on sugar plantations.",
+     "evidenceQuote": "workers arrived on the sugar plantations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sugar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Bickerton: children have an inborn ability to create __________",
+     "explanation": "He believed children create grammar.",
+     "evidenceQuote": "children have an inborn ability to create grammar",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grammar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Nicaraguan teachers focused on __________ Spanish",
+     "explanation": "Teachers emphasised lip-reading.",
+     "evidenceQuote": "The teachers focused on lip-reading Spanish",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lip-reading"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "pidgin",
+    "creole",
+    "lexifier",
+    "native speaker",
+    "plantation"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam43-rp1",
+   "passageNumber": 1,
+   "title": "The rebirth of Hebrew",
+   "discipline": "History of Language",
+   "paragraphs": [
+    "Languages that stop being spoken almost never come back. Once a generation of children grows up without hearing a language at home, it usually survives only in books, recordings and the memories of a few elderly speakers. Hebrew is the great exception. For well over a thousand years it was nobody's mother tongue, yet today it is the everyday language of millions of people, used for everything from parliamentary debates to pop songs and text messages. How this happened is one of the most remarkable stories in the history of language.",
+    "Hebrew had been the spoken language of the ancient Israelites, but by the early centuries of the Common Era it had largely been replaced in daily life by Aramaic, and later by other languages as Jewish communities spread across the world. It did not disappear, however. It remained the language of prayer, of religious study and of a rich written literature, and educated Jews in different countries could correspond in it. In a sense, it was never dead, but it was a language that people read and wrote rather than one that they spoke at home.",
+    "The figure most closely associated with its revival is Eliezer Ben-Yehuda, who was born in 1858 in the Russian Empire. Influenced by the national movements of nineteenth-century Europe, he became convinced that the Jewish people needed a shared spoken language, and that it could only be Hebrew. In 1881 he moved to Jerusalem, where he and his wife agreed to speak only Hebrew at home. Their son, born the following year, is often described as the first child in modern times to grow up with Hebrew as his first language. Ben-Yehuda was famously strict: he is said to have tried to stop his son hearing any other language at all.",
+    "One obvious problem was that ancient Hebrew had no words for many features of modern life. Ben-Yehuda devoted much of his life to filling these gaps, creating new words, often from ancient roots, and collecting them in a huge dictionary. He could not complete it himself; the final volumes appeared decades after his death in 1922. Among the words credited to him is the Hebrew word for dictionary itself, milon. In 1890 he helped to found the Hebrew Language Committee, which continued the work of creating new vocabulary and became the Academy of the Hebrew Language in 1953.",
+    "Historians now stress, however, that the revival was not the achievement of one man. Ben-Yehuda's newspapers and dictionary were important, but the decisive change happened in schools. In the agricultural settlements founded by Jewish immigrants from the 1880s onwards, teachers began to teach all subjects in Hebrew, rather than teaching Hebrew as a separate subject. Children who learned in this way began to use the language with each other in the playground and, eventually, with their own children at home. It was this new generation of native speakers who turned Hebrew into a living language.",
+    "The commitment to Hebrew was tested in 1913, in an episode known as the Language War. A new technical college was being established in Haifa, and its organisers, supported by a German Jewish organisation, decided that some subjects would be taught in German, which was then an important language of science. Teachers and students across the country protested and went on strike, arguing that every subject should be taught in Hebrew. The protests succeeded, and when the college finally opened, Hebrew became its language of instruction.",
+    "After the First World War, the British authorities who governed Palestine recognised Hebrew as one of the territory's three official languages, alongside English and Arabic, in 1922. When the State of Israel was founded in 1948, Hebrew became the main language of the new country, and an intensive system of language schools was set up to teach it to the hundreds of thousands of immigrants who arrived speaking Arabic, Yiddish, Russian and many other languages. For many of them, Hebrew was the only language they had in common.",
+    "Campaigners for other endangered languages have often looked to Hebrew for inspiration, but its circumstances were unusual. The language had never stopped being read and studied, so there was a large body of texts to draw on. Its speakers were immigrants who needed a common language, and many were strongly motivated by a national ideal. Few endangered languages today enjoy all of these advantages. Nevertheless, the story of Hebrew shows that the decline of a language is not always irreversible, and that what happens in classrooms and family homes matters more than anything else."
+   ],
+   "questions": [
+    {
+     "id": "exam43-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "For many centuries, Hebrew was not the first language of anyone.",
+     "explanation": "It was no one's mother tongue for over a thousand years.",
+     "evidenceQuote": "For well over a thousand years it was nobody's mother tongue",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam43-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Hebrew stopped being written once it was no longer spoken in daily life.",
+     "explanation": "It continued to be written and read.",
+     "evidenceQuote": "It remained the language of prayer, of religious study and of a rich written literature",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam43-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Ben-Yehuda learned Hebrew from his parents as a young child.",
+     "explanation": "The passage does not say how he learned Hebrew.",
+     "evidenceQuote": "who was born in 1858 in the Russian Empire",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam43-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Ben-Yehuda finished his dictionary shortly before he died.",
+     "explanation": "It was completed long after his death.",
+     "evidenceQuote": "the final volumes appeared decades after his death in 1922",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam43-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Historians believe schools played the most important role in the revival.",
+     "explanation": "Schools were decisive.",
+     "evidenceQuote": "the decisive change happened in schools",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam43-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The college in Haifa was eventually closed because of the Language War.",
+     "explanation": "The college opened and taught in Hebrew.",
+     "evidenceQuote": "when the college finally opened, Hebrew became its language of instruction",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam43-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most immigrants to Israel after 1948 already spoke some Hebrew.",
+     "explanation": "Their previous knowledge of Hebrew is not stated.",
+     "evidenceQuote": "For many of them, Hebrew was the only language they had in common",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam43-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "In daily life, Hebrew was first replaced by __________",
+     "explanation": "Aramaic replaced Hebrew.",
+     "evidenceQuote": "it had largely been replaced in daily life by Aramaic",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Aramaic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Ben-Yehuda was influenced by __________ movements in Europe",
+     "explanation": "National movements influenced him.",
+     "evidenceQuote": "Influenced by the national movements of nineteenth-century Europe",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "national"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "New words were often created from ancient __________",
+     "explanation": "They were built from ancient roots.",
+     "evidenceQuote": "often from ancient roots",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "roots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Teachers in agricultural __________ taught every subject in Hebrew",
+     "explanation": "Teaching took place in the settlements.",
+     "evidenceQuote": "In the agricultural settlements founded by Jewish immigrants",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "settlements"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "The organisers of the Haifa college wanted some teaching in __________",
+     "explanation": "They planned to teach in German.",
+     "evidenceQuote": "some subjects would be taught in German",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "German"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "In 1922 Hebrew became one of three __________ languages",
+     "explanation": "It became an official language.",
+     "evidenceQuote": "one of the territory's three official languages",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "official"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 758,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam43-rp2",
+   "passageNumber": 2,
+   "title": "Counting the world's voices",
+   "discipline": "Linguistics",
+   "paragraphs": [
+    "Around seven thousand languages are spoken in the world today, but they are very unevenly shared. A small number of giants, such as Mandarin Chinese, Spanish, English and Hindi, each have hundreds of millions of speakers, and around half of the world's population speaks one of just a couple of dozen languages. At the other extreme, thousands of languages are spoken by communities of a few thousand people or fewer. Diversity is also unevenly spread across the globe: Papua New Guinea alone is home to more than eight hundred languages, while some large European countries have only a handful.",
+    "Even counting languages is less straightforward than it sounds, because there is no simple rule for deciding where one language ends and another begins. Linguists often ask whether speakers can understand each other, but this test does not always match how people see themselves. Speakers of Norwegian and Swedish can usually follow each other's speech, yet they are considered separate languages, while the varieties of Chinese known as Mandarin and Cantonese are often called dialects, although their speakers may not understand each other at all. As the linguist Max Weinreich famously remarked, a language is a dialect with an army and a navy.",
+    "Languages rarely die because all their speakers die. Far more often, a community gradually shifts to a different language that seems more useful. Parents who want their children to succeed at school or find work in the city may decide to speak to them in the national language rather than their own. In the past, governments often encouraged this directly. In nineteenth-century Wales, for example, some schools punished children for speaking Welsh by making them wear a wooden sign known as the Welsh Not. Within a few generations, a language that was once spoken by everyone can be known only by the elderly.",
+    "Researchers have developed several ways of measuring how endangered a language is. UNESCO's Atlas of the World's Languages in Danger places languages in categories ranging from vulnerable to critically endangered. The American sociolinguist Joshua Fishman proposed a scale of eight stages describing how far a language has declined. What these systems share is an emphasis on one factor above all: whether children are still learning the language from their parents. A language with only a few thousand speakers may be perfectly safe if children are acquiring it, while one with a million speakers may be in serious trouble if they are not.",
+    "The final stage of decline is often marked by the death of a last native speaker. Ned Maddrell, who died in 1974, is generally regarded as the last person to have spoken Manx, the Celtic language of the Isle of Man, as a first language. In 2008, the death of Marie Smith Jones in Alaska marked the end of Eyak, a language she had helped linguists to record. Such moments attract attention, but by the time they occur, the language has usually been declining for many decades.",
+    "How fast is this happening? In 1992, the linguist Michael Krauss warned that as many as ninety per cent of the world's languages might be gone or seriously threatened by the end of the twenty-first century. More recent estimates are less extreme but still worrying. A study led by researchers at the Australian National University, published in 2021, examined fifty-one possible factors and predicted that, without action, around fifteen hundred languages could stop being spoken by the end of this century. Surprisingly, it found that more years of schooling and a higher density of roads were both linked to greater endangerment.",
+    "One response has been to record languages before they disappear. Linguists work with speakers to produce dictionaries, grammars and, above all, recordings of everyday speech, stories and songs, which are stored in digital archives. Increasingly, this work is led by communities themselves rather than by outside experts. Smartphones and social media have made it far easier for speakers to record and share their languages, and some communities have produced apps, online courses and even video games in languages with only a few hundred speakers.",
+    "Documentation alone, however, does not keep a language alive, and some communities have gone further. On the Isle of Man, a primary school teaching entirely through Manx opened in 2001, and a small number of children are once again growing up with the language. In New Zealand, Māori 'language nests', in which preschool children are cared for entirely in Māori, began in 1982, and a similar movement in Hawaii started the following year. These programmes show that, with enough commitment, the direction of decline can sometimes be reversed."
+   ],
+   "questions": [
+    {
+     "id": "exam43-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B discusses the difficulty of defining a language.",
+     "evidenceQuote": "there is no simple rule for deciding where one language ends and another begins",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. A problem of definition",
+      "A problem of definition"
+     ]
+    },
+    {
+     "id": "exam43-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains language shift.",
+     "evidenceQuote": "a community gradually shifts to a different language that seems more useful",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Choosing a more useful language",
+      "Choosing a more useful language"
+     ]
+    },
+    {
+     "id": "exam43-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D shows that transmission to children is key.",
+     "evidenceQuote": "whether children are still learning the language from their parents",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. The single most important test",
+      "The single most important test"
+     ]
+    },
+    {
+     "id": "exam43-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes last speakers.",
+     "evidenceQuote": "The final stage of decline is often marked by the death of a last native speaker.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. The end of the line",
+      "The end of the line"
+     ]
+    },
+    {
+     "id": "exam43-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F gives predictions about the rate of loss.",
+     "evidenceQuote": "How fast is this happening?",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Forecasting the scale of loss",
+      "Forecasting the scale of loss"
+     ]
+    },
+    {
+     "id": "exam43-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers documentation.",
+     "evidenceQuote": "One response has been to record languages before they disappear.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Preserving a record",
+      "Preserving a record"
+     ]
+    },
+    {
+     "id": "exam43-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes revival programmes.",
+     "evidenceQuote": "the direction of decline can sometimes be reversed",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Turning the tide",
+      "Turning the tide"
+     ]
+    },
+    {
+     "id": "exam43-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "The writer mentions Norwegian, Swedish, Mandarin and Cantonese to show that",
+     "explanation": "Mutual understanding does not always decide what counts as a language.",
+     "evidenceQuote": "this test does not always match how people see themselves",
+     "skillTag": "detail",
+     "options": [
+      "A. European languages are easier to understand than Asian ones.",
+      "B. mutual understanding is not a reliable way of separating languages.",
+      "C. dialects usually have fewer speakers than languages.",
+      "D. governments decide which languages are taught."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. mutual understanding is not a reliable way of separating languages.",
+      "mutual understanding is not a reliable way of separating languages."
+     ]
+    },
+    {
+     "id": "exam43-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph D, a language with a million speakers may be in danger if",
+     "explanation": "Children are not learning it.",
+     "evidenceQuote": "one with a million speakers may be in serious trouble if they are not",
+     "skillTag": "detail",
+     "options": [
+      "A. it is not recorded by UNESCO.",
+      "B. it has no written form.",
+      "C. children are not acquiring it.",
+      "D. its speakers live in cities."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. children are not acquiring it.",
+      "children are not acquiring it."
+     ]
+    },
+    {
+     "id": "exam43-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did the 2021 study find surprising?",
+     "explanation": "Schooling and roads were linked to endangerment.",
+     "evidenceQuote": "more years of schooling and a higher density of roads were both linked to greater endangerment",
+     "skillTag": "detail",
+     "options": [
+      "A. Education and roads were associated with higher risk.",
+      "B. Small languages were declining more slowly than expected.",
+      "C. Krauss's predictions had been accurate.",
+      "D. Only fifty-one languages were at risk."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Education and roads were associated with higher risk.",
+      "Education and roads were associated with higher risk."
+     ]
+    },
+    {
+     "id": "exam43-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Welsh children were sometimes punished by having to wear a __________.",
+     "explanation": "They wore a wooden sign.",
+     "evidenceQuote": "making them wear a wooden sign known as the Welsh Not",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wooden sign"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam43-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Recordings of languages are kept in __________.",
+     "explanation": "Recordings go into digital archives.",
+     "evidenceQuote": "which are stored in digital archives",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "digital archives"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam43-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "In Māori language nests, __________ are cared for entirely in Māori.",
+     "explanation": "Preschool children are cared for in Māori.",
+     "evidenceQuote": "in which preschool children are cared for entirely in Māori",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "preschool children"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 767,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. The end of the line",
+      "ii. Turning the tide",
+      "iii. Choosing a more useful language",
+      "iv. The rise of global English",
+      "v. Forecasting the scale of loss",
+      "vi. Why some languages have more words",
+      "vii. A problem of definition",
+      "viii. Preserving a record",
+      "ix. The single most important test"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam43-rp3",
+   "passageNumber": 3,
+   "title": "Should every language be saved?",
+   "discipline": "Sociolinguistics & Ethics",
+   "paragraphs": [
+    "When a language disappears, what exactly is lost? For many linguists, the answer is obvious: something irreplaceable. Each language represents a unique way of organising sounds, words and ideas, developed over thousands of years. Yet the question of whether outsiders should try to prevent languages from dying is more complicated than it first appears, and it has divided scholars for more than three decades. The debate touches not only on science, but on questions of identity, economics and the right of communities to make their own choices.",
+    "The modern debate is often traced to 1992, when the American linguist Ken Hale and several colleagues published a set of articles warning of a crisis in the world's languages. Hale, who had worked with Aboriginal communities in Australia and Native American communities in the United States, became one of the most passionate defenders of small languages. In a much-quoted comparison, he said that losing a language was like dropping a bomb on a great museum such as the Louvre. For Hale and his colleagues, linguists had a responsibility not merely to describe endangered languages but to help keep them alive.",
+    "Not everyone agreed. In the same year, the British phonetician Peter Ladefoged published a response arguing that linguists should be cautious about telling communities what to do. He described speakers who had chosen to abandon their language because they believed another one would give their children better opportunities, and he argued that it was not the role of a scientist to decide that they were wrong. In my view, Ladefoged's warning remains important. Outsiders, however well-meaning, can easily treat communities as guardians of a museum collection rather than as people with their own needs and ambitions.",
+    "Defenders of language preservation offer several kinds of argument. David Crystal, in his book Language Death, published in 2000, set out reasons why the loss of any language should concern everyone, from the value of diversity itself to the role of language in identity and history. The American linguist K. David Harrison has emphasised that small languages often contain detailed knowledge of the natural world, such as names for plants, animals and weather patterns that have no equivalent in the major languages. When the language goes, he argues, this knowledge may go with it, because it has never been written down.",
+    "Other researchers have focused on what happens inside communities as a language declines. The American linguist Nancy Dorian, who spent many years studying a dialect of Scottish Gaelic in the north of Scotland, introduced the term 'semi-speakers' for people who understand a language well but speak it only imperfectly. Her work showed that the decline of a language is rarely a simple matter of people speaking it one day and not the next; it is a long, uneven process in which many people are caught somewhere in between, often with feelings of loss or embarrassment.",
+    "Perhaps the most practical contribution came from the sociolinguist Joshua Fishman, whose 1991 book Reversing Language Shift argued that the key battleground is the home. Laws, schools and broadcasting can help, he argued, but unless parents pass the language on to their children in everyday family life, it will not survive as a living language. I find this argument persuasive. Too many revival efforts have concentrated on official recognition and signs on public buildings, while the language quietly disappears from kitchens and playgrounds.",
+    "It is sometimes claimed that a world with fewer languages would be more peaceful, because people would understand one another more easily. There is little evidence for this. Some of the bloodiest conflicts in history have been fought between people who spoke the same language, and many countries with dozens of languages are entirely peaceful. Nor is there any reason why speaking a small language should prevent someone from also speaking a major one. Most people in the world already speak more than one language, and there is no limit to how many a community can use.",
+    "In my view, the right question is not whether every language should be saved, but whether communities that want to keep their languages should be given the means to do so. Many of the languages under threat today are declining not because their speakers freely chose to abandon them, but because of past policies that punished or ridiculed them. Supporting those who want to reverse that damage is not paternalism; it is a matter of fairness. The decision, however, must remain theirs."
+   ],
+   "questions": [
+    {
+     "id": "exam43-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "compared the loss of a language to the destruction of a famous museum",
+     "explanation": "Hale made the museum comparison.",
+     "evidenceQuote": "he said that losing a language was like dropping a bomb on a great museum such as the Louvre",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Ken Hale",
+      "Ken Hale"
+     ]
+    },
+    {
+     "id": "exam43-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "argued that scientists should not judge communities that chose to give up their language",
+     "explanation": "Ladefoged argued this.",
+     "evidenceQuote": "it was not the role of a scientist to decide that they were wrong",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Peter Ladefoged",
+      "Peter Ladefoged"
+     ]
+    },
+    {
+     "id": "exam43-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "pointed out that small languages may hold knowledge about nature",
+     "explanation": "Harrison emphasised ecological knowledge.",
+     "evidenceQuote": "small languages often contain detailed knowledge of the natural world",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. David Harrison (linguist)",
+      "David Harrison (linguist)"
+     ]
+    },
+    {
+     "id": "exam43-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "created a term for people who understand a language better than they speak it",
+     "explanation": "Dorian introduced the term.",
+     "evidenceQuote": "introduced the term 'semi-speakers'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Nancy Dorian",
+      "Nancy Dorian"
+     ]
+    },
+    {
+     "id": "exam43-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "said that a language must be passed on within the family to survive",
+     "explanation": "Fishman stressed the home.",
+     "evidenceQuote": "unless parents pass the language on to their children in everyday family life",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Joshua Fishman",
+      "Joshua Fishman"
+     ]
+    },
+    {
+     "id": "exam43-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Ladefoged's concerns about the role of outsiders are still relevant.",
+     "explanation": "The writer says the warning remains important.",
+     "evidenceQuote": "In my view, Ladefoged's warning remains important.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam43-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Crystal's book has had more influence than Harrison's work.",
+     "explanation": "The writer does not compare their influence.",
+     "evidenceQuote": "David Crystal, in his book Language Death, published in 2000",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam43-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Revival efforts have often paid too little attention to language use at home.",
+     "explanation": "The writer criticises the focus on official recognition.",
+     "evidenceQuote": "while the language quietly disappears from kitchens and playgrounds",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam43-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Reducing the number of languages in the world would help to prevent wars.",
+     "explanation": "The writer rejects this claim.",
+     "evidenceQuote": "There is little evidence for this.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam43-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Governments should decide which minority languages deserve support.",
+     "explanation": "The writer says communities should decide.",
+     "evidenceQuote": "The decision, however, must remain theirs.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam43-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Hale had worked with __________ communities in Australia.",
+     "explanation": "He worked with Aboriginal communities.",
+     "evidenceQuote": "who had worked with Aboriginal communities in Australia",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Aboriginal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Crystal argued that the value of __________ is one reason to care about language loss.",
+     "explanation": "Diversity is valuable.",
+     "evidenceQuote": "from the value of diversity itself",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diversity"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Dorian found that semi-speakers often feel loss or __________.",
+     "explanation": "They may feel embarrassment.",
+     "evidenceQuote": "often with feelings of loss or embarrassment",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "embarrassment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam43-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "The writer argues that helping communities revive their languages is a matter of __________.",
+     "explanation": "It is about fairness.",
+     "evidenceQuote": "it is a matter of fairness",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fairness"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 742,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of researchers below. Match each statement with the correct researcher, A–F.",
+     "options": [
+      "A. Ken Hale",
+      "B. Peter Ladefoged",
+      "C. David Crystal",
+      "D. David Harrison (linguist)",
+      "E. Nancy Dorian",
+      "F. Joshua Fishman"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam43-w1",
+  "title": "Speakers of a regional language",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows the percentage of people in different age groups who could speak a regional language in one country in 1991 and 2021. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "3FEDF33D-FB2A-5C4C-BCEF-59E7BA3809F6",
+    "series": "Aged 3–15",
+    "category": "1991",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "CC791614-949E-589A-9C47-56F535B1269D",
+    "series": "Aged 16–29",
+    "category": "1991",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "4B1D8AEB-11BB-5792-B61F-4627D47AFA21",
+    "series": "Aged 30–44",
+    "category": "1991",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "479B6454-EA92-5A19-8BB9-C756CC113089",
+    "series": "Aged 45–64",
+    "category": "1991",
+    "value": 19.0,
+    "unit": "%"
+   },
+   {
+    "id": "A93EF397-01C7-55B3-ACFC-4FE8E697B2C5",
+    "series": "Aged 65+",
+    "category": "1991",
+    "value": 26.0,
+    "unit": "%"
+   },
+   {
+    "id": "0628F19D-C453-540F-B0E5-1D88981309C1",
+    "series": "Aged 3–15",
+    "category": "2021",
+    "value": 31.0,
+    "unit": "%"
+   },
+   {
+    "id": "8CE3F85C-3746-587A-9C8E-5415A41FF39C",
+    "series": "Aged 16–29",
+    "category": "2021",
+    "value": 23.0,
+    "unit": "%"
+   },
+   {
+    "id": "C6888A57-D55D-5395-8CC1-463F0691CB3B",
+    "series": "Aged 30–44",
+    "category": "2021",
+    "value": 17.0,
+    "unit": "%"
+   },
+   {
+    "id": "DFEDBCD8-8E51-533F-9374-BA52CD34C8E0",
+    "series": "Aged 45–64",
+    "category": "2021",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "FE573FFC-1711-5B60-9464-B0E2CA4B2A73",
+    "series": "Aged 65+",
+    "category": "2021",
+    "value": 18.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "In 1991 the language was most widely spoken by the oldest group, but by 2021 the youngest group had the highest proportion of speakers.",
+   "The proportion rose among people under 45 and fell among those aged 45 and over."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam43-w2",
+  "title": "Protecting minority languages",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Culture & Society",
+  "promptText": "Some people believe that governments should spend money to protect and teach minority languages that are in danger of disappearing. Others think this money would be better spent on teaching international languages such as English. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam43-spk",
+  "theme": "Languages, accents and dialects",
+  "part1Questions": [
+   "How many languages can you speak?",
+   "Is there a strong local accent where you live?",
+   "Do older and younger people in your family speak differently?",
+   "Have you ever had difficulty understanding someone from another region?",
+   "Would you like to learn a sign language?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a language, dialect or accent that you find interesting.",
+   "bulletPoints": [
+    "what it is",
+    "where it is spoken",
+    "how you first came across it",
+    "and explain why you find it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some parents choose not to teach their own language to their children?",
+   "Should schools teach in local languages or the national language?",
+   "How has the internet affected the way people speak and write?",
+   "Is it important for a country to have one shared language?",
+   "What can be lost when a language disappears?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and research findings are checked against standard reference sources; some figures are rounded for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

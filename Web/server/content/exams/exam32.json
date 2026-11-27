@@ -1,0 +1,2087 @@
+{
+ "id": "exam32",
+ "examNumber": 32,
+ "pool": "mock",
+ "title": "Mock Exam 32: Minerals, Gems & Mining",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Minerals, Gems & Mining",
+ "listeningParts": [
+  {
+   "id": "exam32-lp1",
+   "partNumber": 1,
+   "title": "Booking an underground mine tour",
+   "contextDescription": "A man phones a heritage centre to book a family visit to a historic tin mine.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "6A20E228-5FBC-5AB6-BE48-5391BA8C7582",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Polgarrow Heritage Mine, this is Jenna speaking. How can I help?"
+    },
+    {
+     "id": "635CBEBB-ECB4-5A00-9F7E-393C560DDC34",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hello. We're visiting the area next month, and my wife and I would like to bring our children on one of your underground tours. Could you tell me a bit about them?"
+    },
+    {
+     "id": "6349519F-9D22-57D9-851B-2D471599B221",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. We run two tours. The first is the Surface Trail, which is a guided walk around the old engine houses and the buildings where the tin ore was crushed. It takes about an hour, and it's all outdoors. The second is the Deep Level Tour, where you put on protective equipment and walk through the tunnels the miners dug about two hundred years ago. That one lasts about ninety minutes."
+    },
+    {
+     "id": "CD011435-B363-5DD2-8635-8FB29692BD71",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "The underground one sounds like the one the kids would really enjoy. Is there a minimum age?"
+    },
+    {
+     "id": "EE2FF48D-184C-58F0-A4BD-44DC3B013DD5",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There is. On the Surface Trail anyone's welcome, but for the Deep Level Tour children have to be at least seven years old. We used to take five-year-olds, but some of the passages are quite narrow and low, and younger children found it frightening, so we changed the rule last year. How old are your children?"
+    },
+    {
+     "id": "ACC6709D-0558-5664-9DC8-3D4CC876E46D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "We've got three, and the youngest has just turned eight, so that's fine."
+    },
+    {
+     "id": "72436027-F4C3-523D-B5E4-4DDA21647722",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. So that's two adults and three children. Which day were you thinking of?"
+    },
+    {
+     "id": "7915C552-97EE-5D00-BDC6-DFDA63ADA595",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "We were hoping for Saturday the twelfth."
+    },
+    {
+     "id": "9F9613BD-5152-5C5E-BBFB-0A3D25DEFC37",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Let me check. I'm sorry, the twelfth is fully booked. Saturdays are always busy in the summer. I could offer you Sunday the thirteenth, or the following Saturday, the nineteenth."
+    },
+    {
+     "id": "59016B3F-103D-58B7-BCB1-CB18D04DD30B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "We're leaving on the eighteenth, so it'll have to be the Sunday. The thirteenth, then."
+    },
+    {
+     "id": "05DE4444-3FBA-5E5F-9BA9-F1F9EA985046",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "No problem. On Sundays, the tours run at ten o'clock, half past twelve and three o'clock. The ten o'clock one is full, I'm afraid, so would half past twelve suit you?"
+    },
+    {
+     "id": "48C66E65-F817-57BD-8A91-DC831B056E75",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Half past twelve is perfect. And how much will it cost?"
+    },
+    {
+     "id": "475A77D9-6EF9-5164-8AB3-9DBB2D73EC81",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "For the Deep Level Tour, it's sixteen pounds for an adult and ten for a child, but for a family of five we do a family ticket, which works out cheaper. That's fifty-four pounds for the whole group."
+    },
+    {
+     "id": "6EC8FD74-49BD-5617-BE09-899A41A69C03",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Great, we'll take the family ticket. Is there anything we need to bring?"
+    },
+    {
+     "id": "4CCD8688-C41B-5FF0-9C9E-B5FA3E06ED4E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We provide a hard hat with a lamp attached, and a waterproof cape, because water drips from the roof in some of the tunnels. It's eleven degrees underground all year round, even in August, so please bring a warm jumper for everyone. And you'll need shoes with a good grip, because the floor can be slippery."
+    },
+    {
+     "id": "4A96D211-8FD4-5EC0-A57B-E7E2B88B8AED",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's useful to know. Is there anything else for the children to do after the tour?"
+    },
+    {
+     "id": "71480BB1-2867-559A-95ED-1170C504A344",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, they usually love the gem panning. They get a bag of sand and gravel, wash it in a stream channel, and keep any small stones they find, such as amethyst or quartz. It costs three pounds a bag, and you pay on the day."
+    },
+    {
+     "id": "F3988BF0-0B3E-5F96-9B7F-693FF5DD1F87",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "They'll definitely want to do that. Can I book now?"
+    },
+    {
+     "id": "6B804F08-76BB-503E-9621-98032B5487BD",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Certainly. Could I have your surname, please?"
+    },
+    {
+     "id": "028D956E-2A70-5F6E-84D6-356246CB7C1A",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Delaney. D-E-L-A-N-E-Y."
+    },
+    {
+     "id": "E5D1031D-662F-55EA-9170-E67894ACBBAB",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Delaney. And a contact number?"
+    },
+    {
+     "id": "446F9ED3-3C24-59BB-890B-DE3DF7331717",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "My mobile is 07946 318 520."
+    },
+    {
+     "id": "BA54AD17-5817-5DE6-AB90-110684D699AC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. When you arrive, please don't use the main car park next to the gift shop, because that's for coaches. Use the lower car park, just past the entrance gate on the left. It's free, and it's only a two-minute walk to the ticket office."
+    },
+    {
+     "id": "FF44FB3C-3BBA-5F51-981B-C746F449F085",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "And should we arrive early?"
+    },
+    {
+     "id": "C4F47C6E-AC70-5B6E-AF66-B680695EFA7A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Please arrive at least twenty minutes before your tour, so there's time to collect your equipment and watch a short safety film. If you're late, we can't let you join the group once it has gone underground."
+    },
+    {
+     "id": "5F5A70B3-8AA4-58B7-8406-C1F501DF318C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Understood. One more question. Is there somewhere to eat?"
+    },
+    {
+     "id": "10E06737-738E-5518-889F-CB2E1C600379",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There's a café in the old count house, where the mine managers used to work. It's famous for its pasties, which were the traditional lunch of the miners here. It does get busy at lunchtime, though, so you might want to eat before your tour."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam32-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Deep Level Tour: walk through tunnels dug about __________ years ago",
+     "explanation": "The tunnels are about 200 years old.",
+     "evidenceQuote": "the tunnels the miners dug about two hundred years ago",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "200",
+      "two hundred"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam32-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Minimum age for the underground tour: __________",
+     "explanation": "Children must be seven or older.",
+     "evidenceQuote": "children have to be at least seven years old",
+     "skillTag": "numbers",
+     "distractorNote": "Five was the old minimum age.",
+     "options": [],
+     "acceptedAnswers": [
+      "7",
+      "seven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Date booked: Sunday the __________",
+     "explanation": "He chooses Sunday the thirteenth.",
+     "evidenceQuote": "it'll have to be the Sunday. The thirteenth, then.",
+     "skillTag": "dates",
+     "distractorNote": "The twelfth is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "thirteenth",
+      "13th",
+      "13"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Family ticket: £__________",
+     "explanation": "The family ticket is £54.",
+     "evidenceQuote": "That's fifty-four pounds for the whole group.",
+     "skillTag": "numbers",
+     "distractorNote": "£16 and £10 are individual prices.",
+     "options": [],
+     "acceptedAnswers": [
+      "54",
+      "fifty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Equipment provided: hard hat with a __________ and a waterproof cape",
+     "explanation": "The hard hat has a lamp.",
+     "evidenceQuote": "a hard hat with a lamp attached",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lamp"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Underground temperature: __________ degrees all year",
+     "explanation": "It is eleven degrees.",
+     "evidenceQuote": "It's eleven degrees underground all year round",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "11",
+      "eleven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Bring a warm __________ for each person",
+     "explanation": "Everyone needs a warm jumper.",
+     "evidenceQuote": "please bring a warm jumper for everyone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "jumper"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Gem panning: £3 per __________",
+     "explanation": "Panning costs £3 a bag.",
+     "evidenceQuote": "It costs three pounds a bag",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bag"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Delaney.",
+     "evidenceQuote": "It's Delaney. D-E-L-A-N-E-Y.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Delaney"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Park in the __________ car park",
+     "explanation": "Visitors should use the lower car park.",
+     "evidenceQuote": "Use the lower car park",
+     "skillTag": "note_completion",
+     "distractorNote": "The main car park is for coaches.",
+     "options": [],
+     "acceptedAnswers": [
+      "lower"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "shaft",
+    "hard hat",
+    "family ticket",
+    "tin ore",
+    "gem panning"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam32-lp2",
+   "partNumber": 2,
+   "title": "A visit to a coal mining museum",
+   "contextDescription": "A guide welcomes a group of visitors to a museum on the site of a former coal mine.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "00D01318-E3DE-55EB-8A93-DDDE2C24E1C5",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Good morning, everyone, and welcome to the Ashworth Colliery Museum. My name's Graham, and before you start exploring, I'd like to give you a short introduction to the site and explain what you can see in each part of the museum."
+    },
+    {
+     "id": "41B93544-768D-5DDF-9B36-686FB46B0A07",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Coal was mined here for almost a hundred and fifty years, and at its busiest, in the nineteen twenties, the colliery employed over two thousand men and boys. The mine finally closed in 1991, and the museum opened five years later. Many of our volunteers are former miners, so if you see someone in a blue jacket, do ask them about their working lives. They tell the story far better than any display."
+    },
+    {
+     "id": "12F07E61-6711-5C96-BB5A-0D84540AE27F",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Let me say a word about why the museum looks the way it does. When the mine closed, most of the buildings were due to be demolished, and it was actually the local community, rather than the council or the coal company, that campaigned to save them. People felt that if the buildings disappeared, the history of the town would disappear with them. So the museum really belongs to the people of Ashworth."
+    },
+    {
+     "id": "847DA447-2F40-5FE5-BA28-5886B485BE2A",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Now, a few practical points. The whole site is free to enter, but there's a charge for the underground tour, which leaves from the main gate every hour. Unfortunately, the underground tour isn't suitable for wheelchair users, because the only way down is the original cage, but we have a virtual tour on a large screen in the visitor centre which shows exactly the same tunnels."
+    },
+    {
+     "id": "DB24D8A8-1AC4-579D-AE34-0DA072411997",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Right, let's look at the different buildings. The first one you'll come to is the lamp room. Before electric lamps, miners carried flame safety lamps, like the one invented by Humphry Davy in 1815. The flame was surrounded by a fine metal mesh, which stopped it from lighting the explosive gas that collects in mines. In the lamp room, you can see hundreds of lamps on the walls, and the brass tokens miners collected at the start of every shift. If a token wasn't returned at the end of the day, everyone knew that a man was still underground."
+    },
+    {
+     "id": "205C8B37-28C0-5452-A3CB-D12547B1C2AD",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Next to the lamp room is the engine house, which contains the huge steam winding engine that raised and lowered the cage in the shaft. It's the oldest building on the site, and the engine is still in working order. We run it every Saturday afternoon, and it's well worth seeing. Please don't climb on the railings, though, as the floor below is a long way down."
+    },
+    {
+     "id": "4E0146E9-D71A-5079-A35F-BBC74C212F3E",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Across the yard are the pithead baths. Surprisingly, until the nineteen thirties, miners here went home covered in coal dust, and they washed in a tin bath in front of the fire. The baths changed that. Today, the building holds our exhibition on the lives of mining families, including the role of women, who ran the homes and, during strikes, organised kitchens to feed the whole community. There's also a children's activity area in this building, with dressing-up clothes and a model mine."
+    },
+    {
+     "id": "CCCF807C-FA5D-5731-A3BE-F37AF1BD4C96",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "Finally, at the far end of the site are the stables. Ponies worked underground here, pulling wagons of coal, and some of them stayed below ground for most of the year. People are often surprised to learn that the miners became very attached to them, and the ponies were usually well cared for. Today, the stables are home to two retired ponies, Duke and Bramble, and children can help to feed them at eleven o'clock and three o'clock."
+    },
+    {
+     "id": "2321AB53-4E37-546A-B3BE-D4B67ED9D92E",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "In the same building, you'll find the display about canaries. Miners took them underground because the birds react to poisonous gas much more quickly than people do. If the canary became ill, the men knew they had to get out. British mines only stopped using canaries in 1986, when electronic detectors replaced them."
+    },
+    {
+     "id": "1BB11F98-3A7E-59BD-8442-A4EB656C047F",
+     "speaker": "Guide",
+     "accent": "en-GB",
+     "text": "The café is in the visitor centre, and the gift shop sells books written by local people about the mine. Enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam32-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What does Graham say about the volunteers in blue jackets?",
+     "explanation": "Many volunteers used to work as miners.",
+     "evidenceQuote": "Many of our volunteers are former miners",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are local history students.",
+      "B. They lead the underground tours.",
+      "C. Many of them used to work in the mine."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Many of them used to work in the mine.",
+      "Many of them used to work in the mine."
+     ]
+    },
+    {
+     "id": "exam32-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Who was mainly responsible for saving the colliery buildings?",
+     "explanation": "The local community campaigned.",
+     "evidenceQuote": "it was actually the local community, rather than the council or the coal company, that campaigned to save them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. people living in the town",
+      "B. the local council",
+      "C. the coal company"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. people living in the town",
+      "people living in the town"
+     ]
+    },
+    {
+     "id": "exam32-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why can wheelchair users not take the underground tour?",
+     "explanation": "The original cage is the only way down.",
+     "evidenceQuote": "the only way down is the original cage",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The tunnels are too narrow.",
+      "B. Access is only by the original cage.",
+      "C. The tour is too long."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Access is only by the original cage.",
+      "Access is only by the original cage."
+     ]
+    },
+    {
+     "id": "exam32-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "According to Graham, the brass tokens showed",
+     "explanation": "A missing token meant a man was still underground.",
+     "evidenceQuote": "If a token wasn't returned at the end of the day, everyone knew that a man was still underground.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. whether a miner was still below ground.",
+      "B. how much coal a miner had dug.",
+      "C. which lamp belonged to each miner."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. whether a miner was still below ground.",
+      "whether a miner was still below ground."
+     ]
+    },
+    {
+     "id": "exam32-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Graham say about the relationship between miners and ponies?",
+     "explanation": "Miners grew fond of the ponies.",
+     "evidenceQuote": "the miners became very attached to them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The ponies were often badly treated.",
+      "B. Ponies were only used for short periods.",
+      "C. Miners were often fond of the ponies."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Miners were often fond of the ponies.",
+      "Miners were often fond of the ponies."
+     ]
+    },
+    {
+     "id": "exam32-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "an engine that visitors can see working",
+     "explanation": "The winding engine runs on Saturdays.",
+     "evidenceQuote": "We run it every Saturday afternoon",
+     "skillTag": "matching",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. engine house",
+      "engine house"
+     ]
+    },
+    {
+     "id": "exam32-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "an exhibition about women in mining communities",
+     "explanation": "This is in the pithead baths.",
+     "evidenceQuote": "including the role of women, who ran the homes",
+     "skillTag": "matching",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. pithead baths",
+      "pithead baths"
+     ]
+    },
+    {
+     "id": "exam32-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "a display explaining the use of birds",
+     "explanation": "The canary display is in the stables.",
+     "evidenceQuote": "In the same building, you'll find the display about canaries.",
+     "skillTag": "matching",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. stables",
+      "stables"
+     ]
+    },
+    {
+     "id": "exam32-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "the oldest structure at the museum",
+     "explanation": "The engine house is the oldest.",
+     "evidenceQuote": "It's the oldest building on the site",
+     "skillTag": "matching",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. engine house",
+      "engine house"
+     ]
+    },
+    {
+     "id": "exam32-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "dressing-up clothes for children",
+     "explanation": "The activity area is in the pithead baths.",
+     "evidenceQuote": "There's also a children's activity area in this building, with dressing-up clothes",
+     "skillTag": "matching",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. pithead baths",
+      "pithead baths"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "colliery",
+    "pit pony",
+    "safety lamp",
+    "pithead baths",
+    "winding engine"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which building of the museum has each of the following? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. lamp room",
+      "B. engine house",
+      "C. pithead baths",
+      "D. stables"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam32-lp3",
+   "partNumber": 3,
+   "title": "A project on responsible gemstone sourcing",
+   "contextDescription": "Two business students, Maya and Tom, discuss their research on the jewellery supply chain with their tutor.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "840E8497-E087-5EBE-8DBB-9829A221CB7C",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "So, Maya, Tom, you've chosen to look at how jewellery companies make sure their gemstones are sourced responsibly. How far have you got?"
+    },
+    {
+     "id": "07A491F2-00AB-5DE8-B302-D8358AEB0071",
+     "speaker": "Maya",
+     "accent": "en-US",
+     "text": "We've done most of the background reading, and we've interviewed managers at three jewellery retailers. The main thing we've learned is that the supply chain for gemstones is much longer and more complicated than we'd imagined. A sapphire might be mined in one country, cut and polished in another, set in a ring somewhere else, and pass through several traders before it reaches a shop."
+    },
+    {
+     "id": "DB2202E8-4A44-5870-92F5-F6F364CDE310",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "And at every stage, information can get lost. One manager told us that by the time a stone arrives at their head office, they often only know which dealer they bought it from, not the mine where it came out of the ground."
+    },
+    {
+     "id": "3D1490FA-6446-539F-B854-2E4736233168",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Did you look at the Kimberley Process?"
+    },
+    {
+     "id": "9A995D4C-C09D-5708-9F52-D967F9FAF8EF",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Yes, we've got a section on it. It's the international certification scheme for rough diamonds that started in 2003, after the wars in countries like Sierra Leone, where the sale of diamonds was paying for armed groups. Every shipment of rough diamonds between member countries has to have a certificate saying it's conflict-free."
+    },
+    {
+     "id": "6ED822B1-69B1-551C-A2D4-FF8D3DC5293E",
+     "speaker": "Maya",
+     "accent": "en-US",
+     "text": "But the criticism we found most convincing is that its definition of a conflict diamond is very narrow. It only covers diamonds that fund rebel groups fighting governments. It says nothing about diamonds mined using child labour, or where workers are treated badly by governments or companies. So a diamond can be certified even if the conditions at the mine were terrible."
+    },
+    {
+     "id": "C3FBC0BA-7C38-5FD3-8156-0E6981D86005",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "And it only covers diamonds, of course. What about coloured gemstones?"
+    },
+    {
+     "id": "8189DDA5-59F1-5F8F-A057-4D50A48F3EB9",
+     "speaker": "Maya",
+     "accent": "en-US",
+     "text": "That's actually the part of the project that interested us most. There's no equivalent scheme for rubies, sapphires or emeralds, and a large proportion of them come from artisanal miners, people working on their own or in small groups, often with very simple tools."
+    },
+    {
+     "id": "512D1F66-E38B-5251-8ACB-7C6733200FEA",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Some estimates put the number of people working in artisanal mining worldwide in the tens of millions. And it's not all negative. For many families in rural areas, it's the main source of income, so if jewellery companies simply refused to buy from small-scale miners, it could make poverty worse rather than better."
+    },
+    {
+     "id": "FA0FF8B4-4EA8-5F78-BC3A-9297C9BD2E2B",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That's an important point. Boycotts can harm the very people they're intended to protect. So what are companies doing instead?"
+    },
+    {
+     "id": "8FC5B19B-389B-5F19-BCB8-9229D88BA870",
+     "speaker": "Maya",
+     "accent": "en-US",
+     "text": "The retailers we spoke to described a few approaches. One of them is working directly with a cooperative of miners in East Africa, paying them a fair price and funding safety training. The other two use digital tracking, where each stone is recorded at every stage, so the customer can see its whole history."
+    },
+    {
+     "id": "757318D4-4770-5C03-BE4D-65C060F7E932",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Although, to be honest, we were a bit sceptical about the tracking. The system is only as reliable as the information people put into it at the start. If someone records a stone from one mine as coming from another, the technology can't detect that."
+    },
+    {
+     "id": "22EDE059-D14E-527E-B9C4-47FE84272D22",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Good, that's the kind of critical thinking I want to see. What about the lab-grown stones? Some people argue they solve the whole problem."
+    },
+    {
+     "id": "21231061-4729-5A50-8422-40792B1A2C2E",
+     "speaker": "Maya",
+     "accent": "en-US",
+     "text": "We've included them. Two of the three retailers now sell lab-grown diamonds, and they said younger customers in particular are choosing them. They're chemically identical to mined diamonds, and much cheaper. But they need a lot of electricity to produce, so their environmental impact depends on where the power comes from."
+    },
+    {
+     "id": "A6D93EA4-9600-53FF-ACC1-57525FCDB050",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Right. Now, for the next stage, I'd like you to add a customer perspective. You could run a short survey asking whether people would pay more for a traceable stone."
+    },
+    {
+     "id": "2FC93FCC-2C67-53CE-A881-A112D00C6108",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We were thinking about that. We could do it at the university's careers fair next week, as there'll be lots of people around."
+    },
+    {
+     "id": "BFD683F2-0D3C-5FB9-BDB1-9FE52B154786",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Fine, but remember that students aren't typical jewellery buyers, so mention that as a limitation. And please send me a draft of your questions by Friday, so I can check them before you start."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam32-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did one manager say his company usually knows about a stone?",
+     "explanation": "They usually only know the dealer.",
+     "evidenceQuote": "they often only know which dealer they bought it from",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the country where it was cut",
+      "B. the dealer who sold it to them",
+      "C. the mine where it was found"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the dealer who sold it to them",
+      "the dealer who sold it to them"
+     ]
+    },
+    {
+     "id": "exam32-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What is Maya's main criticism of the Kimberley Process?",
+     "explanation": "The definition is too narrow.",
+     "evidenceQuote": "its definition of a conflict diamond is very narrow",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is too expensive for small countries.",
+      "B. Few countries have joined it.",
+      "C. It defines conflict diamonds too narrowly."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It defines conflict diamonds too narrowly.",
+      "It defines conflict diamonds too narrowly."
+     ]
+    },
+    {
+     "id": "exam32-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why does Tom think refusing to buy from artisanal miners could be harmful?",
+     "explanation": "Many families depend on it for income.",
+     "evidenceQuote": "it's the main source of income",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Many rural families rely on it for income.",
+      "B. Prices of gemstones would rise sharply.",
+      "C. Larger mines are more dangerous."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Many rural families rely on it for income.",
+      "Many rural families rely on it for income."
+     ]
+    },
+    {
+     "id": "exam32-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why is Tom doubtful about stone-tracking systems?",
+     "explanation": "False information at the start cannot be detected.",
+     "evidenceQuote": "The system is only as reliable as the information people put into it at the start.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is too costly for retailers.",
+      "B. It depends on accurate initial records.",
+      "C. Customers do not understand it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It depends on accurate initial records.",
+      "It depends on accurate initial records."
+     ]
+    },
+    {
+     "id": "exam32-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "According to Maya, the environmental impact of lab-grown diamonds depends on",
+     "explanation": "It depends on the source of electricity.",
+     "evidenceQuote": "their environmental impact depends on where the power comes from",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. how far they are transported.",
+      "B. the chemicals used to make them.",
+      "C. the source of the electricity used."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the source of the electricity used.",
+      "the source of the electricity used."
+     ]
+    },
+    {
+     "id": "exam32-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about surveying students at the careers fair?",
+     "explanation": "Students are not typical buyers.",
+     "evidenceQuote": "students aren't typical jewellery buyers, so mention that as a limitation",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The results may not represent real buyers.",
+      "B. The sample will be too small.",
+      "C. It requires permission from the university."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The results may not represent real buyers.",
+      "The results may not represent real buyers."
+     ]
+    },
+    {
+     "id": "exam32-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Number of retailers interviewed: __________",
+     "explanation": "They interviewed three retailers.",
+     "evidenceQuote": "we've interviewed managers at three jewellery retailers",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Kimberley Process began in __________",
+     "explanation": "It began in 2003.",
+     "evidenceQuote": "started in 2003",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "2003"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "One retailer works with a __________ of miners in East Africa",
+     "explanation": "The retailer works with a cooperative.",
+     "evidenceQuote": "working directly with a cooperative of miners in East Africa",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cooperative"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Draft survey questions due by __________",
+     "explanation": "The draft is due on Friday.",
+     "evidenceQuote": "please send me a draft of your questions by Friday",
+     "skillTag": "dates",
+     "distractorNote": "The careers fair is next week.",
+     "options": [],
+     "acceptedAnswers": [
+      "Friday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "supply chain",
+    "traceability",
+    "artisanal mining",
+    "certification",
+    "conflict minerals"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam32-lp4",
+   "partNumber": 4,
+   "title": "Lithium: the metal behind the battery",
+   "contextDescription": "A lecture in an earth resources course on where lithium comes from and how it is produced.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "3701FA2D-FCA3-5EAB-9B52-E39CD54125E6",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good afternoon. Today we're turning to a metal that, until quite recently, most people had never thought about, but which is now at the centre of the global shift towards electric vehicles and renewable energy. I'm talking, of course, about lithium."
+    },
+    {
+     "id": "820DA92B-366C-5115-80CF-7E002C0A450C",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Let's start with some basic chemistry. Lithium was identified in 1817 by the Swedish chemist Johan August Arfwedson, who found it while analysing a mineral called petalite. It's the lightest of all metals, and it's so reactive that in the laboratory it has to be stored in oil to stop it reacting with air and moisture. Its lightness, and the ease with which it gives up electrons, are exactly what make it so valuable in rechargeable batteries."
+    },
+    {
+     "id": "3F1A3F78-E41E-5C4A-A834-71A347E6BABA",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "For most of the twentieth century, lithium had fairly modest uses. It was added to glass and ceramics to make them more resistant to heat, and to grease used in engines and machinery. It also has an important medical use: lithium salts have been used since the middle of the century to treat bipolar disorder. But today, the majority of lithium produced goes into batteries, and demand has grown enormously."
+    },
+    {
+     "id": "343D43A8-74C3-52A3-AAB3-BA68D4855372",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "So where does it come from? There are two main sources. The first is brine, which is very salty water found beneath salt flats in dry, high-altitude regions. The best-known area is the so-called lithium triangle, where Chile, Argentina and Bolivia meet, which is thought to hold more than half of the world's known lithium resources. Here, the brine is pumped up from underground into huge shallow ponds, and the sun does most of the work. As the water evaporates, the brine becomes more and more concentrated. This takes a long time, often more than a year, and then the concentrated liquid is processed into lithium carbonate."
+    },
+    {
+     "id": "A0431438-FDF7-55CB-A237-A63161DA2600",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "This method is relatively cheap, but it's controversial. The Atacama region in Chile is one of the driest places on Earth, and local Indigenous communities have raised concerns that pumping brine, along with the fresh water used in processing, may be lowering water levels and harming the lagoons where flamingos feed. The scientific evidence is still being debated, but it's clearly an issue that companies can't ignore."
+    },
+    {
+     "id": "84586B0F-907A-5F57-BCEF-C823B6AF7F05",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The second source is hard rock. Here, lithium is extracted from minerals, mainly one called spodumene, which is dug out of open-pit mines. Australia is the world's largest producer by this method, and it has also been the world's largest producer of lithium overall in recent years. The rock is crushed and heated to very high temperatures, and much of it has traditionally been shipped to China for refining. Hard-rock mining is faster than evaporation, but it uses more energy and produces more carbon emissions."
+    },
+    {
+     "id": "EFFA3288-955F-536B-8CB5-0022B0ED8263",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Because of these drawbacks, researchers and companies are investing in what's called direct lithium extraction. Instead of waiting for the sun to evaporate the water, these technologies use special filters or chemicals to pull the lithium out of the brine in hours or days, and then the remaining water can be returned underground. Several projects are also testing whether lithium can be recovered from the hot, salty water used in geothermal power plants, for example in California and in Cornwall in south-west England, where the hot springs deep underground turn out to be rich in lithium."
+    },
+    {
+     "id": "4DB4DA0B-E140-5EFF-B3BF-56A40D1496F4",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Finally, there's recycling. At the moment, only a small proportion of lithium from used batteries is recovered, partly because batteries are complex and difficult to take apart safely. But as the first generation of electric cars reaches the end of its life, the amount of material available for recycling will increase dramatically, and many experts believe that recycled lithium could eventually meet a significant share of demand. In the next session, we'll look at another battery metal, cobalt, and the ethical questions surrounding its supply."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam32-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Lithium was first identified in a mineral called __________",
+     "explanation": "It was found in petalite.",
+     "evidenceQuote": "while analysing a mineral called petalite",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "petalite"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "In the laboratory, lithium is kept in __________ because it is so reactive",
+     "explanation": "It is stored in oil.",
+     "evidenceQuote": "it has to be stored in oil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Older uses: added to glass, ceramics and engine __________",
+     "explanation": "It was added to grease.",
+     "evidenceQuote": "and to grease used in engines and machinery",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grease"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Brine is very salty water found beneath salt __________",
+     "explanation": "Brine lies under salt flats.",
+     "evidenceQuote": "found beneath salt flats",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flats"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "In evaporation ponds, the __________ does most of the work",
+     "explanation": "The sun evaporates the water.",
+     "evidenceQuote": "the sun does most of the work",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sun"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Concerns that lagoons used by __________ may be harmed",
+     "explanation": "Flamingos feed in the lagoons.",
+     "evidenceQuote": "harming the lagoons where flamingos feed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flamingos"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Hard-rock lithium comes mainly from a mineral called __________",
+     "explanation": "Spodumene is the main mineral.",
+     "evidenceQuote": "mainly one called spodumene",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "spodumene"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Much hard-rock material is sent to __________ for refining",
+     "explanation": "It is refined in China.",
+     "evidenceQuote": "shipped to China for refining",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "China"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Direct extraction uses special __________ or chemicals",
+     "explanation": "Filters remove the lithium.",
+     "evidenceQuote": "these technologies use special filters or chemicals",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "filters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Geothermal lithium is being tested in California and __________",
+     "explanation": "Cornwall is a test site.",
+     "evidenceQuote": "for example in California and in Cornwall",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Cornwall"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "brine",
+    "evaporation pond",
+    "spodumene",
+    "salt flat",
+    "extraction"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam32-rp1",
+   "passageNumber": 1,
+   "title": "From treasure to tin foil: the story of aluminium",
+   "discipline": "History of Chemistry & Industry",
+   "paragraphs": [
+    "Aluminium is the most abundant metal in the Earth's crust, making up about eight per cent of it by weight. It is found in clays, in many common rocks and in the soil beneath our feet. Yet for most of human history it was completely unknown as a metal. The reason is chemical: aluminium bonds so strongly with oxygen that it never occurs naturally in pure form, and separating the two proved extraordinarily difficult. As a result, a metal that is now used to wrap sandwiches was, for a few decades in the nineteenth century, more valuable than gold.",
+    "The first person to produce aluminium was the Danish physicist Hans Christian Ørsted, who in 1825 obtained a tiny lump of the impure metal. Two years later, the German chemist Friedrich Wöhler improved the method, but the quantities remained minute. In 1854, the French chemist Henri Sainte-Claire Deville developed a process that used sodium to release the metal, and for the first time aluminium could be made in bars rather than grains. Even so, it remained so costly that it was treated as a luxury material, and bars of it were displayed to the public at the Paris Exhibition of 1855.",
+    "Deville's work was supported by the French emperor Napoleon III, who hoped that the light metal might be used to equip his army. According to a popular story, he also served his most honoured guests with aluminium cutlery, while less important visitors had to make do with gold. Whether or not this is exactly true, it captures how the metal was regarded. In the United States, the Washington Monument, completed in 1884, was capped with a small aluminium pyramid weighing less than three kilograms, chosen partly because the metal was so rare and admired.",
+    "The transformation came two years later. In 1886, two young scientists working on opposite sides of the Atlantic, the American Charles Martin Hall and the Frenchman Paul Héroult, independently discovered that aluminium could be produced by passing an electric current through alumina, a compound of aluminium and oxygen, dissolved in a molten mineral called cryolite. By a remarkable coincidence, both men were born in 1863 and both died in 1914. Their method, now known as the Hall–Héroult process, is still the basis of almost all aluminium production today. Hall went on to help found the company that later became Alcoa, one of the world's largest aluminium producers.",
+    "A second breakthrough soon followed. In 1888, the Austrian chemist Carl Josef Bayer patented a method for refining bauxite, a reddish rock rich in aluminium, into pure alumina. Bauxite takes its name from the village of Les Baux in southern France, where it was first identified in 1821. Together, the Bayer and Hall–Héroult processes made it possible to produce aluminium on an industrial scale, and its price collapsed. Within a generation, it had gone from a curiosity for emperors to an everyday material used in pots, pans and machinery.",
+    "The new metal found its most important role in transport. When the Wright brothers made the first powered aeroplane flight in 1903, the engine they built had a crankcase made of cast aluminium, which kept it light enough to lift the aircraft. During the twentieth century, aluminium alloys became essential to aviation, and later to cars, trains and the drinks can. However, the electrolysis process requires enormous amounts of electricity, which is why aluminium smelters are often built near cheap sources of hydroelectric power, in countries such as Norway, Canada and Iceland.",
+    "Aluminium production also creates environmental problems. The Bayer process leaves behind large quantities of a caustic waste known as red mud, which is usually stored in vast reservoirs. In October 2010, the wall of one such reservoir at an alumina plant near Ajka in Hungary collapsed, releasing a flood of red mud that swept through nearby villages, killing ten people and polluting rivers as far as the Danube. The disaster led to calls for stricter regulation of waste storage across the industry.",
+    "One of aluminium's greatest advantages, however, is that it can be recycled again and again without losing its quality. Recycling uses only about five per cent of the energy needed to produce new metal from bauxite, and the industry estimates that around three-quarters of all the aluminium ever produced is still in use. A drinks can thrown into a recycling bin today may be back on a supermarket shelf as a new can within a couple of months. For a metal once prized by emperors, it has become one of the most ordinary, and most sustainable, materials of modern life."
+   ],
+   "questions": [
+    {
+     "id": "exam32-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Pure aluminium is occasionally found in nature in small quantities.",
+     "explanation": "It never occurs naturally in pure form.",
+     "evidenceQuote": "it never occurs naturally in pure form",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam32-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Wöhler was able to produce aluminium in large amounts.",
+     "explanation": "The amounts were still minute.",
+     "evidenceQuote": "but the quantities remained minute",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam32-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Napoleon III was interested in using aluminium for military purposes.",
+     "explanation": "He hoped to equip his army with it.",
+     "evidenceQuote": "hoped that the light metal might be used to equip his army",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam32-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The aluminium pyramid on the Washington Monument was later replaced.",
+     "explanation": "Nothing is said about replacing it.",
+     "evidenceQuote": "was capped with a small aluminium pyramid weighing less than three kilograms",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam32-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Hall and Héroult worked together to develop their process.",
+     "explanation": "They worked independently.",
+     "evidenceQuote": "independently discovered that aluminium could be produced",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam32-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Bayer's method was first tested at Les Baux.",
+     "explanation": "Only the identification of bauxite is linked to Les Baux.",
+     "evidenceQuote": "where it was first identified in 1821",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam32-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The Ajka disaster affected rivers beyond the immediate area of the plant.",
+     "explanation": "Pollution reached the Danube.",
+     "evidenceQuote": "polluting rivers as far as the Danube",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam32-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Deville's process used __________ to release the metal",
+     "explanation": "Deville used sodium.",
+     "evidenceQuote": "a process that used sodium to release the metal",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sodium"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Hall–Héroult process: alumina dissolved in molten __________",
+     "explanation": "Alumina is dissolved in cryolite.",
+     "evidenceQuote": "dissolved in a molten mineral called cryolite",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cryolite"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Bauxite: a __________ rock rich in aluminium",
+     "explanation": "Bauxite is reddish.",
+     "evidenceQuote": "a reddish rock rich in aluminium",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reddish"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "The Wright brothers' engine had a crankcase of cast aluminium to keep it __________",
+     "explanation": "Aluminium kept the engine light.",
+     "evidenceQuote": "which kept it light enough to lift the aircraft",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "light"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Smelters are often located near sources of cheap __________ power",
+     "explanation": "They need cheap hydroelectric power.",
+     "evidenceQuote": "near cheap sources of hydroelectric power",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hydroelectric"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Bayer process waste, called red mud, is __________",
+     "explanation": "Red mud is caustic.",
+     "evidenceQuote": "a caustic waste known as red mud",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "caustic"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 764,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam32-rp2",
+   "passageNumber": 2,
+   "title": "Messengers from the deep: how diamonds are made",
+   "discipline": "Geology & Mineralogy",
+   "paragraphs": [
+    "A diamond is made of nothing more than carbon, the same element that forms the graphite in an ordinary pencil. What makes the two so different is the way their atoms are arranged. In graphite, carbon atoms form flat sheets that slide easily over one another, which is why pencil marks rub off on paper. In diamond, every atom is locked to four neighbours in a rigid three-dimensional framework, producing the hardest natural material known. On the scale of mineral hardness devised by the German mineralogist Friedrich Mohs in 1812, diamond is placed at the top, with a value of ten.",
+    "Such a structure can only form under extreme conditions. Most natural diamonds crystallised in the Earth's mantle, roughly 150 to 200 kilometres below the surface, where temperatures exceed 1,000 degrees Celsius and the pressure is tens of thousands of times greater than at sea level. These conditions are found mainly beneath the oldest and thickest parts of the continents. Dating of the tiny mineral grains trapped inside diamonds shows that many of them are extremely old, typically between one and three and a half billion years, which means that most diamonds were already ancient before the first animals appeared.",
+    "How, then, do diamonds reach the surface? The answer lies in a rare kind of volcanic eruption. Deep in the mantle, molten rock rich in gas occasionally forces its way upwards at great speed, carrying fragments of the surrounding rock, including any diamonds, with it. The speed is crucial: if diamonds rose slowly, the falling pressure would allow them to turn into graphite. The rock that fills the carrot-shaped pipes left by these eruptions is called kimberlite, and no such eruption has ever been witnessed by human beings.",
+    "Kimberlite takes its name from the town of Kimberley in South Africa, the site of one of the most famous mineral rushes in history. In 1867, a boy found a shiny pebble on a farm near the Orange River, which turned out to be a large diamond. Further discoveries followed, and from 1871 thousands of prospectors arrived to dig on a small hill. Working with picks and shovels, they created what became known as the Big Hole, more than two hundred metres deep. By the time mining stopped in 1914, it had produced nearly three tonnes of diamonds.",
+    "Not all diamonds, however, are dug from kimberlite pipes. Over millions of years, erosion wears away the rock at the surface, and rivers carry the released diamonds downstream. Because diamonds are hard and dense, they survive this journey and collect in gravels along riverbeds and coasts. Such deposits, known as alluvial deposits, were the source of the first diamonds ever mined, in India more than two thousand years ago. Today, some of the richest are found off the coast of Namibia, where diamonds carried by the Orange River to the Atlantic are recovered from the seabed by specially equipped ships.",
+    "For scientists, diamonds are valuable for a reason that has nothing to do with jewellery. Because they are so strong and chemically stable, they act as tiny time capsules, preserving fragments of minerals from parts of the Earth that can never be sampled directly. In 2014, researchers studying a small, worthless-looking diamond from Brazil reported that it contained a mineral called ringwoodite, which forms only at depths of more than 500 kilometres. The ringwoodite contained water, suggesting that this deep layer of the mantle may hold a very large quantity of water locked inside its minerals.",
+    "Impurities also give diamonds their colours. A completely pure diamond is colourless, but such stones are rare. Small amounts of nitrogen, the most common impurity, give many diamonds a yellowish tint, while traces of boron produce a blue colour. The famous Hope Diamond, now in the Smithsonian Institution in Washington, owes its deep blue colour to boron. Other colours, such as pink and red, are thought to result from distortions in the crystal structure rather than from foreign atoms, and these stones are among the most expensive in the world.",
+    "Since the twentieth century, diamonds have also been made in laboratories. In 1954, scientists at the American company General Electric produced the first reproducible synthetic diamonds by recreating the high pressures and temperatures of the mantle. A second method, developed later, grows diamonds from a carbon-rich gas, layer by layer. Synthetic diamonds were first used mainly in industry, for cutting and drilling, but gem-quality stones are now widely sold. Because they are chemically identical to natural diamonds, telling the two apart requires specialised instruments, a challenge that has transformed the work of gem-testing laboratories."
+   ],
+   "questions": [
+    {
+     "id": "exam32-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the depth, heat, pressure and age of diamond formation.",
+     "evidenceQuote": "Such a structure can only form under extreme conditions.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Born in heat and pressure",
+      "Born in heat and pressure"
+     ]
+    },
+    {
+     "id": "exam32-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains the rapid eruptions that bring diamonds up.",
+     "evidenceQuote": "The speed is crucial",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A fast journey upwards",
+      "A fast journey upwards"
+     ]
+    },
+    {
+     "id": "exam32-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D tells the story of Kimberley.",
+     "evidenceQuote": "the site of one of the most famous mineral rushes in history",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. A town that gave its name to a rock",
+      "A town that gave its name to a rock"
+     ]
+    },
+    {
+     "id": "exam32-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E covers diamonds moved by water.",
+     "evidenceQuote": "rivers carry the released diamonds downstream",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Carried away by water",
+      "Carried away by water"
+     ]
+    },
+    {
+     "id": "exam32-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F shows what diamonds reveal about the deep Earth.",
+     "evidenceQuote": "they act as tiny time capsules",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Clues to a hidden world",
+      "Clues to a hidden world"
+     ]
+    },
+    {
+     "id": "exam32-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G explains the causes of colour.",
+     "evidenceQuote": "Impurities also give diamonds their colours.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. What tints a stone",
+      "What tints a stone"
+     ]
+    },
+    {
+     "id": "exam32-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes synthetic diamonds.",
+     "evidenceQuote": "diamonds have also been made in laboratories",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Copying nature",
+      "Copying nature"
+     ]
+    },
+    {
+     "id": "exam32-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to the writer, pencil marks rub off easily because graphite",
+     "explanation": "The sheets slide over one another.",
+     "evidenceQuote": "carbon atoms form flat sheets that slide easily over one another",
+     "skillTag": "detail",
+     "options": [
+      "A. contains less carbon than diamond.",
+      "B. is formed near the surface.",
+      "C. is made of layers that move easily.",
+      "D. reacts with the paper."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. is made of layers that move easily.",
+      "is made of layers that move easily."
+     ]
+    },
+    {
+     "id": "exam32-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What would happen to diamonds if they rose slowly towards the surface?",
+     "explanation": "They would turn into graphite.",
+     "evidenceQuote": "the falling pressure would allow them to turn into graphite",
+     "skillTag": "detail",
+     "options": [
+      "A. They would change into graphite.",
+      "B. They would melt completely.",
+      "C. They would break into fragments.",
+      "D. They would remain trapped in the mantle."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They would change into graphite.",
+      "They would change into graphite."
+     ]
+    },
+    {
+     "id": "exam32-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What was significant about the diamond from Brazil studied in 2014?",
+     "explanation": "Its inclusion contained water.",
+     "evidenceQuote": "The ringwoodite contained water",
+     "skillTag": "detail",
+     "options": [
+      "A. It was unusually large and valuable.",
+      "B. It was the oldest diamond ever dated.",
+      "C. It had formed close to the surface.",
+      "D. It held a mineral containing water."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It held a mineral containing water.",
+      "It held a mineral containing water."
+     ]
+    },
+    {
+     "id": "exam32-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The pipes left by diamond-carrying eruptions are described as being __________.",
+     "explanation": "The pipes are carrot-shaped.",
+     "evidenceQuote": "the carrot-shaped pipes left by these eruptions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "carrot-shaped"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam32-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "The first diamonds ever mined came from __________ in India.",
+     "explanation": "They came from alluvial deposits.",
+     "evidenceQuote": "Such deposits, known as alluvial deposits, were the source of the first diamonds ever mined, in India",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "alluvial deposits"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam32-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Pink and red colours may be caused by __________ in the crystal structure.",
+     "explanation": "Distortions cause these colours.",
+     "evidenceQuote": "result from distortions in the crystal structure",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distortions"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 766,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Carried away by water",
+      "ii. A fast journey upwards",
+      "iii. The falling price of gemstones",
+      "iv. What tints a stone",
+      "v. Born in heat and pressure",
+      "vi. Copying nature",
+      "vii. Why diamonds are cut",
+      "viii. A town that gave its name to a rock",
+      "ix. Clues to a hidden world"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam32-rp3",
+   "passageNumber": 3,
+   "title": "Should we mine the deep ocean floor?",
+   "discipline": "Marine Science & Resource Policy",
+   "paragraphs": [
+    "Scattered across vast areas of the deep ocean floor, at depths of four to six kilometres, lie billions of dark, potato-sized lumps known as polymetallic nodules. They contain manganese, nickel, cobalt and copper, metals that are in growing demand for the batteries, wind turbines and power networks of a low-carbon economy. The richest known field is the Clarion-Clipperton Zone, an area of the Pacific between Hawaii and Mexico covering several million square kilometres. To mining companies, the nodules represent an opportunity to obtain these metals without the deforestation and community conflicts associated with mines on land. To many scientists, they represent one of the least understood ecosystems on the planet.",
+    "Interest in the nodules is not new. They were first brought to the surface in the 1870s by the British research ship HMS Challenger, and in the 1960s and 1970s several companies explored ways of collecting them. One of the most famous projects of that era, the ship Hughes Glomar Explorer, was publicly described as a nodule-mining vessel, but it had in fact been built for the American intelligence agency, the CIA, to secretly recover a sunken Soviet submarine. The publicity surrounding it nevertheless encouraged a belief that deep-sea mining was about to begin. It did not, largely because metal prices fell and the technical difficulties proved immense.",
+    "The legal framework was established in the decades that followed. Under the United Nations Convention on the Law of the Sea, the seabed beyond national jurisdiction and its mineral resources are declared the 'common heritage of mankind'. Activities there are controlled by the International Seabed Authority, based in Kingston, Jamaica, which has issued exploration contracts to governments and companies but, so far, no licences for commercial mining. In 2021, the Pacific island nation of Nauru, working with a Canadian company, triggered a rule that obliged the Authority to complete its mining regulations within two years. That deadline passed without agreement, and the negotiations have continued.",
+    "Supporters of deep-sea mining make a serious case. The world needs enormous quantities of metals to replace fossil fuels, and land-based mining has well-documented environmental and human costs, from polluted rivers to unsafe working conditions. Nodules lie loose on the seabed, so they can be collected without digging or blasting, and a single deposit can contain several valuable metals at once. In my view, these arguments deserve to be taken seriously rather than dismissed; the choice is not between mining and no mining, but between different places and methods of obtaining the materials that a cleaner energy system requires.",
+    "The difficulty is how little we know about what would be lost. A study published in 2023 estimated that around five thousand species have been recorded in the Clarion-Clipperton Zone, and that the vast majority of them have not yet been formally described by science. Many animals depend on the nodules themselves, which provide one of the few hard surfaces on an otherwise soft, muddy floor. Since nodules grow by only a few millimetres every million years, removing them would eliminate that habitat for a period far longer than human history. Early tests also suggest that mining would create clouds of sediment that could smother animals far beyond the area actually mined.",
+    "The long-term evidence is sobering. In 1989, German researchers ploughed a section of the seabed off the coast of Peru to imitate the effects of mining. When scientists returned more than twenty-five years later, the plough tracks were still clearly visible, and many forms of life had not recovered. More recently, in 2024, a team led by the marine scientist Andrew Sweetman reported evidence that oxygen may be produced on the sea floor in complete darkness, possibly through electrical activity on the surface of the nodules. The finding is disputed, but it illustrates how much remains to be discovered about these environments.",
+    "Opposition has grown accordingly. A number of countries, including France and Germany, have called for a pause or a ban on deep-sea mining until its impacts are better understood. Several major companies, among them car manufacturers and technology firms, have pledged not to use metals from the seabed in their products. Meanwhile, improvements in battery chemistry have reduced the amount of cobalt and nickel needed in some designs, and better recycling could further reduce demand for newly mined metals. In my view, these developments weaken the claim that the ocean floor must be mined urgently.",
+    "Where does this leave us? It seems to me that the strongest argument is not that deep-sea mining should never happen, but that it should not begin before we understand what it would destroy. Decisions made now could cause damage lasting thousands or even millions of years, in places that belong, by international agreement, to all of humanity, including generations not yet born. Caution, in this case, is not an obstacle to progress. It is the only responsible way to make a choice that cannot be reversed."
+   ],
+   "questions": [
+    {
+     "id": "exam32-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "is responsible for regulating mineral activities beyond national waters",
+     "explanation": "The Authority controls activities in international waters.",
+     "evidenceQuote": "Activities there are controlled by the International Seabed Authority",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the International Seabed Authority",
+      "the International Seabed Authority"
+     ]
+    },
+    {
+     "id": "exam32-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "set a two-year deadline for the completion of mining rules",
+     "explanation": "Nauru triggered the two-year rule.",
+     "evidenceQuote": "triggered a rule that obliged the Authority to complete its mining regulations within two years",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Nauru",
+      "Nauru"
+     ]
+    },
+    {
+     "id": "exam32-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "presented a secret operation as a search for nodules",
+     "explanation": "The CIA used nodule mining as a cover.",
+     "evidenceQuote": "was publicly described as a nodule-mining vessel, but it had in fact been built for the American intelligence agency",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the CIA",
+      "the CIA"
+     ]
+    },
+    {
+     "id": "exam32-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "carried out an experiment to imitate the effects of mining",
+     "explanation": "German researchers ploughed the seabed.",
+     "evidenceQuote": "German researchers ploughed a section of the seabed off the coast of Peru to imitate the effects of mining",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. German researchers",
+      "German researchers"
+     ]
+    },
+    {
+     "id": "exam32-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "promised not to use seabed metals",
+     "explanation": "Several companies made this pledge.",
+     "evidenceQuote": "have pledged not to use metals from the seabed in their products",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. car and technology companies",
+      "car and technology companies"
+     ]
+    },
+    {
+     "id": "exam32-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The case made by supporters of deep-sea mining should be rejected without discussion.",
+     "explanation": "The writer says the arguments deserve serious attention.",
+     "evidenceQuote": "these arguments deserve to be taken seriously rather than dismissed",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam32-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Mining companies have exaggerated the quantity of metals contained in nodules.",
+     "explanation": "The writer does not comment on exaggeration.",
+     "evidenceQuote": "a single deposit can contain several valuable metals at once",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam32-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Changes in battery technology make the need for seabed mining less pressing.",
+     "explanation": "The writer says they weaken the case for urgency.",
+     "evidenceQuote": "these developments weaken the claim that the ocean floor must be mined urgently",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam32-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Deep-sea mining should be permanently banned.",
+     "explanation": "The writer does not support a permanent ban.",
+     "evidenceQuote": "the strongest argument is not that deep-sea mining should never happen",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam32-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Future generations have a stake in decisions about the deep seabed.",
+     "explanation": "The writer says the seabed belongs to future generations too.",
+     "evidenceQuote": "including generations not yet born",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam32-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Nodules were first collected in the 1870s by a British research __________.",
+     "explanation": "HMS Challenger was a research ship.",
+     "evidenceQuote": "by the British research ship HMS Challenger",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ship"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Many animals use the nodules as one of the few hard __________ on the sea floor.",
+     "explanation": "The nodules provide hard surfaces.",
+     "evidenceQuote": "one of the few hard surfaces on an otherwise soft, muddy floor",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "surfaces"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Mining would create clouds of __________ that could affect a wide area.",
+     "explanation": "Sediment clouds could smother animals.",
+     "evidenceQuote": "mining would create clouds of sediment",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sediment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam32-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "A 2024 study suggested that __________ may be produced on the dark sea floor.",
+     "explanation": "Oxygen production was reported.",
+     "evidenceQuote": "oxygen may be produced on the sea floor in complete darkness",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oxygen"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 818,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of organisations and groups below. Match each statement with the correct organisation or group, A–F.",
+     "options": [
+      "A. the International Seabed Authority",
+      "B. Nauru",
+      "C. the CIA",
+      "D. German researchers",
+      "E. HMS Challenger",
+      "F. car and technology companies"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam32-w1",
+  "title": "Producing copper from ore",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows the main stages in the production of copper from rock containing copper ore. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Rock containing copper ore is blasted and dug from an open-pit mine",
+   "Ore is carried by truck to a crusher and broken into small pieces",
+   "Crushed ore is ground with water into a fine powder",
+   "Chemicals and air are added so that copper minerals float to the surface as a concentrate",
+   "Concentrate is dried and melted in a smelter at about 1,200°C",
+   "Impure copper is cast into thick plates called anodes",
+   "Anodes are refined in tanks of acid using an electric current",
+   "Pure copper sheets (99.99%) are sold to manufacturers of wire and pipes"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, beginning with mining and ending with pure copper sheets.",
+   "It moves from mechanical stages (blasting, crushing, grinding) to chemical and high-temperature stages (flotation, smelting and electrical refining)."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam32-w2",
+  "title": "Mining and the environment",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Environment & Economy",
+  "promptText": "Many countries rely on mining to create jobs and earn money from exports, even though mining can damage the natural environment and local communities. Do the advantages of mining for a country outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam32-spk",
+  "theme": "Jewellery, stones and precious things",
+  "part1Questions": [
+   "Do you wear any jewellery?",
+   "Have you ever been given a piece of jewellery as a present?",
+   "Are there any famous rocks or stones in your country?",
+   "Did you ever collect stones or shells when you were a child?",
+   "Is gold an important gift in your culture?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an object made of metal or stone that is important to you or your family.",
+   "bulletPoints": [
+    "what the object is",
+    "where it came from",
+    "how long you or your family have had it",
+    "and explain why it is important to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people spend so much money on gold and gemstones?",
+   "Should consumers know where the materials in their products come from?",
+   "How has mining changed the places where it happens in your country?",
+   "Do you think laboratory-made gems will replace natural ones?",
+   "Who should pay to repair land damaged by mining, companies or governments?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and scientific figures are checked against standard reference sources; some figures are rounded for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

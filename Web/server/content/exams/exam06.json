@@ -1,0 +1,2131 @@
+{
+ "id": "exam06",
+ "examNumber": 6,
+ "pool": "mock",
+ "title": "Mock Exam 6: Earth, Space & Time",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Earth, Space & Time",
+ "listeningParts": [
+  {
+   "id": "exam06-lp1",
+   "partNumber": 1,
+   "title": "Reporting a lost item at a conference centre",
+   "contextDescription": "A conference delegate calls the lost property office at an international conference centre.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "8FB3F588-EB59-5A5C-A887-90953E6F493E",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Lost property, Harbour Conference Centre, Nadia speaking."
+    },
+    {
+     "id": "C7854475-5035-5EC7-BC6D-053195FABD88",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "Oh, hello. I'm hoping you can help. I was at the climate science conference yesterday and I think I left my laptop bag somewhere in the building."
+    },
+    {
+     "id": "429FA46F-1D20-56D1-9853-2411BA311228",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "I'm sorry to hear that. Let's see what we can do. Can you describe the bag?"
+    },
+    {
+     "id": "E3A40CC2-7340-5346-8E02-E85431640EF1",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "It's a black leather bag, quite slim, with a shoulder strap. Actually, no, sorry, it's dark brown. It looks black under artificial light, but it's brown. And it has a small metal badge on the front with a koala on it. My daughter gave it to me."
+    },
+    {
+     "id": "F7B8AB3A-EC5D-5216-9A6D-4502787CBB9B",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "A dark brown leather bag with a koala badge. And what was inside?"
+    },
+    {
+     "id": "CD6F7EC7-1F31-56E4-A2D5-2F2DCC10C2DC",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "My laptop, obviously, which is silver, and the charger. There was also a notebook, a couple of pens and a paper copy of my presentation. Oh, and my reading glasses in a red case."
+    },
+    {
+     "id": "FFE91E0F-7578-5580-A1AE-38607C41A620",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Was there anything with your name on it?"
+    },
+    {
+     "id": "491FEBCC-EF11-508C-BF56-89BBFBADC9B7",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "The notebook has my name inside the front cover, and there's a luggage label on the handle with my email address."
+    },
+    {
+     "id": "F3B1E6A9-F59A-5B0D-882E-AC5200F6DFB6",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "That's helpful. Could I take your name?"
+    },
+    {
+     "id": "B68DE78A-074D-5EBF-8C6C-2012007CEDF3",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "It's Dr Fiona Atherton. A-T-H-E-R-T-O-N."
+    },
+    {
+     "id": "40CC4D53-2524-5A6E-90E1-589CFEAC2A41",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Thank you, Dr Atherton. And do you know where you might have left it?"
+    },
+    {
+     "id": "5D9A8479-C0C5-5750-887E-19E83555CA79",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "I've been trying to think. I gave my talk in the morning in Room Twelve, and I definitely had it then because I used the laptop. After that I went to lunch in the main restaurant, and then I attended a session in the auditorium. I'm fairly sure I had it at lunch, so I suspect it was in the auditorium. I remember putting it under the seat."
+    },
+    {
+     "id": "0B8FC5AB-1DD5-5C85-A093-7FD3A7954968",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "The auditorium is cleaned every evening, and anything found there is brought to us. Let me check our records for yesterday. We've had quite a few laptop bags handed in this week, as you can imagine. Do you happen to know the make of the laptop?"
+    },
+    {
+     "id": "86ED717B-F978-50A2-8D77-291AF715C3DA",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "It's a Lenmark. I don't know the model, I'm afraid, but I do have the serial number at home, written down somewhere."
+    },
+    {
+     "id": "FBBACCFD-FD31-53C3-98AC-07986D79CF56",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "If you can find it, that would help us confirm it's yours. Now, I can see that a brown bag was handed in by a cleaner at about nine o'clock last night. The description says leather, with a badge. That sounds promising."
+    },
+    {
+     "id": "953A29BA-D102-50AF-99C7-8181353B7969",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "Oh, thank goodness. Can I come and collect it?"
+    },
+    {
+     "id": "2CB6AB65-33E7-5440-8B61-3812FAE000F9",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Of course. The lost property office is on the ground floor, behind the main reception desk. We're open from eight in the morning until six in the evening. You'll need to bring some photo identification, and if possible, your conference badge, the one on the lanyard."
+    },
+    {
+     "id": "CA5D3892-7851-5A12-A792-EE314943B6A1",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "Ah, that might be a problem. The thing is, I'm flying home to Brisbane tonight, and I'm in a meeting across town all day. Is there any way someone else could pick it up for me?"
+    },
+    {
+     "id": "DAD16DE5-03F6-5108-8AC8-DAB755F04562",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Yes, a colleague can collect it, but they'll need a letter or email from you giving permission, as well as their own identification. Alternatively, we can send it to you by courier, but for international deliveries that can be quite expensive, and with a laptop, there's also the question of the battery, which some couriers won't accept."
+    },
+    {
+     "id": "753BA746-31EF-5015-B427-E0EF6003C0E4",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "I think my colleague, James, could collect it. He's staying for another two days. What's his name? Sorry, I mean, would you need his full name?"
+    },
+    {
+     "id": "CBCF9D8F-3F3C-5DB1-BE64-2746C677F12F",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Yes, please, so that we can check it against his identification."
+    },
+    {
+     "id": "6B68BECF-86CF-50DB-9D59-EA029D978141",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "It's James Okonjo. O-K-O-N-J-O."
+    },
+    {
+     "id": "D9F39560-3F1A-53F1-9C5F-0938B0016A24",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Thank you. If you email the permission to lostproperty at harbourcc dot com, with your reference number, he can collect it any time before Friday. After that, unclaimed items are moved to a storage facility outside the city, which makes things slower."
+    },
+    {
+     "id": "4FEC217C-A201-57CE-B32E-F4A971FBC149",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "And what's my reference number?"
+    },
+    {
+     "id": "EF4F99C0-87CF-50A8-8328-1E3474725CBB",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "It's LP four-seven-two-nine."
+    },
+    {
+     "id": "EF8C821C-E03A-563C-99A8-9722DEC6D594",
+     "speaker": "Delegate",
+     "accent": "en-AU",
+     "text": "LP four-seven-two-nine. Thank you so much. You've saved my week."
+    },
+    {
+     "id": "ED12FC66-DFF6-59DC-83DB-C3BB1948AFC8",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "You're welcome. I hope the rest of your trip goes smoothly."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam06-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Bag: __________ brown leather, slim, shoulder strap",
+     "explanation": "She corrects herself: the bag is dark brown, not black.",
+     "evidenceQuote": "it's dark brown",
+     "skillTag": "distractor_correction",
+     "distractorNote": "She first says black.",
+     "options": [],
+     "acceptedAnswers": [
+      "dark"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Badge on front showing a __________",
+     "explanation": "The badge shows a koala.",
+     "evidenceQuote": "a small metal badge on the front with a koala on it",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "koala"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Glasses in a __________ case",
+     "explanation": "The glasses are in a red case.",
+     "evidenceQuote": "my reading glasses in a red case",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "red"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Email address on a luggage __________ attached to the handle",
+     "explanation": "A luggage label carries her email.",
+     "evidenceQuote": "there's a luggage label on the handle with my email address",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "label"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Atherton.",
+     "evidenceQuote": "It's Dr Fiona Atherton. A-T-H-E-R-T-O-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Atherton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Probably left in the __________",
+     "explanation": "She had it at lunch, so probably left it in the auditorium.",
+     "evidenceQuote": "I suspect it was in the auditorium",
+     "skillTag": "inference",
+     "distractorNote": "Room Twelve and the restaurant were earlier.",
+     "options": [],
+     "acceptedAnswers": [
+      "auditorium"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Laptop make: __________",
+     "explanation": "The laptop is a Lenmark.",
+     "evidenceQuote": "It's a Lenmark.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Lenmark"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Office location: ground floor, behind main __________",
+     "explanation": "The office is behind the main reception desk.",
+     "evidenceQuote": "behind the main reception desk",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "reception"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Collected by colleague: James __________",
+     "explanation": "James Okonjo will collect it.",
+     "evidenceQuote": "It's James Okonjo. O-K-O-N-J-O.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Okonjo"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Must be collected before: __________",
+     "explanation": "Items are moved to storage after Friday.",
+     "evidenceQuote": "he can collect it any time before Friday",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Friday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "lost property",
+    "delegate",
+    "lanyard",
+    "serial number",
+    "courier"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam06-lp2",
+   "partNumber": 2,
+   "title": "An evening at the observatory",
+   "contextDescription": "An astronomer introduces a public stargazing evening at a university observatory.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "A136979B-D50E-5E6A-B188-2AE3016AD91A",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "Good evening, and welcome to the Mount Carrow Observatory. My name's Dr Leo Brandt, and I'm one of the astronomers who works here. Tonight's programme will last about two hours, and I'll start by telling you a little about the observatory and how the evening will work, before we head outside."
+    },
+    {
+     "id": "3AE1A9AA-D404-540C-8049-EEF66EAC005D",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "The observatory was built in 1928, when this hill was well outside the city. At that time, the sky here was dark enough to see the Milky Way on any clear night. As the city has grown, though, light from streets and buildings has spread across the sky, and today our research telescopes are used mainly for training students rather than for serious research, which is now done at observatories in remote locations such as the mountains of Chile."
+    },
+    {
+     "id": "14E55108-FEBF-5B85-AB9B-FC8205C2E7BB",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "That said, we're lucky in one respect. Three years ago, the hills to the west of here were designated a dark-sky reserve. That means local councils have agreed to limit outdoor lighting, and many streetlights have been replaced with lamps that point downwards and use a warmer colour. Measurements show the sky to the west is now noticeably darker than it was a decade ago, which is a rare example of light pollution actually being reduced."
+    },
+    {
+     "id": "7FECCEF3-C81F-5EE0-8877-0B0450136302",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "Now, the evening is divided into three parts. We'll begin in the planetarium, which is the dome-shaped building next to this one. There, I'll show you what's visible in tonight's sky, so you know what to look for. That takes about twenty minutes."
+    },
+    {
+     "id": "D950C84B-99B1-5A94-B2D8-A41A1F9C7836",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "Then we'll go out onto the viewing terrace, where we've set up six smaller telescopes, each operated by one of our volunteers. Each telescope will be pointed at a different object. Tonight, if the clouds stay away, we should be able to show you Saturn and its rings, the Moon, which is half full tonight, and a cluster of stars called the Pleiades. Please wait for the volunteer to adjust the telescope; don't move it yourself, because it takes time to find an object again."
+    },
+    {
+     "id": "9EC4043A-B93E-53F5-B4A1-DE3528A34F0B",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "Finally, at about nine fifteen, we'll open the main dome, where our largest telescope is housed. Groups of ten will go up in turn. It's a narrow spiral staircase, I'm afraid, so if anyone has difficulty with stairs, let one of the staff know and we'll show you the view on a screen downstairs, which is connected to a camera on the telescope."
+    },
+    {
+     "id": "A4AE2AE5-F288-5AB1-AEA8-706B7AE84218",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "A few practical points. It's going to get cold, even though it's been a warm day, so please keep your coats on outside. When you're on the terrace, it takes about twenty minutes for your eyes to adjust fully to the dark, so please don't use your phones. Even a brief glance at a bright screen undoes that adjustment. If you need a light to see your way, use the small red torches we've given you; red light affects night vision much less than white light."
+    },
+    {
+     "id": "DD13FBDB-A40F-55DC-8752-77F7FB62FED7",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "Children are very welcome, of course, but please keep an eye on them on the terrace, because there's a steep slope beyond the fence. Hot drinks are available in the entrance hall throughout the evening; there's no charge, but donations to the observatory's education fund are very much appreciated."
+    },
+    {
+     "id": "6CCB0CA7-4DC9-5F24-B8C1-6383EC0F1F12",
+     "speaker": "Astronomer",
+     "accent": "en-US",
+     "text": "And one last thing. If you enjoy tonight, you might like to come back on the twelfth of August, when we're holding a special late-night event for the Perseid meteor shower. The meteors are best seen after midnight, so the observatory will stay open until two in the morning. You don't need a telescope for meteors, just your eyes and a comfortable chair, so we'll be setting up deckchairs on the lawn. Right, let's go through to the planetarium."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam06-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why are the observatory's telescopes now mainly used for training?",
+     "explanation": "Light pollution from the growing city limits research.",
+     "evidenceQuote": "light from streets and buildings has spread across the sky",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The sky is no longer dark enough for research.",
+      "B. The telescopes are too old.",
+      "C. Students have priority over researchers."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The sky is no longer dark enough for research.",
+      "The sky is no longer dark enough for research."
+     ]
+    },
+    {
+     "id": "exam06-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What has happened in the dark-sky reserve?",
+     "explanation": "Lighting changes have made the sky darker.",
+     "evidenceQuote": "the sky to the west is now noticeably darker",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Streetlights were replaced, not switched off.",
+     "options": [
+      "A. A new observatory has been built.",
+      "B. All streetlights have been switched off.",
+      "C. Light pollution has been reduced."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Light pollution has been reduced.",
+      "Light pollution has been reduced."
+     ]
+    },
+    {
+     "id": "exam06-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Visitors should not move the small telescopes because",
+     "explanation": "Finding an object again takes time.",
+     "evidenceQuote": "it takes time to find an object again",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. they are easily damaged.",
+      "B. it is difficult to relocate objects.",
+      "C. only volunteers are insured to use them."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. it is difficult to relocate objects.",
+      "it is difficult to relocate objects."
+     ]
+    },
+    {
+     "id": "exam06-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "People who cannot climb stairs can",
+     "explanation": "They can watch on a screen connected to the telescope camera.",
+     "evidenceQuote": "we'll show you the view on a screen downstairs",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. use a lift to the main dome.",
+      "B. look through a telescope on the terrace instead.",
+      "C. see the view on a screen."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. see the view on a screen.",
+      "see the view on a screen."
+     ]
+    },
+    {
+     "id": "exam06-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why are visitors given red torches?",
+     "explanation": "Red light protects night vision.",
+     "evidenceQuote": "red light affects night vision much less than white light",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Red light does not spoil night vision as much.",
+      "B. They are brighter than phone lights.",
+      "C. They help staff to find visitors."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Red light does not spoil night vision as much.",
+      "Red light does not spoil night vision as much."
+     ]
+    },
+    {
+     "id": "exam06-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the event on 12 August?",
+     "explanation": "It runs late, until 2 a.m., for the meteor shower.",
+     "evidenceQuote": "the observatory will stay open until two in the morning",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Visitors can use the main telescope all night.",
+      "B. The observatory will open late into the night.",
+      "C. It is only for children."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The observatory will open late into the night.",
+      "The observatory will open late into the night."
+     ]
+    },
+    {
+     "id": "exam06-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "The observatory was built in __________",
+     "explanation": "It was built in 1928.",
+     "evidenceQuote": "The observatory was built in 1928",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1928"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Planetarium session lasts about __________ minutes",
+     "explanation": "The planetarium takes twenty minutes.",
+     "evidenceQuote": "That takes about twenty minutes.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Tonight's objects: Saturn, the Moon and the __________",
+     "explanation": "They will show the Pleiades.",
+     "evidenceQuote": "a cluster of stars called the Pleiades",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Pleiades"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Hot drinks are free, but __________ are welcome",
+     "explanation": "Donations are appreciated.",
+     "evidenceQuote": "donations to the observatory's education fund are very much appreciated",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "donations"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "telescope",
+    "light pollution",
+    "planetarium",
+    "dark-sky reserve",
+    "meteor shower"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 16,
+     "instruction": "Questions 11–16. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "instruction": "Questions 17–20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam06-lp3",
+   "partNumber": 3,
+   "title": "Interpreting ice-core data",
+   "contextDescription": "Two earth science students, Hugo and Priya, discuss a lab report on ice cores with their supervisor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "91B2E179-BF27-54EF-8F80-8D72334FD38D",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Right, Hugo, Priya, I've read the first draft of your report on the Antarctic ice-core data. There's a lot of good work in it, but I'd like to go through a few things."
+    },
+    {
+     "id": "D9EFB321-88CC-586A-82AD-C24C0C1C85E7",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Thanks. We weren't sure whether the introduction was too long."
+    },
+    {
+     "id": "A60DE69B-A6B7-5338-94F9-181162F9B409",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Actually, the length is fine. The problem is more that it reads like a general history of ice-core research. The reader needs to know quite early on what specific question your report is trying to answer."
+    },
+    {
+     "id": "FFB1B36F-4489-5108-8237-304D885537C8",
+     "speaker": "Hugo",
+     "accent": "en-IE",
+     "text": "So we should state the research question in the first paragraph?"
+    },
+    {
+     "id": "554238AC-C424-50CB-A57C-AB1524157B02",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Ideally, yes, and cut some of the historical detail. Now, your method section. You explain clearly how the cores were drilled and stored, but you don't say much about how the ages of the layers were determined. That's crucial for everything that follows."
+    },
+    {
+     "id": "1E4701DD-C927-57F0-92A9-5DE619FEBA7C",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "We thought that was obvious, because you can count the annual layers, like tree rings."
+    },
+    {
+     "id": "7844CCCB-5D0B-5BB5-929E-3F357DDFF014",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "In the upper part of the core, yes. But further down, the ice has been compressed so much that individual years can't be distinguished. Below that depth, ages are estimated using models of how ice flows, combined with markers like layers of volcanic ash from eruptions whose dates are known. You need to explain that, and acknowledge that the uncertainty increases with depth."
+    },
+    {
+     "id": "9DBE8CD9-78B2-5D5B-ABC4-1A8BEED0B450",
+     "speaker": "Hugo",
+     "accent": "en-IE",
+     "text": "That makes sense. I remember the lecture saying that at the bottom of some cores, the uncertainty is thousands of years."
+    },
+    {
+     "id": "40B4DBBA-3017-532A-A1D9-F0EC2775CE51",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Exactly. Now, the results. You've used the ratio of oxygen isotopes as your temperature proxy. Can you remind me why that works?"
+    },
+    {
+     "id": "9FDC2767-E1C5-5AD2-8174-349851259AE1",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Water containing the heavier oxygen isotope evaporates less easily and falls out of the air sooner as rain or snow. So when the climate is colder, snow reaching the poles contains relatively less of the heavy isotope. The ratio in the ice tells us roughly what the temperature was when the snow fell."
+    },
+    {
+     "id": "B3379D01-9CEC-59CF-8475-1F86565C81AF",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Good. But you need to be careful with your language in the discussion. You say that the isotope record 'proves' that temperatures rose by a certain amount at the end of the last ice age. A proxy doesn't prove anything on its own. It's calibrated against modern observations, and that calibration may not hold perfectly in the past."
+    },
+    {
+     "id": "55A728C7-707D-50A3-8D03-EDA4BA428066",
+     "speaker": "Hugo",
+     "accent": "en-IE",
+     "text": "So 'indicates' or 'suggests' would be better?"
+    },
+    {
+     "id": "FD9CE18B-2C5F-5DFD-A9A4-76567EE0EB5A",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Much better. Now, the part I found most interesting was your graph comparing temperature and carbon dioxide. The two lines follow each other very closely."
+    },
+    {
+     "id": "45931DDA-2310-5FAD-8BD9-1181478FF4B3",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Yes, that was what surprised us most. Over eight hundred thousand years, whenever temperature goes up, carbon dioxide goes up too."
+    },
+    {
+     "id": "A277F16E-EA13-54AE-A0DC-63A7E0D91F6D",
+     "speaker": "Hugo",
+     "accent": "en-IE",
+     "text": "Although we noticed that in some places, temperature seems to start rising slightly before carbon dioxide. We weren't sure whether to mention that, because some people use it to argue that carbon dioxide doesn't affect temperature."
+    },
+    {
+     "id": "1772ECC2-9154-5D3F-B13F-AA07DAC7D4B2",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "You should definitely mention it, and explain it. The current understanding is that the ice ages were triggered by small changes in the Earth's orbit, which warmed the planet slightly at first. That warming caused the oceans to release carbon dioxide, which then amplified the warming. So carbon dioxide acted as a feedback, not the original trigger. That doesn't contradict its role as a greenhouse gas at all."
+    },
+    {
+     "id": "0982597B-96AC-52FC-951E-FFA555949011",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "That's really useful. Should we put that in the discussion?"
+    },
+    {
+     "id": "3F270311-2E0F-5EE3-9F5A-7D10FCD11C38",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Yes, with references. Finally, your conclusion introduces a new idea about future sea-level rise. Interesting, but it isn't supported by anything in your results, so I'd remove it, or move it to a short section on further research."
+    },
+    {
+     "id": "5E67062C-E3BE-5943-9A68-DA6330CE255A",
+     "speaker": "Hugo",
+     "accent": "en-IE",
+     "text": "Okay. When do you need the revised version?"
+    },
+    {
+     "id": "92EB80FB-9E82-574A-A641-F2D7512E0084",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "By the end of next week. And make sure the graphs have proper axis labels and units; two of them don't at the moment."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam06-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What is the supervisor's main criticism of the introduction?",
+     "explanation": "The research question should appear early.",
+     "evidenceQuote": "The reader needs to know quite early on what specific question your report is trying to answer",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Priya worried about length, but the supervisor says length is fine.",
+     "options": [
+      "A. It is too long.",
+      "B. It does not state the research question early enough.",
+      "C. It contains too few references."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It does not state the research question early enough.",
+      "It does not state the research question early enough."
+     ]
+    },
+    {
+     "id": "exam06-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why can annual layers not be counted in the deepest ice?",
+     "explanation": "Compression makes individual years indistinguishable.",
+     "evidenceQuote": "the ice has been compressed so much that individual years can't be distinguished",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The ice has melted and refrozen.",
+      "B. Volcanic ash covers the layers.",
+      "C. The layers have been squeezed together."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The layers have been squeezed together.",
+      "The layers have been squeezed together."
+     ]
+    },
+    {
+     "id": "exam06-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why does the supervisor object to the word \"proves\"?",
+     "explanation": "A proxy is calibrated and cannot prove on its own.",
+     "evidenceQuote": "A proxy doesn't prove anything on its own",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Proxy data needs to be interpreted with caution.",
+      "B. The temperature change was very small.",
+      "C. The isotope measurements were inaccurate."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Proxy data needs to be interpreted with caution.",
+      "Proxy data needs to be interpreted with caution."
+     ]
+    },
+    {
+     "id": "exam06-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "According to the supervisor, ice ages were originally triggered by",
+     "explanation": "Small orbital changes triggered the ice ages.",
+     "evidenceQuote": "triggered by small changes in the Earth's orbit",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. rising carbon dioxide.",
+      "B. changes in the Earth's orbit.",
+      "C. volcanic eruptions."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. changes in the Earth's orbit.",
+      "changes in the Earth's orbit."
+     ]
+    },
+    {
+     "id": "exam06-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the supervisor suggest about the idea on sea-level rise?",
+     "explanation": "Remove it or move it to further research.",
+     "evidenceQuote": "I'd remove it, or move it to a short section on further research",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It should be expanded.",
+      "B. It should be moved to the introduction.",
+      "C. It is not supported by the results."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It is not supported by the results.",
+      "It is not supported by the results."
+     ]
+    },
+    {
+     "id": "exam06-L26",
+     "number": 26,
+     "format": "Flowchart Completion",
+     "prompt": "Deep layers dated using models of ice flow and layers of volcanic __________",
+     "explanation": "Volcanic ash layers of known date help.",
+     "evidenceQuote": "markers like layers of volcanic ash",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "ash"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L27",
+     "number": 27,
+     "format": "Flowchart Completion",
+     "prompt": "Heavy oxygen isotope falls out of the air __________ as rain or snow",
+     "explanation": "The heavier isotope falls out sooner.",
+     "evidenceQuote": "falls out of the air sooner as rain or snow",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "sooner"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L28",
+     "number": 28,
+     "format": "Flowchart Completion",
+     "prompt": "Proxy is __________ against modern observations",
+     "explanation": "Proxies are calibrated against modern data.",
+     "evidenceQuote": "It's calibrated against modern observations",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "calibrated"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L29",
+     "number": 29,
+     "format": "Flowchart Completion",
+     "prompt": "Warming caused the __________ to release carbon dioxide",
+     "explanation": "Oceans released CO2 as they warmed.",
+     "evidenceQuote": "That warming caused the oceans to release carbon dioxide",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "oceans"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L30",
+     "number": 30,
+     "format": "Flowchart Completion",
+     "prompt": "Carbon dioxide acted as a __________, amplifying warming",
+     "explanation": "CO2 was a feedback, not the trigger.",
+     "evidenceQuote": "So carbon dioxide acted as a feedback",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "feedback"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "ice core",
+    "isotope",
+    "proxy",
+    "resolution",
+    "calibration"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the flow chart below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam06-lp4",
+   "partNumber": 4,
+   "title": "Measuring time",
+   "contextDescription": "A lecture in a history of science course on how humans have measured time.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "8188209F-31CA-5583-B2BE-A1764C7F22C1",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning. Today's lecture is about something we rarely think about but rely on constantly: the measurement of time. I'll trace the main stages in the history of timekeeping and consider how each new level of precision changed society, sometimes in quite unexpected ways."
+    },
+    {
+     "id": "074BCF09-4EA1-5C7F-88F8-39F920482B5B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The earliest timekeepers were natural cycles: the day, the phases of the moon and the seasons. For dividing up the day, the first instrument was the sundial, used in Egypt over three and a half thousand years ago. Sundials work well, of course, only when the sun is shining, and they can't be used at night. The Egyptians and later the Greeks also used water clocks, in which water dripped at a steady rate from one container to another. These had the advantage of working in any weather and at night, and they were used, among other things, to limit the length of speeches in Athenian law courts."
+    },
+    {
+     "id": "8787F012-0C5A-566B-A403-ADB22A10C0D4",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "An important point to bear in mind is that, for most of history, hours were not of fixed length. Many societies divided the period of daylight into twelve equal parts, whatever the season, so a summer hour was considerably longer than a winter hour. Equal hours only became standard with the spread of mechanical clocks in Europe in the fourteenth century. These early clocks, usually installed in church towers, were large iron machines driven by falling weights, and they were not very accurate; they might gain or lose fifteen minutes a day and had to be reset regularly using a sundial."
+    },
+    {
+     "id": "2F5AF83F-18F1-5D28-A7FA-D20F6BB4A078",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The great leap in accuracy came in 1656, when the Dutch scientist Christiaan Huygens built the first pendulum clock, based on Galileo's observation that a pendulum of a given length always takes the same time to swing, regardless of how far it swings. Huygens's clocks reduced the error to around fifteen seconds a day. For the first time, it made sense for clocks to have minute hands."
+    },
+    {
+     "id": "530C2053-6284-5D03-8DBE-019E8EF143D4",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Pendulum clocks, however, were useless at sea, where the motion of the ship disrupted the pendulum. And accurate timekeeping at sea was a matter of life and death. Sailors could determine their latitude, their position north or south, quite easily from the height of the sun or stars, but longitude, their position east or west, was another matter. In principle, longitude could be calculated by comparing local time with the time at a reference point such as the home port, but this required a clock that kept accurate time for weeks on a moving ship. After a series of shipwrecks, the British government offered a huge prize in 1714 for a solution. It was eventually won by John Harrison, a self-taught carpenter, whose marine clocks, called chronometers, proved accurate to within a few seconds a day."
+    },
+    {
+     "id": "748F83C9-B49E-51CD-9E04-64F7E91DD11A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the nineteenth century, it was the railways that transformed time. Before then, each town kept its own local time, based on the position of the sun, so that noon in Bristol was about ten minutes later than in London. This didn't matter when travel was slow, but it made railway timetables extremely confusing. In 1847, British railway companies adopted a single standard time across the network, and towns gradually followed. Time zones based on the meridian at Greenwich were agreed internationally in 1884."
+    },
+    {
+     "id": "4DB0E216-BD67-5BB8-AA4C-B124A1476B28",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The twentieth century brought two further revolutions. Quartz clocks, which use the regular vibration of a quartz crystal when an electric current passes through it, were developed in the 1920s and eventually made accurate watches cheap enough for almost everyone. Then, in 1955, the first atomic clock was built, measuring time by the extremely regular vibrations of caesium atoms. Since 1967, the second itself has been officially defined in terms of these vibrations rather than the rotation of the Earth, which is actually slightly irregular."
+    },
+    {
+     "id": "699C9740-FA2A-5FE0-8C2E-83E06A31E2B3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "You might wonder why we need such extreme precision. The answer is that much of modern technology depends on it. Satellite navigation systems work by measuring how long signals take to travel from several satellites to a receiver, and an error of a single millionth of a second would put your position out by about three hundred metres. Financial markets, mobile phone networks and power grids all depend on precise synchronisation. Next week, we'll turn to the measurement of distance."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam06-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Water clocks: worked at night and in any weather; used to limit __________ in law courts",
+     "explanation": "They limited the length of speeches.",
+     "evidenceQuote": "to limit the length of speeches in Athenian law courts",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "speeches"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Hours were not of fixed length: summer hours were __________ than winter hours",
+     "explanation": "Summer hours were longer.",
+     "evidenceQuote": "a summer hour was considerably longer than a winter hour",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "longer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Early mechanical clocks were driven by falling __________",
+     "explanation": "They were weight-driven.",
+     "evidenceQuote": "large iron machines driven by falling weights",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weights"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "They were regularly reset using a __________",
+     "explanation": "They were reset with a sundial.",
+     "evidenceQuote": "had to be reset regularly using a sundial",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sundial"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Pendulum clocks made it worthwhile to add __________ hands",
+     "explanation": "Minute hands became worthwhile.",
+     "evidenceQuote": "it made sense for clocks to have minute hands",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "minute"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Sailors could easily find their __________, but not longitude",
+     "explanation": "Latitude was easy to find.",
+     "evidenceQuote": "Sailors could determine their latitude",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "latitude"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Harrison was originally a __________",
+     "explanation": "Harrison was a self-taught carpenter.",
+     "evidenceQuote": "a self-taught carpenter",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "carpenter"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Standard time was first adopted because of confusing railway __________",
+     "explanation": "Railway timetables drove standard time.",
+     "evidenceQuote": "it made railway timetables extremely confusing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "timetables"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Atomic clocks measure vibrations of __________ atoms",
+     "explanation": "Caesium atoms are used.",
+     "evidenceQuote": "the extremely regular vibrations of caesium atoms",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "caesium"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Satellite navigation: a tiny timing error causes a large error in __________",
+     "explanation": "A timing error shifts the calculated position.",
+     "evidenceQuote": "would put your position out by about three hundred metres",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "position"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "sundial",
+    "pendulum",
+    "longitude",
+    "quartz",
+    "atomic clock"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam06-rp1",
+   "passageNumber": 1,
+   "title": "Reading the rocks: the discovery of deep time",
+   "discipline": "History of Geology",
+   "paragraphs": [
+    "Until the late eighteenth century, most educated Europeans believed that the Earth was only a few thousand years old. The most famous calculation, published in 1650 by the Irish archbishop James Ussher, placed the creation of the world in the year 4004 BC, a date arrived at by carefully adding up the generations recorded in the Bible. Ussher's work was not regarded as eccentric; it was a serious piece of scholarship, and his date was printed in the margins of many Bibles for the next two centuries. Within this short timescale, features of the landscape such as mountains and valleys were usually explained as the result of sudden catastrophes, most notably the great flood described in the Book of Genesis.",
+    "The person most often credited with overturning this view is the Scottish naturalist James Hutton. Hutton, who had trained in medicine and then become a farmer, spent years observing how soil was gradually washed away from fields by rain and carried by rivers to the sea. He reasoned that the sediment deposited on the sea floor would slowly be compressed into new rock, which might eventually be pushed up to form new land, to be worn away in turn. The Earth, in Hutton's view, was a kind of machine that continuously destroyed and renewed itself. Crucially, the processes involved, erosion, deposition and uplift, were the same slow ones that could be observed at work in the present.",
+    "Hutton's most famous evidence came from a coastal headland called Siccar Point, east of Edinburgh, which he visited by boat in 1788 with two friends. There, nearly vertical layers of grey rock are overlain by gently sloping layers of red sandstone. Hutton recognised that the grey layers must originally have been laid down horizontally on a sea floor, then tilted and lifted above the sea, eroded flat, and finally submerged again so that the red layers could be deposited on top. Each of these stages, if it had happened at the slow rates that could be observed, must have taken an immense length of time. His friend John Playfair later wrote that 'the mind seemed to grow giddy by looking so far into the abyss of time'.",
+    "Hutton summarised his conclusion in a phrase that has become famous: the Earth showed 'no vestige of a beginning, no prospect of an end'. This was not a claim that the Earth was infinitely old, but rather that the rocks themselves contained no evidence of how long ago it had begun. Nevertheless, his ideas met strong opposition, partly on religious grounds, and partly because his writing was notoriously difficult to read. It was only after Playfair published a clearer account in 1802 that the ideas reached a wider audience.",
+    "In the following decades, Hutton's approach was developed by Charles Lyell, whose three-volume Principles of Geology, published between 1830 and 1833, argued that the Earth's history could be explained entirely by processes still operating today, a principle that came to be known as uniformitarianism. Lyell's book had an enormous influence, not least on the young Charles Darwin, who took the first volume with him on the voyage of the Beagle. Darwin's theory of evolution by natural selection, which required vast periods for small changes to accumulate, would have been almost unthinkable without the geological timescale that Hutton and Lyell had made available.",
+    "Yet even the geologists had no reliable way of measuring how old the Earth actually was. Estimates based on the rate at which sediments accumulated, or the time it would take the oceans to become salty, varied wildly. In the 1860s, the physicist William Thomson, later Lord Kelvin, calculated the age of the Earth from the rate at which it must have cooled from a molten state, arriving at a figure of between twenty and four hundred million years, which he later narrowed to around twenty to forty million. Kelvin's prestige was such that many geologists accepted his figures, even though they seemed far too short to accommodate the history recorded in the rocks.",
+    "The solution came from an unexpected direction. The discovery of radioactivity at the end of the nineteenth century showed that the Earth contained a source of heat that Kelvin had not known about, invalidating his calculations. More importantly, radioactive elements decay at constant, measurable rates, providing a natural clock. In the early twentieth century, scientists began to use this to date rocks directly. Today, using this method on meteorites and the oldest minerals, the age of the Earth is estimated at about 4.54 billion years, a figure that would have astonished even Hutton."
+   ],
+   "questions": [
+    {
+     "id": "exam06-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Ussher's calculation was considered unusual by scholars of his time.",
+     "explanation": "It was regarded as serious scholarship, not eccentric.",
+     "evidenceQuote": "Ussher's work was not regarded as eccentric",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam06-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Hutton developed his ideas partly through observing his own farmland.",
+     "explanation": "He observed soil erosion from fields as a farmer.",
+     "evidenceQuote": "spent years observing how soil was gradually washed away from fields by rain",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam06-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Hutton travelled to Siccar Point alone.",
+     "explanation": "He went with two friends.",
+     "evidenceQuote": "which he visited by boat in 1788 with two friends",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam06-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Hutton believed the Earth had existed forever.",
+     "explanation": "He did not claim the Earth was infinitely old.",
+     "evidenceQuote": "This was not a claim that the Earth was infinitely old",
+     "skillTag": "tfng",
+     "distractorNote": "The phrase \"no vestige of a beginning\" can mislead.",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam06-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Playfair's account was more widely read than Hutton's original work.",
+     "explanation": "Playfair's clearer account reached a wider audience.",
+     "evidenceQuote": "It was only after Playfair published a clearer account in 1802 that the ideas reached a wider audience",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam06-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Darwin met Lyell before the voyage of the Beagle.",
+     "explanation": "Darwin took Lyell's book, but no meeting is mentioned.",
+     "evidenceQuote": "who took the first volume with him on the voyage of the Beagle",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam06-R7",
+     "number": 7,
+     "format": "Summary Completion",
+     "prompt": "Before Hutton, landscape features were often explained by sudden __________.",
+     "explanation": "Sudden catastrophes were the usual explanation.",
+     "evidenceQuote": "usually explained as the result of sudden catastrophes",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "catastrophes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "Hutton saw the Earth as a __________ that destroyed and renewed itself.",
+     "explanation": "He compared the Earth to a machine.",
+     "evidenceQuote": "The Earth, in Hutton's view, was a kind of machine",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "machine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "At Siccar Point, the grey layers had been tilted, lifted and then __________ flat.",
+     "explanation": "They were eroded flat.",
+     "evidenceQuote": "then tilted and lifted above the sea, eroded flat",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eroded"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "Lyell's principle that past changes resulted from present processes is called __________.",
+     "explanation": "This principle is uniformitarianism.",
+     "evidenceQuote": "a principle that came to be known as uniformitarianism",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "uniformitarianism"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "Kelvin estimated the Earth's age from how quickly it had __________.",
+     "explanation": "He used the rate of cooling.",
+     "evidenceQuote": "the rate at which it must have cooled from a molten state",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cooled"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "The discovery of __________ showed that Kelvin had missed a source of heat.",
+     "explanation": "Radioactivity was an unknown heat source.",
+     "evidenceQuote": "The discovery of radioactivity at the end of the nineteenth century",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "radioactivity"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam06-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "Modern estimates of the Earth's age use the oldest minerals and __________.",
+     "explanation": "Meteorites and old minerals are dated.",
+     "evidenceQuote": "using this method on meteorites and the oldest minerals",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meteorites"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 762,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam06-rp2",
+   "passageNumber": 2,
+   "title": "The problem of space debris",
+   "discipline": "Space Science & Policy",
+   "paragraphs": [
+    "Since the launch of the first artificial satellite, Sputnik 1, in 1957, humanity has sent more than fifteen thousand satellites into orbit, and the pace is accelerating rapidly. Most of the satellites launched in recent years belong to so-called mega-constellations, networks of thousands of small satellites designed to provide internet access around the globe. Alongside the working satellites, however, orbit an enormous quantity of debris: dead satellites, spent rocket stages, and fragments produced by explosions and collisions. Space agencies estimate that there are more than thirty thousand pieces larger than ten centimetres being tracked from the ground, and perhaps a million pieces between one and ten centimetres, too small to track but large enough to cause serious damage.",
+    "The danger arises from speed rather than size. In low Earth orbit, objects travel at around seven to eight kilometres per second, roughly ten times as fast as a bullet. At these speeds, even a fragment of paint can damage a spacecraft window, and the windows of the International Space Station have had to be replaced several times because of chips caused by tiny particles. A piece of debris the size of a marble carries as much energy as a bowling ball travelling at motorway speeds, and a collision with an object of ten centimetres or more would be likely to destroy a satellite completely.",
+    "In 1978, a scientist at NASA, Donald Kessler, published a paper warning of a possible chain reaction. If the density of objects in a particular orbit becomes high enough, he argued, collisions will produce fragments faster than natural processes remove them, and each fragment will increase the probability of further collisions. In the worst case, certain orbits could become so crowded with debris that they would be unusable for generations. This scenario, now known as the Kessler syndrome, was once regarded as a distant possibility, but some researchers believe that the most crowded orbits may already have passed the point at which the number of fragments will continue to grow even if no further launches take place.",
+    "Two events dramatically increased the amount of debris. In 2007, China deliberately destroyed one of its own old weather satellites with a missile as a test of anti-satellite technology, creating more than three thousand trackable fragments, many of which remain in orbit. Two years later, an inactive Russian military satellite collided accidentally with a working American communications satellite above Siberia, the first known collision between two intact satellites, producing more than two thousand further fragments. Further anti-satellite tests by other countries have since added to the problem, prompting widespread international criticism.",
+    "Whether debris eventually falls back to Earth depends largely on its altitude. At the lowest orbits, around three or four hundred kilometres, the thin atmosphere gradually slows objects down, and most burn up on re-entry within a few years. At eight hundred kilometres, the process may take centuries, and in the geostationary orbit used by many communications satellites, about thirty-six thousand kilometres above the equator, objects will remain effectively forever. Operators of geostationary satellites are therefore expected to move them, at the end of their working lives, into a higher 'graveyard' orbit where they will not interfere with active spacecraft.",
+    "Current international guidelines recommend that satellites in low orbit should be removed within twenty-five years of the end of their mission, either by being lowered so that they burn up or by being moved out of busy orbits. Compliance, however, has been poor, partly because the guidelines are voluntary and partly because older satellites were not designed with the necessary fuel or equipment. Several regulators have recently tightened the rules; the United States, for example, now requires many satellites it licenses to be removed within five years. Critics argue, though, that national rules are of limited value when space is shared by dozens of countries with different priorities.",
+    "Engineers are also developing ways to remove existing debris. Proposed methods include nets, harpoons and robotic arms to capture dead satellites, magnetic docking devices fitted to new satellites in advance, and lasers fired from the ground to nudge small fragments into lower orbits. A small number of demonstration missions have already taken place. The difficulty is less technical than economic and legal: removing a single large object is expensive, no company has an obvious financial incentive to do it, and international law gives the original owner continuing ownership of its objects in space, even when they are no longer working, which means that one country cannot simply remove another's debris without permission."
+   ],
+   "questions": [
+    {
+     "id": "exam06-R14",
+     "number": 14,
+     "format": "Matching Information",
+     "prompt": "a description of how the danger of debris depends on velocity",
+     "explanation": "Paragraph B explains the role of speed.",
+     "evidenceQuote": "The danger arises from speed rather than size.",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam06-R15",
+     "number": 15,
+     "format": "Matching Information",
+     "prompt": "an example of debris created on purpose",
+     "explanation": "Paragraph D describes the deliberate anti-satellite test.",
+     "evidenceQuote": "China deliberately destroyed one of its own old weather satellites",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam06-R16",
+     "number": 16,
+     "format": "Matching Information",
+     "prompt": "a reason why some debris will never leave orbit",
+     "explanation": "Paragraph E explains geostationary objects stay forever.",
+     "evidenceQuote": "objects will remain effectively forever",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "exam06-R17",
+     "number": 17,
+     "format": "Matching Information",
+     "prompt": "a legal obstacle to cleaning up debris",
+     "explanation": "Paragraph G explains ownership law.",
+     "evidenceQuote": "international law gives the original owner continuing ownership of its objects in space",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "exam06-R18",
+     "number": 18,
+     "format": "Matching Information",
+     "prompt": "a suggestion that a theoretical danger may already be happening",
+     "explanation": "Paragraph C suggests the Kessler syndrome may have begun.",
+     "evidenceQuote": "the most crowded orbits may already have passed the point",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam06-R19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "Why have windows on the International Space Station been replaced?",
+     "explanation": "Tiny particles chipped them.",
+     "evidenceQuote": "because of chips caused by tiny particles",
+     "skillTag": "detail",
+     "options": [
+      "A. They were hit by large satellites.",
+      "B. They were damaged during launch.",
+      "C. Very small particles damaged them.",
+      "D. They became cloudy over time."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Very small particles damaged them.",
+      "Very small particles damaged them."
+     ]
+    },
+    {
+     "id": "exam06-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What was significant about the 2009 collision?",
+     "explanation": "It was the first collision between two whole satellites.",
+     "evidenceQuote": "the first known collision between two intact satellites",
+     "skillTag": "detail",
+     "options": [
+      "A. It was the first collision between two complete satellites.",
+      "B. It was caused by a missile test.",
+      "C. It destroyed the International Space Station.",
+      "D. It happened in geostationary orbit."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It was the first collision between two complete satellites.",
+      "It was the first collision between two complete satellites."
+     ]
+    },
+    {
+     "id": "exam06-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What are geostationary satellite operators expected to do?",
+     "explanation": "Move dead satellites to a graveyard orbit.",
+     "evidenceQuote": "move them, at the end of their working lives, into a higher 'graveyard' orbit",
+     "skillTag": "detail",
+     "options": [
+      "A. bring old satellites back to Earth",
+      "B. lower satellites so they burn up",
+      "C. share satellites with other countries",
+      "D. move old satellites to a higher orbit"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. move old satellites to a higher orbit",
+      "move old satellites to a higher orbit"
+     ]
+    },
+    {
+     "id": "exam06-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph F, compliance with the 25-year guideline has been poor partly because",
+     "explanation": "The guidelines are voluntary and old satellites lack fuel.",
+     "evidenceQuote": "the guidelines are voluntary",
+     "skillTag": "detail",
+     "options": [
+      "A. the guideline was introduced recently.",
+      "B. operators are not obliged to follow it.",
+      "C. satellites now last longer than 25 years.",
+      "D. regulators have not publicised it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. operators are not obliged to follow it.",
+      "operators are not obliged to follow it."
+     ]
+    },
+    {
+     "id": "exam06-R23",
+     "number": 23,
+     "format": "Sentence Completion",
+     "prompt": "Most recent satellites belong to __________ that provide internet access.",
+     "explanation": "Most belong to mega-constellations.",
+     "evidenceQuote": "Most of the satellites launched in recent years belong to so-called mega-constellations",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mega-constellations"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam06-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "A marble-sized object has as much energy as a __________ moving at motorway speeds.",
+     "explanation": "It is compared to a bowling ball.",
+     "evidenceQuote": "as much energy as a bowling ball travelling at motorway speeds",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bowling ball"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam06-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "At low altitudes, the thin __________ slows objects so that they burn up.",
+     "explanation": "The atmosphere slows them.",
+     "evidenceQuote": "the thin atmosphere gradually slows objects down",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "atmosphere"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam06-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Some new satellites may carry magnetic __________ to make removal easier.",
+     "explanation": "Docking devices can be fitted in advance.",
+     "evidenceQuote": "magnetic docking devices fitted to new satellites in advance",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "docking devices"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 751,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G."
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam06-rp3",
+   "passageNumber": 3,
+   "title": "Is there anybody out there?",
+   "discipline": "Astrobiology & Philosophy of Science",
+   "paragraphs": [
+    "In the summer of 1950, during a lunchtime conversation at the Los Alamos laboratory in New Mexico, the physicist Enrico Fermi is said to have asked a deceptively simple question: 'Where is everybody?' Fermi's point was that the galaxy is extremely old and contains hundreds of billions of stars, many of them billions of years older than the Sun. If even a tiny fraction of them had produced technological civilisations, and if any of those civilisations had developed interstellar travel, then, given enough time, they should have spread throughout the galaxy. Yet we see no sign of them. This apparent contradiction between the high probability of alien life and the absence of evidence for it has become known as the Fermi paradox.",
+    "The question gained a more formal structure in 1961, when the astronomer Frank Drake proposed an equation intended not so much to produce an answer as to organise the discussion. The Drake equation multiplies together a series of factors: the rate at which stars form, the fraction of stars with planets, the number of planets suitable for life, and the fractions of those on which life, intelligence and detectable technology develop, together with the length of time such civilisations remain detectable. At the time, only the first of these factors could be estimated with any confidence. The others were, in effect, educated guesses, and depending on the values chosen, the equation could yield anything from a galaxy teeming with civilisations to one in which we are entirely alone.",
+    "Since then, one part of the equation has been transformed. In 1995, astronomers confirmed the first planet orbiting a Sun-like star, and space telescopes have since identified more than five thousand such exoplanets. It now appears that planets are the rule rather than the exception, and that a substantial proportion of stars have rocky planets at a distance where liquid water could exist on the surface. In purely astronomical terms, then, potential homes for life seem to be abundant. Yet this progress has, if anything, sharpened the paradox, because it removes one of the most obvious explanations for the silence.",
+    "The proposed solutions fall broadly into three groups. The first holds that life, or at least intelligent life, is genuinely rare. Perhaps the origin of life from non-living chemistry is an extraordinarily unlikely event, or perhaps the evolution of complex cells, which on Earth took around two billion years, requires a sequence of improbable accidents. The economist Robin Hanson has described this possibility as a 'Great Filter', some step in the development from simple chemistry to galaxy-spanning civilisation that almost no species manages to pass. I find this explanation the most persuasive of the three, though, as Hanson himself has noted, it carries an uncomfortable implication: if the filter lies ahead of us rather than behind, our own prospects may be bleak.",
+    "A second group of explanations accepts that civilisations may be common but argues that we would not have noticed them. Interstellar distances are vast, and radio signals weaken rapidly with distance; a civilisation like ours, broadcasting accidentally, would probably be undetectable beyond a few light years. Advanced societies might communicate by means we have not thought to look for, or might deliberately avoid contact. Supporters of this view also point out that our searches have been remarkably limited. One researcher has calculated that, relative to the volume of space and range of frequencies that might plausibly be searched, the effort so far is comparable to examining a single glass of water from the world's oceans and concluding that the seas contain no fish. This argument has some force, but in my view it does not fully answer Fermi's original point, which concerned not signals but the physical spread of civilisations across the galaxy.",
+    "A third group of explanations focuses on the behaviour of civilisations themselves. Perhaps technological societies tend to destroy themselves, through war or environmental collapse, soon after acquiring the ability to do so. Perhaps they lose interest in expansion, turning inward to virtual worlds of their own making. Explanations of this kind are difficult to evaluate, because they require us to assume that all, or almost all, civilisations behave in the same way, an assumption that seems unlikely given the diversity of human cultures alone.",
+    "What is striking about the Fermi paradox is that it has stimulated useful research across many disciplines, from the chemistry of the origin of life to the study of planetary atmospheres. In the coming decades, telescopes may be able to analyse the atmospheres of nearby exoplanets for gases, such as oxygen combined with methane, that are difficult to explain without biology. Such a discovery would not settle the question of intelligent life, but it would tell us whether life itself is a common outcome of planetary evolution, and that, I would argue, is the more fundamental question."
+   ],
+   "questions": [
+    {
+     "id": "exam06-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Drake intended his equation mainly to give a precise number of civilisations.",
+     "explanation": "It was meant to organise discussion, not produce an answer.",
+     "evidenceQuote": "intended not so much to produce an answer as to organise the discussion",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam06-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The discovery of many exoplanets has made the Fermi paradox harder to explain.",
+     "explanation": "Exoplanet discoveries sharpened the paradox.",
+     "evidenceQuote": "this progress has, if anything, sharpened the paradox",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam06-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "The idea that intelligent life is rare is the most convincing explanation.",
+     "explanation": "The writer finds the rarity explanation most persuasive.",
+     "evidenceQuote": "I find this explanation the most persuasive of the three",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam06-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Searches for alien signals have been well funded.",
+     "explanation": "Limited scope is mentioned, but not funding.",
+     "evidenceQuote": "our searches have been remarkably limited",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam06-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "The argument about limited searches completely answers Fermi's question.",
+     "explanation": "The writer says it does not fully answer it.",
+     "evidenceQuote": "in my view it does not fully answer Fermi's original point",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam06-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Finding signs of simple life would be more important than finding intelligent life.",
+     "explanation": "The writer considers whether life is common the more fundamental question.",
+     "evidenceQuote": "that, I would argue, is the more fundamental question",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam06-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "What was Fermi's main point?",
+     "explanation": "If civilisations existed, they should be visible.",
+     "evidenceQuote": "they should have spread throughout the galaxy. Yet we see no sign of them",
+     "skillTag": "main_idea",
+     "options": [
+      "A. Interstellar travel is impossible.",
+      "B. Older civilisations should have become visible by now.",
+      "C. Most stars are younger than the Sun.",
+      "D. Intelligent life is likely to be very rare."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Older civilisations should have become visible by now.",
+      "Older civilisations should have become visible by now."
+     ]
+    },
+    {
+     "id": "exam06-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "When the Drake equation was proposed, scientists",
+     "explanation": "Only star formation could be estimated confidently.",
+     "evidenceQuote": "only the first of these factors could be estimated with any confidence",
+     "skillTag": "detail",
+     "options": [
+      "A. had already found many planets.",
+      "B. agreed on the values of most factors.",
+      "C. could estimate the lifetime of civilisations.",
+      "D. could reliably estimate only one factor."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. could reliably estimate only one factor.",
+      "could reliably estimate only one factor."
+     ]
+    },
+    {
+     "id": "exam06-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What uncomfortable implication of the \"Great Filter\" is mentioned?",
+     "explanation": "The filter may still lie ahead of humanity.",
+     "evidenceQuote": "if the filter lies ahead of us rather than behind, our own prospects may be bleak",
+     "skillTag": "inference",
+     "options": [
+      "A. Humanity may not survive the filter in future.",
+      "B. Life on Earth may not be natural.",
+      "C. Other civilisations may be hostile.",
+      "D. The filter makes space travel impossible."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Humanity may not survive the filter in future.",
+      "Humanity may not survive the filter in future."
+     ]
+    },
+    {
+     "id": "exam06-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer doubt explanations based on how civilisations behave?",
+     "explanation": "They assume all civilisations behave alike.",
+     "evidenceQuote": "they require us to assume that all, or almost all, civilisations behave in the same way",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. They are not supported by any scientists.",
+      "B. They ignore the vast distances in space.",
+      "C. They assume every civilisation acts in the same way.",
+      "D. They depend on technology we do not have."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They assume every civilisation acts in the same way.",
+      "They assume every civilisation acts in the same way."
+     ]
+    },
+    {
+     "id": "exam06-R37",
+     "number": 37,
+     "format": "Matching Sentence Endings",
+     "prompt": "On Earth, the evolution of complex cells",
+     "explanation": "It took around two billion years.",
+     "evidenceQuote": "which on Earth took around two billion years",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "B. took a very long time.",
+      "C. proves that aliens visited Earth.",
+      "D. atmospheric gases that suggest the presence of life.",
+      "E. would fade before reaching distant stars.",
+      "F. are deliberately hidden by other civilisations."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. took a very long time.",
+      "took a very long time."
+     ]
+    },
+    {
+     "id": "exam06-R38",
+     "number": 38,
+     "format": "Matching Sentence Endings",
+     "prompt": "Radio signals from a civilisation like ours",
+     "explanation": "They would be undetectable beyond a few light years.",
+     "evidenceQuote": "would probably be undetectable beyond a few light years",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "B. took a very long time.",
+      "C. proves that aliens visited Earth.",
+      "D. atmospheric gases that suggest the presence of life.",
+      "E. would fade before reaching distant stars.",
+      "F. are deliberately hidden by other civilisations."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. would fade before reaching distant stars.",
+      "would fade before reaching distant stars."
+     ]
+    },
+    {
+     "id": "exam06-R39",
+     "number": 39,
+     "format": "Matching Sentence Endings",
+     "prompt": "The comparison with a glass of seawater suggests that",
+     "explanation": "The search so far is tiny.",
+     "evidenceQuote": "the effort so far is comparable to examining a single glass of water",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "B. took a very long time.",
+      "C. proves that aliens visited Earth.",
+      "D. atmospheric gases that suggest the presence of life.",
+      "E. would fade before reaching distant stars.",
+      "F. are deliberately hidden by other civilisations."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "the search so far has covered only a tiny part of what is possible."
+     ]
+    },
+    {
+     "id": "exam06-R40",
+     "number": 40,
+     "format": "Matching Sentence Endings",
+     "prompt": "Future telescopes may detect",
+     "explanation": "They may detect telltale atmospheric gases.",
+     "evidenceQuote": "analyse the atmospheres of nearby exoplanets for gases",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "B. took a very long time.",
+      "C. proves that aliens visited Earth.",
+      "D. atmospheric gases that suggest the presence of life.",
+      "E. would fade before reaching distant stars.",
+      "F. are deliberately hidden by other civilisations."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. atmospheric gases that suggest the presence of life.",
+      "atmospheric gases that suggest the presence of life."
+     ]
+    }
+   ],
+   "estimatedWordCount": 806,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. the search so far has covered only a tiny part of what is possible.",
+      "B. took a very long time.",
+      "C. proves that aliens visited Earth.",
+      "D. atmospheric gases that suggest the presence of life.",
+      "E. would fade before reaching distant stars.",
+      "F. are deliberately hidden by other civilisations."
+     ]
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam06-w1",
+  "title": "Satellites launched by type of operator",
+  "visualType": "Combined Visual Data",
+  "instructions": "The chart below shows the number of satellites launched each year by government and commercial operators, and the total number of active satellites in orbit, between 2010 and 2022. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "08460706-4AD5-54E6-9941-8702FCD11C2E",
+    "series": "Government launches",
+    "category": "2010",
+    "value": 70.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "E53B10D9-F5D0-58DB-BBA8-742334320C17",
+    "series": "Commercial launches",
+    "category": "2010",
+    "value": 40.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "8F917C43-4AA5-57BD-B963-127DEC8625B5",
+    "series": "Government launches",
+    "category": "2013",
+    "value": 85.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "FA6072BF-F9BB-53F2-81AD-29F659FB749A",
+    "series": "Commercial launches",
+    "category": "2013",
+    "value": 120.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "45C78F4B-3FF0-5806-927E-647E81904BC1",
+    "series": "Government launches",
+    "category": "2016",
+    "value": 95.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "DAC065A0-97E0-577D-AF5E-077FF6A3C356",
+    "series": "Commercial launches",
+    "category": "2016",
+    "value": 130.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "57FB8467-FF9E-53D5-9BFB-4112FB3B202D",
+    "series": "Government launches",
+    "category": "2019",
+    "value": 120.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "6D83AA06-EA99-580B-A725-43473895962B",
+    "series": "Commercial launches",
+    "category": "2019",
+    "value": 370.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "A5B53E21-D48B-5364-9EBF-A8F1AE648723",
+    "series": "Government launches",
+    "category": "2022",
+    "value": 160.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "E8BE45D7-5E27-5768-8F87-26B51193798D",
+    "series": "Commercial launches",
+    "category": "2022",
+    "value": 2200.0,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "E7A3942E-C2F2-5942-B765-0D9D7BDAF6A2",
+    "series": "~Active satellites (hundreds)",
+    "category": "2010",
+    "value": 9.9,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "8F4A02DF-BA10-5F7D-8978-62F01D754527",
+    "series": "~Active satellites (hundreds)",
+    "category": "2013",
+    "value": 11.7,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "3FAB74C5-582B-5023-93FF-ED3836085254",
+    "series": "~Active satellites (hundreds)",
+    "category": "2016",
+    "value": 14.6,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "D5E59C39-7F0C-511A-B4E9-4B4511B776A2",
+    "series": "~Active satellites (hundreds)",
+    "category": "2019",
+    "value": 22.2,
+    "unit": "number of satellites"
+   },
+   {
+    "id": "DE0AF092-C3C8-5F4E-9B10-10A67D275BAB",
+    "series": "~Active satellites (hundreds)",
+    "category": "2022",
+    "value": 69.0,
+    "unit": "number of satellites"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Commercial launches overtook government launches early in the period and then grew explosively after 2019.",
+   "The number of active satellites rose steadily before increasing sharply at the end of the period."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam06-w2",
+  "title": "Spending on space",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Science & Government",
+  "promptText": "Some people think that space exploration is a waste of money and that governments should spend it on solving problems on Earth. Others believe that investment in space brings important benefits. Discuss both these views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam06-spk",
+  "theme": "Science, time and the natural world",
+  "part1Questions": [
+   "Are you usually on time for appointments?",
+   "Do you wear a watch?",
+   "Have you ever looked at the stars through a telescope?",
+   "Were you interested in science at school?",
+   "Do you prefer mornings or evenings?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a natural phenomenon that you find fascinating.",
+   "bulletPoints": [
+    "what it is",
+    "where you have seen or learned about it",
+    "what you know about it",
+    "and explain why you find it fascinating"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people find science difficult to understand?",
+   "Should the public have a say in how science is funded?",
+   "How has technology changed the way people manage their time?",
+   "Do you think humans will ever live on other planets?",
+   "What responsibilities do scientists have towards society?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Written at an Advanced level (Band 8.0–9.0): denser texts, more paraphrase and subtler distractors.",
+   "Scientific figures are rounded and simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

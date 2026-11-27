@@ -1,0 +1,2224 @@
+{
+ "id": "exam14",
+ "examNumber": 14,
+ "pool": "mock",
+ "title": "Mock Exam 14: Migration, Population & Identity",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Migration, Population & Identity",
+ "listeningParts": [
+  {
+   "id": "exam14-lp1",
+   "partNumber": 1,
+   "title": "Joining a course for newcomers",
+   "contextDescription": "A man who has recently moved to a new city phones a centre that runs courses for new arrivals.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "CAC39C9A-186B-51C0-BB84-EE5311CDBC9C",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Good morning, Riverside Newcomers' Centre, Joanna speaking. How can I help you?"
+    },
+    {
+     "id": "6715913A-AE2B-54A2-BE45-8B3C2DFC3AB9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Hello. I moved to the city about three weeks ago with my wife, for her job, and someone at the library told me you run courses and activities for people who've just arrived. Could you tell me a bit more about them?"
+    },
+    {
+     "id": "F4D720C9-3ED3-5199-956F-934EE8DA121A",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Of course, and welcome to Riverside. We offer quite a few things, but our main service is a free orientation programme called Settling In. It helps people understand how things work here, things like registering with a doctor, opening a bank account, looking for work and using public transport. It's a series of six weekly sessions, and each one lasts two hours."
+    },
+    {
+     "id": "E8BAF1FF-715F-5B36-AA67-719F48695E8E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds really useful. My English is fine, obviously, but there's a lot I don't understand about the local systems. The paperwork alone is confusing. When does it run?"
+    },
+    {
+     "id": "556BA84A-0445-59E7-AE7B-C089F6CA7EC6",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "There are two groups. One meets on Monday mornings, from ten until twelve, and the other meets on Wednesday evenings, from half past six until half past eight, for people who work during the day."
+    },
+    {
+     "id": "FFF7C84A-53E8-59B6-9715-AAC47A461474",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I haven't found a job yet, so Monday mornings would suit me better."
+    },
+    {
+     "id": "C5AFFB84-1DC1-5DF3-85F1-096F703CA470",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Fine. Let me see. The next course starts on the fourth of March. Oh, sorry, I'm looking at the wrong list. The fourth is when the Wednesday group starts. The Monday group begins a week later, on the eleventh."
+    },
+    {
+     "id": "0C3EC3F4-C393-5953-919B-27388573BBA9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "The eleventh of March. Okay, that's fine."
+    },
+    {
+     "id": "659A0A41-F3CD-5A85-9BC4-26F465B7D200",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "The sessions take place in our main building, which is at number forty-two Carver Street, in Room 3B on the second floor. There's a lift, if you need it."
+    },
+    {
+     "id": "2E3FE6F3-D27B-5364-B8CB-97DFEF6210DE",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Is there anywhere to park near the building?"
+    },
+    {
+     "id": "F561662D-ECA1-5121-AF43-5607397A42C8",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Not really, I'm afraid. Parking on Carver Street is very limited and quite expensive. Most people come by tram. The stop called Market Square is only a couple of minutes' walk away."
+    },
+    {
+     "id": "8EB37948-70E0-5886-9E3B-9FB67283E2A6",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's fine. We haven't bought a car yet anyway. Is there anything I need to bring to the first session?"
+    },
+    {
+     "id": "A90D0602-26E9-547E-9342-2A04AC6E78C9",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Just a notebook, and some form of identification, such as your passport, because we need to check it when you register. A driving licence from your home country isn't enough, unfortunately. Everything else, including the handbook, is provided."
+    },
+    {
+     "id": "F3F133B1-AA06-5A7A-AF15-2C674D8AF2E3",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "And is the course really free?"
+    },
+    {
+     "id": "D69E3001-DE21-5C9D-B250-F338E0A398E9",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "The course itself is free, because it's funded by the city council. We do ask for a small contribution of two pounds a session for tea and coffee, but that's completely optional."
+    },
+    {
+     "id": "BF90DE6B-0CA0-53F7-81D3-4FCF489C5F65",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's very reasonable. My wife might want to get involved too, although she's working full-time. Do you run anything at weekends?"
+    },
+    {
+     "id": "3647E44F-E2D8-5789-9FB7-CC00E2274FF0",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Yes, we have a Saturday social club, where newcomers and local volunteers meet for different activities. This month there's a walking tour of the old town, which is free, and a cooking afternoon, where people prepare a dish from their home country and share it. That one costs five pounds per person, to cover the ingredients."
+    },
+    {
+     "id": "2BE0E672-D9D1-5C97-8AB3-FA49206B3E5B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "She'd love the cooking afternoon. She's a brilliant cook. Right, can I book a place on the Monday course?"
+    },
+    {
+     "id": "B82AB9DD-25C9-51D8-B8A1-8C10BFEA16C0",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Certainly. Could I have your full name, please?"
+    },
+    {
+     "id": "B740DEE2-664E-52F4-A6D9-808568F38D5E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Daniel Marchetti. That's M-A-R-C-H-E-T-T-I."
+    },
+    {
+     "id": "38114A03-4319-5D95-AFFD-B13DB4B028DC",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Thank you. And where have you moved from, Daniel?"
+    },
+    {
+     "id": "13799CAD-0E71-5340-A43A-637EF804350D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "From Perth, in Australia, although my father's family originally came from Italy, which explains the surname."
+    },
+    {
+     "id": "E92E550E-8140-5FD3-83EF-012CD6DC8598",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Lovely. And what's your address here?"
+    },
+    {
+     "id": "12BA84DC-85ED-5B73-9F27-3259ACC9AC67",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Flat 7, 19 Linden Road. The postcode is RV4 8TN."
+    },
+    {
+     "id": "6833E324-13D3-551A-BD15-5403C8861438",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Can I also ask what kind of work you're hoping to find? Some of our sessions include talks from local employers, so it helps us to plan."
+    },
+    {
+     "id": "EB142D39-CE3A-58E6-8258-6F30268D51B9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'm a qualified nurse. I worked in a children's hospital for eight years, but I need to get my qualifications recognised here before I'm allowed to work."
+    },
+    {
+     "id": "03EAF0B4-FCFA-5D0E-9C39-FCC97906B60B",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "That's very common. In session four, we have a specialist adviser who helps people with exactly that, so make sure you bring copies of your certificates that week."
+    },
+    {
+     "id": "6F4BAE8B-C1C0-5110-B24A-C70BE76F7AAA",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I will. Thank you, that's a great help."
+    },
+    {
+     "id": "75D1BA25-7F33-5447-A355-EF09B6CA8F6A",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "One last thing. How did you hear about us? We like to keep a record so we know which kind of advertising works."
+    },
+    {
+     "id": "DF99CAE5-4D92-5E61-983A-5492428DE05C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I picked up a leaflet at the central library, and the librarian recommended you too."
+    },
+    {
+     "id": "DD3AED3D-CB27-537C-8E38-FD02184B3CF6",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Wonderful. I'll send you a confirmation email this afternoon with a map and the handbook attached. We look forward to seeing you on the eleventh."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam14-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Settling In programme: __________ weekly sessions",
+     "explanation": "There are six sessions.",
+     "evidenceQuote": "It's a series of six weekly sessions",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Group chosen: __________ mornings",
+     "explanation": "He chooses Monday mornings.",
+     "evidenceQuote": "Monday mornings would suit me better",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Monday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Course start date: __________ March",
+     "explanation": "The Monday group starts on the 11th.",
+     "evidenceQuote": "The Monday group begins a week later, on the eleventh.",
+     "skillTag": "dates",
+     "distractorNote": "The 4th is the start date for the Wednesday group.",
+     "options": [],
+     "acceptedAnswers": [
+      "eleventh",
+      "11th",
+      "11"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Address: __________ Carver Street",
+     "explanation": "The building is at 42 Carver Street.",
+     "evidenceQuote": "at number forty-two Carver Street",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "42",
+      "forty-two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Room: __________ (second floor)",
+     "explanation": "The sessions are in Room 3B.",
+     "evidenceQuote": "in Room 3B on the second floor",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "3B"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Nearest tram stop: Market __________",
+     "explanation": "The stop is Market Square.",
+     "evidenceQuote": "The stop called Market Square",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Square"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring: a notebook and identification, e.g. a __________",
+     "explanation": "A passport is needed.",
+     "evidenceQuote": "some form of identification, such as your passport",
+     "skillTag": "detail",
+     "distractorNote": "A foreign driving licence is not accepted.",
+     "options": [],
+     "acceptedAnswers": [
+      "passport"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Saturday cooking afternoon: £__________ per person",
+     "explanation": "It costs £5.",
+     "evidenceQuote": "That one costs five pounds per person",
+     "skillTag": "numbers",
+     "distractorNote": "£2 is the optional tea and coffee contribution.",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Marchetti.",
+     "evidenceQuote": "It's Daniel Marchetti. That's M-A-R-C-H-E-T-T-I.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Marchetti"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Profession: __________",
+     "explanation": "He is a nurse.",
+     "evidenceQuote": "I'm a qualified nurse.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "nurse"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "orientation",
+    "newcomer",
+    "identification",
+    "qualifications",
+    "volunteer"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam14-lp2",
+   "partNumber": 2,
+   "title": "A guided visit to a migration museum",
+   "contextDescription": "A volunteer guide introduces a group of visitors to a museum about the history of migration through a port city.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "AF917DAB-BC59-5119-9C29-49F7050B0314",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Good afternoon, everyone, and welcome to the Harbour Street Migration Museum. My name's Siobhan, and I'm one of the volunteer guides here. Before you start exploring, I'd like to give you a short introduction to the museum and explain what you'll find in each of our galleries."
+    },
+    {
+     "id": "73012675-5359-5D5F-B9AD-ADA3ECC96877",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "First, a little about the building. You may have noticed the old sign above the entrance. In the nineteenth century, this was the office of a shipping company, and it was here that thousands of people bought their tickets before leaving for North America and Australia. When the company closed, the building stood empty for many years, and it was almost demolished in the nineteen-nineties. A group of local residents campaigned to save it, and the museum finally opened in 2009. We chose this building precisely because so many journeys began in this very room."
+    },
+    {
+     "id": "4E7D2017-D0EA-5C6D-B445-0D242D93C4F5",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The museum tells the story of people who left this city, but also of people who arrived here, because the port has always worked in both directions. Most of our collection, around three-quarters of it, has been donated by local families. People bring us letters, photographs, suitcases and even recipes, and every object comes with a story. We're always happy to receive new donations, but please speak to a member of staff first, because we can't accept everything."
+    },
+    {
+     "id": "D7DF2CF3-3AEE-50D9-8B27-32D61706D9E6",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Now, the galleries. On the ground floor, just behind me, is the Departure Hall. This is where you'll find the original ticket counter, and the walls are covered with copies of the passenger lists from the ships that sailed from here. If you know that an ancestor emigrated from this port, our staff can help you search the lists. The originals are far too fragile to handle, so they're kept in our archive."
+    },
+    {
+     "id": "19D7A3C3-DE34-5F64-82A3-79D27DECDE8C",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Next to it is The Crossing. Here, we've built a full-size reconstruction of the cheapest part of a nineteenth-century sailing ship, which was called steerage. You can climb into the narrow wooden bunks and get a sense of what it was like to spend six weeks or more at sea with very little light or fresh air. Some visitors find it a little uncomfortable, so you're welcome to skip it if you prefer."
+    },
+    {
+     "id": "5C9ACA56-520F-5179-B94F-CBDE62309CCF",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Upstairs, on the first floor, is the gallery called Arrivals, which looks at the people who have come to settle in this city over the last two centuries, from many different parts of the world. I'm afraid that gallery is closed this week, because we're installing new lighting, but it should reopen on Monday."
+    },
+    {
+     "id": "7B377D0D-8F3A-5F6A-8E2B-02AEC5E550B0",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Also on the first floor is The Kitchen Table, which is our family gallery. It's full of hands-on activities: children can dress up in historical costumes, pack a suitcase for a long journey, and taste bread made from traditional recipes. It's especially popular with school groups, so it can get quite noisy in the mornings."
+    },
+    {
+     "id": "39A27098-C6D2-52BD-A5F0-B11C8A762D8A",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, on the top floor, there's the Voices Room. This is a small, quiet space where you can sit and listen to recordings of interviews with people who've migrated, both recently and in the past. The oldest recording was made in 1962. There's also a booth where you can record your own family's story, if you'd like to. With your permission, we add these recordings to our collection, and some have been used in our exhibitions."
+    },
+    {
+     "id": "D720327D-0604-5729-84F4-E0CBF643C89F",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "A few practical points. Photography is allowed everywhere except in the Voices Room, out of respect for the people speaking. Please don't touch the objects in the glass cases, but anything with a green hand symbol beside it can be handled. And our café on the ground floor serves dishes inspired by the different communities that have settled here. Today's special, I believe, is a lentil soup from a family recipe that was donated last year."
+    },
+    {
+     "id": "07A6D048-AFD6-5BA4-A99B-4C3E75393AFB",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "If you have any questions, you'll find staff and volunteers in every gallery, wearing blue lanyards. The museum closes at five, but the shop stays open for another half an hour. Enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam14-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why was the shipping company office chosen as the home of the museum?",
+     "explanation": "Journeys began there, so it has historical meaning.",
+     "evidenceQuote": "We chose this building precisely because so many journeys began in this very room.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was the cheapest building available.",
+      "B. Many emigrants had begun their journeys there.",
+      "C. The council offered it to the residents."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many emigrants had begun their journeys there.",
+      "Many emigrants had begun their journeys there."
+     ]
+    },
+    {
+     "id": "exam14-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What does Siobhan say about objects in the collection?",
+     "explanation": "Most objects were donated by local families.",
+     "evidenceQuote": "around three-quarters of it, has been donated by local families",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Most were given by families from the area.",
+      "B. Most were bought from other museums.",
+      "C. Most were found during building work."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Most were given by families from the area.",
+      "Most were given by families from the area."
+     ]
+    },
+    {
+     "id": "exam14-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What should visitors do if they want to donate an object?",
+     "explanation": "They should talk to staff first.",
+     "evidenceQuote": "please speak to a member of staff first",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. send a photograph by email",
+      "B. leave it at the reception desk",
+      "C. talk to a member of staff beforehand"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. talk to a member of staff beforehand",
+      "talk to a member of staff beforehand"
+     ]
+    },
+    {
+     "id": "exam14-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why are the original passenger lists kept in the archive?",
+     "explanation": "They are too fragile.",
+     "evidenceQuote": "The originals are far too fragile to handle",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They contain private information.",
+      "B. They could be damaged easily.",
+      "C. They are being copied."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They could be damaged easily.",
+      "They could be damaged easily."
+     ]
+    },
+    {
+     "id": "exam14-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Where are visitors not allowed to take photographs?",
+     "explanation": "Photos are banned in the Voices Room.",
+     "evidenceQuote": "Photography is allowed everywhere except in the Voices Room",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. in the steerage reconstruction",
+      "B. in the family gallery",
+      "C. in the room with interview recordings"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. in the room with interview recordings",
+      "in the room with interview recordings"
+     ]
+    },
+    {
+     "id": "exam14-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "Departure Hall",
+     "explanation": "Staff help visitors search for ancestors.",
+     "evidenceQuote": "our staff can help you search the lists",
+     "skillTag": "matching",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Staff can help visitors trace relatives there.",
+      "Staff can help visitors trace relatives there."
+     ]
+    },
+    {
+     "id": "exam14-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "The Crossing",
+     "explanation": "Some people find the reconstruction uncomfortable.",
+     "evidenceQuote": "Some visitors find it a little uncomfortable",
+     "skillTag": "matching",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Some people may find it unpleasant.",
+      "Some people may find it unpleasant."
+     ]
+    },
+    {
+     "id": "exam14-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Arrivals",
+     "explanation": "It is closed for new lighting.",
+     "evidenceQuote": "that gallery is closed this week",
+     "skillTag": "matching",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It is temporarily unavailable.",
+      "It is temporarily unavailable."
+     ]
+    },
+    {
+     "id": "exam14-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "The Kitchen Table",
+     "explanation": "School groups often visit it.",
+     "evidenceQuote": "It's especially popular with school groups",
+     "skillTag": "matching",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It is frequently visited by school classes.",
+      "It is frequently visited by school classes."
+     ]
+    },
+    {
+     "id": "exam14-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Voices Room",
+     "explanation": "Visitors can record their stories.",
+     "evidenceQuote": "a booth where you can record your own family",
+     "skillTag": "matching",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Visitors can add their own contribution.",
+      "Visitors can add their own contribution."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "emigrant",
+    "steerage",
+    "passenger list",
+    "donation",
+    "oral history"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does the guide say about each gallery? Choose FIVE answers from the list and write the correct letter, A–G.",
+     "options": [
+      "A. It is temporarily unavailable.",
+      "B. It is frequently visited by school classes.",
+      "C. It has the oldest object in the museum.",
+      "D. Staff can help visitors trace relatives there.",
+      "E. Visitors can add their own contribution.",
+      "F. Some people may find it unpleasant.",
+      "G. It requires a separate ticket."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam14-lp3",
+   "partNumber": 3,
+   "title": "An oral history project",
+   "contextDescription": "Two sociology students, Amira and Josh, discuss their project interviewing older migrants with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "64D66C85-CC19-5125-B398-E676E2ABD2F7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Amira, Josh. Come and sit down. So, you've finished the interviews for your oral history project. How did it go?"
+    },
+    {
+     "id": "FDC8D959-EFFB-57A1-8FBA-5902AF597360",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "Really well, I think. As you know, we wanted to record the experiences of people who came to live in this town in the nineteen-sixties and seventies, before those memories are lost. In the end, we interviewed fourteen people, all aged over seventy."
+    },
+    {
+     "id": "D11F661F-9F45-5590-B5A5-1B0664F953E1",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "How did you find them? That can be the hardest part."
+    },
+    {
+     "id": "92BF59B7-B161-5853-B31A-27CC2205E9DE",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "We started by contacting community organisations, but that didn't work very well. We sent emails to about ten groups and only got two replies. What really made the difference was a lunch club for older residents at the community centre. Amira went along a few times and just chatted to people, and once they knew her, they were happy to take part, and they introduced us to their friends."
+    },
+    {
+     "id": "0E421684-CAEF-5B23-A8BB-1EAAF04F9D34",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's quite typical. Trust matters much more than a formal invitation. And how did you run the interviews themselves?"
+    },
+    {
+     "id": "B29BD314-6448-553B-9457-454121809B7F",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "We'd prepared a list of questions, but we soon realised that following it too closely didn't work. People wanted to tell their stories in their own order, so in the end we used the questions more as a checklist and let people talk. Most interviews lasted about an hour and a half."
+    },
+    {
+     "id": "BC410A9D-D84D-5299-ACBE-0CA4EDDD0CC1",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "And we interviewed most people in their own homes, which helped. Several of them showed us photographs or objects while they were talking, which brought back memories they might not have mentioned otherwise. One man had kept the ticket from the ship he arrived on in 1964."
+    },
+    {
+     "id": "70958308-2262-5D30-AC44-E5549636580B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Wonderful. Did anything in the interviews surprise you?"
+    },
+    {
+     "id": "8D05E280-AECE-53C3-9ED7-AA9EC98F5114",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "Quite a lot. We'd expected people to talk mostly about the difficulties of arriving: finding work, the weather, discrimination. And they did talk about those things. But what came up again and again was food. Nearly everyone described how hard it was at first to find the ingredients they were used to, and how important cooking was in keeping a connection with home."
+    },
+    {
+     "id": "9B733028-88F4-5CD6-93C7-D29191467B34",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "The other surprise for me was how many of them had planned to stay only a few years. Almost half said they'd intended to earn some money and then go back, but then they had children, and their children grew up here, and somehow they never left."
+    },
+    {
+     "id": "4666E6DB-32FD-5871-B515-D109C8F36862",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a very common pattern in migration research. It's sometimes called the myth of return. Now, I'd like to talk about the problems of using memory as evidence. How reliable do you think your interviewees' memories were?"
+    },
+    {
+     "id": "F00D1347-1EB1-5429-B580-4ECA430647C4",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "That's something we discussed a lot. Some of the dates people gave were clearly wrong. One woman said she arrived in 1968, but later she mentioned an event that happened in 1971 as if it was just after she came. So we checked dates against other sources where we could."
+    },
+    {
+     "id": "F4399FDF-F3A8-5C37-8416-516A2F1A2325",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. But remember that the value of oral history isn't mainly in the precise facts. It's in how people understood and felt about their experiences. A wrong date doesn't make the story worthless."
+    },
+    {
+     "id": "F712890D-1E52-54B5-B747-72D98378EE19",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "That's what we've been arguing in our draft. We're treating the interviews as evidence of how people remember and give meaning to their lives, rather than as a record of exactly what happened."
+    },
+    {
+     "id": "6E462455-99A2-5F12-A70F-9EA9BF768A7E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. Now, what about the practical side? You've transcribed everything?"
+    },
+    {
+     "id": "65FD7E89-B623-58CF-AE21-8CBF4BFB2EB7",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "Almost. Transcription took far longer than we expected. Each hour of recording took us about six hours to type up, partly because some people switched between English and their first language."
+    },
+    {
+     "id": "DD1BFA35-1BD5-5ED4-A886-218E39B66F59",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's normal, I'm afraid. And you got signed consent forms from everyone?"
+    },
+    {
+     "id": "957EC665-7372-5BEC-980F-3878AF5F43C4",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "Yes, from all fourteen. Two people asked us not to use their real names, so we've given them different names in the report. And three people asked to see the transcripts before we use any quotations, so we're posting those to them this week."
+    },
+    {
+     "id": "87BD4655-61DF-5DB9-B273-658E5B101747",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. One more suggestion: the town museum is collecting recordings like these for its archive. If your interviewees agree, you could offer them the recordings. That way, your work will be useful long after the project is marked."
+    },
+    {
+     "id": "46A0B51C-4282-574D-831B-463D72E269CA",
+     "speaker": "Amira",
+     "accent": "en-US",
+     "text": "We'd love that. We'll ask them when we send the transcripts."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam14-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How did the students find most of the people they interviewed?",
+     "explanation": "A lunch club was the most successful route.",
+     "evidenceQuote": "What really made the difference was a lunch club for older residents",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by emailing community organisations",
+      "B. through advertisements in local newspapers",
+      "C. by getting to know people at a lunch club"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by getting to know people at a lunch club",
+      "by getting to know people at a lunch club"
+     ]
+    },
+    {
+     "id": "exam14-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "How did the students use their prepared questions?",
+     "explanation": "They used them as a checklist.",
+     "evidenceQuote": "we used the questions more as a checklist and let people talk",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. as a checklist while people spoke freely",
+      "B. in exactly the same order each time",
+      "C. only at the start of each interview"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. as a checklist while people spoke freely",
+      "as a checklist while people spoke freely"
+     ]
+    },
+    {
+     "id": "exam14-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why was interviewing people at home helpful?",
+     "explanation": "Objects at home triggered memories.",
+     "evidenceQuote": "which brought back memories they might not have mentioned otherwise",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People felt less nervous about being recorded.",
+      "B. Objects and photos reminded people of events.",
+      "C. The interviews could be shorter."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Objects and photos reminded people of events.",
+      "Objects and photos reminded people of events."
+     ]
+    },
+    {
+     "id": "exam14-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Which topic did the students NOT expect to hear so much about?",
+     "explanation": "Food came up repeatedly.",
+     "evidenceQuote": "But what came up again and again was food.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. problems finding work",
+      "B. food and cooking",
+      "C. unfriendly treatment"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. food and cooking",
+      "food and cooking"
+     ]
+    },
+    {
+     "id": "exam14-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "According to the tutor, the main value of oral history lies in",
+     "explanation": "It shows how people understood their experiences.",
+     "evidenceQuote": "It's in how people understood and felt about their experiences.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. showing how people interpreted their lives.",
+      "B. providing accurate dates.",
+      "C. correcting official records."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. showing how people interpreted their lives.",
+      "showing how people interpreted their lives."
+     ]
+    },
+    {
+     "id": "exam14-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Number of people interviewed: __________",
+     "explanation": "They interviewed 14 people.",
+     "evidenceQuote": "we interviewed fourteen people, all aged over seventy",
+     "skillTag": "numbers",
+     "distractorNote": "Ten is the number of groups they emailed.",
+     "options": [],
+     "acceptedAnswers": [
+      "14",
+      "fourteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "One man still had his __________ from the ship",
+     "explanation": "He kept his ticket.",
+     "evidenceQuote": "One man had kept the ticket from the ship he arrived on in 1964.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ticket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "The belief that migrants will go home is called the myth of __________",
+     "explanation": "It is the myth of return.",
+     "evidenceQuote": "It's sometimes called the myth of return.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "return"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "One hour of recording took about __________ hours to transcribe",
+     "explanation": "It took six hours per hour.",
+     "evidenceQuote": "Each hour of recording took us about six hours to type up",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Tutor suggests offering the recordings to the town __________",
+     "explanation": "The museum collects recordings.",
+     "evidenceQuote": "the town museum is collecting recordings like these for its archive",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "museum"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "oral history",
+    "consent form",
+    "transcript",
+    "interviewee",
+    "memory"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam14-lp4",
+   "partNumber": 4,
+   "title": "The demographic transition",
+   "contextDescription": "A lecture in a population geography course on how and why population growth changes as countries develop.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "8C8139DB-AA26-501A-BCB2-08154A3AF1B4",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good morning, everyone. Today we're going to look at one of the most influential ideas in population studies, the demographic transition model. It attempts to explain how the population of a country changes as it moves from a traditional society to a modern, industrial one. The basic idea was first set out by the American demographer Warren Thompson in 1929, and it was developed further in the nineteen-forties by Frank Notestein and others."
+    },
+    {
+     "id": "31A00D0E-1943-5021-BFA8-F040B3A3CC40",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The model is usually described in four stages. In the first stage, both birth rates and death rates are high. This is typical of an agricultural society before modern medicine. Many children are born, but many also die young, from disease, poor diet and periods of famine. Because births and deaths roughly balance each other, the population grows very slowly, if at all. For most of human history, this was the normal situation."
+    },
+    {
+     "id": "512D8795-8244-5394-8BC5-3F731D0C65B8",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "In the second stage, the death rate begins to fall. This happens because of improvements in the food supply, in sanitation, particularly clean water and proper sewers, and later in medicine, such as vaccination. But the birth rate stays high, because people's attitudes and habits about family size don't change overnight. The result is a period of very rapid population growth. In England, for example, this happened during the nineteenth century, when the population grew several times over."
+    },
+    {
+     "id": "D802782B-DF2C-53A9-9C2E-102CDBAD7459",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "In the third stage, the birth rate also starts to fall. Demographers have identified several reasons for this. As people move from farms to cities, children are no longer needed to work on the land, and instead become an economic cost, because they have to be fed, housed and educated for many years. As more children survive, parents no longer need to have many children to make sure that some reach adulthood. And perhaps most importantly, as girls and women receive more education and enter paid work, they tend to marry later and have fewer children. Access to contraception also plays a role."
+    },
+    {
+     "id": "60777C80-6EBF-5A0A-B1B4-F93BF936DEDD",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "In the fourth stage, both birth and death rates are low, and the population is fairly stable again, but at a much higher level than before. An important figure here is what's called replacement level fertility, which is about two point one children per woman in countries with low death rates. That's the number needed for each generation to replace itself."
+    },
+    {
+     "id": "84F1A2BD-00DC-5F79-889C-8DC377A8472B",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "One thing that surprises students is that a population can keep growing for decades after fertility has fallen to replacement level. This is known as population momentum. It happens because, after a period of high birth rates, there are very large numbers of young people who are just reaching the age when they start their own families. Even if each couple has only two children, the total number of births stays high for a generation."
+    },
+    {
+     "id": "A62ABEC6-0DCC-571F-981A-EB7C69C20E83",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Some geographers have added a fifth stage, in which the birth rate falls below the death rate and the population starts to shrink. Japan is the clearest example. Its population has been falling since around 2010, and a growing proportion of its people are over sixty-five, which creates serious challenges for healthcare, pensions and the labour market."
+    },
+    {
+     "id": "1557B931-7E6C-54F2-B6F9-54605AB86BEB",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "So, how useful is the model? It certainly describes the history of many countries quite well, but it has been criticised in several ways. First, it was based on European experience, and it assumes that other countries will follow the same path, which isn't necessarily true. Second, the speed of change has varied enormously. In parts of East Asia, the transition happened much more quickly than in Europe. In South Korea, for instance, the average woman had around six children in 1960, but by the mid nineteen-eighties, fertility had fallen below replacement level. Today, South Korea has one of the lowest fertility rates in the world."
+    },
+    {
+     "id": "123F5FEF-5EBD-5FBB-8D98-98F02F7ABDC8",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "And third, and this leads into next week's topic, the model largely ignores migration. In many countries today, immigration has become the main source of population growth, and in some regions emigration has been the main cause of decline. We'll look at that next week."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam14-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Basic idea first proposed by the demographer Warren __________ in 1929",
+     "explanation": "Warren Thompson proposed it.",
+     "evidenceQuote": "the American demographer Warren Thompson in 1929",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Thompson"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Stage 1: typical of a(n) __________ society before modern medicine",
+     "explanation": "Stage 1 is agricultural.",
+     "evidenceQuote": "This is typical of an agricultural society before modern medicine.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "agricultural"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Stage 2: death rate falls because of better food supply, __________ and medicine",
+     "explanation": "Sanitation improves.",
+     "evidenceQuote": "in the food supply, in sanitation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sanitation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Stage 3: in cities, children become an economic __________",
+     "explanation": "Children become a cost.",
+     "evidenceQuote": "instead become an economic cost",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cost"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Women with more __________ tend to marry later and have fewer children",
+     "explanation": "Education reduces family size.",
+     "evidenceQuote": "as girls and women receive more education and enter paid work",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "education"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Population __________: growth continues because many young people start families",
+     "explanation": "This is population momentum.",
+     "evidenceQuote": "This is known as population momentum.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "momentum"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Stage 5 example: __________, where the population has fallen since about 2010",
+     "explanation": "Japan is the example.",
+     "evidenceQuote": "Japan is the clearest example.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Japan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Criticism: the model is based on __________ experience",
+     "explanation": "It is based on Europe.",
+     "evidenceQuote": "it was based on European experience",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "European"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In East Asia, the transition happened more __________ than in Europe",
+     "explanation": "It happened more quickly.",
+     "evidenceQuote": "the transition happened much more quickly than in Europe",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quickly"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The model largely ignores __________",
+     "explanation": "Migration is ignored.",
+     "evidenceQuote": "the model largely ignores migration",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "migration"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "birth rate",
+    "death rate",
+    "fertility",
+    "replacement level",
+    "population momentum"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam14-rp1",
+   "passageNumber": 1,
+   "title": "Ellis Island: gateway to America",
+   "discipline": "Migration History",
+   "paragraphs": [
+    "For more than sixty years, a small island in New York Harbor was the first piece of American soil that millions of immigrants ever stood on. Between 1892 and 1954, around twelve million people passed through the immigration station on Ellis Island, within sight of the Statue of Liberty. For most of them, the experience lasted only a few hours, but it became one of the defining moments of their lives, and the island has since become a powerful symbol of the United States as a nation of immigrants.",
+    "Before Ellis Island opened, immigration to New York was managed not by the national government but by New York State, which ran a reception centre called Castle Garden at the southern tip of Manhattan. By the late 1880s, the system was struggling to cope with the growing number of arrivals, and there were frequent complaints of corruption, with newcomers being cheated by dishonest money changers and agents. In 1890, the federal government took control of immigration and chose Ellis Island as the site of a new station. The island was so small that it had to be enlarged with landfill to several times its original size.",
+    "The station opened on 1 January 1892. The first immigrant to be registered was Annie Moore, a teenage girl from County Cork in Ireland, who had travelled with her two younger brothers to join their parents in New York. However, the original wooden buildings did not last long. In June 1897, a fire destroyed them, along with many immigration records dating back several decades. They were replaced by a fireproof building of brick and limestone, which opened in December 1900 and still stands today.",
+    "Not every passenger had to visit the island. First- and second-class passengers were usually inspected briefly on board their ship and allowed to go straight ashore, on the assumption that people who could afford expensive tickets were unlikely to become a burden on the state. It was the much larger number of third-class, or steerage, passengers who were taken by ferry to Ellis Island. The volume of traffic was enormous. In 1907, the busiest year in the station's history, more than a million immigrants arrived, and on one day in April of that year, over eleven thousand people were processed.",
+    "The inspection began before most immigrants realised it. As they climbed the stairs to the vast Registry Room, doctors watched them carefully, looking for signs of illness or disability. Anyone who seemed unwell had a letter marked on their clothing in chalk: 'H' for suspected heart problems, for example, or 'E' for the eyes. One of the most feared tests was the examination for trachoma, a contagious eye disease, in which doctors turned back the eyelids using a small hook. Those who were marked were taken aside for a more detailed examination, and some were sent to the island's hospital.",
+    "Next came the legal inspection. An inspector, often assisted by an interpreter, asked each immigrant around thirty questions, including their name, occupation, destination and how much money they had. The answers were checked against the ship's manifest, the passenger list that had been drawn up at the port of departure. A popular story claims that officials frequently changed immigrants' surnames at this stage, giving them simpler, more 'American' names. Historians have found no evidence for this. Inspectors worked from the lists prepared in Europe, and name changes usually happened later, when immigrants or their children chose to adapt their names themselves.",
+    "For the great majority, the process ended well. Only about two per cent of those who arrived were refused entry, most commonly because of serious contagious disease or because officials believed they would be unable to support themselves. Nevertheless, for families separated by such decisions, the island earned a painful nickname: the 'Island of Tears'. From the 1920s, however, its role changed. New laws, especially the Immigration Act of 1924, introduced strict quotas that sharply reduced immigration, particularly from southern and eastern Europe. Inspections were increasingly carried out at American consulates abroad, and Ellis Island was used mainly for detention and deportation until it closed in November 1954.",
+    "For many years after its closure, the buildings were abandoned and fell into ruin. In 1965, the island was made part of the Statue of Liberty National Monument, and after a major restoration, the main building reopened as a museum of immigration in 1990. Today, it attracts millions of visitors, many of whom come to search for their own ancestors in the passenger records. It is often estimated that around four in ten Americans have at least one ancestor who entered the country through Ellis Island."
+   ],
+   "questions": [
+    {
+     "id": "exam14-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Castle Garden was operated by the national government.",
+     "explanation": "Castle Garden was run by New York State.",
+     "evidenceQuote": "managed not by the national government but by New York State, which ran a reception centre called Castle Garden",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam14-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Annie Moore made the journey to New York with other members of her family.",
+     "explanation": "She travelled with her brothers.",
+     "evidenceQuote": "who had travelled with her two younger brothers to join their parents",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam14-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The 1897 fire was started deliberately.",
+     "explanation": "The cause of the fire is not given.",
+     "evidenceQuote": "In June 1897, a fire destroyed them",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam14-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Wealthier passengers were generally not required to go to Ellis Island.",
+     "explanation": "They were inspected on the ship.",
+     "evidenceQuote": "First- and second-class passengers were usually inspected briefly on board their ship and allowed to go straight ashore",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam14-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Immigrants marked with chalk were immediately sent back to Europe.",
+     "explanation": "They were examined further, not deported at once.",
+     "evidenceQuote": "Those who were marked were taken aside for a more detailed examination",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam14-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "There is evidence that inspectors regularly gave immigrants new surnames.",
+     "explanation": "Historians found no evidence.",
+     "evidenceQuote": "Historians have found no evidence for this.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam14-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most immigrants who were refused entry later tried again through another port.",
+     "explanation": "What happened to them afterwards is not stated.",
+     "evidenceQuote": "Only about two per cent of those who arrived were refused entry",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam14-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Ellis Island was made larger using __________.",
+     "explanation": "It was enlarged with landfill.",
+     "evidenceQuote": "it had to be enlarged with landfill",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "landfill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The building that opened in 1900 was made of brick and __________.",
+     "explanation": "It is brick and limestone.",
+     "evidenceQuote": "a fireproof building of brick and limestone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "limestone"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Doctors used __________ to mark the clothes of immigrants who looked ill.",
+     "explanation": "Letters were marked in chalk.",
+     "evidenceQuote": "had a letter marked on their clothing in chalk",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chalk"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "A contagious eye disease called __________ was especially feared.",
+     "explanation": "The disease was trachoma.",
+     "evidenceQuote": "the examination for trachoma, a contagious eye disease",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trachoma"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Answers were compared with the ship's __________.",
+     "explanation": "They were checked against the manifest.",
+     "evidenceQuote": "The answers were checked against the ship's manifest",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "manifest"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The 1924 law introduced __________ that reduced immigration.",
+     "explanation": "It introduced quotas.",
+     "evidenceQuote": "introduced strict quotas that sharply reduced immigration",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quotas"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 774,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam14-rp2",
+   "passageNumber": 2,
+   "title": "Why people move",
+   "discipline": "Human Geography",
+   "paragraphs": [
+    "According to the United Nations, around 281 million people were living outside their country of birth in 2020, roughly 3.6 per cent of the world's population. The figure has risen steadily for decades, and migration is rarely out of the news. Yet it is worth remembering that the vast majority of people never move abroad at all, and that far more people move within their own countries, usually from the countryside to cities, than across international borders. Explaining why some people move while most stay where they are has occupied geographers for well over a century.",
+    "One of the first serious attempts was made by Ernst Georg Ravenstein, a German-born geographer working in London, who studied British census data and published his 'laws of migration' in 1885. Ravenstein observed that most migrants travelled only short distances, and that migration often happened in steps, with people moving from villages to small towns and later to large cities. He noted that each flow of migrants tended to produce a smaller counter-flow in the opposite direction, and that large towns grew more through migration than through births. Many of his observations still hold remarkably well today.",
+    "In 1966, the American sociologist Everett Lee proposed a more general framework. Migration, he argued, is influenced by factors at the place of origin, such as unemployment or conflict, which 'push' people away, and by factors at the destination, such as jobs or safety, which 'pull' them towards it. Crucially, Lee added that between the two lie 'intervening obstacles', including distance, cost and immigration laws, and that personal circumstances, such as age, family ties and attitudes to risk, determine how each individual responds. The same conditions might drive one person to leave while another stays.",
+    "Economists have traditionally explained migration as the result of individual decisions: people move when the wages they expect to earn elsewhere outweigh the costs of moving. In the 1980s, however, economists such as Oded Stark proposed what became known as the new economics of labour migration. In this view, migration is often a decision taken by a household rather than an individual. A family in a rural area, for example, may send one member to work in a city or abroad, not only to increase its income, but to reduce risk. If the harvest fails, the money sent home will help the family to survive.",
+    "That money, known as remittances, has become one of the most important financial flows in the world. The World Bank estimates that migrants sent more than six hundred billion dollars to low- and middle-income countries in 2023, considerably more than these countries received in official development aid. In some smaller economies, remittances are equivalent to a fifth or more of national income. Sending money is still expensive, however, with fees averaging around six per cent of the amount sent, and one of the United Nations' Sustainable Development Goals is to reduce this to below three per cent.",
+    "A less obvious finding is that the poorest people rarely migrate internationally. Moving abroad requires money for travel, documents and the period before finding work, as well as education and contacts. As a result, when poor countries begin to develop, emigration often increases rather than falls, at least for a time, because more people can afford to leave. Only when incomes reach a much higher level does emigration usually decline. This pattern, sometimes called the 'migration hump', suggests that development aid is unlikely to reduce migration in the short term, despite what some politicians claim.",
+    "Once a migration flow has begun, it often continues because of social networks. Migrants who have settled in a new country can provide information, accommodation and help in finding work to relatives and friends who follow them, reducing both the cost and the risk of moving. This process, known as chain migration, helps to explain why migrants from a particular village or region are often concentrated in particular cities or even particular streets abroad, and why migration flows can continue long after the original economic reasons have disappeared.",
+    "Increasingly, researchers are also asking how climate change will affect migration. Droughts, floods and rising sea levels can destroy livelihoods, and a 2021 World Bank report projected that, without strong action, up to 216 million people could be forced to move within their own countries by 2050 because of climate-related pressures. Most experts stress, however, that environmental change rarely acts alone. It interacts with poverty, conflict and government policy, and most people affected by disasters move only short distances, often temporarily. Ravenstein, it seems, would not have been surprised."
+   ],
+   "questions": [
+    {
+     "id": "exam14-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes Ravenstein's early patterns.",
+     "evidenceQuote": "published his 'laws of migration' in 1885",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. An early search for regular patterns",
+      "An early search for regular patterns"
+     ]
+    },
+    {
+     "id": "exam14-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers push, pull and obstacles.",
+     "evidenceQuote": "between the two lie 'intervening obstacles'",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Forces at both ends and barriers in between",
+      "Forces at both ends and barriers in between"
+     ]
+    },
+    {
+     "id": "exam14-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D presents migration as a family strategy.",
+     "evidenceQuote": "migration is often a decision taken by a household rather than an individual",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A family decision designed to spread risk",
+      "A family decision designed to spread risk"
+     ]
+    },
+    {
+     "id": "exam14-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E is about remittances.",
+     "evidenceQuote": "has become one of the most important financial flows in the world",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. The scale of money transfers",
+      "The scale of money transfers"
+     ]
+    },
+    {
+     "id": "exam14-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains the migration hump.",
+     "evidenceQuote": "when poor countries begin to develop, emigration often increases rather than falls",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. How growing wealth can lead to more departures",
+      "How growing wealth can lead to more departures"
+     ]
+    },
+    {
+     "id": "exam14-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G is about networks.",
+     "evidenceQuote": "Once a migration flow has begun, it often continues because of social networks.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. The help provided by earlier migrants",
+      "The help provided by earlier migrants"
+     ]
+    },
+    {
+     "id": "exam14-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H looks at climate change.",
+     "evidenceQuote": "how climate change will affect migration",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. An uncertain environmental future",
+      "An uncertain environmental future"
+     ]
+    },
+    {
+     "id": "exam14-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to the first paragraph, which kind of migration involves the largest number of people?",
+     "explanation": "Internal migration is larger.",
+     "evidenceQuote": "far more people move within their own countries",
+     "skillTag": "detail",
+     "options": [
+      "A. movement between neighbouring countries",
+      "B. movement from cities to rural areas",
+      "C. movement inside a person's own country",
+      "D. movement to escape conflict"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. movement inside a person's own country",
+      "movement inside a person's own country"
+     ]
+    },
+    {
+     "id": "exam14-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did Lee say about personal circumstances?",
+     "explanation": "People respond differently to the same conditions.",
+     "evidenceQuote": "The same conditions might drive one person to leave while another stays.",
+     "skillTag": "detail",
+     "options": [
+      "A. They explain why individuals react differently to the same situation.",
+      "B. They are less important than economic conditions.",
+      "C. They mainly affect people who move short distances.",
+      "D. They can be measured using census data."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They explain why individuals react differently to the same situation.",
+      "They explain why individuals react differently to the same situation."
+     ]
+    },
+    {
+     "id": "exam14-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer suggest about development aid?",
+     "explanation": "It will not cut migration quickly.",
+     "evidenceQuote": "development aid is unlikely to reduce migration in the short term",
+     "skillTag": "inference",
+     "options": [
+      "A. It is smaller than it used to be.",
+      "B. It is mainly spent on education.",
+      "C. It encourages the poorest people to move.",
+      "D. It will probably not lower migration quickly."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It will probably not lower migration quickly.",
+      "It will probably not lower migration quickly."
+     ]
+    },
+    {
+     "id": "exam14-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Ravenstein noticed that people often moved in __________, from villages to towns and then to cities.",
+     "explanation": "They moved in steps.",
+     "evidenceQuote": "migration often happened in steps",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "steps"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam14-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "The fees for sending remittances average around __________ per cent of the amount.",
+     "explanation": "Fees are about six per cent.",
+     "evidenceQuote": "with fees averaging around six per cent of the amount sent",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "six",
+      "6"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam14-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The process in which settled migrants help others to follow them is called __________.",
+     "explanation": "It is chain migration.",
+     "evidenceQuote": "This process, known as chain migration",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chain migration"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 762,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A family decision designed to spread risk",
+      "ii. The help provided by earlier migrants",
+      "iii. An early search for regular patterns",
+      "iv. Why border controls rarely succeed",
+      "v. How growing wealth can lead to more departures",
+      "vi. Comparing migration in two centuries",
+      "vii. Forces at both ends and barriers in between",
+      "viii. An uncertain environmental future",
+      "ix. The scale of money transfers"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam14-rp3",
+   "passageNumber": 3,
+   "title": "Between two worlds",
+   "discipline": "Sociology & Cultural Psychology",
+   "paragraphs": [
+    "For most people, the question 'Where are you from?' has a simple answer. For millions of migrants and their children, it does not. Someone born in Marseille to Algerian parents, or raised in Toronto by a Filipino mother and an Irish father, may feel that a single answer would be incomplete, or even untrue. How people come to understand who they are when they belong to more than one culture is one of the central questions in the study of migration, and the answers researchers have given have changed considerably over the past century.",
+    "For much of the twentieth century, the dominant assumption, particularly in the United States, was that immigrants would gradually assimilate. The popular image was the 'melting pot', a phrase made famous by Israel Zangwill's play of that name, first performed in 1908, in which people of different origins were imagined dissolving into a new, shared national identity. On this view, the loss of a heritage language and customs over two or three generations was not only inevitable but desirable, a sign of successful adjustment to a new home.",
+    "From the 1970s onwards, the Canadian psychologist John Berry offered a more complex picture. He suggested that people living between cultures face two separate questions: to what extent do they wish to maintain their heritage culture, and to what extent do they wish to take part in the wider society? The combination of answers produces four strategies. Assimilation means giving up one's original culture for the new one; separation means holding on to the original culture while avoiding contact with the wider society; integration means maintaining both; and marginalisation describes people who have lost their connection with their original culture without finding a place in the new one.",
+    "Much research has supported the value of integration. A large international study led by Berry and his colleagues, published in 2006, examined more than five thousand immigrant adolescents in thirteen countries. Young people who were involved in both their heritage culture and the national culture generally showed the best psychological well-being and adjusted best at school, while those with no clear attachment to either did worst. Berry himself stressed, however, that integration can only be chosen freely when the receiving society is open to cultural diversity. In my view, this point is too often forgotten: migrants cannot integrate into a society that refuses to accept them.",
+    "Language is often where the tension is felt most sharply. The sociolinguist Joshua Fishman, who spent much of his career studying minority languages, described a pattern that has been observed in many immigrant communities in the United States: the first generation speaks the heritage language, the second generation understands it but often prefers English, and by the third generation it has largely been lost. Many grandparents and grandchildren today cannot hold a real conversation. I believe this loss is rarely chosen deliberately; it happens quietly, through the pressures of school, friendship and work.",
+    "Some people grow up not between two cultures but among several. In the 1950s, the American sociologist Ruth Hill Useem, who had lived in India with her family, introduced the term 'third culture kids' to describe children who spend a significant part of their childhood outside their parents' home culture. Such children often develop a 'third culture' made up of elements of both, and frequently say that they feel at home everywhere and nowhere. Many adapt easily to new places, but some describe a lasting sense of restlessness and difficulty answering the simple question of where home is.",
+    "Theorists of identity have pushed the argument further. The cultural theorist Stuart Hall argued in 1990 that cultural identity is a matter of 'becoming' as well as 'being': something that is constantly produced and transformed, rather than a fixed essence inherited from the past. Even national identities, the political scientist Benedict Anderson famously suggested, are 'imagined communities', since the members of a nation will never meet most of their fellow members, yet feel connected to them. If identities are constructed rather than given, then there is nothing unnatural about building one from more than one source.",
+    "None of this means that mixed identities are always comfortable. Second-generation migrants frequently report being seen as foreign in the country of their birth and as foreign again when they visit their parents' homeland. Yet I would argue that the problem lies less in the individuals themselves than in other people's expectations that identity should be single and simple. A person who is both Algerian and French is not half of each, but wholly both. In my view, the sooner societies accept this, the easier it will be for millions of people to answer the question 'Where are you from?' honestly."
+   ],
+   "questions": [
+    {
+     "id": "exam14-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "argued that identity is continually being created and changed",
+     "explanation": "Stuart Hall made this argument.",
+     "evidenceQuote": "cultural identity is a matter of 'becoming' as well as 'being'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Stuart Hall",
+      "Stuart Hall"
+     ]
+    },
+    {
+     "id": "exam14-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "described the gradual loss of a heritage language across three generations",
+     "explanation": "Fishman described this pattern.",
+     "evidenceQuote": "by the third generation it has largely been lost",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Joshua Fishman",
+      "Joshua Fishman"
+     ]
+    },
+    {
+     "id": "exam14-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "created a term for children raised outside their parents' culture",
+     "explanation": "Useem introduced the term.",
+     "evidenceQuote": "introduced the term 'third culture kids'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Ruth Hill Useem",
+      "Ruth Hill Useem"
+     ]
+    },
+    {
+     "id": "exam14-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "popularised an image of different peoples combining into one identity",
+     "explanation": "Zangwill popularised the melting pot.",
+     "evidenceQuote": "a phrase made famous by Israel Zangwill's play of that name",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Israel Zangwill",
+      "Israel Zangwill"
+     ]
+    },
+    {
+     "id": "exam14-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "pointed out that people feel connected to others in their nation whom they will never meet",
+     "explanation": "Anderson made this point.",
+     "evidenceQuote": "the members of a nation will never meet most of their fellow members, yet feel connected to them",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Benedict Anderson",
+      "Benedict Anderson"
+     ]
+    },
+    {
+     "id": "exam14-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Whether migrants can integrate depends partly on how the host society behaves.",
+     "explanation": "The writer says the host society must accept migrants.",
+     "evidenceQuote": "migrants cannot integrate into a society that refuses to accept them",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam14-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most families make a conscious decision to stop using their heritage language.",
+     "explanation": "The writer says it is rarely deliberate.",
+     "evidenceQuote": "I believe this loss is rarely chosen deliberately",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam14-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Third culture kids are more successful in their careers than other children.",
+     "explanation": "Careers are not discussed.",
+     "evidenceQuote": "Many adapt easily to new places",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam14-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "The main difficulty with mixed identities comes from the attitudes of other people.",
+     "explanation": "The writer blames others' expectations.",
+     "evidenceQuote": "the problem lies less in the individuals themselves than in other people's expectations",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam14-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "A person with two national backgrounds should be regarded as partly belonging to each.",
+     "explanation": "The writer says such a person is wholly both.",
+     "evidenceQuote": "is not half of each, but wholly both",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam14-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Berry argued that people living between cultures must decide whether to keep their heritage culture and whether to take part in the wider __________.",
+     "explanation": "They decide about the wider society.",
+     "evidenceQuote": "to what extent do they wish to take part in the wider society",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "society"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Combining both cultures, which Berry called __________, was linked to the best outcomes.",
+     "explanation": "Integration means keeping both.",
+     "evidenceQuote": "integration means maintaining both",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "integration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "People with no strong link to either culture experience what Berry termed __________.",
+     "explanation": "This is marginalisation.",
+     "evidenceQuote": "marginalisation describes people who have lost their connection",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "marginalisation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam14-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Some third culture kids describe a lasting feeling of __________.",
+     "explanation": "They feel restless.",
+     "evidenceQuote": "a lasting sense of restlessness",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "restlessness"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 784,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person, A–F.",
+     "options": [
+      "A. Israel Zangwill",
+      "B. John Berry",
+      "C. Joshua Fishman",
+      "D. Ruth Hill Useem",
+      "E. Stuart Hall",
+      "F. Benedict Anderson"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam14-w1",
+  "title": "Urban and rural population of the world",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows the number of people living in urban and rural areas of the world from 1950 to 2020, with projections to 2050. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "D3524756-B8A6-54D4-8977-D3702129C241",
+    "series": "Urban population",
+    "category": "1950",
+    "value": 0.75,
+    "unit": "billion people"
+   },
+   {
+    "id": "3AB086BF-D3E6-5E57-ADC2-B370284D83DA",
+    "series": "Rural population",
+    "category": "1950",
+    "value": 1.79,
+    "unit": "billion people"
+   },
+   {
+    "id": "1727AC79-ACE9-56C4-A141-FA4A82D427E3",
+    "series": "Urban population",
+    "category": "1970",
+    "value": 1.35,
+    "unit": "billion people"
+   },
+   {
+    "id": "C0E5A1B5-42F4-5325-B283-C328E7DC784D",
+    "series": "Rural population",
+    "category": "1970",
+    "value": 2.35,
+    "unit": "billion people"
+   },
+   {
+    "id": "A3060388-1EC3-5A10-9706-C85FB0F02A36",
+    "series": "Urban population",
+    "category": "1990",
+    "value": 2.29,
+    "unit": "billion people"
+   },
+   {
+    "id": "9CD595E5-C7A9-5876-BA9A-3124872876CE",
+    "series": "Rural population",
+    "category": "1990",
+    "value": 3.04,
+    "unit": "billion people"
+   },
+   {
+    "id": "F090E0EF-55A4-5D13-8C50-8099AA0C79A2",
+    "series": "Urban population",
+    "category": "2010",
+    "value": 3.59,
+    "unit": "billion people"
+   },
+   {
+    "id": "4C474444-5968-51B4-95DC-63156BB5F9B7",
+    "series": "Rural population",
+    "category": "2010",
+    "value": 3.37,
+    "unit": "billion people"
+   },
+   {
+    "id": "A250BD50-20ED-5368-B169-3EF61510D3ED",
+    "series": "Urban population",
+    "category": "2030",
+    "value": 5.17,
+    "unit": "billion people"
+   },
+   {
+    "id": "AF82C71F-46CE-5F71-B755-213D41483A31",
+    "series": "Rural population",
+    "category": "2030",
+    "value": 3.38,
+    "unit": "billion people"
+   },
+   {
+    "id": "99CAA8F4-ABDE-5C72-BEBA-8EF27FA091A1",
+    "series": "Urban population",
+    "category": "2050",
+    "value": 6.68,
+    "unit": "billion people"
+   },
+   {
+    "id": "FDF06D9A-3A93-5601-A212-DAC019F736B4",
+    "series": "Rural population",
+    "category": "2050",
+    "value": 3.09,
+    "unit": "billion people"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The urban population has risen steadily and is projected to keep growing rapidly, overtaking the rural population around 2007.",
+   "The rural population grew more slowly, levels off and is expected to decline slightly by 2050."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam14-w2",
+  "title": "Immigration and ageing populations",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Population & Society",
+  "promptText": "In many countries, the population is ageing and the number of working-age people is falling. Some people argue that the best way to deal with this problem is to encourage more immigration. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam14-spk",
+  "theme": "Home, belonging and moving",
+  "part1Questions": [
+   "Have you always lived in the same town or city?",
+   "What do you like most about the area where you live now?",
+   "Would you like to live in another country one day?",
+   "Do many people in your area move away for work?",
+   "What do you usually miss when you are away from home?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a person you know who moved to live in a different place.",
+   "bulletPoints": [
+    "who the person is",
+    "where they moved from and to",
+    "why they decided to move",
+    "and explain how the move changed their life"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do young people often move from the countryside to cities?",
+   "What difficulties do people face when they move to a new country?",
+   "Is it important for children of migrants to learn their parents' language?",
+   "How can communities help newcomers feel welcome?",
+   "Do you think people will move between countries more or less in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are checked against standard reference sources; population figures are rounded UN estimates.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

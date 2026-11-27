@@ -1,0 +1,2128 @@
+{
+ "id": "practice13",
+ "examNumber": 13,
+ "pool": "practice",
+ "title": "Practice Test 13: Chemistry & Everyday Materials",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Chemistry & Everyday Materials",
+ "listeningParts": [
+  {
+   "id": "practice13-lp1",
+   "partNumber": 1,
+   "title": "Booking a glass-blowing class",
+   "contextDescription": "A man phones a glass studio to book a beginners' glass-blowing session.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "22475A40-9604-523F-87FD-9F5B549891A5",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Good morning, Furnace Lane Glass Studio, Niamh speaking. How can I help you?"
+    },
+    {
+     "id": "9AF11275-ADE5-5613-BB84-68EF6D575AB6",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hi there. I'm calling about your glass-blowing taster sessions. I saw a leaflet in the library, and I'd like to book one as a birthday present for my sister."
+    },
+    {
+     "id": "DBB46949-2DD7-5C94-AA6E-D1CEA1C84F59",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "What a lovely idea. The taster sessions are for complete beginners. They last two and a half hours, and each person works one-to-one with one of our glass artists at the furnace. Was there a particular date you had in mind?"
+    },
+    {
+     "id": "E1540AD7-7C1E-5BB1-B00C-E7E08F36A0FB",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Her birthday's on the twelfth, which is a Friday, so ideally that day."
+    },
+    {
+     "id": "6FDC3DE5-1C14-5B25-A21D-B93DFD8640A9",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Let me check. I'm afraid Friday the twelfth is fully booked. But we do have places on Saturday the thirteenth, in the morning."
+    },
+    {
+     "id": "59212183-64BB-5779-A71F-B5F5687C90F3",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Saturday's fine, actually. She doesn't work at weekends, and it means we can go out for lunch together afterwards."
+    },
+    {
+     "id": "7C529440-B8CC-5BCF-92D8-77C681FA7077",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Great. And how many people would that be for?"
+    },
+    {
+     "id": "F3EA698F-1B5C-5DD4-A158-08C89887DF38",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Well, originally I was thinking of four: me, my sister, her husband and my nephew. How old do people have to be?"
+    },
+    {
+     "id": "F7F3AA07-6CB7-5ECD-BCC0-200AAA6625A1",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "The minimum age is sixteen, I'm afraid. It's because of the temperatures involved: the furnace runs at over a thousand degrees, and our insurance doesn't cover younger participants."
+    },
+    {
+     "id": "167D5374-C93F-5E0D-9D8C-F3CD3ADB06CD",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Ah, my nephew's only fourteen, so he'll have to wait a couple of years. So it'll be three of us, then."
+    },
+    {
+     "id": "23A58497-EF98-5653-91D5-1DBAE563A865",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Three people on Saturday morning. Now, the price. On weekdays, it's fifty-five pounds per person, but weekend sessions are sixty-eight pounds, because they're so popular."
+    },
+    {
+     "id": "32EC0D71-9CD5-505D-B5AB-B56D0067CCF6",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's okay. What does that include?"
+    },
+    {
+     "id": "7B356F87-CE68-550B-AE3F-1BED67433FC2",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "It includes all the materials, the tuition, and a hot drink when you arrive. And everyone makes their own piece to take home. For beginners, that's a paperweight. You choose your colours, and the artist helps you gather the molten glass and shape it."
+    },
+    {
+     "id": "79A86522-8C08-5AB1-8584-0136D0596D56",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "A paperweight. That sounds perfect. Can we take it home straight away?"
+    },
+    {
+     "id": "26F0F971-F2EA-59CD-BA40-042C13C8E540",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "No, and that surprises a lot of people. If hot glass cools too quickly, it develops stresses inside, and it can crack, sometimes days later. So all the finished pieces go into a kiln overnight, where they cool down very slowly. You can collect them from the studio any time after midday the next day, or we can post them to you for a fee of six pounds."
+    },
+    {
+     "id": "49985367-19D9-5424-A403-DC1154A04E58",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We'll come and collect them. Will there be time to watch the artists working, too?"
+    },
+    {
+     "id": "47310CA0-D01C-5C9C-9EF8-A286CDB6B803",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Yes. At the end of the session, one of our artists gives a short demonstration, usually making a vase or a bowl, and explains what's happening to the glass at each stage. People find it fascinating, because the glass changes colour as it cools, from bright orange to its real colour. There's also a small shop where you can buy work made by our resident artists."
+    },
+    {
+     "id": "7E6E6087-9CD9-5CDD-8EFA-F33C3793F03A",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That sounds great. Is there anything we should wear?"
+    },
+    {
+     "id": "D8515B14-80B8-5D43-BAEF-34E8E0E3B3EA",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Yes, this is important. Please wear clothes made of cotton, or another natural fibre like wool. Synthetic fabrics, such as polyester or nylon, can melt if a spark lands on them. Long trousers are best, and no loose scarves."
+    },
+    {
+     "id": "D78CD79A-E872-5502-8F92-19C799B1EB1B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Got it. What about shoes?"
+    },
+    {
+     "id": "734A4ACC-552A-5EC2-9AC3-213EADCF4C25",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Closed shoes, please, ideally leather boots. Sandals and open-toed shoes aren't allowed in the hot shop under any circumstances. We provide safety glasses, so you don't need to bring those."
+    },
+    {
+     "id": "E70C8F8B-A4C4-5205-959D-8EF69C516A2B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Okay. And is there parking nearby?"
+    },
+    {
+     "id": "B9551AB6-C758-5A43-95C6-7FB66025C8FF",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "There's no parking at the studio itself, but there's a free car park behind the library, which is about three minutes' walk away. On Saturdays, it can fill up by ten, so try to arrive early."
+    },
+    {
+     "id": "3330F869-6692-5B1D-9AAA-EA6B247AA7A0",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's useful, thanks. Shall I give you my details?"
+    },
+    {
+     "id": "75163E09-0989-5D80-B429-B38A02DFC7C8",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Please. What's your name?"
+    },
+    {
+     "id": "3F1E48AD-3D57-508F-A3C9-8ACB55961A0D",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "It's Daniel Ashworth. A-S-H-W-O-R-T-H."
+    },
+    {
+     "id": "162629D5-60AF-5975-909E-18E4050777C8",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Thank you, Mr Ashworth. And a contact number?"
+    },
+    {
+     "id": "7CF0991F-0D04-57E2-9323-1904AE051651",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Oh seven seven oh oh, nine one two, four eight three."
+    },
+    {
+     "id": "32006D27-8B36-5F90-8D43-926E6EFDDEB7",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Lovely. I'll send you a confirmation email with directions and a short safety form that each of you needs to sign. Payment is due when you arrive. And if your sister enjoys it, we also run a four-week evening course for people who want to take it further."
+    },
+    {
+     "id": "F1A4AEDB-F983-5D9E-B583-781B9486D9B7",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'll let her know. Thanks so much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice13-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Day booked: __________ the thirteenth",
+     "explanation": "Friday is full, so he books Saturday.",
+     "evidenceQuote": "we do have places on Saturday the thirteenth",
+     "skillTag": "dates",
+     "distractorNote": "Friday the twelfth is her birthday but is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "Saturday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Minimum age: __________",
+     "explanation": "Participants must be sixteen.",
+     "evidenceQuote": "The minimum age is sixteen",
+     "skillTag": "numbers",
+     "distractorNote": "Fourteen is the nephew's age.",
+     "options": [],
+     "acceptedAnswers": [
+      "16",
+      "sixteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Number of people: __________",
+     "explanation": "Three people will attend.",
+     "evidenceQuote": "So it'll be three of us, then.",
+     "skillTag": "numbers",
+     "distractorNote": "He first planned for four.",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Price per person: £__________",
+     "explanation": "Weekend sessions cost £68.",
+     "evidenceQuote": "weekend sessions are sixty-eight pounds",
+     "skillTag": "numbers",
+     "distractorNote": "£55 is the weekday price; £6 is the postage fee.",
+     "options": [],
+     "acceptedAnswers": [
+      "68",
+      "sixty-eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Each beginner makes a __________",
+     "explanation": "Beginners make a paperweight.",
+     "evidenceQuote": "For beginners, that's a paperweight.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "paperweight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Finished pieces cool slowly overnight in a __________",
+     "explanation": "They cool in a kiln.",
+     "evidenceQuote": "all the finished pieces go into a kiln overnight",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kiln"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Clothing: made of __________ or another natural fibre",
+     "explanation": "Cotton is recommended.",
+     "evidenceQuote": "Please wear clothes made of cotton",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cotton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Footwear: closed shoes, ideally leather __________",
+     "explanation": "Leather boots are best.",
+     "evidenceQuote": "ideally leather boots",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Free parking behind the __________",
+     "explanation": "The car park is behind the library.",
+     "evidenceQuote": "a free car park behind the library",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Name: Daniel __________",
+     "explanation": "He spells Ashworth.",
+     "evidenceQuote": "It's Daniel Ashworth. A-S-H-W-O-R-T-H.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Ashworth"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "furnace",
+    "molten glass",
+    "kiln",
+    "paperweight",
+    "protective clothing"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice13-lp2",
+   "partNumber": 2,
+   "title": "Inside a recycling plant",
+   "contextDescription": "A guide talks to a group of residents visiting a materials recovery facility.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "0A9624EE-EE9B-5A25-A1F1-66BE4C59C1ED",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Good morning, everyone, and welcome to the Greenvale Materials Recovery Facility. I'm Joel, and I'll be showing you around this morning. Before we go onto the viewing platform, where it's very noisy, I'd like to explain what happens here and give you some tips that will make our job a lot easier."
+    },
+    {
+     "id": "F6D59A1D-3A25-5D09-8E4F-A91C38847F07",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Everything that you put in your household recycling bin ends up in this building. We receive about three hundred tonnes of material on an average weekday, and our job is to separate it into streams of paper, cardboard, metals, glass and different types of plastic, which are then sold to manufacturers who turn them into new products."
+    },
+    {
+     "id": "CD41F83C-4C66-5E61-815E-4BEC7F8FC339",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Let's start with plastics, because that's where most of the confusion lies. You'll have noticed that many plastic items have a small triangle printed on them with a number inside, from one to seven. A lot of people assume that the triangle means the item can be recycled, but that's not actually the case. The number simply tells you what type of plastic the item is made of. Number one, for example, is PET, which is used for most drinks bottles, and number two is high-density polyethylene, which is used for milk bottles and many shampoo bottles. Both of those are easy for us to recycle. Others, such as number three, PVC, are much harder."
+    },
+    {
+     "id": "FB25CACE-4513-5D1E-9CBD-A97D9D16CC43",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "So how do we sort everything? First, the material passes over a series of rotating screens, which separate flat items like paper from three-dimensional ones like bottles and cans. Then powerful magnets lift out the steel cans. Aluminium isn't magnetic, so it's removed further along by a machine that creates a changing magnetic field, which actually pushes the cans off the belt."
+    },
+    {
+     "id": "309E44BB-ABA9-5D48-9A70-E08104C1BFF4",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The plastics are sorted by optical sorters. These shine infrared light onto each item, and because each type of plastic reflects the light in a slightly different way, the machine can identify it, and then a precisely timed jet of air blows it into the right container. It's remarkably fast. The one exception is black plastic, like the trays that meat often comes in. The black colouring absorbs the infrared light, so the sorters simply can't see it, and it ends up being sent for disposal. So if you can avoid buying food in black trays, please do."
+    },
+    {
+     "id": "5B0EA916-E099-58C3-B233-8C341650E954",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Now, some tips. The biggest problem we face is contamination, meaning things in the recycling that shouldn't be there, or recyclable items covered in food. Containers do need to be empty and reasonably clean, but you don't need to scrub them or use hot water. A quick rinse in your washing-up water is enough."
+    },
+    {
+     "id": "D3D0BF47-C879-5C5B-A6F9-14DEB5A11EAF",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Please don't put plastic bags or other soft plastics in your bin. They wrap themselves around the rotating screens, and we have to stop the whole line several times a day so that staff can cut them free. Most large supermarkets now have collection points for soft plastics, including carrier bags and bread bags, so take them there instead."
+    },
+    {
+     "id": "804CA901-49A5-5EBD-B04D-BE9219B34386",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Shampoo bottles and cleaning product bottles are fine in your household bin, but please put the lids back on, because loose lids are too small for our machines and fall through the screens. Black meat trays should go in your general rubbish, for the reason I explained."
+    },
+    {
+     "id": "32A95CE6-311C-5ABD-B83C-4A659A6BA844",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "And, most importantly, never put batteries in any of your bins. Lithium batteries from phones, toys and electronic cigarettes can be crushed or punctured in the collection lorry or here on the line, and when that happens, they can catch fire. We have small fires here more often than you'd think. The same goes for old mobile phones and other broken electrical items: please take those to the household waste site on Mill Road, which has special containers for them."
+    },
+    {
+     "id": "391784C9-062C-5D99-A61A-4D80269B4443",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Right, if everyone could put on a high-visibility vest and a pair of ear defenders, we'll head up to the platform."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice13-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "According to Joel, the number inside the triangle on plastic items shows",
+     "explanation": "It identifies the type of plastic.",
+     "evidenceQuote": "The number simply tells you what type of plastic the item is made of.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. that the item can definitely be recycled.",
+      "B. which type of plastic the item is made from.",
+      "C. how many times the item has been recycled."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. which type of plastic the item is made from.",
+      "which type of plastic the item is made from."
+     ]
+    },
+    {
+     "id": "practice13-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "How are aluminium cans separated from other materials?",
+     "explanation": "A changing magnetic field pushes them off.",
+     "evidenceQuote": "a machine that creates a changing magnetic field, which actually pushes the cans off the belt",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are lifted out by magnets.",
+      "B. They are picked out by hand.",
+      "C. A changing magnetic field pushes them away."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. A changing magnetic field pushes them away.",
+      "A changing magnetic field pushes them away."
+     ]
+    },
+    {
+     "id": "practice13-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why does black plastic usually end up being thrown away?",
+     "explanation": "Optical sorters cannot detect it.",
+     "evidenceQuote": "the sorters simply can't see it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Optical sorting machines cannot detect it.",
+      "B. It is too heavy for the air jets.",
+      "C. There is no market for black plastic."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Optical sorting machines cannot detect it.",
+      "Optical sorting machines cannot detect it."
+     ]
+    },
+    {
+     "id": "practice13-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What does Joel say about cleaning containers?",
+     "explanation": "A quick rinse is enough.",
+     "evidenceQuote": "A quick rinse in your washing-up water is enough.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They must be washed in hot water.",
+      "B. A brief rinse is sufficient.",
+      "C. They do not need to be emptied."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A brief rinse is sufficient.",
+      "A brief rinse is sufficient."
+     ]
+    },
+    {
+     "id": "practice13-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why must batteries never be put in household bins?",
+     "explanation": "Damaged batteries can start fires.",
+     "evidenceQuote": "they can catch fire",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They contaminate paper.",
+      "B. They damage the optical sorters.",
+      "C. They can start fires when damaged."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They can start fires when damaged.",
+      "They can start fires when damaged."
+     ]
+    },
+    {
+     "id": "practice13-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "carrier bags",
+     "explanation": "Carrier bags go to supermarket collection points.",
+     "evidenceQuote": "Most large supermarkets now have collection points for soft plastics, including carrier bags and bread bags",
+     "skillTag": "matching",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. supermarket collection point",
+      "supermarket collection point"
+     ]
+    },
+    {
+     "id": "practice13-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "shampoo bottles",
+     "explanation": "They go in the household recycling bin.",
+     "evidenceQuote": "Shampoo bottles and cleaning product bottles are fine in your household bin",
+     "skillTag": "matching",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. household recycling bin",
+      "household recycling bin"
+     ]
+    },
+    {
+     "id": "practice13-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "black meat trays",
+     "explanation": "They go in general waste.",
+     "evidenceQuote": "Black meat trays should go in your general rubbish",
+     "skillTag": "matching",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. general rubbish bin",
+      "general rubbish bin"
+     ]
+    },
+    {
+     "id": "practice13-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "old mobile phones",
+     "explanation": "Phones go to the household waste site.",
+     "evidenceQuote": "please take those to the household waste site on Mill Road",
+     "skillTag": "matching",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. household waste site",
+      "household waste site"
+     ]
+    },
+    {
+     "id": "practice13-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "bread bags",
+     "explanation": "Bread bags are soft plastics.",
+     "evidenceQuote": "collection points for soft plastics, including carrier bags and bread bags",
+     "skillTag": "matching",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. supermarket collection point",
+      "supermarket collection point"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "contamination",
+    "optical sorter",
+    "soft plastics",
+    "resin code",
+    "landfill"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Where should residents put each of the following items? Choose the correct answer and write the correct letter, A–D, next to Questions 16–20.",
+     "options": [
+      "A. household recycling bin",
+      "B. supermarket collection point",
+      "C. general rubbish bin",
+      "D. household waste site"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice13-lp3",
+   "partNumber": 3,
+   "title": "A project on natural dyes",
+   "contextDescription": "Two chemistry students, Priya and Tom, discuss their natural dye experiments with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "FA9587AB-A285-5BC4-AD82-814DB0CD3FD6",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Come in, Priya, Tom. So, you've finished the practical work for your natural dyes project. How did it go?"
+    },
+    {
+     "id": "924442EC-8D13-5B47-A305-D43F8484DBF2",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Really well, on the whole. As you know, we wanted to compare how well different natural dyes work on wool and cotton, and how resistant the colours are to light."
+    },
+    {
+     "id": "837910E2-D965-5185-A715-FF8A28A26684",
+     "speaker": "Tom",
+     "accent": "en-CA",
+     "text": "We deliberately chose dye sources from the kitchen, things that are cheap and usually just thrown away: onion skins, avocado stones and the outer leaves of red cabbage. We also used turmeric, which isn't waste, of course, but it's widely available and gives a really strong yellow."
+    },
+    {
+     "id": "F245AC25-6B6C-5549-9F1C-3B969BCFA34B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And how did you prepare the fibres?"
+    },
+    {
+     "id": "F419845E-1E20-5448-BA8A-8D9113BAD6A5",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "We treated all the samples with alum first, as a mordant. It helps the dye molecules bind to the fibres. Then we simmered them in the dye baths for an hour. We kept the temperature just below ninety degrees, because boiling can damage wool fibres and make them felt together."
+    },
+    {
+     "id": "F02B238B-A87D-5330-9BCC-C2839FBD3BF5",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Sensible. What were the colours like?"
+    },
+    {
+     "id": "D5FD40D7-45B1-5695-A058-09F44E4B8915",
+     "speaker": "Tom",
+     "accent": "en-CA",
+     "text": "The onion skins gave a lovely golden orange, and the turmeric a very bright yellow. The surprise was the avocado stones. We'd expected brown, but they produced a soft pink colour, which was beautiful."
+    },
+    {
+     "id": "4CF434C5-05EA-5EB1-9609-60D9FACA058E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, people are often surprised by that. Did the wool and cotton behave differently?"
+    },
+    {
+     "id": "060A7497-5FB3-5422-8C73-D886664DB273",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Very differently. The wool took up far more colour than the cotton with every dye. Some of the cotton samples were so pale they were hardly coloured at all."
+    },
+    {
+     "id": "07622423-88E4-5C31-8CF6-6DA6221E71D7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's what I'd expect. Wool is a protein fibre, and natural dyes generally bond much more readily with protein than with cellulose, which is what cotton is made of. Traditional dyers often treated cotton with tannins first, from oak bark, for example, to help the dye attach. You might try that if you have time, or at least discuss it."
+    },
+    {
+     "id": "7AB82BAA-EA70-586B-8510-14C64562BC08",
+     "speaker": "Tom",
+     "accent": "en-CA",
+     "text": "We will. Then for the light test, we put a set of samples on a south-facing windowsill, with half of each sample covered by card, so we could compare the exposed and protected parts. We'd planned to leave them for three weeks, but the weather was so cloudy that we extended it to four."
+    },
+    {
+     "id": "EF390D67-62FB-5B4A-BD21-45D8311E4672",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good thinking. And which dye was least resistant to light?"
+    },
+    {
+     "id": "E5687311-6B12-5D8D-B487-7259CF5360D2",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Turmeric, by far. It started off the brightest, but after four weeks the exposed half had faded to a pale cream. The onion skin samples hardly changed at all."
+    },
+    {
+     "id": "FBAC1D2B-9EAF-5FB0-846E-00DEAEB35224",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Turmeric is notorious for that, which is one reason it was never highly valued as a textile dye. What about the red cabbage?"
+    },
+    {
+     "id": "07F74278-03EF-5D9E-B1C5-6002573AFF50",
+     "speaker": "Tom",
+     "accent": "en-CA",
+     "text": "That was the most interesting one chemically. In plain water, the dye bath was purple, but when we added vinegar, it turned pink, and with baking soda, it went green. So the colour of the fabric depended on what we added."
+    },
+    {
+     "id": "C1679FF9-86E4-52A3-90F4-5A35439B7580",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Right. The pigments in red cabbage are called anthocyanins, and they act as natural pH indicators, changing colour depending on how acidic or alkaline their surroundings are. You should definitely include an explanation of the chemistry behind that in your report, with the structures of the molecules if possible. It would strengthen the theoretical side considerably."
+    },
+    {
+     "id": "02BD833E-08A9-5338-B32B-7D07241AD597",
+     "speaker": "Priya",
+     "accent": "en-GB",
+     "text": "Okay. One thing we're not happy with is how we measured the fading. We just compared the samples by eye and gave each one a score."
+    },
+    {
+     "id": "51B51503-B098-5177-8A5D-0E4CFE5C77FD",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a fair concern, because judgements by eye are quite subjective. One option would be to photograph all the samples under identical lighting and then use image software to measure the colour values. That would give you numbers you could actually compare."
+    },
+    {
+     "id": "526B875A-98B2-57D3-B702-C12F92808458",
+     "speaker": "Tom",
+     "accent": "en-CA",
+     "text": "That's a great idea. We could do that next week."
+    },
+    {
+     "id": "4ABD3053-A39D-5E95-A99D-AD21DF2FDB75",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And when you write up, remember to say where your dye materials came from and how much you used of each, so that someone else could repeat the experiment."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice13-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students mainly choose kitchen materials as dye sources?",
+     "explanation": "They were cheap and normally discarded.",
+     "evidenceQuote": "things that are cheap and usually just thrown away",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are inexpensive and usually discarded.",
+      "B. They produce the brightest colours.",
+      "C. Their tutor recommended them."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They are inexpensive and usually discarded.",
+      "They are inexpensive and usually discarded."
+     ]
+    },
+    {
+     "id": "practice13-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did the students find when they compared the two fibres?",
+     "explanation": "Wool absorbed much more colour.",
+     "evidenceQuote": "The wool took up far more colour than the cotton with every dye.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Cotton gave more even colours.",
+      "B. Both fibres absorbed similar amounts of dye.",
+      "C. Wool absorbed much more dye than cotton."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Wool absorbed much more dye than cotton.",
+      "Wool absorbed much more dye than cotton."
+     ]
+    },
+    {
+     "id": "practice13-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to the tutor, why did traditional dyers treat cotton with tannins?",
+     "explanation": "Tannins help the dye attach to cotton.",
+     "evidenceQuote": "to help the dye attach",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to make the cotton softer",
+      "B. to help the dye stick to the fibre",
+      "C. to stop the cotton shrinking"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to help the dye stick to the fibre",
+      "to help the dye stick to the fibre"
+     ]
+    },
+    {
+     "id": "practice13-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor want the students to add to their report?",
+     "explanation": "He wants the chemistry of the colour change explained.",
+     "evidenceQuote": "You should definitely include an explanation of the chemistry behind that in your report",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. an account of why red cabbage changes colour",
+      "B. a history of natural dyes",
+      "C. a comparison with synthetic dyes"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. an account of why red cabbage changes colour",
+      "an account of why red cabbage changes colour"
+     ]
+    },
+    {
+     "id": "practice13-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "How does the tutor suggest the students measure fading more objectively?",
+     "explanation": "Photographs and software would give numbers.",
+     "evidenceQuote": "photograph all the samples under identical lighting and then use image software to measure the colour values",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by asking other students to score the samples",
+      "B. by repeating the test in summer",
+      "C. by analysing photographs with software"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by analysing photographs with software",
+      "by analysing photographs with software"
+     ]
+    },
+    {
+     "id": "practice13-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Mordant used on all samples: __________",
+     "explanation": "Alum was the mordant.",
+     "evidenceQuote": "We treated all the samples with alum first, as a mordant.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "alum"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Dye bath kept just below __________ degrees",
+     "explanation": "The temperature was kept below 90°C.",
+     "evidenceQuote": "We kept the temperature just below ninety degrees",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "90",
+      "ninety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Avocado stones produced a soft __________ colour",
+     "explanation": "The stones gave pink.",
+     "evidenceQuote": "they produced a soft pink colour",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pink"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Light test lasted __________ weeks",
+     "explanation": "It was extended to four weeks.",
+     "evidenceQuote": "we extended it to four",
+     "skillTag": "numbers",
+     "distractorNote": "Three weeks was the original plan.",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Red cabbage dye turned __________ with baking soda",
+     "explanation": "Baking soda turned it green.",
+     "evidenceQuote": "with baking soda, it went green",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "green"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "mordant",
+    "lightfastness",
+    "pigment",
+    "pH indicator",
+    "protein fibre"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice13-lp4",
+   "partNumber": 4,
+   "title": "The story of rubber",
+   "contextDescription": "A lecture in a materials science course on the history and chemistry of rubber.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "E396179E-B1A2-528E-B3EB-0079DD8756CB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning, everyone. Today we're going to look at a material that most of us use every day without giving it a second thought: rubber. It's in our car tyres, our shoes, our medical gloves and countless seals and hoses. Its history is a fascinating mix of chemistry, accident and global politics."
+    },
+    {
+     "id": "35EEEDFC-3CFA-5B28-93AD-B0796B493EA6",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Natural rubber comes from latex, a milky white fluid produced by certain plants. By far the most important source is the rubber tree, Hevea brasiliensis, which is native to the Amazon basin. When the bark is cut, latex slowly oozes out and can be collected in a cup, a process known as tapping. Chemically, rubber is a polymer, made up of very long chain molecules, and it's the ability of these tangled chains to stretch out and then spring back that gives rubber its elasticity."
+    },
+    {
+     "id": "BF91BEFF-3DB1-58D3-835F-4B6CE1ACB77E",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The peoples of Mesoamerica were using rubber more than three thousand years ago. They famously made solid rubber balls for a ritual ball game, which astonished the Spanish when they arrived, since nothing in Europe bounced like that. Researchers have also shown that Mesoamerican craftspeople mixed latex with the juice of a particular vine, a type of morning glory, and that by changing the proportions they could make rubber that was either bouncier or more hard-wearing, depending on what it was to be used for."
+    },
+    {
+     "id": "E07C97DD-27D2-5D63-B8F1-B3814DC3E4B3",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Europeans first became aware of rubber after Columbus's voyages, but for a long time it was little more than a curiosity. In 1770, the English chemist Joseph Priestley noticed that a small piece of it could rub out pencil marks, which is how the material got its English name. But raw rubber had serious drawbacks. In hot weather, it became soft and sticky and smelled unpleasant, and in cold weather, it turned hard and brittle. Early waterproof coats and boots made from it were notoriously unreliable."
+    },
+    {
+     "id": "CA67862E-EADC-5266-864C-CC3A52648AA9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The breakthrough came from the American inventor Charles Goodyear, who spent years experimenting, often in great poverty. In 1839, he found that heating rubber with sulphur transformed it into a material that stayed elastic and strong over a wide range of temperatures. According to a popular story, he discovered this by accident when a mixture fell onto a hot stove, though the story may have been improved in the retelling. The process became known as vulcanisation, after Vulcan, the Roman god of fire. In Britain, Thomas Hancock obtained a patent for a similar process shortly before Goodyear's American patent was granted, and Goodyear, sadly, died heavily in debt."
+    },
+    {
+     "id": "8B1DFAEB-A5BC-56D3-AFE4-B193BAB6A86B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So what does the sulphur actually do? It forms short bridges between neighbouring polymer chains. These bridges, which chemists call cross-links, stop the chains from sliding past one another permanently, so the rubber returns to its original shape after being stretched, instead of slowly flowing like a very thick liquid. The more cross-links there are, the harder the rubber becomes, and with a very large amount of sulphur, you get a hard, rigid material that was once used for things like combs and bowling balls."
+    },
+    {
+     "id": "AE731FCD-A5E8-57BC-8A7C-143C36608E99",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Vulcanised rubber, combined with the invention of the air-filled tyre and later the motor car, created enormous demand. At first, almost all of it came from wild trees in the Amazon, and the trade made a few people extremely rich, while the workers who collected the latex were often brutally exploited. Then, in 1876, the Englishman Henry Wickham shipped tens of thousands of rubber seeds from Brazil to Kew Gardens in London. The seedlings that grew there were sent to British colonies in Asia, and within a few decades, huge plantations in Southeast Asia had replaced Brazil as the world's main source."
+    },
+    {
+     "id": "41455D5E-B42D-5464-B0C7-47561ED989B6",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Interestingly, plantations have never succeeded in the Amazon itself, largely because of a fungal disease called South American leaf blight, which spreads rapidly when rubber trees are planted close together. That's still true today, and the leading producers are countries such as Thailand and Indonesia."
+    },
+    {
+     "id": "C9326CC8-0C8B-53C4-B68C-AF28932AEE0B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Dependence on Asian plantations became a serious problem during the Second World War, when Japan occupied the main rubber-growing regions and cut off supplies to the Allies. In response, the United States built an enormous synthetic rubber industry in just a few years. Synthetic rubbers are made from chemicals obtained from oil, and today they account for roughly half of all the rubber used in the world."
+    },
+    {
+     "id": "C87816D8-31EC-57E5-ACAD-AEDB94966E90",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "However, natural rubber hasn't been replaced. It still performs better in some demanding applications, for example the tyres of aircraft and heavy trucks, which have to cope with very high loads and heat. Next week, we'll look at the environmental questions this raises, including the problem of recycling the billions of tyres that are thrown away."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice13-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "The rubber tree is native to the __________ basin",
+     "explanation": "It comes from the Amazon basin.",
+     "evidenceQuote": "which is native to the Amazon basin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Amazon"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Collecting latex from cut bark is called __________",
+     "explanation": "The process is tapping.",
+     "evidenceQuote": "a process known as tapping",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tapping"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Mesoamerican craftspeople mixed latex with juice from a __________",
+     "explanation": "They used juice from a vine.",
+     "evidenceQuote": "mixed latex with the juice of a particular vine",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Priestley found rubber could remove __________ marks",
+     "explanation": "It rubbed out pencil marks.",
+     "evidenceQuote": "could rub out pencil marks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pencil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Raw rubber became brittle in __________ weather",
+     "explanation": "Cold made it brittle.",
+     "evidenceQuote": "in cold weather, it turned hard and brittle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cold"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Goodyear heated rubber with __________",
+     "explanation": "He used sulphur.",
+     "evidenceQuote": "heating rubber with sulphur",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sulphur"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Sulphur creates short __________ between polymer chains",
+     "explanation": "Sulphur forms bridges.",
+     "evidenceQuote": "It forms short bridges between neighbouring polymer chains.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bridges"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Wickham sent seeds to __________ Gardens in London",
+     "explanation": "The seeds went to Kew.",
+     "evidenceQuote": "from Brazil to Kew Gardens in London",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Kew"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Plantations fail in the Amazon because of a leaf __________",
+     "explanation": "Leaf blight prevents them.",
+     "evidenceQuote": "South American leaf blight",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Synthetic rubbers are made from chemicals obtained from __________",
+     "explanation": "They come from oil.",
+     "evidenceQuote": "Synthetic rubbers are made from chemicals obtained from oil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oil"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "latex",
+    "polymer",
+    "vulcanisation",
+    "plantation",
+    "synthetic rubber"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice13-rp1",
+   "passageNumber": 1,
+   "title": "The remarkable history of glass",
+   "discipline": "Materials Science & History",
+   "paragraphs": [
+    "Glass is so much a part of modern life that it rarely attracts attention. We look through it, drink from it and cook in it, and through the optical fibres that carry internet data across the oceans, we even communicate by means of it. Yet glass is a puzzling substance. It is hard and brittle like a solid, but its internal structure resembles that of a liquid, and for thousands of years people made and used it without having any real understanding of why it behaved as it did.",
+    "Long before anyone learned to make glass, nature was producing it. When lava from a volcano cools very rapidly, its atoms have no time to arrange themselves into crystals, and the result is obsidian, a dark volcanic glass. Because it breaks into pieces with extremely sharp edges, obsidian was highly prized by prehistoric peoples for knives and arrowheads, and it was traded over remarkably long distances. Natural glass can also form when lightning strikes sand, melting it into fragile, branching tubes known as fulgurites.",
+    "How humans first came to make glass is uncertain. The Roman writer Pliny the Elder told a story of merchants who, camping on a beach, rested their cooking pots on blocks of natron, a natural soda, and found next morning that the fire had fused the sand and soda into glass. Modern historians generally doubt this account, since an open fire would hardly have reached the necessary temperature. What is known is that the earliest manufactured glass objects, mostly beads, come from Mesopotamia and date back more than four thousand years. The first glass vessels were produced by a laborious technique called core-forming, in which molten glass was wound around a core of clay and dung that was scraped out once the glass had cooled.",
+    "The great turning point came in the first century BCE, when craftsmen somewhere on the eastern coast of the Mediterranean discovered that molten glass could be inflated by blowing through a hollow tube. Glassblowing allowed vessels to be made in minutes rather than days, and as the technique spread through the Roman Empire, glass changed from a luxury into an everyday material. Cups, bottles and storage jars became common, and the Romans even began to set small panes of glass in windows, although this early window glass was thick, bubbly and far from transparent.",
+    "The chemistry of glass explains many of the challenges early glassmakers faced. Pure silica, the main component of sand, melts only at temperatures above 1,700 degrees Celsius, far beyond the reach of ancient furnaces. Adding soda acts as a flux, lowering the melting point considerably, but glass made only of silica and soda slowly dissolves in water. The solution was to add lime, obtained from limestone or shells, which makes the glass chemically stable. This combination, known as soda-lime glass, still accounts for the great majority of the glass made today, from bottles to windows. In all these glasses, the atoms are arranged randomly rather than in a regular pattern, which is why scientists describe glass as an amorphous solid.",
+    "This unusual structure has given rise to a persistent myth. Visitors to medieval churches are often told that the windows are thicker at the bottom because glass is really a very slow-moving liquid that has flowed downwards over the centuries. Calculations show, however, that at room temperature such flow would be undetectable even over billions of years. The real explanation lies in how the glass was made. Medieval window glass was often produced by spinning molten glass into a large disc, which was uneven in thickness, and glaziers usually, though not always, placed the heavier edge at the bottom. Indeed, some old windows have their thicker edge at the top.",
+    "During the Middle Ages, Venice became the centre of European glassmaking. In 1291, the city's glassmakers were ordered to move their furnaces to the nearby island of Murano, partly because of the risk of fire spreading through the crowded city. The craftsmen were valued so highly that they were forbidden to leave the republic, for fear that they would take their secrets with them. In the fifteenth century, Venetian workshops developed cristallo, an exceptionally clear glass. Two centuries later in England, George Ravenscroft found that adding lead oxide produced a heavy, brilliant glass, now called lead crystal, which was ideal for cutting into decorative patterns.",
+    "Making large, flat sheets remained difficult and expensive until the twentieth century. Plate glass had to be ground and polished on both sides, a slow process that wasted much of the material. In the 1950s, Alastair Pilkington and his colleagues at the British company Pilkington Brothers developed the float process, announced in 1959, in which molten glass is poured onto a bath of molten tin. The glass spreads out and floats on the metal, producing a perfectly smooth, flat surface on both sides without polishing. Most of the world's flat glass is now made in this way. Glass also has an environmental advantage: it can be recycled repeatedly without losing quality, and crushed recycled glass melts at a lower temperature than raw materials, saving considerable energy."
+   ],
+   "questions": [
+    {
+     "id": "practice13-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Prehistoric peoples exchanged obsidian across considerable distances.",
+     "explanation": "Obsidian was traded over long distances.",
+     "evidenceQuote": "it was traded over remarkably long distances",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice13-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Most modern historians accept Pliny's explanation of how glass was discovered.",
+     "explanation": "Historians doubt the story.",
+     "evidenceQuote": "Modern historians generally doubt this account",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice13-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Core-formed vessels were mainly used to store perfume.",
+     "explanation": "Their use is not mentioned.",
+     "evidenceQuote": "The first glass vessels were produced by a laborious technique called core-forming",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice13-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Glassblowing made glass objects available to a much wider population.",
+     "explanation": "Glass became an everyday material.",
+     "evidenceQuote": "glass changed from a luxury into an everyday material",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice13-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Glass made only of silica and soda is highly resistant to water.",
+     "explanation": "It slowly dissolves in water.",
+     "evidenceQuote": "glass made only of silica and soda slowly dissolves in water",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice13-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Murano glassmakers earned higher wages than other Venetian craftsmen.",
+     "explanation": "Wages are not mentioned.",
+     "evidenceQuote": "The craftsmen were valued so highly that they were forbidden to leave the republic",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice13-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "In some old windows, the thicker part of the glass is at the top.",
+     "explanation": "Some have the thick edge at the top.",
+     "evidenceQuote": "some old windows have their thicker edge at the top",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice13-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Lightning striking sand can create tubes called __________",
+     "explanation": "They are fulgurites.",
+     "evidenceQuote": "branching tubes known as fulgurites",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fulgurites"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Core-forming: glass wound around a core of clay and __________",
+     "explanation": "The core was clay and dung.",
+     "evidenceQuote": "a core of clay and dung",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dung"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Soda is added as a __________ to reduce the melting point",
+     "explanation": "Soda is a flux.",
+     "evidenceQuote": "Adding soda acts as a flux",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flux"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Lime makes the glass chemically __________",
+     "explanation": "Lime stabilises it.",
+     "evidenceQuote": "which makes the glass chemically stable",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Ravenscroft added lead __________ to create lead crystal",
+     "explanation": "He added lead oxide.",
+     "evidenceQuote": "adding lead oxide produced a heavy, brilliant glass",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oxide"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Float process: molten glass is poured onto molten __________",
+     "explanation": "It floats on tin.",
+     "evidenceQuote": "poured onto a bath of molten tin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tin"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 853,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice13-rp2",
+   "passageNumber": 2,
+   "title": "The age of plastic",
+   "discipline": "Polymer Chemistry & Environment",
+   "paragraphs": [
+    "Few materials have transformed everyday life as rapidly as plastics. Chemically, plastics are polymers, substances made of extremely long molecules in which small units called monomers are joined together in chains that may contain thousands of links; the word comes from the Greek for 'many parts'. Global production has risen from around two million tonnes in 1950 to more than four hundred million tonnes a year today, and it is now difficult to find a manufactured object that contains no plastic at all.",
+    "Polymers themselves are not new. Nature produces them in abundance, and for centuries people shaped materials such as horn, tortoiseshell, natural rubber and shellac, a resin secreted by the lac insect, into combs, buttons and ornaments. These materials, however, were available only in limited quantities, and some, such as ivory, came at a heavy cost to the animals that supplied them. As industrial societies grew, demand far outstripped supply, and inventors began searching for substitutes.",
+    "The first steps were taken using plant material. In 1862, the British inventor Alexander Parkes displayed Parkesine, a mouldable material made from cellulose, at the International Exhibition in London, but his business failed within a few years. In the United States, John Wesley Hyatt developed celluloid, reportedly encouraged by a prize offered for a substitute for ivory in billiard balls. Celluloid proved useful for many purposes, most famously photographic and cinema film, despite being highly flammable, a property that caused numerous fires in early cinemas.",
+    "The first fully synthetic plastic, made entirely from chemicals rather than modified natural substances, was invented in 1907 by Leo Baekeland, a Belgian-born chemist working in New York. Bakelite, produced by reacting phenol with formaldehyde, could be moulded into almost any shape, and once it had set under heat and pressure, it could not be melted again. Because it did not conduct electricity and resisted heat, it was ideal for telephones, radio cases and electrical plugs, and its makers promoted it as the material of a thousand uses.",
+    "Several important plastics were discovered by accident. In 1933, Eric Fawcett and Reginald Gibson, chemists at the British company ICI, were conducting high-pressure experiments with ethylene gas when they found a white, waxy solid in their apparatus: polyethylene. Light, flexible and an excellent electrical insulator, it became vital during the Second World War for insulating the cables of radar equipment. At around the same time, Wallace Carothers at the American company DuPont produced nylon, which was launched in women's stockings and sold in vast quantities until wartime needs diverted it to parachutes and ropes.",
+    "Chemists divide plastics into two broad families. Thermoplastics, which include polyethylene, PET and PVC, soften when heated and harden again as they cool, so in principle they can be melted down and reshaped many times. Thermosets, such as Bakelite and epoxy resins, form a rigid network of chemical bonds as they set, and cannot be remelted. Even thermoplastics, however, are seldom easy to recycle, because most products contain additives, such as colourings, softeners and flame retardants, and many items combine several types of plastic that must be separated before they can be processed.",
+    "The scale of the resulting waste problem was quantified in a widely cited study published in 2017 by the American researchers Roland Geyer, Jenna Jambeck and Kara Lavender Law. They estimated that around 8.3 billion tonnes of plastic had been produced up to 2015, and that of the plastic that had become waste, only about nine per cent had been recycled, while around twelve per cent had been burned and the rest had accumulated in landfill sites or the natural environment. Because plastics break down extremely slowly, much of this material persists as fragments, and microplastics, pieces smaller than five millimetres, have now been found from Arctic sea ice to the deepest ocean sediments.",
+    "Solutions are being pursued on several fronts, but none is straightforward. Mechanical recycling usually reduces the quality of the material, so that drinks bottles, for instance, are often turned into fibres for clothing rather than into new bottles. Chemical recycling, which breaks polymers back down into monomers, could in theory produce plastic as good as new, but it remains expensive and energy-intensive. Bioplastics made from plant sources are another option, yet many of them break down only under the high temperatures of industrial composting facilities and persist in the sea much like conventional plastics. Meanwhile, the benefits of plastics, from lighter vehicles that use less fuel to sterile medical equipment, mean that simply abandoning them is not a realistic option."
+   ],
+   "questions": [
+    {
+     "id": "practice13-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the limited supply of natural polymers.",
+     "evidenceQuote": "These materials, however, were available only in limited quantities",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Nature's limited supply",
+      "Nature's limited supply"
+     ]
+    },
+    {
+     "id": "practice13-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers cellulose-based plastics.",
+     "evidenceQuote": "The first steps were taken using plant material.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Early experiments with plant material",
+      "Early experiments with plant material"
+     ]
+    },
+    {
+     "id": "practice13-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes Bakelite.",
+     "evidenceQuote": "The first fully synthetic plastic, made entirely from chemicals",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A truly artificial material",
+      "A truly artificial material"
+     ]
+    },
+    {
+     "id": "practice13-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E covers accidental discoveries and wartime uses.",
+     "evidenceQuote": "Several important plastics were discovered by accident.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Happy accidents and wartime demand",
+      "Happy accidents and wartime demand"
+     ]
+    },
+    {
+     "id": "practice13-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains thermoplastics and thermosets.",
+     "evidenceQuote": "Chemists divide plastics into two broad families.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Two families with different properties",
+      "Two families with different properties"
+     ]
+    },
+    {
+     "id": "practice13-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G measures the waste problem.",
+     "evidenceQuote": "The scale of the resulting waste problem was quantified",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Counting the cost",
+      "Counting the cost"
+     ]
+    },
+    {
+     "id": "practice13-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H shows there is no simple answer.",
+     "evidenceQuote": "Solutions are being pursued on several fronts, but none is straightforward.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. No simple way out",
+      "No simple way out"
+     ]
+    },
+    {
+     "id": "practice13-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What made Bakelite especially suitable for electrical goods?",
+     "explanation": "It insulated and resisted heat.",
+     "evidenceQuote": "Because it did not conduct electricity and resisted heat",
+     "skillTag": "detail",
+     "options": [
+      "A. It was cheaper than metal.",
+      "B. It was a heat-resistant insulator.",
+      "C. It could be remelted and reused.",
+      "D. It was made from plant material."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It was a heat-resistant insulator.",
+      "It was a heat-resistant insulator."
+     ]
+    },
+    {
+     "id": "practice13-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why was polyethylene important during the Second World War?",
+     "explanation": "It insulated radar cables.",
+     "evidenceQuote": "it became vital during the Second World War for insulating the cables of radar equipment",
+     "skillTag": "detail",
+     "options": [
+      "A. It insulated the cables of radar equipment.",
+      "B. It replaced nylon in parachutes.",
+      "C. It was used to make stockings.",
+      "D. It was used to waterproof ships."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It insulated the cables of radar equipment.",
+      "It insulated the cables of radar equipment."
+     ]
+    },
+    {
+     "id": "practice13-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What drawback of many bioplastics does the writer mention?",
+     "explanation": "They need industrial composting conditions.",
+     "evidenceQuote": "many of them break down only under the high temperatures of industrial composting facilities",
+     "skillTag": "detail",
+     "options": [
+      "A. They are too expensive to produce.",
+      "B. They cannot be moulded easily.",
+      "C. They use too much farmland.",
+      "D. They decompose only in special industrial conditions."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They decompose only in special industrial conditions.",
+      "They decompose only in special industrial conditions."
+     ]
+    },
+    {
+     "id": "practice13-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Celluloid caused fires in early cinemas because it was highly __________.",
+     "explanation": "Celluloid was highly flammable.",
+     "evidenceQuote": "despite being highly flammable",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flammable"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice13-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Recycling thermoplastics is complicated by __________ such as colourings and flame retardants.",
+     "explanation": "Additives complicate recycling.",
+     "evidenceQuote": "because most products contain additives",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "additives"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice13-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Chemical recycling converts polymers back into __________.",
+     "explanation": "It returns them to monomers.",
+     "evidenceQuote": "breaks polymers back down into monomers",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "monomers"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 752,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Counting the cost",
+      "ii. A truly artificial material",
+      "iii. Plastics in modern medicine",
+      "iv. Nature's limited supply",
+      "v. No simple way out",
+      "vi. Happy accidents and wartime demand",
+      "vii. A ban that changed an industry",
+      "viii. Early experiments with plant material",
+      "ix. Two families with different properties"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice13-rp3",
+   "passageNumber": 3,
+   "title": "Colour from coal tar",
+   "discipline": "History of Chemistry",
+   "paragraphs": [
+    "Until the middle of the nineteenth century, every dye in the world came from a plant, an animal or a mineral. Blue was obtained from indigo plants in India or from woad in Europe, red from the roots of the madder plant, and crimson from cochineal, an insect harvested in the Americas. Some colours were extraordinarily costly. Tyrian purple, extracted from sea snails, required thousands of snails to produce a single gram of dye, and for centuries it was reserved for emperors and the highest officials.",
+    "This situation was transformed by an eighteen-year-old student. In 1856, William Henry Perkin was working as an assistant to August Wilhelm von Hofmann at the Royal College of Chemistry in London. Hofmann had suggested that quinine, the only effective treatment for malaria and then obtained at great expense from the bark of the cinchona tree, might be made from chemicals found in coal tar, a waste product of the gas industry. During the Easter holiday, in a makeshift laboratory at home, Perkin attempted the synthesis. He failed to make quinine, obtaining instead a black sludge, but when he dissolved it in alcohol, it produced a brilliant purple solution that dyed silk. It is often called a lucky accident, but in my view that does Perkin an injustice; many chemists would simply have thrown the sludge away.",
+    "Against Hofmann's advice, Perkin left the college, patented his dye and, with money from his father, built a factory at Greenford, near London. The difficulties were considerable: the raw materials had to be manufactured in quantities never attempted before, and traditional dyers had to be persuaded to use an unfamiliar product. Fashion came to his rescue. The colour, soon known as mauve, became highly fashionable after it was adopted by Empress Eugénie of France and Queen Victoria, and Perkin became a wealthy man while still in his twenties.",
+    "Perkin's success set off a wave of research, but it was Germany, rather than Britain, that turned synthetic dyes into a great industry. Companies such as BASF, Bayer and Hoechst were founded in the 1860s and employed university-trained chemists on a scale unknown elsewhere. In 1868, Carl Graebe and Carl Liebermann produced alizarin, the red colouring of madder, the first time a natural dye had been made synthetically, and within a few decades madder cultivation in Europe had almost disappeared. Adolf von Baeyer worked out how to synthesise indigo, and after many years of development BASF began selling synthetic indigo in 1897, with devastating consequences for India's indigo exports. By the early twentieth century, German firms made the great majority of the world's dyes. I would argue that this dominance owed less to individual genius than to the close links that Germany built between its universities and its companies.",
+    "The new dyes also had unexpected consequences for medicine. The German scientist Paul Ehrlich noticed that certain dyes stained some types of cell and microbe but not others, and reasoned that a chemical might be found that would attack disease-causing organisms while leaving the body's own cells unharmed. This idea of a 'magic bullet' led in 1910 to Salvarsan, the first effective treatment for syphilis. In the 1930s, Gerhard Domagk, working for Bayer, discovered that a red dye called Prontosil could cure bacterial infections in mice, leading to the sulphonamide drugs, the first widely used antibacterial medicines.",
+    "The industry's achievements, however, came at a cost. Dye factories discharged their waste directly into rivers, and in some cases, the colour of a river downstream depended on what was being produced that day. Workers handling certain chemicals used in dye production suffered unusually high rates of bladder cancer, a link first reported in the 1890s. Today, much textile dyeing takes place in countries where environmental regulation is weak, and according to an often-quoted estimate, the dyeing and treatment of textiles may be responsible for up to a fifth of industrial water pollution worldwide.",
+    "Given this record, it is not surprising that natural dyes are enjoying a revival among designers and consumers. In my view, however, a large-scale return to natural dyes is neither possible nor desirable. Growing enough plants to colour the world's clothing would require vast areas of farmland, natural colours are often inconsistent and prone to fading, and many traditional methods depend on metal salts as mordants, some of which are themselves toxic. Natural, in short, is not automatically harmless.",
+    "A more promising path lies in making synthetic dyeing cleaner. Factories can treat and reuse their water, chemists are designing dyes that bind more completely to fibres so that less is washed away, and some companies are experimenting with dyeing methods that use carbon dioxide under pressure instead of water. Such technologies are not yet widespread, and they will require investment and regulation to succeed. Nevertheless, I believe Perkin's legacy is best honoured not by turning our backs on chemistry but by applying it more responsibly."
+   ],
+   "questions": [
+    {
+     "id": "practice13-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "proposed that a medicine could be produced from coal-tar chemicals",
+     "explanation": "Hofmann suggested making quinine from coal tar.",
+     "evidenceQuote": "Hofmann had suggested that quinine",
+     "skillTag": "matching_features",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. August Wilhelm von Hofmann",
+      "August Wilhelm von Hofmann"
+     ]
+    },
+    {
+     "id": "practice13-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "made a natural red dye artificially for the first time",
+     "explanation": "Graebe and Liebermann made alizarin.",
+     "evidenceQuote": "produced alizarin, the red colouring of madder, the first time a natural dye had been made synthetically",
+     "skillTag": "matching_features",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Carl Graebe and Carl Liebermann",
+      "Carl Graebe and Carl Liebermann"
+     ]
+    },
+    {
+     "id": "practice13-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "developed a synthesis that later harmed an Asian export trade",
+     "explanation": "Synthetic indigo damaged India's exports.",
+     "evidenceQuote": "Adolf von Baeyer worked out how to synthesise indigo",
+     "skillTag": "matching_features",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Adolf von Baeyer",
+      "Adolf von Baeyer"
+     ]
+    },
+    {
+     "id": "practice13-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "observed that dyes coloured some cells but not others",
+     "explanation": "Ehrlich noticed selective staining.",
+     "evidenceQuote": "certain dyes stained some types of cell and microbe but not others",
+     "skillTag": "matching_features",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Paul Ehrlich",
+      "Paul Ehrlich"
+     ]
+    },
+    {
+     "id": "practice13-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "found that a dye could cure bacterial infections in animals",
+     "explanation": "Domagk discovered Prontosil's effect.",
+     "evidenceQuote": "a red dye called Prontosil could cure bacterial infections in mice",
+     "skillTag": "matching_features",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Gerhard Domagk",
+      "Gerhard Domagk"
+     ]
+    },
+    {
+     "id": "practice13-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Perkin's discovery of mauve should be regarded as nothing more than good luck.",
+     "explanation": "The writer rejects calling it mere luck.",
+     "evidenceQuote": "in my view that does Perkin an injustice",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice13-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Germany's lead in dyes resulted mainly from cooperation between universities and industry.",
+     "explanation": "The writer credits university–industry links.",
+     "evidenceQuote": "this dominance owed less to individual genius than to the close links that Germany built between its universities and its companies",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice13-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Natural dyes are always less harmful to the environment than synthetic ones.",
+     "explanation": "The writer says natural is not automatically harmless.",
+     "evidenceQuote": "Natural, in short, is not automatically harmless.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice13-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Dyeing with pressurised carbon dioxide will replace water-based methods within ten years.",
+     "explanation": "No timescale is predicted.",
+     "evidenceQuote": "some companies are experimenting with dyeing methods that use carbon dioxide under pressure instead of water",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice13-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Chemistry should be applied more carefully rather than rejected.",
+     "explanation": "The writer wants chemistry used responsibly.",
+     "evidenceQuote": "not by turning our backs on chemistry but by applying it more responsibly",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice13-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Tyrian purple was obtained from sea __________.",
+     "explanation": "It came from sea snails.",
+     "evidenceQuote": "Tyrian purple, extracted from sea snails",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "snails"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Quinine was expensively extracted from the __________ of the cinchona tree.",
+     "explanation": "It came from bark.",
+     "evidenceQuote": "from the bark of the cinchona tree",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bark"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Perkin's father provided money for a __________ at Greenford.",
+     "explanation": "He built a factory.",
+     "evidenceQuote": "with money from his father, built a factory at Greenford",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "factory"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice13-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Some dye workers developed bladder __________.",
+     "explanation": "They suffered bladder cancer.",
+     "evidenceQuote": "unusually high rates of bladder cancer",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cancer"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 815,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person, A–F.",
+     "options": [
+      "A. William Henry Perkin",
+      "B. August Wilhelm von Hofmann",
+      "C. Carl Graebe and Carl Liebermann",
+      "D. Adolf von Baeyer",
+      "E. Paul Ehrlich",
+      "F. Gerhard Domagk"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice13-w1",
+  "title": "Recycling glass bottles",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how used glass bottles are recycled to make new bottles. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Used bottles are collected from bottle banks and household bins",
+   "Bottles are taken to a treatment plant and sorted by colour",
+   "Labels, caps and other contaminants are removed",
+   "Glass is crushed into small pieces called cullet",
+   "Cullet is mixed with sand, soda ash and limestone",
+   "The mixture is melted in a furnace at about 1,500°C",
+   "Molten glass is shaped into new bottles in moulds",
+   "New bottles are cooled slowly, inspected and sent to drinks companies"
+  ],
+  "keyOverviewPoints": [
+   "The process is cyclical, with eight stages from collection to the delivery of new bottles.",
+   "It combines sorting and cleaning stages with melting and moulding at high temperature."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice13-w2",
+  "title": "The plastic waste problem",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment & Industry",
+  "promptText": "The amount of plastic waste produced around the world is increasing rapidly. What problems does this cause, and what measures could be taken by governments, businesses and individuals to solve them?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice13-spk",
+  "theme": "Materials and everyday objects",
+  "part1Questions": [
+   "What objects do you use most often every day?",
+   "Do you prefer things made from natural materials or synthetic ones?",
+   "Do you try to avoid using plastic? Why or why not?",
+   "What colours do you usually like to wear?",
+   "Have you ever made something with your own hands?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an object made of glass, wood or metal that is important to you.",
+   "bulletPoints": [
+    "what the object is",
+    "how you got it",
+    "how often you use or look at it",
+    "and explain why it is important to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people throw away so many things that could be repaired?",
+   "Should manufacturers be responsible for recycling the products they sell?",
+   "How have the materials used in homes changed in your country?",
+   "Is it realistic for society to stop using plastic packaging?",
+   "What role should scientists play in solving environmental problems?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates, names and figures are checked against standard reference sources; Part 1 and Part 2 details are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

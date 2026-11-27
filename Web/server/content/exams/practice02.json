@@ -1,0 +1,2091 @@
+{
+ "id": "practice02",
+ "examNumber": 2,
+ "pool": "practice",
+ "title": "Practice Test 2: Farming, Food & Animals",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Farming, Food & Animals",
+ "listeningParts": [
+  {
+   "id": "practice02-lp1",
+   "partNumber": 1,
+   "title": "Booking a farm-stay holiday",
+   "contextDescription": "A woman phones a farm that offers holiday accommodation.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "2DA0CA54-A68B-580A-BDF3-9C09BCCC0426",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Hello, Brookfield Farm, Sarah speaking."
+    },
+    {
+     "id": "64EED66A-B9EF-527B-9FAD-60BDE5E92119",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Oh hi, I saw your website and I'm interested in booking a farm holiday for my family. Could you tell me a bit about what you offer?"
+    },
+    {
+     "id": "DF7703D5-750F-5906-8613-E38D849E995E",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Of course. We've got three holiday cottages on the farm. Two of them sleep four people, and the larger one, which is called the Old Barn, sleeps six."
+    },
+    {
+     "id": "429C19E5-730B-5535-8205-2202E239EC07",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "There are five of us, me, my husband and three children, so I guess we'd need the Old Barn."
+    },
+    {
+     "id": "AF829BF8-C885-5816-A582-7CC42DB827B2",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Yes, that would be best. It has three bedrooms, two bathrooms and a big kitchen. All our cottages are self-catering, but we do sell eggs, milk and vegetables from the farm shop, and there's a village shop about two miles away."
+    },
+    {
+     "id": "0763EC4B-D15F-56BC-94E1-7EF5EE33D041",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Sounds lovely. What sort of farm is it?"
+    },
+    {
+     "id": "8040FB3E-6D3D-5AC6-8722-716550CC9A45",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Mainly dairy. We milk about a hundred and twenty cows. We also keep a small flock of sheep, some pigs and chickens, and the children usually love the goats."
+    },
+    {
+     "id": "CE7268EC-6F51-5F5E-95B8-11BE2C3A6E6C",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Can the kids help with the animals?"
+    },
+    {
+     "id": "D5CDBF56-94D2-527D-9840-2AE10246F013",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "They can. Every morning at eight we have what we call the farm walk. Guests can come with me to collect the eggs and feed the calves and the goats. It lasts about an hour. It's included in the price, but children have to be accompanied by an adult."
+    },
+    {
+     "id": "30F30220-3EC4-54AC-A1C4-36D800AFFC37",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Can they watch the cows being milked?"
+    },
+    {
+     "id": "6E22E408-5915-5573-86F3-D08662DC4A92",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Yes, there's a viewing gallery above the milking parlour. Milking happens twice a day, at half past five in the morning and four in the afternoon. Most families prefer the afternoon one, for obvious reasons."
+    },
+    {
+     "id": "B86A5A5B-4CC9-5B94-A837-BE4298C07805",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I can imagine. Now, we were thinking about the first week of August. Is the Old Barn available?"
+    },
+    {
+     "id": "70E6D7A6-9468-57EE-9F0D-54BA62538B3B",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Let me look. I'm afraid the first week of August is booked. But it's free the following week, from Saturday the ninth to Saturday the sixteenth."
+    },
+    {
+     "id": "A864751B-58E3-5D8A-B08A-9F8754ABAD14",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That should be okay. What's the price for that week?"
+    },
+    {
+     "id": "62009FD2-DC9F-5800-814D-43F3AAF940B2",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "In August, the Old Barn is nine hundred and seventy-five pounds for the week. That includes bed linen, towels, heating and electricity."
+    },
+    {
+     "id": "40C71497-4229-5AAB-A5FE-2633F81DCBE5",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's within our budget. Is there anything extra to pay for?"
+    },
+    {
+     "id": "FC5BC6E9-1D75-53DE-9776-0DB9797F6E6E",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Only if you bring a dog, which is fifteen pounds for the week. And we can provide a cot or a high chair if you have a baby, at no extra charge."
+    },
+    {
+     "id": "3805CA93-02AB-5102-9B9F-7D4E1A56FD2F",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "No dog and no baby, thankfully. What else is there to do in the area?"
+    },
+    {
+     "id": "EF042017-968F-58C8-8D95-1074C73B98E9",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Lots. The coast is about twenty minutes' drive. There's a lovely sandy beach at Westbay. And if you like walking, there's a footpath that goes right through the farm along the river to the castle. Cycling is popular too. We have bikes guests can borrow, though we don't have any child seats."
+    },
+    {
+     "id": "DCDDE5CC-F914-5F5F-A3E2-57EF7D1DE1EA",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "My youngest is nine, so she can ride her own bike. Do we need a car while we're there?"
+    },
+    {
+     "id": "36FCB317-11FB-5392-BDEF-395717ED6117",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "It helps, because buses are only every two hours. But if you come by train, I can collect you from the station at Millbridge. There's a charge of ten pounds each way for that."
+    },
+    {
+     "id": "9C1736BE-6B13-5A28-8601-0722CA74732D",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We'll probably drive, but that's useful to know. How do I book?"
+    },
+    {
+     "id": "748BD355-E8DB-5401-8172-A07A913427E0",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "You can book online, or I can take your details now. We ask for a deposit of twenty-five per cent when you book, and the rest four weeks before you arrive. If you cancel more than eight weeks before, you get the deposit back."
+    },
+    {
+     "id": "9A5BF5C6-6AC1-5549-A1B1-FF42AF74D33F",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Let's do it now. My name's Karen Whitlock, W-H-I-T-L-O-C-K."
+    },
+    {
+     "id": "B2813C92-0F4D-5AEF-8F27-340EAB99E2FC",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Lovely, Karen. And how did you hear about us?"
+    },
+    {
+     "id": "7A9A3903-E7FD-541E-BEEC-7A936F81DBB2",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "A friend of mine stayed with you last year. She said it was the best holiday her kids had ever had."
+    },
+    {
+     "id": "FA279DFE-B671-5704-B265-863267B0C12F",
+     "speaker": "Owner",
+     "accent": "en-GB",
+     "text": "Oh, that's nice to hear. Let me take your card details for the deposit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice02-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Cottage: the Old Barn (sleeps __________ people)",
+     "explanation": "The Old Barn sleeps six; the others sleep four.",
+     "evidenceQuote": "the larger one, which is called the Old Barn, sleeps six",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Type of farm: mainly __________",
+     "explanation": "It is mainly a dairy farm.",
+     "evidenceQuote": "Mainly dairy.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dairy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Farm walk at 8 a.m.: collect eggs, feed calves and __________",
+     "explanation": "Guests feed the calves and goats.",
+     "evidenceQuote": "feed the calves and the goats",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "goats"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Afternoon milking: __________ p.m.",
+     "explanation": "Afternoon milking is at four.",
+     "evidenceQuote": "at half past five in the morning and four in the afternoon",
+     "skillTag": "numbers",
+     "distractorNote": "Half past five is the morning milking.",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Dates: Saturday 9th to Saturday __________ August",
+     "explanation": "The first week is booked; they take 9th–16th.",
+     "evidenceQuote": "from Saturday the ninth to Saturday the sixteenth",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "16",
+      "16th",
+      "sixteenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Price for the week: £__________",
+     "explanation": "The Old Barn costs £975 in August.",
+     "evidenceQuote": "nine hundred and seventy-five pounds for the week",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "975",
+      "nine hundred and seventy-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Nearest beach: __________",
+     "explanation": "The beach is at Westbay.",
+     "evidenceQuote": "a lovely sandy beach at Westbay",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Westbay"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Footpath goes along the river to the __________",
+     "explanation": "The footpath leads to the castle.",
+     "evidenceQuote": "along the river to the castle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "castle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Collection from Millbridge station costs £__________ each way",
+     "explanation": "Station collection is £10 each way.",
+     "evidenceQuote": "a charge of ten pounds each way",
+     "skillTag": "numbers",
+     "distractorNote": "£15 is the charge for a dog.",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Deposit: __________ % when booking",
+     "explanation": "The deposit is 25 per cent.",
+     "evidenceQuote": "a deposit of twenty-five per cent when you book",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "25",
+      "twenty-five"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "cottage",
+    "self-catering",
+    "livestock",
+    "feeding time",
+    "pick-up"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice02-lp2",
+   "partNumber": 2,
+   "title": "Opening day at the city farm",
+   "contextDescription": "The manager of a community city farm speaks to visitors at an open day.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "9631828E-5915-537D-A122-3D667C1DF2FC",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Good morning, everyone, and welcome to Riverside City Farm's annual open day. I'm Grace Hollis, the farm manager. Thanks for joining us, especially those of you who came despite the rain. I'll tell you a little about the farm and the programme for today, and then you're free to explore."
+    },
+    {
+     "id": "91DEBFB1-1FCB-5317-ABDF-830BD8C6793A",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "The farm was started thirty years ago by a group of local residents who wanted to turn an abandoned railway yard into something useful for the community. In the early days, it was run entirely by volunteers. Today we have eight paid staff, but volunteers are still at the heart of everything we do. Last year, over two hundred people gave their time, from schoolchildren to retired engineers."
+    },
+    {
+     "id": "626A6EC2-1322-50F8-8975-767D96DA8E4E",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Our main purpose is education. Many children growing up in the city have never seen a cow or a pig up close, and some don't really know where their food comes from. So every week during term time, we welcome school groups, and our education centre runs sessions on everything from bread-making to bees. We also offer apprenticeships for young people who want a career in agriculture or animal care. Three of last year's apprentices have now got full-time jobs on commercial farms."
+    },
+    {
+     "id": "23D0ECCC-5602-509A-AFA1-48AB04F673BF",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "We're particularly proud of our rare breeds. Many traditional breeds of farm animals have almost disappeared because modern farms prefer breeds that grow faster or produce more milk. But these older breeds often have valuable qualities: they may be hardier, more resistant to disease, or better suited to grazing poor land. We keep several, including Tamworth pigs and Bagot goats, and we work with a national charity to help keep these breeds going."
+    },
+    {
+     "id": "402F1B6A-059A-5FEC-A273-988DDBB9F8E2",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Now, a quick guide to today's activities. The sheep-shearing demonstration takes place in the main barn at eleven o'clock. Please don't be alarmed; it doesn't hurt the sheep at all, and in fact they're much more comfortable without their heavy winter coats."
+    },
+    {
+     "id": "D121C005-6698-50AF-89F3-0B5E8F42942B",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "At twelve, there's a talk on composting in the vegetable garden by our head gardener, Tom. Everything we grow here is fertilised with compost made from animal manure and garden waste. Tom will explain how you can make your own at home, even if you only have a small balcony."
+    },
+    {
+     "id": "91B3C9D2-F4D7-59A3-AA0C-2F6713604EFC",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Children's activities are in the education centre all day. There's pond-dipping, where children can look for insects and small creatures in our pond, and egg-decorating, which is always popular. Please note that the pony rides, which were advertised on our leaflet, have had to be cancelled, because the field is too wet after this week's rain. We're very sorry about that."
+    },
+    {
+     "id": "17D8CAEE-86ED-57E0-998F-B82CCA181CA0",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "For older children and adults, there's also a guided tour of the farm every hour, starting at the main gate. Our volunteers will explain how we care for the animals and how the farm is run. The tours are free, but numbers are limited to fifteen people, so please collect a ticket from the information tent first."
+    },
+    {
+     "id": "31D9C8CC-40A9-52BD-9276-B7E2E4D84764",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Food is available at the café, which uses vegetables from our garden and eggs from our own hens. All profits go towards running the farm. There's also a plant sale outside the café, where you can buy seedlings that our volunteers have grown."
+    },
+    {
+     "id": "1DAA21F1-1D76-5ABA-96C3-02AF7788CA64",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Finally, a few requests. Please wash your hands after touching any animals. There are sinks by every animal pen. Don't feed the animals anything you've brought with you, as some ordinary foods can make them quite ill; you can buy bags of suitable animal feed from the shop. And dogs, I'm afraid, must stay outside the farm gates, because they can frighten the animals."
+    },
+    {
+     "id": "A6B8105F-C292-5186-A4A5-A824FC0706C8",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Oh, and if you've enjoyed your visit, we'd love you to think about volunteering. There's a stand by the entrance where you can find out more. Thank you, and enjoy the day."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice02-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "The farm was originally created on the site of",
+     "explanation": "The farm was built on an old railway yard.",
+     "evidenceQuote": "turn an abandoned railway yard into something useful",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a former factory.",
+      "B. an old railway yard.",
+      "C. a closed school."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. an old railway yard.",
+      "an old railway yard."
+     ]
+    },
+    {
+     "id": "practice02-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "According to Grace, the main aim of the farm is",
+     "explanation": "Education is the main purpose.",
+     "evidenceQuote": "Our main purpose is education.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to produce food for local people.",
+      "B. to protect rare breeds.",
+      "C. to educate people."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to educate people.",
+      "to educate people."
+     ]
+    },
+    {
+     "id": "practice02-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What does Grace say about last year's apprentices?",
+     "explanation": "Three now work on commercial farms.",
+     "evidenceQuote": "Three of last year's apprentices have now got full-time jobs on commercial farms",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Some now work in agriculture.",
+      "B. They all became volunteers.",
+      "C. Most went on to university."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Some now work in agriculture.",
+      "Some now work in agriculture."
+     ]
+    },
+    {
+     "id": "practice02-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why does the farm keep rare breeds?",
+     "explanation": "Older breeds have useful qualities such as hardiness.",
+     "evidenceQuote": "these older breeds often have valuable qualities",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They produce more milk.",
+      "B. They have useful characteristics.",
+      "C. They attract more visitors."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They have useful characteristics.",
+      "They have useful characteristics."
+     ]
+    },
+    {
+     "id": "practice02-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Which activity has been cancelled?",
+     "explanation": "Pony rides are cancelled because the field is wet.",
+     "evidenceQuote": "the pony rides, which were advertised on our leaflet, have had to be cancelled",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the sheep-shearing demonstration",
+      "B. egg-decorating",
+      "C. pony rides"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. pony rides",
+      "pony rides"
+     ]
+    },
+    {
+     "id": "practice02-L16",
+     "number": 16,
+     "format": "Table Completion",
+     "prompt": "Sheep-shearing: main barn at __________ a.m.",
+     "explanation": "Shearing is at eleven.",
+     "evidenceQuote": "takes place in the main barn at eleven o'clock",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "11",
+      "eleven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L17",
+     "number": 17,
+     "format": "Table Completion",
+     "prompt": "Composting talk: compost made from manure and garden __________",
+     "explanation": "Compost uses manure and garden waste.",
+     "evidenceQuote": "compost made from animal manure and garden waste",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "waste"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L18",
+     "number": 18,
+     "format": "Table Completion",
+     "prompt": "Children: looking for insects in the __________",
+     "explanation": "Pond-dipping takes place in the pond.",
+     "evidenceQuote": "look for insects and small creatures in our pond",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pond"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L19",
+     "number": 19,
+     "format": "Table Completion",
+     "prompt": "Plant sale: seedlings grown by __________",
+     "explanation": "Volunteers grew the seedlings.",
+     "evidenceQuote": "seedlings that our volunteers have grown",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "volunteers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L20",
+     "number": 20,
+     "format": "Table Completion",
+     "prompt": "Rule: __________ must stay outside the gates",
+     "explanation": "Dogs are not allowed inside.",
+     "evidenceQuote": "dogs, I'm afraid, must stay outside the farm gates",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dogs"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "city farm",
+    "rare breed",
+    "compost",
+    "apprenticeship",
+    "education centre"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice02-lp3",
+   "partNumber": 3,
+   "title": "A project on cattle and methane",
+   "contextDescription": "Two agriculture students, Nadia and Ben, talk to their tutor about a research project on reducing methane from cattle.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "44A79DB1-24F7-55C2-B135-98151E5C0778",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, Nadia, Ben, you've chosen methane emissions from cattle for your project. Tell me why."
+    },
+    {
+     "id": "7C8A5FC5-08FB-5E59-8586-0C3682C5E55C",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "Well, I grew up on a dairy farm, so I'm interested in anything that affects farmers. And we kept reading that cattle are a major source of greenhouse gases. We wanted to understand how much of that is true, and what farmers can actually do about it."
+    },
+    {
+     "id": "323805D5-737D-58CD-8543-9BDCA0A4C44A",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "And it's a topic that combines biology and economics, which suits both of us. Nadia's done more animal science, and I've done more on farm business."
+    },
+    {
+     "id": "5413FF14-CF7B-5F41-AAD7-0E7EC121605B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. So what have you found out so far?"
+    },
+    {
+     "id": "8050D223-2C27-5BBB-A4B0-506286AED095",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "The basic science first. Cattle produce methane in the rumen, the first part of their stomach, where microbes break down grass and other plant material. Most people think the methane comes out the back end, but in fact about ninety per cent is breathed out or belched."
+    },
+    {
+     "id": "78818776-DC22-5E32-8B36-EC02554B3A52",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Right. And what approaches are there to reducing it?"
+    },
+    {
+     "id": "CD584C1B-C161-5B13-BB1F-FE67BC0AE62D",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "We've grouped them into three. First, feed additives. There's a lot of research on a type of red seaweed which can cut methane dramatically in trials. The problem is that it's difficult to grow in large quantities, and it isn't clear yet whether the effect lasts over months. There's also a synthetic additive that has been approved in some countries, and it seems to give a reduction of about a third."
+    },
+    {
+     "id": "BFBC899A-82FF-51B4-AA3A-4DB28968ABAC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And the second group?"
+    },
+    {
+     "id": "67299768-B026-568F-AE65-7783E09481AC",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "Breeding. Some animals naturally produce less methane than others, and that seems to be partly inherited. So in theory, farmers could select bulls whose daughters produce less. The advantage is that the change is permanent and cumulative. The disadvantage is that it's slow; it would take many generations to make a big difference."
+    },
+    {
+     "id": "7376741F-182A-560F-9D2C-8C5667EF1170",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "And the third is improving efficiency in general. If cows are healthier and produce more milk each, you need fewer cows to produce the same amount of milk, so total emissions fall even if each cow produces the same amount of methane."
+    },
+    {
+     "id": "7C89DFDC-C76D-51ED-8000-C9082D558D3D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important point. Which approach do you think is most promising?"
+    },
+    {
+     "id": "1C603629-8CDA-55FD-8AB1-BEE960577398",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "Honestly, I think efficiency is the most realistic in the short term, because farmers already have reasons to do it. It saves them money."
+    },
+    {
+     "id": "BFD90536-3C10-5BEE-BDDB-9C201368C6C9",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "I'm more interested in the additives. If the cost comes down, they could be added to feed on almost any farm without changing anything else."
+    },
+    {
+     "id": "4693CB1D-DDBA-5311-A7F4-D0E9992EF0E7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Have you thought about how the different approaches might be combined?"
+    },
+    {
+     "id": "74A2BB52-BDB8-5A1F-B775-770BF6E29E83",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "Not yet, but that's a good idea. A farmer could improve efficiency now, use additives when they become cheaper, and choose low-methane bulls at the same time. The effects might add up."
+    },
+    {
+     "id": "BC2D6601-FC5C-58BC-BC87-8BC36B076CB5",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "Though we'd need to check whether anyone has actually measured the combined effect. It might not simply add up."
+    },
+    {
+     "id": "E7A784C3-A799-5D73-902D-A2B93B7BCA53",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "It sounds like you'll have plenty to discuss. Now, for the primary research part, what were you planning?"
+    },
+    {
+     "id": "946519FE-1135-583A-8547-B067F4E7344C",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "We wanted to interview farmers. My family know a lot of farmers locally, so getting people to talk to us shouldn't be difficult."
+    },
+    {
+     "id": "F6F395A1-FDE8-527D-B897-4F5473985E4F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's useful, but be careful. If all your interviewees are friends of your family, they may not be typical. Try to include a range: different sizes of farm, organic and conventional, perhaps some beef as well as dairy."
+    },
+    {
+     "id": "7491E50C-7FC2-54DC-9A3E-ADFA8D9449B6",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We could also send a short online questionnaire through the farmers' union. That would reach more people."
+    },
+    {
+     "id": "069141DF-EC35-55DC-8479-D5C5DFEFACB1",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good idea. The interviews will give you depth, and the questionnaire will give you numbers. What would you ask?"
+    },
+    {
+     "id": "ACCA9FBC-26A1-5059-9B11-C8E5E90CB8B6",
+     "speaker": "Nadia",
+     "accent": "en-GB",
+     "text": "Mainly whether they'd be willing to use additives, and what would stop them. My guess is cost."
+    },
+    {
+     "id": "7A85008D-EFB3-5715-A906-899EFD9BBFE8",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Perhaps. But don't assume. Ask an open question first, before you suggest any answers. Farmers may surprise you; some may be more worried about whether the milk will taste different, or about what supermarkets will say."
+    },
+    {
+     "id": "337F7770-0D63-5767-8619-76329710A251",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "That's a good point. We'll pilot the questions with two farmers first and see what comes up."
+    },
+    {
+     "id": "ADE1512D-1868-55C3-9138-A2E7F70F06A0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. Send me your interview questions by Friday and we'll go through them."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice02-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did Nadia want to study this topic?",
+     "explanation": "Her family background on a dairy farm interests her.",
+     "evidenceQuote": "I grew up on a dairy farm",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. because of her family background",
+      "B. because her tutor suggested it",
+      "C. because it had received little research"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. because of her family background",
+      "because of her family background"
+     ]
+    },
+    {
+     "id": "practice02-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Ben, most methane from cattle",
+     "explanation": "About 90 per cent is breathed out or belched.",
+     "evidenceQuote": "about ninety per cent is breathed out or belched",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Most people think it comes from the back end.",
+     "options": [
+      "A. is produced by bacteria in the soil.",
+      "B. comes from manure.",
+      "C. leaves through the animal's mouth."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. leaves through the animal's mouth.",
+      "leaves through the animal's mouth."
+     ]
+    },
+    {
+     "id": "practice02-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What is a problem with the red seaweed?",
+     "explanation": "It is hard to grow at scale and long-term effects are unclear.",
+     "evidenceQuote": "it's difficult to grow in large quantities",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is not effective in trials.",
+      "B. It is hard to produce in large amounts.",
+      "C. It has been banned in some countries."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It is hard to produce in large amounts.",
+      "It is hard to produce in large amounts."
+     ]
+    },
+    {
+     "id": "practice02-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What is the main disadvantage of breeding for lower methane?",
+     "explanation": "Breeding takes many generations.",
+     "evidenceQuote": "it's slow; it would take many generations",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The effect is temporary.",
+      "B. It is very expensive for farmers.",
+      "C. Results take a long time to appear."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Results take a long time to appear.",
+      "Results take a long time to appear."
+     ]
+    },
+    {
+     "id": "practice02-L25",
+     "number": 25,
+     "format": "Matching",
+     "prompt": "Nadia's view of the most promising approach",
+     "explanation": "Nadia favours efficiency because it already saves farmers money.",
+     "evidenceQuote": "I think efficiency is the most realistic in the short term",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. already benefits farmers financially",
+      "already benefits farmers financially"
+     ]
+    },
+    {
+     "id": "practice02-L26",
+     "number": 26,
+     "format": "Matching",
+     "prompt": "Ben's view of the most promising approach",
+     "explanation": "Ben favours feed additives if costs fall.",
+     "evidenceQuote": "I'm more interested in the additives",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. could be used widely if cheaper",
+      "could be used widely if cheaper"
+     ]
+    },
+    {
+     "id": "practice02-L27",
+     "number": 27,
+     "format": "Matching",
+     "prompt": "The tutor's concern about interviewing family friends",
+     "explanation": "The sample may not be representative.",
+     "evidenceQuote": "they may not be typical",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. the sample may be unrepresentative",
+      "the sample may be unrepresentative"
+     ]
+    },
+    {
+     "id": "practice02-L28",
+     "number": 28,
+     "format": "Matching",
+     "prompt": "The purpose of the online questionnaire",
+     "explanation": "The questionnaire reaches more farmers and provides numbers.",
+     "evidenceQuote": "That would reach more people.",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to collect responses from a larger group",
+      "to collect responses from a larger group"
+     ]
+    },
+    {
+     "id": "practice02-L29",
+     "number": 29,
+     "format": "Matching",
+     "prompt": "The tutor's advice on question order",
+     "explanation": "Open questions should come first.",
+     "evidenceQuote": "Ask an open question first, before you suggest any answers",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. avoid suggesting answers too early",
+      "avoid suggesting answers too early"
+     ]
+    },
+    {
+     "id": "practice02-L30",
+     "number": 30,
+     "format": "Matching",
+     "prompt": "What the students will do before the main interviews",
+     "explanation": "They will pilot the questions with two farmers.",
+     "evidenceQuote": "We'll pilot the questions with two farmers first",
+     "skillTag": "matching_opinions",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. test the questions on a small group",
+      "test the questions on a small group"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "methane",
+    "rumen",
+    "feed additive",
+    "trial",
+    "emissions"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 24,
+     "instruction": "Questions 21–24. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 25,
+     "to": 30,
+     "instruction": "Questions 25–30. What does each speaker say? Write the correct letter, A–G, next to Questions 25–30.",
+     "options": [
+      "A. to collect responses from a larger group",
+      "B. could be used widely if cheaper",
+      "C. should be avoided completely",
+      "D. avoid suggesting answers too early",
+      "E. already benefits farmers financially",
+      "F. test the questions on a small group",
+      "G. the sample may be unrepresentative"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice02-lp4",
+   "partNumber": 4,
+   "title": "The domestication of animals",
+   "contextDescription": "A lecture in an archaeology and animal science course.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "C7288898-E953-5168-A257-4E1DD52DE2F9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In today's lecture, I want to look at one of the most important developments in human history: the domestication of animals. Almost all the meat, milk, wool and leather people use today comes from a handful of species that were domesticated thousands of years ago. So, I'll consider when and where this happened, how it may have happened, and why so few species were ever domesticated."
+    },
+    {
+     "id": "FBACDC47-3363-5002-870E-4BB26C1FD3C2",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let's begin with the dog, which was the first animal to be domesticated, long before any farm animal. Dogs descend from a population of wolves, and genetic evidence suggests that domestication began at least fifteen thousand years ago, possibly much earlier, when humans were still hunters and gatherers. One popular theory is that some wolves began following human groups to feed on leftovers, and that the less fearful animals gradually became tamer over many generations. In other words, the wolves may have domesticated themselves to some extent."
+    },
+    {
+     "id": "4A5C7B7D-8BD3-5634-A9F3-2B9ECD6BBBF9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The main farm animals came later, after the beginning of agriculture. Sheep and goats were domesticated around eleven thousand years ago in the region known as the Fertile Crescent, which stretches from what is now Iraq through Syria to Turkey. Cattle followed soon after, from a large wild animal called the aurochs, which was much bigger and more aggressive than modern cattle. The aurochs survived in the forests of Europe until 1627, when the last known animal died in Poland. Pigs were domesticated separately in at least two regions: the Middle East and China."
+    },
+    {
+     "id": "1B40367A-6B33-5907-A7C9-7CF06F1C3074",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "How do we know all this? Traditionally, archaeologists relied on bones found at ancient settlements. Domestic animals tend to be smaller than their wild ancestors, so a reduction in the size of bones over time is one sign of domestication. Another clue is age. When people hunt wild animals, they kill animals of all ages, but herders tend to slaughter mainly young males and keep females for breeding. So if most of the bones at a site come from young males, it suggests the animals were being managed. More recently, analysis of ancient DNA has transformed the field, allowing researchers to trace the movement of domestic animals as farming spread."
+    },
+    {
+     "id": "382C535B-D47D-52EA-BDC8-52E9FAAEBB83",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So why were so few species domesticated? Of the roughly one hundred and fifty large plant-eating mammals in the world, only fourteen were domesticated before the twentieth century. The geographer Jared Diamond argued that a species needs several characteristics to be a good candidate. It must be able to live on food that humans can easily provide, such as grass. It must grow quickly and breed easily in captivity; animals like elephants take too long to reach adulthood. It must not be too aggressive or too nervous; zebras, for example, are notoriously bad-tempered and difficult to handle, and gazelles tend to panic in enclosures and injure themselves. And finally, it helps if the animal lives naturally in herds with a clear social hierarchy, because then humans can take the place of the leader."
+    },
+    {
+     "id": "8236A364-D0E6-5D71-B2E7-6398544E332C",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Domestication changed the animals in many ways. Over centuries of selective breeding, farmers chose animals with desirable traits, so that modern sheep produce far more wool than wild sheep, and modern dairy cows produce many times as much milk as their ancestors. Interestingly, domestic animals of very different species share certain features, such as floppy ears, patches of white in their coat, and smaller brains relative to body size. Scientists call this the domestication syndrome, and one theory is that selecting animals for tameness accidentally affected other traits at the same time."
+    },
+    {
+     "id": "CDEE8825-7234-5585-8942-CBD33E47B62B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Domestication changed humans too. Living close to animals exposed people to new diseases, many of which, such as measles, probably originated in livestock. And in populations that relied heavily on dairy farming, adults gradually developed the ability to digest milk, something most mammals lose after infancy. Next week, we'll look at how modern genetics is changing livestock breeding today."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice02-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Dogs: domesticated from __________ at least 15,000 years ago",
+     "explanation": "Dogs descend from wolves.",
+     "evidenceQuote": "Dogs descend from a population of wolves",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wolves"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Theory: wolves followed humans to eat __________",
+     "explanation": "Wolves fed on human leftovers.",
+     "evidenceQuote": "began following human groups to feed on leftovers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "leftovers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Cattle came from the aurochs, which was bigger and more __________",
+     "explanation": "The aurochs was larger and more aggressive.",
+     "evidenceQuote": "much bigger and more aggressive than modern cattle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aggressive"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The last aurochs died in __________ in 1627",
+     "explanation": "The last aurochs died in Poland.",
+     "evidenceQuote": "when the last known animal died in Poland",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Poland"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Evidence: domestic animals have smaller __________",
+     "explanation": "Smaller bones indicate domestication.",
+     "evidenceQuote": "a reduction in the size of bones over time",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Herders mostly killed young __________",
+     "explanation": "Herders killed young males and kept females.",
+     "evidenceQuote": "herders tend to slaughter mainly young males",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "males"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Unsuitable species: zebras are bad-tempered; gazelles tend to __________",
+     "explanation": "Gazelles panic and injure themselves.",
+     "evidenceQuote": "gazelles tend to panic in enclosures",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "panic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Good candidates live in herds with a clear social __________",
+     "explanation": "A social hierarchy lets humans take the leader's place.",
+     "evidenceQuote": "lives naturally in herds with a clear social hierarchy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hierarchy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Domestication syndrome: floppy ears, white patches, smaller __________",
+     "explanation": "Domestic animals have smaller brains relative to body size.",
+     "evidenceQuote": "smaller brains relative to body size",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "brains"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Diseases such as __________ probably came from livestock",
+     "explanation": "Measles probably originated in livestock.",
+     "evidenceQuote": "such as measles, probably originated in livestock",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "measles"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "domestication",
+    "wild ancestor",
+    "selective breeding",
+    "livestock",
+    "DNA"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice02-rp1",
+   "passageNumber": 1,
+   "title": "The humble potato",
+   "discipline": "Agricultural History",
+   "paragraphs": [
+    "Today the potato is the world's most important food crop after rice, wheat and maize, grown in more than one hundred and fifty countries and eaten in almost every cuisine. Yet five hundred years ago it was unknown outside South America. The potato was first domesticated in the Andes mountains, around Lake Titicaca on the border of present-day Peru and Bolivia, perhaps seven or eight thousand years ago. Andean farmers developed thousands of varieties, adapted to different altitudes and soils, in a remarkable range of shapes and colours, from tiny purple tubers to long yellow ones. Many of these traditional varieties are still grown in Andean villages today, where a single farmer may cultivate dozens of types in one field, partly as a precaution against pests and bad weather.",
+    "Potatoes were well suited to the harsh conditions of the high Andes, where few other crops could grow. Andean peoples also developed an ingenious way of preserving them. Potatoes were left outside to freeze overnight in the cold mountain air and then trampled to squeeze out the water, before being dried in the sun. The result, known as chuño, could be stored for years without spoiling and provided a vital reserve of food in times of poor harvests. The Inca state, which controlled much of the Andes in the fifteenth century, kept large stores of chuño to feed its armies and workers.",
+    "Spanish invaders reached the Andes in the 1530s, and potatoes probably arrived in Europe some time in the 1570s. At first, Europeans were suspicious of the new food. The potato belongs to the same plant family as the poisonous nightshade, and its leaves and green parts are indeed toxic. Some people believed that potatoes caused disease, while others objected that they were not mentioned in the Bible. For many decades, they were grown mainly as a curiosity in botanical gardens or as food for animals and the poor. Their unfamiliar appearance did not help: unlike grain, which had been the basis of European diets for thousands of years, potatoes grew hidden underground, and some farmers were unsure how to plant or store them.",
+    "Attitudes gradually changed, partly as a result of deliberate promotion by governments. In Prussia, King Frederick the Great ordered his subjects to plant potatoes in the 1750s, recognising that they could help prevent famine. In France, the scientist Antoine-Augustin Parmentier, who had eaten potatoes as a prisoner of war, campaigned tirelessly to persuade his countrymen of their value. According to a popular story, he had a field of potatoes guarded by soldiers during the day, but left unguarded at night, so that local people would assume the crop was valuable and steal it.",
+    "By the nineteenth century, the potato had become a staple food across much of northern Europe. Its advantages were considerable. An acre of potatoes could feed far more people than an acre of wheat, and potatoes grew well in cool, wet climates and poor soils. Some historians argue that the spread of the potato was one of the main reasons for the rapid growth of Europe's population in the eighteenth and nineteenth centuries, which in turn provided workers for the expanding industrial cities.",
+    "However, heavy dependence on a single crop brought great risks. In Ireland, a large part of the rural population relied on potatoes for almost all of their food, and most farmers grew just one or two varieties. When a disease known as potato blight arrived in 1845, it destroyed crops across the country for several years in succession. The resulting famine killed around a million people, and a similar number emigrated, mainly to North America. The disaster was made far worse by government policies, but its scale also reflected the lack of genetic diversity in the potatoes being grown.",
+    "Today, scientists are once again looking to the Andes. The International Potato Centre in Lima, Peru, maintains a collection of more than four thousand varieties, including many wild relatives of the cultivated potato. These plants carry genes for resistance to disease, drought and extreme temperatures that may prove essential as farmers adapt to a changing climate. The lesson of the Irish famine, that diversity is a form of insurance, has never been more relevant."
+   ],
+   "questions": [
+    {
+     "id": "practice02-R1",
+     "number": 1,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph A, Andean farmers",
+     "explanation": "They developed thousands of varieties.",
+     "evidenceQuote": "Andean farmers developed thousands of varieties",
+     "skillTag": "detail",
+     "options": [
+      "A. grew potatoes only at low altitudes.",
+      "B. introduced the potato from another region.",
+      "C. produced a great many different varieties.",
+      "D. grew mainly purple potatoes."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. produced a great many different varieties.",
+      "produced a great many different varieties."
+     ]
+    },
+    {
+     "id": "practice02-R2",
+     "number": 2,
+     "format": "Multiple Choice",
+     "prompt": "What was the main advantage of chuño?",
+     "explanation": "Chuño could be stored for years.",
+     "evidenceQuote": "could be stored for years without spoiling",
+     "skillTag": "detail",
+     "options": [
+      "A. It tasted better than fresh potatoes.",
+      "B. It could be kept for a long time.",
+      "C. It was easy to grow in the mountains.",
+      "D. It was eaten only by soldiers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It could be kept for a long time.",
+      "It could be kept for a long time."
+     ]
+    },
+    {
+     "id": "practice02-R3",
+     "number": 3,
+     "format": "Multiple Choice",
+     "prompt": "Why were some Europeans suspicious of potatoes at first?",
+     "explanation": "Some believed they caused disease or objected on religious grounds.",
+     "evidenceQuote": "Some people believed that potatoes caused disease",
+     "skillTag": "detail",
+     "options": [
+      "A. They were expensive to grow.",
+      "B. They did not grow well in Europe.",
+      "C. They were associated with Spain.",
+      "D. They were thought to be harmful."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They were thought to be harmful.",
+      "They were thought to be harmful."
+     ]
+    },
+    {
+     "id": "practice02-R4",
+     "number": 4,
+     "format": "Multiple Choice",
+     "prompt": "The story about Parmentier's field suggests that he",
+     "explanation": "He made people think the crop was valuable.",
+     "evidenceQuote": "so that local people would assume the crop was valuable and steal it",
+     "skillTag": "inference",
+     "options": [
+      "A. used a trick to make potatoes seem desirable.",
+      "B. wanted to keep potatoes for himself.",
+      "C. did not trust the local people.",
+      "D. was punished for growing potatoes."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. used a trick to make potatoes seem desirable.",
+      "used a trick to make potatoes seem desirable."
+     ]
+    },
+    {
+     "id": "practice02-R5",
+     "number": 5,
+     "format": "Multiple Choice",
+     "prompt": "What point does the writer make in the final paragraph?",
+     "explanation": "Genetic diversity protects against future threats.",
+     "evidenceQuote": "diversity is a form of insurance",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Potatoes should only be grown in the Andes.",
+      "B. The Irish famine could not have been prevented.",
+      "C. Variety among crops protects against future problems.",
+      "D. Wild potatoes are better to eat than cultivated ones."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Variety among crops protects against future problems.",
+      "Variety among crops protects against future problems."
+     ]
+    },
+    {
+     "id": "practice02-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The potato is the most important food crop in the world.",
+     "explanation": "It ranks after rice, wheat and maize.",
+     "evidenceQuote": "the world's most important food crop after rice, wheat and maize",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice02-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The Inca state stored chuño to feed workers.",
+     "explanation": "The Incas stored chuño for armies and workers.",
+     "evidenceQuote": "kept large stores of chuño to feed its armies and workers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice02-R8",
+     "number": 8,
+     "format": "True / False / Not Given",
+     "prompt": "The potato plant is entirely safe to eat.",
+     "explanation": "The leaves and green parts are toxic.",
+     "evidenceQuote": "its leaves and green parts are indeed toxic",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice02-R9",
+     "number": 9,
+     "format": "True / False / Not Given",
+     "prompt": "Frederick the Great personally grew potatoes in his own gardens.",
+     "explanation": "He ordered subjects to plant them; nothing is said about his own garden.",
+     "evidenceQuote": "ordered his subjects to plant potatoes in the 1750s",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice02-R10",
+     "number": 10,
+     "format": "True / False / Not Given",
+     "prompt": "Parmentier first ate potatoes while he was a prisoner of war.",
+     "explanation": "He ate them as a prisoner, but the text does not say this was the first time.",
+     "evidenceQuote": "who had eaten potatoes as a prisoner of war",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice02-R11",
+     "number": 11,
+     "format": "True / False / Not Given",
+     "prompt": "Potatoes produce more food per acre than wheat.",
+     "explanation": "Potatoes feed more people per acre.",
+     "evidenceQuote": "An acre of potatoes could feed far more people than an acre of wheat",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice02-R12",
+     "number": 12,
+     "format": "True / False / Not Given",
+     "prompt": "Most Irish farmers grew a wide range of potato varieties before 1845.",
+     "explanation": "Most grew only one or two varieties.",
+     "evidenceQuote": "most farmers grew just one or two varieties",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice02-R13",
+     "number": 13,
+     "format": "True / False / Not Given",
+     "prompt": "The potato collection in Lima includes wild species.",
+     "explanation": "The collection includes wild relatives.",
+     "evidenceQuote": "including many wild relatives of the cultivated potato",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    }
+   ],
+   "estimatedWordCount": 703,
+   "groups": [
+    {
+     "from": 1,
+     "to": 5,
+     "instruction": "Questions 1–5. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 6,
+     "to": 13,
+     "instruction": "Questions 6–13. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    }
+   ]
+  },
+  {
+   "id": "practice02-rp2",
+   "passageNumber": 2,
+   "title": "Rethinking animal welfare on the farm",
+   "discipline": "Animal Science",
+   "paragraphs": [
+    "For much of the twentieth century, the welfare of farm animals was judged mainly by their physical health and productivity. A cow that produced plenty of milk, or a hen that laid regularly, was assumed to be well looked after. This view was challenged in 1964 by the publication of Animal Machines, a book by the British writer Ruth Harrison, which described the conditions in the new intensive farming systems that were spreading rapidly after the Second World War. Harrison's account of calves kept in narrow crates and hens confined in small cages caused widespread public concern.",
+    "In response, the British government set up a committee of experts, led by the zoologist Roger Brambell, to investigate. Its report, published in 1965, argued that animals should at least have the freedom to turn around, groom themselves, get up, lie down and stretch their limbs. These ideas were later developed into what became known as the Five Freedoms: freedom from hunger and thirst; from discomfort; from pain, injury and disease; from fear and distress; and the freedom to express normal behaviour. The Five Freedoms have since been adopted as the basis for animal welfare law and farm assurance schemes in many countries.",
+    "In recent decades, however, many animal welfare scientists have argued that the Five Freedoms do not go far enough. Their central criticism is that the framework focuses almost entirely on preventing negative experiences. An animal might be free from hunger, pain and fear, yet still live a dull and unrewarding life. Researchers such as David Mellor in New Zealand have proposed an alternative approach, the Five Domains model, which considers nutrition, environment, health and behaviour, and then asks how these affect the animal's mental state. Crucially, it encourages farmers to provide opportunities for positive experiences, such as play, exploration and comfort.",
+    "But how can we know what an animal is experiencing? Scientists have developed a number of methods. One is to measure physical indicators of stress, such as heart rate or levels of hormones in the blood. Another is to observe behaviour: animals in poor conditions often show repetitive movements with no obvious purpose, such as pacing or chewing the bars of a pen. A third approach is to offer animals choices and measure how hard they are willing to work for something. In one series of experiments, hens were required to push through increasingly heavy doors to reach different resources. They worked hard to reach a secluded nest box before laying an egg, suggesting that nesting is something they strongly need.",
+    "Positive emotions are harder to measure, but progress is being made. Calves and young pigs play more when they are healthy and comfortable, and play tends to disappear when conditions are poor, so it may serve as a useful sign of good welfare. Some researchers have also used what is called qualitative behaviour assessment, in which trained observers describe the overall body language of a group of animals using terms such as 'relaxed', 'curious' or 'agitated'. Although this may sound subjective, studies have found that different observers tend to agree closely.",
+    "Improving welfare can have practical benefits for farmers as well as animals. Stress and disease reduce growth and milk yield, and animals that are calm are easier and safer to handle. On the other hand, some higher-welfare systems require more space or labour, which raises costs, and consumers do not always choose to pay more for the resulting products. Surveys regularly find that most shoppers say they care about animal welfare, but sales of higher-welfare products remain well below what those surveys would suggest.",
+    "This gap between what people say and what they buy has led some experts to argue that welfare cannot be left to consumer choice alone. They call for clearer labelling, so that shoppers can understand the conditions in which animals were kept, and for minimum legal standards that apply to all producers. Others warn that if standards in one country rise too far above those elsewhere, production may simply move abroad, with no overall benefit for animals. What is clear is that the scientific understanding of animal minds has advanced considerably since Ruth Harrison's book, and that this understanding is changing the questions that farmers, consumers and governments must answer."
+   ],
+   "questions": [
+    {
+     "id": "practice02-R14",
+     "number": 14,
+     "format": "Matching Features",
+     "prompt": "described conditions in new intensive farming systems",
+     "explanation": "Harrison described intensive farming conditions.",
+     "evidenceQuote": "which described the conditions in the new intensive farming systems",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Ruth Harrison",
+      "Ruth Harrison"
+     ]
+    },
+    {
+     "id": "practice02-R15",
+     "number": 15,
+     "format": "Matching Features",
+     "prompt": "recommended that animals be able to perform basic movements",
+     "explanation": "The Brambell committee recommended basic freedoms of movement.",
+     "evidenceQuote": "animals should at least have the freedom to turn around, groom themselves, get up, lie down and stretch their limbs",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the Brambell committee",
+      "the Brambell committee"
+     ]
+    },
+    {
+     "id": "practice02-R16",
+     "number": 16,
+     "format": "Matching Features",
+     "prompt": "proposed a model that includes positive experiences",
+     "explanation": "Mellor's Five Domains model includes positive experiences.",
+     "evidenceQuote": "it encourages farmers to provide opportunities for positive experiences",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. David Mellor",
+      "David Mellor"
+     ]
+    },
+    {
+     "id": "practice02-R17",
+     "number": 17,
+     "format": "Matching Features",
+     "prompt": "often state their concern for animals without acting on it",
+     "explanation": "Consumers say they care but buy less.",
+     "evidenceQuote": "most shoppers say they care about animal welfare, but sales of higher-welfare products remain well below",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. consumers",
+      "consumers"
+     ]
+    },
+    {
+     "id": "practice02-R18",
+     "number": 18,
+     "format": "Matching Features",
+     "prompt": "caused public anxiety about farm animals",
+     "explanation": "Harrison's book caused public concern.",
+     "evidenceQuote": "caused widespread public concern",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Ruth Harrison",
+      "Ruth Harrison"
+     ]
+    },
+    {
+     "id": "practice02-R19",
+     "number": 19,
+     "format": "Matching Features",
+     "prompt": "focused on the mental state of animals",
+     "explanation": "The Five Domains model focuses on mental state.",
+     "evidenceQuote": "asks how these affect the animal's mental state",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. David Mellor",
+      "David Mellor"
+     ]
+    },
+    {
+     "id": "practice02-R20",
+     "number": 20,
+     "format": "Summary Completion",
+     "prompt": "Scientists can measure stress through heart rate or levels of __________.",
+     "explanation": "Hormone levels indicate stress.",
+     "evidenceQuote": "levels of hormones in the blood",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hormones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R21",
+     "number": 21,
+     "format": "Summary Completion",
+     "prompt": "Animals in poor conditions may show __________ movements, such as pacing.",
+     "explanation": "Repetitive movements indicate poor welfare.",
+     "evidenceQuote": "animals in poor conditions often show repetitive movements",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "repetitive"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R22",
+     "number": 22,
+     "format": "Summary Completion",
+     "prompt": "Hens pushed heavy doors to reach a secluded nest __________.",
+     "explanation": "Hens worked to reach a nest box.",
+     "evidenceQuote": "to reach a secluded nest box",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "box"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "Young animals tend to __________ more when they are healthy.",
+     "explanation": "Play increases when animals are healthy.",
+     "evidenceQuote": "Calves and young pigs play more when they are healthy and comfortable",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "play"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "In qualitative behaviour assessment, observers describe animals' body __________.",
+     "explanation": "Observers describe body language.",
+     "evidenceQuote": "describe the overall body language of a group of animals",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "language"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "Calm animals are easier and __________ to handle.",
+     "explanation": "Calm animals are easier and safer.",
+     "evidenceQuote": "animals that are calm are easier and safer to handle",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "safer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice02-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "Some experts want clearer __________ so shoppers understand how animals were kept.",
+     "explanation": "Clearer labelling is called for.",
+     "evidenceQuote": "They call for clearer labelling",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "labelling"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 707,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Look at the following statements and the list of people below. Match each statement with the correct person or group, A–D.",
+     "options": [
+      "A. Ruth Harrison",
+      "B. the Brambell committee",
+      "C. David Mellor",
+      "D. consumers"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 26,
+     "instruction": "Questions 20–26. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice02-rp3",
+   "passageNumber": 3,
+   "title": "Can vertical farms feed the cities?",
+   "discipline": "Agricultural Technology",
+   "paragraphs": [
+    "In a converted warehouse on the edge of a European city, lettuces are growing in trays stacked twelve layers high, lit by rows of pink-tinged LED lamps. There is no soil and no sunlight; the plants' roots hang in a nutrient solution that is pumped through the system and recycled, and the temperature, humidity and carbon dioxide levels are controlled by computer. Supporters of this kind of vertical farming describe it as the future of agriculture. Sceptics regard it as an expensive way of growing salad, and point to a string of companies that have failed after promising to transform the food system. The truth, I would argue, lies somewhere between these positions.",
+    "The case for vertical farming begins with land. The world's population is expected to approach ten billion by the middle of the century, and much of the land best suited to agriculture is already in use. By growing upwards rather than outwards, a vertical farm can produce many times as much food per square metre as a field. Because the environment is controlled, crops can be grown all year round, regardless of the weather, and harvests are highly predictable. Vertical farms use no pesticides, since insects and diseases can largely be kept out, and they use up to ninety-five per cent less water than conventional farms, because water is recycled rather than lost to evaporation and drainage.",
+    "Location is another advantage. Vertical farms can be built in or close to cities, where most consumers live. This reduces the distance that food must travel, and allows produce to reach shops within hours of harvest, when it is at its freshest. In places with very limited farmland or extreme climates, such as Singapore or the Gulf states, which currently import most of their fresh vegetables, local vertical farms could make food supplies more secure.",
+    "The central problem is energy. In a field, sunlight is free. In a vertical farm, every unit of light has to be supplied by electricity, and lighting typically accounts for the largest share of running costs. Although LED lamps have become far more efficient, a vertical farm still uses vastly more energy per kilogram of produce than a greenhouse, let alone a field. If that electricity comes from fossil fuels, the environmental benefits of using less land and water may be cancelled out by higher carbon emissions. The rise in energy prices in Europe after 2021 forced several high-profile vertical farming companies to close or reduce their operations, despite having attracted hundreds of millions of dollars from investors.",
+    "Energy costs also limit what can sensibly be grown. Leafy greens such as lettuce, herbs and spinach are well suited to vertical farms: they grow quickly, are mostly water, and have a high value relative to their weight. Staple crops are a different matter. A field of wheat requires enormous amounts of light energy, and one calculation suggested that producing a loaf of bread in a vertical farm would cost many times its normal price in electricity alone. For the foreseeable future, it seems very unlikely that vertical farms will grow the cereals, beans and potatoes that provide most of the world's calories.",
+    "This does not mean that the technology is unimportant. Research in vertical farms has greatly improved our understanding of how plants respond to light of different colours, and some of this knowledge is already being applied in conventional greenhouses. Vertical farms may also have a valuable role in producing young plants for transplanting into fields, which gives farmers a head start in the growing season, and in growing high-value crops such as medicinal plants, or plants for research, where precise control of growing conditions is more important than cost. And as renewable electricity becomes cheaper and more widely available, the economics of vertical farming may improve.",
+    "Perhaps the most sensible conclusion is that vertical farms should be seen as one tool among many rather than a replacement for traditional agriculture. Feeding a growing population will depend far more on reducing food waste, improving yields on existing farmland and protecting soils than on stacking lettuces in warehouses. Nevertheless, in the right places and for the right crops, vertical farming could make a modest but useful contribution to a more resilient food system."
+   ],
+   "questions": [
+    {
+     "id": "practice02-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Both supporters and critics of vertical farming are partly correct.",
+     "explanation": "The writer places the truth between the two positions.",
+     "evidenceQuote": "The truth, I would argue, lies somewhere between these positions.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice02-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Vertical farms need more pesticides than conventional farms.",
+     "explanation": "They use no pesticides.",
+     "evidenceQuote": "Vertical farms use no pesticides",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice02-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Food from vertical farms tastes better than food from fields.",
+     "explanation": "Freshness is mentioned, but taste comparisons are not made.",
+     "evidenceQuote": "when it is at its freshest",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice02-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Investment alone was not enough to protect some vertical farming companies.",
+     "explanation": "Companies closed despite large investment.",
+     "evidenceQuote": "forced several high-profile vertical farming companies to close or reduce their operations, despite having attracted hundreds of millions of dollars from investors",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice02-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Vertical farms are likely to grow most of the world's staple foods in future.",
+     "explanation": "The writer thinks this very unlikely.",
+     "evidenceQuote": "it seems very unlikely that vertical farms will grow the cereals, beans and potatoes",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice02-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Reducing food waste is more important than developing vertical farms.",
+     "explanation": "The writer ranks reducing waste higher.",
+     "evidenceQuote": "Feeding a growing population will depend far more on reducing food waste",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice02-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph B, vertical farms use less water because",
+     "explanation": "Water is recycled.",
+     "evidenceQuote": "because water is recycled rather than lost to evaporation and drainage",
+     "skillTag": "detail",
+     "options": [
+      "A. they grow plants that need little water.",
+      "B. water is reused rather than lost.",
+      "C. they are located in wet climates.",
+      "D. plants are watered less often."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. water is reused rather than lost.",
+      "water is reused rather than lost."
+     ]
+    },
+    {
+     "id": "practice02-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer mention Singapore and the Gulf states?",
+     "explanation": "They show where local vertical farms could improve food security.",
+     "evidenceQuote": "could make food supplies more secure",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. to show where vertical farms have failed",
+      "B. to compare energy prices in different regions",
+      "C. to give examples of large farming nations",
+      "D. to show where vertical farms could improve food security"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. to show where vertical farms could improve food security",
+      "to show where vertical farms could improve food security"
+     ]
+    },
+    {
+     "id": "practice02-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What is the main disadvantage of vertical farms according to paragraph D?",
+     "explanation": "Energy for lighting is the central problem.",
+     "evidenceQuote": "The central problem is energy.",
+     "skillTag": "main_idea",
+     "options": [
+      "A. the energy needed for lighting",
+      "B. the cost of LED lamps",
+      "C. the difficulty of finding workers",
+      "D. the risk of plant diseases"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the energy needed for lighting",
+      "the energy needed for lighting"
+     ]
+    },
+    {
+     "id": "practice02-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "Why are leafy greens suitable for vertical farms?",
+     "explanation": "They grow fast and are valuable for their weight.",
+     "evidenceQuote": "they grow quickly, are mostly water, and have a high value relative to their weight",
+     "skillTag": "detail",
+     "options": [
+      "A. They need no light.",
+      "B. They are the most popular vegetables.",
+      "C. They grow fast and are valuable for their weight.",
+      "D. They are easy to transport long distances."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They grow fast and are valuable for their weight.",
+      "They grow fast and are valuable for their weight."
+     ]
+    },
+    {
+     "id": "practice02-R37",
+     "number": 37,
+     "format": "Sentence Completion",
+     "prompt": "In a vertical farm, plant roots hang in a __________.",
+     "explanation": "Roots hang in a nutrient solution.",
+     "evidenceQuote": "the plants' roots hang in a nutrient solution",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nutrient solution"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice02-R38",
+     "number": 38,
+     "format": "Sentence Completion",
+     "prompt": "In vertical farms, __________ usually makes up the biggest part of running costs.",
+     "explanation": "Lighting is the largest running cost.",
+     "evidenceQuote": "lighting typically accounts for the largest share of running costs",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lighting"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice02-R39",
+     "number": 39,
+     "format": "Sentence Completion",
+     "prompt": "Knowledge about light colour is already used in conventional __________.",
+     "explanation": "It is applied in greenhouses.",
+     "evidenceQuote": "is already being applied in conventional greenhouses",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "greenhouses"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice02-R40",
+     "number": 40,
+     "format": "Sentence Completion",
+     "prompt": "Cheaper __________ could make vertical farming more economic.",
+     "explanation": "Cheaper renewable electricity may help.",
+     "evidenceQuote": "as renewable electricity becomes cheaper",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "renewable electricity"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 707,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice02-w1",
+  "title": "Milk production on a dairy farm",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how milk is produced and processed, from the farm to the supermarket. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Cows graze on pasture or are fed silage in winter",
+   "Cows are milked twice a day by machine",
+   "Milk is cooled to 4°C in a tank on the farm",
+   "A tanker collects the milk every two days",
+   "At the dairy, milk is tested for quality",
+   "Milk is pasteurised: heated to 72°C for 15 seconds",
+   "Cream is separated to produce skimmed or semi-skimmed milk",
+   "Milk is bottled, labelled and delivered to supermarkets"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, divided between the farm and the dairy.",
+   "The milk is cooled on the farm and heated at the dairy before being packaged."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice02-w2",
+  "title": "Eating less meat",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Food & Agriculture",
+  "promptText": "In some countries, people are being encouraged to eat less meat for health and environmental reasons. Why do you think this is happening? Should governments try to influence what people eat?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice02-spk",
+  "theme": "Food and the countryside",
+  "part1Questions": [
+   "Do you prefer living in the city or the countryside?",
+   "Have you ever visited a farm?",
+   "What food is your region famous for?",
+   "Do you know where most of your food comes from?",
+   "Do you like trying new kinds of food?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a traditional dish from your country.",
+   "bulletPoints": [
+    "what the dish is",
+    "how it is made",
+    "when people usually eat it",
+    "and explain why it is important in your culture"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people in cities often know little about farming?",
+   "Should children learn how food is produced at school?",
+   "How has the way people shop for food changed?",
+   "Do you think more people will become vegetarian in the future?",
+   "What can be done to support small farmers?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Agricultural and veterinary figures are simplified for practice and should not be used as technical guidance.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,2127 @@
+{
+ "id": "practice11",
+ "examNumber": 11,
+ "pool": "practice",
+ "title": "Practice Test 11: Architecture, Buildings & Materials",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Architecture, Buildings & Materials",
+ "listeningParts": [
+  {
+   "id": "practice11-lp1",
+   "partNumber": 1,
+   "title": "Booking an architecture walking tour",
+   "contextDescription": "A man phones a tourist information centre to book a walking tour of the city's buildings.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5AC22A81-F663-5E0E-981C-347A3AFBFD8D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Good afternoon, Westbridge Tourist Information, Priya speaking."
+    },
+    {
+     "id": "9CA1786C-76FE-5116-9232-EE7EAA332B9F",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hi. I'm visiting the city next week with my partner, and I heard you run walking tours about architecture. Could you give me some details?"
+    },
+    {
+     "id": "26925156-70AE-5999-AD16-147A174F95D0",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Of course. We have two architecture tours at the moment. The first is called Old Town Treasures. It looks at the medieval and Georgian buildings in the historic centre, including the cathedral, the old market hall and some of the merchants' houses along the river. It lasts about two hours."
+    },
+    {
+     "id": "227BF375-6982-545E-BC6E-83E9C5F72E6B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "And the second?"
+    },
+    {
+     "id": "68DCD22A-0501-5D38-8D52-277674C90678",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The second is Modern Westbridge, which focuses on buildings from the twentieth and twenty-first centuries. It includes the new concert hall, the library, which won an international design prize, and the old docks area, where warehouses have been turned into flats and offices. That one is slightly longer, about two and a half hours, and it finishes with a visit to the viewing platform on top of the Harbour Tower."
+    },
+    {
+     "id": "E224301E-BC0F-57CF-A1AA-A3B5B752E1EB",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "My partner's an engineer, so I think he'd prefer the modern tour."
+    },
+    {
+     "id": "6AE91269-F72F-5CA0-AA5E-E0B3E757DED1",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "It's very popular with engineers and architects. The guide, Martin, used to work as an architect himself, so he can answer quite technical questions."
+    },
+    {
+     "id": "7AFB8CB9-0B5E-5ADB-92CF-0EF090696F59",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Perfect. When does it run?"
+    },
+    {
+     "id": "AB7D038C-D0C7-5DEC-ACDF-8C751DD1C824",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Modern Westbridge runs on Tuesdays, Thursdays and Saturdays, starting at ten in the morning. Which day would suit you?"
+    },
+    {
+     "id": "2368FFDD-0BCD-503B-913C-FE2ACCC15720",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Thursday would be best."
+    },
+    {
+     "id": "116E0189-21D6-558C-A403-715850BD537F",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Let me check. Yes, there are places on Thursday. The tour costs fourteen pounds per person, or eleven for students and people over sixty-five. The price includes entry to the viewing platform, which normally costs six pounds on its own."
+    },
+    {
+     "id": "C1F2B0AA-C211-5E29-8F6F-20B57D1DFB7B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We're not students, so two full-price tickets, please. Where does the tour start?"
+    },
+    {
+     "id": "315E6234-AC6D-5930-AA8A-7DBA43BD5CEC",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "It starts outside the main entrance of the Central Library, on Queen's Square. Martin will be wearing a green jacket with our logo on the back. Please arrive ten minutes early, because the tour leaves on time."
+    },
+    {
+     "id": "2FF9C8D5-D0DA-5276-B719-488E7F955FF2",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Okay. Is there a lot of walking? My partner hurt his knee recently."
+    },
+    {
+     "id": "CE260071-1DD0-5400-AECF-25F3B397573A",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "It's about three kilometres altogether, mostly on flat ground, and there are several stops where you can sit down. There's a lift up the Harbour Tower, so you don't need to climb any stairs. Comfortable shoes are a good idea, though."
+    },
+    {
+     "id": "0BD23B7E-D4E6-5BED-A65A-41AC42B244C3",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That should be fine. What happens if it rains?"
+    },
+    {
+     "id": "1131FFD9-3C37-5AFE-A777-5ADF9C5E4680",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The tour goes ahead in all weather, except storms. Part of the route is indoors, in the library and the concert hall, but you'll still need a raincoat or an umbrella. If we have to cancel because of severe weather, we'll send you a text message by eight o'clock that morning and give you a full refund."
+    },
+    {
+     "id": "CC579DAC-F8C7-566E-AA93-407B8C0159BF",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Great. Can I take photos inside the buildings?"
+    },
+    {
+     "id": "767AEAAF-BEFB-5F19-BBB2-84A6E44B6D47",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Yes, in most places. The only exception is the concert hall, because there may be a rehearsal going on, and the musicians prefer not to be photographed."
+    },
+    {
+     "id": "CC721D5B-6525-5560-8BE1-6466BB647D70",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Understood. Shall I give you my details?"
+    },
+    {
+     "id": "B39F1C5F-2832-5AEA-8B35-9750E7581D2F",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Yes, please. What's your name?"
+    },
+    {
+     "id": "57531FCA-A046-5588-9575-1A0DA6CBDE06",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Nathan Brightwell. That's B-R-I-G-H-T-W-E-L-L."
+    },
+    {
+     "id": "3CC454EE-16AC-5114-9864-C8A885E0D087",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thank you. And a mobile number, for the text message if necessary?"
+    },
+    {
+     "id": "47344C53-E051-5B78-B981-DD1B97C87473",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "It's 07845 662 019."
+    },
+    {
+     "id": "37E257B2-8713-580C-A86C-1A97333D5C9E",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Lovely. Your booking reference is W, T, then four, eight, two, seven. You can pay by card now, or when you collect your tickets from this office."
+    },
+    {
+     "id": "6E58488B-308F-582D-8AAD-56195AC5A456",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Just so you know, we also have audio guides for both tours, if you ever want to do one on your own another day. They cost five pounds and are available in eight languages."
+    },
+    {
+     "id": "810E02AB-8F79-5969-8000-8F73CF516683",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Good to know. I'll pay now by card. And is there anywhere good to eat near the end of the tour?"
+    },
+    {
+     "id": "55CA1DF3-E1D7-595D-A811-48FCBA85375C",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The tour finishes in the docks area, and there are lots of cafés and restaurants there. Martin usually recommends the fish restaurant in the old customs house, which has a beautiful glass roof. It's worth booking a table if you want lunch there, as it gets busy."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice11-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Tour chosen: Modern Westbridge (finishes at the Harbour __________)",
+     "explanation": "It finishes at the Harbour Tower.",
+     "evidenceQuote": "the viewing platform on top of the Harbour Tower",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Tower"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Guide's previous job: __________",
+     "explanation": "Martin was an architect.",
+     "evidenceQuote": "used to work as an architect himself",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "architect"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Day: __________",
+     "explanation": "He chooses Thursday.",
+     "evidenceQuote": "Thursday would be best.",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Price per person: £__________",
+     "explanation": "It costs £14.",
+     "evidenceQuote": "The tour costs fourteen pounds per person",
+     "skillTag": "numbers",
+     "distractorNote": "£11 is the concession; £6 is the platform alone.",
+     "options": [],
+     "acceptedAnswers": [
+      "14",
+      "fourteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Tour starts: main entrance of the Central __________, Queen's Square",
+     "explanation": "They meet at the library.",
+     "evidenceQuote": "outside the main entrance of the Central Library",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Martin's clothing: green __________ with logo",
+     "explanation": "He wears a green jacket.",
+     "evidenceQuote": "wearing a green jacket with our logo",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "jacket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Total walking distance: about __________ km",
+     "explanation": "It is about three kilometres.",
+     "evidenceQuote": "It's about three kilometres altogether",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "No photos in the concert __________",
+     "explanation": "Photos are not allowed in the concert hall.",
+     "evidenceQuote": "The only exception is the concert hall",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "hall"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Brightwell.",
+     "evidenceQuote": "Nathan Brightwell. That's B-R-I-G-H-T-W-E-L-L.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Brightwell"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Recommended restaurant: in the old __________ house",
+     "explanation": "It is in the customs house.",
+     "evidenceQuote": "the fish restaurant in the old customs house",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "customs"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "guided tour",
+    "landmark",
+    "meeting point",
+    "concession",
+    "booking reference"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice11-lp2",
+   "partNumber": 2,
+   "title": "Opening a new public library",
+   "contextDescription": "The head librarian speaks at the opening of a new city library.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "D05534A0-8C71-591E-8C4F-A023CDF0D7C5",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "Good morning, everyone, and thank you all for coming to the official opening of the new Eastfield Library. My name is Dr Helen Park, and I'm the head librarian. Before we cut the ribbon, I'd like to tell you a little about the building and what it offers."
+    },
+    {
+     "id": "D571903C-7896-5B63-948A-D02B5906ABE4",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "The old library, as many of you will remember, was in a nineteenth-century building on Station Road. It was much loved, but it was too small, difficult for people with disabilities to use, and very expensive to heat. After a public consultation, in which more than four thousand residents took part, the council decided to build a new library here, on the site of the former bus depot."
+    },
+    {
+     "id": "386F273C-FEAC-53A9-85BD-ADF71CF2F803",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "The building was designed by the local firm Harper and Lowe, and one of their main aims was to make it feel open and welcoming. That's why the whole front of the building is made of glass, so that people passing by can see what's happening inside. When you go in, you'll find yourself in a large central atrium, which rises through all four floors, with a roof of glass panels that fills the building with natural light."
+    },
+    {
+     "id": "B4656A69-BD5A-5D7C-952C-F8BCD4A591DE",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "Sustainability was another priority. The building is heated and cooled using a ground source heat pump, which takes heat from deep underground in winter, and there are solar panels on the roof. Rainwater is collected and used to flush the toilets. As a result, the library uses around sixty per cent less energy than the old building, even though it's three times the size. The wooden panels you can see on the outside were made from trees grown in sustainably managed forests in Scotland."
+    },
+    {
+     "id": "93E81B0C-AC75-5617-9EE3-4263205F1C73",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "So what will you find on each floor? The ground floor has the café, the main information desk and a space for exhibitions. At the moment, there's an exhibition of photographs of the town over the last hundred years, which I highly recommend. The children's library is also on the ground floor, with its own garden, where we'll be holding storytelling sessions in the summer."
+    },
+    {
+     "id": "50623AE7-84A9-56B7-9A6F-E04CC59921EE",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "The first floor is for adult fiction and non-fiction, and there's also a quiet reading room overlooking the park. The second floor is mainly for study. There are over two hundred desks, as well as twelve study pods, which are small private rooms for one or two people. These can be booked for up to three hours at a time using the library app."
+    },
+    {
+     "id": "D5287E05-451B-550B-AE4E-327DE6F0B7CE",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "On the top floor, we have something completely new: a maker space. This is a workshop where anyone can come and learn practical and creative skills. There are 3D printers, a laser cutter, sewing machines and equipment for recording music and podcasts. To use the equipment, you'll first need to attend a free one-hour safety session, which runs every Saturday morning."
+    },
+    {
+     "id": "6FADF632-E481-5F7D-A764-AFD202C1C63E",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "We've also thought carefully about accessibility. There are lifts to every floor, the shelves are lower than in most libraries so that everyone can reach them, and there's a sensory room on the ground floor for children and adults who need a calm space. We've also introduced a home delivery service for residents who are unable to visit the library in person."
+    },
+    {
+     "id": "82DAE3F4-E448-5B21-B778-D6A46F74554C",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "Some practical information. The library is open from eight in the morning until eight in the evening on weekdays, and from nine until five at weekends. That's longer than the old library, which closed at six. Membership is, of course, free, and you can join at the information desk today with proof of your address. New members today will receive a free canvas bag."
+    },
+    {
+     "id": "639C5841-0ACF-59F4-A9FB-84B994D21C62",
+     "speaker": "Librarian",
+     "accent": "en-AU",
+     "text": "Finally, I'd like to thank everyone who made this possible: the architects, the builders, our staff, and particularly our team of volunteers, who spent the last three weeks moving over a hundred thousand books from the old building. Now, without further delay, I'd like to invite the mayor to come forward and officially open the library."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice11-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was one problem with the old library?",
+     "explanation": "It was expensive to heat.",
+     "evidenceQuote": "very expensive to heat",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was too far from the station.",
+      "B. It had too few books.",
+      "C. It cost a lot to heat."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It cost a lot to heat.",
+      "It cost a lot to heat."
+     ]
+    },
+    {
+     "id": "practice11-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why is the front of the building made of glass?",
+     "explanation": "So passers-by can see inside.",
+     "evidenceQuote": "so that people passing by can see what's happening inside",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. so people outside can see the activity inside",
+      "B. to reduce heating costs",
+      "C. to match the buildings nearby"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. so people outside can see the activity inside",
+      "so people outside can see the activity inside"
+     ]
+    },
+    {
+     "id": "practice11-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What is rainwater used for?",
+     "explanation": "It flushes the toilets.",
+     "evidenceQuote": "Rainwater is collected and used to flush the toilets.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. watering the garden",
+      "B. flushing toilets",
+      "C. cooling the building"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. flushing toilets",
+      "flushing toilets"
+     ]
+    },
+    {
+     "id": "practice11-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What must people do before using maker space equipment?",
+     "explanation": "They must attend a safety session.",
+     "evidenceQuote": "you'll first need to attend a free one-hour safety session",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pay a fee",
+      "B. book online",
+      "C. attend a safety session"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. attend a safety session",
+      "attend a safety session"
+     ]
+    },
+    {
+     "id": "practice11-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Who moved the books from the old library?",
+     "explanation": "Volunteers moved the books.",
+     "evidenceQuote": "our team of volunteers, who spent the last three weeks moving over a hundred thousand books",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. volunteers",
+      "B. the builders",
+      "C. a removal company"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. volunteers",
+      "volunteers"
+     ]
+    },
+    {
+     "id": "practice11-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "a photography exhibition",
+     "explanation": "The exhibition is on the ground floor.",
+     "evidenceQuote": "there's an exhibition of photographs of the town",
+     "skillTag": "matching",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. ground floor",
+      "ground floor"
+     ]
+    },
+    {
+     "id": "practice11-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "a quiet room with a view of the park",
+     "explanation": "This is on the first floor.",
+     "evidenceQuote": "a quiet reading room overlooking the park",
+     "skillTag": "matching",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. first floor",
+      "first floor"
+     ]
+    },
+    {
+     "id": "practice11-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "private rooms that can be booked",
+     "explanation": "Study pods are on the second floor.",
+     "evidenceQuote": "twelve study pods, which are small private rooms",
+     "skillTag": "matching",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. second floor",
+      "second floor"
+     ]
+    },
+    {
+     "id": "practice11-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "equipment for recording podcasts",
+     "explanation": "This is in the maker space on the top floor.",
+     "evidenceQuote": "equipment for recording music and podcasts",
+     "skillTag": "matching",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. top floor",
+      "top floor"
+     ]
+    },
+    {
+     "id": "practice11-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "a garden for children",
+     "explanation": "The children's garden is on the ground floor.",
+     "evidenceQuote": "The children's library is also on the ground floor, with its own garden",
+     "skillTag": "matching",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. ground floor",
+      "ground floor"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "atrium",
+    "natural light",
+    "solar panels",
+    "study pod",
+    "maker space"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which floor of the library has each of the following? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. ground floor",
+      "B. first floor",
+      "C. second floor",
+      "D. top floor"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice11-lp3",
+   "partNumber": 3,
+   "title": "A project on tiny houses",
+   "contextDescription": "Two architecture students, Zara and Liam, discuss their research project on tiny houses with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "CA24A788-0B9D-5C04-AC72-D0AA346FC10E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Zara, Liam. Sorry I'm a few minutes late; my previous meeting ran over. So, how's the project on tiny houses going?"
+    },
+    {
+     "id": "89DCD29C-2CDF-53F9-A207-5C806FBE8FC7",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "Really well, I think. We've finished the background research and visited three tiny house communities, and now we're working on the analysis."
+    },
+    {
+     "id": "C6D9A230-9531-5D63-A07F-7E1B226981A7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Remind me how you're defining a tiny house."
+    },
+    {
+     "id": "9C54AC69-1A8E-5B0F-B437-4A0404B389DC",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "We're using the most common definition, which is a home with a floor area of less than about thirty-seven square metres, or four hundred square feet. Many of them are built on wheels, so they can be moved, although some are on permanent foundations."
+    },
+    {
+     "id": "CF5C3A68-E721-5E6E-84E5-800D10A1D57A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And why are people choosing to live in them?"
+    },
+    {
+     "id": "54835733-4087-583D-82E5-385CF6D3D5A3",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "The main reason, according to our interviews, is cost. Most of the residents we spoke to said they couldn't afford a conventional house, or didn't want to spend most of their income on a mortgage. A tiny house typically costs a fraction of an ordinary home, and some people build their own."
+    },
+    {
+     "id": "E305B569-7E03-52E9-9CEE-084C298DDD94",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "But there were other reasons, too. Quite a few people talked about wanting a simpler life, with fewer possessions. And many were concerned about the environment. Smaller homes use far less energy for heating and lighting, and some of the houses we visited were completely off-grid, with solar panels, rainwater collection and composting toilets."
+    },
+    {
+     "id": "48923962-E6DE-53B2-98EE-CC67856C1813",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Were the residents mostly young people?"
+    },
+    {
+     "id": "CE4EF9DB-7B59-59C9-8B40-12567B84B7B5",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "That's what we expected, but actually there was a real mix. In one community, almost half the residents were retired people who had sold larger family homes. They said they liked having less to clean and maintain."
+    },
+    {
+     "id": "24544C90-12AA-5CB7-BD91-ADA4CE4368EE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. What about the problems?"
+    },
+    {
+     "id": "2D5E7F77-CC2B-5D55-81CF-CD7A1C629B1E",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "The biggest one is finding somewhere to put the house. In many places, the regulations don't really recognise tiny houses. If they're on wheels, they're sometimes treated like caravans, which means people aren't allowed to live in them all year round. So getting planning permission can be very difficult."
+    },
+    {
+     "id": "51D3FC79-BAFA-5F2F-8B03-F3B306F539B3",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "That's why communities have become so important. In a community, a group of people share the land and the legal costs, and they often share facilities like a laundry, a workshop or a big kitchen for social events."
+    },
+    {
+     "id": "2ED4449F-CB23-5F7A-8721-57C5C10F6719",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What did residents say about living in such a small space?"
+    },
+    {
+     "id": "8652ECE3-0C09-582B-A3C5-EE91B7988DA3",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "Most were very positive, but storage was a common complaint. Several people said they'd underestimated how hard it would be to give up their belongings. And couples sometimes said they found it difficult to have time on their own."
+    },
+    {
+     "id": "0F1D30A9-3FDC-5D89-BA91-7FF94BEBC4B3",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "One woman told us that she and her husband had added a separate small cabin as an office, because they were both working from home and kept getting in each other's way."
+    },
+    {
+     "id": "DF4E2A3E-1F41-5AA4-9A64-7975DBF7D30F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a useful example. Now, for your design proposal, what are you thinking of?"
+    },
+    {
+     "id": "F506367C-752C-5E16-A267-27AB7EB04B92",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "We'd like to design a tiny house community for a site near the university. The idea is to provide affordable housing for postgraduate students and young staff. Each house would have its own small kitchen and bathroom, but there'd be a shared common house with a larger kitchen, a study room and guest bedrooms."
+    },
+    {
+     "id": "2CDD915B-DB3C-5E97-8075-48887DCF2F44",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "I like it. How many houses are you planning?"
+    },
+    {
+     "id": "20DCC910-FBFF-5594-93C8-A7AD120C4CE8",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "About twenty, arranged around a central garden, with bicycle parking but no space for cars."
+    },
+    {
+     "id": "2D308933-3257-56F2-BE78-35AFB54C28F9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Have you thought about materials?"
+    },
+    {
+     "id": "A4DF226D-868C-5E90-9A60-A8AAEE28F8FB",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "We're planning to use timber frames, because they're light and can be built quickly in a factory and then brought to the site. We'd also like to use recycled materials where possible."
+    },
+    {
+     "id": "AE90E0A4-0C42-53DC-9768-4FC8577670CA",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. In your report, make sure you also discuss whether tiny houses really are a solution to the housing crisis, or just a niche choice. Some critics argue that they use land less efficiently than flats, for example."
+    },
+    {
+     "id": "ABA073B7-E43C-52C6-82C4-2136AB41D2F0",
+     "speaker": "Liam",
+     "accent": "en-CA",
+     "text": "That's a good point. We'll include a section comparing the density of tiny house communities with apartment buildings."
+    },
+    {
+     "id": "2D564E8C-6A9C-56E5-816C-325BD35E2398",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. Let's meet again in two weeks, when you have some sketches to show me."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice11-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to the interviews, what was the main reason for choosing a tiny house?",
+     "explanation": "Cost was the main reason.",
+     "evidenceQuote": "The main reason, according to our interviews, is cost.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the cost",
+      "B. the environment",
+      "C. a simpler lifestyle"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the cost",
+      "the cost"
+     ]
+    },
+    {
+     "id": "practice11-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What surprised the students about the residents?",
+     "explanation": "Many were retired.",
+     "evidenceQuote": "almost half the residents were retired people",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Most were students.",
+      "B. Most had built their own houses.",
+      "C. Many were retired."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Many were retired.",
+      "Many were retired."
+     ]
+    },
+    {
+     "id": "practice11-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why is it difficult to get planning permission?",
+     "explanation": "Regulations do not recognise them.",
+     "evidenceQuote": "the regulations don't really recognise tiny houses",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The houses are too expensive.",
+      "B. Rules often do not cover tiny houses.",
+      "C. Neighbours object to them."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Rules often do not cover tiny houses.",
+      "Rules often do not cover tiny houses."
+     ]
+    },
+    {
+     "id": "practice11-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What was a common complaint from residents?",
+     "explanation": "Storage was a problem.",
+     "evidenceQuote": "storage was a common complaint",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a lack of storage",
+      "B. high heating costs",
+      "C. noisy neighbours"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a lack of storage",
+      "a lack of storage"
+     ]
+    },
+    {
+     "id": "practice11-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor ask the students to discuss in their report?",
+     "explanation": "Whether they solve the housing crisis.",
+     "evidenceQuote": "whether tiny houses really are a solution to the housing crisis",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the history of tiny houses",
+      "B. the cost of materials",
+      "C. whether tiny houses solve housing problems"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. whether tiny houses solve housing problems",
+      "whether tiny houses solve housing problems"
+     ]
+    },
+    {
+     "id": "practice11-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Definition: floor area under about __________ square metres",
+     "explanation": "It is under about 37 square metres.",
+     "evidenceQuote": "a floor area of less than about thirty-seven square metres",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "37",
+      "thirty-seven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Some off-grid houses had composting __________",
+     "explanation": "They had composting toilets.",
+     "evidenceQuote": "composting toilets",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "toilets"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Houses on wheels are sometimes treated like __________",
+     "explanation": "They are treated like caravans.",
+     "evidenceQuote": "they're sometimes treated like caravans",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "caravans"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Proposed community for postgraduate students and young __________",
+     "explanation": "It is for students and staff.",
+     "evidenceQuote": "postgraduate students and young staff",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "staff"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Planned frames made of __________",
+     "explanation": "They will use timber.",
+     "evidenceQuote": "We're planning to use timber frames",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "timber"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "floor area",
+    "planning permission",
+    "affordability",
+    "off-grid",
+    "case study"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice11-lp4",
+   "partNumber": 4,
+   "title": "The story of concrete",
+   "contextDescription": "A lecture in a civil engineering course on the history and future of concrete.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "AABAC3E0-34DC-58C0-B281-A9C9493F8C58",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning. Today we're going to talk about the most widely used building material on Earth: concrete. After water, it's the most consumed substance in the world. Every year, enough concrete is produced to build a wall around the planet many times over. But despite its importance, it's a material that most people never think about."
+    },
+    {
+     "id": "51BB1CD4-DEB9-5403-B06B-EA9673E78752",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "First, some basic definitions, because people often confuse concrete and cement. Cement is a fine grey powder that acts as a kind of glue. When it's mixed with water, a chemical reaction takes place, and it hardens. Concrete is made by mixing cement and water with sand and small stones, which are called aggregate. The cement binds the aggregate together into a solid mass."
+    },
+    {
+     "id": "0D338ABA-DE10-5EBB-B664-16EB9253EE63",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Concrete is not a modern invention. The ancient Romans were experts in using it. They made their cement from lime mixed with volcanic ash, which they found near the town of Pozzuoli, close to Naples. Roman concrete was used to build harbours, bridges, aqueducts and, most famously, the Pantheon in Rome, completed around the year 125. Its dome, over forty-three metres across, is still the largest unreinforced concrete dome in the world, nearly two thousand years later."
+    },
+    {
+     "id": "1BA18B5B-2D77-5BD1-BA71-007540A08B61",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Remarkably, some Roman concrete has lasted far better than modern concrete. Roman harbour walls that have been in seawater for two thousand years are still standing, whereas modern concrete in the sea often begins to break down within decades. Research published in 2023 by a team at the Massachusetts Institute of Technology suggested one reason. The Romans appear to have mixed their concrete using lime that was still hot, and this left small lumps of lime in the material. When cracks form and water gets in, the lime reacts and fills the cracks, so the concrete can, in effect, repair itself."
+    },
+    {
+     "id": "1CCC4A9F-A5A1-5F59-AE85-87818B1CE421",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "After the fall of the Roman Empire, the knowledge of how to make concrete was largely lost in Europe, and for over a thousand years, most large buildings were made of stone or brick. The modern history of concrete begins in 1824, when an English bricklayer named Joseph Aspdin patented a new type of cement, which he made by heating limestone and clay together at high temperatures. He called it Portland cement, because he thought the hardened material looked like Portland stone, a popular building stone from the south of England. Portland cement is still the most common type used today."
+    },
+    {
+     "id": "F6BFB660-D0B8-57D7-AC06-CBD130217979",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Concrete has one major weakness: although it's extremely strong when it's squeezed, it's weak when it's stretched or bent, and it tends to crack. The solution was to put steel bars inside it, creating reinforced concrete. One of the pioneers of this idea was a French gardener, Joseph Monier, who wanted to make stronger flower pots. He took out his first patent in 1867. Steel and concrete work well together, partly because they expand by similar amounts when they get hot, so they don't separate."
+    },
+    {
+     "id": "BB6695E4-A411-5AC2-BEC8-BCCA711744FC",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Reinforced concrete made possible many of the structures of the twentieth century, from dams and motorways to skyscrapers. It's cheap, it can be poured into almost any shape, and it's resistant to fire. But it also has a serious environmental cost. Producing cement requires heating limestone to around fourteen hundred degrees Celsius, which uses huge amounts of energy, and the chemical reaction itself releases carbon dioxide. Altogether, cement production is responsible for around eight per cent of global carbon dioxide emissions, more than the entire aviation industry."
+    },
+    {
+     "id": "64F502AA-DB91-5298-B13E-0F77BC3F802F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So engineers are looking for ways to make concrete greener. One approach is to replace part of the cement with waste materials, such as ash from power stations or slag from steel production. Another is to capture the carbon dioxide released during manufacture and store it, or even inject it back into the concrete, where it becomes part of the material. Researchers are also trying to learn from the Romans, to make concrete that lasts longer and therefore needs replacing less often. In the next lecture, we'll look at some of the alternatives to concrete, including engineered timber."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice11-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Cement acts as a kind of __________",
+     "explanation": "Cement acts like glue.",
+     "evidenceQuote": "acts as a kind of glue",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "glue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Sand and small stones are called __________",
+     "explanation": "They are aggregate.",
+     "evidenceQuote": "which are called aggregate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aggregate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Romans mixed lime with volcanic __________",
+     "explanation": "They used volcanic ash.",
+     "evidenceQuote": "lime mixed with volcanic ash",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ash"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The Pantheon's __________ is the largest unreinforced concrete one in the world",
+     "explanation": "Its dome is the largest.",
+     "evidenceQuote": "Its dome, over forty-three metres across",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dome"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Lumps of lime allow Roman concrete to fill __________",
+     "explanation": "Lime fills the cracks.",
+     "evidenceQuote": "the lime reacts and fills the cracks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cracks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Joseph Aspdin worked as a __________",
+     "explanation": "He was a bricklayer.",
+     "evidenceQuote": "an English bricklayer named Joseph Aspdin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bricklayer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Portland cement was named after a type of __________",
+     "explanation": "It looked like Portland stone.",
+     "evidenceQuote": "looked like Portland stone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stone"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Monier wanted to make stronger flower __________",
+     "explanation": "He made flower pots.",
+     "evidenceQuote": "who wanted to make stronger flower pots",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Cement produces more CO₂ than the __________ industry",
+     "explanation": "It produces more than aviation.",
+     "evidenceQuote": "more than the entire aviation industry",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aviation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Waste materials such as __________ from steel production can replace some cement",
+     "explanation": "Slag can replace cement.",
+     "evidenceQuote": "slag from steel production",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "slag"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "cement",
+    "aggregate",
+    "reinforced",
+    "emissions",
+    "durability"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice11-rp1",
+   "passageNumber": 1,
+   "title": "The builders of the Gothic cathedrals",
+   "discipline": "Architectural History",
+   "paragraphs": [
+    "Between the twelfth and the sixteenth centuries, the towns and cities of Europe built some of the most ambitious structures the world had ever seen. The great Gothic cathedrals of France, England, Germany and Spain, with their soaring stone vaults, pointed arches and enormous stained-glass windows, still impress visitors today. What makes them even more remarkable is that they were designed and built without modern mathematics, engineering calculations or machinery.",
+    "The Gothic style is usually said to have begun in the 1140s, with the rebuilding of the abbey church of Saint-Denis, just north of Paris. Its abbot, Suger, wanted a church filled with light, which he believed was a reflection of the divine. The builders achieved this by combining several existing techniques in a new way. Pointed arches, which had been used earlier in the Islamic world, direct the weight of a building downwards more efficiently than the round arches used before, allowing walls to be higher and thinner. Ribbed vaults, a framework of stone ribs supporting the ceiling, concentrated the weight onto a small number of points rather than spreading it along the whole wall.",
+    "The most distinctive feature of Gothic architecture, however, is the flying buttress. This is an external arch that carries the outward push of the vault away from the wall and down to a heavy pier standing outside the building. Because the walls no longer had to support all the weight of the roof, large parts of them could be replaced with glass. At Chartres Cathedral, completed in the thirteenth century, more than one hundred and fifty stained-glass windows survive, many of them original.",
+    "The person in charge of building a cathedral was the master mason, who acted as both architect and engineer. Master masons usually began as apprentices, learning their craft over many years on building sites. They did not use mathematical formulas to calculate the forces in a structure. Instead, they relied on rules of proportion based on geometry, which were passed down from one generation to the next and often kept secret. Drawings were sometimes scratched into the plaster floors of special tracing rooms, some of which still survive, for example at York Minster in England. Because of this system of training, the same master mason might work on several cathedrals during his career, carrying ideas and techniques from one region to another.",
+    "Building a cathedral was an enormous undertaking. Stone had to be cut in quarries, sometimes many kilometres away, and transported by cart or, wherever possible, by river, which was much cheaper. Some cathedrals even owned their own quarries, and the stones were often roughly shaped there before transport, to reduce their weight. Hundreds of workers were needed, including masons, carpenters, blacksmiths, glaziers and labourers. Huge wooden cranes, powered by men walking inside large wheels, lifted the stones into place. Construction often took several generations, and many workers who began a cathedral never saw it finished. Cologne Cathedral in Germany, begun in 1248, was not completed until 1880, after work had stopped for several centuries.",
+    "Not every project succeeded. The builders were constantly trying to make cathedrals taller and lighter, and sometimes they went too far. The most famous failure is Beauvais Cathedral in northern France, which was planned to be the tallest in Europe. In 1284, part of its vault, which rose to around forty-eight metres, collapsed. It was rebuilt with extra supports, but the cathedral was never finished, and only the eastern part stands today.",
+    "Paying for such buildings was a continuous challenge. Money came from bishops, kings and nobles, but also from ordinary people. Towns competed with each other to build the most impressive cathedral, which brought prestige and attracted pilgrims, who in turn brought money. Some churches encouraged donations by displaying holy relics, such as the remains of saints, and guilds of craftsmen sometimes paid for individual windows, which often show scenes of their members at work.",
+    "Gothic cathedrals continue to raise questions for engineers and conservators. When fire destroyed the roof and spire of Notre-Dame in Paris in April 2019, the stone vaults below largely survived and protected much of the interior. The cathedral reopened in December 2024 after a restoration in which craftspeople used many of the same traditional techniques, including cutting oak beams by hand, that medieval builders had used eight hundred years earlier."
+   ],
+   "questions": [
+    {
+     "id": "practice11-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Gothic style is thought to have started near Paris.",
+     "explanation": "It began at Saint-Denis near Paris.",
+     "evidenceQuote": "the abbey church of Saint-Denis, just north of Paris",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice11-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Pointed arches were first invented by Gothic builders.",
+     "explanation": "They were used earlier elsewhere.",
+     "evidenceQuote": "which had been used earlier in the Islamic world",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice11-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "All the stained-glass windows at Chartres are original.",
+     "explanation": "Only many, not all, are original.",
+     "evidenceQuote": "many of them original",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice11-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Master masons used mathematical formulas to calculate forces.",
+     "explanation": "They did not use formulas.",
+     "evidenceQuote": "They did not use mathematical formulas to calculate the forces in a structure.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice11-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Transporting stone by river was cheaper than by cart.",
+     "explanation": "River transport was cheaper.",
+     "evidenceQuote": "by river, which was much cheaper",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice11-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Beauvais Cathedral is now the tallest in Europe.",
+     "explanation": "Its present ranking is not given.",
+     "evidenceQuote": "which was planned to be the tallest in Europe",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice11-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Guild members sometimes appear in the windows they paid for.",
+     "explanation": "Windows show guild members.",
+     "evidenceQuote": "which often show scenes of their members at work",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice11-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Abbot Suger wanted his church to be filled with __________.",
+     "explanation": "He wanted light.",
+     "evidenceQuote": "wanted a church filled with light",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "light"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A flying buttress carries the push of the vault to a heavy __________ outside.",
+     "explanation": "It carries it to a pier.",
+     "evidenceQuote": "down to a heavy pier standing outside the building",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pier"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Master masons usually started their careers as __________.",
+     "explanation": "They began as apprentices.",
+     "evidenceQuote": "Master masons usually began as apprentices",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "apprentices"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Drawings were scratched into floors made of __________.",
+     "explanation": "The floors were plaster.",
+     "evidenceQuote": "scratched into the plaster floors",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plaster"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Cranes were powered by men walking inside large __________.",
+     "explanation": "Men walked inside wheels.",
+     "evidenceQuote": "powered by men walking inside large wheels",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wheels"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Towns built impressive cathedrals partly to attract __________.",
+     "explanation": "They attracted pilgrims.",
+     "evidenceQuote": "brought prestige and attracted pilgrims",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pilgrims"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 721,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice11-rp2",
+   "passageNumber": 2,
+   "title": "How the skyscraper was born",
+   "discipline": "History of Engineering",
+   "paragraphs": [
+    "Today, skyscrapers dominate the skylines of cities from New York to Shanghai, and the tallest, the Burj Khalifa in Dubai, rises to more than eight hundred metres. Yet for most of history, buildings of more than five or six storeys were rare. Two practical problems stood in the way: how to get people to the upper floors, and how to build walls strong enough to support great height. The solution to both emerged in the United States in the second half of the nineteenth century.",
+    "The first problem was solved by the passenger lift, or elevator. Lifting devices had existed for centuries, but people were reluctant to travel in them because of the danger that the rope might break. In 1854, at an exhibition in New York, an American mechanic named Elisha Otis gave a dramatic demonstration. Standing on a raised platform in front of a crowd, he ordered the rope holding it to be cut. Instead of falling, the platform stopped almost immediately, held by a safety device that gripped the sides of the shaft. The first passenger lift using his system was installed in a New York shop three years later.",
+    "The second problem was structural. In traditional buildings, the outer walls carry the weight of the floors above. The taller the building, the thicker the walls at the bottom must be. The Monadnock Building in Chicago, completed in 1891, was sixteen storeys high and built with load-bearing brick walls, which were almost two metres thick at ground level. This took up valuable space and reduced the size of the windows, making it clear that this method had reached its practical limit.",
+    "The answer was to build a frame of iron and, later, steel, which carried the weight of the building, so that the outer walls became little more than a covering. The building often described as the first skyscraper, the Home Insurance Building in Chicago, used this principle. Designed by William Le Baron Jenney and completed in 1885, it was originally ten storeys high. Its metal frame made it far lighter than a stone building of the same size, and some historians report that city officials were so worried it would fall down that they temporarily stopped work while they investigated.",
+    "Chicago was a natural place for such experiments. In 1871, a huge fire had destroyed much of the city centre, creating a need for rapid rebuilding. At the same time, the city's population and economy were growing quickly, and land in the business district was extremely expensive. Building upwards allowed developers to make the most of small and costly plots. A group of architects who worked there, later known as the Chicago School, developed a style that expressed the frame of the building, with large windows and little decoration.",
+    "New York soon became the centre of skyscraper construction, and the race for height began. The Woolworth Building, completed in 1913, was the tallest in the world for over fifteen years. In 1931, the Empire State Building, with one hundred and two storeys, was completed in just over a year, an astonishingly rapid achievement. It remained the world's tallest building for nearly forty years. The increasing number of tall buildings led to concerns that streets were becoming dark canyons, and in 1916 New York introduced rules requiring tall buildings to step back as they rose, so that light could reach the ground.",
+    "Height brought other challenges. Wind becomes a major force on tall buildings, and engineers must ensure that they do not sway enough to make occupants uncomfortable. Some modern skyscrapers contain huge weights, called tuned mass dampers, near the top, which move to counteract the building's movement. Taipei 101 in Taiwan has a steel ball weighing over six hundred tonnes that visitors can see. Fire safety and evacuation are also more complex in buildings where people may be hundreds of metres above the ground.",
+    "Skyscrapers remain controversial. Supporters argue that they allow cities to house and employ large numbers of people on limited land, reducing the need for long commutes. Critics reply that very tall buildings are expensive to build and maintain, use large amounts of energy and can create windy, unwelcoming spaces at street level. Many urban planners now argue that medium-rise buildings of six to ten storeys can achieve high density while creating more pleasant streets."
+   ],
+   "questions": [
+    {
+     "id": "practice11-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains the safe lift.",
+     "evidenceQuote": "The first problem was solved by the passenger lift, or elevator.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Making vertical travel safe",
+      "Making vertical travel safe"
+     ]
+    },
+    {
+     "id": "practice11-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C shows the limits of load-bearing walls.",
+     "evidenceQuote": "this method had reached its practical limit",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. The limits of an old technique",
+      "The limits of an old technique"
+     ]
+    },
+    {
+     "id": "practice11-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes the metal frame.",
+     "evidenceQuote": "The answer was to build a frame of iron and, later, steel",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A new way of supporting the building",
+      "A new way of supporting the building"
+     ]
+    },
+    {
+     "id": "practice11-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains why Chicago led.",
+     "evidenceQuote": "Chicago was a natural place for such experiments.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why one city led the way",
+      "Why one city led the way"
+     ]
+    },
+    {
+     "id": "practice11-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F covers the race for height.",
+     "evidenceQuote": "New York soon became the centre of skyscraper construction, and the race for height began.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Competition to build higher",
+      "Competition to build higher"
+     ]
+    },
+    {
+     "id": "practice11-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers wind and safety.",
+     "evidenceQuote": "Height brought other challenges.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Dealing with wind and emergencies",
+      "Dealing with wind and emergencies"
+     ]
+    },
+    {
+     "id": "practice11-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H presents the debate.",
+     "evidenceQuote": "Skyscrapers remain controversial.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Arguments for and against tall buildings",
+      "Arguments for and against tall buildings"
+     ]
+    },
+    {
+     "id": "practice11-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What happened when the rope was cut in Otis's demonstration?",
+     "explanation": "A safety device stopped the platform.",
+     "evidenceQuote": "the platform stopped almost immediately, held by a safety device",
+     "skillTag": "detail",
+     "options": [
+      "A. The platform fell to the ground.",
+      "B. A safety device stopped the platform.",
+      "C. The crowd ran away.",
+      "D. A second rope held it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A safety device stopped the platform.",
+      "A safety device stopped the platform."
+     ]
+    },
+    {
+     "id": "practice11-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did New York introduce rules in 1916?",
+     "explanation": "To let light reach the streets.",
+     "evidenceQuote": "so that light could reach the ground",
+     "skillTag": "detail",
+     "options": [
+      "A. to limit the height of buildings",
+      "B. to improve fire safety",
+      "C. to allow light to reach the streets",
+      "D. to reduce wind"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to allow light to reach the streets",
+      "to allow light to reach the streets"
+     ]
+    },
+    {
+     "id": "practice11-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What do many urban planners now recommend?",
+     "explanation": "They recommend medium-rise buildings.",
+     "evidenceQuote": "medium-rise buildings of six to ten storeys can achieve high density",
+     "skillTag": "detail",
+     "options": [
+      "A. medium-rise buildings",
+      "B. more skyscrapers",
+      "C. low houses with gardens",
+      "D. buildings without lifts"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. medium-rise buildings",
+      "medium-rise buildings"
+     ]
+    },
+    {
+     "id": "practice11-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The walls of the Monadnock Building were made of __________.",
+     "explanation": "They were brick.",
+     "evidenceQuote": "built with load-bearing brick walls",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "brick"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice11-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Before rebuilding, much of Chicago had been destroyed by a __________.",
+     "explanation": "A fire destroyed it.",
+     "evidenceQuote": "a huge fire had destroyed much of the city centre",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "huge fire",
+      "fire"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice11-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Some skyscrapers use __________ to reduce swaying.",
+     "explanation": "They use tuned mass dampers.",
+     "evidenceQuote": "called tuned mass dampers",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tuned mass dampers"
+     ],
+     "maxWordCount": 3
+    }
+   ],
+   "estimatedWordCount": 722,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A new way of supporting the building",
+      "ii. Arguments for and against tall buildings",
+      "iii. Competition to build higher",
+      "iv. Making vertical travel safe",
+      "v. The cost of steel",
+      "vi. Why one city led the way",
+      "vii. Skyscrapers in Asia",
+      "viii. The limits of an old technique",
+      "ix. Dealing with wind and emergencies"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice11-rp3",
+   "passageNumber": 3,
+   "title": "Building tall with wood",
+   "discipline": "Architecture & Sustainability",
+   "paragraphs": [
+    "For most of the twentieth century, steel and concrete were the obvious materials for any large building. Wood was considered suitable for houses and small structures, but too weak, too likely to burn and too unpredictable for anything bigger. In recent years, however, a growing number of architects and engineers have begun to challenge this view. Around the world, buildings of ten, twenty and even more storeys are now being constructed largely from timber, and supporters claim that wood could play a major role in reducing the environmental impact of construction.",
+    "The key to this change is a group of products known as engineered timber, or mass timber. The best known is cross-laminated timber, or CLT, which was developed in Austria and Germany in the 1990s. It is made by gluing layers of wooden boards together, with the grain of each layer running at right angles to the one below. This produces large, solid panels that are strong in both directions and far more stable than ordinary timber, which tends to bend or split along the grain. Another product, glued laminated timber, or glulam, is used to make beams and columns.",
+    "The environmental argument for timber is a powerful one. The production of cement and steel together accounts for a large share of global carbon dioxide emissions. Trees, by contrast, absorb carbon dioxide as they grow, and much of this carbon remains stored in the wood for as long as the building stands. If the trees are replaced by new planting, timber can therefore be a renewable material with a much lower carbon footprint. Some studies have found that a mass timber building can produce significantly lower emissions than an equivalent concrete building, although the results depend on how the forests are managed and on what happens to the wood at the end of the building's life.",
+    "There are practical advantages too. Mass timber panels are manufactured in factories to precise measurements and then delivered to the site, where they can be assembled quickly with relatively small teams of workers. Construction sites are therefore quieter, cleaner and less disruptive for neighbours. Timber is also much lighter than concrete, which means that smaller foundations are needed, a particular advantage on sites with weak ground or where new floors are being added to existing buildings.",
+    "The most obvious concern is fire. Yet engineers point out that large timber elements behave very differently from the thin pieces of wood used in a campfire. When a thick timber beam burns, the outer layer turns to charcoal, which protects the wood inside and slows the spread of fire, allowing the beam to keep its strength for a predictable time. Steel, by contrast, can lose its strength suddenly at high temperatures. Mass timber buildings must nevertheless pass the same fire safety tests as other buildings, and they are usually fitted with sprinklers, while the timber is often partly covered with fire-resistant boards.",
+    "The race for height has already begun. In 2019, an eighteen-storey building called Mjøstårnet, in the Norwegian town of Brumunddal, became the world's tallest timber building, at just over eighty-five metres. It was overtaken in 2022 by Ascent, a twenty-five-storey apartment building in Milwaukee in the United States, which combines timber with a concrete core. Architects have proposed far taller wooden towers, including designs of more than three hundred metres, though none has yet been built.",
+    "Not everyone is convinced. Critics argue that if demand for timber increases greatly, it could put pressure on forests, encouraging the replacement of natural forests with plantations of a single species, which support far less wildlife. Others point out that the claimed environmental benefits rely on assumptions about forestry and recycling that may not always hold true. There are also concerns about the effects of moisture, insects and long-term durability, since mass timber buildings have existed for only a few decades.",
+    "In my view, these concerns are serious but not decisive. Timber is unlikely to replace concrete and steel completely, and it should not be used without careful attention to where the wood comes from. But as part of a broader effort to reduce the carbon cost of buildings, alongside the reuse of existing structures and the development of greener concrete, it offers real promise. The idea of building tall with wood, which once seemed absurd, now deserves to be taken seriously."
+   ],
+   "questions": [
+    {
+     "id": "practice11-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "is made from layers of boards with the grain at right angles",
+     "explanation": "This describes CLT.",
+     "evidenceQuote": "with the grain of each layer running at right angles to the one below",
+     "skillTag": "matching_features",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. cross-laminated timber",
+      "cross-laminated timber"
+     ]
+    },
+    {
+     "id": "practice11-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "is used to make beams and columns",
+     "explanation": "Glulam is used for beams.",
+     "evidenceQuote": "glued laminated timber, or glulam, is used to make beams and columns",
+     "skillTag": "matching_features",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. glulam",
+      "glulam"
+     ]
+    },
+    {
+     "id": "practice11-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "can lose its strength suddenly when very hot",
+     "explanation": "Steel loses strength suddenly.",
+     "evidenceQuote": "Steel, by contrast, can lose its strength suddenly at high temperatures",
+     "skillTag": "matching_features",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. steel",
+      "steel"
+     ]
+    },
+    {
+     "id": "practice11-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "was the tallest timber building in 2019",
+     "explanation": "Mjøstårnet was tallest in 2019.",
+     "evidenceQuote": "became the world's tallest timber building",
+     "skillTag": "matching_features",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Mjøstårnet",
+      "Mjøstårnet"
+     ]
+    },
+    {
+     "id": "practice11-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "combines timber with a concrete core",
+     "explanation": "Ascent has a concrete core.",
+     "evidenceQuote": "which combines timber with a concrete core",
+     "skillTag": "matching_features",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Ascent",
+      "Ascent"
+     ]
+    },
+    {
+     "id": "practice11-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The environmental benefits of timber depend partly on forest management.",
+     "explanation": "Benefits depend on forestry.",
+     "evidenceQuote": "the results depend on how the forests are managed",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice11-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Mass timber buildings take longer to build than concrete ones.",
+     "explanation": "They are assembled quickly.",
+     "evidenceQuote": "they can be assembled quickly with relatively small teams of workers",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice11-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Mass timber buildings are exempt from normal fire safety tests.",
+     "explanation": "They must pass the same tests.",
+     "evidenceQuote": "must nevertheless pass the same fire safety tests as other buildings",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice11-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Timber buildings are more expensive to insure than concrete buildings.",
+     "explanation": "Insurance is not mentioned.",
+     "evidenceQuote": "they are usually fitted with sprinklers",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice11-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Timber should completely replace concrete and steel.",
+     "explanation": "It is unlikely to replace them completely.",
+     "evidenceQuote": "Timber is unlikely to replace concrete and steel completely",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice11-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Trees absorb carbon dioxide, and much of this carbon remains __________ in the wood.",
+     "explanation": "Carbon remains stored.",
+     "evidenceQuote": "much of this carbon remains stored in the wood",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stored"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Because timber is light, smaller __________ are needed.",
+     "explanation": "Smaller foundations are needed.",
+     "evidenceQuote": "smaller foundations are needed",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "foundations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "When thick timber burns, the outer layer turns to __________.",
+     "explanation": "It turns to charcoal.",
+     "evidenceQuote": "the outer layer turns to charcoal",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "charcoal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice11-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Critics fear that natural forests could be replaced by __________ of one species.",
+     "explanation": "They fear plantations.",
+     "evidenceQuote": "the replacement of natural forests with plantations of a single species",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plantations"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 724,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of materials and buildings below. Match each statement with the correct option, A–E.",
+     "options": [
+      "A. cross-laminated timber",
+      "B. glulam",
+      "C. steel",
+      "D. Mjøstårnet",
+      "E. Ascent"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice11-w1",
+  "title": "A town centre redevelopment",
+  "visualType": "Map Comparison",
+  "instructions": "The maps below show the centre of a small town in 2000 and the plan for its redevelopment in 2030. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "2000|NW|Railway station",
+   "2000|N|Railway line",
+   "2000|NE|Old factory",
+   "2000|W|Bus station",
+   "2000|C|Car park",
+   "2000|E|Main street with traffic",
+   "2000|SW|Small park",
+   "2000|S|Shops",
+   "2000|SE|Empty land",
+   "2030|NW|Railway station and new bus station",
+   "2030|N|Railway line",
+   "2030|NE|Apartments (converted factory)",
+   "2030|W|Housing",
+   "2030|C|Public square with trees",
+   "2030|E|Pedestrian street",
+   "2030|SW|Larger park",
+   "2030|S|Shops",
+   "2030|SE|New library"
+  ],
+  "keyOverviewPoints": [
+   "The town centre will become more pedestrian-friendly, with the central car park replaced by a square.",
+   "Several buildings will change use, and new housing and a library will be added."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice11-w2",
+  "title": "Old buildings or new?",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Cities & Architecture",
+  "promptText": "Some people believe that old buildings should be preserved, while others think they should be replaced with modern buildings to meet the needs of growing cities. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice11-spk",
+  "theme": "Buildings and homes",
+  "part1Questions": [
+   "Do you live in a house or an apartment?",
+   "What is your favourite room in your home?",
+   "Are there many old buildings where you live?",
+   "Would you like to live in a tall building?",
+   "What kind of home would you like to have in the future?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a building that you find interesting.",
+   "bulletPoints": [
+    "where it is",
+    "what it looks like",
+    "what it is used for",
+    "and explain why you find it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Should governments protect historic buildings?",
+   "What makes a city attractive to live in?",
+   "Is it better to live in the city centre or in the suburbs?",
+   "How will homes change in the future?",
+   "Should architects consider the environment more than appearance?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are checked against standard reference sources.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

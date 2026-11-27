@@ -1,0 +1,1965 @@
+{
+ "id": "exam28",
+ "examNumber": 28,
+ "pool": "mock",
+ "title": "Mock Exam 28: Paper, Folds and Expanding Structures",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Paper, Folds and Expanding Structures",
+ "listeningParts": [
+  {
+   "id": "exam28-lp1",
+   "partNumber": 1,
+   "title": "Booking a paper-structure workshop",
+   "contextDescription": "A customer asks a craft studio about a workshop for an adult birthday gathering.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "21705206-1943-5861-8D86-A745B62D89B6",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Hello, Fold and Form Studio. This is Daniel. We run public classes and private group workshops. If you're asking about the display in our window, those objects were made by last month's students, and the next public exhibition begins in a fortnight."
+    },
+    {
+     "id": "3BD95C10-5907-54E6-9EFD-296E70A82F64",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "The window is what gave me the idea, actually. I'd like to book an activity for my sister's birthday. There would be eight adults, none with much experience. We thought of making paper decorations, but we'd prefer something more interesting than simply copying a card design."
+    },
+    {
+     "id": "2F4F45DB-271C-5EC6-B641-BDEA31A1F81D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Our paper-structure session might suit you. Participants begin with a simple folded form, then combine units to make a hanging decoration. It doesn't involve specialist machinery. The tutor demonstrates each stage, and there is time to choose colours. We wouldn't promise that every group completes exactly the same object, because people work at different speeds."
+    },
+    {
+     "id": "09B6B1D1-2295-5E7D-9CCD-EB2C2899F1D3",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "That sounds enjoyable. Is eight a suitable group size? I saw a maximum of twelve on the website, though perhaps that was for children. We want enough room to work comfortably, not just to fit the greatest number of people around a table."
+    },
+    {
+     "id": "BC32F5D3-FFF0-57A2-B263-C66B11EBD661",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Eight is fine. Twelve is the limit for our lecture room, but the making studio takes a maximum of ten. The private workshop fee is one hundred and sixty pounds for your group, including the paper and shared tools. Extra participants, up to the limit, would cost eighteen pounds each. Since you have eight, you only need the group fee."
+    },
+    {
+     "id": "E1C9B7CB-F711-5B51-8693-60C062B98E66",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Could we come on Saturday the twelfth? Her birthday is during the week, but Saturday would allow everyone to travel here without taking time off. We'd prefer the afternoon, if the studio is available then."
+    },
+    {
+     "id": "1ED3550C-E4A3-5294-A2BE-07A0A723F660",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Saturday afternoon is booked for a school reunion. We have Saturday morning at ten, or Sunday the thirteenth at two. The session lasts two hours, with a short break halfway through. The studio opens fifteen minutes beforehand, so you can arrive without waiting outside."
+    },
+    {
+     "id": "F32BFCBD-9EC2-5E09-BFF3-080002BC652F",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Sunday at two would be better. Can we bring a cake? We don't expect the studio to provide food, but it would be nice to have a small birthday celebration during the break rather than rush everyone to a café afterwards."
+    },
+    {
+     "id": "CCF8A96E-9F87-57C1-BDD8-25E877081EDA",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "You may bring a cake, but it must be served in the kitchen, not at the worktables. We provide plates and cups. Bring your own candles only if you want them for a photograph; they cannot be lit inside the building. The break is included in the two-hour session, so a large meal wouldn't fit the schedule."
+    },
+    {
+     "id": "C8C2F408-5763-5835-B34F-FC5DFFDC7A7C",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Understood. Does everyone need to bring anything? Some of the group will come by train and won't want to carry lots of supplies. I could bring bags for the finished work if you tell me what size would be sensible."
+    },
+    {
+     "id": "03218203-D829-53FB-902C-AFB9818A2590",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The studio provides shallow boxes so the pieces can travel without being crushed. We ask participants to bring a pencil for marking their own notes. Everything needed for the actual making is supplied. If anyone needs a particular seating arrangement, tell us before the day so the tutor can prepare the tables appropriately."
+    },
+    {
+     "id": "30D0451B-9D42-54C6-B333-48FC28814656",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "The booking name is Tamsin Ridgeway. That's R-I-D-G-E-W-A-Y. My sister doesn't know about this, so please send the confirmation to me. I'll give you my email address rather than hers, and I can forward the practical information to the other guests."
+    },
+    {
+     "id": "E82D2933-563C-5D0E-BBC9-34DE113E3255",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Certainly. To hold the date, pay a deposit of forty pounds within five days. The balance is due a week before the workshop. We'll include the cancellation conditions in the confirmation. Please read them before paying, especially if your guest numbers may change."
+    },
+    {
+     "id": "67E78DD3-D147-5493-8AB2-44CB8D80B429",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Thank you. One guest uses a walking stick. Is the studio upstairs? I remember seeing stairs in the entrance, and I'd rather know before confirming the booking."
+    },
+    {
+     "id": "47CB7192-CC3A-59EC-AAEA-A9BC9E691831",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The stairs lead to the office. Your workshop will be in the ground-floor studio. Use the entrance facing the garden; it has a level threshold. The street entrance opens directly into the shop and has a step. I'll put the garden-entrance information in the email so everyone can use the same route."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam28-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Participants will make a hanging __________.",
+     "explanation": "The workshop combines folded units into a decoration.",
+     "evidenceQuote": "make a hanging decoration",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "decoration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Making-studio maximum: __________ people.",
+     "explanation": "Twelve is the lecture-room limit.",
+     "evidenceQuote": "a maximum of ten",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ten",
+      "10"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Total fee for eight participants: £__________.",
+     "explanation": "The £18 charge applies only to extra participants.",
+     "evidenceQuote": "one hundred and sixty pounds for your group",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "160"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Chosen day: __________ the thirteenth.",
+     "explanation": "Saturday afternoon is unavailable.",
+     "evidenceQuote": "Sunday at two would be better.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Sunday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Cake must be served in the __________.",
+     "explanation": "Food is kept away from worktables.",
+     "evidenceQuote": "it must be served in the kitchen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kitchen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Finished work is taken home in shallow __________.",
+     "explanation": "The boxes protect the structures from crushing.",
+     "evidenceQuote": "provides shallow boxes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boxes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Each person should bring a __________ for notes.",
+     "explanation": "Making materials are otherwise supplied.",
+     "evidenceQuote": "bring a pencil for marking their own notes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pencil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Booking surname: Tamsin __________.",
+     "explanation": "The surname is stated and spelled.",
+     "evidenceQuote": "Tamsin Ridgeway. That's R-I-D-G-E-W-A-Y.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Ridgeway"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Deposit required: £__________.",
+     "explanation": "The deposit is separate from the remaining balance.",
+     "evidenceQuote": "a deposit of forty pounds",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "40"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Use the entrance facing the __________.",
+     "explanation": "This entrance has a level threshold.",
+     "evidenceQuote": "Use the entrance facing the garden",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "garden"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam28-lp2",
+   "partNumber": 2,
+   "title": "A volunteer day at a paper-making heritage site",
+   "contextDescription": "A coordinator explains the activities and public areas for a fictional heritage event.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "156A47E9-25F8-5585-BFBB-024FE1600A6D",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Thank you for volunteering at Mill House today. The event combines demonstrations, displays and family activities, but it is not a working industrial mill. Some historic equipment remains in place, and only authorised staff operate the demonstration arrangements. Please direct visitors to the scheduled sessions rather than attempting to make something move yourself because someone asks what it does."
+    },
+    {
+     "id": "27830844-EFA1-580A-9F55-2FE2424982FD",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The first public area is the fibre table. Visitors can look closely at labelled samples and compare the appearance of different fibres. The samples intended for touching are in open trays; the historical samples are under covers. Keep those categories separate. If a tray is empty, ask a member of staff for a replacement rather than taking a sample out of the covered display to fill the gap."
+    },
+    {
+     "id": "709FE881-FF80-5D40-96D6-313E55C1350C",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "In the wet room, a demonstrator shows how a sheet can be formed from a suspension of fibres in water. Visitors watch from behind the marked line, and small groups are invited to ask questions afterwards. This room is about a process, not about producing a souvenir for every visitor. There is a separate family activity where people can try a simplified paper-making exercise under supervision."
+    },
+    {
+     "id": "C47C0F41-75BC-5E23-B51F-2780D23D0602",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The drying gallery follows the journey after a wet sheet has been formed. It contains photographs and models rather than an operating industrial drying system. A short sequence compares water removal at different stages. Encourage visitors to follow the numbered panels; jumping straight to the last photograph can hide why pressing and drying have separate roles. If someone wants the detailed technical explanation, the educator has a reference sheet."
+    },
+    {
+     "id": "7ACF053A-206E-53E9-8087-FADD4014500C",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The print room shows what happens when a finished sheet is used for an image. Today's visiting printer will discuss why different papers can give different results. Please don't describe one sample as universally the best. The printer will explain its suitability for the particular method being demonstrated. We are showing choices, not running a contest between every kind of paper."
+    },
+    {
+     "id": "FD1B3187-769D-55ED-91C4-4FCC60849AB9",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The family making tables are in the covered yard. Participants need a ticket because the number of supervised places is limited. Tickets are free and collected at reception. A watching adult does not need a separate activity ticket, but children must remain with their responsible adult. The activity can be messy, so we provide aprons. We cannot guarantee that visitors will leave with a completely dry sheet."
+    },
+    {
+     "id": "5E1CDE0F-1F84-5233-B642-5B2407ECD10A",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "There are two changes to the printed programme. The talk about the building's water supply has moved from the library to the meeting room. Also, the final wet-room demonstration begins at three thirty, not four. We need time afterwards to prepare the room for the following day's school visit. Please point out that change to anyone asking about an afternoon demonstration."
+    },
+    {
+     "id": "F5691B11-6398-5E1D-BC08-2349437686A1",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "For practical questions, public toilets are beside the courtyard entrance. Drinking water is available at the café, and visitors may use their own bottles. Food stays in the café and picnic garden. The historic store is not a picnic space, even if its doorway looks like a convenient place to sit. We need the access route clear throughout the day. If a group wants to rest, direct them to the picnic garden rather than leave them standing beside the store entrance."
+    },
+    {
+     "id": "CAB1AD89-7BA8-55AC-B0DF-52040DE1F6F9",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Finally, each volunteer has a blue folder containing the programme, emergency contact information and a simple map. Return it to reception before leaving, so the next person can use it. If a visitor gives you a question you cannot answer, write it on the enquiry sheet and refer it to the educator. It is better to leave a question open briefly than provide an invented explanation that another volunteer will then have to correct."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam28-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Fibre table",
+     "explanation": "Visitors compare labelled fibre samples.",
+     "evidenceQuote": "compare the appearance of different fibres",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Comparing fibre samples",
+      "Comparing fibre samples"
+     ]
+    },
+    {
+     "id": "exam28-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Wet room",
+     "explanation": "The demonstration concerns sheet formation.",
+     "evidenceQuote": "how a sheet can be formed",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Watching a sheet being formed",
+      "Watching a sheet being formed"
+     ]
+    },
+    {
+     "id": "exam28-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Drying gallery",
+     "explanation": "The panels show stages of water removal.",
+     "evidenceQuote": "water removal at different stages",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Following stages of water removal",
+      "Following stages of water removal"
+     ]
+    },
+    {
+     "id": "exam28-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Print room",
+     "explanation": "The room relates paper choices to printing methods.",
+     "evidenceQuote": "suitability for the particular method",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. Connecting paper choices with printing methods",
+      "Connecting paper choices with printing methods"
+     ]
+    },
+    {
+     "id": "exam28-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Family making tables",
+     "explanation": "Families participate in a supervised activity.",
+     "evidenceQuote": "try a simplified paper-making exercise",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Trying a supervised making activity",
+      "Trying a supervised making activity"
+     ]
+    },
+    {
+     "id": "exam28-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What should volunteers do if a touching tray is empty?",
+     "explanation": "Historical samples must not be moved into the tray.",
+     "evidenceQuote": "ask a member of staff for a replacement",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Take an object from the historical display.",
+      "B. Ask staff to supply a replacement.",
+      "C. Close the whole exhibition immediately."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Ask staff to supply a replacement.",
+      "Ask staff to supply a replacement."
+     ]
+    },
+    {
+     "id": "exam28-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "Why do family activities require tickets?",
+     "explanation": "The limit concerns supervised capacity.",
+     "evidenceQuote": "the number of supervised places is limited",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Supervised places are limited.",
+      "B. Only paying adults may watch.",
+      "C. Everyone must take home a dry sheet."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Supervised places are limited.",
+      "Supervised places are limited."
+     ]
+    },
+    {
+     "id": "exam28-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What should a volunteer do with an unanswered visitor question?",
+     "explanation": "The question should be recorded and referred.",
+     "evidenceQuote": "refer it to the educator",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Give the most plausible explanation immediately.",
+      "B. Ask another visitor to invent an answer.",
+      "C. Record it and refer it to the educator."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Record it and refer it to the educator.",
+      "Record it and refer it to the educator."
+     ]
+    },
+    {
+     "id": "exam28-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "The water-supply talk is now in the __________ room.",
+     "explanation": "The talk has moved from the library.",
+     "evidenceQuote": "to the meeting room",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meeting"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Return the blue __________ before leaving.",
+     "explanation": "The preceding sentence identifies the item as a blue folder.",
+     "evidenceQuote": "each volunteer has a blue folder",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "folder"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Match each area with its main focus. Choose A–G.",
+     "options": [
+      "A. Watching a sheet being formed",
+      "B. Buying historical machinery",
+      "C. Trying a supervised making activity",
+      "D. Following stages of water removal",
+      "E. Repairing the building’s water supply",
+      "F. Comparing fibre samples",
+      "G. Connecting paper choices with printing methods"
+     ]
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "instruction": "Questions 16–18. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "instruction": "Questions 19–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam28-lp3",
+   "partNumber": 3,
+   "title": "Developing an unfolding display for an exhibition",
+   "contextDescription": "Two design students discuss the practical arrangement for a folding display model.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "098B8674-88EF-5677-90EA-423A1CE36262",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "You have an attractive folded model, but tell me how it will be used at the exhibition. A structure that works when its maker carefully holds it is not necessarily ready to be demonstrated repeatedly to a corridor audience. What is the intended experience?"
+    },
+    {
+     "id": "725B50DB-BFC5-5F5E-94EF-B2DB22BE3D65",
+     "speaker": "Clara",
+     "accent": "en-AU",
+     "text": "We want visitors to see a compact shape open into a wider surface. At first we planned to let everyone pull it open, but after the rehearsal we think a demonstrator should operate it. Several people pulled different corners at the same time, so the movement was difficult to explain and the paper started to tear."
+    },
+    {
+     "id": "17DFAFEE-F117-51EE-B600-4F571CC2022E",
+     "speaker": "Ravi",
+     "accent": "en-CA",
+     "text": "The model has one marked starting point. We can put a small handle there, but it must be clear that the handle belongs to the model, not an instruction to pull any part of the display. The technician suggested fixing the base to a board so the whole thing doesn't slide across the table during opening."
+    },
+    {
+     "id": "5BD183DF-7377-5537-823F-70102C28D8B2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That addresses the physical arrangement. What will you say about the connection with engineering? You must distinguish your paper demonstration from a device intended to work in space or carry a structural load."
+    },
+    {
+     "id": "57AEAC0E-D94A-557D-B5AB-54E4B2A15E6D",
+     "speaker": "Clara",
+     "accent": "en-AU",
+     "text": "We'll explain that the shared idea is compact storage followed by deployment. We won't claim our paper proves a spacecraft component would work. A real component has thickness, joints and operating conditions that our model doesn't reproduce. We can use a diagram to show that difference rather than just add a vague warning at the end."
+    },
+    {
+     "id": "4B7340F6-C5C1-5923-A8EA-E3AA588203C9",
+     "speaker": "Ravi",
+     "accent": "en-CA",
+     "text": "For the poster, I have two photographs: one folded and one open. Clara pointed out that they were taken at different scales, which made the expansion look much larger than it was. We'll photograph both from the same camera position, with the same reference grid visible underneath."
+    },
+    {
+     "id": "2BEA0BBD-0BE9-52F3-97B4-22E1BA63572E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good correction. A comparison should not accidentally exaggerate the result. What measurements will you include? People may find a physical example easier to follow than a list of technical terms."
+    },
+    {
+     "id": "109BF0E2-BCEB-5C2A-9659-9CA242A0514B",
+     "speaker": "Clara",
+     "accent": "en-AU",
+     "text": "We'll give the width in each state. We first thought of saying it becomes four times bigger, but bigger could mean width, area or volume. We need to say exactly which measure we're using. The width changes from twelve centimetres to forty-eight, so four times the width is accurate for this model."
+    },
+    {
+     "id": "D16505A5-1E22-5C65-AEF5-7F636AAA81DE",
+     "speaker": "Ravi",
+     "accent": "en-CA",
+     "text": "We should also leave enough space around the table. If the surface opens towards the audience, someone standing too close might instinctively push it back. The demonstration line on the floor can show where to stand without making people feel they can't ask questions."
+    },
+    {
+     "id": "4CA70F34-18E1-5BFC-9C6C-57E37F019783",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what happens if the model is damaged during the day? You cannot assume that the first successful demonstration means it will survive every session unchanged."
+    },
+    {
+     "id": "3DED4797-AB2F-552B-A9DB-76CB960C1020",
+     "speaker": "Clara",
+     "accent": "en-AU",
+     "text": "We'll prepare a spare and keep it in the storage cupboard. We can also display the photographs if we need to pause demonstrations. The poster should still explain the idea when no one is operating the model. We don't want visitors to arrive between sessions and see only an unexplained folded shape."
+    },
+    {
+     "id": "1CFBEA1D-65DF-526B-959F-77FB35A91725",
+     "speaker": "Ravi",
+     "accent": "en-CA",
+     "text": "The final rehearsal will include setting up from the packed case, not just practising the opening movement. Last time we forgot the fixing board because it was stored separately. A packing list will help the next demonstrator assemble the same arrangement without relying on us being there. We can attach a small photograph of the packed case to show where each component belongs."
+    },
+    {
+     "id": "DF576E40-2C9C-5685-8E42-4DC5A55573FC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That is a useful improvement. Test the full sequence: unpacking, setting up, demonstrating and putting everything away. The exhibition is a practical system as well as an object. Make the central idea clear, keep comparisons honest and give the demonstrator enough information to repeat the experience consistently."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam28-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why will a demonstrator operate the model?",
+     "explanation": "Uncontrolled simultaneous pulling made the movement unclear and damaged the paper.",
+     "evidenceQuote": "Several people pulled different corners at the same time",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Visitors refused to watch any movement.",
+      "B. The model can only be operated electronically.",
+      "C. The rehearsal revealed problems with several people pulling."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The rehearsal revealed problems with several people pulling.",
+      "The rehearsal revealed problems with several people pulling."
+     ]
+    },
+    {
+     "id": "exam28-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What is the purpose of fixing the base to a board?",
+     "explanation": "The board prevents the model moving across the surface.",
+     "evidenceQuote": "doesn't slide across the table",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To prevent sliding during opening.",
+      "B. To make the paper appear thicker.",
+      "C. To hide the marked starting point."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. To prevent sliding during opening.",
+      "To prevent sliding during opening."
+     ]
+    },
+    {
+     "id": "exam28-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What was wrong with the first pair of photographs?",
+     "explanation": "Different scales exaggerated the apparent expansion.",
+     "evidenceQuote": "taken at different scales",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Both showed only the folded form.",
+      "B. Their scales made the comparison misleading.",
+      "C. Neither contained a model."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Their scales made the comparison misleading.",
+      "Their scales made the comparison misleading."
+     ]
+    },
+    {
+     "id": "exam28-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why will they avoid saying simply “four times bigger”?",
+     "explanation": "The measure must be specified.",
+     "evidenceQuote": "bigger could mean width, area or volume",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The phrase leaves the measure unclear.",
+      "B. The width does not change at all.",
+      "C. They are not allowed to use centimetres."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The phrase leaves the measure unclear.",
+      "The phrase leaves the measure unclear."
+     ]
+    },
+    {
+     "id": "exam28-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What will the final rehearsal include?",
+     "explanation": "The rehearsal will cover the whole exhibition sequence.",
+     "evidenceQuote": "setting up from the packed case",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Only the final opening movement.",
+      "B. A claim that the model works in space.",
+      "C. Unpacking and setting up as well as demonstrating."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Unpacking and setting up as well as demonstrating.",
+      "Unpacking and setting up as well as demonstrating."
+     ]
+    },
+    {
+     "id": "exam28-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "The engineering idea is storage followed by __________.",
+     "explanation": "The analogy concerns two physical states.",
+     "evidenceQuote": "compact storage followed by deployment",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "deployment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Use the same reference __________ in both photographs.",
+     "explanation": "The grid makes scale comparable.",
+     "evidenceQuote": "the same reference grid visible underneath",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "The model’s open width is forty-eight __________.",
+     "explanation": "The width comparison uses centimetres.",
+     "evidenceQuote": "twelve centimetres to forty-eight",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "centimetres"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Keep a spare in the storage __________.",
+     "explanation": "The spare is available if the model is damaged.",
+     "evidenceQuote": "keep it in the storage cupboard",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cupboard"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Prepare a packing __________ for future demonstrators.",
+     "explanation": "The list prevents components being forgotten.",
+     "evidenceQuote": "A packing list will help",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "list"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam28-lp4",
+   "partNumber": 4,
+   "title": "Folding information into a usable instruction sheet",
+   "contextDescription": "A lecturer discusses the design of instructions supplied with a fictional folding-display kit.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "715E9C41-1023-5989-98BA-BF170B49A757",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "An instruction sheet for a folding object has to describe a change that happens in three dimensions using marks on a flat surface. The maker may know the movement so well that several steps seem obvious. A first-time user does not share that experience. Today we will follow the preparation of instructions for a fictional display kit, looking at how the page can guide a person without requiring the designer to stand beside them and explain every turn."
+    },
+    {
+     "id": "E30EF1AE-11E9-5070-8312-3ADE90F1AB25",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "First, establish the starting orientation. If the object has two similar faces, a user may begin on the wrong side and still feel they are following the picture accurately. A distinct reference mark can help, provided it is visible in the actual object as well as the drawing. Don't introduce a decorative mark on the instruction alone and expect a user to find its equivalent. The relationship between page and object must be explicit from the first step."
+    },
+    {
+     "id": "EE078083-56F4-57E2-BBF4-C4FA297D089A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Next, choose a consistent viewing direction for the sequence. Changing the viewpoint can be necessary, but signal the change rather than letting the object appear to reverse itself without explanation. A small rotation symbol or a separate step can show that the user should turn the whole object. This is different from folding one section. If the same arrow is used for both actions, the drawing may be visually tidy but practically ambiguous."
+    },
+    {
+     "id": "314BBFB8-1839-57F2-99F4-FA5185C7802D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Crease conventions also need an explanation. A mountain fold and a valley fold describe opposite directions relative to the side being viewed. The user needs to know which side that is. Colour can reinforce a convention, but it should not be the only distinction. Line patterns and a key can preserve the meaning in a monochrome copy or for someone who does not distinguish the chosen colours. The aim is redundancy that supports understanding, not decoration added without a purpose."
+    },
+    {
+     "id": "4EFF6B24-63A2-5A14-9FA0-FE6FE6E40B55",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Each stage should show the result of an action, not only the action's beginning. A user can then compare the object in their hands with a visible checkpoint. If the result looks different, they have a chance to notice before later folds make correction difficult. These checkpoints are particularly useful where the next step partly hides a surface. Once it is hidden, the user may no longer be able to see why the arrangement is failing to open as expected."
+    },
+    {
+     "id": "D34BB6EB-CC30-585B-BA37-D50926014BFF",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Words and pictures should carry complementary information. A short sentence can clarify whether a crease should be made now or merely recognised as an existing line. Repeating a vague phrase such as 'fold carefully' beside every picture adds length without resolving a specific question. Likewise, a long technical paragraph can interrupt a simple sequence. Choose language that answers a likely uncertainty at that stage, and place it near the relevant image rather than in a distant section of general advice."
+    },
+    {
+     "id": "0B2F1A14-7F56-583B-A734-E80A3EA016F8",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Testing should use the printed format people will receive. A drawing that is clear on a large monitor may become difficult to read when reduced to fit the package. Observe a first-time user following the sequence and note where they hesitate. Do not immediately point to the answer, because that turns the test into a demonstration of your own explanation. Afterwards, ask what they understood the mark or sentence to mean. Their interpretation can reveal a problem the experienced maker has stopped noticing."
+    },
+    {
+     "id": "EE635657-C8FA-5C9D-BD64-ED2594C371AA",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, keep version control when the design changes. A revised model paired with an old sheet can create an impossible task even if each was once correct on its own. The kit record should identify which instruction version belongs to which model. Review the whole sequence after a change, because an alteration near the beginning may affect a later picture. Good instructions are part of the designed experience: they connect an unfamiliar person, a physical object and a repeatable route from the starting state to the intended result."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam28-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Define the starting __________ of the object.",
+     "explanation": "The user must begin from the correct side.",
+     "evidenceQuote": "establish the starting orientation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "orientation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "A reference __________ must appear on the actual object.",
+     "explanation": "The mark connects drawing and object.",
+     "evidenceQuote": "A distinct reference mark",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mark"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Signal any change of viewing __________.",
+     "explanation": "A changed viewpoint should be indicated.",
+     "evidenceQuote": "a consistent viewing direction",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "direction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "An arrow for rotation should differ from one for __________.",
+     "explanation": "The symbols should distinguish actions.",
+     "evidenceQuote": "different from folding one section",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "folding"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Line patterns and a __________ explain crease conventions.",
+     "explanation": "Colour alone is insufficient.",
+     "evidenceQuote": "Line patterns and a key",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "key"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Show results as visible __________ for users.",
+     "explanation": "Checkpoints allow comparison during the sequence.",
+     "evidenceQuote": "These checkpoints",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "checkpoints"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Pictures and words should provide __________ information.",
+     "explanation": "The two formats should support different needs.",
+     "evidenceQuote": "complementary information",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "complementary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Place explanatory language near the relevant __________.",
+     "explanation": "Proximity helps users connect text and action.",
+     "evidenceQuote": "near the relevant image",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "image"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "During testing, record where a beginner may __________.",
+     "explanation": "Hesitation can reveal an unclear instruction.",
+     "evidenceQuote": "note where they hesitate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hesitate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "After revisions, maintain __________ control.",
+     "explanation": "Models and instructions must correspond.",
+     "evidenceQuote": "keep version control",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "version"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam28-rp1",
+   "passageNumber": 1,
+   "title": "From fibres in water to a continuous sheet",
+   "discipline": "Manufacturing",
+   "paragraphs": [
+    "Paper is not a thin slice cut from a tree. It is a sheet formed from a network of fibres, most commonly cellulose fibres obtained from wood, although other plant sources can also be used. Tearing a sheet can reveal small fibres along the edge. The route from those fibres to a useful sheet involves preparing them, distributing them in water and removing that water in controlled stages. Hand papermaking and large industrial machines differ enormously in scale, but the basic relationship between a fibre suspension and a formed sheet connects them.",
+    "The fibre source affects the preparation. New pulp can be produced from wood through processes that separate its fibres, while recovered paper provides fibres from earlier products. Recovered material must be prepared for the new use rather than treated as a ready-made clean ingredient. In a recycled-fibre process, paper is mixed with water in a pulper and stirred into a suspension. Screens and other preparation stages remove unwanted material. The desired product is not simply wet pieces of old paper, but a usable supply of fibres for forming a new web.",
+    "At the forming stage, a dilute suspension is spread across a moving forming fabric. Water drains through while fibres remain together as a developing mat. In a hand process, a screen and frame can similarly collect fibres from a watery suspension, though the sheet is formed individually rather than as a continuous industrial web. The large proportion of water helps distribute the fibres before much of it is removed. This is why describing papermaking only as pressing a solid substance flat misses an essential early part of the process.",
+    "The wet web then passes through pressing stages that remove more water mechanically. Pressure also brings the developing sheet into a more compact arrangement. Pressing is not the same as complete drying: a coherent sheet can still contain substantial moisture. Separating these stages helps explain the long path through a paper machine. A sheet does not become ready for winding merely because it can be recognised as paper. The water remaining after forming and pressing must still be addressed before the product reaches its intended final condition.",
+    "Industrial drying commonly uses heated cylinders, with fabrics supporting the web as it travels through the section. Depending on the product and process, surface treatments and further drying can follow. A paper intended for packaging may need properties different from one intended for another use, so it is misleading to assume that every mill produces the same sheet by an identical sequence. The principles of fibre preparation and water removal are shared, while the detailed arrangement reflects the paper being made. Process descriptions need to keep that distinction visible.",
+    "Finishing can alter how the sheet feels or receives printing. Smooth rollers may be used to modify its surface, and measurements help control the developing product. At the end of a continuous process, paper is wound into a large reel. A later winding stage can divide that reel into smaller rolls suited to customer orders. The output of the paper machine and the form delivered to a customer are therefore not necessarily the same size. Cutting and winding connect a continuous manufacturing process with the different formats required for later use.",
+    "Recycling returns fibres to this cycle, but it does not make the same fibre indefinitely suitable for every new sheet. Fibres lose useful papermaking qualities through repeated processing, so new fibre remains part of the wider system. Recovered material also differs in composition and condition. This is a reason to understand recycling as preparation and manufacture, not simply collection. A bin of used paper is the beginning of a possible supply chain; it is not yet a finished material with all the properties the next customer needs.",
+    "Looking at a sheet through its manufacture reveals a careful progression from a dispersed material to a continuous surface. Water is necessary for forming, then removed through different methods; fibres are recovered or newly supplied, then prepared for a particular purpose. The simplicity of the finished object hides the coordination of these stages. A piece of paper can be folded, printed or used to protect something, but those later activities depend on choices already made in its production. Understanding the sheet means understanding both the fibres it contains and the process that brought them together."
+   ],
+   "questions": [
+    {
+     "id": "exam28-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Paper is manufactured by slicing a tree into very thin solid layers.",
+     "explanation": "It is formed from fibres.",
+     "evidenceQuote": "not a thin slice cut from a tree",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam28-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Paper fibres can come from plants other than trees.",
+     "explanation": "Wood is common but not the only source.",
+     "evidenceQuote": "other plant sources can also be used",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam28-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The passage specifies how much electricity a particular pulper uses each hour.",
+     "explanation": "No electrical consumption figure is provided.",
+     "evidenceQuote": "in a pulper",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam28-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Screens can remove unwanted material from a recycled-fibre preparation.",
+     "explanation": "Screening is part of preparation.",
+     "evidenceQuote": "Screens and other preparation stages remove unwanted material.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam28-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Pressing a wet web necessarily completes its drying.",
+     "explanation": "Further moisture remains.",
+     "evidenceQuote": "Pressing is not the same as complete drying",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam28-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Every paper mill follows exactly the same production sequence.",
+     "explanation": "Details vary with product and process.",
+     "evidenceQuote": "misleading to assume that every mill produces the same sheet by an identical sequence",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam28-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "All smaller customer rolls described in the text have equal widths.",
+     "explanation": "No equal-width requirement is stated.",
+     "evidenceQuote": "smaller rolls suited to customer orders",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam28-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Fibres dispersed in water form a __________.",
+     "explanation": "The watery suspension is central to forming.",
+     "evidenceQuote": "a fibre suspension",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suspension"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A moving forming __________ retains the developing mat.",
+     "explanation": "Water drains through the forming fabric.",
+     "evidenceQuote": "a moving forming fabric",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fabric"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Drying can use heated __________.",
+     "explanation": "Cylinders supply heat in industrial drying.",
+     "evidenceQuote": "heated cylinders",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cylinders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Continuous paper is wound into a large __________.",
+     "explanation": "The reel can later be divided.",
+     "evidenceQuote": "a large reel",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "New fibre is still needed because reused fibres lose useful __________.",
+     "explanation": "Repeated processing limits fibre reuse.",
+     "evidenceQuote": "lose useful papermaking qualities",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "qualities"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "The finished sheet conceals the __________ of its production stages.",
+     "explanation": "The process links several operations.",
+     "evidenceQuote": "the coordination of these stages",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coordination"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 721,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam28-rp2",
+   "passageNumber": 2,
+   "title": "The engineering potential of a fold",
+   "discipline": "Space Engineering",
+   "paragraphs": [
+    "A sheet that opens into a broad surface but closes into a compact bundle poses an appealing engineering possibility. Spacecraft equipment can require a large working area while having to fit into a limited launch volume. Folding offers one way to connect these two states. The connection with origami is more than a resemblance between a spacecraft and a paper sculpture. Crease patterns can describe coordinated movement, allowing designers to investigate how a structure changes shape and which parts must move together as it is deployed.",
+    "Solar arrays provide a well-established setting for the idea. Space equipment has long used relatively simple folds, including arrangements resembling fans or accordions. More intricate patterns have also been investigated. The Miura fold, associated with Japanese astrophysicist Koryo Miura, creates a surface divided into parallelograms that can open through a coordinated movement. An array using the pattern was deployed on Japan's Space Flyer Unit in 1995. The example shows that folding geometry is not confined to decorative paper work, while leaving open the question of which pattern suits a particular future device.",
+    "In 2014, NASA's Jet Propulsion Laboratory described work with Brigham Young University on an origami-inspired solar-array prototype. The collaboration involved engineers and an origami specialist, bringing different kinds of expertise to the same geometric problem. The proposed arrangement was not simply a Miura pattern copied unchanged. It combined folds to open into a broad circular surface. This distinction matters: an engineering application can draw on the art of folding without treating every successful paper pattern as an interchangeable solution for every structure that needs to unfold.",
+    "Material thickness creates a central difficulty in that translation. Paper models are often considered nearly thin enough for their thickness to be neglected, while practical panels and their connections occupy space. Folded layers accumulate, and surfaces that pass one another in an ideal drawing may interfere in a physical assembly. Designers must account for the actual construction rather than assume that a flat pattern determines every detail. The geometry suggests possibilities, but the material and joints affect how those possibilities can be realised in an operating structure.",
+    "The Starshade concept gives folding another role. A proposed large optical shield would fly separately from a space telescope and block the light of a star, helping the telescope observe much fainter planets nearby. Such a shield must occupy a very different area when working than when packed for launch. NASA has investigated origami-inspired ways of stowing parts of the structure. Educational paper models can demonstrate compact storage and unfolding, but they are models of the concept, not evidence that a paper object reproduces the conditions or precision of a space mission.",
+    "People have helped ideas move between the fields. Robert Lang worked as an engineer before becoming a full-time origami artist and has consulted on space-related folding problems. His experience illustrates why the connection is not a simple transfer in one direction from an ancient art to a modern industry. Mathematical analysis, material constraints and visual imagination can all contribute. A maker may explore a pattern by hand, an engineer may define a deployment requirement, and computation may help examine an arrangement too complicated to understand from a single folded model alone.",
+    "Another research direction concerns structures that fold through a material's own response rather than relying only on a conventional motor. NASA's Activation of Self-folding Origami in Microgravity Environment project investigated shape-memory polymer sheets. The work concerned how stored energy and controlled material responses could contribute to lightweight deployment mechanisms. It should not be read as a claim that every folded spacecraft structure already uses this approach. It is an example of how the general question of changing shape can lead beyond a paper crease to interactions between geometry, energy and material behaviour.",
+    "These developments help explain the continuing appeal of folding. Launch and working configurations can make conflicting demands, and a coordinated change of shape offers a way to negotiate them. Yet the success of a particular pattern depends on more than how impressively a model opens on a table. Space structures bring their own requirements for material, control and operation. Origami contributes a language of possibilities: relationships between panels, folds and movements that can be examined and adapted. Engineering turns selected possibilities into arrangements capable of meeting a defined task."
+   ],
+   "questions": [
+    {
+     "id": "exam28-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B discusses solar-array folds and the Miura example.",
+     "evidenceQuote": "Solar arrays provide a well-established setting",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Solar arrays and a deployed historical example",
+      "Solar arrays and a deployed historical example"
+     ]
+    },
+    {
+     "id": "exam28-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C describes a collaboration using combined folds.",
+     "evidenceQuote": "work with Brigham Young University",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A collaboration combining different fold patterns",
+      "A collaboration combining different fold patterns"
+     ]
+    },
+    {
+     "id": "exam28-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D explains translating thin-sheet geometry into physical construction.",
+     "evidenceQuote": "Material thickness creates a central difficulty",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Allowing for the thickness of real components",
+      "Allowing for the thickness of real components"
+     ]
+    },
+    {
+     "id": "exam28-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E explains a proposed optical shield.",
+     "evidenceQuote": "The Starshade concept",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Stowing a proposed shield for a telescope",
+      "Stowing a proposed shield for a telescope"
+     ]
+    },
+    {
+     "id": "exam28-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F discusses expertise crossing art and engineering.",
+     "evidenceQuote": "People have helped ideas move between the fields.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Expertise moving between disciplines",
+      "Expertise moving between disciplines"
+     ]
+    },
+    {
+     "id": "exam28-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G discusses self-folding material research.",
+     "evidenceQuote": "a material's own response",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Investigating material-driven deployment",
+      "Investigating material-driven deployment"
+     ]
+    },
+    {
+     "id": "exam28-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H summarises the role and limits of folding geometry.",
+     "evidenceQuote": "Origami contributes a language of possibilities",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. From geometric possibilities to a defined task",
+      "From geometric possibilities to a defined task"
+     ]
+    },
+    {
+     "id": "exam28-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What conflicting needs make folding attractive for spacecraft equipment?",
+     "explanation": "The working and launch configurations differ.",
+     "evidenceQuote": "a large working area while having to fit into a limited launch volume",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It must always remain flat and motionless.",
+      "B. It may need a large operating area and compact launch form.",
+      "C. It must be made exclusively from paper.",
+      "D. It must eliminate the need for every joint."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It may need a large operating area and compact launch form.",
+      "It may need a large operating area and compact launch form."
+     ]
+    },
+    {
+     "id": "exam28-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What does the passage say about the 2014 array prototype?",
+     "explanation": "It did not simply copy one Miura pattern unchanged.",
+     "evidenceQuote": "It combined folds",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was the first paper sculpture ever made.",
+      "B. It used no input from an origami specialist.",
+      "C. It copied every detail of a Miura pattern unchanged.",
+      "D. It combined folds for a circular deployed form."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It combined folds for a circular deployed form.",
+      "It combined folds for a circular deployed form."
+     ]
+    },
+    {
+     "id": "exam28-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What is the intended role of Starshade?",
+     "explanation": "Reducing starlight could help observe fainter nearby planets.",
+     "evidenceQuote": "block the light of a star",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To block starlight for a separate telescope.",
+      "B. To replace every telescope mirror with paper.",
+      "C. To generate power from a folded motor.",
+      "D. To keep every planet hidden from the telescope."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. To block starlight for a separate telescope.",
+      "To block starlight for a separate telescope."
+     ]
+    },
+    {
+     "id": "exam28-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The Miura pattern divides a surface into __________.",
+     "explanation": "The geometry is specified in B.",
+     "evidenceQuote": "divided into parallelograms",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parallelograms"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Real folded layers can __________ with one another.",
+     "explanation": "Thickness can create physical conflicts.",
+     "evidenceQuote": "may interfere in a physical assembly",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "interfere"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Self-folding research links geometry, energy and material __________.",
+     "explanation": "The project adds material response to geometry.",
+     "evidenceQuote": "material behaviour",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "behaviour"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 715,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. Stowing a proposed shield for a telescope",
+      "ii. A collaboration combining different fold patterns",
+      "iii. Why every solar array must use one pattern",
+      "iv. Investigating material-driven deployment",
+      "v. Allowing for the thickness of real components",
+      "vi. From geometric possibilities to a defined task",
+      "vii. Solar arrays and a deployed historical example",
+      "viii. Replacing all engineering with decorative skill",
+      "ix. Expertise moving between disciplines"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam28-rp3",
+   "passageNumber": 3,
+   "title": "Why engineers should sometimes make things by hand",
+   "discipline": "Engineering Education",
+   "paragraphs": [
+    "A student can change a digital model by altering a number and see a new form appear immediately. The speed is valuable, but it can create a misleading impression that changing a shape is always equally straightforward in the physical world. In my view, making selected models by hand remains a useful part of engineering education. The purpose is not to turn every engineer into a specialist craft worker or reject digital tools. It is to make certain relationships visible through contact with materials, operations and the consequences of decisions that a screen can make easy to overlook.",
+    "A folded sheet provides a modest example. A line in a drawing has no thickness; an actual crease affects how a material bends and how neighbouring sections meet. A learner who constructs the form can encounter a conflict between an attractive pattern and a workable sequence. This encounter does not automatically teach the correct explanation. It creates a concrete question that can be investigated. I would value the activity most when it is connected with discussion and analysis, rather than presented as an experience from which understanding will emerge without further thought.",
+    "The sequence of operations is another source of insight. A part that is easy to reach at the start may become inaccessible after another piece is attached. A learner working only with a completed digital view may not have considered that sequence. Physical making can expose it, while a digital tool can help examine alternatives once the problem is recognised. The methods need not compete for exclusive authority. In my view, their educational value lies partly in allowing students to compare what each representation makes clear and what it leaves less obvious.",
+    "However, practical work should not be confused with a test of who already possesses informal experience. Some students arrive having used tools at home; others have had little opportunity. A course that rewards speed or surface neatness without teaching the relevant techniques may reproduce those differences rather than support learning. I believe instruction, supervision and suitable access are essential. The aim should be to develop understanding, not to identify the students whose prior circumstances allowed them to practise the activity before the class began.",
+    "Assessment should follow that aim. A neatly finished object may conceal a poorly understood process, while an imperfect model may support a thoughtful explanation of a real difficulty. This does not mean quality of work is irrelevant. It means that the marking should distinguish the intended learning from unrelated signs of polish. A student might be asked to explain a sequence, identify a constraint and show how a revision responded to it. Such evidence can reveal understanding more directly than treating the most attractive object as automatically the most educationally successful one.",
+    "Time and resources impose reasonable limits. It would be wasteful to manufacture every alternative physically when a simpler representation can answer the question. Nor should students undertake specialist operations without the competence and support required. I would select practical tasks for the insight they can provide, not for their resemblance to an impressive industrial workshop. Paper, simple components or supervised models may be entirely appropriate. The educational issue is whether the activity connects a decision with a consequence the learner needs to understand, rather than how expensive the equipment appears to be.",
+    "Digital methods remain indispensable in this account. They allow changes, calculations and views that may be difficult or costly to obtain physically. The case for hand making becomes weaker, not stronger, when it relies on dismissing those benefits. A well-designed course can move between methods: sketching an idea, constructing a limited model, analysing a difficulty and refining the digital description. Each move should have a purpose. In my view, the combination is valuable because it prevents one convenient form of representation from being mistaken for the whole activity of engineering.",
+    "The strongest argument for making by hand is therefore selective and practical. It can connect abstract decisions with material behaviour and the order in which work happens. It also needs explicit teaching, fair assessment and a reason for choosing that particular activity. A student should leave with more than an object to display. The useful result is a better question, a clearer explanation or a decision informed by an encountered constraint. That is a defensible place for hand making within modern engineering education, alongside rather than in opposition to powerful digital tools."
+   ],
+   "questions": [
+    {
+     "id": "exam28-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Practical model-making should replace all digital engineering tools.",
+     "explanation": "The writer supports a combination.",
+     "evidenceQuote": "not to turn every engineer into a specialist craft worker or reject digital tools",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam28-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Encountering a physical difficulty should lead to further explanation and analysis.",
+     "explanation": "Experience alone is not sufficient.",
+     "evidenceQuote": "connected with discussion and analysis",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam28-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Prior access to tools can differ between students.",
+     "explanation": "The writer recognises unequal prior opportunities.",
+     "evidenceQuote": "others have had little opportunity",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam28-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Surface neatness always reveals the strongest understanding.",
+     "explanation": "Appearance and understanding can differ.",
+     "evidenceQuote": "A neatly finished object may conceal a poorly understood process",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam28-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Every alternative design needs to be manufactured physically.",
+     "explanation": "Practical making should be selective.",
+     "evidenceQuote": "wasteful to manufacture every alternative physically",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam28-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer proposes that every engineering course allocate exactly one quarter of its time to hand making.",
+     "explanation": "No fixed time allocation is proposed.",
+     "evidenceQuote": "Time and resources impose reasonable limits.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam28-R33",
+     "number": 33,
+     "format": "Matching Sentence Endings",
+     "prompt": "Physical construction can reveal",
+     "explanation": "Operation order can change access.",
+     "evidenceQuote": "may become inaccessible after another piece is attached",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. explain constraints and the reasons for a revision.",
+      "B. demonstrate only skills learned before joining the course.",
+      "C. how the order of operations affects access.",
+      "D. the need to reject all computer-based methods.",
+      "E. instruction and supervised opportunities for different learners.",
+      "F. the understanding a particular activity can support."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. how the order of operations affects access.",
+      "how the order of operations affects access."
+     ]
+    },
+    {
+     "id": "exam28-R34",
+     "number": 34,
+     "format": "Matching Sentence Endings",
+     "prompt": "Practical teaching should provide",
+     "explanation": "Students need teaching and fair access.",
+     "evidenceQuote": "instruction, supervision and suitable access",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. explain constraints and the reasons for a revision.",
+      "B. demonstrate only skills learned before joining the course.",
+      "C. how the order of operations affects access.",
+      "D. the need to reject all computer-based methods.",
+      "E. instruction and supervised opportunities for different learners.",
+      "F. the understanding a particular activity can support."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. instruction and supervised opportunities for different learners.",
+      "instruction and supervised opportunities for different learners."
+     ]
+    },
+    {
+     "id": "exam28-R35",
+     "number": 35,
+     "format": "Matching Sentence Endings",
+     "prompt": "A useful assessment can ask students to",
+     "explanation": "The evidence should reflect the learning aim.",
+     "evidenceQuote": "explain a sequence, identify a constraint",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. explain constraints and the reasons for a revision.",
+      "B. demonstrate only skills learned before joining the course.",
+      "C. how the order of operations affects access.",
+      "D. the need to reject all computer-based methods.",
+      "E. instruction and supervised opportunities for different learners.",
+      "F. the understanding a particular activity can support."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. explain constraints and the reasons for a revision.",
+      "explain constraints and the reasons for a revision."
+     ]
+    },
+    {
+     "id": "exam28-R36",
+     "number": 36,
+     "format": "Matching Sentence Endings",
+     "prompt": "The choice of practical equipment should depend on",
+     "explanation": "The equipment’s educational purpose matters more than cost or spectacle.",
+     "evidenceQuote": "the insight they can provide",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. explain constraints and the reasons for a revision.",
+      "B. demonstrate only skills learned before joining the course.",
+      "C. how the order of operations affects access.",
+      "D. the need to reject all computer-based methods.",
+      "E. instruction and supervised opportunities for different learners.",
+      "F. the understanding a particular activity can support."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. the understanding a particular activity can support.",
+      "the understanding a particular activity can support."
+     ]
+    },
+    {
+     "id": "exam28-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "An actual crease can affect how material __________.",
+     "explanation": "Making exposes material behaviour.",
+     "evidenceQuote": "how a material bends",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bends"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Assessment should distinguish learning from visual __________.",
+     "explanation": "Surface finish is not the sole learning outcome.",
+     "evidenceQuote": "unrelated signs of polish",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "polish"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Moving between methods should have a clear __________.",
+     "explanation": "Representations should be chosen intentionally.",
+     "evidenceQuote": "Each move should have a purpose.",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purpose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam28-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "The activity can inform a decision through an encountered __________.",
+     "explanation": "A practical constraint can support better judgement.",
+     "evidenceQuote": "an encountered constraint",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "constraint"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 732,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. explain constraints and the reasons for a revision.",
+      "B. demonstrate only skills learned before joining the course.",
+      "C. how the order of operations affects access.",
+      "D. the need to reject all computer-based methods.",
+      "E. instruction and supervised opportunities for different learners.",
+      "F. the understanding a particular activity can support."
+     ]
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam28-w1",
+  "title": "Changes to a paper-craft studio",
+  "visualType": "Map Comparison",
+  "instructions": "The plans show the layout of a paper-craft studio in 2018 and after redevelopment in 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "2018|NW|Office",
+   "2018|N|Storage",
+   "2018|NE|Print room",
+   "2018|W|Materials shelves",
+   "2018|C|Shared worktables",
+   "2018|E|Drying racks",
+   "2018|SW|Entrance",
+   "2018|S|Reception",
+   "2018|SE|Small classroom",
+   "2026|NW|Office",
+   "2026|N|Storage",
+   "2026|NE|Storage",
+   "2026|W|Materials shelves",
+   "2026|C|Shared worktables",
+   "2026|E|Print room",
+   "2026|SW|Entrance",
+   "2026|S|Reception and shop",
+   "2026|SE|Classroom"
+  ],
+  "keyOverviewPoints": [
+   "The central worktables, entrance, office, classroom and materials shelves remained in their original areas.",
+   "Storage expanded into the former print-room area in the northeast; printing moved east to replace the drying racks, and reception gained a shop."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam28-w2",
+  "title": "Balancing digital and practical design education",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education and Technology",
+  "promptText": "Some people think design students should spend most of their time learning computer-based methods. Others believe making physical objects by hand is equally important. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam28-spk",
+  "theme": "Paper and practical creativity",
+  "part1Questions": [
+   "Do you still use paper notebooks?",
+   "What do you usually write by hand?",
+   "Have you ever made something from paper?",
+   "Do you prefer printed instructions or a screen?",
+   "What kind of practical activity helps you relax?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe something you made using simple materials.",
+   "bulletPoints": [
+    "what you made",
+    "which materials you used",
+    "how you made it",
+    "and explain what you learned or enjoyed from the activity"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can simple materials be useful for learning?",
+   "Should practical skills be assessed differently from written knowledge?",
+   "How can digital tools and physical models support one another?",
+   "What makes instructions easy for a beginner to follow?",
+   "How should schools provide opportunities for students with different prior experience?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening businesses, events and classroom arrangements are fictional. Writing maps describe a fictional studio. Reading is original explanatory prose with checked background sources.",
+   "Paper background: https://www.paper.org.uk/CPI/Content/Schools/Kid-zone/What-is-paper.aspx ; https://www.paper.org.uk/CPI/Content/Information/Papermaking-Process.aspx ; https://www.dssmith.com/uk/media/our-stories/20222/8/how-is-paper-made-a-step-by-step-guide-to-our-papermaking-process ; https://www.rhs.org.uk/education-learning/pdf/school-visits/rosemoor/lesson-plans/key-stage-2/paper-making-during.pdf",
+   "Origami background: https://www.jpl.nasa.gov/news/solar-power-origami-style/ ; https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/ ; https://www.nasa.gov/general/tech-today-folding-nasa-experience-into-an-origami-toolkit/ ; https://techport.nasa.gov/projects/155260",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

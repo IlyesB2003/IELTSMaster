@@ -1,0 +1,2201 @@
+{
+ "id": "practice17",
+ "examNumber": 17,
+ "pool": "practice",
+ "title": "Practice Test 17: Birds & Animal Migration",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Birds & Animal Migration",
+ "listeningParts": [
+  {
+   "id": "practice17-lp1",
+   "partNumber": 1,
+   "title": "Booking a bird-watching boat trip",
+   "contextDescription": "A man phones a wildlife tour company to book a boat trip to see seabirds.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "6DC950E4-887D-5C96-A633-0A91DA5A90DD",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good morning, Seaview Wildlife Trips. This is Hannah speaking. How can I help you?"
+    },
+    {
+     "id": "8AC164BC-7265-5C3E-A750-CF85713116FC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hi there. I'm visiting the area next month with my wife, and we'd like to go on one of your boat trips to see the seabirds. Could you tell me a bit about them?"
+    },
+    {
+     "id": "32FB7BFF-1B77-5E29-AE78-835273A665B7",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Of course. We run two trips. The short one is called the Harbour Cruise. It lasts about an hour and goes along the cliffs near the town. You'll see gulls and cormorants, and sometimes seals on the rocks."
+    },
+    {
+     "id": "2CDA0915-004B-58FD-8C0C-4A2BCCEF6F46",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "And the other one?"
+    },
+    {
+     "id": "7F52947F-C09C-58CD-BAFC-A54437A567B8",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "The other one is the Island Trip. That takes three hours, and the boat goes out to Gannet Island, which is about eight kilometres from the coast. In early summer, the island is home to thousands of seabirds, including puffins. Most people choose that one."
+    },
+    {
+     "id": "25686979-D9F6-529C-A4C8-4E4A304A8655",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Puffins! My wife would love to see puffins. When is the best time to see them?"
+    },
+    {
+     "id": "51CE52E6-FF39-5B7E-AC64-CAEE4AA954F1",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Puffins only come to the island to breed, so they're there from April until the beginning of August. After that, they go back out to sea for the winter. If you're coming next month, in June, that's the perfect time."
+    },
+    {
+     "id": "2ABC7228-2583-58A9-8CCA-4A4313C981A3",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Great. We'd like to book the Island Trip, then. Do you have places on the fourteenth of June?"
+    },
+    {
+     "id": "E7134192-400E-5343-9CD9-F97D1678CCEC",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Let me check. The fourteenth is a Saturday, and I'm afraid that's full. But we have places on the fifteenth, the Sunday."
+    },
+    {
+     "id": "C3874201-F967-5136-BEB7-1ED72CC11B50",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "The fifteenth is fine. What time does the boat leave?"
+    },
+    {
+     "id": "9C1F15E9-F6EA-5546-A955-EA8CACF33983",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "It leaves at nine fifteen in the morning from the harbour. Please arrive at least fifteen minutes before, so we can give you a short safety talk. The boat comes back at about a quarter past twelve."
+    },
+    {
+     "id": "E3221E87-187A-5E61-B5B2-3FD97A1C624D",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay. And how much is it?"
+    },
+    {
+     "id": "5A9DFBB0-703F-5158-BB31-EF74069417E6",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "The Island Trip costs thirty-two pounds per adult. Children are sixteen pounds. The Harbour Cruise is cheaper, only fourteen pounds, but of course you don't see the puffins."
+    },
+    {
+     "id": "10DDE080-17ED-54A5-AF45-DAF52BEAC5EC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's fine. Two adults, then. Is there anything we should bring?"
+    },
+    {
+     "id": "7B89503A-5B5F-54D3-A6DF-C0CC187F6DB3",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Yes. It can be cold and windy on the sea, even in summer, so bring a warm jacket. And if you have binoculars, bring those too. If you don't, you can borrow a pair from us for free, but we only have twenty pairs, so it's better to bring your own."
+    },
+    {
+     "id": "6710A4F6-0898-5A55-B49A-9038F7CFA3E0",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "We've got our own. What about life jackets?"
+    },
+    {
+     "id": "2761CFDC-FC90-5724-BF95-4A3DB55604AC",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "We give everyone a life jacket on the boat, and everyone must wear one. It's the law."
+    },
+    {
+     "id": "DDA506D0-2972-545D-88E1-87A373A51582",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay. Can we get off the boat on the island?"
+    },
+    {
+     "id": "90393A50-DC45-50D8-9A7A-F3E6749F7A1A",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "No, I'm sorry. Landing on the island isn't allowed during the breeding season, because it would disturb the birds. But the boat goes very close to the cliffs, so you get a really good view, and you can take great photos."
+    },
+    {
+     "id": "F642CE01-508A-54B9-AD65-EEB8810386DB",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That makes sense. One more thing. My wife sometimes gets seasick. Is the sea usually rough?"
+    },
+    {
+     "id": "12CD5FF1-A38A-503F-98E7-5FF23BAF4BBF",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "It's usually quite calm in June, but if the weather is bad, we cancel the trip and give you your money back. We'll send you a text message by seven o'clock that morning if there's a problem. Some people take a seasickness tablet before they go, just in case. You can buy them at the chemist next to the harbour."
+    },
+    {
+     "id": "A2969604-7C51-5A6D-AB74-F5B0F833EA28",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Good idea. Shall I give you my details?"
+    },
+    {
+     "id": "7BE1A679-B4BF-5CE8-ADF3-BA3D6B2F2BAE",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Yes, please. What's your name?"
+    },
+    {
+     "id": "5699707F-0468-553A-A683-0578FC9D245C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's David Thornton. That's T-H-O-R-N-T-O-N."
+    },
+    {
+     "id": "7609C657-B398-5C55-B4B4-727653697EC0",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Thornton. And can I have a mobile number?"
+    },
+    {
+     "id": "F325A20C-3138-5436-820B-8F0217457CB5",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Sure. It's 0 7 7 0 0, 6 3 8, 4 1 5."
+    },
+    {
+     "id": "E701E261-D760-58C1-81F3-955104F94C2D",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you. And where do you usually park? There's a car park right next to the harbour, but it's very small. The best place is the car park at the railway station, which is only a five-minute walk away, and it's free on Sundays."
+    },
+    {
+     "id": "B7193915-0427-5ADC-B3AD-A07096071DDF",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Perfect. We'll park at the station, then."
+    },
+    {
+     "id": "1DF33EBB-36C3-5D7C-86D8-216F69B114C0",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Lovely. You can pay now by card, or on the day. Which would you prefer?"
+    },
+    {
+     "id": "91A58EEF-AAEB-58D7-9DF4-390A7E485485",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'll pay now by card, please."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice17-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Trip chosen: the __________ Trip",
+     "explanation": "He books the Island Trip.",
+     "evidenceQuote": "We'd like to book the Island Trip",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Island"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Length of trip: __________ hours",
+     "explanation": "The trip is three hours long.",
+     "evidenceQuote": "That takes three hours",
+     "skillTag": "numbers",
+     "distractorNote": "The Harbour Cruise lasts one hour.",
+     "options": [],
+     "acceptedAnswers": [
+      "three",
+      "3"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Puffins on the island from April until the start of __________",
+     "explanation": "They stay until early August.",
+     "evidenceQuote": "from April until the beginning of August",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "August"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Date: Sunday __________ June",
+     "explanation": "The fifteenth has places.",
+     "evidenceQuote": "But we have places on the fifteenth, the Sunday.",
+     "skillTag": "dates",
+     "distractorNote": "The fourteenth is full.",
+     "options": [],
+     "acceptedAnswers": [
+      "fifteenth",
+      "15th",
+      "15"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Price per adult: £__________",
+     "explanation": "Adults pay £32.",
+     "evidenceQuote": "The Island Trip costs thirty-two pounds per adult.",
+     "skillTag": "numbers",
+     "distractorNote": "£16 is for children; £14 is the Harbour Cruise.",
+     "options": [],
+     "acceptedAnswers": [
+      "32",
+      "thirty-two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Bring: a warm __________ and binoculars",
+     "explanation": "Bring a warm jacket.",
+     "evidenceQuote": "so bring a warm jacket",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "jacket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Landing on the island not allowed, because it would __________ the birds",
+     "explanation": "Landing would disturb the birds.",
+     "evidenceQuote": "because it would disturb the birds",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "disturb"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Seasickness tablets sold at the __________ next to the harbour",
+     "explanation": "They are sold at the chemist.",
+     "evidenceQuote": "You can buy them at the chemist next to the harbour.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "chemist"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Name: David __________",
+     "explanation": "He spells Thornton.",
+     "evidenceQuote": "It's David Thornton. That's T-H-O-R-N-T-O-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Thornton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Best parking: car park at the railway __________",
+     "explanation": "He will park at the station.",
+     "evidenceQuote": "the car park at the railway station",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "station"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "puffin",
+    "seabird",
+    "binoculars",
+    "life jacket",
+    "harbour"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice17-lp2",
+   "partNumber": 2,
+   "title": "A visit to a wetland nature reserve",
+   "contextDescription": "A ranger welcomes a group of visitors to a wetland nature reserve.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "32825B27-2C4C-5776-8646-B357C4652D36",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "Hello, everyone, and welcome to Marsh End Nature Reserve. My name's Kylie, and I'm one of the rangers here. Before you go out and explore, I'd like to tell you a little about the reserve and how to get the most out of your visit."
+    },
+    {
+     "id": "A5E6331A-CDD0-5065-92A1-E9DB03770820",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "First, a bit of history. Fifty years ago, this whole area was a gravel quarry. When the company stopped taking out gravel, the holes filled with water, and slowly plants and birds began to arrive. Then, about thirty years ago, a local wildlife group bought the land and turned it into a nature reserve. Today, more than two hundred different kinds of birds have been seen here."
+    },
+    {
+     "id": "932C05A2-057B-54D1-895F-36C70728247E",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "The reserve is a really important stopping place for migrating birds. In spring and autumn, birds that are travelling thousands of kilometres stop here to rest and feed. Some of them, like the waders you'll see on the mud by the lake, are on their way between Africa and the Arctic. They need to eat a lot here to build up energy for the next part of their journey."
+    },
+    {
+     "id": "66DBCA4E-751F-5E03-A032-AD4A9B65848A",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "Now, let me tell you where everything is. We're in the visitor centre at the moment. Here you'll find the café, the toilets and the shop. On the wall behind me, there's a board where visitors write down the birds they've seen today, so have a look at it before you go out, and please add anything interesting when you come back. Yesterday, for example, someone saw a kingfisher by the small pond, which is always exciting, because they're bright blue and very fast."
+    },
+    {
+     "id": "52F98FBD-9F7C-50FB-91EB-F0C89ACAB3A1",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "There are three main places to watch birds. A hide, if you don't know, is a small wooden building with long, narrow windows. You can sit inside and watch the birds without them seeing you. The biggest one is the Lake Hide. It's only a two-minute walk from here, and it has wheelchair access. From the Lake Hide you can see ducks and swans, and in winter, large groups of geese arrive from Iceland."
+    },
+    {
+     "id": "4D7962D0-4B8C-52BA-9E36-E5FAC20ABC53",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "Further along the path is the Reed Bed Hide. It looks out over a large area of tall reeds. It's the best place to hear birds rather than see them, because lots of small birds sing in the reeds but they're quite hard to spot. If you're very lucky, you might see an otter there. We have a family of otters on the reserve, but they're very shy."
+    },
+    {
+     "id": "6ECEB5AE-E620-5439-80AD-E453B57FFB4E",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "The third place is the Woodland Trail. It's a circular path through the trees, and it takes about forty-five minutes to walk round. Along the trail, we've put up more than sixty nest boxes, and in spring, many of them are used by blue tits and great tits. There's also a camera inside one of the nest boxes, and you can watch the pictures live on a screen in the visitor centre."
+    },
+    {
+     "id": "E81ED153-E60D-5996-9C33-2639B0285351",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "Just a few rules. Please keep to the paths at all times, because some birds nest on the ground and their nests are very easy to step on. Dogs aren't allowed on the reserve, except for assistance dogs. And please keep your voices down in the hides, because noise frightens the birds away."
+    },
+    {
+     "id": "2BAFC5AB-1F02-5F39-8A84-02284B6CF3A5",
+     "speaker": "Ranger",
+     "accent": "en-AU",
+     "text": "If you'd like to borrow binoculars or a bird guide book, you can get them from the shop. They're free, but we ask you to leave your car keys or a phone number with us. And if you're interested in getting more involved, we're always looking for volunteers. Every Tuesday morning, a group of volunteers helps us cut back the reeds and repair the paths. You don't need any experience. Just come and talk to me afterwards. Right, enjoy your visit!"
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice17-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was the land at Marsh End used for fifty years ago?",
+     "explanation": "It was a gravel quarry.",
+     "evidenceQuote": "this whole area was a gravel quarry",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. farming",
+      "B. taking out gravel",
+      "C. a park"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. taking out gravel",
+      "taking out gravel"
+     ]
+    },
+    {
+     "id": "practice17-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why do the waders stop at the reserve?",
+     "explanation": "They feed to get energy for their journey.",
+     "evidenceQuote": "They need to eat a lot here to build up energy for the next part of their journey.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to build nests",
+      "B. to escape the cold",
+      "C. to get food and energy for their journey"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to get food and energy for their journey",
+      "to get food and energy for their journey"
+     ]
+    },
+    {
+     "id": "practice17-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What can visitors find on the board in the visitor centre?",
+     "explanation": "Visitors list the birds they have seen.",
+     "evidenceQuote": "a board where visitors write down the birds they've seen today",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a list of birds seen that day",
+      "B. a map of the paths",
+      "C. times of guided walks"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a list of birds seen that day",
+      "a list of birds seen that day"
+     ]
+    },
+    {
+     "id": "practice17-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why must visitors stay on the paths?",
+     "explanation": "Ground nests could be stepped on.",
+     "evidenceQuote": "some birds nest on the ground and their nests are very easy to step on",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The ground is wet and dangerous.",
+      "B. There are otters nearby.",
+      "C. Some birds have nests on the ground."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Some birds have nests on the ground.",
+      "Some birds have nests on the ground."
+     ]
+    },
+    {
+     "id": "practice17-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What do volunteers do on Tuesday mornings?",
+     "explanation": "They cut reeds and repair paths.",
+     "evidenceQuote": "a group of volunteers helps us cut back the reeds and repair the paths",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. lead walks for visitors",
+      "B. cut reeds and repair paths",
+      "C. count the birds"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. cut reeds and repair paths",
+      "cut reeds and repair paths"
+     ]
+    },
+    {
+     "id": "practice17-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "see geese from Iceland in winter",
+     "explanation": "Geese are seen from the Lake Hide.",
+     "evidenceQuote": "in winter, large groups of geese arrive from Iceland",
+     "skillTag": "matching",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Lake Hide",
+      "Lake Hide"
+     ]
+    },
+    {
+     "id": "practice17-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "hear small birds singing",
+     "explanation": "The Reed Bed Hide is best for hearing birds.",
+     "evidenceQuote": "It's the best place to hear birds rather than see them",
+     "skillTag": "matching",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Reed Bed Hide",
+      "Reed Bed Hide"
+     ]
+    },
+    {
+     "id": "practice17-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "possibly see an otter",
+     "explanation": "Otters may be seen from the Reed Bed Hide.",
+     "evidenceQuote": "you might see an otter there",
+     "skillTag": "matching",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Reed Bed Hide",
+      "Reed Bed Hide"
+     ]
+    },
+    {
+     "id": "practice17-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "watch live pictures from inside a nest box",
+     "explanation": "The screen is in the visitor centre.",
+     "evidenceQuote": "you can watch the pictures live on a screen in the visitor centre",
+     "skillTag": "matching",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Visitor Centre",
+      "Visitor Centre"
+     ]
+    },
+    {
+     "id": "practice17-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "walk past more than sixty nest boxes",
+     "explanation": "The nest boxes are on the Woodland Trail.",
+     "evidenceQuote": "Along the trail, we've put up more than sixty nest boxes",
+     "skillTag": "matching",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Woodland Trail",
+      "Woodland Trail"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "hide",
+    "wetland",
+    "reed bed",
+    "wader",
+    "nest box"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Where can visitors do each of the following? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. Visitor Centre",
+      "B. Lake Hide",
+      "C. Reed Bed Hide",
+      "D. Woodland Trail"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice17-lp3",
+   "partNumber": 3,
+   "title": "A project on swallows",
+   "contextDescription": "Two biology students, Emma and Raj, talk to their tutor about their project on swallows that nest on local farms.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B62EC2FA-6EED-5B39-8D8E-B64A773C2656",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Emma, hello, Raj. Come in. So, you're doing your project on swallows. How's it going?"
+    },
+    {
+     "id": "6AA4E75B-FCA8-50B0-A015-612AEC47F01A",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "Really well, thanks. We've been visiting farms near the town to count swallow nests and to find out how many chicks each pair has."
+    },
+    {
+     "id": "6A6F56E0-2D52-5BD0-92B2-CC8DAEC4DA4E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why did you choose swallows?"
+    },
+    {
+     "id": "B528EB23-5824-554E-B16B-5787DC00376C",
+     "speaker": "Raj",
+     "accent": "en-GB",
+     "text": "Partly because they're easy to find. They build their nests inside barns and other farm buildings, so you know where to look. But also because they make one of the most amazing journeys of any bird. The swallows that nest here in Britain spend the winter in South Africa. That's a journey of about ten thousand kilometres each way."
+    },
+    {
+     "id": "7387729E-1434-5900-B211-864477B8FA68",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "And they do it every year. It's incredible for a bird that weighs about the same as two coins."
+    },
+    {
+     "id": "0B736B4F-9BD7-524A-AD70-4E38FF0BB8DF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "How many farms did you visit?"
+    },
+    {
+     "id": "943D507A-BFF5-5B4B-A041-7CB785D68984",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "We visited twelve farms in total. We wanted to do fifteen, but three farmers said no, because they were worried we'd frighten their animals."
+    },
+    {
+     "id": "89919BA2-F498-5879-9824-F7D16B461E02",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's understandable. And how did you count the nests?"
+    },
+    {
+     "id": "2C30478A-0858-5AA2-9621-F625F416FBEA",
+     "speaker": "Raj",
+     "accent": "en-GB",
+     "text": "We went into each building with the farmer and looked up at the roof beams with a torch. Swallows' nests are made of mud mixed with bits of grass, and they're shaped like a cup, so they're quite easy to see. We found ninety-four nests altogether, but not all of them were being used. Some were old ones from last year."
+    },
+    {
+     "id": "7B3F8336-27A8-5C78-9236-B7C5E4B8BFB2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "How did you know which ones were in use?"
+    },
+    {
+     "id": "00776459-8DF5-52B3-9CD0-714867EFFC72",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "We watched the nests from a distance. If an adult bird flew in and out, or if we could hear chicks, we counted it as active. In the end, we found sixty-one active nests."
+    },
+    {
+     "id": "023EC75D-4ED3-57BE-9CF3-C6A7253A14C7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And what was the most interesting result so far?"
+    },
+    {
+     "id": "3FE20CCD-B357-5740-9E45-84EA028BABC4",
+     "speaker": "Raj",
+     "accent": "en-GB",
+     "text": "I think it's that farms with animals had many more swallows than farms that only grow crops. On farms with cows or horses, we found on average about eight nests. On the crop farms, it was usually only one or two."
+    },
+    {
+     "id": "5A6136EA-5064-531C-8881-143D599CBBC0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why do you think that is?"
+    },
+    {
+     "id": "6E19AD3C-9DB7-598C-B352-1975C4C7CE8D",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "We think it's because of insects. Swallows catch flies while they're flying, and there are lots of flies around animals and their waste. Also, farms with animals have more open buildings, like cow sheds, where the birds can get in easily."
+    },
+    {
+     "id": "52B79C37-FFD7-5C67-B59D-BE990328EEA2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That sounds very reasonable. Did you find anything that worried you?"
+    },
+    {
+     "id": "7DE67A58-B79B-5CC6-9213-9CF807BC6C35",
+     "speaker": "Raj",
+     "accent": "en-GB",
+     "text": "Yes. Two of the farmers told us that they're planning to replace their old wooden barns with modern metal buildings, which are often closed. If they do, the swallows won't be able to get in to nest."
+    },
+    {
+     "id": "C463F688-B662-5521-812F-D02C0294FD33",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important point to include in your discussion. You could suggest some solutions. For example, some farmers leave a small window or a gap open for the birds. Now, what problems have you had?"
+    },
+    {
+     "id": "76492B32-B844-5DA4-A401-59530C9204BA",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "The main problem was the weather. In May, it rained a lot, and there were fewer insects, so some chicks died. It meant our numbers were lower than we expected."
+    },
+    {
+     "id": "8DB0AF6C-5DDD-54FF-955E-25052C764F5C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Well, that's a result too. You can compare it with other years if you find data from the national bird surveys. What are you going to do next?"
+    },
+    {
+     "id": "C03EED73-F51C-5C47-956D-40470DA50F47",
+     "speaker": "Raj",
+     "accent": "en-GB",
+     "text": "We'd like to go back in August to see if the swallows have a second group of chicks. Many pairs have two families in one summer."
+    },
+    {
+     "id": "7D25A376-F0E6-514C-BE30-40F6AC72903B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And when you write it up, I'd like you to include a map of the farms and some photos of the nests. But please don't use the farmers' real names. Just call them Farm A, Farm B and so on."
+    },
+    {
+     "id": "59126D2B-0681-5449-B5DE-6D01D0C5BDA6",
+     "speaker": "Emma",
+     "accent": "en-US",
+     "text": "Okay. When do you need the report?"
+    },
+    {
+     "id": "DB73EE58-E232-5616-8C18-3E8DEACD823F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "The first draft by the end of September, please. That gives you time after your August visit. And remember to thank the farmers. They've been very kind to let you in, and you may want to visit them again next year."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice17-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "One reason Raj gives for choosing swallows is that",
+     "explanation": "Their nests are easy to find in farm buildings.",
+     "evidenceQuote": "They build their nests inside barns and other farm buildings, so you know where to look.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. their nests are easy to find.",
+      "B. they are rare in Britain.",
+      "C. their tutor suggested them."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. their nests are easy to find.",
+      "their nests are easy to find."
+     ]
+    },
+    {
+     "id": "practice17-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students visit fewer farms than planned?",
+     "explanation": "Some farmers refused.",
+     "evidenceQuote": "three farmers said no, because they were worried we'd frighten their animals",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The weather was bad.",
+      "B. They did not have enough time.",
+      "C. Some farmers did not give permission."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Some farmers did not give permission.",
+      "Some farmers did not give permission."
+     ]
+    },
+    {
+     "id": "practice17-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How did the students decide that a nest was active?",
+     "explanation": "They watched for birds or listened for chicks.",
+     "evidenceQuote": "If an adult bird flew in and out, or if we could hear chicks, we counted it as active.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They looked inside it with a torch.",
+      "B. They saw adults visiting or heard chicks.",
+      "C. The farmer told them."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They saw adults visiting or heard chicks.",
+      "They saw adults visiting or heard chicks."
+     ]
+    },
+    {
+     "id": "practice17-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What do the students think explains the number of swallows on farms with animals?",
+     "explanation": "Animals attract flies for the swallows to eat.",
+     "evidenceQuote": "We think it's because of insects.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. more insects to eat",
+      "B. more mud for nests",
+      "C. fewer predators"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. more insects to eat",
+      "more insects to eat"
+     ]
+    },
+    {
+     "id": "practice17-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What worried the students about some farms?",
+     "explanation": "New closed buildings could stop swallows nesting.",
+     "evidenceQuote": "they're planning to replace their old wooden barns with modern metal buildings",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Farmers were using chemicals.",
+      "B. Cats were killing the chicks.",
+      "C. Old barns may be replaced by closed buildings."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Old barns may be replaced by closed buildings.",
+      "Old barns may be replaced by closed buildings."
+     ]
+    },
+    {
+     "id": "practice17-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the farmers' names?",
+     "explanation": "Real names should not be used.",
+     "evidenceQuote": "please don't use the farmers' real names",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should be listed at the end.",
+      "B. They should not be used in the report.",
+      "C. The farmers must agree to them."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They should not be used in the report.",
+      "They should not be used in the report."
+     ]
+    },
+    {
+     "id": "practice17-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "British swallows spend the winter in South __________",
+     "explanation": "They winter in South Africa.",
+     "evidenceQuote": "spend the winter in South Africa",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Africa"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Nests are made of __________ mixed with grass",
+     "explanation": "Nests are made of mud.",
+     "evidenceQuote": "Swallows' nests are made of mud mixed with bits of grass",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mud"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Number of active nests found: __________",
+     "explanation": "There were 61 active nests.",
+     "evidenceQuote": "we found sixty-one active nests",
+     "skillTag": "numbers",
+     "distractorNote": "94 was the total including old nests.",
+     "options": [],
+     "acceptedAnswers": [
+      "61",
+      "sixty-one"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "First draft due at the end of __________",
+     "explanation": "The draft is due in September.",
+     "evidenceQuote": "The first draft by the end of September",
+     "skillTag": "dates",
+     "distractorNote": "August is the next visit.",
+     "options": [],
+     "acceptedAnswers": [
+      "September"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "nest",
+    "survey",
+    "insect",
+    "ring",
+    "chick"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice17-lp4",
+   "partNumber": 4,
+   "title": "Great journeys of the animal world",
+   "contextDescription": "A lecture in a biology course about the migrations of animals other than birds.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "798DA2E2-FD8B-5D36-A94B-46749612945E",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Good morning, everyone. Last week, we talked about bird migration. Today, I want to show you that birds aren't the only animals that make long journeys. Insects, mammals, fish and reptiles migrate too, and some of their journeys are just as amazing. Let's look at five examples."
+    },
+    {
+     "id": "F5BA7B9B-8BDD-5A92-B692-7338B5FD77C6",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "We'll start with an insect: the monarch butterfly of North America. Every autumn, millions of monarchs fly south from Canada and the northern United States to a small area of mountains in central Mexico. Some of them travel up to about four thousand kilometres. They spend the winter there in forests of fir trees, where so many butterflies hang together on the branches that the trees look orange. Scientists have shown that monarchs use the sun to find their direction."
+    },
+    {
+     "id": "A2248472-BB07-5532-92A0-EA65DC33B5FA",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "What's really surprising is that no single butterfly makes the whole round trip. The monarchs that fly south in autumn live for about eight months, which is very long for a butterfly. In spring, they start flying north, but they lay their eggs on the way and then die. Their children continue the journey, and it takes three or four generations to get back to Canada. Then, at the end of summer, a new long-living generation flies all the way back to Mexico, to a place it has never seen."
+    },
+    {
+     "id": "1CE43916-418F-5D41-90A4-67727D9EAF9B",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Our second example is a mammal: the wildebeest of East Africa. Every year, about one and a half million wildebeest, together with hundreds of thousands of zebras and gazelles, move in a huge circle between the Serengeti in Tanzania and the Masai Mara in Kenya. They aren't following a calendar. They're following the rain, because the rain makes fresh grass grow, and that's what they eat. The most dangerous moment is when the herds cross the Mara River. The water is fast, and crocodiles are waiting for them. Thousands of animals die every year at the crossings."
+    },
+    {
+     "id": "465E552E-A75B-568D-9094-D07E6C5F2F73",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Next, fish. Salmon have a very unusual life. They hatch from eggs in rivers, swim down to the sea, and spend several years in the ocean, growing big and strong. Then they swim back to the very same river where they were born to lay their own eggs, which we call spawning. How do they find it? Out at sea, they probably use the Earth's magnetic field, but when they get close to the coast, they use smell. Every river has its own special smell, and the young salmon remember it. Sadly, many salmon rivers now have dams, which block the fish from swimming upstream. Some dams have special fish ladders, a kind of staircase of water, to help them get past."
+    },
+    {
+     "id": "FD72A533-97DE-58B1-A871-7A59244418C5",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Our fourth example is the grey whale, which makes one of the longest migrations of any mammal. In summer, grey whales feed in the cold waters of the Arctic, where there's lots of food. In autumn, they swim south along the west coast of North America to warm, shallow lagoons in Mexico. There, the females give birth to their calves. The calves have very little fat when they're born, so they need the warm water. In spring, the whales swim back north again. The round trip can be around sixteen thousand kilometres or even more."
+    },
+    {
+     "id": "59495A27-CA3F-5239-9051-194F5A3DAE0C",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Finally, sea turtles. Female sea turtles often return to the beach where they themselves hatched, many years earlier, to lay their eggs. Some swim thousands of kilometres across the ocean to get there. Research suggests that turtles, like salmon, use the Earth's magnetic field as a kind of map. Every beach has a slightly different magnetic signal, and the young turtles seem to remember it."
+    },
+    {
+     "id": "56070BB6-A8DF-5491-8CB5-2D26506A5EC2",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "So what can we learn from these examples? First, migration is a way for animals to find food, or a safe place to raise their young, at different times of the year. Second, many of these journeys are now in danger. Roads, fences, dams and the loss of forests and wetlands all make migration more difficult. Because migrating animals depend on several different places, protecting just one of them isn't enough. For your assignment this week, I'd like you to choose one migrating animal and find out what's being done to protect it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice17-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Monarch butterflies fly south to mountains in central __________",
+     "explanation": "They fly to central Mexico.",
+     "evidenceQuote": "to a small area of mountains in central Mexico",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Mexico"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "They spend the winter in forests of __________ trees",
+     "explanation": "They stay in fir forests.",
+     "evidenceQuote": "in forests of fir trees",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fir"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Monarchs find their direction by using the __________",
+     "explanation": "They use the sun.",
+     "evidenceQuote": "monarchs use the sun to find their direction",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sun"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "It takes three or four __________ to return to Canada",
+     "explanation": "Several generations make the return trip.",
+     "evidenceQuote": "it takes three or four generations to get back to Canada",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "generations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Wildebeest follow the rain because it produces fresh __________",
+     "explanation": "Rain makes grass grow.",
+     "evidenceQuote": "the rain makes fresh grass grow",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grass"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "At the Mara River, the herds are attacked by __________",
+     "explanation": "Crocodiles wait at the river.",
+     "evidenceQuote": "crocodiles are waiting for them",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "crocodiles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Near the coast, salmon find their river by __________",
+     "explanation": "They use smell.",
+     "evidenceQuote": "when they get close to the coast, they use smell",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "smell"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Many rivers now have __________ that stop salmon swimming upstream",
+     "explanation": "Dams block the fish.",
+     "evidenceQuote": "many salmon rivers now have dams",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dams"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Grey whales give birth to their __________ in warm lagoons",
+     "explanation": "Calves are born in the lagoons.",
+     "evidenceQuote": "the females give birth to their calves",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "calves"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Sea turtles may use the Earth's __________ field as a map",
+     "explanation": "They use the magnetic field.",
+     "evidenceQuote": "use the Earth's magnetic field as a kind of map",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "magnetic"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "migration",
+    "herd",
+    "spawn",
+    "calf",
+    "magnetic field"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice17-rp1",
+   "passageNumber": 1,
+   "title": "Where do the birds go in winter?",
+   "discipline": "History of Science & Ornithology",
+   "paragraphs": [
+    "Every autumn, millions of birds disappear from the fields and gardens of northern Europe, and every spring they come back. Today, we know that most of them fly south to warmer places, where they can find food during the winter. But for most of human history, nobody really knew where they went, and people had some very strange ideas to explain their disappearance. The story of how the truth was finally discovered is a long one, and it involves thinkers, hunters, teachers and, more recently, scientists with very small machines.",
+    "More than two thousand years ago, the Greek thinker Aristotle wrote about birds that seemed to vanish in winter. He believed that some kinds of birds changed into other kinds as the seasons changed. For example, he thought that the redstart, a small bird seen in summer, turned into the robin, which is more common in winter. He also suggested that some birds, such as swallows, hid in holes and slept through the cold months, in the same way that some animals do.",
+    "The idea that swallows slept through the winter lasted for a very long time. Some people even believed that they spent the winter at the bottom of lakes and ponds, buried in the mud. Fishermen sometimes claimed that they had pulled sleeping swallows out of the water in their nets, and these stories were repeated in books for many years. In the eighteenth century, the English naturalist Gilbert White, who carefully recorded the birds around his village of Selborne, still wondered whether some swallows might stay hidden in Britain. One writer of the time, Charles Morton, offered an even more surprising answer: he suggested that birds flew to the Moon.",
+    "The first clear proof that birds travel very long distances came in 1822, in a village in northern Germany. A hunter shot a white stork that had a long wooden spear through its neck. The spear had been made in central Africa. Amazingly, the bird had survived and flown all the way back to Europe with the spear still in its body. The stork, now known by the German name Pfeilstorch, meaning 'arrow stork', can still be seen in a university museum in the city of Rostock. Since then, around twenty more storks with African spears or arrows have been found in Germany. Together, these birds gave people the first real evidence that storks spend the winter in Africa, thousands of kilometres away.",
+    "The next big step came at the end of the nineteenth century. In 1899, a Danish schoolteacher named Hans Christian Cornelius Mortensen put small metal rings on the legs of young starlings. Each ring had a number and his address on it. When people found ringed birds and sent the rings back to him, he could see how far the birds had travelled. This method, called bird ringing, soon spread to other countries, and it is still used today. Millions of birds have been ringed, and the results have shown the routes of hundreds of different species.",
+    "Ringing has one big problem, however. A ring tells scientists only where a bird started and where it was found. It does not show the route the bird took in between. In recent years, new technology has helped to solve this problem. Scientists now attach tiny tracking devices to birds. Some of these devices weigh less than a gram, so they can be carried even by small songbirds. They record information about the bird's position every day, and some can send it by satellite. When the bird is caught again, or when the information arrives, scientists can draw a map of its whole journey, including every place where it stopped to rest.",
+    "This technology has produced some remarkable discoveries. For example, in a study published in 2016, Swedish scientists found that common swifts can stay in the air for about ten months without landing. They eat, drink and even sleep while flying. Other studies have shown that the bar-tailed godwit, a bird that feeds on muddy coasts, can fly from Alaska to New Zealand without stopping, a journey of more than eleven thousand kilometres. During this flight, it does not eat or drink at all.",
+    "Even with modern technology, there is still much that we do not understand about migration. Scientists are still studying how birds find their way, how young birds know where to go on their first journey, and how climate change is affecting the timing of migration. But we have come a very long way from the days when people believed that swallows slept under water, or that birds flew to the Moon."
+   ],
+   "questions": [
+    {
+     "id": "practice17-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Aristotle believed that some birds turned into different birds as the seasons changed.",
+     "explanation": "Aristotle thought birds changed into other kinds.",
+     "evidenceQuote": "He believed that some kinds of birds changed into other kinds as the seasons changed.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice17-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Gilbert White was certain that all swallows left Britain in winter.",
+     "explanation": "He was not sure; he wondered if some stayed.",
+     "evidenceQuote": "still wondered whether some swallows might stay hidden in Britain",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice17-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Charles Morton travelled to Africa to study birds.",
+     "explanation": "Nothing is said about Morton travelling.",
+     "evidenceQuote": "he suggested that birds flew to the Moon",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice17-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The stork shot in 1822 had been injured in Africa.",
+     "explanation": "It carried an African spear.",
+     "evidenceQuote": "The spear had been made in central Africa.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice17-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The Pfeilstorch is the only stork ever found in Germany with an African spear.",
+     "explanation": "About twenty more have been found.",
+     "evidenceQuote": "around twenty more storks with African spears or arrows have been found in Germany",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice17-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Mortensen was paid by the Danish government to ring birds.",
+     "explanation": "How he was paid is not mentioned.",
+     "evidenceQuote": "a Danish schoolteacher named Hans Christian Cornelius Mortensen",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice17-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Bar-tailed godwits feed during their flight from Alaska to New Zealand.",
+     "explanation": "They do not eat during the flight.",
+     "evidenceQuote": "During this flight, it does not eat or drink at all.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice17-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Some people believed that swallows spent the winter buried in the __________ under lakes.",
+     "explanation": "They thought swallows were buried in mud.",
+     "evidenceQuote": "at the bottom of lakes and ponds, buried in the mud",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mud"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "The name Pfeilstorch means '__________ stork'.",
+     "explanation": "Pfeil means arrow.",
+     "evidenceQuote": "meaning 'arrow stork'",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arrow"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Mortensen's first rings were put on young __________.",
+     "explanation": "He ringed starlings.",
+     "evidenceQuote": "put small metal rings on the legs of young starlings",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "starlings"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "A ring does not show the __________ a bird took during its journey.",
+     "explanation": "Rings do not show the route.",
+     "evidenceQuote": "It does not show the route the bird took in between.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "route"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Some tracking devices can send information by __________.",
+     "explanation": "They use satellites.",
+     "evidenceQuote": "some can send it by satellite",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "satellite"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Common swifts can even __________ while they are flying.",
+     "explanation": "Swifts sleep in the air.",
+     "evidenceQuote": "They eat, drink and even sleep while flying.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sleep"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 769,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice17-rp2",
+   "passageNumber": 2,
+   "title": "How do birds find their way?",
+   "discipline": "Animal Behaviour",
+   "paragraphs": [
+    "Each year, billions of birds migrate between the places where they breed and the places where they spend the winter. Many of them travel thousands of kilometres, often at night and across seas, deserts and mountains. What is even more amazing is that many birds return to exactly the same garden, field or nest every year. Some young birds make their first journey completely alone. The common cuckoo, for example, is raised by birds of other species, and its parents leave for Africa before it is old enough to fly. Yet the young cuckoo still finds its way to the right part of Africa without any help.",
+    "Before they can make these long journeys, birds must prepare. In late summer, many migrating birds start to eat much more than usual, and they store the extra energy as fat. Some small birds almost double their body weight in just a few weeks. At the same time, they become restless. Scientists have noticed that birds kept in cages at migration time hop and flutter much more than usual, especially at night, and they often face in the direction they would fly if they were free. This shows that the need to migrate, and even its direction, is partly built into birds from birth.",
+    "One of the tools birds use to find their way is the sun. In the 1950s, the German scientist Gustav Kramer kept starlings in round cages with windows. At migration time, the birds faced in the direction they wanted to fly. When Kramer used mirrors to change the direction of the sunlight coming into the cage, the birds changed direction too. Because the sun moves across the sky during the day, birds also need an internal clock to use it correctly. They seem to know what time it is, and they adjust for the sun's movement.",
+    "Many birds, however, migrate at night, when they cannot see the sun. In the 1960s, the American scientist Stephen Emlen studied this problem using a planetarium, a building where pictures of the night sky are shown on a round ceiling. He put young indigo buntings, small blue songbirds, under the artificial sky. The birds faced in the correct direction for migration. When Emlen changed the position of the stars, the birds changed direction as well. His experiments showed that the birds learn the pattern of the stars around the North Star while they are young.",
+    "Birds can also find their way when the sky is completely covered by clouds. This is because many birds can sense the Earth's magnetic field. In the 1960s, scientists in Germany showed that European robins kept in cages with no view of the sky still faced in the correct direction. When the magnetic field around the cage was changed, the robins changed direction. Scientists are still not sure exactly how birds sense the magnetic field. One idea is that special chemicals in their eyes allow them to 'see' it in some way.",
+    "As well as these 'compasses', birds use things they can see on the ground. Rivers, coastlines and mountains are like signposts, and many birds follow them on their journeys. Some birds may even use smell. Seabirds such as shearwaters travel long distances over the open ocean, where there are no landmarks at all. Experiments have shown that when these birds cannot smell, they have much more difficulty finding their way home. It seems that most birds use several different methods together, and if one does not work, they can use another.",
+    "Migration is a very dangerous time for birds, and many die on the way. Storms can blow them far off course, and some birds become too tired to continue. In cities, bright lights confuse birds that fly at night, and many are killed when they fly into tall buildings with glass windows. On the ground, birds face hunters and cats. But one of the biggest problems is the loss of stopover sites, the places where birds stop to rest and feed during their journey. For example, large areas of mudflats around the Yellow Sea, between China and Korea, have been lost, and these were important feeding places for many birds.",
+    "Fortunately, people are finding ways to help. In several cities in North America, programmes called Lights Out ask building owners to turn off unnecessary lights at night during the migration season. Many countries are working together to protect the wetlands and other places along migration routes, because a bird that breeds in one country may depend on places in many others. Ordinary people can help too. Thousands of birdwatchers record the birds they see and share their records online, and scientists use this information to understand how migration is changing."
+   ],
+   "questions": [
+    {
+     "id": "practice17-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes how birds get ready.",
+     "evidenceQuote": "Before they can make these long journeys, birds must prepare.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Getting ready to leave",
+      "Getting ready to leave"
+     ]
+    },
+    {
+     "id": "practice17-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C is about the sun.",
+     "evidenceQuote": "One of the tools birds use to find their way is the sun.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Following the light of day",
+      "Following the light of day"
+     ]
+    },
+    {
+     "id": "practice17-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D is about the stars.",
+     "evidenceQuote": "He put young indigo buntings, small blue songbirds, under the artificial sky.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Using the night sky",
+      "Using the night sky"
+     ]
+    },
+    {
+     "id": "practice17-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains the magnetic sense.",
+     "evidenceQuote": "many birds can sense the Earth's magnetic field",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Finding the way under cloudy skies",
+      "Finding the way under cloudy skies"
+     ]
+    },
+    {
+     "id": "practice17-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F covers landmarks and smell.",
+     "evidenceQuote": "birds use things they can see on the ground",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Signposts and smells",
+      "Signposts and smells"
+     ]
+    },
+    {
+     "id": "practice17-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G lists dangers.",
+     "evidenceQuote": "Migration is a very dangerous time for birds",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Risks on the journey",
+      "Risks on the journey"
+     ]
+    },
+    {
+     "id": "practice17-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes ways of helping.",
+     "evidenceQuote": "Fortunately, people are finding ways to help.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. How people can protect migrating birds",
+      "How people can protect migrating birds"
+     ]
+    },
+    {
+     "id": "practice17-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about the young cuckoo?",
+     "explanation": "It finds its way alone.",
+     "evidenceQuote": "the young cuckoo still finds its way to the right part of Africa without any help",
+     "skillTag": "detail",
+     "options": [
+      "A. It travels to Africa with its parents.",
+      "B. It reaches Africa without being shown the way.",
+      "C. It stays in Europe for its first winter.",
+      "D. It follows birds of other species."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It reaches Africa without being shown the way.",
+      "It reaches Africa without being shown the way."
+     ]
+    },
+    {
+     "id": "practice17-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did Kramer's experiment with mirrors show?",
+     "explanation": "The starlings followed the direction of the sunlight.",
+     "evidenceQuote": "When Kramer used mirrors to change the direction of the sunlight coming into the cage, the birds changed direction too.",
+     "skillTag": "detail",
+     "options": [
+      "A. Starlings use the sun to choose their direction.",
+      "B. Starlings can see their own reflection.",
+      "C. Starlings prefer to fly at night.",
+      "D. Starlings do not need an internal clock."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Starlings use the sun to choose their direction.",
+      "Starlings use the sun to choose their direction."
+     ]
+    },
+    {
+     "id": "practice17-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why are stopover sites important for migrating birds?",
+     "explanation": "Birds rest and feed there.",
+     "evidenceQuote": "the places where birds stop to rest and feed during their journey",
+     "skillTag": "detail",
+     "options": [
+      "A. Birds build their nests there.",
+      "B. They protect birds from city lights.",
+      "C. They are the only places birds can drink.",
+      "D. Birds rest and feed there during the journey."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Birds rest and feed there during the journey.",
+      "Birds rest and feed there during the journey."
+     ]
+    },
+    {
+     "id": "practice17-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Before migrating, birds store extra energy in the form of __________.",
+     "explanation": "They store energy as fat.",
+     "evidenceQuote": "they store the extra energy as fat",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fat"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice17-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Emlen showed that young birds learn the star pattern around the __________.",
+     "explanation": "They learn the stars around the North Star.",
+     "evidenceQuote": "learn the pattern of the stars around the North Star",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "North Star"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice17-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "In cities, many birds die when they hit tall buildings with __________.",
+     "explanation": "They hit glass windows.",
+     "evidenceQuote": "they fly into tall buildings with glass windows",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "glass windows"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 785,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Finding the way under cloudy skies",
+      "ii. Following the light of day",
+      "iii. Why some birds do not migrate",
+      "iv. Risks on the journey",
+      "v. Getting ready to leave",
+      "vi. The fastest migrating birds",
+      "vii. How people can protect migrating birds",
+      "viii. Using the night sky",
+      "ix. Signposts and smells"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice17-rp3",
+   "passageNumber": 3,
+   "title": "Should we feed garden birds?",
+   "discipline": "Ecology & Conservation",
+   "paragraphs": [
+    "Feeding wild birds is one of the most popular ways in which people connect with nature. In Britain, it is thought that around half of all households put out food for birds at some time during the year, and people spend large amounts of money on bird seed, peanuts and feeders. Most people do it because they enjoy watching the birds and because they believe they are helping them. But is feeding birds always a good thing? Scientists have discovered that the answer is more complicated than it might seem.",
+    "There is good evidence that feeding helps some birds, especially in winter. When the weather is cold and the days are short, small birds have very little time to find enough food to survive the long nights. A full feeder can make a real difference. Some species have done particularly well. The goldfinch, a small, colourful bird, was once quite rare in British gardens, but it has become a common visitor over the last few decades. Many experts think this is partly because people have started to offer new types of food, such as sunflower hearts and nyjer seed, which goldfinches love.",
+    "Feeding can even change the way birds migrate. Blackcaps are small birds that breed in central Europe, in countries such as Germany and Austria. Most of them traditionally flew south-west to spend the winter in Spain and Portugal. Since the 1960s, however, a growing number have flown north-west instead, to spend the winter in Britain and Ireland. Researchers believe that garden feeding is one of the reasons why this new route has been successful. The birds that winter in Britain also have a shorter journey back to their breeding areas in spring.",
+    "However, feeding also has some disadvantages. When many birds gather at the same feeder, diseases can spread easily from one bird to another. Since 2005, a disease caused by a tiny parasite has killed large numbers of greenfinches in Britain, and the number of greenfinches has fallen sharply. The disease spreads through food and water that have been touched by infected birds. For this reason, experts advise people to clean their feeders and bird baths regularly and to stop feeding for a while if they see sick birds.",
+    "Scientists have also found that feeding can have unexpected effects on breeding. In one British study, blue tits that had been given extra fat during the winter went on to raise fewer chicks the following spring than blue tits that had not been fed. The reasons for this are not yet fully understood. One possibility is that the food helped weaker birds to survive the winter, and these birds were less successful at breeding. Another is that the fat lacked some of the nutrients that the birds needed.",
+    "The type of food matters too. In the town of Reading, in southern England, thousands of households regularly feed red kites, large birds of prey that were reintroduced to the area in the 1990s after disappearing from England. Many people put out meat from their kitchens, such as chicken. But this food may not be good for the birds, because it does not contain the bones and fur that they would eat in the wild. Bread is another common problem. It fills birds up but gives them very little of the energy and goodness they need.",
+    "In my view, the evidence shows that feeding birds is generally helpful, but only if it is done carefully. People should choose good-quality food, keep feeders clean and avoid giving birds food that is unhealthy for them, such as bread or salty leftovers. I also believe that feeding should never be seen as a replacement for protecting the places where birds live. Some species, such as the house sparrow, have declined in many cities, and the main reasons appear to be the loss of nesting places and insects rather than a lack of seed.",
+    "Feeding birds has one more important benefit, which is that it is good for people. Watching birds in the garden helps people relax, and many birdwatchers say it was a garden feeder that first made them interested in nature. In my opinion, this may be the greatest value of feeding birds. If people care about the birds they see from their windows, they are more likely to support efforts to protect wildlife in the wider countryside."
+   ],
+   "questions": [
+    {
+     "id": "practice17-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "has changed the place where it spends the winter",
+     "explanation": "Blackcaps now winter in Britain.",
+     "evidenceQuote": "a growing number have flown north-west instead, to spend the winter in Britain and Ireland",
+     "skillTag": "matching_features",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. blackcap",
+      "blackcap"
+     ]
+    },
+    {
+     "id": "practice17-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "has been badly affected by a disease spread at feeders",
+     "explanation": "Greenfinches suffered from the disease.",
+     "evidenceQuote": "has killed large numbers of greenfinches in Britain",
+     "skillTag": "matching_features",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. greenfinch",
+      "greenfinch"
+     ]
+    },
+    {
+     "id": "practice17-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "raised fewer young after being given extra food in winter",
+     "explanation": "Fed blue tits raised fewer chicks.",
+     "evidenceQuote": "blue tits that had been given extra fat during the winter went on to raise fewer chicks",
+     "skillTag": "matching_features",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. blue tit",
+      "blue tit"
+     ]
+    },
+    {
+     "id": "practice17-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "has become much more common in gardens, possibly because of new kinds of food",
+     "explanation": "Goldfinches are now common in gardens.",
+     "evidenceQuote": "it has become a common visitor over the last few decades",
+     "skillTag": "matching_features",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. goldfinch",
+      "goldfinch"
+     ]
+    },
+    {
+     "id": "practice17-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "is often given food from people's kitchens that may be unsuitable",
+     "explanation": "Red kites are fed kitchen meat.",
+     "evidenceQuote": "Many people put out meat from their kitchens, such as chicken.",
+     "skillTag": "matching_features",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. red kite",
+      "red kite"
+     ]
+    },
+    {
+     "id": "practice17-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Feeding birds is generally helpful if it is done in the right way.",
+     "explanation": "The writer supports careful feeding.",
+     "evidenceQuote": "feeding birds is generally helpful, but only if it is done carefully",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice17-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Bread is a suitable food for garden birds.",
+     "explanation": "The writer says bread should be avoided.",
+     "evidenceQuote": "avoid giving birds food that is unhealthy for them, such as bread",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice17-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Feeding birds can replace the need to protect their habitats.",
+     "explanation": "The writer disagrees.",
+     "evidenceQuote": "feeding should never be seen as a replacement for protecting the places where birds live",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice17-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Bird food sold in shops is too expensive for most families.",
+     "explanation": "The writer does not say whether it is too expensive.",
+     "evidenceQuote": "people spend large amounts of money on bird seed, peanuts and feeders",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice17-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The greatest value of feeding birds may be its effect on people.",
+     "explanation": "The writer says this may be the greatest value.",
+     "evidenceQuote": "In my opinion, this may be the greatest value of feeding birds.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice17-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In winter, small birds have little time to find food before the long __________.",
+     "explanation": "They must survive the long nights.",
+     "evidenceQuote": "enough food to survive the long nights",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nights"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "The greenfinch disease is caused by a tiny __________.",
+     "explanation": "A parasite causes it.",
+     "evidenceQuote": "a disease caused by a tiny parasite",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parasite"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Experts advise people to clean their feeders and bird __________ regularly.",
+     "explanation": "Bird baths should be cleaned.",
+     "evidenceQuote": "to clean their feeders and bird baths regularly",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "baths"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice17-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "House sparrows have declined mainly because of a loss of nesting places and __________.",
+     "explanation": "They lost nesting places and insects.",
+     "evidenceQuote": "the loss of nesting places and insects rather than a lack of seed",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "insects"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 726,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of birds below. Match each statement with the correct bird, A–F.",
+     "options": [
+      "A. blackcap",
+      "B. greenfinch",
+      "C. goldfinch",
+      "D. blue tit",
+      "E. red kite",
+      "F. house sparrow"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice17-w1",
+  "title": "Birds counted in a garden bird survey",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows the average number of five kinds of bird counted per garden in a national garden bird survey in one country in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "C5CA8B52-A12F-5C56-810E-E46E1BDA2E9E",
+    "series": "House sparrow",
+    "category": "2005",
+    "value": 4.2,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "11231CD7-A160-59F3-85A3-31C7809BA226",
+    "series": "Blue tit",
+    "category": "2005",
+    "value": 3.1,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "79ED2A63-9FDC-5B5A-BC01-441F625371C3",
+    "series": "Goldfinch",
+    "category": "2005",
+    "value": 0.6,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "ACFB2CBF-A00A-50C6-8582-3BC85F330914",
+    "series": "Greenfinch",
+    "category": "2005",
+    "value": 2.4,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "3C167963-386E-52E4-AC51-E9ABA741074A",
+    "series": "Robin",
+    "category": "2005",
+    "value": 1.1,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "A8389137-9DBB-5A6B-9397-4607CC4CFDEF",
+    "series": "House sparrow",
+    "category": "2025",
+    "value": 3.5,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "FF61B436-ACAD-5D54-A9DA-7EF4B98BF806",
+    "series": "Blue tit",
+    "category": "2025",
+    "value": 3.0,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "877B00D1-476D-58A7-BD4E-3052DCA09DDE",
+    "series": "Goldfinch",
+    "category": "2025",
+    "value": 1.9,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "AC45DF19-13D4-51E6-9006-CCD8640F9948",
+    "series": "Greenfinch",
+    "category": "2025",
+    "value": 0.8,
+    "unit": "average number of birds per garden"
+   },
+   {
+    "id": "3FF10AC6-B829-5639-8126-83445BB2F801",
+    "series": "Robin",
+    "category": "2025",
+    "value": 1.2,
+    "unit": "average number of birds per garden"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The house sparrow was the most common bird in both years, although its numbers fell.",
+   "Goldfinches more than tripled, while greenfinches fell sharply; blue tits and robins hardly changed."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice17-w2",
+  "title": "Helping migrating animals",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment & Wildlife",
+  "promptText": "Many animals that migrate long distances, such as birds, fish and whales, are becoming less common. What problems do migrating animals face, and what can be done to help them?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice17-spk",
+  "theme": "Birds and wild animals",
+  "part1Questions": [
+   "Are there many birds where you live?",
+   "Do you like watching birds or other wild animals?",
+   "Have you ever fed birds in a park or garden?",
+   "Which wild animal would you most like to see?",
+   "Did you learn about animals at school when you were a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you saw an interesting bird or wild animal.",
+   "bulletPoints": [
+    "what the animal was",
+    "where and when you saw it",
+    "what it was doing",
+    "and explain why you remember it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think many people enjoy watching wild animals?",
+   "Should people be allowed to keep wild birds as pets?",
+   "How can cities be made better places for birds and other wildlife?",
+   "Is it the responsibility of governments or individuals to protect wildlife?",
+   "Do you think children today know less about nature than children in the past?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Distances and numbers for animal journeys are approximate and follow standard reference sources; people, prices and places in the Listening are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

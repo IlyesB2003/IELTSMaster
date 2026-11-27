@@ -1,0 +1,2208 @@
+{
+ "id": "practice04",
+ "examNumber": 4,
+ "pool": "practice",
+ "title": "Practice Test 4: Work, Business & Money",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Work, Business & Money",
+ "listeningParts": [
+  {
+   "id": "practice04-lp1",
+   "partNumber": 1,
+   "title": "Applying for a part-time job",
+   "contextDescription": "A student phones a café about a part-time job advertised in the window.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "892D76B9-1C9E-5EAD-8FB3-594E6406D8C9",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Hello, Corner Bean Café, Rob speaking."
+    },
+    {
+     "id": "CD04EA79-8D1C-5569-BC7B-84AEE73927A1",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Hi, my name's Ana. I saw the sign in your window about a part-time job, and I wanted to ask about it."
+    },
+    {
+     "id": "4635AFF2-1C2E-5A6C-988E-D053AF4204BC",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Oh, great, thanks for calling. Yes, we're looking for someone to work behind the counter, making drinks and serving customers. Have you done this kind of work before?"
+    },
+    {
+     "id": "0DC2BAA9-F5D3-5295-A31D-261416DD5490",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Not in a café exactly, but I worked in a bakery for a year back home, so I'm used to serving customers and handling money."
+    },
+    {
+     "id": "472D55AE-A44F-5D88-BDEC-533D7FD89D91",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "That's useful experience. Are you a student?"
+    },
+    {
+     "id": "71861883-20D4-5FCB-A5F7-A92C1998CB7A",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Yes, I'm studying architecture at the university. I'm in my second year."
+    },
+    {
+     "id": "60A6E7C0-EB01-5721-8FBB-564040BA44EF",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Okay. The job is about fifteen hours a week. We need someone mainly at weekends, but also one weekday shift. Our weekend shifts are from eight until two, or two until eight."
+    },
+    {
+     "id": "781C32B7-DA8C-5CCE-8D12-A623301C104B",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "I'd prefer the morning shifts at the weekend, if possible. I sometimes have group projects in the afternoons."
+    },
+    {
+     "id": "D4BA865D-FEE3-5284-8F22-69E6B2059F2B",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "That should be fine. And for the weekday shift, we need someone on Wednesday afternoons, from one until four."
+    },
+    {
+     "id": "772B63E4-B397-52AB-AFE9-842DCD01C58D",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Wednesday afternoon... I have a lecture until two on Wednesdays. Would Thursday be possible instead?"
+    },
+    {
+     "id": "19343ACB-999F-5C3B-98D8-78C8EB9BB941",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Thursday afternoon could work, actually. One of my staff prefers Wednesdays anyway. So, Saturday and Sunday mornings and Thursday afternoon."
+    },
+    {
+     "id": "9198CDDA-86A9-5781-AFDD-694EF99DB2F5",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Perfect. Can I ask about the pay?"
+    },
+    {
+     "id": "E1E00874-1335-5E9E-B825-AB63C04CB0EB",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Of course. We pay eleven pounds forty an hour to start with. After three months, if everything goes well, it goes up to twelve pounds. And you keep all your tips. On a busy weekend, that can add up to quite a lot."
+    },
+    {
+     "id": "0134DD7A-F0F4-59D8-8FA5-53A18101D15C",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "That sounds good. Do you provide any training?"
+    },
+    {
+     "id": "5A74FDD7-9889-5F78-84F3-B41DA2585276",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Yes. You'd start with a two-hour training session with our head barista, Chloe, who'll show you how to use the coffee machine. Making good coffee takes practice, so for the first few weeks you'd mostly work alongside someone experienced. You'd also need a food hygiene certificate, but don't worry if you haven't got one. You can do the course online. It takes about three hours and we pay for it."
+    },
+    {
+     "id": "D8D13572-3F48-53A7-A177-A291B44288CB",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Great. Is there a uniform?"
+    },
+    {
+     "id": "CF4428D8-2F5E-5C6E-86AA-018616BDFD48",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "We give you two aprons and a cap with the café logo. You just need to wear black trousers and comfortable black shoes. No trainers with bright colours, I'm afraid."
+    },
+    {
+     "id": "A3940FEA-B2AE-50DE-92B7-F5C38E1C7C61",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "No problem. How busy does it get?"
+    },
+    {
+     "id": "7BBDF307-6E42-5C9D-B423-3A1B837A1B54",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Weekend mornings are very busy, especially between ten and twelve, when we often have a queue out of the door. Weekday afternoons are calmer, so that's when we do most of the cleaning and restocking."
+    },
+    {
+     "id": "5948032F-1931-59F9-8247-8B147BCD1839",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Okay. Do staff get free drinks?"
+    },
+    {
+     "id": "0D432B6D-FA6B-5248-9653-C4440592ACA4",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Staff can have free drinks during their shifts, and you get fifty per cent off food. It's a small perk, but people appreciate it."
+    },
+    {
+     "id": "A67D79F2-88B6-53CA-BB24-7289E8E74F2A",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "That's nice. So what's the next step?"
+    },
+    {
+     "id": "A8B8E2EA-4608-5BAF-86BF-5AB8262B0EED",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "I'd like to invite you for a short interview, and then, if that goes well, a trial shift, which is paid, so you can see if you like the work. Could you come in on Monday?"
+    },
+    {
+     "id": "6ADE2970-B63C-59F1-B889-4AEB60E8756F",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Monday morning is fine. What time?"
+    },
+    {
+     "id": "0F884A51-B70A-5307-8B44-FBA488202A77",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "How about ten thirty? It's usually quiet then, after the morning rush."
+    },
+    {
+     "id": "88481E21-17BB-55E5-8C19-225D776D4D0B",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Ten thirty on Monday. Should I bring anything?"
+    },
+    {
+     "id": "D52B7177-59D7-5869-AD2F-3AFCCA19950E",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Please bring a copy of your CV, and the contact details of one person who could give you a reference, maybe your manager from the bakery. If you're from outside the UK, I'll also need to see your passport and visa, just to confirm you're allowed to work."
+    },
+    {
+     "id": "1D762955-3420-5253-843F-A0369EE96D34",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "I'm from Brazil, so I'll bring my passport. Students on my visa can work up to twenty hours a week during term, so fifteen is fine."
+    },
+    {
+     "id": "79B209F5-6342-5FD4-B763-A764BAFF93E8",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Perfect. And just so I have it, can I take your full name and number?"
+    },
+    {
+     "id": "5B3553C2-808B-524C-BAEE-55EE4F5421BA",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "It's Ana Carvalho. C-A-R-V-A-L-H-O. And my number is 07945 382 016."
+    },
+    {
+     "id": "1F4C3882-DB28-59C6-BBCA-F77CD305400B",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Lovely. See you on Monday, Ana."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice04-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Previous experience: worked in a __________",
+     "explanation": "She worked in a bakery.",
+     "evidenceQuote": "I worked in a bakery for a year back home",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bakery"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Hours per week: about __________",
+     "explanation": "The job is about fifteen hours.",
+     "evidenceQuote": "The job is about fifteen hours a week.",
+     "skillTag": "numbers",
+     "distractorNote": "Twenty hours is her visa limit.",
+     "options": [],
+     "acceptedAnswers": [
+      "15",
+      "fifteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Weekday shift: __________ afternoon",
+     "explanation": "Wednesday clashes with a lecture, so they agree Thursday.",
+     "evidenceQuote": "Thursday afternoon could work, actually.",
+     "skillTag": "distractor_correction",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Starting pay: £__________ per hour",
+     "explanation": "Starting pay is £11.40; it rises to £12.",
+     "evidenceQuote": "We pay eleven pounds forty an hour to start with.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "11.40",
+      "11,40"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Training: two hours with the head __________",
+     "explanation": "Training is with the head barista, Chloe.",
+     "evidenceQuote": "a two-hour training session with our head barista",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "barista"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Online course for a food __________ certificate (paid by the café)",
+     "explanation": "She needs a food hygiene certificate.",
+     "evidenceQuote": "You'd also need a food hygiene certificate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hygiene"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Staff wear black trousers and black __________",
+     "explanation": "Staff wear black shoes.",
+     "evidenceQuote": "comfortable black shoes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shoes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Staff discount on food: __________ %",
+     "explanation": "Staff get 50% off food.",
+     "evidenceQuote": "you get fifty per cent off food",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "50",
+      "fifty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Interview: Monday at __________",
+     "explanation": "The interview is at 10.30 on Monday.",
+     "evidenceQuote": "How about ten thirty?",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10.30",
+      "10:30",
+      "ten thirty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Carvalho.",
+     "evidenceQuote": "It's Ana Carvalho. C-A-R-V-A-L-H-O.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Carvalho"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "shift",
+    "hourly rate",
+    "trial",
+    "reference",
+    "food hygiene certificate"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice04-lp2",
+   "partNumber": 2,
+   "title": "Starting your own business: a workshop",
+   "contextDescription": "An adviser at a business support centre gives an introductory talk to people planning to start a small business.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "45A4CAAD-1B6C-5381-90F8-085199CF9D2E",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Good evening, everyone, and welcome to the first session of our Start Your Own Business course. I'm Michelle Tan, and I've been an adviser here at the Enterprise Centre for eight years. Before that, I ran my own catering company for over a decade, so I've made most of the mistakes I'll be warning you about."
+    },
+    {
+     "id": "7C9D6691-C3C8-548D-A8EC-F4C9187A0C78",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Let me start with a sobering fact. Around one in five new businesses close within their first year, and about half don't survive five years. That's not meant to put you off, but to show why preparation matters. And when we look at why businesses fail, the most common reason isn't a bad idea. It's running out of cash."
+    },
+    {
+     "id": "E5C8CE49-9BC8-5543-9DDC-5EDABBD4148D",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "This is why we put so much emphasis on cash flow. A business can be making a profit on paper and still go under, because the money from customers arrives later than the bills have to be paid. If you sell to other businesses, for example, they may take sixty or even ninety days to pay you, while your rent and suppliers have to be paid every month. In week three, we'll show you how to create a simple cash-flow forecast, and I'd say that's the single most useful session on the course."
+    },
+    {
+     "id": "7B73E851-1FED-5706-BD63-E6F10E46668B",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Before that, though, next week, we'll look at market research. Many people skip this because they're convinced their idea is brilliant. But it's essential to find out whether there are enough people who will actually pay for what you're offering, at a price that covers your costs. And I don't mean asking your friends and family. They'll almost always tell you it's a great idea, because they want to be supportive. You need to talk to potential customers who don't know you."
+    },
+    {
+     "id": "3D686683-60AA-5EA2-AF8B-2765245DC445",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "We'll then spend two sessions on your business plan. A business plan isn't just something you write to get a loan. It's a way of testing your own thinking. But you will need one if you want funding. Banks are often reluctant to lend to brand-new businesses, so many people start with their own savings, or with a government start-up loan. These loans have a fixed interest rate and come with twelve months of free mentoring, which our previous participants have found extremely valuable."
+    },
+    {
+     "id": "5460661B-0B56-59B7-B540-0C2A445A0856",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Another decision you'll need to make early on is the legal structure of your business. The simplest option is to be a sole trader. It's easy to set up and involves less paperwork, but you're personally responsible for any debts the business has. The alternative is to set up a limited company, which protects your personal assets, like your house, but involves more administration and stricter rules about accounts. We'll cover this in week five, along with tax."
+    },
+    {
+     "id": "83660719-B66F-5A64-A9DB-19B989915E7F",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Now, a few practical points about the course. Sessions run every Tuesday from six thirty until eight thirty, for eight weeks. Please try not to miss any, as each session builds on the previous one. If you do have to miss one, the slides and worksheets are available on our website, and you can book a one-to-one appointment with an adviser to catch up."
+    },
+    {
+     "id": "C4DDFE36-C424-58FF-BB9F-25288AA73084",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "In the final week, each of you will give a five-minute presentation of your business idea to a panel that includes a local bank manager and two successful business owners. It's not a test, and there's no pass or fail. The aim is to get honest feedback and practise explaining your idea clearly, which you'll need to do again and again when you talk to customers, suppliers and lenders."
+    },
+    {
+     "id": "5C35C061-22AE-5F32-AE3A-E77B255C2AD9",
+     "speaker": "Adviser",
+     "accent": "en-CA",
+     "text": "Finally, I'd encourage you to make use of the networking area downstairs. Several past participants found business partners or their first customers simply by chatting to other people on the course. There's tea and coffee available there from six o'clock. Right, let's begin by going round the room. I'd like each of you to tell us your name and, in one sentence, what your business idea is."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice04-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What does Michelle say about her own background?",
+     "explanation": "She ran a catering company for more than ten years.",
+     "evidenceQuote": "I ran my own catering company for over a decade",
+     "skillTag": "multiple_choice",
+     "distractorNote": "She has been an adviser for eight years.",
+     "options": [
+      "A. She has worked at the centre for over ten years.",
+      "B. She used to run a business.",
+      "C. She trained as an accountant."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. She used to run a business.",
+      "She used to run a business."
+     ]
+    },
+    {
+     "id": "practice04-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "According to Michelle, the most common reason for business failure is",
+     "explanation": "Running out of cash is the most common reason.",
+     "evidenceQuote": "It's running out of cash.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a poor business idea.",
+      "B. too much competition.",
+      "C. a lack of money available."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. a lack of money available.",
+      "a lack of money available."
+     ]
+    },
+    {
+     "id": "practice04-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why does Michelle warn against asking friends and family about an idea?",
+     "explanation": "They tend to be supportive rather than honest.",
+     "evidenceQuote": "because they want to be supportive",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are likely to be too positive.",
+      "B. They may copy the idea.",
+      "C. They are not typical customers."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They are likely to be too positive.",
+      "They are likely to be too positive."
+     ]
+    },
+    {
+     "id": "practice04-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What extra benefit do government start-up loans offer?",
+     "explanation": "They include twelve months of free mentoring.",
+     "evidenceQuote": "come with twelve months of free mentoring",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a very low interest rate",
+      "B. a year of support from a mentor",
+      "C. no need for a business plan"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. a year of support from a mentor",
+      "a year of support from a mentor"
+     ]
+    },
+    {
+     "id": "practice04-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What is the purpose of the final presentation?",
+     "explanation": "To get feedback and practise explaining the idea.",
+     "evidenceQuote": "The aim is to get honest feedback and practise explaining your idea clearly",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to decide who passes the course",
+      "B. to win funding from a bank",
+      "C. to receive feedback on the idea"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to receive feedback on the idea",
+      "to receive feedback on the idea"
+     ]
+    },
+    {
+     "id": "practice04-L16",
+     "number": 16,
+     "format": "Table Completion",
+     "prompt": "Week 2: market __________",
+     "explanation": "Week two covers market research.",
+     "evidenceQuote": "next week, we'll look at market research",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "research"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L17",
+     "number": 17,
+     "format": "Table Completion",
+     "prompt": "Week 3: how to make a cash-flow __________",
+     "explanation": "Week three covers cash-flow forecasts.",
+     "evidenceQuote": "how to create a simple cash-flow forecast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "forecast"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L18",
+     "number": 18,
+     "format": "Table Completion",
+     "prompt": "Sole trader: personally responsible for business __________",
+     "explanation": "Sole traders are liable for debts.",
+     "evidenceQuote": "you're personally responsible for any debts the business has",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "debts"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L19",
+     "number": 19,
+     "format": "Table Completion",
+     "prompt": "Week 5: legal structure and __________",
+     "explanation": "Week five covers structure and tax.",
+     "evidenceQuote": "We'll cover this in week five, along with tax.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tax"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L20",
+     "number": 20,
+     "format": "Table Completion",
+     "prompt": "Missed sessions: slides and worksheets on the __________",
+     "explanation": "Materials are on the website.",
+     "evidenceQuote": "the slides and worksheets are available on our website",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "website"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "business plan",
+    "cash flow",
+    "market research",
+    "loan",
+    "sole trader"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the table below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice04-lp3",
+   "partNumber": 3,
+   "title": "Researching the four-day working week",
+   "contextDescription": "Two business students, Daniel and Yasmin, discuss their research on four-day working weeks with their lecturer.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "0E4E4CA0-0BAF-5848-ACF9-DB98A1BCBDFE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "So, Yasmin and Daniel, you've been looking at the four-day working week. Tell me what you've found so far."
+    },
+    {
+     "id": "02FBA2DB-CF77-5775-B8EC-A67355181A9C",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "We started with the big trial that took place in the UK, where about sixty companies reduced working hours to four days a week for six months, with no reduction in pay. The idea was that staff would keep the same output in less time."
+    },
+    {
+     "id": "BADC17DE-C7E5-521F-A50B-FDD56A2558F5",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "And the headline results were very positive. Most of the companies decided to continue with the four-day week after the trial ended. Staff reported less stress and burnout, and fewer people left their jobs."
+    },
+    {
+     "id": "0BCA7C50-B510-503B-B347-4367776F4139",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's what was reported in the media. What did you make of the methods?"
+    },
+    {
+     "id": "B7367E8A-BD4F-5044-BD0B-8E6F7028A36C",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "That's where we became more cautious. The companies weren't chosen at random. They volunteered to take part, so they were probably companies that already expected it to work and were willing to change how they operated."
+    },
+    {
+     "id": "4D1B7887-8088-5CCA-BA51-3E722F057675",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "And most of them were quite small, and in sectors like marketing, software and charities. There were very few manufacturing firms or hospitals, where it's much harder to cut hours without hiring more people."
+    },
+    {
+     "id": "BDDCE792-AE03-5138-98A8-AA0AF823B2EB",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good points. Anything else?"
+    },
+    {
+     "id": "FAC64C81-8856-5906-BE5B-A61187A3E985",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "The measures of productivity were mainly reported by the companies themselves. Some had clear figures, like sales, but for others it was more a feeling that things were going well. And six months isn't very long. Some of the benefits might be a novelty effect."
+    },
+    {
+     "id": "15666558-D347-5E38-878F-2DB72BCFE6D0",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Exactly the kind of critical thinking I want to see. So what did you do for your own research?"
+    },
+    {
+     "id": "1DA58E49-D78E-59E0-BF54-3A48153EDFA0",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "We interviewed managers at four local firms. Two had moved to a four-day week and two had considered it but decided against it."
+    },
+    {
+     "id": "06442BCC-DE70-59DF-AA55-92BB314E9F36",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Interesting. What did the ones who rejected it say?"
+    },
+    {
+     "id": "2B7D854D-4648-538D-B359-F2D1C6F012AD",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "The main issue for both was customers. One was an accounting firm, and they said their clients expect someone to answer the phone five days a week. They couldn't see how to do that without staff working different days, which they thought would be too complicated to organise."
+    },
+    {
+     "id": "CBD7C026-AF6A-5B11-ACC3-A8DB60FC64EF",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "The other was a small engineering company. The manager said they'd love to try it, but they're already struggling to find skilled staff, and cutting hours would mean they'd need even more people."
+    },
+    {
+     "id": "5D6EC347-4C24-54DA-B809-244BD52EBB4C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "And the two that adopted it?"
+    },
+    {
+     "id": "29A22FA9-911F-5A4F-96D8-DEA5578A870D",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "Both said the biggest change was cutting unnecessary meetings. One manager told us they reduced most meetings from an hour to thirty minutes, and introduced a rule that no meeting could have more than six people."
+    },
+    {
+     "id": "A061B341-3E3E-514A-89EC-1D48249B7EFB",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "The other said the main benefit was in recruitment. They're a design agency, and since they started offering a four-day week, they've had far more applications for every job they advertise. The manager said it's been more effective than offering a higher salary."
+    },
+    {
+     "id": "3316FBC1-7120-5068-9BBB-BA36D1FD3F33",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "Both managers also mentioned that staff were more focused on the days they did work. One said people stopped arranging doctor's appointments and other personal things during work hours, because they now had a free day for that."
+    },
+    {
+     "id": "9FF6D485-F2E2-57CE-B803-27B5E25EEBDB",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "But they admitted it was hard at first. A few projects fell behind in the first month, until people got used to the new routine."
+    },
+    {
+     "id": "19F598CD-338E-5903-9AB2-F9594C773EFF",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's a really interesting finding. Now, how are you going to structure the report?"
+    },
+    {
+     "id": "2F6D2095-CC91-56BC-9F37-F7EE76AE1C62",
+     "speaker": "Yasmin",
+     "accent": "en-GB",
+     "text": "We thought we'd start with the background and the big trials, then our interviews, and then a discussion section comparing the two."
+    },
+    {
+     "id": "BD63419F-9ABB-5ABD-8D5E-81D642010007",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's sensible. But make sure your conclusion is proportionate. Four interviews can give you insights, but they can't tell you whether the policy works in general. You could suggest what further research would be needed."
+    },
+    {
+     "id": "66588F59-C063-5501-86C0-541EF27F34F5",
+     "speaker": "Daniel",
+     "accent": "en-AU",
+     "text": "Like a longer trial including larger organisations?"
+    },
+    {
+     "id": "BD299719-36A7-5F91-8B6F-FC7CC84A7F32",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Exactly, and ideally one with a comparison group of similar companies that didn't change their hours. Right, I look forward to reading the draft."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice04-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "In the UK trial, staff",
+     "explanation": "Staff kept the same pay while working four days.",
+     "evidenceQuote": "with no reduction in pay",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. kept the same salary.",
+      "B. worked longer hours on four days.",
+      "C. received a bonus for taking part."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. kept the same salary.",
+      "kept the same salary."
+     ]
+    },
+    {
+     "id": "practice04-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why does Yasmin question the trial's results?",
+     "explanation": "The companies volunteered, so they may have expected success.",
+     "evidenceQuote": "They volunteered to take part",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The trial was too large.",
+      "B. Staff were not asked about stress.",
+      "C. The companies chose to take part."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The companies chose to take part.",
+      "The companies chose to take part."
+     ]
+    },
+    {
+     "id": "practice04-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does Daniel say about the types of company in the trial?",
+     "explanation": "Few manufacturing firms or hospitals took part.",
+     "evidenceQuote": "There were very few manufacturing firms or hospitals",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Most were manufacturing firms.",
+      "B. Few were in sectors where cutting hours is difficult.",
+      "C. They were mainly large organisations."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Few were in sectors where cutting hours is difficult.",
+      "Few were in sectors where cutting hours is difficult."
+     ]
+    },
+    {
+     "id": "practice04-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why did the accounting firm reject the four-day week?",
+     "explanation": "Clients expect five-day availability.",
+     "evidenceQuote": "their clients expect someone to answer the phone five days a week",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Clients expect contact five days a week.",
+      "B. Staff did not want it.",
+      "C. It would increase costs too much."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Clients expect contact five days a week.",
+      "Clients expect contact five days a week."
+     ]
+    },
+    {
+     "id": "practice04-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What problem did the engineering company mention?",
+     "explanation": "They struggle to recruit skilled staff.",
+     "evidenceQuote": "they're already struggling to find skilled staff",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its machines must run every day.",
+      "B. Its customers are overseas.",
+      "C. It is difficult to recruit skilled workers."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It is difficult to recruit skilled workers.",
+      "It is difficult to recruit skilled workers."
+     ]
+    },
+    {
+     "id": "practice04-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the lecturer say about the students' conclusion?",
+     "explanation": "Their conclusion should match the limited evidence.",
+     "evidenceQuote": "Four interviews can give you insights, but they can't tell you whether the policy works in general",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It should recommend the four-day week.",
+      "B. It should not claim too much.",
+      "C. It should be based only on the large trial."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It should not claim too much.",
+      "It should not claim too much."
+     ]
+    },
+    {
+     "id": "practice04-L27",
+     "number": 27,
+     "format": "Sentence Completion",
+     "prompt": "The UK trial lasted __________ months.",
+     "explanation": "The trial lasted six months.",
+     "evidenceQuote": "four days a week for six months",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L28",
+     "number": 28,
+     "format": "Sentence Completion",
+     "prompt": "One firm limited meetings to no more than __________ people.",
+     "explanation": "Meetings were limited to six people.",
+     "evidenceQuote": "no meeting could have more than six people",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L29",
+     "number": 29,
+     "format": "Sentence Completion",
+     "prompt": "The design agency found the four-day week helped with __________.",
+     "explanation": "It helped recruitment.",
+     "evidenceQuote": "the main benefit was in recruitment",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "recruitment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L30",
+     "number": 30,
+     "format": "Sentence Completion",
+     "prompt": "Better research would include a comparison __________ of companies.",
+     "explanation": "A comparison group is needed.",
+     "evidenceQuote": "a comparison group of similar companies that didn't change their hours",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "group"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "productivity",
+    "trial",
+    "well-being",
+    "retention",
+    "sample"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice04-lp4",
+   "partNumber": 4,
+   "title": "The history of money",
+   "contextDescription": "A lecture in an economics course on how money developed.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "7CF9CF42-5D1D-5CAA-9889-158DF53E22EE",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon. Today I want to look at a question that sounds simple: what is money, and where did it come from? We use it every day, but most people have never thought much about how strange it is that we accept pieces of paper, or numbers on a screen, in exchange for real goods."
+    },
+    {
+     "id": "0B8346FD-4806-5DB2-8445-17DA68C6D96D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Economists traditionally define money by the three functions it performs. First, it's a medium of exchange: something people accept in return for goods and services. Second, it's a unit of account: a common measure that lets us compare the value of very different things. And third, it's a store of value: something that keeps its worth over time, so you can save it and spend it later."
+    },
+    {
+     "id": "3871E614-E9B2-5EB2-858D-451CF63B47DA",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The standard story in economics textbooks is that before money, people bartered, directly exchanging goods. The problem with barter is what's called the double coincidence of wants. If I have fish and want shoes, I need to find someone who has shoes and also wants fish. Money, according to this story, was invented to solve that problem. However, anthropologists have pointed out that there's actually very little evidence that any society ever relied mainly on barter. In small communities, people tended to share goods and keep track of who owed what, a system based on credit and trust rather than immediate exchange."
+    },
+    {
+     "id": "4197042F-6B7A-5359-8326-4E91D1DCFE7B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Over history, many different objects have served as money. Some of the most widespread were cowrie shells, which were used in parts of Africa, South Asia and China for centuries. They were durable, difficult to fake and roughly the same size, all useful qualities for money. Other societies used salt, cattle, or even large stone discs, as on the Pacific island of Yap, where some stones were so heavy that they were never moved; everyone simply knew who owned them."
+    },
+    {
+     "id": "6EA40FC4-EE24-50E1-9DFF-D573A39F35FD",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The first coins appeared around six hundred BC in Lydia, a kingdom in what is now western Turkey. They were made of a natural mixture of gold and silver and stamped with a design, often a lion's head, which guaranteed their weight and purity. This was important because it meant people no longer had to weigh and test metal every time they traded. The idea spread rapidly across the Greek world."
+    },
+    {
+     "id": "70A2700D-9DAC-5498-9293-EEB9FCD8A742",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Paper money was first used in China. During the Tang dynasty, merchants who found heavy coins inconvenient began leaving them with trusted dealers in exchange for paper receipts. By the eleventh century, the government had taken over the issuing of these notes. The Italian traveller Marco Polo, who visited China in the thirteenth century, was astonished that people accepted paper in place of gold. However, the Chinese experience also revealed a danger: when governments printed too much paper money, its value fell sharply, leading to rapid rises in prices, what we now call inflation."
+    },
+    {
+     "id": "35A2A284-4117-5427-84F9-35C3DB2D16B7",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In Europe, banknotes developed from the receipts that goldsmiths in seventeenth-century London gave customers who stored gold with them. For a long time, notes could be exchanged at the bank for a fixed amount of gold, a system known as the gold standard. Britain formally adopted it in 1821, and many other countries followed. The gold standard was abandoned during the twentieth century, and today's currencies are what economists call fiat money: they have value not because they can be exchanged for gold, but because governments declare them to be legal tender and people trust that others will accept them."
+    },
+    {
+     "id": "2D026980-2A42-5C94-879C-3EC01DADDC11",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Which brings us to the present. In many countries, the use of cash is falling rapidly. In Sweden, for example, fewer than one in ten purchases in shops is now paid for in cash. Some people welcome this, but others worry about people who don't have bank accounts or smartphones, often elderly or poorer people, who could be excluded. Next week, we'll look at the role of central banks."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice04-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Three functions of money: medium of exchange, unit of account, store of __________",
+     "explanation": "Money is a store of value.",
+     "evidenceQuote": "it's a store of value",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "value"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Problem with barter: the double coincidence of __________",
+     "explanation": "Barter requires a double coincidence of wants.",
+     "evidenceQuote": "what's called the double coincidence of wants",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wants"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Anthropologists: early societies relied on credit and __________",
+     "explanation": "Credit and trust, not barter.",
+     "evidenceQuote": "a system based on credit and trust",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trust"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Cowrie shells were durable and difficult to __________",
+     "explanation": "They were hard to fake.",
+     "evidenceQuote": "They were durable, difficult to fake",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fake"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "On Yap, large stone discs were sometimes never __________",
+     "explanation": "Some stones were never moved.",
+     "evidenceQuote": "some stones were so heavy that they were never moved",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "moved"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "First coins: in Lydia, stamped with a design guaranteeing weight and __________",
+     "explanation": "The stamp guaranteed purity.",
+     "evidenceQuote": "which guaranteed their weight and purity",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purity"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "In China, merchants left coins with dealers in exchange for paper __________",
+     "explanation": "They received paper receipts.",
+     "evidenceQuote": "in exchange for paper receipts",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "receipts"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Printing too much paper money led to __________",
+     "explanation": "Too much money caused inflation.",
+     "evidenceQuote": "what we now call inflation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "inflation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "European banknotes developed from receipts given by __________",
+     "explanation": "Goldsmiths issued the receipts.",
+     "evidenceQuote": "receipts that goldsmiths in seventeenth-century London gave customers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "goldsmiths"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Concern about cashless society: people without bank accounts or smartphones may be __________",
+     "explanation": "They could be excluded.",
+     "evidenceQuote": "who could be excluded",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "excluded"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "barter",
+    "currency",
+    "coinage",
+    "banknote",
+    "inflation"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice04-rp1",
+   "passageNumber": 1,
+   "title": "The rise of the shipping container",
+   "discipline": "Economic History",
+   "paragraphs": [
+    "Few inventions have changed the world economy as profoundly as a simple steel box. Before the 1950s, cargo was loaded onto ships piece by piece, in sacks, barrels, crates and bales of every size and shape, a method known as break-bulk shipping. Teams of dockworkers carried goods from warehouses to the quayside and stacked them by hand in the ship's hold, a process that could take days or even weeks for a single vessel. Ships often spent as much time in port being loaded and unloaded as they did at sea, and theft and damage were common. As a result, transport could account for a large share of the final price of many goods, and for some products, shipping them abroad was simply not worthwhile.",
+    "The man most often credited with changing this was Malcom McLean, an American who had built up a successful trucking company in the 1930s and 1940s. According to a story he told later, McLean was waiting at a port in 1937 to unload cotton bales from his truck and watched dockworkers spend hours moving the cargo by hand. He began to wonder whether it would be simpler to lift the entire trailer onto the ship. Nearly twenty years later, in 1956, he put the idea into practice, converting an old oil tanker, the Ideal X, to carry fifty-eight containers from New Jersey to Texas.",
+    "McLean was not the first person to put cargo in boxes. Railways and shipping companies had experimented with containers of various kinds since the nineteenth century. What made McLean's approach different was his understanding that the container was only one part of a whole system. For the idea to work, ships, ports, cranes, trucks and trains all had to be designed around the container. McLean's company built specialised cranes that could lift containers on and off ships rapidly and, crucially, it focused on reducing the total cost of moving goods from door to door rather than simply the cost of the sea voyage.",
+    "The savings were dramatic. McLean calculated that loading the Ideal X had cost less than sixteen cents per ton, compared with almost six dollars per ton for loose cargo. Ships could now be turned around in port in hours rather than days. Because containers were sealed, theft fell sharply, and insurance costs dropped. Goods could travel from a factory in one country to a shop in another without being unpacked, simply transferred between truck, ship and train.",
+    "Nevertheless, adoption was slow at first. Ports required huge investment in new cranes and large open areas for storing containers, and many were reluctant to spend the money. Dockworkers' unions, correctly anticipating that containers would eliminate most of their jobs, resisted strongly, leading to long and bitter strikes in several countries. Another obstacle was the lack of a common standard: different companies used containers of different sizes, which could not be handled by each other's equipment. This problem was solved in the late 1960s, when the International Organization for Standardization agreed on standard sizes, the most common being twenty and forty feet long.",
+    "An unexpected boost came from the Vietnam War. The US military struggled to supply its forces through congested Vietnamese ports, and McLean's company won a contract to carry supplies in containers. The ships that delivered military cargo to Vietnam needed something to carry on the return journey, so McLean began to stop in Japan and carry Japanese goods back to the United States. This helped to establish the trans-Pacific trade that would later make East Asia the centre of global manufacturing.",
+    "Today, around ninety per cent of the world's non-bulk cargo travels in containers, and the largest ships can carry more than twenty thousand twenty-foot containers each. The economist Marc Levinson has argued that the container did more than any trade agreement to make globalisation possible, because by making transport cheap and reliable, it allowed companies to build supply chains that spread production across many countries. But the system also has weaknesses. The traditional port areas of many cities, which depended on dock work, went into steep decline, and as events in recent years have shown, disruption at a single major port or shipping route can now cause shortages around the world."
+   ],
+   "questions": [
+    {
+     "id": "practice04-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Before containers, ships could spend as long in port as at sea.",
+     "explanation": "They spent as much time in port as at sea.",
+     "evidenceQuote": "Ships often spent as much time in port being loaded and unloaded as they did at sea",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice04-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "McLean first had his idea while working on a ship.",
+     "explanation": "He was waiting at a port with his truck.",
+     "evidenceQuote": "McLean was waiting at a port in 1937 to unload cotton bales from his truck",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice04-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "McLean invented the idea of putting cargo in boxes.",
+     "explanation": "Others had used containers before.",
+     "evidenceQuote": "McLean was not the first person to put cargo in boxes.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice04-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The Ideal X was built specially to carry containers.",
+     "explanation": "It was a converted oil tanker.",
+     "evidenceQuote": "converting an old oil tanker, the Ideal X",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice04-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Insurance costs fell after the introduction of containers.",
+     "explanation": "Insurance costs dropped.",
+     "evidenceQuote": "insurance costs dropped",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice04-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "McLean's company paid compensation to dockworkers who lost their jobs.",
+     "explanation": "Resistance is mentioned, but not compensation.",
+     "evidenceQuote": "Dockworkers' unions, correctly anticipating that containers would eliminate most of their jobs, resisted strongly",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice04-R7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Old method of loading goods individually was called __________ shipping",
+     "explanation": "It was called break-bulk shipping.",
+     "evidenceQuote": "a method known as break-bulk shipping",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "break-bulk"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "McLean's company built specialised __________ for loading",
+     "explanation": "They built specialised cranes.",
+     "evidenceQuote": "McLean's company built specialised cranes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cranes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Containers were sealed, so __________ fell sharply",
+     "explanation": "Theft fell because containers were sealed.",
+     "evidenceQuote": "theft fell sharply",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "theft"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Ports needed large open areas for __________ containers",
+     "explanation": "Ports needed space for storing containers.",
+     "evidenceQuote": "large open areas for storing containers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "storing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Different container sizes were solved by agreeing on a common __________",
+     "explanation": "A common standard was needed.",
+     "evidenceQuote": "the lack of a common standard",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "standard"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "On the way back from Vietnam, ships carried goods from __________",
+     "explanation": "Ships carried Japanese goods.",
+     "evidenceQuote": "carry Japanese goods back to the United States",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Japan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Weakness: disruption at a single port can cause worldwide __________",
+     "explanation": "It can cause shortages worldwide.",
+     "evidenceQuote": "can now cause shortages around the world",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shortages"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 704,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice04-rp2",
+   "passageNumber": 2,
+   "title": "The psychology of spending",
+   "discipline": "Behavioural Economics",
+   "paragraphs": [
+    "Traditional economic theory assumes that people make rational decisions about money. According to this view, a rational consumer weighs the costs and benefits of each purchase and chooses whatever gives the greatest satisfaction for the money available. A pound or a dollar is worth the same whether it comes from wages, a gift or a lottery win, and whether it is spent in cash or by card. In recent decades, however, researchers in the field of behavioural economics have shown that real people often behave quite differently, in ways that are not random but follow predictable patterns.",
+    "One of the most influential ideas is what the economist Richard Thaler called 'mental accounting'. People tend to divide their money into separate mental categories, such as rent, food, entertainment and savings, and treat each category differently. Someone might refuse to spend twenty pounds from their 'food' budget on an expensive meal, yet happily spend the same amount from a 'birthday money' account. Mental accounting can help people control their spending, but it can also lead to choices that make little sense overall, such as keeping money in a savings account earning very little interest while paying high interest on a credit card debt.",
+    "The way money is paid also affects how much people spend. Several studies have found that people are willing to pay more when using a credit card than when paying with cash. In one well-known experiment conducted at a US university, students bidding for tickets to a basketball game offered, on average, roughly twice as much when told they would pay by card. Researchers believe that handing over physical money creates what has been called a 'pain of paying', which makes people more aware of what they are losing. Contactless payments and phone apps, which make paying almost effortless, may reduce this pain still further.",
+    "Prices themselves can be designed to influence choices. Shops often use prices ending in 99, because people tend to focus on the first digit, so that £2.99 feels closer to £2 than to £3. Another common technique is the 'decoy'. In one experiment, a magazine offered online-only subscriptions for fifty-nine dollars, print-only subscriptions for a hundred and twenty-five dollars, and combined print and online subscriptions, also for a hundred and twenty-five dollars. Almost nobody chose the print-only option, but its presence made the combined offer look like excellent value, and most people chose it. When the print-only option was removed, most people chose the cheaper online version instead.",
+    "Another powerful influence is what psychologists call 'anchoring'. When people are uncertain about the value of something, they are strongly influenced by the first number they see, even if it is irrelevant. Restaurants sometimes place a very expensive dish at the top of the menu, not because they expect to sell it, but because it makes other dishes seem reasonably priced in comparison. Similarly, the 'original' price shown next to a sale price acts as an anchor, making the discount seem more attractive.",
+    "Behavioural economists have also studied why people find it difficult to save. Many people value immediate rewards much more highly than future ones, a tendency known as present bias. Asked to choose between receiving one hundred pounds today or one hundred and ten pounds in a week, most people choose the money today. Yet when asked to choose between one hundred pounds in a year or one hundred and ten pounds in a year and a week, most choose to wait. The delay is the same, but the immediacy of the first option changes people's choices.",
+    "These insights have been used to design policies that help people make better financial decisions. A famous example is automatic enrolment in workplace pension schemes. When employees had to choose to join a pension, many never did, even though they agreed it was a good idea. When companies enrolled employees automatically, while allowing them to leave if they wished, participation rose dramatically. In the UK, the introduction of automatic enrolment from 2012 increased the proportion of private-sector employees saving into a pension from less than half to around eighty-five per cent. Critics argue that governments and companies should not 'nudge' people in this way, but supporters point out that people remain free to choose, and that some default option has to be set in any case."
+   ],
+   "questions": [
+    {
+     "id": "practice04-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes mental accounting.",
+     "evidenceQuote": "People tend to divide their money into separate mental categories",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Separate budgets in our heads",
+      "Separate budgets in our heads"
+     ]
+    },
+    {
+     "id": "practice04-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C is about payment methods.",
+     "evidenceQuote": "The way money is paid also affects how much people spend",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Cash, cards and the feeling of loss",
+      "Cash, cards and the feeling of loss"
+     ]
+    },
+    {
+     "id": "practice04-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D covers price endings and decoys.",
+     "evidenceQuote": "Prices themselves can be designed to influence choices",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. How prices can be presented to guide decisions",
+      "How prices can be presented to guide decisions"
+     ]
+    },
+    {
+     "id": "practice04-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains anchoring.",
+     "evidenceQuote": "they are strongly influenced by the first number they see",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. The influence of the first figure we see",
+      "The influence of the first figure we see"
+     ]
+    },
+    {
+     "id": "practice04-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains present bias and saving.",
+     "evidenceQuote": "why people find it difficult to save",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Why the future seems less important",
+      "Why the future seems less important"
+     ]
+    },
+    {
+     "id": "practice04-R19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "According to traditional economic theory, money",
+     "explanation": "Money is worth the same regardless of source.",
+     "evidenceQuote": "A pound or a dollar is worth the same whether it comes from wages, a gift or a lottery win",
+     "skillTag": "detail",
+     "options": [
+      "A. is valued more when it is earned.",
+      "B. has the same value whatever its source.",
+      "C. should always be saved.",
+      "D. is spent more freely by card."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. has the same value whatever its source.",
+      "has the same value whatever its source."
+     ]
+    },
+    {
+     "id": "practice04-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "In the basketball ticket experiment, students paying by card",
+     "explanation": "Card payers offered about twice as much.",
+     "evidenceQuote": "offered, on average, roughly twice as much when told they would pay by card",
+     "skillTag": "detail",
+     "options": [
+      "A. refused to take part.",
+      "B. paid less than cash buyers.",
+      "C. bought more tickets.",
+      "D. were prepared to pay about double."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. were prepared to pay about double.",
+      "were prepared to pay about double."
+     ]
+    },
+    {
+     "id": "practice04-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What happened when the print-only subscription was removed?",
+     "explanation": "Most then chose the cheaper online option.",
+     "evidenceQuote": "When the print-only option was removed, most people chose the cheaper online version instead",
+     "skillTag": "detail",
+     "options": [
+      "A. Most people chose the online-only option.",
+      "B. Most people chose the combined option.",
+      "C. Sales of the magazine fell.",
+      "D. The price of the combined offer rose."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Most people chose the online-only option.",
+      "Most people chose the online-only option."
+     ]
+    },
+    {
+     "id": "practice04-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why might a restaurant put a very expensive dish at the top of its menu?",
+     "explanation": "It makes other dishes look reasonable.",
+     "evidenceQuote": "it makes other dishes seem reasonably priced in comparison",
+     "skillTag": "detail",
+     "options": [
+      "A. It is the most popular dish.",
+      "B. It attracts wealthy customers.",
+      "C. It makes other prices seem reasonable.",
+      "D. It is required by law."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It makes other prices seem reasonable.",
+      "It makes other prices seem reasonable."
+     ]
+    },
+    {
+     "id": "practice04-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "People prefer immediate rewards, a tendency called present __________.",
+     "explanation": "This is called present bias.",
+     "evidenceQuote": "a tendency known as present bias",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bias"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "Workplace pensions saw higher participation when employees were enrolled __________.",
+     "explanation": "Automatic enrolment raised participation.",
+     "evidenceQuote": "When companies enrolled employees automatically",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "automatically"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "In the UK, the change was introduced from __________.",
+     "explanation": "It was introduced from 2012.",
+     "evidenceQuote": "the introduction of automatic enrolment from 2012",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "2012"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice04-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "Critics object to governments trying to __________ people.",
+     "explanation": "Critics object to nudging.",
+     "evidenceQuote": "should not 'nudge' people in this way",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nudge"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 719,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–F from the list of headings below.",
+     "options": [
+      "i. How prices can be presented to guide decisions",
+      "ii. The history of credit cards",
+      "iii. Why the future seems less important",
+      "iv. Separate budgets in our heads",
+      "v. Shopping online versus in stores",
+      "vi. The influence of the first figure we see",
+      "vii. Cash, cards and the feeling of loss"
+     ]
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice04-rp3",
+   "passageNumber": 3,
+   "title": "Who benefits from the gig economy?",
+   "discipline": "Labour Economics",
+   "paragraphs": [
+    "In the past fifteen years, a new way of working has spread rapidly in many countries. Through smartphone apps, millions of people now find short-term tasks, or 'gigs', such as driving passengers, delivering food, cleaning homes or doing small pieces of online work. Instead of being employed by a company, these workers are usually classified as independent contractors, paid for each task they complete. Supporters describe this 'gig economy' as a source of flexibility and opportunity. Critics see it as a way for companies to avoid the responsibilities of being an employer. In my view, both descriptions contain some truth, and the real question is how to keep the benefits while reducing the risks.",
+    "Measuring the size of the gig economy is surprisingly difficult. Official statistics often fail to capture people who do gig work alongside a regular job, and definitions vary from one study to another. Surveys in Europe and North America suggest that somewhere between five and fifteen per cent of adults have earned money through online platforms at some point, but for most of them it is an occasional source of extra income rather than their main job. Only a smaller group, perhaps one or two per cent of workers, depends on platform work for most of their earnings, and it is this group that has attracted most concern.",
+    "For many workers, the main attraction is flexibility. Drivers and couriers can usually log on and off when they choose, fitting work around studies, childcare or another job. Surveys of drivers consistently find that this freedom is what they value most, and some studies suggest they would demand considerably higher pay to give it up. For people who find it difficult to get conventional employment, such as recent migrants or those with gaps in their work history, platforms can also offer a relatively easy way to start earning, since there are few formal entry requirements.",
+    "The disadvantages, however, are significant. Because they are not legally employees, gig workers in many countries have no right to a minimum wage, sick pay or paid holidays, and no protection against being dismissed. Their income can be highly unpredictable, depending on demand, the number of other workers available, and changes to the way the platform calculates payments, which companies can make with little notice. Workers also typically bear the costs of their equipment, such as a car or a bicycle, as well as fuel and insurance. Once these costs are taken into account, some studies have found that drivers' hourly earnings can fall below the legal minimum wage.",
+    "A further concern is the role of algorithms. On many platforms, work is allocated, monitored and evaluated not by human managers but by software. Workers may be rated by customers after every task, and a fall in their average rating can lead to their account being suspended, sometimes without a clear explanation or a way to appeal. Researchers have described this as a form of management that combines the control of traditional employment with the insecurity of self-employment, giving workers the disadvantages of both while offering the full benefits of neither.",
+    "The legal status of gig workers has been tested in courts around the world. In a landmark case in 2021, the UK Supreme Court ruled that drivers for a major ride-hailing company should be classified as 'workers', an intermediate category in British law that entitles them to the minimum wage and holiday pay, though not to all the rights of employees. The judges noted that the company set the fares, controlled how drivers were assigned to passengers and could penalise drivers who rejected too many trips. Other countries have taken different approaches; Spain, for instance, passed a law presuming that delivery riders are employees, while some US states have created special categories for platform workers.",
+    "Some have argued that the gig economy shows that traditional employment law, designed for factories and offices, needs to be updated. One possibility is to give all workers, however they are classified, certain basic protections, such as a minimum income per hour of work and access to sick pay, perhaps funded by small contributions from platforms on every transaction. Another is to allow benefits such as pensions to move with workers from one job or platform to another. I believe this approach is more promising than forcing every form of work into the old categories of employee or self-employed, which no longer reflect how many people actually work."
+   ],
+   "questions": [
+    {
+     "id": "practice04-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Both supporters and critics of the gig economy are partly correct.",
+     "explanation": "The writer says both contain some truth.",
+     "evidenceQuote": "In my view, both descriptions contain some truth",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice04-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most people who do gig work depend on it for most of their income.",
+     "explanation": "For most, it is occasional extra income.",
+     "evidenceQuote": "for most of them it is an occasional source of extra income rather than their main job",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice04-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Gig work can be helpful for people who struggle to find regular jobs.",
+     "explanation": "It offers an easy way to start earning.",
+     "evidenceQuote": "platforms can also offer a relatively easy way to start earning",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice04-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Gig workers earn more than employees in similar jobs.",
+     "explanation": "No comparison with employees is made.",
+     "evidenceQuote": "some studies have found that drivers' hourly earnings can fall below the legal minimum wage",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice04-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Algorithmic management gives workers the best of employment and self-employment.",
+     "explanation": "It gives the disadvantages of both.",
+     "evidenceQuote": "giving workers the disadvantages of both while offering the full benefits of neither",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice04-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Basic protections for all workers would be better than relying on traditional categories.",
+     "explanation": "The writer prefers this approach.",
+     "evidenceQuote": "I believe this approach is more promising than forcing every form of work into the old categories",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice04-R33",
+     "number": 33,
+     "format": "Sentence Completion",
+     "prompt": "Gig workers are usually classified as __________.",
+     "explanation": "They are independent contractors.",
+     "evidenceQuote": "these workers are usually classified as independent contractors",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "independent contractors"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice04-R34",
+     "number": 34,
+     "format": "Sentence Completion",
+     "prompt": "Drivers value __________ more than anything else about the work.",
+     "explanation": "Freedom is what they value most.",
+     "evidenceQuote": "this freedom is what they value most",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "freedom",
+      "flexibility"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice04-R35",
+     "number": 35,
+     "format": "Sentence Completion",
+     "prompt": "A drop in a worker's average rating may lead to their account being __________.",
+     "explanation": "Accounts may be suspended.",
+     "evidenceQuote": "can lead to their account being suspended",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suspended"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice04-R36",
+     "number": 36,
+     "format": "Sentence Completion",
+     "prompt": "In Spain, the law presumes that delivery riders are __________.",
+     "explanation": "Spain presumes riders are employees.",
+     "evidenceQuote": "presuming that delivery riders are employees",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "employees"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice04-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "Why is it difficult to measure the size of the gig economy?",
+     "explanation": "Statistics miss people doing gig work alongside other jobs.",
+     "evidenceQuote": "Official statistics often fail to capture people who do gig work alongside a regular job",
+     "skillTag": "detail",
+     "options": [
+      "A. Companies refuse to share data.",
+      "B. Many gig workers also have other jobs.",
+      "C. It is growing too quickly.",
+      "D. It exists only in a few countries."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many gig workers also have other jobs.",
+      "Many gig workers also have other jobs."
+     ]
+    },
+    {
+     "id": "practice04-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "Which cost do gig workers usually pay themselves?",
+     "explanation": "They pay for equipment, fuel and insurance.",
+     "evidenceQuote": "Workers also typically bear the costs of their equipment, such as a car or a bicycle, as well as fuel and insurance",
+     "skillTag": "detail",
+     "options": [
+      "A. the cost of the app",
+      "B. customer refunds",
+      "C. office rent",
+      "D. insurance"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. insurance",
+      "insurance"
+     ]
+    },
+    {
+     "id": "practice04-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "Why did the UK Supreme Court decide that the drivers were \"workers\"?",
+     "explanation": "The company controlled key aspects of the work.",
+     "evidenceQuote": "the company set the fares, controlled how drivers were assigned to passengers and could penalise drivers",
+     "skillTag": "inference",
+     "options": [
+      "A. The company controlled important parts of the job.",
+      "B. The drivers worked full-time.",
+      "C. The drivers asked to be employees.",
+      "D. The company paid for their cars."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The company controlled important parts of the job.",
+      "The company controlled important parts of the job."
+     ]
+    },
+    {
+     "id": "practice04-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer's main purpose in the final paragraph?",
+     "explanation": "The writer recommends a new approach to protections.",
+     "evidenceQuote": "I believe this approach is more promising",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. to describe the history of employment law",
+      "B. to criticise gig economy companies",
+      "C. to propose a way of protecting gig workers",
+      "D. to argue that gig work should be banned"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to propose a way of protecting gig workers",
+      "to propose a way of protecting gig workers"
+     ]
+    }
+   ],
+   "estimatedWordCount": 740,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice04-w1",
+  "title": "How people paid in shops, 2010–2024",
+  "visualType": "Line Chart",
+  "instructions": "The line graph below shows the percentage of shop transactions made using cash, debit cards, credit cards and mobile phones in one country between 2010 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "F13D1D44-84ED-5664-9D17-B41EF57ACDBE",
+    "series": "Cash",
+    "category": "2010",
+    "value": 62.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "A5BC53A9-4ED0-5DF6-AA61-539CF87FACEE",
+    "series": "Debit card",
+    "category": "2010",
+    "value": 28.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "224717F1-7A4A-5C1D-AB57-83712C4E847A",
+    "series": "Credit card",
+    "category": "2010",
+    "value": 10.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "F2A80F8B-E2C6-5F89-A6F6-60F26E939DA5",
+    "series": "Mobile phone",
+    "category": "2010",
+    "value": 0.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "A4772211-BA9B-5FC2-BC39-F3B39D98047E",
+    "series": "Cash",
+    "category": "2013",
+    "value": 54.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "29FBB9B6-2457-52F6-9B90-9E7C74820DF4",
+    "series": "Debit card",
+    "category": "2013",
+    "value": 33.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "963F531F-C920-5CF7-AD01-B4F97A46D3A3",
+    "series": "Credit card",
+    "category": "2013",
+    "value": 12.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "6EB455AC-EC2E-5328-B4C7-539C5FD2ACEE",
+    "series": "Mobile phone",
+    "category": "2013",
+    "value": 1.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "00A718A9-39B0-53D8-AEFC-F8D9CC9B4151",
+    "series": "Cash",
+    "category": "2016",
+    "value": 43.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "050C808C-B718-5C6D-AF09-56DF8351C048",
+    "series": "Debit card",
+    "category": "2016",
+    "value": 39.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "80D2E3A2-433E-5D7E-A6F5-F19B10AA1925",
+    "series": "Credit card",
+    "category": "2016",
+    "value": 13.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "EE5FE001-9983-5D1D-B438-5F42DD99C116",
+    "series": "Mobile phone",
+    "category": "2016",
+    "value": 5.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "92D07FA9-2A5D-5628-A7D2-912D4340EBBD",
+    "series": "Cash",
+    "category": "2019",
+    "value": 28.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "09946B42-0A40-5674-A0D4-AE9F10B4D987",
+    "series": "Debit card",
+    "category": "2019",
+    "value": 46.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "83245126-8CD4-57EB-BED0-A926D667491F",
+    "series": "Credit card",
+    "category": "2019",
+    "value": 13.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "2ED33E69-C12A-5124-A5C5-CFDB0ACB5D5C",
+    "series": "Mobile phone",
+    "category": "2019",
+    "value": 13.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "B7A25B0B-38FB-567F-8B86-D3A83C3C731C",
+    "series": "Cash",
+    "category": "2022",
+    "value": 15.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "5A764494-78BF-504F-8CC9-5388BD40A45A",
+    "series": "Debit card",
+    "category": "2022",
+    "value": 49.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "7C5B7166-D73D-5812-BBA9-2E6294BFC2B6",
+    "series": "Credit card",
+    "category": "2022",
+    "value": 12.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "78D27918-5C74-5DA1-87EA-1E870EBCFEAC",
+    "series": "Mobile phone",
+    "category": "2022",
+    "value": 24.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "75465806-508E-51E7-B039-385F51E98181",
+    "series": "Cash",
+    "category": "2024",
+    "value": 11.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "04F2939D-5304-59FE-A387-8FA57CB4E632",
+    "series": "Debit card",
+    "category": "2024",
+    "value": 47.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "401CC904-D64C-5F7A-98DC-DCC5B7DBB8A5",
+    "series": "Credit card",
+    "category": "2024",
+    "value": 11.0,
+    "unit": "% of transactions"
+   },
+   {
+    "id": "47F64403-7FC2-5B29-91BE-946690C9B5C3",
+    "series": "Mobile phone",
+    "category": "2024",
+    "value": 31.0,
+    "unit": "% of transactions"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Cash fell from the most common method to one of the least common.",
+   "Debit cards became the main method, and mobile payments grew rapidly after 2016; credit card use stayed stable."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice04-w2",
+  "title": "Job security or flexibility",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Work & Employment",
+  "promptText": "Some people prefer to work for one company for many years, while others prefer to change jobs frequently or work for themselves. Discuss the advantages of both approaches and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice04-spk",
+  "theme": "Work and money",
+  "part1Questions": [
+   "What do you do? Do you work or study?",
+   "Have you ever had a part-time job?",
+   "Do you prefer to pay by cash or card?",
+   "Are you good at saving money?",
+   "What job would you like to have in ten years?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a person you know who runs their own business.",
+   "bulletPoints": [
+    "who the person is",
+    "what kind of business it is",
+    "how successful it is",
+    "and explain what you think of this person's work"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people want to start their own business?",
+   "What are the risks of being self-employed?",
+   "Should schools teach young people how to manage money?",
+   "Is it better to have a job you enjoy or a job that pays well?",
+   "How might technology change the way people work in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Company names and figures in scripts and passages are fictional or simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

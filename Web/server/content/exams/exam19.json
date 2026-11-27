@@ -1,0 +1,2104 @@
+{
+ "id": "exam19",
+ "examNumber": 19,
+ "pool": "mock",
+ "title": "Mock Exam 19: Ancient Civilisations & Early Writing",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Ancient Civilisations & Early Writing",
+ "listeningParts": [
+  {
+   "id": "exam19-lp1",
+   "partNumber": 1,
+   "title": "Booking an ancient writing workshop",
+   "contextDescription": "A woman phones a city museum to book a weekend workshop on ancient writing for herself and her daughter.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "83B1AE32-554E-5FB8-AB68-DF054E307ED7",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Hallam City Museum, bookings desk. Owen speaking. How can I help?"
+    },
+    {
+     "id": "C2F5D6D0-4643-57C7-8B10-69B3360517FC",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Oh, hello. I picked up a leaflet about your weekend workshops on ancient writing, and I'd like to book a place for myself and my daughter, if there's still room."
+    },
+    {
+     "id": "FC114521-1446-5E06-A851-194BAAB97307",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. Where did you find the leaflet, just out of interest? We're trying to work out which kind of advertising actually works."
+    },
+    {
+     "id": "D047B64E-FF65-5510-A0FF-7306F7B0DC52",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "It was at the library on the high street, on the noticeboard by the entrance."
+    },
+    {
+     "id": "F4FECFD3-EE63-5DB3-B7F1-3F28C4D8D8A0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's useful to know, thank you. Right, we have two different workshops running this month. One is called Clay and Reed, where you learn to write cuneiform on clay tablets, the way scribes did in ancient Mesopotamia. The other is called Ink and Papyrus, and that one's about Egyptian hieroglyphs. You paint them with a brush on a sheet of real papyrus."
+    },
+    {
+     "id": "37BC8E5B-E02A-57C1-886F-A44A04C85ED7",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "They both sound fascinating. Which one would suit a twelve-year-old better?"
+    },
+    {
+     "id": "06E4B61E-38A8-5055-8679-AAE90C0B89B0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Both are suitable from age ten, so she'd be fine with either. But I'd say Clay and Reed is the more hands-on of the two. Everyone makes their own tablet from scratch, writes their name on it in cuneiform, and then takes it home to dry. The children usually love that part. The papyrus one is quieter and needs a very steady hand."
+    },
+    {
+     "id": "D51631EF-4187-5F76-80D0-91179D43152B",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "She'd much prefer getting her hands dirty, I think. When is Clay and Reed?"
+    },
+    {
+     "id": "6F0B5FD6-E4EB-52F6-B228-0CD151F95907",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It runs on Saturday mornings. This month there are two sessions, on the eighth and the twenty-second. I'm afraid the eighth is already fully booked, but there are still a few places left on the twenty-second."
+    },
+    {
+     "id": "6641EED6-0C47-5AEC-B381-2DB5AEE88BA4",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "The twenty-second is fine. We're free that weekend."
+    },
+    {
+     "id": "CC2779E7-12C6-575A-9198-E69EDB36EF43",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Great. The session starts at half past ten and finishes at one, so it's two and a half hours altogether, with a short break in the middle. It's worth arriving about ten minutes early, because the tutor starts promptly."
+    },
+    {
+     "id": "6E384E81-358C-5514-B9BF-CD3D6205D205",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "And how much does it cost?"
+    },
+    {
+     "id": "26CDFE50-0E68-5C0F-8D87-3194262B0058",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "For adults it's eighteen pounds, and for children under sixteen it's twelve. If you're members of the museum's Friends scheme, you get twenty per cent off, but otherwise it's the standard price."
+    },
+    {
+     "id": "C57A376C-8AE2-5D2E-BE2D-BF5DDB975DC4",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "No, we're not members. So that's thirty pounds for the two of us, is it?"
+    },
+    {
+     "id": "F82A6C88-7B5B-5F77-B57A-36C59270A514",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's right, thirty pounds in total."
+    },
+    {
+     "id": "BD607B77-BE6B-50B7-98AE-B3F97CC7E6CA",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Fine. Do we need to bring anything with us?"
+    },
+    {
+     "id": "ABCA1A1B-2EAE-5169-AF92-CD61EFC57680",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "All the materials are provided: the clay, the reed styluses, and a box to carry your tablet home in. But the clay is quite messy, and it can stain, so I'd strongly recommend wearing old clothes, or bringing an apron if you have one."
+    },
+    {
+     "id": "FED761F6-59B3-555D-BF68-6E1B69229B35",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Good tip. What about food? Is there anywhere to eat?"
+    },
+    {
+     "id": "B3519584-0B8B-5112-B4EC-14CE30E43300",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There's a café on the ground floor, and everyone taking part in a workshop gets a free drink there. You just show your ticket at the counter. It's included in the price, so you might as well use it."
+    },
+    {
+     "id": "B5BEB361-68AF-50BB-8F6A-D65A69968E5B",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Lovely. And where in the building is the workshop held?"
+    },
+    {
+     "id": "740B8D42-A064-58B5-84B1-31E44F161942",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "It's in the Learning Centre, which is on the second floor, right next to our gallery of Near Eastern antiquities. In fact, the session begins with a short tour of that gallery, and the tutor shows you some genuine tablets that are around four thousand years old, so you can see what you're trying to copy."
+    },
+    {
+     "id": "D9CAC451-ACCA-5D25-A55D-6994CE540169",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "That's a nice idea. Is there a lift? My daughter's fine, but I've got a bad knee at the moment."
+    },
+    {
+     "id": "418A1DDA-BAC6-550C-9F7A-1DA5499AA21B",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, there are two lifts just inside the main entrance. Now, could I take your name, please?"
+    },
+    {
+     "id": "8F62649C-6315-5301-B79D-F4D7D96D710D",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Yes, it's Fiona Delacourt. D-E-L-A-C-O-U-R-T."
+    },
+    {
+     "id": "80F8D4AE-1206-5500-B5C1-A54768E28EC0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And your daughter's first name?"
+    },
+    {
+     "id": "7A4043F4-4978-5AA4-9A11-AA9DDCA63A87",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "It's Mia."
+    },
+    {
+     "id": "FEE782AB-4B49-5AB8-961E-E3D76C91BA5C",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. I'll email the tickets to you once you've paid. One last thing: will you be coming by car?"
+    },
+    {
+     "id": "B9168CA3-EAC3-56A0-9F24-3CCFFBF739E6",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Probably, yes. Is there parking at the museum?"
+    },
+    {
+     "id": "97EF63AC-69B2-521D-A4A2-2A13261EA819",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Unfortunately we don't have our own car park. The nearest one is the multi-storey car park on Brook Street, which is about five minutes' walk away. There's also some street parking on Mill Lane, but it's limited to two hours, so it wouldn't really be long enough for the workshop."
+    },
+    {
+     "id": "81C350A4-A332-5A4A-AD65-4900EC4D7A35",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Brook Street, then. Thanks so much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam19-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Found leaflet at the __________ on the high street",
+     "explanation": "She found it at the library.",
+     "evidenceQuote": "It was at the library on the high street",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Workshop chosen: Clay and __________",
+     "explanation": "The workshop is Clay and Reed.",
+     "evidenceQuote": "One is called Clay and Reed",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Reed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Both workshops suitable from age __________",
+     "explanation": "The minimum age is ten.",
+     "evidenceQuote": "Both are suitable from age ten",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Date: Saturday the __________",
+     "explanation": "Only the twenty-second has places.",
+     "evidenceQuote": "there are still a few places left on the twenty-second",
+     "skillTag": "dates",
+     "distractorNote": "The eighth is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "twenty-second",
+      "22nd",
+      "22"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Total cost for mother and daughter: £__________",
+     "explanation": "The total is £30.",
+     "evidenceQuote": "thirty pounds in total",
+     "skillTag": "numbers",
+     "distractorNote": "£18 and £12 are the individual prices.",
+     "options": [],
+     "acceptedAnswers": [
+      "30",
+      "thirty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Advice: wear old clothes or bring an __________",
+     "explanation": "An apron is recommended.",
+     "evidenceQuote": "bringing an apron if you have one",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "apron"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Ticket gives a free __________ in the café",
+     "explanation": "Participants get a free drink.",
+     "evidenceQuote": "everyone taking part in a workshop gets a free drink there",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "drink"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Learning Centre is on the __________ floor",
+     "explanation": "It is on the second floor.",
+     "evidenceQuote": "which is on the second floor",
+     "skillTag": "detail",
+     "distractorNote": "The café is on the ground floor.",
+     "options": [],
+     "acceptedAnswers": [
+      "second",
+      "2nd"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Delacourt.",
+     "evidenceQuote": "Yes, it's Fiona Delacourt. D-E-L-A-C-O-U-R-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Delacourt"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Parking: multi-storey car park on __________ Street",
+     "explanation": "The car park is on Brook Street.",
+     "evidenceQuote": "the multi-storey car park on Brook Street",
+     "skillTag": "spelling",
+     "distractorNote": "Mill Lane parking is limited to two hours.",
+     "options": [],
+     "acceptedAnswers": [
+      "Brook"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "workshop",
+    "clay tablet",
+    "stylus",
+    "cuneiform",
+    "multi-storey car park"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam19-lp2",
+   "partNumber": 2,
+   "title": "A new exhibition on the origins of writing",
+   "contextDescription": "A museum guide introduces visitors to a new exhibition about the earliest writing systems.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "9BE7B6AB-1EEB-545A-A824-B58F89404C3F",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Good afternoon, everyone, and welcome to Signs of the Past, our new exhibition on the beginnings of writing. My name's Ciara, and I'll be giving you a short introduction before you explore on your own. The exhibition has been three years in the making. The idea came about when we were offered a long-term loan of objects from a university collection that had been in storage for decades, and we realised we had the chance to tell a story that most museums can only tell in part."
+    },
+    {
+     "id": "0FFD500B-40CD-5D9B-9D68-5038688D048C",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The exhibition is arranged in four rooms, and each one is devoted to a different region where writing developed early. You'll notice as soon as you go in that the lighting is quite dim. That isn't to create atmosphere, although it does. Many of the objects are made from organic materials, and strong light would fade and weaken them. So please give your eyes a minute to adjust. Photography is allowed throughout, but without flash, for the same reason."
+    },
+    {
+     "id": "4B756CB7-061A-5DE2-B669-AE3B47A246B2",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Room One covers Mesopotamia, in what is now Iraq, where most specialists believe writing first appeared. The highlight here is a small clay tablet from the city of Uruk. It's an account of grain rations, and it's more than five thousand years old, which makes it the oldest object in the whole exhibition. In the same room, you'll find a table with replica cylinder seals. These were small carved stone cylinders that were rolled across wet clay to leave a design, a bit like a signature. You're welcome to pick the replicas up and roll them across the trays of modelling clay."
+    },
+    {
+     "id": "68CA6E8E-133B-5201-8B6C-AB51C9485907",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "In Room Two, we move to Egypt. People often think of hieroglyphs as the only Egyptian script, but in fact, for everyday purposes such as letters and accounts, scribes used a faster, joined-up script called hieratic, and we have some lovely examples on display. The material they usually wrote on, of course, was papyrus, which was made from a plant that grew along the Nile. There's a short film in this room that shows how papyrus sheets were made, using the same methods as in ancient times. It lasts about six minutes and runs continuously."
+    },
+    {
+     "id": "09986916-A920-551B-9255-52D499ED8016",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Room Three is devoted to China. The earliest Chinese writing that has survived is found on what are called oracle bones, from the Shang dynasty, around three thousand two hundred years ago. These were mostly the shoulder blades of oxen and the shells of turtles. A question would be addressed to the royal ancestors, for example whether a harvest would be good, and the bone was heated until it cracked. Specialists interpreted the cracks to predict the future, and the question, and sometimes the answer, was carved into the bone. Many of the characters can still be recognised by people who read Chinese today."
+    },
+    {
+     "id": "7066A5B9-ADA2-5C87-AAB8-53A13C139F51",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, Room Four takes you across the Atlantic to the Maya of Central America. The centrepiece is a full-size replica of the Dresden Codex, one of only four Maya books known to have survived. It's made of bark paper and folds up like a screen. Next to it, there's an interactive display that converts your date of birth into the Maya calendar, and prints it out in Maya numbers for you to take home. Children love it, so there's sometimes a queue."
+    },
+    {
+     "id": "227104D6-59D2-5198-A848-20614E771647",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "A few practical points. The free audio guide is available through the museum's app, which you can download using the museum wi-fi, so you don't need to use your own data. The guide lasts about forty minutes. If you'd prefer a printed booklet, they cost three pounds at the shop. The exhibition is open every day until six, but on Thursdays it stays open until nine, and on those evenings there are short talks by curators at seven o'clock. Right, please do go on in and enjoy it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam19-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How did the idea for the Signs of the Past exhibition begin?",
+     "explanation": "A university offered a loan of objects.",
+     "evidenceQuote": "we were offered a long-term loan of objects from a university collection",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The museum bought a private collection.",
+      "B. A university offered to lend objects.",
+      "C. Visitors asked for an exhibition on writing."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A university offered to lend objects.",
+      "A university offered to lend objects."
+     ]
+    },
+    {
+     "id": "exam19-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why is the lighting in the exhibition dim?",
+     "explanation": "Strong light would damage organic objects.",
+     "evidenceQuote": "strong light would fade and weaken them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to create a dramatic atmosphere",
+      "B. to make the screens easier to see",
+      "C. to protect fragile materials"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to protect fragile materials",
+      "to protect fragile materials"
+     ]
+    },
+    {
+     "id": "exam19-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What does Ciara say about hieratic?",
+     "explanation": "It was a faster script for everyday use.",
+     "evidenceQuote": "scribes used a faster, joined-up script called hieratic",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was quicker to write than hieroglyphs.",
+      "B. It was used only for religious texts.",
+      "C. It was written on stone."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It was quicker to write than hieroglyphs.",
+      "It was quicker to write than hieroglyphs."
+     ]
+    },
+    {
+     "id": "exam19-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What is said about the characters on the Chinese oracle bones?",
+     "explanation": "Many characters are still recognisable.",
+     "evidenceQuote": "Many of the characters can still be recognised by people who read Chinese today.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were painted rather than carved.",
+      "B. Many are still recognisable to modern readers.",
+      "C. They have only recently been deciphered."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many are still recognisable to modern readers.",
+      "Many are still recognisable to modern readers."
+     ]
+    },
+    {
+     "id": "exam19-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What is special about Thursday evenings?",
+     "explanation": "Curators give talks on Thursdays.",
+     "evidenceQuote": "on those evenings there are short talks by curators at seven o'clock",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Entry is free.",
+      "B. The audio guide is not available.",
+      "C. Curators give short talks."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Curators give short talks.",
+      "Curators give short talks."
+     ]
+    },
+    {
+     "id": "exam19-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "the oldest object in the exhibition",
+     "explanation": "The Uruk tablet in Room One is the oldest.",
+     "evidenceQuote": "which makes it the oldest object in the whole exhibition",
+     "skillTag": "matching",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Room One (Mesopotamia)",
+      "Room One (Mesopotamia)"
+     ]
+    },
+    {
+     "id": "exam19-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "copies of objects that visitors may touch and use",
+     "explanation": "The replica seals are in Room One.",
+     "evidenceQuote": "You're welcome to pick the replicas up and roll them across the trays of modelling clay.",
+     "skillTag": "matching",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Room One (Mesopotamia)",
+      "Room One (Mesopotamia)"
+     ]
+    },
+    {
+     "id": "exam19-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "a film about how a writing material was produced",
+     "explanation": "The papyrus film is in Room Two.",
+     "evidenceQuote": "There's a short film in this room that shows how papyrus sheets were made",
+     "skillTag": "matching",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Room Two (Egypt)",
+      "Room Two (Egypt)"
+     ]
+    },
+    {
+     "id": "exam19-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "objects that were used to predict the future",
+     "explanation": "Oracle bones are in Room Three.",
+     "evidenceQuote": "Specialists interpreted the cracks to predict the future",
+     "skillTag": "matching",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Room Three (China)",
+      "Room Three (China)"
+     ]
+    },
+    {
+     "id": "exam19-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "a souvenir showing your birthday in an ancient calendar",
+     "explanation": "The calendar display is in Room Four.",
+     "evidenceQuote": "converts your date of birth into the Maya calendar, and prints it out",
+     "skillTag": "matching",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Room Four (Maya)",
+      "Room Four (Maya)"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "oracle bone",
+    "replica",
+    "cylinder seal",
+    "hieratic",
+    "codex"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. In which room of the exhibition can visitors find each of the following? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. Room One (Mesopotamia)",
+      "B. Room Two (Egypt)",
+      "C. Room Three (China)",
+      "D. Room Four (Maya)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam19-lp3",
+   "partNumber": 3,
+   "title": "A presentation on Linear B",
+   "contextDescription": "Two history students, Zoe and Daniel, discuss their presentation on the decipherment of the Linear B script with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "3044FBF5-EC47-5D6D-BE9B-BE545753EC90",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, Zoe, Daniel, your presentation's on Linear B. How's the planning going?"
+    },
+    {
+     "id": "FD91B2B5-EAE0-5E40-8188-491178798E96",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "Pretty well, I think. We've decided to tell it as a kind of detective story, because that's really what it was. We start in 1900, when Arthur Evans began excavating the palace at Knossos on Crete and found thousands of clay tablets covered in an unknown script."
+    },
+    {
+     "id": "73DA1002-742F-5C4D-9D2D-9914003C1580",
+     "speaker": "Daniel",
+     "accent": "en-US",
+     "text": "And we explain that Evans actually identified three scripts on Crete: a hieroglyphic one, Linear A and Linear B. Linear A still hasn't been deciphered, so we're only mentioning it briefly."
+    },
+    {
+     "id": "B33D1FF4-9F62-536E-BBE0-7AEE6EE3BA16",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Sensible. One thing your audience might wonder about is how unbaked clay tablets survived for over three thousand years."
+    },
+    {
+     "id": "C84F6677-B7DA-5697-B727-45E5A43AC409",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "Yes, we've got a slide on that. The tablets were only meant to be temporary records, so they weren't baked. Ironically, they survived because the palace was destroyed by fire, which baked them hard. Without that disaster, they'd have crumbled long ago."
+    },
+    {
+     "id": "637274DA-E317-57F0-ACAD-D4F5324F5E94",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Now, how are you dividing the presentation between you?"
+    },
+    {
+     "id": "79914AF5-5F08-58E3-950F-362E26068A5B",
+     "speaker": "Daniel",
+     "accent": "en-US",
+     "text": "I'm doing the part about Alice Kober. I think she's often left out of the story, and she shouldn't be. She was an American classicist, and in the 1940s she showed that some words appeared in groups of three related forms, with different endings."
+    },
+    {
+     "id": "5C5FBA3E-B691-59C0-A755-5254A9EFBDBF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Her so-called triplets. And why did that matter?"
+    },
+    {
+     "id": "30592DAF-C672-5580-BC1D-CFE0832A4546",
+     "speaker": "Daniel",
+     "accent": "en-US",
+     "text": "Because it proved the language had inflections, like Latin or Greek, where the ending of a word changes depending on its grammar. That meant you could start to work out which signs shared the same consonant or the same vowel, even without knowing the language. She did all this on thousands of handmade index cards, at a time when paper was in short supply. Sadly, she died in 1950, just two years before the breakthrough."
+    },
+    {
+     "id": "C7BBF03F-AD87-5DF0-8E7E-6792ED86B0B6",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "And then I take over with Michael Ventris. What's amazing is that he wasn't a professional scholar at all. He was an architect, and he worked on the script in his spare time. He'd been fascinated by it since he heard Evans give a lecture when he was a schoolboy."
+    },
+    {
+     "id": "07329BF0-9259-5AF2-A8BF-11C2416B5492",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what was his great insight?"
+    },
+    {
+     "id": "B2613278-567A-5A01-84BB-5C8FF15F4274",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "He built on Kober's method and made grids of the signs. For a long time, he was convinced the language was related to Etruscan, not Greek. But when he tried out some sound values on place names from Crete, like Knossos, the words suddenly looked like an early form of Greek. He announced it on BBC radio in 1952, and many people were sceptical at first."
+    },
+    {
+     "id": "7B5FB632-2B95-575D-8383-8C5FF46F0903",
+     "speaker": "Daniel",
+     "accent": "en-US",
+     "text": "What convinced them was a tablet found at Pylos, on the Greek mainland. It had pictures of pots with three legs, and the word next to them, using Ventris's values, read as the Greek word for tripod. That was hard to argue with."
+    },
+    {
+     "id": "ECEBF870-6FA3-5505-B1BD-91C4B8DAA550",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. Do you deal with what the tablets actually say? People often hope for poetry or history."
+    },
+    {
+     "id": "EFB5168C-2880-5A76-B6AC-636AACD14CDE",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "Yes, and that's the slight disappointment. They're almost all administrative records: inventories of sheep, wool, chariot wheels, and offerings to the gods. But we want to argue that that's actually valuable, because it tells us how the palace economy worked in detail."
+    },
+    {
+     "id": "5BC04001-E27E-5F38-8ADA-4D3E0478695F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "I'd agree. You might add that the decipherment pushed back the history of the Greek language by several centuries. Now, a word on timing. Your draft runs to twenty-five minutes, and you've only got fifteen."
+    },
+    {
+     "id": "186D541D-33E1-53A1-A84B-3C77F6AAB5C1",
+     "speaker": "Daniel",
+     "accent": "en-US",
+     "text": "We know. We were thinking of cutting the section on Linear A completely."
+    },
+    {
+     "id": "444DFC7B-4A9E-5815-8100-C8B9DEDFBAED",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "I'd keep one slide on it, actually. It's a nice way to end, showing that there are still mysteries to solve. Cut some of the background on Evans instead. And practise with a timer."
+    },
+    {
+     "id": "1B17BA2D-373C-5C4E-9B3C-8225365CD522",
+     "speaker": "Zoe",
+     "accent": "en-AU",
+     "text": "Okay. And should we mention that Ventris died very young?"
+    },
+    {
+     "id": "E3D7893A-6A62-5313-94E6-9DFDDDD8EC66",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Briefly, yes. He was killed in a car accident in 1956, aged only thirty-four, the same year that his book with John Chadwick was published. It's a moving detail, but don't let it take over. Send me the revised slides by Friday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam19-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How have Zoe and Daniel decided to structure their presentation?",
+     "explanation": "They present it as a detective story.",
+     "evidenceQuote": "We've decided to tell it as a kind of detective story",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. as a detective story",
+      "B. as a comparison of three scripts",
+      "C. as a series of short biographies"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. as a detective story",
+      "as a detective story"
+     ]
+    },
+    {
+     "id": "exam19-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Zoe, why did the Linear B tablets survive?",
+     "explanation": "A fire baked the tablets.",
+     "evidenceQuote": "they survived because the palace was destroyed by fire, which baked them hard",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were stored underground.",
+      "B. They were deliberately baked by scribes.",
+      "C. A fire at the palace hardened them."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. A fire at the palace hardened them.",
+      "A fire at the palace hardened them."
+     ]
+    },
+    {
+     "id": "exam19-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did Alice Kober's triplets show about the language of Linear B?",
+     "explanation": "Word endings changed with grammar.",
+     "evidenceQuote": "it proved the language had inflections",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was related to Latin.",
+      "B. Word endings changed according to grammar.",
+      "C. It was written from right to left."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Word endings changed according to grammar.",
+      "Word endings changed according to grammar."
+     ]
+    },
+    {
+     "id": "exam19-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does Zoe find surprising about Michael Ventris?",
+     "explanation": "He was not a professional scholar.",
+     "evidenceQuote": "he wasn't a professional scholar at all",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. He was not an academic specialist.",
+      "B. He had never visited Crete.",
+      "C. He worked as part of a large team."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. He was not an academic specialist.",
+      "He was not an academic specialist."
+     ]
+    },
+    {
+     "id": "exam19-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What finally persuaded sceptics that Ventris was right?",
+     "explanation": "A tablet showing tripods matched the Greek word.",
+     "evidenceQuote": "read as the Greek word for tripod",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. his radio broadcast",
+      "B. support from Evans",
+      "C. a tablet with pictures that matched the word"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. a tablet with pictures that matched the word",
+      "a tablet with pictures that matched the word"
+     ]
+    },
+    {
+     "id": "exam19-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "Regarding the still undeciphered Cretan script, the tutor recommends that Zoe and Daniel",
+     "explanation": "He suggests keeping one slide on it.",
+     "evidenceQuote": "I'd keep one slide on it, actually.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. remove it completely",
+      "B. keep a single slide about it",
+      "C. move it to the beginning"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. keep a single slide about it",
+      "keep a single slide about it"
+     ]
+    },
+    {
+     "id": "exam19-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Evans began excavating Knossos in __________",
+     "explanation": "Excavation began in 1900.",
+     "evidenceQuote": "We start in 1900, when Arthur Evans began excavating the palace at Knossos",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1900"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Kober recorded her work on handmade index __________",
+     "explanation": "She used index cards.",
+     "evidenceQuote": "on thousands of handmade index cards",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cards"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Ventris's profession: __________",
+     "explanation": "He was an architect.",
+     "evidenceQuote": "He was an architect",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "architect"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Tablets list sheep, wool, chariot __________ and offerings",
+     "explanation": "They list chariot wheels.",
+     "evidenceQuote": "inventories of sheep, wool, chariot wheels, and offerings to the gods",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wheels"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "decipherment",
+    "syllabary",
+    "inventory",
+    "inflection",
+    "Mycenaean"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam19-lp4",
+   "partNumber": 4,
+   "title": "Reading the Maya glyphs",
+   "contextDescription": "A lecture in an archaeology course on how the Maya writing system was deciphered.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "10A31C2D-2C75-588C-8DBC-24BC0986B2BB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning. Today we're looking at one of the great intellectual achievements of the twentieth century: the decipherment of Maya writing. The Maya of southern Mexico and Central America developed the most complete writing system in the ancient Americas, one that could record anything their language could express. It was in use from at least the third century BC until after the Spanish conquest in the sixteenth century."
+    },
+    {
+     "id": "6443C413-0925-5772-9C0E-6F02C62C49B7",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Most surviving Maya writing is carved in stone, on monuments, temple stairways and altars, but the Maya also painted texts on pottery and wrote books. These books, which we call codices, were made from bark, which was pounded into sheets, coated with a fine layer of lime plaster, and folded like a screen. Thousands must once have existed. Only four survive today, and the best known is the Dresden Codex, named after the German city where it's kept. It contains remarkably accurate astronomical tables, including calculations of the movements of the planet Venus and predictions of eclipses."
+    },
+    {
+     "id": "034A9D88-03EB-56AC-8A4C-91CF8B331078",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Why did so few books survive? Partly because bark paper decays quickly in a tropical climate. But there was also deliberate destruction. In 1562, a Spanish friar named Diego de Landa, who later became Bishop of Yucatán, ordered the burning of a large number of Maya books at the town of Maní, because he regarded them as works of the devil. The great irony is that Landa also wrote an account of Maya life, which contains what he believed to be the Maya alphabet. This document would eventually become a key to the decipherment, although it lay forgotten in a Spanish library until the nineteenth century."
+    },
+    {
+     "id": "0E3473EE-1D9F-5FB8-8A0F-0447DEF9824A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The problem with Landa's alphabet was that it didn't seem to work. For decades, scholars tried to read texts with it and failed. The reason, we now know, is that the Maya script is not an alphabet. It is what we call a logosyllabic system. Some signs, called logograms, represent whole words, while others represent syllables, usually a consonant followed by a vowel. When Landa asked his informant to write the Spanish letters, the scribe wrote the Maya syllable that sounded most like the name of each letter."
+    },
+    {
+     "id": "682D09C7-396C-5D7C-970F-1DC3202F75DD",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The breakthrough came from an unexpected direction. In 1952, a young Soviet scholar, Yuri Knorozov, published an article arguing that Landa's signs should be read as syllables. Knorozov never visited a Maya site until very late in his life; he worked from published drawings in Leningrad. His ideas were rejected for many years, especially by the British scholar Eric Thompson, who was the leading authority in the field and believed the glyphs were mainly symbolic rather than phonetic."
+    },
+    {
+     "id": "DA05654F-55B1-52C4-82B6-EA2C86FE4234",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The second great step was taken by Tatiana Proskouriakoff, a Russian-born American who had trained as an architect. In 1960, she studied the dates on monuments at the site of Piedras Negras and noticed that they fell into groups, each covering a period no longer than a human lifetime. She concluded that the inscriptions recorded the births, accessions and deaths of real rulers. Until then, most scholars had believed the texts dealt only with the calendar, astronomy and religion. Suddenly, the Maya had a political history, with named kings and queens, wars and alliances."
+    },
+    {
+     "id": "69B9C949-7E27-50E5-A2CF-0D8056B30783",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "From the 1970s onwards, progress was rapid. At a famous conference held at Palenque in 1973, a small group of researchers worked out the sequence of the city's rulers in a single afternoon, including its most famous king, Pakal. Today, specialists can read the great majority of known Maya inscriptions, although some signs are still uncertain."
+    },
+    {
+     "id": "DA758DF3-884B-599E-8165-A1E7630BA3D2",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Before we finish, I want to mention numbers. The Maya counted in base twenty rather than base ten, and they wrote numbers using just three symbols: a dot for one, a bar for five, and a shell to represent zero. That makes them one of the very few ancient peoples to have developed the concept of zero independently. And finally, it's worth remembering that the Maya did not disappear. Millions of people speak Maya languages today, and some are now learning to read and write the script of their ancestors. Next week, we'll look at the Maya calendar in more detail."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam19-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Maya codices: made from __________, coated with lime plaster and folded",
+     "explanation": "The books were made from bark.",
+     "evidenceQuote": "were made from bark",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bark"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Dresden Codex: tables showing movements of the planet __________",
+     "explanation": "It tracks Venus.",
+     "evidenceQuote": "calculations of the movements of the planet Venus",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Venus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Diego de Landa ordered the __________ of many Maya books at Maní in 1562",
+     "explanation": "He had them burned.",
+     "evidenceQuote": "ordered the burning of a large number of Maya books at the town of Maní",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "burning"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Landa recorded what he thought was the Maya __________",
+     "explanation": "He recorded an \"alphabet\".",
+     "evidenceQuote": "contains what he believed to be the Maya alphabet",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "alphabet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Some signs (logograms) stand for whole words; others stand for __________",
+     "explanation": "Other signs represent syllables.",
+     "evidenceQuote": "while others represent syllables",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "syllables"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Knorozov worked from published __________ rather than visiting sites",
+     "explanation": "He used published drawings.",
+     "evidenceQuote": "he worked from published drawings in Leningrad",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "drawings"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Thompson believed glyphs were mainly __________, not phonetic",
+     "explanation": "He thought they were symbolic.",
+     "evidenceQuote": "believed the glyphs were mainly symbolic rather than phonetic",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "symbolic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Proskouriakoff showed that inscriptions recorded the lives of real __________",
+     "explanation": "They recorded rulers' lives.",
+     "evidenceQuote": "the births, accessions and deaths of real rulers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rulers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In 1973, at __________, researchers worked out a list of a city's kings",
+     "explanation": "The conference was at Palenque.",
+     "evidenceQuote": "At a famous conference held at Palenque in 1973",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Palenque"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Maya numbers: a __________ was used to represent zero",
+     "explanation": "A shell meant zero.",
+     "evidenceQuote": "a shell to represent zero",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shell"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "glyph",
+    "logogram",
+    "syllable",
+    "codex",
+    "inscription"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam19-rp1",
+   "passageNumber": 1,
+   "title": "Clay, reeds and the first scribes",
+   "discipline": "Archaeology & History of Writing",
+   "paragraphs": [
+    "Writing is so central to modern life that it is easy to forget how recent an invention it is. Human beings have been speaking for tens of thousands of years, perhaps far longer, but the earliest true writing appeared only about five thousand years ago. Most scholars agree that it emerged first in southern Mesopotamia, the flat, fertile land between the Tigris and Euphrates rivers in what is now Iraq. Writing was also invented independently in at least two other places, China and Mesoamerica, and possibly in Egypt, but the Mesopotamian system, later known as cuneiform, has the longest documented history of development.",
+    "The setting for this development was the city of Uruk, which by the late fourth millennium BC was one of the largest settlements in the world, with a population that may have reached several tens of thousands. Its great temples controlled vast quantities of grain, livestock, textiles and labour, and the officials who managed these resources faced a problem that memory alone could not solve: how to keep track of who had delivered what, who was owed rations, and how many animals were in each flock. The oldest tablets from Uruk, dating from around 3200 BC, are overwhelmingly concerned with exactly these matters. Rather than poetry, prayers or history, they record quantities of barley, beer and sheep.",
+    "Where did the idea of writing come from? One influential theory was developed by the archaeologist Denise Schmandt-Besserat, who studied thousands of small clay objects, known as tokens, found at sites across the Near East. These tokens, in shapes such as cones, spheres and discs, had been used for several thousand years before writing appeared, and she argued that each shape stood for a particular quantity of a particular commodity. To guarantee a transaction, tokens were sometimes sealed inside hollow clay balls, called envelopes, and their shapes were pressed into the outer surface so that the contents could be checked without breaking the ball. Eventually, Schmandt-Besserat suggested, people realised that the marks on the outside made the tokens themselves unnecessary. Not all scholars accept every part of her account, but most agree that writing grew out of earlier systems of counting and recording.",
+    "The earliest signs were mostly pictures, drawn into wet clay with a pointed tool: an ear of grain for barley, a jar for beer, the head of an ox for cattle. Signs for numbers were impressed separately. Over the following centuries, however, scribes began to make their marks by pressing the end of a cut reed into the clay rather than drawing with it. This was quicker, but it produced wedge-shaped strokes, and gradually the pictures became abstract groups of wedges that bore little resemblance to the objects they had once represented. It is from these marks that the script takes its modern name: cuneiform comes from cuneus, the Latin word for a wedge.",
+    "An even more important change was the use of signs for their sound rather than their meaning. Sumerian, the language of the early scribes, had many short words, and a sign for one word could be borrowed to write another word, or part of a word, that sounded the same. This principle, often compared to a rebus puzzle, allowed scribes to record personal names, grammatical endings and, eventually, any sentence of the spoken language. By around the middle of the third millennium BC, cuneiform was being used for letters, laws, hymns and literary texts as well as accounts. Among the most famous works later written in cuneiform is the Epic of Gilgamesh, the story of a king of Uruk who searches for immortality.",
+    "Learning to write was difficult and took years. Trainee scribes, who were mostly boys, studied at schools known in Sumerian as the edubba, or 'tablet house'. They copied long lists of signs and words again and again, often on small round tablets that could be smoothed and reused. Thousands of these practice tablets have survived, some with the teacher's model on one side and a pupil's imperfect copy on the other. Because clay is easily damaged when wet but extremely durable once dry, and even more so when baked, enormous numbers of cuneiform documents have come down to us, sometimes preserved by the very fires that destroyed the buildings in which they were stored.",
+    "Cuneiform proved remarkably adaptable. Over roughly three thousand years, it was used to write a number of quite different languages, including Akkadian, the language of the Babylonians and Assyrians, as well as Hittite in what is now Turkey and Elamite in what is now Iran. For long periods, Akkadian written in cuneiform served as an international language of diplomacy; in the fourteenth century BC, even the rulers of Egypt corresponded with other kings in this script, as shown by the clay letters discovered at Amarna. Gradually, though, cuneiform was replaced by alphabetic scripts written with ink on softer materials, and the last known tablets, which record astronomical observations, date from the first century AD.",
+    "The script was then entirely forgotten for nearly two thousand years. Its decipherment in the nineteenth century relied heavily on long inscriptions in more than one language, such as the one carved for the Persian king Darius I on a cliff at Behistun, which the British officer Henry Rawlinson copied at considerable personal risk. In 1857, to test whether the decipherment was reliable, the Royal Asiatic Society in London sent copies of a newly discovered inscription to four scholars, including Rawlinson, and asked them to translate it independently. When their sealed translations were opened and compared, they agreed closely enough to convince most sceptics that the long-dead language could genuinely be read again."
+   ],
+   "questions": [
+    {
+     "id": "exam19-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The earliest Uruk tablets consist mainly of religious and literary texts.",
+     "explanation": "They are economic records.",
+     "evidenceQuote": "Rather than poetry, prayers or history, they record quantities of barley, beer and sheep.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam19-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Clay tokens were in use long before writing appeared.",
+     "explanation": "Tokens were used for thousands of years beforehand.",
+     "evidenceQuote": "had been used for several thousand years before writing appeared",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam19-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Schmandt-Besserat's account of the origin of writing is now universally accepted.",
+     "explanation": "Some scholars disagree with parts of it.",
+     "evidenceQuote": "Not all scholars accept every part of her account",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam19-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Pressing a reed into clay was faster than drawing signs.",
+     "explanation": "The reed method was quicker.",
+     "evidenceQuote": "This was quicker",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam19-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The Epic of Gilgamesh describes events that really took place in Uruk.",
+     "explanation": "Its historical accuracy is not discussed.",
+     "evidenceQuote": "the story of a king of Uruk who searches for immortality",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam19-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Girls were forbidden to attend the scribal schools.",
+     "explanation": "The passage says \"mostly boys\" but not whether girls were forbidden.",
+     "evidenceQuote": "Trainee scribes, who were mostly boys",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam19-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Egyptian rulers of the fourteenth century BC used cuneiform in their diplomatic letters.",
+     "explanation": "The Amarna letters show this.",
+     "evidenceQuote": "even the rulers of Egypt corresponded with other kings in this script",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam19-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Uruk's temples managed grain, livestock, __________ and labour",
+     "explanation": "Textiles were among the resources.",
+     "evidenceQuote": "controlled vast quantities of grain, livestock, textiles and labour",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "textiles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Tokens could be sealed inside hollow clay __________ known as envelopes",
+     "explanation": "They were sealed inside clay balls.",
+     "evidenceQuote": "sealed inside hollow clay balls, called envelopes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "balls"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "The name cuneiform comes from the Latin for a __________",
+     "explanation": "Cuneus means wedge.",
+     "evidenceQuote": "the Latin word for a wedge",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wedge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Using signs for their sound is often compared to a __________ puzzle",
+     "explanation": "It resembles a rebus.",
+     "evidenceQuote": "often compared to a rebus puzzle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rebus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Scribal schools were called the edubba, meaning 'tablet __________'",
+     "explanation": "Edubba means tablet house.",
+     "evidenceQuote": "the edubba, or 'tablet house'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "house"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The final cuneiform tablets contain __________ observations",
+     "explanation": "The last tablets are astronomical.",
+     "evidenceQuote": "which record astronomical observations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "astronomical"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 941,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam19-rp2",
+   "passageNumber": 2,
+   "title": "The silent script of the Indus",
+   "discipline": "Archaeology & Linguistics",
+   "paragraphs": [
+    "In the 1920s, excavations at Harappa and Mohenjo-daro, in what is now Pakistan, revealed a civilisation that had been completely forgotten. At its height, between about 2600 and 1900 BC, the Indus or Harappan civilisation covered an area larger than ancient Egypt and Mesopotamia combined. Its cities were laid out on carefully planned grids, with covered drains, large public buildings and houses built from bricks of standardised proportions. Its traders used a uniform system of weights across hundreds of kilometres. Yet, unlike the Egyptians and Mesopotamians, the people of the Indus left no texts that anyone can read, and the language they spoke remains unknown.",
+    "This is not because they did not write. Archaeologists have found around four thousand objects bearing signs of the Indus script. The great majority are small square seals carved from soft stone, usually showing an animal, most often a one-horned creature that excavators named the 'unicorn', beneath a short line of signs. Other inscriptions appear on pottery, copper tablets and small clay tags that were probably attached to bundles of goods. What is striking is how brief all of these texts are. The average inscription contains only about five signs, and even the longest have fewer than thirty.",
+    "The brevity of the inscriptions is only the first of several difficulties facing anyone who hopes to read them. A second is the absence of a bilingual text, an inscription that gives the same message in a known language as well as in the Indus script. Such texts were crucial in the decipherment of Egyptian hieroglyphs and cuneiform. A third problem is that we do not know which language family the Indus language belonged to, or whether any modern language is descended from it. Successful decipherments have usually depended on at least one of these clues; for the Indus script, none is clearly available.",
+    "Nevertheless, careful analysis has established some facts. In 1977, the Indian scholar Iravatham Mahadevan published a concordance, a complete catalogue of the known inscriptions and the signs in them, which identified around four hundred distinct signs. This number is important. Alphabets typically have between twenty and forty letters, and purely syllabic scripts rarely more than about a hundred signs, whereas systems in which signs stand for whole words, such as Chinese, need thousands. A total of around four hundred suggests that, like cuneiform, the Indus script combined signs for words with signs for sounds. Studies of the spacing of signs, which are often squeezed together at the left-hand end of an inscription, also show that the script was normally written from right to left.",
+    "Beyond such conclusions, there is little agreement. Dozens of decipherments have been announced, most of which identify the language with one of the major language families of modern South Asia. The Finnish scholar Asko Parpola, among others, has argued for many years that the language was an early form of Dravidian, the family that today includes Tamil and is spoken mainly in southern India. Others have proposed early forms of Sanskrit or entirely different languages. Because the history of the Indian subcontinent is a sensitive political subject, these debates have sometimes become heated, and claims are not always judged on purely scholarly grounds.",
+    "In 2004, the debate took a dramatic turn when three researchers, Steve Farmer, Richard Sproat and Michael Witzel, published a paper arguing that the Indus signs were not writing at all. They pointed out that the inscriptions were extraordinarily short, that many signs appeared only once, and that no example had been found of the kind of long text that literate societies usually produce. In their view, the signs were a system of symbols, perhaps related to religion, family groups or political identity, which could convey meaning without representing a spoken language.",
+    "This provocative claim prompted a response from a team led by the computer scientist Rajesh Rao, who in 2009 published a statistical study in the journal Science. The team measured how predictable each sign was given the sign that came before it, and compared the result with known languages and with non-linguistic systems such as DNA sequences and computer code. The Indus script, they reported, fell within the range of linguistic systems, suggesting that it did encode language. Their critics replied that the measure could not reliably distinguish writing from other kinds of structured symbol systems, and the question remains open.",
+    "What might settle the matter? Most specialists believe that progress depends on new discoveries. In the 1990s, excavators at Dholavira in western India found a row of ten large signs that had apparently once been fixed above a gateway, perhaps as a kind of public notice, which shows that longer and more public inscriptions may yet be found. Indus seals have also been discovered in Mesopotamia, and Mesopotamian texts refer to a distant land called Meluhha, which many scholars identify with the Indus region. If a bilingual document from this long-distance trade were ever unearthed, it could do for the Indus script what the great trilingual inscriptions did for the scripts of Egypt and Mesopotamia."
+   ],
+   "questions": [
+    {
+     "id": "exam19-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the many but very short inscriptions.",
+     "evidenceQuote": "What is striking is how brief all of these texts are.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Plentiful evidence but very short texts",
+      "Plentiful evidence but very short texts"
+     ]
+    },
+    {
+     "id": "exam19-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C lists three obstacles.",
+     "evidenceQuote": "The brevity of the inscriptions is only the first of several difficulties",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Missing keys that other decipherers relied on",
+      "Missing keys that other decipherers relied on"
+     ]
+    },
+    {
+     "id": "exam19-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D uses sign numbers and spacing as evidence.",
+     "evidenceQuote": "Nevertheless, careful analysis has established some facts.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. What the number and arrangement of signs reveal",
+      "What the number and arrangement of signs reveal"
+     ]
+    },
+    {
+     "id": "exam19-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E covers rival language theories.",
+     "evidenceQuote": "Beyond such conclusions, there is little agreement.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Rival theories and the influence of politics",
+      "Rival theories and the influence of politics"
+     ]
+    },
+    {
+     "id": "exam19-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F questions whether the signs are writing.",
+     "evidenceQuote": "arguing that the Indus signs were not writing at all",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Doubting a fundamental assumption",
+      "Doubting a fundamental assumption"
+     ]
+    },
+    {
+     "id": "exam19-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes a mathematical reply.",
+     "evidenceQuote": "published a statistical study in the journal Science",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. A numerical response to a sceptical argument",
+      "A numerical response to a sceptical argument"
+     ]
+    },
+    {
+     "id": "exam19-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H discusses future finds.",
+     "evidenceQuote": "Most specialists believe that progress depends on new discoveries.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Where a solution might come from",
+      "Where a solution might come from"
+     ]
+    },
+    {
+     "id": "exam19-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer suggest about the total of around four hundred Indus signs?",
+     "explanation": "The number points to a mixed word-and-sound system.",
+     "evidenceQuote": "suggests that, like cuneiform, the Indus script combined signs for words with signs for sounds",
+     "skillTag": "detail",
+     "options": [
+      "A. It proves that the script was an alphabet.",
+      "B. It is too large for any known writing system.",
+      "C. It points to a script mixing word signs and sound signs.",
+      "D. It shows the script was borrowed from Mesopotamia."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It points to a script mixing word signs and sound signs.",
+      "It points to a script mixing word signs and sound signs."
+     ]
+    },
+    {
+     "id": "exam19-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "How did researchers establish the direction in which the script was written?",
+     "explanation": "Crowded signs at the left end show the writing direction.",
+     "evidenceQuote": "which are often squeezed together at the left-hand end of an inscription",
+     "skillTag": "detail",
+     "options": [
+      "A. by observing that signs were crowded at one end",
+      "B. by comparing the script with cuneiform",
+      "C. by studying the animals on the seals",
+      "D. by reading the longest known inscription"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. by observing that signs were crowded at one end",
+      "by observing that signs were crowded at one end"
+     ]
+    },
+    {
+     "id": "exam19-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What was the critics' objection to the 2009 statistical study?",
+     "explanation": "The method could not separate writing from other symbol systems.",
+     "evidenceQuote": "the measure could not reliably distinguish writing from other kinds of structured symbol systems",
+     "skillTag": "detail",
+     "options": [
+      "A. Its sample of inscriptions was too small.",
+      "B. It ignored DNA and computer code.",
+      "C. It was not published in a scientific journal.",
+      "D. Its method could not separate writing from other symbol systems."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Its method could not separate writing from other symbol systems.",
+      "Its method could not separate writing from other symbol systems."
+     ]
+    },
+    {
+     "id": "exam19-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The animal most frequently shown on Indus seals was named the __________ by excavators.",
+     "explanation": "Excavators called it the unicorn.",
+     "evidenceQuote": "most often a one-horned creature that excavators named the 'unicorn'",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "unicorn"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam19-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Mahadevan's catalogue of all known Indus inscriptions is described as a __________.",
+     "explanation": "It was a concordance.",
+     "evidenceQuote": "published a concordance, a complete catalogue of the known inscriptions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "concordance"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam19-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The ten large signs at Dholavira were probably once placed above a __________.",
+     "explanation": "They were above a gateway.",
+     "evidenceQuote": "had apparently once been fixed above a gateway",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gateway"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 842,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. What the number and arrangement of signs reveal",
+      "ii. The reasons the Indus cities were abandoned",
+      "iii. Doubting a fundamental assumption",
+      "iv. Plentiful evidence but very short texts",
+      "v. How the seals were carved and used",
+      "vi. A numerical response to a sceptical argument",
+      "vii. Missing keys that other decipherers relied on",
+      "viii. Where a solution might come from",
+      "ix. Rival theories and the influence of politics"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam19-rp3",
+   "passageNumber": 3,
+   "title": "Did writing change the way we think?",
+   "discipline": "History of Ideas & Cognitive Science",
+   "paragraphs": [
+    "Few inventions have been credited with as much influence as writing. It has been said to have made possible history, science, law, philosophy and the modern state. A bolder claim, however, is that writing did not merely give people a new tool but changed the way human beings think. This idea has been argued, attacked and refined for more than half a century, and it remains one of the most interesting questions in the study of the human past.",
+    "The debate has a surprisingly ancient starting point. In Plato's dialogue Phaedrus, written in the fourth century BC, Socrates tells a story in which the Egyptian god Theuth presents his invention of writing to King Thamus, claiming that it will improve memory and wisdom. The king disagrees. Writing, he says, will make people forgetful, because they will rely on marks outside themselves instead of their own memories, and it will give them the appearance of wisdom without the reality. It is an irony often noted that we know of this criticism of writing only because Plato wrote it down.",
+    "The modern version of the debate began with scholars of oral poetry. In the 1920s and 1930s, the American classicist Milman Parry argued that the Homeric epics, the Iliad and the Odyssey, showed clear signs of having been composed without writing. Their repeated phrases, such as 'swift-footed Achilles', were not decoration but tools that allowed a singer to compose verse rapidly during performance. To test this theory, Parry and his assistant Albert Lord recorded living oral poets in Yugoslavia, some of whom could perform poems of many thousands of lines. Their work suggested that oral cultures possessed sophisticated techniques of memory and composition that literate cultures had largely lost.",
+    "Building on such research, several scholars in the 1960s and later proposed that literacy had transformed human thought. The anthropologist Jack Goody argued that writing made possible new intellectual tools, particularly lists and tables, which allowed information to be detached from its context, compared and reorganised. Walter Ong, in his influential book Orality and Literacy, published in 1982, went further, claiming that writing 'restructures consciousness'. In Ong's account, oral thinking tends to be practical, concrete and closely tied to human situations, whereas literate thinking is more abstract, analytical and detached.",
+    "These claims were soon challenged. In a study published in 1981, the psychologists Sylvia Scribner and Michael Cole investigated the Vai people of Liberia, some of whom had learned to read and write an indigenous script outside any school. This allowed the researchers to separate the effects of literacy from those of formal education, which earlier studies had confused. They found that literacy alone did not produce general improvements in abstract reasoning. Instead, it was associated with specific skills linked to the particular ways the script was used, such as writing letters. Schooling, not writing as such, seemed to explain many of the differences that had been attributed to literacy.",
+    "More recently, neuroscience has added a different kind of evidence. The French researcher Stanislas Dehaene has shown that reading relies on a small region of the brain's visual system, which in literate people becomes specialised for recognising letters and words. Because writing is far too recent for the brain to have evolved specifically for it, Dehaene proposes that reading 'recycles' circuits that originally evolved for other purposes, such as recognising objects and faces. Learning to read, in other words, physically changes the brain, although this tells us more about perception than about the higher forms of thought that Goody and Ong had in mind.",
+    "In my view, the strongest versions of the argument that writing transformed the mind should be rejected. They tended to portray people in oral cultures as less capable of abstract or logical thought, a conclusion that is not supported by the evidence and that sat uncomfortably close to older prejudices about so-called primitive societies. The oral poets recorded by Parry and Lord, after all, were performing feats of memory and composition that few literate people could equal. Yet it would be equally mistaken to conclude that writing changed nothing. Writing allows ideas to be stored, compared and criticised across generations, and over time this has transformed what societies can know, even if it has not transformed the individual mind.",
+    "The debate has acquired fresh relevance in the digital age. Many people now worry that search engines and smartphones are weakening memory and attention, in much the same way that Thamus feared writing would. It is tempting to dismiss such fears, as Thamus has been dismissed, as the familiar anxiety that accompanies every new technology. In my view, that would be too easy. The history of writing suggests that new technologies of information rarely make us more or less intelligent, but they do change which skills a society values and which it allows to decline. The real question is not whether our tools change us, but whether we choose those changes wisely."
+   ],
+   "questions": [
+    {
+     "id": "exam19-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "distinguished the effects of reading and writing from the effects of attending school",
+     "explanation": "Scribner and Cole separated literacy from schooling.",
+     "evidenceQuote": "This allowed the researchers to separate the effects of literacy from those of formal education",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Sylvia Scribner and Michael Cole",
+      "Sylvia Scribner and Michael Cole"
+     ]
+    },
+    {
+     "id": "exam19-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "argued that recurring phrases helped performers compose poetry without writing",
+     "explanation": "Parry explained Homeric formulas.",
+     "evidenceQuote": "were not decoration but tools that allowed a singer to compose verse rapidly during performance",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Milman Parry",
+      "Milman Parry"
+     ]
+    },
+    {
+     "id": "exam19-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "suggested that brain circuits evolved for other tasks are adapted for reading",
+     "explanation": "Dehaene proposed neuronal recycling.",
+     "evidenceQuote": "reading 'recycles' circuits that originally evolved for other purposes",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Stanislas Dehaene",
+      "Stanislas Dehaene"
+     ]
+    },
+    {
+     "id": "exam19-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "stressed the value of organising information in lists and tables",
+     "explanation": "Goody emphasised lists and tables.",
+     "evidenceQuote": "particularly lists and tables, which allowed information to be detached from its context",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Jack Goody",
+      "Jack Goody"
+     ]
+    },
+    {
+     "id": "exam19-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "claimed that literacy alters the nature of human consciousness",
+     "explanation": "Ong made this claim.",
+     "evidenceQuote": "claiming that writing 'restructures consciousness'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Walter Ong",
+      "Walter Ong"
+     ]
+    },
+    {
+     "id": "exam19-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "People in oral cultures are less able to think logically than literate people.",
+     "explanation": "The writer rejects this conclusion.",
+     "evidenceQuote": "a conclusion that is not supported by the evidence",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam19-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The achievements of the Yugoslav oral poets are evidence against the strongest claims about literacy.",
+     "explanation": "The writer uses them to counter the strong claims.",
+     "evidenceQuote": "were performing feats of memory and composition that few literate people could equal",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam19-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Writing has had no significant effect on the knowledge available to societies.",
+     "explanation": "The writer says it transformed what societies know.",
+     "evidenceQuote": "over time this has transformed what societies can know",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam19-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Dehaene's research has been rejected by most other neuroscientists.",
+     "explanation": "Other neuroscientists' reactions are not mentioned.",
+     "evidenceQuote": "Learning to read, in other words, physically changes the brain",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam19-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Modern concerns about digital technology should simply be dismissed as a familiar reaction to novelty.",
+     "explanation": "The writer says dismissing them would be too easy.",
+     "evidenceQuote": "In my view, that would be too easy.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam19-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In Plato's story, King Thamus warns that writing will make people __________.",
+     "explanation": "He says it will make people forgetful.",
+     "evidenceQuote": "Writing, he says, will make people forgetful",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "forgetful"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "According to Ong, oral thinking tends to be practical and __________.",
+     "explanation": "Oral thought is concrete.",
+     "evidenceQuote": "oral thinking tends to be practical, concrete and closely tied to human situations",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "concrete"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Scribner and Cole found that literacy was linked to __________ skills rather than general reasoning.",
+     "explanation": "Literacy brought specific skills.",
+     "evidenceQuote": "it was associated with specific skills linked to the particular ways the script was used",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "specific"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam19-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Today, some people fear that smartphones are weakening memory and __________.",
+     "explanation": "They fear for memory and attention.",
+     "evidenceQuote": "search engines and smartphones are weakening memory and attention",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "attention"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 822,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person or people, A–F.",
+     "options": [
+      "A. Plato",
+      "B. Milman Parry",
+      "C. Jack Goody",
+      "D. Walter Ong",
+      "E. Sylvia Scribner and Michael Cole",
+      "F. Stanislas Dehaene"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam19-w1",
+  "title": "How papyrus was made in ancient Egypt",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how writing sheets were made from the papyrus plant in ancient Egypt. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Papyrus stalks are cut from the banks of the Nile",
+   "The green outer skin is peeled away",
+   "The white inner pith is sliced into thin strips",
+   "The strips are soaked in water",
+   "Strips are laid side by side, slightly overlapping",
+   "A second layer is laid on top at right angles",
+   "The layers are pressed or beaten to bond them together",
+   "The sheet is dried under a weight",
+   "The surface is polished smooth with a stone",
+   "Sheets are glued end to end to form a roll"
+  ],
+  "keyOverviewPoints": [
+   "The process has ten stages, from harvesting the plant to forming a finished roll.",
+   "It involves preparing strips of pith, arranging them in two crossing layers, then pressing, drying and finishing the sheets."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam19-w2",
+  "title": "Is handwriting still necessary?",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education & Technology",
+  "promptText": "Now that most writing is done on computers and phones, some people argue that schools should stop spending time teaching children to write by hand. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam19-spk",
+  "theme": "History and writing",
+  "part1Questions": [
+   "Do you prefer writing by hand or typing?",
+   "What kinds of things do you write in a typical week?",
+   "Did you enjoy history lessons at school?",
+   "Have you ever visited a museum with ancient objects?",
+   "Do you keep any old letters, cards or notes?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a historical place or ancient site that you have visited or would like to visit.",
+   "bulletPoints": [
+    "where it is",
+    "what you know about its history",
+    "what you did or would like to do there",
+    "and explain why this place interests you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think some ancient civilisations left more written records than others?",
+   "How important is it for young people to learn about ancient history?",
+   "Should valuable ancient objects be returned to the countries where they were found?",
+   "How might future historians study our society, given that so much is stored digitally?",
+   "In what ways has the invention of writing changed human societies?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Dates for the ancient world are approximate and follow standard reference works; museum and workshop details in the Listening are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

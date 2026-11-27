@@ -1,0 +1,2096 @@
+{
+ "id": "practice09",
+ "examNumber": 9,
+ "pool": "practice",
+ "title": "Practice Test 9: Food Science, Cooking & Nutrition",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Food Science, Cooking & Nutrition",
+ "listeningParts": [
+  {
+   "id": "practice09-lp1",
+   "partNumber": 1,
+   "title": "Booking a cookery class",
+   "contextDescription": "A man phones a cookery school to ask about evening classes.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "D43AFDF6-4D1B-5CBE-984E-012CEAA6D2BA",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Hello, Saffron Kitchen Cookery School. Daniel speaking."
+    },
+    {
+     "id": "7FD7A818-4F78-57ED-B3B2-AB7627AE44B4",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hello. I saw your advertisement in the local newspaper, and I'm interested in your evening classes. Could you tell me a bit about them?"
+    },
+    {
+     "id": "E4B9E134-2E73-5E7A-A1E6-404A539027C8",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. We run three evening courses at the moment. Each one lasts six weeks, with one class a week. The first is Cooking Basics, which is for complete beginners. You learn things like how to use a knife safely, how to cook rice and pasta properly, and how to make simple sauces and soups."
+    },
+    {
+     "id": "40DBF979-61FF-5E26-A6EF-34BDBE2E2276",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That sounds about right for me, actually. I can make a few things, but I've never really learned properly."
+    },
+    {
+     "id": "1D7D3A2D-9B44-57A0-A367-92B456F4DC17",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Well, the second course might also suit you. It's called World Kitchen, and each week we cook food from a different country, for example Thai curries, Mexican dishes and Moroccan tagines. It's for people who already have some basic skills. And the third is Baking and Bread, which covers everything from simple loaves to pastry and cakes."
+    },
+    {
+     "id": "7B2D191D-B52E-5489-9F76-14D22724BF2B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I think I'll start with the basics. What day is that course?"
+    },
+    {
+     "id": "E6090C46-1104-51DD-B98A-A0DB0E4C1AA9",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Cooking Basics runs on Thursday evenings, from half past six until nine. The next course starts on the fifth of February."
+    },
+    {
+     "id": "2797345A-D577-525C-82EB-C11EE55207EF",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's fine. And how much does it cost?"
+    },
+    {
+     "id": "B010D682-3CDE-551A-A30D-5D22E6A08FBC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The full course is one hundred and eighty pounds. That includes all the ingredients, and of course you get to eat what you cook, or take it home with you. You'll need to bring a container for that."
+    },
+    {
+     "id": "02651FFA-0577-538A-BA05-1E68358AB75A",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Do I need to bring anything else? Knives or anything like that?"
+    },
+    {
+     "id": "DED85A62-8EA2-5797-9427-828FE440FF2A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "No, we provide all the equipment, and we give you an apron to use during the class. Just wear comfortable shoes, because you'll be standing for most of the evening, and please tie your hair back if it's long."
+    },
+    {
+     "id": "F1588485-60B1-5001-B3BC-47D722BCA44C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay. How many people are there in each class?"
+    },
+    {
+     "id": "956AEAD1-2F61-59FC-884C-0928FA16F840",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We keep the groups small, with a maximum of ten students, so the teacher can give everyone individual attention. Students usually work in pairs at a cooking station."
+    },
+    {
+     "id": "488983FC-03C3-562B-832A-011B36EED2FA",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's good. Oh, I should mention, I'm vegetarian. Is that a problem?"
+    },
+    {
+     "id": "38FBAB68-D901-5FC4-B779-F524B85C1775",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Not at all. Just let us know when you book, and the teacher will make sure there's a vegetarian version of every recipe. We can also cater for people with allergies, as long as we're told in advance."
+    },
+    {
+     "id": "F122F8D0-9AED-5D04-88D8-C84400E1F3FC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Great. Who teaches the course?"
+    },
+    {
+     "id": "E2B19DB3-97E2-54FC-BFB9-B1F0319581B3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Cooking Basics is taught by Rosa Martinelli. She worked as a chef in restaurants for fifteen years before she started teaching, and our students really like her. She's very patient."
+    },
+    {
+     "id": "AB5E847A-AC12-5A0F-AE4B-6AF40D9296EF",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "And where exactly are you? I'm not sure I know the building."
+    },
+    {
+     "id": "F47E9DDD-C035-59A3-81EF-3078A7574C55",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We're at 48 Mill Street, on the first floor above the bookshop. The entrance is round the side of the building, next to the car park. There's free parking in the evenings."
+    },
+    {
+     "id": "6249B026-4E08-5923-9078-983C0FA9CDFF",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Perfect. How do I book?"
+    },
+    {
+     "id": "FEBCFA2E-E211-562E-9A7C-91F8890C3B43",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You can book online, or I can take your details now. To reserve a place, we ask for a deposit of fifty pounds, and the rest is paid on the first evening. If you cancel more than two weeks before the start, we refund the deposit in full."
+    },
+    {
+     "id": "AA940E68-4AC1-57E9-B6D0-FB75CF5B3C29",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'll book now, please. My name is Arjun Desai. That's D-E-S-A-I."
+    },
+    {
+     "id": "A08D077E-36D8-5BF3-96EC-89AD3FD06CAF",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Desai. And a phone number?"
+    },
+    {
+     "id": "3F1B5620-C950-5070-8920-0C09675EE753",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's 07700 914 362."
+    },
+    {
+     "id": "8A5A9BA8-66D1-5EBE-9EB9-0DA08D142247",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. I'll email you a confirmation with the recipes for the first week. Some students like to read them in advance, but it isn't necessary. Is there anything else I can help you with?"
+    },
+    {
+     "id": "8CDE652D-1BEA-50FC-95D3-E5C843B2E0D8",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Actually, yes. If I enjoy the course, is there a discount if I book another one afterwards?"
+    },
+    {
+     "id": "3BF498F0-3AA7-561B-8CDE-DC35511B591B",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, returning students get ten per cent off any future course, and we also sell gift vouchers, if you ever want to give a class to a friend or family member as a present."
+    },
+    {
+     "id": "7E9CBFB4-C06F-5024-AF6C-87E2A6413105",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's a nice idea. Thank you very much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice09-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Saw advertisement in the local __________",
+     "explanation": "He saw it in the newspaper.",
+     "evidenceQuote": "I saw your advertisement in the local newspaper",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "newspaper"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Course chosen: Cooking __________",
+     "explanation": "He chooses Cooking Basics.",
+     "evidenceQuote": "I think I'll start with the basics.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Basics"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Day: __________ evenings",
+     "explanation": "The course is on Thursdays.",
+     "evidenceQuote": "Cooking Basics runs on Thursday evenings",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Total cost: £__________",
+     "explanation": "It costs £180.",
+     "evidenceQuote": "The full course is one hundred and eighty pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£50 is only the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "180"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Bring: a __________ to take food home",
+     "explanation": "He needs a container.",
+     "evidenceQuote": "You'll need to bring a container for that.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "container"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Maximum class size: __________ students",
+     "explanation": "The maximum is ten.",
+     "evidenceQuote": "with a maximum of ten students",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Dietary requirement: __________",
+     "explanation": "He is vegetarian.",
+     "evidenceQuote": "I'm vegetarian.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "vegetarian"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Address: 48 __________ Street",
+     "explanation": "It is on Mill Street.",
+     "evidenceQuote": "We're at 48 Mill Street",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Mill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Desai.",
+     "evidenceQuote": "My name is Arjun Desai. That's D-E-S-A-I.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Desai"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Discount for returning students: __________ %",
+     "explanation": "They get ten per cent off.",
+     "evidenceQuote": "returning students get ten per cent off",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "course",
+    "ingredients",
+    "apron",
+    "deposit",
+    "vegetarian"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice09-lp2",
+   "partNumber": 2,
+   "title": "A tour of a chocolate factory",
+   "contextDescription": "A guide introduces visitors to a tour of a small chocolate factory.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "375BB0F0-44C2-521F-A36C-5225A2ABD9E8",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Welcome, everyone, to Hartwell Chocolate. My name's Ben, and I'll be your guide this morning. The tour lasts about an hour and a quarter, and at the end there's a tasting session, so I hope you've left some room."
+    },
+    {
+     "id": "9B082D56-0CC4-5962-9BF3-7A3CEA187332",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Let me begin with a bit of background. Hartwell was founded in 1921 by a husband and wife, George and Edith Hartwell, who started making chocolates by hand in the kitchen behind their sweet shop. Today, we're still a family business, run by their great-granddaughter, and although we're much bigger than we were, we still make everything on this site. We employ around sixty people."
+    },
+    {
+     "id": "BAD4447A-EE35-532C-A6F5-3CE284793A47",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Chocolate begins as cocoa beans, which grow in pods on the cacao tree. The trees only grow in a narrow band around the equator, and most of the world's cocoa comes from West Africa, particularly Ivory Coast and Ghana. We buy our beans from small cooperatives in Ghana, Ecuador and Madagascar, and we visit them every year. We pay above the standard market price, because we believe farmers should earn a fair living."
+    },
+    {
+     "id": "A9144331-C377-5871-84AA-BBB552D62C4C",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Before the beans arrive here, they've already been fermented and dried by the farmers. Fermentation is a really important step, because it develops the flavours that we associate with chocolate. Unfermented beans taste bitter and rather unpleasant."
+    },
+    {
+     "id": "DCF9999B-E78A-5550-BA2E-E3F7D100DEE1",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Our first stop will be the roasting room. Roasting is where much of the flavour develops, and our head roaster, Priya, adjusts the temperature and time for each type of bean. Beans from Madagascar, for example, have a fruity flavour, so we roast them quite gently to keep it. After roasting, the beans are cracked open and the thin shells are removed, leaving small pieces called nibs. We don't throw the shells away, by the way. They're sold to local gardeners, who use them on their flower beds."
+    },
+    {
+     "id": "4F5798B4-9C65-5A7B-ABC0-B3C396975170",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Next, the nibs are ground into a thick paste called cocoa liquor, although it doesn't contain any alcohol. For dark chocolate, we mix this with sugar; for milk chocolate, we also add milk powder. The mixture is then ground for many hours in a machine called a conche, which makes it smooth. Ours run for up to three days. If you've ever eaten chocolate that felt slightly sandy in your mouth, it probably hadn't been conched for long enough."
+    },
+    {
+     "id": "9CB15E91-77C5-5505-B604-22DD082AB105",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The final stage is tempering, where the chocolate is carefully heated and cooled to particular temperatures. This is what gives good chocolate its shine and the satisfying snap when you break it. Badly tempered chocolate looks dull and can have white streaks on the surface. After that, the chocolate is poured into moulds and cooled."
+    },
+    {
+     "id": "A0563119-F5C6-57F4-AE35-8BD184436BC5",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Now, a few rules before we go in. For hygiene reasons, everyone needs to wear one of these hairnets and a white coat, which you'll find on the rack by the door. Please don't touch any of the machines, as some parts are very hot. Photography is allowed everywhere except the packing room, because some of our new designs haven't been released yet."
+    },
+    {
+     "id": "22172C5B-CF59-50FB-913E-24DF91A373EB",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "At the end of the tour, we'll go to the tasting room, where you'll try five different chocolates. I'll show you how to taste chocolate properly, a bit like tasting wine. Afterwards, the factory shop will be open, and as a thank-you for joining the tour, everyone will receive a voucher for fifteen per cent off anything in the shop today."
+    },
+    {
+     "id": "750EDD97-2A49-50EC-B5E2-BEC5A3EB5AD1",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Oh, and one more thing. If you enjoy today, we also run chocolate-making workshops on Saturday mornings, where you can make and decorate your own bars to take home. They're very popular with families, so it's best to book a few weeks ahead. Right, if you'd all like to put on your coats and hairnets, we'll start."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice09-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Where did the Hartwells first make chocolates?",
+     "explanation": "They began behind their sweet shop.",
+     "evidenceQuote": "started making chocolates by hand in the kitchen behind their sweet shop",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. in a large factory",
+      "B. in a kitchen behind a shop",
+      "C. in a farm building"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. in a kitchen behind a shop",
+      "in a kitchen behind a shop"
+     ]
+    },
+    {
+     "id": "practice09-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why does the company pay more than the market price for beans?",
+     "explanation": "They want farmers to earn a fair living.",
+     "evidenceQuote": "we believe farmers should earn a fair living",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to support the farmers",
+      "B. to get beans more quickly",
+      "C. because the beans are rare"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to support the farmers",
+      "to support the farmers"
+     ]
+    },
+    {
+     "id": "practice09-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What happens to the cocoa shells?",
+     "explanation": "They are sold to gardeners.",
+     "evidenceQuote": "They're sold to local gardeners",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are burned for energy.",
+      "B. They are thrown away.",
+      "C. They are sold to gardeners."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They are sold to gardeners.",
+      "They are sold to gardeners."
+     ]
+    },
+    {
+     "id": "practice09-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What can cause chocolate to feel sandy?",
+     "explanation": "It was not conched long enough.",
+     "evidenceQuote": "it probably hadn't been conched for long enough",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. too much sugar",
+      "B. too little time in the conche",
+      "C. poor quality milk"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. too little time in the conche",
+      "too little time in the conche"
+     ]
+    },
+    {
+     "id": "practice09-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why is photography not allowed in the packing room?",
+     "explanation": "New designs are secret.",
+     "evidenceQuote": "some of our new designs haven't been released yet",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. New designs are kept secret there.",
+      "B. The machines are dangerous.",
+      "C. Workers do not want photos taken."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. New designs are kept secret there.",
+      "New designs are kept secret there."
+     ]
+    },
+    {
+     "id": "practice09-L16",
+     "number": 16,
+     "format": "Flowchart Completion",
+     "prompt": "Beans are fermented and __________ by farmers",
+     "explanation": "Farmers ferment and dry them.",
+     "evidenceQuote": "they've already been fermented and dried by the farmers",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "dried"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L17",
+     "number": 17,
+     "format": "Flowchart Completion",
+     "prompt": "Beans are roasted, then shells removed, leaving __________",
+     "explanation": "Nibs are left.",
+     "evidenceQuote": "leaving small pieces called nibs",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "nibs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L18",
+     "number": 18,
+     "format": "Flowchart Completion",
+     "prompt": "Nibs ground into cocoa __________",
+     "explanation": "It becomes cocoa liquor.",
+     "evidenceQuote": "ground into a thick paste called cocoa liquor",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "liquor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L19",
+     "number": 19,
+     "format": "Flowchart Completion",
+     "prompt": "Mixture ground in a conche to make it __________",
+     "explanation": "The conche makes it smooth.",
+     "evidenceQuote": "which makes it smooth",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "smooth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L20",
+     "number": 20,
+     "format": "Flowchart Completion",
+     "prompt": "Tempering gives chocolate its shine and __________",
+     "explanation": "Tempering gives a snap.",
+     "evidenceQuote": "the satisfying snap when you break it",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "snap"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "cocoa bean",
+    "roasting",
+    "grinding",
+    "tempering",
+    "tasting"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the flow-chart below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice09-lp3",
+   "partNumber": 3,
+   "title": "A survey of student eating habits",
+   "contextDescription": "Two nutrition students, Lucy and Omar, discuss the results of a survey of first-year students' eating habits with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "27E941CA-92C1-5442-998F-CB4F5732D4D0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, Lucy and Omar, how did the survey go?"
+    },
+    {
+     "id": "F97279B0-7C10-5AF8-8CDF-80A3A0D604CA",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "Really well, thanks. We had two hundred and twelve responses from first-year students living in university accommodation, which was more than we expected."
+    },
+    {
+     "id": "274CDD41-0BD9-54B1-8CC7-23774F65851D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a good number. How did you collect them?"
+    },
+    {
+     "id": "E550AD22-F985-5D27-8336-4E9D5028AC5D",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "We put an online questionnaire on the student union's website, and we also handed out paper copies in the dining hall. Most people did it online, but the paper copies helped us reach students who don't usually check the website."
+    },
+    {
+     "id": "45B542BE-7A9C-5288-AD3E-21F55F0EE905",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. So what were the main findings?"
+    },
+    {
+     "id": "F51FDA1B-DAFB-530A-94F3-37BE97C68DBC",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "Well, the first thing that surprised us was breakfast. Over forty per cent of students said they regularly skip it. The most common reason wasn't that they weren't hungry, but that they didn't have time, because they got up too late."
+    },
+    {
+     "id": "B71F18D7-40CD-551B-B068-3F61AF3BBC4C",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "Which isn't very surprising if you know how late students go to bed!"
+    },
+    {
+     "id": "C8C4F7D8-99CB-55AE-982F-D5E651559215",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Indeed. What about fruit and vegetables?"
+    },
+    {
+     "id": "86C7C1B7-1181-5736-B842-8BE79DDD6861",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "That was quite worrying. The recommendation is at least five portions a day, but only about one in five students said they managed that. The average was just under three portions."
+    },
+    {
+     "id": "054E8F71-365E-59EA-A154-1112B5509ED3",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Did you ask why?"
+    },
+    {
+     "id": "857F581E-90BF-5933-9C61-51DB6EA6C668",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "Yes. The main reason they gave was cost. Many students think fresh fruit and vegetables are expensive, although actually things like frozen vegetables, carrots and bananas are quite cheap. The second reason was that they go off quickly, so students end up throwing them away."
+    },
+    {
+     "id": "E1289B84-E6C8-5589-AADF-9A6A4C5A304F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So it's partly a question of knowledge. What about cooking?"
+    },
+    {
+     "id": "FEFA1829-2847-59B0-9D35-54EFB289A323",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "We asked students how confident they felt about cooking a simple meal from basic ingredients. About a third said they weren't confident at all. Those students were much more likely to rely on ready meals and takeaways."
+    },
+    {
+     "id": "C4B1CE4F-D74C-5858-9313-ACCE9D9EED54",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "And interestingly, there was a big difference depending on whether they'd cooked at home before coming to university. Students who'd regularly helped with cooking at home were far more confident."
+    },
+    {
+     "id": "DBD85C89-D349-554E-B197-3EE5635791BB",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That makes sense. Any findings about takeaways in particular?"
+    },
+    {
+     "id": "F711CEDD-5BE8-5222-90EB-082DFE9EC5F9",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "The average was two takeaways a week, but some students were having five or more. Pizza was the most popular, followed by burgers and then Chinese food."
+    },
+    {
+     "id": "1C2C94E3-D07F-5D1B-994B-53FEB59C22A3",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Did you find any differences between male and female students?"
+    },
+    {
+     "id": "10AAB77A-550B-5A67-A107-13252F4F1AAB",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "A few. Female students ate slightly more fruit and vegetables on average, while male students were more likely to have takeaways. But the differences were quite small, and to be honest, the gap between students who could cook and those who couldn't was much bigger than the gap between men and women."
+    },
+    {
+     "id": "E9161EF8-C6AF-5331-829A-33C9E2E6C9C2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an interesting point to make in your discussion. And did you look at drinks?"
+    },
+    {
+     "id": "98D08EDE-38AB-5080-B2EC-F322C98EFF14",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "We did. Energy drinks were more popular than we expected, especially during exam periods. About a quarter of students said they drank them at least once a week, usually to help them stay awake while studying."
+    },
+    {
+     "id": "C6BC3840-6521-5E10-9B8F-63D1A37D7103",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's worth highlighting. Now, what recommendations are you going to make?"
+    },
+    {
+     "id": "568D6500-4AF1-566C-94C6-E90B74832B23",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "Our main idea is to run free cooking workshops in the halls of residence, focusing on cheap, quick meals. We thought about producing a recipe booklet too, but we think students are more likely to learn by actually doing it."
+    },
+    {
+     "id": "FE681857-E66F-5B1F-9836-F758385CAC96",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "We'd also like the university shop to offer a cheap breakfast bag, with things like fruit and cereal bars, that students can pick up on their way to lectures."
+    },
+    {
+     "id": "10AF7F24-2F99-5879-A189-D842E6CC7C27",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Those sound practical. One thing you should mention in your report is the limitations of your survey. For example, the results are based on what students said about themselves, and people often report healthier habits than they really have."
+    },
+    {
+     "id": "DB935629-5F45-528E-8221-A26731BEE3E4",
+     "speaker": "Lucy",
+     "accent": "en-GB",
+     "text": "That's true. We also only surveyed students in university accommodation, so we can't say anything about students who live at home or in private flats."
+    },
+    {
+     "id": "1600844C-4A57-51FC-9961-DCC72DD8D66E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. Good. Can you send me a draft by the end of next week?"
+    },
+    {
+     "id": "DD5C98A0-9ABC-5FA6-898A-8699FAEAAB3A",
+     "speaker": "Omar",
+     "accent": "en-US",
+     "text": "Yes, we'll aim for Friday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice09-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students also use paper questionnaires?",
+     "explanation": "Paper reached students who do not check the website.",
+     "evidenceQuote": "the paper copies helped us reach students who don't usually check the website",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The website was not working.",
+      "B. Paper copies were cheaper.",
+      "C. to include students who rarely use the website"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to include students who rarely use the website",
+      "to include students who rarely use the website"
+     ]
+    },
+    {
+     "id": "practice09-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What was the most common reason for skipping breakfast?",
+     "explanation": "They got up too late.",
+     "evidenceQuote": "they didn't have time, because they got up too late",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a lack of time",
+      "B. not feeling hungry",
+      "C. the cost of food"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a lack of time",
+      "a lack of time"
+     ]
+    },
+    {
+     "id": "practice09-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What was the main reason given for eating few fruit and vegetables?",
+     "explanation": "Students said they were expensive.",
+     "evidenceQuote": "The main reason they gave was cost.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They do not like the taste.",
+      "B. They think they are too expensive.",
+      "C. They cannot find them in shops."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They think they are too expensive.",
+      "They think they are too expensive."
+     ]
+    },
+    {
+     "id": "practice09-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Which students were most confident about cooking?",
+     "explanation": "Those who cooked at home before.",
+     "evidenceQuote": "Students who'd regularly helped with cooking at home were far more confident.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. students who lived with friends",
+      "B. students who ate takeaways",
+      "C. students who had cooked at home before"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. students who had cooked at home before",
+      "students who had cooked at home before"
+     ]
+    },
+    {
+     "id": "practice09-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why did students mainly drink energy drinks?",
+     "explanation": "To stay awake while studying.",
+     "evidenceQuote": "usually to help them stay awake while studying",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to stay awake when studying",
+      "B. to replace breakfast",
+      "C. because they were cheap"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to stay awake when studying",
+      "to stay awake when studying"
+     ]
+    },
+    {
+     "id": "practice09-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Number of responses: __________",
+     "explanation": "There were 212 responses.",
+     "evidenceQuote": "We had two hundred and twelve responses",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "212"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Average portions of fruit and vegetables a day: just under __________",
+     "explanation": "The average was just under three.",
+     "evidenceQuote": "The average was just under three portions.",
+     "skillTag": "numbers",
+     "distractorNote": "Five is the recommendation.",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Most popular takeaway: __________",
+     "explanation": "Pizza was most popular.",
+     "evidenceQuote": "Pizza was the most popular",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pizza"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Recommendation: free cooking __________ in halls",
+     "explanation": "They recommend workshops.",
+     "evidenceQuote": "run free cooking workshops in the halls of residence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "workshops"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Draft report due on __________",
+     "explanation": "The draft is due Friday.",
+     "evidenceQuote": "we'll aim for Friday",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Friday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "respondent",
+    "questionnaire",
+    "portion",
+    "breakfast",
+    "budget"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice09-lp4",
+   "partNumber": 4,
+   "title": "The science of taste",
+   "contextDescription": "A lecture in a food science course on how humans experience taste and flavour.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "BD58277C-E8E9-50F2-8F8C-416FAC3EE88E",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon. Today's lecture is about taste, or more precisely about the difference between taste and flavour, which are often confused. Understanding this difference is essential for anyone working in food science, whether you're developing new products or trying to make healthy food more appealing."
+    },
+    {
+     "id": "A912311F-6B0E-5444-87FF-2B0AF75FF5F9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let's begin with the tongue. The surface of the tongue is covered with small bumps, and within these are taste buds, of which an adult has somewhere between two and eight thousand. Each taste bud contains around fifty to a hundred receptor cells. You may have seen a diagram, often called the tongue map, showing that different parts of the tongue detect different tastes, with sweetness at the tip and bitterness at the back. This idea has been repeated in textbooks for decades, but it's actually wrong. It came from a mistranslation of a German paper published in 1901. In reality, all areas of the tongue can detect all of the basic tastes."
+    },
+    {
+     "id": "C8712E7B-DE95-5CC1-BF3F-FC49EF4EB869",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So what are these basic tastes? Traditionally, there were four: sweet, sour, salty and bitter. Each has a clear biological purpose. Sweetness signals energy-rich foods. Saltiness helps us maintain the right balance of minerals in the body. Sourness can warn us that food is unripe or has gone bad, and bitterness is often a sign of poison, which is why young children, in particular, tend to reject bitter vegetables."
+    },
+    {
+     "id": "976E51AA-E500-577F-917E-C4A1BF1D230A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "A fifth basic taste is now widely accepted, called umami. It was identified in 1908 by a Japanese chemist, Kikunae Ikeda, who was trying to understand the savoury taste of a traditional soup made with seaweed. He discovered that it came from a substance called glutamate, which is also found in foods like tomatoes, cheese and mushrooms. Umami is thought to help us recognise foods that contain protein. Some scientists have proposed further basic tastes, including one for fat, but there's not yet agreement about this."
+    },
+    {
+     "id": "689EF583-152C-5E62-AF10-3A87F3105011",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Now, here's the key point: taste is only a small part of what we experience when we eat. Most of what we call flavour actually comes from smell. When you chew, aroma molecules travel from the back of your mouth up into your nose. This is why food seems to have very little flavour when you have a cold and your nose is blocked. You can try a simple experiment: hold your nose and eat a jelly bean. You'll probably only notice that it's sweet. When you let go of your nose, the fruit flavour suddenly appears."
+    },
+    {
+     "id": "5B473E80-A9FD-568E-A435-845FA19EB26C",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Flavour is also influenced by our other senses. Texture matters a great deal; we expect crisps to be crunchy, and if they're soft, we think they're stale, even if they taste exactly the same. Sound plays a role too. In one famous experiment, people rated crisps as fresher when the crunching sound they heard through headphones was made louder. Even colour affects our perception. When drinks are coloured differently from what people expect, they often find it difficult to identify the flavour correctly."
+    },
+    {
+     "id": "70FB3B86-4CB0-567F-99B3-2BA2810E2D7A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "There are also large differences between individuals. About a quarter of people are what are called supertasters. They have more taste buds than average and experience bitter tastes much more strongly, so they often dislike foods like coffee, dark chocolate and cabbage. Our tastes also change with age. The number of taste buds declines as we get older, which is one reason older people sometimes add more salt to their food."
+    },
+    {
+     "id": "2DC93E09-5617-5B52-BD45-66B672F3B32B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "This research has important practical applications. Food manufacturers are under pressure to reduce the amount of sugar and salt in their products, but consumers often complain that healthier versions taste worse. One approach is to use smell to trick the brain. For example, adding a vanilla aroma can make food seem sweeter without adding sugar. Another approach is to change the shape of salt crystals so that they dissolve more quickly on the tongue, giving a stronger salty taste with less salt. In the next lecture, we'll look at some of these techniques in more detail."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice09-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "The \"tongue map\" came from a __________ of a German paper",
+     "explanation": "It was a mistranslation.",
+     "evidenceQuote": "It came from a mistranslation of a German paper",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mistranslation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Sweetness signals foods rich in __________",
+     "explanation": "Sweet means energy-rich.",
+     "evidenceQuote": "Sweetness signals energy-rich foods.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "energy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Bitterness is often a warning of __________",
+     "explanation": "Bitter can mean poison.",
+     "evidenceQuote": "bitterness is often a sign of poison",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "poison"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Ikeda studied a soup made with __________",
+     "explanation": "The soup contained seaweed.",
+     "evidenceQuote": "a traditional soup made with seaweed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "seaweed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Umami helps us recognise foods containing __________",
+     "explanation": "Umami signals protein.",
+     "evidenceQuote": "foods that contain protein",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "protein"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Most flavour actually comes from __________",
+     "explanation": "Flavour comes mainly from smell.",
+     "evidenceQuote": "Most of what we call flavour actually comes from smell.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "smell"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Crisps seemed fresher when the crunching __________ was louder",
+     "explanation": "A louder sound made them seem fresher.",
+     "evidenceQuote": "when the crunching sound they heard through headphones was made louder",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sound"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Supertasters experience __________ tastes more strongly",
+     "explanation": "They taste bitterness strongly.",
+     "evidenceQuote": "experience bitter tastes much more strongly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bitter"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "A __________ aroma can make food seem sweeter",
+     "explanation": "Vanilla increases sweetness.",
+     "evidenceQuote": "adding a vanilla aroma can make food seem sweeter",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vanilla"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Changing the shape of salt __________ gives a stronger taste",
+     "explanation": "Salt crystals are reshaped.",
+     "evidenceQuote": "change the shape of salt crystals",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "crystals"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "taste bud",
+    "receptor",
+    "umami",
+    "aroma",
+    "perception"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice09-rp1",
+   "passageNumber": 1,
+   "title": "Salt: the mineral that shaped history",
+   "discipline": "Food History",
+   "paragraphs": [
+    "Today, salt is so cheap and so easy to find that most people never think about it. A packet costs very little in any supermarket, and it is added to almost every kind of processed food. Yet for most of human history, salt was a precious and sometimes expensive substance. Wars were fought over it, cities grew rich from it, and governments relied on it to raise money. Its story tells us a great deal about the relationship between food, trade and power.",
+    "Humans need salt to survive. The sodium it contains helps the body control the balance of water in its cells and allows nerves and muscles to work properly. Early hunters obtained enough salt from the meat they ate, but when people began farming around ten thousand years ago and their diet became based on grain, they needed to find other sources. Farm animals also needed salt, and so did one of the most important food technologies of the ancient world: preservation. Before refrigeration, salting was one of the main ways of keeping meat and fish from going bad, because salt draws water out of food and prevents bacteria from growing.",
+    "There are three main ways of obtaining salt. The simplest is to let seawater evaporate in shallow pools in the sun, a method that is still used in many hot countries. Where the climate is too cool or wet, people boiled salty water over fires, which required large amounts of wood. The third method is to dig rock salt from underground deposits left behind by ancient seas. The Wieliczka mine near Kraków in Poland was worked for more than seven hundred years, and its miners carved whole chapels, complete with statues and chandeliers, out of the salt itself.",
+    "Because salt was essential but found only in certain places, it became one of the first goods to be traded over long distances. In West Africa, camel caravans carried slabs of salt across the Sahara from mines in the desert to markets in cities such as Timbuktu, where it was exchanged for gold. In Europe, a road called the Via Salaria, or Salt Road, was one of the oldest routes into Rome. Many towns in Europe owe their wealth, and sometimes their names, to salt; the German city of Salzburg, for example, means 'salt castle'.",
+    "Governments soon realised that taxing salt was an effective way of raising money, since everyone needed it and it was difficult to avoid paying. In ancient China, the state controlled the production and sale of salt for more than two thousand years, and salt taxes paid for armies and for building projects such as parts of the Great Wall. In France, a hated salt tax called the gabelle forced people to buy a fixed amount of salt each year at a price set by the government. It was one of the causes of anger against the monarchy that led to the French Revolution in 1789.",
+    "Perhaps the most famous protest against a salt tax took place in India in 1930. Under British rule, Indians were forbidden to collect or sell salt themselves and had to pay a tax on salt sold by the government. Mahatma Gandhi led a march of around three hundred and eighty kilometres to the coast at Dandi, where he picked up a handful of natural salt in defiance of the law. Thousands of people followed his example, and more than sixty thousand were arrested. The Salt March became an important moment in the movement for Indian independence.",
+    "In the nineteenth and twentieth centuries, new methods of mining and transport made salt cheap and plentiful, and the invention of refrigeration meant it was no longer needed so much for preservation. Today, the largest single use of salt is not in food at all, but in the chemical industry, where it is used to produce chlorine and other substances. In cold countries, large quantities are also spread on roads in winter to melt ice.",
+    "Ironically, the problem today is not too little salt but too much. Health experts recommend that adults eat no more than five grams of salt a day, about one teaspoon, but in many countries the average is nearly twice that. Most of it comes not from the salt people add at the table but from processed foods such as bread, cheese, ready meals and snacks. Eating too much salt is linked to high blood pressure, which increases the risk of heart attacks and strokes. Several countries, including the United Kingdom, have persuaded food manufacturers to reduce gradually the amount of salt in their products, and in some cases these reductions have been large enough to lower average blood pressure across the population."
+   ],
+   "questions": [
+    {
+     "id": "practice09-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Early hunters needed to add salt to their food.",
+     "explanation": "They got enough from meat.",
+     "evidenceQuote": "Early hunters obtained enough salt from the meat they ate",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice09-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Salt prevents bacteria from growing in food.",
+     "explanation": "Salt stops bacteria growing.",
+     "evidenceQuote": "salt draws water out of food and prevents bacteria from growing",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice09-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Boiling salty water needed a lot of fuel.",
+     "explanation": "It needed lots of wood.",
+     "evidenceQuote": "which required large amounts of wood",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice09-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The Wieliczka mine is still producing salt today.",
+     "explanation": "Its current status is not stated.",
+     "evidenceQuote": "was worked for more than seven hundred years",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice09-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "In Timbuktu, salt was exchanged for gold.",
+     "explanation": "Salt was traded for gold.",
+     "evidenceQuote": "where it was exchanged for gold",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice09-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The gabelle allowed French people to buy as much salt as they wanted.",
+     "explanation": "They had to buy a fixed amount.",
+     "evidenceQuote": "forced people to buy a fixed amount of salt each year",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice09-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most salt today is used in food.",
+     "explanation": "The chemical industry uses most.",
+     "evidenceQuote": "the largest single use of salt is not in food at all",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice09-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Sodium helps the body control the balance of __________ in its cells.",
+     "explanation": "It controls water balance.",
+     "evidenceQuote": "control the balance of water in its cells",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "water"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "In hot countries, seawater is left to __________ in shallow pools.",
+     "explanation": "Seawater evaporates.",
+     "evidenceQuote": "let seawater evaporate in shallow pools",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "evaporate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Salt was carried across the Sahara by __________ caravans.",
+     "explanation": "Camel caravans carried it.",
+     "evidenceQuote": "camel caravans carried slabs of salt",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "camel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "The name Salzburg means \"salt __________\".",
+     "explanation": "It means salt castle.",
+     "evidenceQuote": "means 'salt castle'",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "castle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Gandhi walked to the coast at __________.",
+     "explanation": "He walked to Dandi.",
+     "evidenceQuote": "to the coast at Dandi",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Dandi"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Too much salt is linked to high blood __________.",
+     "explanation": "It raises blood pressure.",
+     "evidenceQuote": "linked to high blood pressure",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 784,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice09-rp2",
+   "passageNumber": 2,
+   "title": "Friendly bacteria: the science of fermentation",
+   "discipline": "Food Microbiology",
+   "paragraphs": [
+    "Bread, cheese, yoghurt, soy sauce and chocolate may not seem to have much in common, but they all depend on the same process: fermentation. In fermentation, microorganisms such as bacteria, yeasts and moulds break down sugars and other substances in food, producing acids, gases or alcohol. Humans have used this process for thousands of years, long before anyone knew that microorganisms existed, and today fermented foods make up around a third of everything people eat.",
+    "The oldest evidence of fermentation comes from China, where traces of a drink made from rice, honey and fruit have been found on pottery around nine thousand years old. In ancient Egypt, workers who built the pyramids were paid partly in bread and beer. Fermentation spread to almost every culture, and each developed its own traditions, from Korean kimchi, made from cabbage and chilli, to sauerkraut in Germany and injera, a spongy flatbread eaten in Ethiopia. In many of these cultures, fermentation was carried out in the home, and recipes and techniques were passed down from one generation to the next, often by women. Families sometimes kept the same culture of microorganisms alive for decades, feeding it regularly with fresh flour or milk, and some bakeries today still use sourdough starters that are said to be more than a century old.",
+    "Before the invention of refrigerators, the main reason for fermenting food was to preserve it. The acids and alcohol produced during fermentation make it difficult for harmful bacteria to grow. Milk, for example, goes bad within a few days, but when it is turned into cheese, it can be kept for months or even years. Similarly, cabbage that would rot quickly can last through the winter as sauerkraut. For communities that depended on harvests at particular times of year, this could make the difference between eating well and going hungry.",
+    "Fermentation also changes the taste and texture of food, often in ways people find very appealing. When yeast ferments the sugars in bread dough, it produces carbon dioxide gas, which forms bubbles and makes the bread rise. In yoghurt, bacteria turn the sugar in milk into lactic acid, which gives yoghurt its sour taste and thick texture. Many of the complex flavours of foods like cheese, soy sauce and coffee are created during fermentation.",
+    "Scientists did not understand what caused fermentation until the nineteenth century. In the 1850s, the French chemist Louis Pasteur showed that it was carried out by living microorganisms. He was asked to investigate why some batches of wine and beer were going sour, and discovered that this happened when the wrong microorganisms were present. His work led to the process of pasteurisation, in which liquids are heated to kill unwanted microbes, and laid the foundation for modern microbiology.",
+    "In recent years, fermented foods have become increasingly fashionable, partly because of claims about their health benefits. Some fermented foods contain live bacteria, known as probiotics, which may help to support the community of microorganisms that lives in our digestive system. Research suggests that these gut bacteria play an important role not only in digestion but also in the immune system. A study at Stanford University in 2021 found that people who ate fermented foods every day for ten weeks had a greater variety of gut bacteria and lower levels of inflammation.",
+    "However, scientists warn that many claims are exaggerated. Not all fermented foods contain live bacteria; bread, for example, is baked at high temperatures, which kills the yeast, and many shop-bought products are pasteurised after fermentation. In addition, the effects of probiotics vary between individuals, and much of the research has been carried out on small groups of people over short periods. Experts generally agree that fermented foods can be part of a healthy diet, but that they are not a cure for illness.",
+    "Fermentation is also being used in new ways. Companies are using microorganisms to produce proteins found in milk and eggs without using animals, a technique called precision fermentation. The microbes are given the genetic instructions to make a particular protein and grown in large steel tanks, rather like those used for brewing beer. Supporters say this could reduce the environmental impact of farming, though the products are currently expensive. An ancient technique, it seems, may help to shape the future of food."
+   ],
+   "questions": [
+    {
+     "id": "practice09-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B covers ancient history and cultures.",
+     "evidenceQuote": "The oldest evidence of fermentation comes from China",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. An ancient and global practice",
+      "An ancient and global practice"
+     ]
+    },
+    {
+     "id": "practice09-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C is about preservation.",
+     "evidenceQuote": "the main reason for fermenting food was to preserve it",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Making food last longer",
+      "Making food last longer"
+     ]
+    },
+    {
+     "id": "practice09-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes taste and texture.",
+     "evidenceQuote": "Fermentation also changes the taste and texture of food",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Improving flavour and texture",
+      "Improving flavour and texture"
+     ]
+    },
+    {
+     "id": "practice09-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains the discovery of the cause.",
+     "evidenceQuote": "In the 1850s, the French chemist Louis Pasteur showed that it was carried out by living microorganisms.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Discovering the cause",
+      "Discovering the cause"
+     ]
+    },
+    {
+     "id": "practice09-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F covers possible health benefits.",
+     "evidenceQuote": "partly because of claims about their health benefits",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Possible benefits for the body",
+      "Possible benefits for the body"
+     ]
+    },
+    {
+     "id": "practice09-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G gives a warning.",
+     "evidenceQuote": "scientists warn that many claims are exaggerated",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A note of caution",
+      "A note of caution"
+     ]
+    },
+    {
+     "id": "practice09-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes new uses.",
+     "evidenceQuote": "Fermentation is also being used in new ways.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. A modern application",
+      "A modern application"
+     ]
+    },
+    {
+     "id": "practice09-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How were some pyramid builders paid?",
+     "explanation": "They were paid partly in bread and beer.",
+     "evidenceQuote": "workers who built the pyramids were paid partly in bread and beer",
+     "skillTag": "detail",
+     "options": [
+      "A. in rice and honey",
+      "B. in gold",
+      "C. partly in bread and beer",
+      "D. in cheese"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. partly in bread and beer",
+      "partly in bread and beer"
+     ]
+    },
+    {
+     "id": "practice09-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What makes bread rise?",
+     "explanation": "Carbon dioxide bubbles make it rise.",
+     "evidenceQuote": "it produces carbon dioxide gas, which forms bubbles and makes the bread rise",
+     "skillTag": "detail",
+     "options": [
+      "A. lactic acid",
+      "B. carbon dioxide from yeast",
+      "C. heat from the oven",
+      "D. added sugar"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. carbon dioxide from yeast",
+      "carbon dioxide from yeast"
+     ]
+    },
+    {
+     "id": "practice09-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why does bread not contain live yeast?",
+     "explanation": "Baking kills the yeast.",
+     "evidenceQuote": "bread, for example, is baked at high temperatures, which kills the yeast",
+     "skillTag": "detail",
+     "options": [
+      "A. It is pasteurised.",
+      "B. The yeast is removed.",
+      "C. It contains too much salt.",
+      "D. Baking kills the yeast."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Baking kills the yeast.",
+      "Baking kills the yeast."
+     ]
+    },
+    {
+     "id": "practice09-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "In yoghurt, bacteria turn milk sugar into __________.",
+     "explanation": "They produce lactic acid.",
+     "evidenceQuote": "bacteria turn the sugar in milk into lactic acid",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lactic acid"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice09-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Pasteur investigated why some wine and beer was turning __________.",
+     "explanation": "They were going sour.",
+     "evidenceQuote": "why some batches of wine and beer were going sour",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sour"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice09-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "In precision fermentation, microbes are grown in large __________.",
+     "explanation": "They grow in steel tanks.",
+     "evidenceQuote": "grown in large steel tanks",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "steel tanks"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 715,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Discovering the cause",
+      "ii. Making food last longer",
+      "iii. A note of caution",
+      "iv. The cost of fermented food",
+      "v. An ancient and global practice",
+      "vi. A modern application",
+      "vii. Possible benefits for the body",
+      "viii. Improving flavour and texture",
+      "ix. Dangers of home fermentation"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice09-rp3",
+   "passageNumber": 3,
+   "title": "The problem of food waste",
+   "discipline": "Food Policy",
+   "paragraphs": [
+    "Every year, around a third of all the food produced in the world is lost or wasted. According to estimates by the United Nations, this amounts to more than one billion tonnes of food, enough to feed hundreds of millions of people. At the same time, around seven hundred million people regularly do not have enough to eat. Food waste is therefore not only an economic problem but also a moral one, and in my view it deserves far more public attention than it currently receives.",
+    "Food waste also has serious environmental consequences. Growing, transporting and storing food uses large amounts of land, water and energy, all of which are wasted when the food is thrown away. When food rots in landfill sites, it produces methane, a gas that warms the atmosphere much more powerfully than carbon dioxide. It has been calculated that if food waste were a country, it would be the third largest producer of greenhouse gases in the world, after China and the United States.",
+    "Where does the waste happen? The answer depends on the country. In poorer countries, most food is lost before it reaches consumers, because of poor storage, a lack of refrigeration and difficult transport. Grain may be eaten by insects or rats, and fruit and vegetables may rot before they can reach markets. In richer countries, by contrast, the largest share of waste occurs in shops, restaurants and, above all, people's homes. In the United Kingdom, for example, the charity WRAP has estimated that households are responsible for around sixty per cent of all food waste.",
+    "Researchers have identified several reasons why households waste so much food. People often buy more than they need, encouraged by special offers, and then fail to use it before it goes bad. Confusion about date labels is another important factor. In many countries, food carries both 'best before' dates, which refer to quality, and 'use by' dates, which refer to safety. Many people do not understand the difference and throw away food that is perfectly safe to eat simply because the best before date has passed.",
+    "Supermarkets have also been criticised for contributing to waste. Fruit and vegetables that are the wrong shape or size are often rejected before they even reach the shops, because retailers believe customers will not buy them. Some studies have found that up to a third of a farmer's crop can be left in the field or used as animal feed for this reason. In response, several supermarkets now sell 'wonky' vegetables at lower prices, although critics say these schemes are too small to make a real difference.",
+    "Some governments have introduced laws to tackle the problem. In 2016, France became the first country to ban large supermarkets from throwing away or destroying unsold food that was still edible. Instead, they must donate it to charities or use it for animal feed or compost. Italy introduced a similar law the same year, but chose to use tax incentives to encourage donations rather than fines. South Korea has taken a different approach, requiring households to pay for their food waste by weight, using special bags or electronic bins that read residents' identity cards. Since the scheme was introduced, the amount of food waste has fallen considerably, and much of what remains is turned into animal feed or fertiliser.",
+    "Technology is also playing a role. Mobile phone apps allow restaurants and shops to sell surplus food cheaply at the end of the day, or enable neighbours to share food they do not need. Researchers are developing packaging that changes colour as food begins to go off, which could give consumers more accurate information than printed dates. Some companies are even turning food waste into new products, such as using unsold bread to brew beer. Others turn fruit peel and coffee grounds into fuel, cosmetics or fertiliser.",
+    "However, I would argue that technology and legislation can only go so far. Ultimately, reducing food waste requires changes in people's everyday habits: planning meals, buying only what is needed, storing food properly and using leftovers creatively. Previous generations, who had experienced shortages and rationing during wartime, often regarded wasting food as unacceptable. Rediscovering some of that attitude may be the most effective solution of all."
+   ],
+   "questions": [
+    {
+     "id": "practice09-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "estimated that households produce most food waste in one country",
+     "explanation": "WRAP made this estimate.",
+     "evidenceQuote": "the charity WRAP has estimated that households are responsible for around sixty per cent",
+     "skillTag": "matching_features",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. WRAP",
+      "WRAP"
+     ]
+    },
+    {
+     "id": "practice09-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "was the first to ban supermarkets from destroying edible food",
+     "explanation": "France was first.",
+     "evidenceQuote": "France became the first country to ban large supermarkets",
+     "skillTag": "matching_features",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. France",
+      "France"
+     ]
+    },
+    {
+     "id": "practice09-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "used tax incentives rather than fines",
+     "explanation": "Italy used tax incentives.",
+     "evidenceQuote": "chose to use tax incentives to encourage donations rather than fines",
+     "skillTag": "matching_features",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Italy",
+      "Italy"
+     ]
+    },
+    {
+     "id": "practice09-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "charges households according to the weight of their food waste",
+     "explanation": "South Korea charges by weight.",
+     "evidenceQuote": "requiring households to pay for their food waste by weight",
+     "skillTag": "matching_features",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. South Korea",
+      "South Korea"
+     ]
+    },
+    {
+     "id": "practice09-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "estimated that a third of food is lost or wasted worldwide",
+     "explanation": "The UN made the global estimate.",
+     "evidenceQuote": "According to estimates by the United Nations",
+     "skillTag": "matching_features",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the United Nations",
+      "the United Nations"
+     ]
+    },
+    {
+     "id": "practice09-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Food waste receives enough public attention.",
+     "explanation": "The writer wants more attention.",
+     "evidenceQuote": "it deserves far more public attention than it currently receives",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice09-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Many people misunderstand the meaning of date labels.",
+     "explanation": "Many people are confused.",
+     "evidenceQuote": "Many people do not understand the difference",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice09-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Schemes selling wonky vegetables are popular with farmers.",
+     "explanation": "Farmers' views are not given.",
+     "evidenceQuote": "several supermarkets now sell 'wonky' vegetables at lower prices",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice09-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Changing everyday habits may be the best solution.",
+     "explanation": "The writer believes habits matter most.",
+     "evidenceQuote": "Rediscovering some of that attitude may be the most effective solution of all.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice09-R36",
+     "number": 36,
+     "format": "Summary Completion",
+     "prompt": "Rotting food in landfill produces __________, a powerful greenhouse gas.",
+     "explanation": "Rotting food produces methane.",
+     "evidenceQuote": "it produces methane",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "methane"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In poorer countries, food is often lost because of poor storage and a lack of __________.",
+     "explanation": "There is a lack of refrigeration.",
+     "evidenceQuote": "a lack of refrigeration",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "refrigeration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Shoppers often buy too much because of special __________.",
+     "explanation": "Special offers encourage overbuying.",
+     "evidenceQuote": "encouraged by special offers",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "offers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "New packaging may change __________ when food starts to go off.",
+     "explanation": "It changes colour.",
+     "evidenceQuote": "packaging that changes colour as food begins to go off",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "colour"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice09-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "One company uses unsold bread to make __________.",
+     "explanation": "Bread is used to brew beer.",
+     "evidenceQuote": "using unsold bread to brew beer",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "beer"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 708,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of countries and organisations below. Match each statement with the correct option, A–E.",
+     "options": [
+      "A. WRAP",
+      "B. France",
+      "C. Italy",
+      "D. South Korea",
+      "E. the United Nations"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 35,
+     "instruction": "Questions 32–35. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 36,
+     "to": 40,
+     "instruction": "Questions 36–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice09-w1",
+  "title": "Making bread",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows the stages in the commercial production of bread. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Wheat is harvested and cleaned",
+   "Grain is milled into flour",
+   "Flour is mixed with water, yeast and salt",
+   "Dough is kneaded by machine",
+   "Dough rests and rises for two hours",
+   "Dough is shaped and placed in tins",
+   "Loaves are baked at 230°C for 30 minutes",
+   "Bread is cooled, sliced and packaged"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, from harvesting wheat to packaging the bread.",
+   "It begins with agricultural and milling stages, followed by mixing, rising and baking."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice09-w2",
+  "title": "Fast food and health",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Food & Health",
+  "promptText": "Some people think that governments should tax fast food and sugary drinks to encourage people to eat more healthily. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice09-spk",
+  "theme": "Food and cooking",
+  "part1Questions": [
+   "What is your favourite food?",
+   "Do you enjoy cooking?",
+   "Who usually cooks in your family?",
+   "Do you often eat in restaurants?",
+   "Is there any food you dislike?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a meal that you remember well.",
+   "bulletPoints": [
+    "where you had it",
+    "who you were with",
+    "what you ate",
+    "and explain why you remember this meal"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How have eating habits changed in your country?",
+   "Why do many young people prefer fast food?",
+   "Should children learn to cook at school?",
+   "Is traditional food becoming less popular?",
+   "What can be done to reduce food waste?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Nutrition figures are simplified for practice and are not dietary advice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

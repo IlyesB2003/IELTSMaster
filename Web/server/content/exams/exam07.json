@@ -1,0 +1,2194 @@
+{
+ "id": "exam07",
+ "examNumber": 7,
+ "pool": "mock",
+ "title": "Mock Exam 7: Wildlife, Forests & Conservation",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Wildlife, Forests & Conservation",
+ "listeningParts": [
+  {
+   "id": "exam07-lp1",
+   "partNumber": 1,
+   "title": "Volunteering on a wildlife survey",
+   "contextDescription": "A man phones a conservation charity to sign up for a weekend bird survey.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "6D158720-EE41-56E4-BE39-F0D5A4B8CE41",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Hello, Westmoor Wildlife Trust, Karen speaking."
+    },
+    {
+     "id": "225B329F-AE4B-5CA3-840C-9C279C3591C3",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hi there. I read in the local paper that you're looking for volunteers for a bird survey, and I'd like to find out more."
+    },
+    {
+     "id": "5559BA8E-DC8F-505B-84BA-B424876ECAC3",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Oh, wonderful. Yes, we're doing our annual count of breeding birds on the Westmoor wetlands. We use the information to see how populations are changing from year to year. Have you done any bird surveys before?"
+    },
+    {
+     "id": "CC2E9012-CC1B-5B01-8549-7C58F3B6AC31",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Not formally. I've been watching birds as a hobby for about five years, so I can recognise most of the common species, but I've never taken part in a proper survey."
+    },
+    {
+     "id": "478E6463-27B3-5D76-A281-19388D2DE999",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "That's absolutely fine. Most of our volunteers start that way. Each new volunteer is paired with an experienced surveyor for the first day, so you'll learn the method as you go."
+    },
+    {
+     "id": "C98519A3-6414-5E25-9ECE-7FDC0823160E",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That sounds great. When does the survey take place?"
+    },
+    {
+     "id": "25B1912C-7080-55D3-ACA1-4B873DB2D431",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "We do two visits: one in April and one in June. The April visit is on the weekend of the twelfth and thirteenth. You'd only need to come on one of the days, though, not both."
+    },
+    {
+     "id": "440A46F1-70BF-5C6E-8DEC-C6C43927B71B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I could do the Sunday. Saturdays are difficult for me."
+    },
+    {
+     "id": "28917EF9-FD1C-5CF0-A1B0-FFD9F554CA6F",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Sunday the thirteenth, then. I should warn you, it's an early start. Birds are most active just after sunrise, so we meet at five forty-five in the morning."
+    },
+    {
+     "id": "FF2EA371-A416-5CF4-A0A0-5CF52039CB83",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Wow, that is early. Where do we meet?"
+    },
+    {
+     "id": "6D378311-642A-5D8B-A421-1C38B05DBC62",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "At the car park next to the visitor centre. Don't go to the main entrance on the road, because the gates aren't opened until nine. There's a separate track to the car park from Mill Lane. Look for the sign with a heron on it."
+    },
+    {
+     "id": "4A2E4B22-D54B-5BDE-A8D5-F56CFB6B0087",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Mill Lane, sign with a heron. Got it. How long does the survey last?"
+    },
+    {
+     "id": "BC34BBA5-87A8-5CE4-986E-D42FF148DEA9",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Usually about four hours. Each pair walks a fixed route, which we call a transect, and records every bird they see or hear within fifty metres of the path. You'll be back by about ten, and we provide breakfast at the visitor centre afterwards."
+    },
+    {
+     "id": "B3C16C30-6EE7-53A5-B226-6B125B0DC6D7",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Breakfast sounds good after that. What do I need to bring?"
+    },
+    {
+     "id": "A64FF9B4-0A60-5685-9FE1-88F77340ECBE",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Binoculars are the most important thing. If you don't have any, we can lend you a pair, but let me know in advance because we only have six. Bring waterproofs, even if the forecast is good, because the wetlands can be very wet underfoot, and wellington boots are better than walking boots."
+    },
+    {
+     "id": "360E5A68-C48D-57D9-80B0-2C4FCBBBFA10",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I have binoculars, so that's fine. Do I need a notebook?"
+    },
+    {
+     "id": "D0B0746A-559D-5382-B376-5C6757B3763A",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "No, we'll give you a recording sheet and a clipboard. Some volunteers like to use an app on their phone instead, but we ask everyone to fill in the paper sheet as well, in case the phone battery runs out."
+    },
+    {
+     "id": "73A523AF-CBD8-5B7B-9056-B08DCAFF266E",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Makes sense. Is there any cost involved?"
+    },
+    {
+     "id": "1D02039B-177F-5AA2-8F4F-F0FE39920557",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "No, volunteering is completely free. And all our volunteers get free entry to our nature reserves for the year. If you'd like to become a member of the Trust as well, that's twenty-four pounds a year, but there's no obligation at all."
+    },
+    {
+     "id": "58C17662-FFE6-5723-854B-F4184CF4394A",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's very generous. Can I give you my details?"
+    },
+    {
+     "id": "CF0EAF52-C6D7-59C5-A4A1-CCD774CE7CFC",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Yes please. What's your name?"
+    },
+    {
+     "id": "739E389E-B4EC-5116-B093-B3C66CF4F54A",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Marcus Delaney. That's D-E-L-A-N-E-Y."
+    },
+    {
+     "id": "DA0610AE-113B-55E8-B3DB-273FA222E706",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "And a phone number?"
+    },
+    {
+     "id": "1079BFCD-8A57-5B54-AF4A-553342220E2E",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "07812 559 304."
+    },
+    {
+     "id": "3D5A68F7-D350-5A7F-ACD9-1A2E4416ACE5",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Thank you. And is there anything we should know, any health issues for example?"
+    },
+    {
+     "id": "9BDBF81A-79FA-5667-8B0A-FCE877A3BB00",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'm fine, but I'm allergic to bee stings. I carry medication with me."
+    },
+    {
+     "id": "F1C511CA-3AC3-5FA8-AEC2-B33708C8EA3B",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Thanks for telling me. I'll let your survey partner know. And one last thing: there's a short online training video about identifying birds by their songs. It's only twenty minutes, and it's really worth watching before the day, because about half of what you record will be birds you hear rather than see."
+    },
+    {
+     "id": "3E35BAD4-9B89-5AB2-A7B6-5BC6963653F0",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'll definitely watch it tonight. Will I get the results of the survey afterwards?"
+    },
+    {
+     "id": "0465750D-6FFF-5865-8EEB-D924E43FAA21",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Yes, we send all volunteers a short report in the autumn, showing how the numbers compare with previous years. Last year, for example, we recorded our first pair of breeding bitterns for twenty years, which was very exciting."
+    },
+    {
+     "id": "C7577D67-8EC3-57CE-906C-43A8F1A8FCD7",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's great. Thanks, Karen."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam07-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Experience: has watched birds for __________ years",
+     "explanation": "He has watched birds for about five years.",
+     "evidenceQuote": "I've been watching birds as a hobby for about five years",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Survey date: Sunday __________ April",
+     "explanation": "He chooses Sunday the 13th.",
+     "evidenceQuote": "Sunday the thirteenth, then.",
+     "skillTag": "dates",
+     "distractorNote": "Saturday the 12th is the other day.",
+     "options": [],
+     "acceptedAnswers": [
+      "13",
+      "13th",
+      "thirteenth",
+      "the thirteenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Meeting time: __________ a.m.",
+     "explanation": "They meet at 5.45 a.m.",
+     "evidenceQuote": "we meet at five forty-five in the morning",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "5.45",
+      "5:45",
+      "five forty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Access to car park from __________ Lane",
+     "explanation": "The track starts from Mill Lane.",
+     "evidenceQuote": "There's a separate track to the car park from Mill Lane.",
+     "skillTag": "distractor_correction",
+     "distractorNote": "The main entrance is closed until nine.",
+     "options": [],
+     "acceptedAnswers": [
+      "Mill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Look for a sign showing a __________",
+     "explanation": "The sign shows a heron.",
+     "evidenceQuote": "Look for the sign with a heron on it.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "heron"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Birds recorded within __________ metres of the path",
+     "explanation": "Birds within 50 metres are recorded.",
+     "evidenceQuote": "within fifty metres of the path",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "50",
+      "fifty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Footwear: __________ boots",
+     "explanation": "Wellington boots are recommended.",
+     "evidenceQuote": "wellington boots are better than walking boots",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "wellington"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Membership (optional): £__________ a year",
+     "explanation": "Membership costs £24.",
+     "evidenceQuote": "that's twenty-four pounds a year",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "24",
+      "twenty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Delaney.",
+     "evidenceQuote": "Marcus Delaney. That's D-E-L-A-N-E-Y.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Delaney"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Health: allergic to bee __________",
+     "explanation": "He is allergic to bee stings.",
+     "evidenceQuote": "I'm allergic to bee stings",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "stings"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "survey",
+    "binoculars",
+    "wetland",
+    "transect",
+    "waterproofs"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam07-lp2",
+   "partNumber": 2,
+   "title": "Rewilding at Hartwell Estate",
+   "contextDescription": "The manager of a former farm explains a rewilding project to a group of visitors.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "ED3F552E-68B8-5BB5-9535-617A5E9AB344",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Good morning, and welcome to Hartwell. My name is Tom Ashby, and my family farmed this land for four generations. Fifteen years ago, we made the decision to stop farming it in the traditional way and to let nature take over instead, a process usually called rewilding. I'll explain why we did that and what has happened since, and then we'll walk down to the river."
+    },
+    {
+     "id": "334CD1A0-70A7-5092-AB7A-83C9AF9D6987",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "The honest answer to why is money. The soil here is heavy clay, which makes it very difficult and expensive to farm. For years, we were losing money on almost every crop, and my father was close to selling the land. A friend suggested we look at what had been done on a similar estate in the Netherlands, and that gave us the idea."
+    },
+    {
+     "id": "1D71EFF3-F70E-5141-B52A-2CBE69B2FF36",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "So what did we actually do? First, we stopped ploughing and stopped using fertilisers and pesticides. We took down most of the internal fences, so the land became one large area rather than a lot of separate fields. And we introduced a small number of grazing animals: old breeds of cattle and pigs, as well as ponies and deer. These animals act as a substitute for the large wild herbivores that once lived in Britain. As they graze, browse and dig, they create a mixture of habitats: open grassland in some places, thick scrub in others, and young trees growing up through the thorny bushes."
+    },
+    {
+     "id": "468C58A6-2E92-511C-8EE6-74547871BB65",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "One thing that surprised us was how important scrub turned out to be. Most people see thorny bushes as untidy, a sign that land has been neglected. But scrub is actually one of the richest habitats for wildlife. It shelters nesting birds, provides food for insects, and protects young oak trees from being eaten by deer until they're big enough to survive."
+    },
+    {
+     "id": "115F4E66-B476-5686-AC97-5267C0107AD0",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "The results have been remarkable. We've recorded a large increase in the number of species of butterflies and moths, and populations of several birds that are declining elsewhere in the country have grown here. The most famous example is the nightingale. When we started, we had perhaps two or three pairs. Now we have more than thirty, which makes Hartwell one of the most important sites for nightingales in the country."
+    },
+    {
+     "id": "62AA3600-97CF-5883-8975-19E478E3D5A1",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Three years ago, with permission from the government, we released a family of beavers into the river. Beavers build dams, which slow down the flow of water. That has created a series of ponds and wetlands, which are fantastic for insects, frogs and fish. It has also helped to reduce flooding in the village downstream, because the water is held back and released more slowly after heavy rain."
+    },
+    {
+     "id": "F4120C99-C0B7-5672-B548-61607487B9B7",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Now, how does the estate make money if we're not farming? Mainly through what we call nature-based tourism. We have a campsite, a few safari tents and some holiday cottages, and we run guided walks like this one. We also sell meat from the cattle and pigs, which is in high demand because the animals live outdoors all year. And recently, we've begun to receive payments for storing carbon in our soils and trees, which may become a more important source of income in the future."
+    },
+    {
+     "id": "5C0DD889-2EFA-5770-87ED-26CC40983372",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Not everyone has welcomed what we've done. Some of our farming neighbours were worried that weeds from our land would spread into their fields, and a few felt that we were wasting good farmland when the country needs to produce food. We take those concerns seriously. We cut back plants along our borders, and we've shared what we've learned with other farmers, several of whom are now rewilding small areas of their own land, such as field edges and riverbanks."
+    },
+    {
+     "id": "2BE70583-6E70-5AF9-B0F7-002E1BC4558D",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Right, before we set off, a couple of requests. Please keep to the paths, and keep dogs on leads, because the cattle have young calves at the moment and may be protective. And if you're lucky enough to hear a nightingale, please stay quiet and don't use recordings to try to attract it, as that can disturb nesting birds."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam07-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why did the family decide to stop traditional farming?",
+     "explanation": "Farming the heavy clay was losing money.",
+     "evidenceQuote": "The honest answer to why is money.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They wanted to protect a rare species.",
+      "B. Farming was not profitable.",
+      "C. The government asked them to."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Farming was not profitable.",
+      "Farming was not profitable."
+     ]
+    },
+    {
+     "id": "exam07-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why were grazing animals introduced?",
+     "explanation": "They replace the large wild herbivores of the past.",
+     "evidenceQuote": "These animals act as a substitute for the large wild herbivores that once lived in Britain",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to produce meat for sale",
+      "B. to stop trees from growing",
+      "C. to replace wild animals that no longer exist there"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to replace wild animals that no longer exist there",
+      "to replace wild animals that no longer exist there"
+     ]
+    },
+    {
+     "id": "exam07-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What surprised Tom about scrub?",
+     "explanation": "Scrub proved very rich in wildlife.",
+     "evidenceQuote": "scrub is actually one of the richest habitats for wildlife",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is very valuable for wildlife.",
+      "B. It grows back very slowly.",
+      "C. Deer avoid eating it."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It is very valuable for wildlife.",
+      "It is very valuable for wildlife."
+     ]
+    },
+    {
+     "id": "exam07-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "How many pairs of nightingales are there now?",
+     "explanation": "There are now more than thirty pairs.",
+     "evidenceQuote": "Now we have more than thirty",
+     "skillTag": "numbers",
+     "options": [
+      "A. two or three",
+      "B. about fifteen",
+      "C. over thirty"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. over thirty",
+      "over thirty"
+     ]
+    },
+    {
+     "id": "exam07-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "How have the beavers helped people in the village?",
+     "explanation": "Beaver dams reduce flooding downstream.",
+     "evidenceQuote": "It has also helped to reduce flooding in the village downstream",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by attracting tourists",
+      "B. by reducing flooding",
+      "C. by improving fishing"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. by reducing flooding",
+      "by reducing flooding"
+     ]
+    },
+    {
+     "id": "exam07-L16",
+     "number": 16,
+     "format": "Note Completion",
+     "prompt": "Income: campsite, safari tents, cottages and guided __________",
+     "explanation": "They run guided walks.",
+     "evidenceQuote": "we run guided walks like this one",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "walks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "Meat is popular because animals live __________ all year",
+     "explanation": "The animals live outdoors.",
+     "evidenceQuote": "because the animals live outdoors all year",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "outdoors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "New income: payments for storing __________",
+     "explanation": "They are paid for storing carbon.",
+     "evidenceQuote": "payments for storing carbon in our soils and trees",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "carbon"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Neighbours' concern: __________ spreading into their fields",
+     "explanation": "Neighbours feared spreading weeds.",
+     "evidenceQuote": "worried that weeds from our land would spread into their fields",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weeds"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Dogs must be kept on leads because cattle have young __________",
+     "explanation": "The cattle have calves.",
+     "evidenceQuote": "the cattle have young calves at the moment",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "calves"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "rewilding",
+    "grazing",
+    "scrub",
+    "beaver",
+    "biodiversity"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam07-lp3",
+   "partNumber": 3,
+   "title": "A presentation on urban foxes",
+   "contextDescription": "Two zoology students, Ellie and Raj, prepare a presentation on foxes living in cities with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "4B7DBD01-F43F-5119-B7C2-43D04DEE9A21",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, you two have chosen urban foxes for your presentation. Why foxes?"
+    },
+    {
+     "id": "54A22192-8031-5A42-B0A4-32244C7E8A79",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "Partly because they're so visible. Almost everyone in the city has a story about seeing a fox in their garden or on the street at night. But when we started reading, we realised how little most people actually know about them, and how many myths there are."
+    },
+    {
+     "id": "67929668-4F60-54B3-A427-7D37CFF0ED0A",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "And it's a good example of a wild animal adapting to a completely human environment, which links to the theme of the module."
+    },
+    {
+     "id": "5685E984-24B7-5ECC-BB49-D01A509A1D02",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. What's the history? When did foxes start living in cities?"
+    },
+    {
+     "id": "EF07AF71-FF92-579F-85AF-F1A52D53FC19",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "In Britain, it seems to have started in the 1930s, when lots of new suburbs were built with large gardens. Foxes moved in from the surrounding countryside, and the gardens gave them shelter and plenty of food."
+    },
+    {
+     "id": "1599C3B8-70E7-5854-8780-007732E5BC7E",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "A lot of people assume foxes came into cities because they couldn't find food in the countryside, but there's no real evidence for that. They simply found that suburbs were a very good habitat."
+    },
+    {
+     "id": "C3E169A3-0DA1-589D-9D30-B4464C871815",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What do urban foxes actually eat? People often say they live mainly on rubbish."
+    },
+    {
+     "id": "3680C343-37B8-5566-A4C1-E43399EF099D",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "That's one of the myths we want to address. Studies that analysed what foxes eat found that food deliberately put out by people, for foxes, birds or pets, makes up a much larger part of their diet than food taken from bins. They also eat a lot of earthworms, insects and fruit, and they catch some rats and mice."
+    },
+    {
+     "id": "503B7659-72F1-5381-A71A-6889319996A4",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "And one study estimated that about one household in ten in some cities feeds foxes on purpose."
+    },
+    {
+     "id": "C6A344F8-5897-50ED-A523-C0591D9B50C6",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. How have researchers studied their movements?"
+    },
+    {
+     "id": "820B5A6A-51E7-541F-9232-70AD803FF913",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "Mostly with GPS collars, which record the fox's position every few minutes. The results show that urban foxes have much smaller territories than rural ones, because food is so concentrated. In the countryside a fox might need several square kilometres, but in a city it might be less than half a square kilometre."
+    },
+    {
+     "id": "D9CEE069-205B-5658-AD15-56D7F97BD37D",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "And there's a really nice citizen science project where people put camera traps in their gardens. They've collected thousands of video clips of foxes, and they've shown how foxes use fences and walls as routes, almost like roads."
+    },
+    {
+     "id": "299315AE-5752-5128-9F9E-48F6566AFEB7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Are foxes active during the day as well?"
+    },
+    {
+     "id": "83EBA3D3-EE41-5311-BFFE-ECBF95BA622D",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "Mostly at night, especially in busy areas, because that's when there are fewer people and less traffic. But in quiet parks and gardens, they're often seen during the day too, particularly in spring when they have cubs to feed. Traffic is actually the biggest cause of death for urban foxes."
+    },
+    {
+     "id": "8F2164F6-FE79-5C74-B97C-A5B7E2B97F77",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What about the idea that urban foxes are becoming different from rural foxes?"
+    },
+    {
+     "id": "D405B877-A1AD-560F-BEFE-5FF4A04EFB4F",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "There's a study comparing skulls that found urban foxes have slightly shorter, wider snouts than rural ones. The researchers suggested this might be because they don't need to catch fast-moving prey so much, and they eat more food that needs crushing rather than tearing."
+    },
+    {
+     "id": "47AF0515-B378-59F6-9DA5-EA2803FE361F",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "But we want to be careful there. It's one study, and the differences are small. We don't want to suggest that foxes are evolving into a new species."
+    },
+    {
+     "id": "3C9E9D82-DA56-5506-A54E-AB5BF653D5BE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good, that's a sensible caution. Now, how are you going to structure the presentation?"
+    },
+    {
+     "id": "3A9170F5-3ED6-5254-858D-460C41AD3A6D",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "We thought we'd start with a short video clip from the camera traps, to get people's attention. Then the history, then diet, then movement, and finally the question of conflict with people."
+    },
+    {
+     "id": "C1E456C7-4015-58F8-8600-E0B7A9D555D7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What do you mean by conflict?"
+    },
+    {
+     "id": "240C6B9E-D3B3-58B0-9325-41C40330499A",
+     "speaker": "Raj",
+     "accent": "en-IE",
+     "text": "Things like foxes digging in gardens, or making noise at night. Some people want them removed. But research suggests that killing urban foxes doesn't work, because other foxes quickly move into the empty territory."
+    },
+    {
+     "id": "C46EDF1C-D9E0-5C78-838A-9B645BA1A50D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important point to end on. I'd suggest finishing with some practical advice on living alongside foxes, rather than just the problem. And keep your slides simple; one main idea per slide."
+    },
+    {
+     "id": "ACD089C1-BCAE-5DB8-8F61-A55C1E5099C3",
+     "speaker": "Ellie",
+     "accent": "en-GB",
+     "text": "Okay. We'll have a practice run on Friday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam07-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did Ellie want to study urban foxes?",
+     "explanation": "People know little about them and there are many myths.",
+     "evidenceQuote": "we realised how little most people actually know about them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People misunderstand them.",
+      "B. She has foxes in her garden.",
+      "C. There has been little research on them."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People misunderstand them.",
+      "People misunderstand them."
+     ]
+    },
+    {
+     "id": "exam07-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Raj, foxes moved into British cities in the 1930s because",
+     "explanation": "New suburbs with gardens offered shelter and food.",
+     "evidenceQuote": "the gardens gave them shelter and plenty of food",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Ellie says there is no evidence for the food shortage idea.",
+     "options": [
+      "A. they were hunted in the countryside.",
+      "B. there was not enough food in the countryside.",
+      "C. new suburbs provided a good habitat."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. new suburbs provided a good habitat.",
+      "new suburbs provided a good habitat."
+     ]
+    },
+    {
+     "id": "exam07-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did studies of foxes' diet find?",
+     "explanation": "Food put out by people matters more than bins.",
+     "evidenceQuote": "makes up a much larger part of their diet than food taken from bins",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Rubbish from bins is their main food.",
+      "B. Food left out by people is more important than rubbish.",
+      "C. They mainly eat rats and mice."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Food left out by people is more important than rubbish.",
+      "Food left out by people is more important than rubbish."
+     ]
+    },
+    {
+     "id": "exam07-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why do urban foxes have small territories?",
+     "explanation": "Food is concentrated in cities.",
+     "evidenceQuote": "because food is so concentrated",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Food is easy to find in a small area.",
+      "B. Roads stop them travelling far.",
+      "C. There are too many foxes."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Food is easy to find in a small area.",
+      "Food is easy to find in a small area."
+     ]
+    },
+    {
+     "id": "exam07-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does Ellie say about the study of fox skulls?",
+     "explanation": "It is one study with small differences.",
+     "evidenceQuote": "It's one study, and the differences are small",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It proves foxes are becoming a new species.",
+      "B. It was carried out badly.",
+      "C. Its findings should be treated with caution."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Its findings should be treated with caution.",
+      "Its findings should be treated with caution."
+     ]
+    },
+    {
+     "id": "exam07-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "Why does killing urban foxes not work?",
+     "explanation": "Other foxes move into the empty territory.",
+     "evidenceQuote": "other foxes quickly move into the empty territory",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People refuse to allow it.",
+      "B. New foxes take over the territory.",
+      "C. Foxes are protected by law."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. New foxes take over the territory.",
+      "New foxes take over the territory."
+     ]
+    },
+    {
+     "id": "exam07-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "About one household in __________ feeds foxes on purpose",
+     "explanation": "One household in ten feeds foxes.",
+     "evidenceQuote": "about one household in ten in some cities feeds foxes on purpose",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Foxes use fences and walls almost like __________",
+     "explanation": "Fences and walls act like roads.",
+     "evidenceQuote": "how foxes use fences and walls as routes, almost like roads",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "roads"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Presentation will start with a video clip from camera __________",
+     "explanation": "They start with camera trap footage.",
+     "evidenceQuote": "a short video clip from the camera traps",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "traps"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Tutor's advice: end with practical __________",
+     "explanation": "End with practical advice.",
+     "evidenceQuote": "finishing with some practical advice on living alongside foxes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "advice"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "habitat",
+    "territory",
+    "camera trap",
+    "GPS collar",
+    "adaptation"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam07-lp4",
+   "partNumber": 4,
+   "title": "The hidden life of trees",
+   "contextDescription": "A lecture in a plant biology course on how trees interact with each other and with fungi.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "1933B64A-3D4D-5963-86E3-7792CA962718",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning, everyone. Today's topic has attracted a great deal of public attention in the last few years: the idea that trees communicate and cooperate with each other through underground networks. You may have heard the phrase 'wood wide web'. I want to explain what we know, what is still debated, and why it matters for how we manage forests."
+    },
+    {
+     "id": "79D50E52-27A1-5C2D-8066-C97B98E881C2",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let's start with the basics. If you dig into the soil of almost any forest, you'll find that tree roots are surrounded by extremely fine threads. These are the threads of fungi, and the partnership between the fungus and the plant root is called a mycorrhiza, from the Greek words for fungus and root. Around ninety per cent of land plants form these partnerships."
+    },
+    {
+     "id": "0837D75E-8609-59FD-ABD0-09D5BD16C02C",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The relationship benefits both sides. The fungal threads are much thinner than roots and can spread far further through the soil, so they're very good at absorbing water and nutrients, particularly phosphorus and nitrogen, which they pass to the tree. In return, the tree supplies the fungus with sugars that it produces by photosynthesis. In some forests, trees may give up as much as a third of the sugar they produce to their fungal partners. That tells you how valuable the relationship must be."
+    },
+    {
+     "id": "9C709877-1085-5119-8785-8CF0A6A2068B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Now, here's where it gets interesting. A single fungus can connect to the roots of several trees at once, and a single tree can be connected to many fungi. So the trees in a forest can be linked together in a network. In the 1990s, the Canadian forest ecologist Suzanne Simard carried out a famous experiment in which she covered young trees with bags and supplied them with carbon dioxide containing a special form of carbon that can be traced. She then found that some of this carbon turned up in neighbouring trees of a different species. This suggested that carbon was moving from tree to tree through the fungal network."
+    },
+    {
+     "id": "5215CFFA-957F-5654-971B-EFA38D0AD50D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Later studies claimed to show even more remarkable things. One finding was that the largest, oldest trees, sometimes called 'mother trees', are connected to many young trees and may send them carbon, particularly when the young trees are growing in deep shade. Other experiments suggested that when a tree is attacked by insects, chemical signals may travel through the network and prompt neighbouring trees to increase their defences."
+    },
+    {
+     "id": "4FD7B7EC-9769-50E5-885B-6985B437415D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "These ideas have been enormously popular. They've appeared in best-selling books and documentaries, often with the message that forests are cooperative communities, a bit like families. However, I need to stress that in recent years a number of scientists have raised serious doubts. A review published in 2023 examined the evidence and concluded that many of the most widely repeated claims are not well supported. The networks certainly exist, but it's much less clear how often carbon is actually transferred in meaningful amounts, and whether this happens because trees are helping each other or simply because the fungi move resources around to suit their own needs."
+    },
+    {
+     "id": "29E55899-C239-5401-A9BC-209271B6576A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In other words, the fungi are not neutral cables. They're living organisms with their own interests. Some researchers argue that it may be more accurate to think of the fungi as traders, exchanging nutrients for sugar wherever they get the best deal, rather than as a communication system that trees use to cooperate."
+    },
+    {
+     "id": "E039223F-62C4-5E53-8AA2-0D331FCF9429",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Whatever the outcome of this debate, the research has had practical consequences. It has shown that the soil beneath a forest is a vital part of the ecosystem. When forests are clear-felled, meaning all the trees in an area are cut down at once, the fungal networks can be badly damaged, and young trees planted afterwards may grow more slowly. Some forest managers now leave groups of older trees standing when they harvest timber, in the hope that this will help the forest recover. Next time, we'll look at the role of forests in the global carbon cycle."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam07-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Mycorrhiza: partnership between a fungus and a plant __________",
+     "explanation": "It is a fungus–root partnership.",
+     "evidenceQuote": "the partnership between the fungus and the plant root is called a mycorrhiza",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "root"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Fungal threads absorb water and nutrients such as nitrogen and __________",
+     "explanation": "Fungi supply phosphorus and nitrogen.",
+     "evidenceQuote": "particularly phosphorus and nitrogen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "phosphorus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "In return, trees give fungi __________",
+     "explanation": "Trees give sugars.",
+     "evidenceQuote": "the tree supplies the fungus with sugars",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sugars"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Some trees give up to a __________ of their sugar to fungi",
+     "explanation": "Up to a third of sugar goes to fungi.",
+     "evidenceQuote": "as much as a third of the sugar they produce",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "third"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Simard covered young trees with __________ and supplied traceable carbon",
+     "explanation": "She covered the trees with bags.",
+     "evidenceQuote": "she covered young trees with bags",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bags"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "\"Mother trees\" may send carbon to young trees growing in deep __________",
+     "explanation": "Young trees in deep shade may receive carbon.",
+     "evidenceQuote": "particularly when the young trees are growing in deep shade",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shade"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "When attacked by __________, trees may send chemical signals",
+     "explanation": "Insect attacks may trigger signals.",
+     "evidenceQuote": "when a tree is attacked by insects",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "insects"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "A 2023 __________ found many claims were not well supported",
+     "explanation": "A 2023 review questioned the claims.",
+     "evidenceQuote": "A review published in 2023 examined the evidence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "review"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Alternative view: fungi act more like __________",
+     "explanation": "Fungi may be seen as traders.",
+     "evidenceQuote": "think of the fungi as traders",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "traders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Clear-felling can damage fungal networks; young trees may then grow more __________",
+     "explanation": "Young trees may grow more slowly.",
+     "evidenceQuote": "young trees planted afterwards may grow more slowly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "slowly"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "fungi",
+    "mycorrhiza",
+    "root system",
+    "canopy",
+    "carbon"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam07-rp1",
+   "passageNumber": 1,
+   "title": "The return of the wolf",
+   "discipline": "Ecology",
+   "paragraphs": [
+    "For most of the twentieth century, the grey wolf was absent from Yellowstone National Park in the United States. Wolves had been deliberately exterminated across most of the country by the 1920s, hunted, trapped and poisoned because they killed livestock and were widely regarded as dangerous pests. In Yellowstone, even park rangers took part in the campaign, and the last known wolves in the park were killed in 1926. At the time, few people questioned this policy, and some biologists even supported it, believing that an ecosystem without predators would be richer and more stable. Removing large predators was seen as a way of protecting the elk, deer and other grazing animals that visitors came to see.",
+    "Over the following decades, however, scientists began to notice changes in the park's ecosystem. Without wolves, the elk population grew dramatically, and the animals spent long periods grazing in river valleys, where they ate young willow, aspen and cottonwood trees before they had a chance to grow. As these trees disappeared from riverbanks, other species that depended on them declined. Beavers, which need willow for food and for building dams, became extremely rare, and the loss of beaver dams changed the way rivers flowed. Some songbirds that nest in riverside trees also declined, and the banks of some streams began to erode more quickly without tree roots to hold the soil in place.",
+    "In 1995 and 1996, after years of public debate and legal challenges, thirty-one wolves captured in Canada were released into Yellowstone. The reintroduction was strongly opposed by many ranchers in the surrounding states, who feared that wolves would leave the park and attack their cattle and sheep. To address these concerns, a conservation organisation set up a fund to compensate ranchers for any livestock killed by wolves, and the government allowed wolves that repeatedly attacked livestock outside the park to be shot.",
+    "The wolves thrived, helped by an abundant supply of prey. Within a decade, their numbers in the park had risen to more than a hundred, divided among a dozen or so packs. The most obvious effect was on the elk, whose population fell considerably over the following years. But researchers soon began to report changes that went far beyond the direct effect of wolves killing elk. In some river valleys, willow and aspen began to grow again. Beaver colonies increased from one to nine within about a decade, and their dams created ponds that provided habitats for fish, amphibians and birds.",
+    "To explain these changes, some ecologists proposed what they called the 'landscape of fear'. According to this idea, elk changed their behaviour in response to the presence of wolves, avoiding open valleys and riverbanks where they could easily be trapped, and spending less time in any one place. This reduced grazing pressure on young trees in those areas, allowing them to recover. The effects of a predator thus spread through the whole food chain, a process ecologists call a trophic cascade.",
+    "The Yellowstone story became famous around the world, helped by a popular online video claiming that wolves had literally 'changed the course of rivers'. In recent years, however, many scientists have argued that the story has been oversimplified. Elk numbers also fell because of hunting outside the park, harsh winters and the growing number of other predators, such as bears and cougars. Some studies have found that elk do not avoid areas used by wolves as much as the 'landscape of fear' theory suggests. And in many valleys, willows have not recovered, possibly because without beaver dams, the water table has fallen too far for young trees to establish themselves.",
+    "None of this means that the reintroduction of wolves was unimportant. Most researchers agree that wolves have had significant effects on Yellowstone's ecosystem. But the case shows how difficult it can be to separate the effects of a single species from the many other factors that shape an ecosystem, and why it is risky to assume that restoring one missing animal will automatically restore a landscape to its previous state. Nevertheless, the Yellowstone experience has inspired similar projects elsewhere, including the return of wolves to parts of Europe, where their numbers have increased significantly in recent decades."
+   ],
+   "questions": [
+    {
+     "id": "exam07-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Park rangers helped to remove wolves from Yellowstone.",
+     "explanation": "Rangers took part in the campaign.",
+     "evidenceQuote": "even park rangers took part in the campaign",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam07-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Without wolves, elk spent more time in river valleys.",
+     "explanation": "Elk grazed for long periods in river valleys.",
+     "evidenceQuote": "the animals spent long periods grazing in river valleys",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam07-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The wolves released in Yellowstone came from Alaska.",
+     "explanation": "They were captured in Canada.",
+     "evidenceQuote": "thirty-one wolves captured in Canada",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam07-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Ranchers were paid for livestock killed by wolves.",
+     "explanation": "A fund compensated ranchers.",
+     "evidenceQuote": "a conservation organisation set up a fund to compensate ranchers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam07-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Wolves sometimes attacked visitors to the park.",
+     "explanation": "Attacks on visitors are never mentioned.",
+     "evidenceQuote": "who feared that wolves would leave the park and attack their cattle and sheep",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam07-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Hunting outside the park contributed to the fall in elk numbers.",
+     "explanation": "Hunting outside the park was a factor.",
+     "evidenceQuote": "Elk numbers also fell because of hunting outside the park",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam07-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Willows have recovered in all of Yellowstone's river valleys.",
+     "explanation": "In many valleys they have not recovered.",
+     "evidenceQuote": "in many valleys, willows have not recovered",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam07-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "Beavers became rare because they rely on __________ for food and dams.",
+     "explanation": "Beavers depend on willow.",
+     "evidenceQuote": "Beavers, which need willow for food and for building dams",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "willow"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "Within a decade, wolves were divided into about a dozen __________.",
+     "explanation": "Wolves formed about a dozen packs.",
+     "evidenceQuote": "divided among a dozen or so packs",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "packs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "Beaver dams created __________ that benefited fish and birds.",
+     "explanation": "Dams created ponds.",
+     "evidenceQuote": "their dams created ponds",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ponds"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "The \"landscape of fear\" suggests elk changed their __________.",
+     "explanation": "Elk changed their behaviour.",
+     "evidenceQuote": "elk changed their behaviour in response to the presence of wolves",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "behaviour"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "Effects spreading through a food chain are called a trophic __________.",
+     "explanation": "This is a trophic cascade.",
+     "evidenceQuote": "a process ecologists call a trophic cascade",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cascade"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam07-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "Without beaver dams, the water __________ may be too low for young willows.",
+     "explanation": "The water table has fallen.",
+     "evidenceQuote": "the water table has fallen too far",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "table"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 701,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam07-rp2",
+   "passageNumber": 2,
+   "title": "Saving the world's seeds",
+   "discipline": "Agriculture & Conservation",
+   "paragraphs": [
+    "Deep inside a mountain on the Norwegian island of Spitsbergen, about a thousand kilometres from the North Pole, lies one of the most unusual storage facilities in the world. The Svalbard Global Seed Vault, opened in 2008, holds more than a million samples of seeds from almost every country on Earth, representing thousands of varieties of crops such as wheat, rice, maize, beans and barley. The vault is sometimes described in the media as a 'doomsday vault', but its managers prefer to stress its everyday role. Its purpose is to act as a backup for the world's food supply: if seeds held in other collections are lost through war, natural disaster or simple mismanagement, copies stored in Svalbard can be used to replace them.",
+    "The location was chosen for several reasons, after a long search. Spitsbergen is remote and politically stable, and the vault is cut more than a hundred metres into the rock, well above sea level, so that it would remain dry even if the polar ice caps melted completely. The surrounding rock is permanently frozen, which means that even if the electricity supply failed, the seeds would remain below freezing. In normal operation, the vault is cooled to minus eighteen degrees Celsius, a temperature at which many seeds can remain alive for decades or even centuries.",
+    "The vault does not own the seeds it holds. It works rather like a safe-deposit box in a bank: the institutions that send seeds, usually national gene banks, retain ownership, and only they can withdraw them. Sending seeds to Svalbard costs them nothing, as the facility is funded by the Norwegian government and an international trust. Each deposit is sealed in a box which is not opened by the vault's staff. The vault is opened only a few times a year, when new deposits arrive, and it has no permanent staff on site; it is monitored remotely from the Norwegian mainland. Countries and organisations of all sizes use it, from large international research centres to small community seed banks run by groups of farmers.",
+    "Why is such a facility needed? Over the last century, the genetic diversity of the crops we depend on has declined dramatically. Farmers once grew a huge variety of local types, each adapted to particular soils, climates and uses. As agriculture has industrialised, many of these have been replaced by a small number of high-yielding modern varieties. Although these produce more food and are easier to harvest by machine, relying on them is risky, because a single disease or pest can affect an entire crop. Traditional varieties often carry genes for resistance to disease, drought or heat that plant breeders may need in the future, particularly as the climate changes.",
+    "The value of the vault was demonstrated in 2015, when it received its first withdrawal. An important gene bank near Aleppo in Syria, which held seeds of crops adapted to dry conditions, had been forced to stop working because of the civil war in the country. Its scientists, who had relocated to Lebanon and Morocco, requested the return of samples they had deposited in Svalbard, and used them to rebuild their collection. They later sent new copies back to the vault.",
+    "The vault has not been free of problems. In 2016, unusually high temperatures caused permafrost near the entrance to melt, and water flowed into the access tunnel. Although no seeds were damaged and the water never reached the storage rooms, the incident drew attention to the potential effects of climate change on the Arctic, which is warming faster than most of the planet. The Norwegian government subsequently spent millions on improvements, including a new waterproof access tunnel.",
+    "Some experts warn that a single global vault, however secure, is not a complete solution. Seeds in storage are frozen in time; they do not continue to evolve in response to changing conditions, as crops in farmers' fields do. For this reason, many conservationists argue that it is equally important to support farmers who continue to grow traditional varieties in their own fields, so that these crops can keep adapting to new pests and climates. Seed vaults and living farms, they suggest, should be seen as complementary rather than as alternatives."
+   ],
+   "questions": [
+    {
+     "id": "exam07-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains why Spitsbergen was chosen.",
+     "evidenceQuote": "The location was chosen for several reasons",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why this place was selected",
+      "Why this place was selected"
+     ]
+    },
+    {
+     "id": "exam07-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains ownership and how deposits work.",
+     "evidenceQuote": "The vault does not own the seeds it holds",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. How deposits are owned and managed",
+      "How deposits are owned and managed"
+     ]
+    },
+    {
+     "id": "exam07-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains why diversity matters.",
+     "evidenceQuote": "has declined dramatically",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. The risks of losing variety",
+      "The risks of losing variety"
+     ]
+    },
+    {
+     "id": "exam07-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the Syrian withdrawal.",
+     "evidenceQuote": "when it received its first withdrawal",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. The first time seeds were taken back",
+      "The first time seeds were taken back"
+     ]
+    },
+    {
+     "id": "exam07-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes the flooding incident.",
+     "evidenceQuote": "water flowed into the access tunnel",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. An unexpected threat to the vault",
+      "An unexpected threat to the vault"
+     ]
+    },
+    {
+     "id": "exam07-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G argues for combining vaults and farms.",
+     "evidenceQuote": "Seed vaults and living farms, they suggest, should be seen as complementary",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. The need for a second approach",
+      "The need for a second approach"
+     ]
+    },
+    {
+     "id": "exam07-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What would happen to the seeds if the electricity failed?",
+     "explanation": "The permafrost would keep them frozen.",
+     "evidenceQuote": "even if the electricity supply failed, the seeds would remain below freezing",
+     "skillTag": "detail",
+     "options": [
+      "A. They would quickly be destroyed.",
+      "B. They would still stay frozen.",
+      "C. They would be moved to another vault.",
+      "D. They would need to be replanted."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They would still stay frozen.",
+      "They would still stay frozen."
+     ]
+    },
+    {
+     "id": "exam07-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Who can remove seeds from the vault?",
+     "explanation": "Only the depositing institutions can withdraw.",
+     "evidenceQuote": "only they can withdraw them",
+     "skillTag": "detail",
+     "options": [
+      "A. the Norwegian government",
+      "B. the vault's staff",
+      "C. any national gene bank",
+      "D. the institutions that deposited them"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the institutions that deposited them",
+      "the institutions that deposited them"
+     ]
+    },
+    {
+     "id": "exam07-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why are modern high-yielding varieties described as risky?",
+     "explanation": "One disease could affect a whole crop.",
+     "evidenceQuote": "a single disease or pest can affect an entire crop",
+     "skillTag": "detail",
+     "options": [
+      "A. A single disease could damage a whole crop.",
+      "B. They produce less food than traditional varieties.",
+      "C. They need more water.",
+      "D. They cannot be stored in vaults."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A single disease could damage a whole crop.",
+      "A single disease could damage a whole crop."
+     ]
+    },
+    {
+     "id": "exam07-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did the Syrian scientists do after withdrawing their seeds?",
+     "explanation": "They rebuilt their collection and returned new copies.",
+     "evidenceQuote": "They later sent new copies back to the vault",
+     "skillTag": "detail",
+     "options": [
+      "A. They moved their gene bank to Norway.",
+      "B. They gave the seeds to farmers in Syria.",
+      "C. They returned new samples to Svalbard.",
+      "D. They stopped working with the vault."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They returned new samples to Svalbard.",
+      "They returned new samples to Svalbard."
+     ]
+    },
+    {
+     "id": "exam07-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The vault is kept at a temperature of minus __________ degrees Celsius.",
+     "explanation": "The vault is kept at minus eighteen degrees.",
+     "evidenceQuote": "the vault is cooled to minus eighteen degrees Celsius",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eighteen",
+      "18"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam07-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "In 2016, melting __________ caused water to enter the tunnel.",
+     "explanation": "Melting permafrost let water in.",
+     "evidenceQuote": "caused permafrost near the entrance to melt",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "permafrost"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam07-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Stored seeds cannot continue to __________ as conditions change.",
+     "explanation": "Stored seeds do not evolve.",
+     "evidenceQuote": "they do not continue to evolve in response to changing conditions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "evolve"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 702,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below.",
+     "options": [
+      "i. An unexpected threat to the vault",
+      "ii. How deposits are owned and managed",
+      "iii. Scientists disagree about storage temperatures",
+      "iv. The first time seeds were taken back",
+      "v. The need for a second approach",
+      "vi. Why this place was selected",
+      "vii. A new vault in another country",
+      "viii. The risks of losing variety"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 23,
+     "instruction": "Questions 20–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam07-rp3",
+   "passageNumber": 3,
+   "title": "Should we put a price on nature?",
+   "discipline": "Environmental Economics",
+   "paragraphs": [
+    "In 1997, a team of ecologists and economists led by Robert Costanza published a paper in the journal Nature that attempted something that had never been done before: to estimate the economic value of all the services that nature provides to humanity. These 'ecosystem services' included the pollination of crops by insects, the purification of water by wetlands, the protection of coasts by coral reefs and mangroves, and the regulation of the climate by forests and oceans. The researchers concluded that these services were worth, on average, around thirty-three trillion dollars a year, considerably more than the total value of the global economy at the time.",
+    "The paper provoked fierce debate. Some critics argued that the figure was meaningless, since without these services there would be no human economy at all; in that sense, nature's value is infinite. Others questioned the methods used, pointing out that the calculations relied on combining many different local studies and assuming their results could be applied across the globe. Yet the study was enormously influential. It helped to establish the idea that the destruction of nature is not only an environmental problem but an economic one, and that decisions which appear profitable may actually make society poorer if the loss of ecosystem services is taken into account.",
+    "Supporters of valuing nature argue that it corrects a basic flaw in the way economic decisions are made. When a forest is cleared for farmland, the value of the timber and the crops is recorded in national accounts, but the loss of the forest's role in storing carbon, preventing floods and supporting wildlife is not. Because nature's services are usually free, they are easily ignored. Putting a monetary value on them, supporters say, ensures that they are given proper weight. In my view, there is real force in this argument, particularly when decisions are being made by governments and businesses that think mainly in financial terms.",
+    "There are well-known examples of the approach influencing policy. In the 1990s, New York City faced a choice about how to protect the quality of its drinking water, which comes largely from the Catskill Mountains north of the city. Building a water treatment plant would have cost an estimated six to eight billion dollars, plus large running costs. Instead, the city chose to spend around one and a half billion dollars buying land and paying farmers and landowners in the catchment area to protect forests and reduce pollution, relying on the natural landscape to filter the water. The decision was presented as a sound financial investment rather than merely an act of conservation.",
+    "Critics, however, raise several objections. One is practical: many of nature's benefits are extremely difficult to measure, and different methods can produce wildly different values. How, for example, should one value the existence of a species that has no direct use to humans? A second objection is ethical. Some philosophers and environmentalists argue that treating nature as a collection of services to be bought and sold reduces it to a commodity, and that some things have value in themselves, regardless of their usefulness. If a wetland is worth protecting only because it is profitable to do so, then the case for protection disappears whenever destroying it becomes more profitable.",
+    "A further concern is that putting a price on nature may change people's motivations in unexpected ways. Psychologists have found that offering payment for an activity that people previously did for moral reasons can sometimes reduce their willingness to do it. There is a risk, critics argue, that paying landowners to protect nature could weaken the sense that conservation is a duty, so that people come to expect payment for doing what they would previously have done anyway.",
+    "These objections are serious, but I do not think they are decisive. Valuing nature need not mean that only financial value counts; it can simply be a way of making visible some of the costs that are otherwise ignored. The most sensible approach is probably to use economic valuation as one tool among several, alongside legal protection for important habitats and recognition of the cultural and spiritual value that many communities place on the natural world. What matters is not whether we put a price on nature, but whether the decisions we make reflect the full range of what we stand to lose."
+   ],
+   "questions": [
+    {
+     "id": "exam07-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "The Costanza study had a major impact despite criticism.",
+     "explanation": "The writer says it was very influential.",
+     "evidenceQuote": "Yet the study was enormously influential.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam07-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The argument for valuing nature has some merit.",
+     "explanation": "The writer sees real force in it.",
+     "evidenceQuote": "there is real force in this argument",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam07-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "New York's decision cost more than building a treatment plant.",
+     "explanation": "It cost around $1.5 billion versus $6–8 billion.",
+     "evidenceQuote": "spend around one and a half billion dollars",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam07-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most farmers in the Catskill Mountains supported the city's plan.",
+     "explanation": "Farmers' views are not mentioned.",
+     "evidenceQuote": "paying farmers and landowners in the catchment area",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam07-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "The objections to valuing nature are strong enough to reject the approach.",
+     "explanation": "The writer does not find them decisive.",
+     "evidenceQuote": "These objections are serious, but I do not think they are decisive.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam07-R32",
+     "number": 32,
+     "format": "Matching Features",
+     "prompt": "Nature's value cannot be measured because the economy depends on it entirely.",
+     "explanation": "Some critics said nature's value is infinite.",
+     "evidenceQuote": "since without these services there would be no human economy at all; in that sense, nature's value is infinite",
+     "skillTag": "matching_features",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. critics of the Costanza study",
+      "critics of the Costanza study"
+     ]
+    },
+    {
+     "id": "exam07-R33",
+     "number": 33,
+     "format": "Matching Features",
+     "prompt": "Leaving nature unvalued means its services are overlooked in decisions.",
+     "explanation": "Supporters say free services are ignored.",
+     "evidenceQuote": "Because nature's services are usually free, they are easily ignored.",
+     "skillTag": "matching_features",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. supporters of valuing nature",
+      "supporters of valuing nature"
+     ]
+    },
+    {
+     "id": "exam07-R34",
+     "number": 34,
+     "format": "Matching Features",
+     "prompt": "Some things are valuable whether or not they are useful.",
+     "explanation": "Some philosophers argue for intrinsic value.",
+     "evidenceQuote": "some things have value in themselves, regardless of their usefulness",
+     "skillTag": "matching_features",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. some philosophers and environmentalists",
+      "some philosophers and environmentalists"
+     ]
+    },
+    {
+     "id": "exam07-R35",
+     "number": 35,
+     "format": "Matching Features",
+     "prompt": "Paying people to act may reduce their sense of moral duty.",
+     "explanation": "Psychologists found payment can reduce moral motivation.",
+     "evidenceQuote": "offering payment for an activity that people previously did for moral reasons can sometimes reduce their willingness to do it",
+     "skillTag": "matching_features",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. psychologists",
+      "psychologists"
+     ]
+    },
+    {
+     "id": "exam07-R36",
+     "number": 36,
+     "format": "Matching Features",
+     "prompt": "Global estimates combined many local studies in questionable ways.",
+     "explanation": "Critics questioned the methods.",
+     "evidenceQuote": "the calculations relied on combining many different local studies",
+     "skillTag": "matching_features",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. critics of the Costanza study",
+      "critics of the Costanza study"
+     ]
+    },
+    {
+     "id": "exam07-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "According to the Costanza study, the value of ecosystem services was",
+     "explanation": "It exceeded the global economy.",
+     "evidenceQuote": "considerably more than the total value of the global economy at the time",
+     "skillTag": "detail",
+     "options": [
+      "A. impossible to calculate.",
+      "B. about half the value of the global economy.",
+      "C. greater than the value of the global economy.",
+      "D. equal to the value of all forests."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. greater than the value of the global economy.",
+      "greater than the value of the global economy."
+     ]
+    },
+    {
+     "id": "exam07-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "What point does the writer make about clearing a forest for farmland?",
+     "explanation": "The losses are not recorded in accounts.",
+     "evidenceQuote": "the loss of the forest's role in storing carbon, preventing floods and supporting wildlife is not",
+     "skillTag": "main_idea",
+     "options": [
+      "A. It always makes a country richer.",
+      "B. Some of its costs are not recorded.",
+      "C. It reduces the value of timber.",
+      "D. It is banned in most countries."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Some of its costs are not recorded.",
+      "Some of its costs are not recorded."
+     ]
+    },
+    {
+     "id": "exam07-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "Why was New York's decision described as a financial investment?",
+     "explanation": "Protecting the landscape was cheaper than a treatment plant.",
+     "evidenceQuote": "The decision was presented as a sound financial investment rather than merely an act of conservation",
+     "skillTag": "inference",
+     "options": [
+      "A. It was cheaper than the alternative.",
+      "B. It earned money from tourism.",
+      "C. It increased the price of land.",
+      "D. It created jobs for farmers."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It was cheaper than the alternative.",
+      "It was cheaper than the alternative."
+     ]
+    },
+    {
+     "id": "exam07-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer conclude?",
+     "explanation": "Decisions should reflect all that could be lost.",
+     "evidenceQuote": "What matters is not whether we put a price on nature, but whether the decisions we make reflect the full range of what we stand to lose",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Nature should never be given a price.",
+      "B. Economic value is the only reliable measure.",
+      "C. Legal protection is unnecessary.",
+      "D. Decisions should take every kind of loss into account."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Decisions should take every kind of loss into account.",
+      "Decisions should take every kind of loss into account."
+     ]
+    }
+   ],
+   "estimatedWordCount": 722,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Look at the following arguments and the list of people below. Match each argument with the correct group, A–D.",
+     "options": [
+      "A. critics of the Costanza study",
+      "B. supporters of valuing nature",
+      "C. some philosophers and environmentalists",
+      "D. psychologists"
+     ]
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam07-w1",
+  "title": "Forest cover in five countries",
+  "visualType": "Table",
+  "instructions": "The table below shows the percentage of land covered by forest in five countries in 1990, 2005 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "CD8065D4-DD44-517E-A844-7A114BD34E68",
+    "series": "1990",
+    "category": "Brazil",
+    "value": 70.5,
+    "unit": "% of land area"
+   },
+   {
+    "id": "09CCB27E-F3D6-575D-BE7A-B52E9F285DEA",
+    "series": "2005",
+    "category": "Brazil",
+    "value": 64.3,
+    "unit": "% of land area"
+   },
+   {
+    "id": "2E457C4D-1569-5F44-A629-CDDECAFFE4AE",
+    "series": "2020",
+    "category": "Brazil",
+    "value": 59.4,
+    "unit": "% of land area"
+   },
+   {
+    "id": "5B9B2849-DE80-5D5E-931A-B292882EB74D",
+    "series": "1990",
+    "category": "China",
+    "value": 16.7,
+    "unit": "% of land area"
+   },
+   {
+    "id": "5BB4E9AC-1DD0-51CA-9DC2-7CFCA250135A",
+    "series": "2005",
+    "category": "China",
+    "value": 19.2,
+    "unit": "% of land area"
+   },
+   {
+    "id": "AD64DE13-97DE-552C-A82A-B70F1F3CF92C",
+    "series": "2020",
+    "category": "China",
+    "value": 23.3,
+    "unit": "% of land area"
+   },
+   {
+    "id": "90B6674C-67FE-5C62-8890-3EAB0CACD7A5",
+    "series": "1990",
+    "category": "Finland",
+    "value": 72.0,
+    "unit": "% of land area"
+   },
+   {
+    "id": "19C624F3-4AAE-58FA-B77B-030A2C0D56B5",
+    "series": "2005",
+    "category": "Finland",
+    "value": 72.8,
+    "unit": "% of land area"
+   },
+   {
+    "id": "A3073768-F2AE-56BA-820A-5ACEE379E89E",
+    "series": "2020",
+    "category": "Finland",
+    "value": 73.7,
+    "unit": "% of land area"
+   },
+   {
+    "id": "05464182-F43C-56CE-A34F-4AA92DE4066A",
+    "series": "1990",
+    "category": "Ireland",
+    "value": 6.7,
+    "unit": "% of land area"
+   },
+   {
+    "id": "5D70FAC2-04C2-5C90-BEDE-67EBFAEB7BF4",
+    "series": "2005",
+    "category": "Ireland",
+    "value": 10.3,
+    "unit": "% of land area"
+   },
+   {
+    "id": "68A50B13-8A5F-54F0-8173-4C78576BC975",
+    "series": "2020",
+    "category": "Ireland",
+    "value": 11.4,
+    "unit": "% of land area"
+   },
+   {
+    "id": "DAB7EA5E-445F-54EA-A3F4-3CF67F71F0C9",
+    "series": "1990",
+    "category": "Nigeria",
+    "value": 26.3,
+    "unit": "% of land area"
+   },
+   {
+    "id": "5798E613-34C7-5C74-889C-28892E47A761",
+    "series": "2005",
+    "category": "Nigeria",
+    "value": 19.3,
+    "unit": "% of land area"
+   },
+   {
+    "id": "6F86D7CA-274A-52FF-83E6-B181E3305908",
+    "series": "2020",
+    "category": "Nigeria",
+    "value": 23.7,
+    "unit": "% of land area"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Finland had the highest proportion of forest throughout, with little change.",
+   "Brazil lost forest steadily, while China and Ireland gained; Nigeria fell then partly recovered."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam07-w2",
+  "title": "Protecting wild animals",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Environment & Wildlife",
+  "promptText": "Some people believe that it is pointless to spend large amounts of money protecting endangered species because extinction is a natural process. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam07-spk",
+  "theme": "Animals and the natural world",
+  "part1Questions": [
+   "Do you like animals?",
+   "Have you ever had a pet?",
+   "Are there any wild animals where you live?",
+   "Do you enjoy walking in forests or parks?",
+   "Did you visit zoos when you were a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a wild animal that you would like to learn more about.",
+   "bulletPoints": [
+    "what the animal is",
+    "where it lives",
+    "what you already know about it",
+    "and explain why you would like to learn more about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some animals in danger of extinction?",
+   "Should people pay more to protect wildlife?",
+   "Do zoos do more good than harm?",
+   "How can children be taught to respect nature?",
+   "Is it acceptable to bring back animals that once lived in an area, such as wolves?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Ecological figures are rounded and simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

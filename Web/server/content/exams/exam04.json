@@ -1,0 +1,2284 @@
+{
+ "id": "exam04",
+ "examNumber": 4,
+ "pool": "mock",
+ "title": "Mock Exam 4: Cities, Homes & Getting Around",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Cities, Homes & Getting Around",
+ "listeningParts": [
+  {
+   "id": "exam04-lp1",
+   "partNumber": 1,
+   "title": "Renting a flat",
+   "contextDescription": "A student phones a letting agency about a flat advertised online.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "B7D9B7B9-3B7A-5D5F-BB52-1DEF540177AB",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Good morning, Riverside Lettings, Mia speaking."
+    },
+    {
+     "id": "9347C636-C121-5E68-A0DF-E4A6F7628467",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Hi, I'm calling about one of the flats on your website. It's the two-bedroom one in Albert Street."
+    },
+    {
+     "id": "17B5BBA8-19F6-54EF-8BBF-719CB2A824A0",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Ah yes, number twelve. It's a lovely flat, just been redecorated. Are you looking for yourself?"
+    },
+    {
+     "id": "8A33A7DC-90E5-5906-A1FE-99755CC20075",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "For me and a friend. We're both starting a master's course in September, so we need somewhere for at least a year."
+    },
+    {
+     "id": "CD568B40-71AC-5BED-AA1C-E6E717868222",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "That fits nicely. The landlord prefers a twelve-month tenancy anyway. Can I take your name first?"
+    },
+    {
+     "id": "4285BBA6-937E-5A83-9728-D6554AF8D8DA",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Sure. It's Tomás Ruiz. R-U-I-Z."
+    },
+    {
+     "id": "107D9C84-A810-59A8-830D-F3DA112DB871",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Thanks, Tomás. And a contact number?"
+    },
+    {
+     "id": "96582C89-2ADF-5871-A005-B348EA2F50BC",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "It's oh-seven-seven-one-four, three-six-two, nine-eight-five."
+    },
+    {
+     "id": "FAAE3DD5-BD8F-56B2-B1EC-C955851955F3",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Lovely. So, let me tell you a bit about the flat. It's on the second floor of a converted Victorian house. There's no lift, I'm afraid, but there are only two flights of stairs."
+    },
+    {
+     "id": "701B22A8-61DE-56F6-9CDB-CD19788BA457",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "That's fine. Is it quiet? My friend is a light sleeper."
+    },
+    {
+     "id": "6FB27D26-B2F8-5BA4-B454-A9DEEFD9A09A",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "It's a residential street, so there's not much traffic at night. The flat at the back looks over the gardens, and that's where both bedrooms are, so I'd say it's very quiet. The previous tenants were there for three years and never complained."
+    },
+    {
+     "id": "71345395-46E7-5F7C-BC39-A220B38FAB8D",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Good to hear. And is there a washing machine?"
+    },
+    {
+     "id": "104395F7-AF4B-51DA-AD8F-864BA0D6FACC",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Yes, there's a washing machine in the kitchen, and a small drying rack, but no dryer."
+    },
+    {
+     "id": "E849DDAF-88FE-5B09-A546-5381BC9A8FBE",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "That's fine. The advert said the rent was eight hundred and fifty pounds a month. Is that right?"
+    },
+    {
+     "id": "C363CDBA-3D8E-5EF8-A1F6-51E9F892BB7D",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "It was, but the landlord has just put in a new kitchen, so it's now nine hundred and twenty a month. That's for the whole flat, not each."
+    },
+    {
+     "id": "A9BDAC99-3F8D-5B40-842F-11469CDCCB29",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Okay, so four hundred and sixty each. Does that include bills?"
+    },
+    {
+     "id": "1E334A76-50F1-5B60-AE3F-08BF57217EB3",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Water is included, but you'd pay for gas and electricity yourselves. Internet's included too; the landlord has a contract with a provider for the whole building."
+    },
+    {
+     "id": "8B390136-E311-5E5E-8137-FC32ADA2CFA1",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Good. And is it furnished?"
+    },
+    {
+     "id": "00DF8618-103D-5300-9476-75D178D0F605",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Partly furnished. Both bedrooms have a bed and a wardrobe, and there's a sofa and a dining table in the living room. But there are no desks, so if you're students, you'd probably want to buy those."
+    },
+    {
+     "id": "538CC0FB-EC08-5559-8C93-F4A97EE210AE",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Right, desks. I'll note that. What about the area? I don't really know that part of town."
+    },
+    {
+     "id": "8B66EAB5-2D76-5437-8ECF-5D75EB8195AD",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "It's very convenient. There's a supermarket on the corner, and the train station is about ten minutes' walk. If you're at the university, you can get the number fourteen bus, which goes right past the main library."
+    },
+    {
+     "id": "C16B7A00-263F-5C8D-910E-0C5077F600E6",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Perfect. Is there anywhere to keep a bike? I cycle most places."
+    },
+    {
+     "id": "BEF62980-1481-5A7E-A99A-439C656C3D7B",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "There's no garage, but there's a shed in the back garden that tenants share. Most people keep their bikes there."
+    },
+    {
+     "id": "F4B56DE4-72D9-51B0-998D-66570C8527F9",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Great. And what would we need to pay at the start?"
+    },
+    {
+     "id": "10D2C192-5EA2-506B-981C-CA9528024D44",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "There's a deposit equal to five weeks' rent, which is protected in a government scheme and returned at the end of the tenancy, as long as there's no damage. You'd also pay the first month's rent in advance. We don't charge any agency fees; that's not allowed any more."
+    },
+    {
+     "id": "BD9F91ED-9AC6-5E90-A910-689CE446E669",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "That's good to know. Would we need a guarantor?"
+    },
+    {
+     "id": "A3375F6F-6FC4-55A7-8EEB-2222DA41CEF0",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "For students, yes, usually. That's someone who agrees to pay the rent if you can't, normally a parent. If you don't have anyone in the UK, the landlord will accept six months' rent paid in advance instead."
+    },
+    {
+     "id": "C30C3CD3-982F-5B91-BA51-9E735580B220",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "My parents are abroad, so we might have to do that. Can we see the flat?"
+    },
+    {
+     "id": "96585786-4F8E-5021-83BF-5AA1798805E9",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Of course. I've got viewings on Wednesday afternoon. Could you do three o'clock?"
+    },
+    {
+     "id": "C6C165F7-B7DC-5F29-83C5-213E99495A74",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Wednesday's difficult, I've got a class. Is Thursday possible?"
+    },
+    {
+     "id": "6036218E-82E8-521A-B070-C9BB445BC304",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Thursday at eleven? I'm meeting another tenant nearby, so that works for me."
+    },
+    {
+     "id": "B6190314-4EAA-58CD-9682-63336D8053A3",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Eleven on Thursday is perfect."
+    },
+    {
+     "id": "617CB7C9-28AB-5E95-B8FF-CCB12C62DBBC",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Great. Please bring some photo identification, a passport is best, and if you can, a letter from the university confirming your place. It speeds things up if you decide to take it."
+    },
+    {
+     "id": "96D5B2D7-C195-5B65-B5F2-2DD11A502DBE",
+     "speaker": "Student",
+     "accent": "en-GB",
+     "text": "Okay. Passport and university letter. Thanks so much, Mia."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam04-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Name: Tomás __________",
+     "explanation": "He spells his surname R-U-I-Z.",
+     "evidenceQuote": "It's Tomás Ruiz. R-U-I-Z.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Ruiz"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Location of flat: __________ floor",
+     "explanation": "The flat is on the second floor; there is no lift.",
+     "evidenceQuote": "It's on the second floor of a converted Victorian house",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "second",
+      "2nd"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Rent: £__________ per month for the whole flat",
+     "explanation": "The rent rose from £850 to £920 after the new kitchen.",
+     "evidenceQuote": "so it's now nine hundred and twenty a month",
+     "skillTag": "distractor_correction",
+     "distractorNote": "£850 was the advertised price; £460 is the amount each.",
+     "options": [],
+     "acceptedAnswers": [
+      "920",
+      "nine hundred and twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Bills included: water and __________",
+     "explanation": "Water and internet are included; gas and electricity are not.",
+     "evidenceQuote": "Internet's included too",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "internet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Furniture they need to buy: __________",
+     "explanation": "Beds, wardrobes, a sofa and a table are provided, but no desks.",
+     "evidenceQuote": "there are no desks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "desks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Bikes can be kept in the __________ in the garden",
+     "explanation": "There is no garage, but a shared shed.",
+     "evidenceQuote": "there's a shed in the back garden that tenants share",
+     "skillTag": "note_completion",
+     "distractorNote": "There is no garage.",
+     "options": [],
+     "acceptedAnswers": [
+      "shed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Deposit: equal to __________ weeks' rent",
+     "explanation": "The deposit is five weeks of rent.",
+     "evidenceQuote": "There's a deposit equal to five weeks' rent",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Without a UK guarantor: pay __________ months' rent in advance",
+     "explanation": "Six months in advance replaces a guarantor.",
+     "evidenceQuote": "the landlord will accept six months' rent paid in advance instead",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Viewing: Thursday at __________ a.m.",
+     "explanation": "Wednesday at 3 was impossible; they agree Thursday at 11.",
+     "evidenceQuote": "Thursday at eleven?",
+     "skillTag": "distractor_correction",
+     "distractorNote": "Wednesday at three is offered first.",
+     "options": [],
+     "acceptedAnswers": [
+      "11",
+      "eleven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Bring: passport and a letter from the __________",
+     "explanation": "He should bring a letter from the university.",
+     "evidenceQuote": "a letter from the university confirming your place",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "university"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "tenancy",
+    "landlord",
+    "utility bills",
+    "furnished",
+    "viewing"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    },
+    {
+     "from": 7,
+     "to": 10,
+     "instruction": "Questions 7–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam04-lp2",
+   "partNumber": 2,
+   "title": "A new city bike-sharing scheme",
+   "contextDescription": "A local radio presenter interviews a transport officer about a bike-sharing scheme.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "EBCAD33C-CC21-57F6-90DA-C877AC66C725",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And now on Morning City, we're talking about the new bike-sharing scheme that starts next month. With me is Rachel Lim from the city council's transport department. Rachel, welcome."
+    },
+    {
+     "id": "7C63F37B-DE48-5CDE-82CC-0FF90B0C13E5",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "Thanks for having me."
+    },
+    {
+     "id": "EC7BB80D-E979-5D7B-AF51-CE53407CA678",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "So, for listeners who haven't heard about it, what exactly is the scheme?"
+    },
+    {
+     "id": "EC46ECA5-A897-57FE-B40C-BBE29447819B",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "Well, from the first of May, people will be able to hire a bicycle from any of our docking stations around the city, ride it wherever they want to go, and leave it at another station. It's designed mainly for short journeys, the kind of trip that's a bit too far to walk but where taking the car is a waste of time and fuel."
+    },
+    {
+     "id": "90408BAC-91F1-5F03-A570-96448516A815",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "How many bikes are we talking about?"
+    },
+    {
+     "id": "E453E64F-FAC1-5B61-A8ED-FD739F0B59FC",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "We're starting with six hundred bikes at forty stations. A third of them are electric, which should help people who are worried about the hills on the north side of the city. If the first year goes well, we'd like to double the number of stations."
+    },
+    {
+     "id": "3F34EA43-0842-5EE4-A93C-6D26764A49E1",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Why start with this number? Some people have said it's rather small for a city of our size."
+    },
+    {
+     "id": "CFE2AD7E-BD66-5240-9E06-A993CED8ABAF",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "It's deliberately what we call a pilot scheme. We'd rather start with fewer stations in the right places and learn from how people use them than spread the bikes too thinly. Other cities have found that if a station is often empty when people need a bike, they quickly give up on the scheme altogether. The operator will also move bikes around in vans during the day to stop the busiest stations running out."
+    },
+    {
+     "id": "664CB503-A6F4-5571-A0BC-7393583D1A03",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And how do people pay?"
+    },
+    {
+     "id": "62512116-CC6B-5F96-B5E8-731075B65C98",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "Everything is done through a phone app. You can pay per ride, which costs one pound to unlock the bike and then ten pence a minute, or you can buy an annual membership for sixty pounds, which gives you unlimited rides of up to forty-five minutes. Electric bikes cost a little more on both options. For people without a smartphone, we'll also have a card, available from the main library."
+    },
+    {
+     "id": "A745C235-BA3C-5AEA-8CFF-3D7F6C122C67",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Now, a lot of cities have tried schemes like this, and some have had problems. Bikes left everywhere, blocking pavements..."
+    },
+    {
+     "id": "0E146E7C-784A-5E71-8996-6FD5F2575AE4",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "Yes, that's mostly with what are called dockless schemes, where you can leave the bike anywhere. We deliberately chose a system with fixed stations. You have to return the bike to a dock, otherwise the app keeps charging you. That should keep the streets tidy."
+    },
+    {
+     "id": "043228B2-213D-58EB-B5F4-2033E0448619",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Where will the stations be?"
+    },
+    {
+     "id": "D0598442-99C5-5190-A102-7C14BB7886DC",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "We looked at where people actually travel. So there are stations at both railway stations, at the hospital, at the university campus, in the main shopping streets and in several residential areas. The busiest, we expect, will be the one outside Central Station."
+    },
+    {
+     "id": "8A9F3F73-F836-58C9-A59F-5943A3B58B87",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "What about safety? Some people say our roads just aren't safe for cyclists."
+    },
+    {
+     "id": "89765B14-9693-5605-A740-6E90E0E057F8",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "That's a fair point, and it's the thing people raised most often in our public consultation. Alongside the scheme, we're building eight kilometres of new protected cycle lanes, separated from traffic by a kerb. The first section, along the riverside, opens at the same time as the scheme. We also recommend helmets, although they're not compulsory, and every bike has lights that switch on automatically."
+    },
+    {
+     "id": "12303FD4-C01A-5EDF-92EC-BF1F4E14F49A",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Who's paying for all this?"
+    },
+    {
+     "id": "D435CED7-988A-5855-BFD6-748C7F62B5D3",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "The bikes and stations are provided by a private operator, which collects the fees. The council's main contribution is the cycle lanes, which are funded by a national government grant, so there's no increase in local taxes."
+    },
+    {
+     "id": "49897BF1-58AB-5F27-9517-678915BFF4D5",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And finally, Rachel, what would count as success?"
+    },
+    {
+     "id": "DEC987EE-DD34-57E3-B8CA-B62AE0A1D506",
+     "speaker": "Rachel",
+     "accent": "en-GB",
+     "text": "Our target for the first year is a million rides. But really, what we'd like to see is fewer short car journeys in the city centre. We'll be measuring traffic levels before and after, and we'll publish the results."
+    },
+    {
+     "id": "527DFC73-D232-50FF-8454-2B77508206CF",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Rachel Lim, thank you very much."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam04-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "The scheme is intended mainly for",
+     "explanation": "Rachel says it is designed for short journeys too far to walk.",
+     "evidenceQuote": "It's designed mainly for short journeys",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. tourists visiting the city.",
+      "B. short journeys around the city.",
+      "C. people commuting from outside the city."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. short journeys around the city.",
+      "short journeys around the city."
+     ]
+    },
+    {
+     "id": "exam04-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why are some of the bikes electric?",
+     "explanation": "Electric bikes help with the hills in the north.",
+     "evidenceQuote": "which should help people who are worried about the hills on the north side of the city",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are cheaper to maintain.",
+      "B. They are faster in traffic.",
+      "C. Parts of the city are hilly."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Parts of the city are hilly.",
+      "Parts of the city are hilly."
+     ]
+    },
+    {
+     "id": "exam04-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "An annual membership allows users to",
+     "explanation": "Membership gives unlimited rides of up to 45 minutes.",
+     "evidenceQuote": "gives you unlimited rides of up to forty-five minutes",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Electric bikes cost a little more on both options.",
+     "options": [
+      "A. take as many rides as they like of up to 45 minutes.",
+      "B. use electric bikes at no extra cost.",
+      "C. ride for an unlimited time."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. take as many rides as they like of up to 45 minutes.",
+      "take as many rides as they like of up to 45 minutes."
+     ]
+    },
+    {
+     "id": "exam04-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "People without a smartphone can",
+     "explanation": "A card is available from the main library.",
+     "evidenceQuote": "we'll also have a card, available from the main library",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pay with cash at stations.",
+      "B. get a card from the library.",
+      "C. register at the council offices."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. get a card from the library.",
+      "get a card from the library."
+     ]
+    },
+    {
+     "id": "exam04-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "The council chose fixed docking stations in order to",
+     "explanation": "Docks prevent bikes being left everywhere.",
+     "evidenceQuote": "That should keep the streets tidy",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. reduce theft.",
+      "B. lower the cost of the scheme.",
+      "C. stop bikes from blocking streets."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. stop bikes from blocking streets.",
+      "stop bikes from blocking streets."
+     ]
+    },
+    {
+     "id": "exam04-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "The cycle lanes are being paid for by",
+     "explanation": "A national government grant funds the lanes.",
+     "evidenceQuote": "which are funded by a national government grant",
+     "skillTag": "multiple_choice",
+     "distractorNote": "The operator pays for bikes and stations, not lanes; local taxes do not rise.",
+     "options": [
+      "A. the national government.",
+      "B. the private operator.",
+      "C. local taxes."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the national government.",
+      "the national government."
+     ]
+    },
+    {
+     "id": "exam04-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "The scheme will start with __________ docking stations.",
+     "explanation": "There are 40 stations and 600 bikes.",
+     "evidenceQuote": "six hundred bikes at forty stations",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "40",
+      "forty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "The busiest station is expected to be outside Central __________.",
+     "explanation": "Central Station is expected to be busiest.",
+     "evidenceQuote": "The busiest, we expect, will be the one outside Central Station.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Station"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "In the public consultation, people were most concerned about __________.",
+     "explanation": "Safety was raised most often.",
+     "evidenceQuote": "What about safety? Some people say our roads just aren't safe for cyclists.",
+     "skillTag": "inference",
+     "options": [],
+     "acceptedAnswers": [
+      "safety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "The target for the first year is one million __________.",
+     "explanation": "The first-year target is a million rides.",
+     "evidenceQuote": "Our target for the first year is a million rides.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rides"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "docking station",
+    "membership",
+    "e-bike",
+    "cycle lane",
+    "pilot scheme"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 16,
+     "instruction": "Questions 11–16. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "instruction": "Questions 17–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam04-lp3",
+   "partNumber": 3,
+   "title": "Analysing a commuting survey",
+   "contextDescription": "Two geography students, Kofi and Emma, discuss the results of a survey they carried out on commuting.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E4934AC2-901D-5AD5-A5B0-92E2C9BB643C",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Right, Kofi, I've put all the questionnaire results into the spreadsheet. Shall we go through them before we start writing?"
+    },
+    {
+     "id": "B16A362E-2B90-5A01-9F92-C799105A80FA",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Yes, please. How many people did we get in the end?"
+    },
+    {
+     "id": "A96AF229-8048-554A-A99F-ADDD47DEE391",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Two hundred and thirty-four. Fewer than we'd hoped, but more than enough for the assignment."
+    },
+    {
+     "id": "B88160CD-0A14-5214-B12A-7FE3C436D045",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Okay. And what did we find on journey times? I remember a lot of people complaining when we were handing out the forms."
+    },
+    {
+     "id": "3EBD2CFC-910E-59E3-A3C0-B2F66EAAAB23",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "The average one-way journey was thirty-eight minutes. But that hides a big difference. People who drove took about thirty minutes on average, while bus users took nearly fifty."
+    },
+    {
+     "id": "7920EAFF-FCD4-5AAB-A262-46514E0195C5",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "That's not surprising. The buses go round every housing estate. What about satisfaction? We asked people to rate their commute from one to ten."
+    },
+    {
+     "id": "F4BBC76D-4CAC-5355-B8D5-9995943CAAD3",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "This is the interesting bit. You'd expect drivers to be happiest, since they're quickest. But actually, the cyclists and walkers were the most satisfied, even though some of them had journeys of forty minutes or more."
+    },
+    {
+     "id": "58FFA50A-8BEA-5738-9BB3-9E89EFB4A57D",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "That fits with what I read in that study from Canada. The researchers said that active commuting makes people feel more relaxed when they arrive at work. Drivers spend their whole journey worrying about traffic."
+    },
+    {
+     "id": "EC52A34F-5307-5C82-9DAF-D495F1E0B005",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "And bus users were the least satisfied of all. In the comments, the main complaint wasn't the journey time but the reliability. People said they never knew when the bus would actually come."
+    },
+    {
+     "id": "576C71D4-997E-50BE-AC3F-295439A336B0",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Did the train users say anything similar?"
+    },
+    {
+     "id": "1F265E59-7E68-5B34-8DBB-C4D4EB6C15CF",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Not really. There weren't many of them, only about twenty, and they were mostly positive, apart from the price of tickets. A few mentioned that trains were crowded at peak times, but they still said they'd rather take the train than drive into the centre and pay for parking."
+    },
+    {
+     "id": "4E5C2BF9-A667-5211-B7D1-261EAE01F4E2",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Twenty is too few to say much, though. We should point that out rather than make claims about train users in general."
+    },
+    {
+     "id": "7C1B20C3-821A-5CDC-9813-B21801997FEF",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "We should definitely include some of those comments. They make the numbers more real. Now, what about our question on flexible working?"
+    },
+    {
+     "id": "51E64866-E105-5AD9-84CC-D368E8EAFD26",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Forty-one per cent said their employer let them work from home at least one day a week. And most of those said they'd moved further from their workplace in the last five years."
+    },
+    {
+     "id": "8C34C0ED-4F7B-5E8B-8DE3-C426C849EFA2",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "So working from home might actually be making commutes longer on the days people do go in. That's a nice point for our discussion."
+    },
+    {
+     "id": "69FF10F0-E6F6-5396-AF21-AEDCB47C19A4",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "I thought so too. Though we can't prove that one causes the other from a survey like ours."
+    },
+    {
+     "id": "74692C40-8D55-5055-838E-7492C84457CD",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "True. We'll need to be careful how we word it. Okay, so what are the weaknesses we should mention?"
+    },
+    {
+     "id": "4612248E-E96F-52C9-A4E9-60957340AEA4",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "The biggest one, I think, is where we collected the data. We stood outside the train station and the main shopping centre, so we probably got too many people who use public transport, and very few people who drive straight to an out-of-town business park."
+    },
+    {
+     "id": "D49D3BC7-E71E-58AD-9941-898E2ADFF713",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Yes. And the timing. We only did it on weekday mornings, so shift workers were missed. Anyone who starts work at six wouldn't have been there."
+    },
+    {
+     "id": "531EAC08-23C0-5649-A967-E9341CF3FECA",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Good point. I hadn't thought of that. Also, some people filled in the form very quickly. A few gave the same answer to every question, so I removed those."
+    },
+    {
+     "id": "EFCF92F5-73F1-5DA7-B3A3-75D59B10DE5F",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "How many did you take out?"
+    },
+    {
+     "id": "1A937186-CD98-501E-84B6-D818F4F995A0",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Eleven. They're not included in the two hundred and thirty-four."
+    },
+    {
+     "id": "B9118F6E-204D-53AB-A6DA-4BB55467D74B",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Okay, we need to explain that in the method section. Right, how shall we divide up the writing?"
+    },
+    {
+     "id": "1646A0D4-C39C-5A7E-9768-3605879F709C",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Why don't you do the literature review, since you've read the Canadian study and the others, and I'll do the results section, because I've been working with the spreadsheet."
+    },
+    {
+     "id": "C0B2B955-606C-59BC-B222-EF4E12726833",
+     "speaker": "Kofi",
+     "accent": "en-US",
+     "text": "Fine. And let's both do the conclusion together. Can we meet again on Monday to put it all together?"
+    },
+    {
+     "id": "D669A2D9-2C71-5529-BF6C-75B3004F0542",
+     "speaker": "Emma",
+     "accent": "en-GB",
+     "text": "Monday's good. In the library, at two?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam04-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How many completed questionnaires were used in the analysis?",
+     "explanation": "There were 234 usable questionnaires; 11 others were removed and are not included.",
+     "evidenceQuote": "Two hundred and thirty-four",
+     "skillTag": "numbers",
+     "distractorNote": "Eleven forms were removed and are not part of the 234.",
+     "options": [
+      "A. 223",
+      "B. 234",
+      "C. 245"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. 234",
+      "234"
+     ]
+    },
+    {
+     "id": "exam04-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Which group took longest to travel to work?",
+     "explanation": "Bus users took nearly fifty minutes on average.",
+     "evidenceQuote": "while bus users took nearly fifty",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. drivers",
+      "B. cyclists",
+      "C. bus users"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. bus users",
+      "bus users"
+     ]
+    },
+    {
+     "id": "exam04-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Which group was most satisfied with their journey?",
+     "explanation": "Cyclists and walkers were most satisfied despite longer journeys.",
+     "evidenceQuote": "the cyclists and walkers were the most satisfied",
+     "skillTag": "multiple_choice",
+     "distractorNote": "You might expect drivers, since they were quickest.",
+     "options": [
+      "A. people who walked or cycled",
+      "B. people who drove",
+      "C. people who travelled by train"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. people who walked or cycled",
+      "people who walked or cycled"
+     ]
+    },
+    {
+     "id": "exam04-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Bus users mainly complained about",
+     "explanation": "Reliability, not time, was the main complaint.",
+     "evidenceQuote": "the main complaint wasn't the journey time but the reliability",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the length of the journey.",
+      "B. not knowing when buses would arrive.",
+      "C. the cost of tickets."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. not knowing when buses would arrive.",
+      "not knowing when buses would arrive."
+     ]
+    },
+    {
+     "id": "exam04-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What do the students say about the link between working from home and moving house?",
+     "explanation": "They cannot prove a causal link from survey data.",
+     "evidenceQuote": "we can't prove that one causes the other from a survey like ours",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It explains most of the longer journeys.",
+      "B. It applies only to drivers.",
+      "C. Their survey cannot show that one causes the other."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their survey cannot show that one causes the other.",
+      "Their survey cannot show that one causes the other."
+     ]
+    },
+    {
+     "id": "exam04-L26",
+     "number": 26,
+     "format": "Flowchart Completion",
+     "prompt": "Weakness 1: data collected at the train station and shopping centre → too many users of public __________",
+     "explanation": "The locations over-represented public transport users.",
+     "evidenceQuote": "we probably got too many people who use public transport",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "transport"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L27",
+     "number": 27,
+     "format": "Flowchart Completion",
+     "prompt": "Drivers going to an out-of-town business __________ were rarely included",
+     "explanation": "Business park drivers were missed.",
+     "evidenceQuote": "very few people who drive straight to an out-of-town business park",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "park"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L28",
+     "number": 28,
+     "format": "Flowchart Completion",
+     "prompt": "Weakness 2: survey done only on weekday mornings → __________ workers were missed",
+     "explanation": "Shift workers starting at six were missed.",
+     "evidenceQuote": "so shift workers were missed",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "shift"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L29",
+     "number": 29,
+     "format": "Flowchart Completion",
+     "prompt": "Forms with the same answer to every question were __________",
+     "explanation": "Emma removed these forms.",
+     "evidenceQuote": "A few gave the same answer to every question, so I removed those.",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "removed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L30",
+     "number": 30,
+     "format": "Flowchart Completion",
+     "prompt": "Kofi will write the __________ review",
+     "explanation": "Kofi does the literature review; Emma the results.",
+     "evidenceQuote": "Why don't you do the literature review",
+     "skillTag": "flowchart",
+     "options": [],
+     "acceptedAnswers": [
+      "literature"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "respondent",
+    "questionnaire",
+    "commute",
+    "flexible working",
+    "margin of error"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the flow chart below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam04-lp4",
+   "partNumber": 4,
+   "title": "The history of public parks",
+   "contextDescription": "A lecture in an urban history course.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "19CBAF2E-B839-5570-B172-25AD7F634CD2",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Today I'd like to talk about the public park, something most of us take completely for granted. But the idea that a city should provide open green space, free for everyone to use, is actually quite recent. For most of history, the large gardens in and around cities belonged to kings, aristocrats or the church, and ordinary people were either kept out or allowed in only on certain days."
+    },
+    {
+     "id": "659A5498-9786-5D8E-A1A5-94203FBB9FAC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The modern public park really begins in the nineteenth century, and the main driving force was not beauty but health. Industrial cities in Britain were growing at an astonishing rate. Manchester's population, for example, increased about six times in the first half of the century. Housing was crowded, the air was full of smoke, and diseases such as cholera spread rapidly. Doctors and reformers believed, partly correctly, that fresh air and open space would reduce disease. Parks were often described at the time as the lungs of the city."
+    },
+    {
+     "id": "F8B79B7B-B253-5511-B819-65C7312981AC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "There was also a moral argument. Many reformers worried that working people spent their only free day, Sunday, in pubs. A park, they argued, would offer a healthier and more respectable alternative. So from the start, parks came with a lot of rules: no gambling, no drinking, and in some cases no walking on the grass."
+    },
+    {
+     "id": "6D0EC5DF-0CFD-5312-A4BE-F67FFB051643",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "One of the first parks created specifically for the public was Birkenhead Park, near Liverpool, which opened in 1847. It was designed by Joseph Paxton, who later designed the Crystal Palace. What was unusual about Birkenhead was the way it was paid for. The town bought far more land than it needed for the park itself and then sold plots around the edges for expensive houses. The sale of those plots covered the cost of building the park."
+    },
+    {
+     "id": "D9ACE304-A825-548E-A40B-BD984A0AF952",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Birkenhead had a direct influence across the Atlantic. In 1850, an American farmer and journalist called Frederick Law Olmsted visited it and was very impressed, particularly by the fact that rich and poor used it equally. A few years later, Olmsted and the architect Calvert Vaux won the competition to design Central Park in New York. Central Park was enormous, over three hundred hectares, and although it looks natural, almost everything in it was planned. The lakes were dug by hand, millions of trees were planted, and the roads for carriages were sunk below the level of the paths so that walkers wouldn't see the traffic."
+    },
+    {
+     "id": "0DBBBBB6-077C-58AF-A0B6-A51AE5FE12E9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the twentieth century, the purpose of parks changed. Instead of quiet walking, the emphasis moved to active recreation: sports fields, playgrounds and swimming pools. During the two world wars, many parks in Britain were dug up and turned into allotments where people grew vegetables, because of food shortages."
+    },
+    {
+     "id": "BD62862D-F770-5C60-A047-6531DEE69D15",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Then, from the 1970s, many cities faced budget cuts, and parks were often among the first things to suffer. Park keepers were removed, and some parks became neglected and were seen as unsafe. More recently, however, there's been a revival of interest. Research has linked access to green space with lower stress and better mental health, and cities are now looking at parks as a way to cope with climate change, because trees and grass reduce temperatures and absorb rainwater that would otherwise cause flooding."
+    },
+    {
+     "id": "1AC2B4BC-D6DE-5EAB-BBB4-A587E29E66C7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "One of the most talked-about recent examples is the High Line in New York, which opened in 2009 on an old elevated railway line. Instead of demolishing the structure, the city turned it into a long, narrow park above the streets. It's been hugely popular, but it's also been criticised, because it pushed up property prices in the surrounding area, so that some long-term residents could no longer afford to live there. That tension between parks as a public good and parks as a driver of rising prices is something we'll come back to next week."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam04-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Before the 1800s, large city gardens mostly belonged to kings, aristocrats or the __________",
+     "explanation": "The gardens belonged to kings, aristocrats or the church.",
+     "evidenceQuote": "belonged to kings, aristocrats or the church",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "church"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Main reason for early public parks: __________",
+     "explanation": "Health, not beauty, drove the first parks.",
+     "evidenceQuote": "the main driving force was not beauty but health",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "health"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Parks were called the __________ of the city",
+     "explanation": "They were described as the lungs of the city.",
+     "evidenceQuote": "Parks were often described at the time as the lungs of the city.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lungs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Reformers hoped parks would keep workers out of __________ on Sundays",
+     "explanation": "Parks were seen as an alternative to pubs.",
+     "evidenceQuote": "working people spent their only free day, Sunday, in pubs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pubs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Birkenhead Park was paid for by selling __________ for houses",
+     "explanation": "Selling plots around the edge funded the park.",
+     "evidenceQuote": "sold plots around the edges for expensive houses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Olmsted was impressed that people of all classes used Birkenhead __________",
+     "explanation": "Rich and poor used it equally.",
+     "evidenceQuote": "rich and poor used it equally",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "equally"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "In Central Park, the lakes were dug by __________",
+     "explanation": "The lakes were dug by hand.",
+     "evidenceQuote": "The lakes were dug by hand",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hand"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Wartime: parks turned into allotments because of food __________",
+     "explanation": "Food shortages led to allotments.",
+     "evidenceQuote": "because of food shortages",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shortages"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Today: trees and grass help reduce temperatures and prevent __________",
+     "explanation": "Green space absorbs rainwater and prevents flooding.",
+     "evidenceQuote": "absorb rainwater that would otherwise cause flooding",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flooding"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Criticism of the High Line: it raised __________ prices nearby",
+     "explanation": "It pushed up property prices.",
+     "evidenceQuote": "it pushed up property prices in the surrounding area",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "property"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "public health",
+    "philanthropist",
+    "promenade",
+    "allotment",
+    "green space"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam04-rp1",
+   "passageNumber": 1,
+   "title": "Going underground",
+   "discipline": "History of Technology",
+   "paragraphs": [
+    "In the middle of the nineteenth century, London was the largest city in the world, and its streets were close to gridlock. Every morning, hundreds of thousands of workers poured into the City, the financial district, on foot, by horse-drawn omnibus or in private carriages. The mainline railway companies, which had built their terminals around the edge of the centre, were not permitted to bring their lines further in, so passengers arriving by train simply added to the crowds trying to cross the city by road. One survey in the 1850s counted more than seven hundred thousand people entering the City each day, and journeys of a few kilometres could take well over an hour.",
+    "The idea of solving this problem by putting a railway beneath the streets was promoted above all by Charles Pearson, a lawyer who worked for the City of London. Pearson argued for years that an underground line linking the mainline stations would relieve congestion and allow working people to live in healthier suburbs and travel to their jobs. Many people regarded the plan as absurd. Critics warned that tunnels would collapse, that passengers would be poisoned by smoke, and that the noise of trains would disturb the dead in the cemeteries the line would pass close to.",
+    "Construction of the Metropolitan Railway began in 1860. Rather than boring deep tunnels, the engineers used a method known as cut and cover. A deep trench was dug along the line of an existing road, the track was laid at the bottom, and the trench was then roofed over with a brick arch and the road rebuilt on top. The method was relatively cheap and avoided the need to buy expensive buildings, but it caused enormous disruption to traffic and businesses while the work was going on, and it meant that the line could only follow the routes of streets wide enough to be dug up.",
+    "The line opened on 10 January 1863, running about six kilometres between Paddington and Farringdon. It was an immediate success: almost forty thousand passengers used it on the first day, and in its first year it carried nine and a half million people. The trains were pulled by steam locomotives, and although they were designed to reduce smoke in the tunnels, the stations were notoriously dirty and the air unpleasant. Some passengers nevertheless claimed that the sulphurous atmosphere was good for their health. Charles Pearson did not live to see the result; he had died a few months before the opening.",
+    "Over the following decades, further lines were built, but cut and cover had clear limits. The next great advance came with the tunnelling shield, a large iron cylinder that protected workers as they dug through the London clay, allowing tunnels to be bored deep below the surface without disturbing the streets above. These deep tubes, which gave the system its popular nickname, could not have used steam engines, because there was no way to remove the smoke. The first deep line, the City and South London Railway, opened in 1890 and used electric trains from the start.",
+    "Electricity transformed the system. By the early years of the twentieth century, the older lines had also been converted to electric power, and a series of new tube lines was built, many of them financed by the American businessman Charles Yerkes. Investors, however, often lost money, because fares were kept low and the lines were expensive to build. In 1933, the various private companies were brought together into a single public body, the London Passenger Transport Board, which was responsible for the Underground as well as buses and trams.",
+    "The London Underground served as a model for cities around the world. Budapest opened a line in 1896, followed by Paris in 1900, Berlin in 1902 and New York in 1904. Today more than one hundred and eighty cities have metro systems, and the largest of them, in cities such as Shanghai and Beijing, now carry far more passengers than London. Yet many of the basic features of underground railways, from the shape of tunnels to the use of a simplified diagrammatic map, can still be traced back to the system that began beneath the streets of Victorian London."
+   ],
+   "questions": [
+    {
+     "id": "exam04-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Mainline railway companies were not allowed to build lines into the centre of London.",
+     "explanation": "Paragraph A states the companies were not permitted to bring lines further in.",
+     "evidenceQuote": "were not permitted to bring their lines further in",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam04-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Charles Pearson was an engineer.",
+     "explanation": "Pearson was a lawyer, not an engineer.",
+     "evidenceQuote": "a lawyer who worked for the City of London",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam04-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The cut and cover method required the purchase of many buildings.",
+     "explanation": "The method avoided buying buildings.",
+     "evidenceQuote": "avoided the need to buy expensive buildings",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam04-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "More passengers used the Metropolitan Railway in its first year than its builders had predicted.",
+     "explanation": "The number is given, but there is no mention of predictions.",
+     "evidenceQuote": "in its first year it carried nine and a half million people",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam04-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Charles Pearson attended the opening of the line.",
+     "explanation": "Pearson died before the opening.",
+     "evidenceQuote": "he had died a few months before the opening",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam04-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The first deep tube line used electric trains.",
+     "explanation": "The City and South London Railway used electric trains from 1890.",
+     "evidenceQuote": "used electric trains from the start",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam04-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Investors in the early tube lines usually made large profits.",
+     "explanation": "Investors often lost money because fares were low.",
+     "evidenceQuote": "Investors, however, often lost money",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam04-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "Critics of the plan feared that tunnels might __________ and that smoke would poison passengers.",
+     "explanation": "Critics feared collapse and smoke.",
+     "evidenceQuote": "Critics warned that tunnels would collapse",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "collapse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "In cut and cover, a trench was dug and then roofed over with a brick __________.",
+     "explanation": "The trench was covered with a brick arch.",
+     "evidenceQuote": "roofed over with a brick arch",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arch"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "The line could only follow __________ that were wide enough to dig up.",
+     "explanation": "It followed wide streets.",
+     "evidenceQuote": "could only follow the routes of streets wide enough to be dug up",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "streets"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "Deep tunnels were made possible by the tunnelling __________.",
+     "explanation": "The tunnelling shield protected diggers.",
+     "evidenceQuote": "The next great advance came with the tunnelling shield",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shield"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "Steam could not be used in deep tubes because the __________ could not be removed.",
+     "explanation": "Smoke could not be removed.",
+     "evidenceQuote": "there was no way to remove the smoke",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "smoke"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "In 1933, the private companies were combined into a single public __________.",
+     "explanation": "They became a single public body.",
+     "evidenceQuote": "brought together into a single public body",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "body"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 704,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam04-rp2",
+   "passageNumber": 2,
+   "title": "Forests in the sky",
+   "discipline": "Architecture & Urban Ecology",
+   "paragraphs": [
+    "When the two residential towers known as the Bosco Verticale, or Vertical Forest, were completed in Milan in 2014, they attracted attention from around the world. The buildings, designed by the architect Stefano Boeri, are covered with around nine hundred trees and more than twenty thousand smaller plants, growing on large balconies that project from every floor. Boeri has said that the total planting is equivalent to about two hectares of forest, squeezed onto a footprint of less than a quarter of a hectare. Since then, similar projects have been built or planned in cities from Sydney to Singapore, and the image of a tower draped in greenery has become a familiar symbol of the sustainable city, appearing in architectural competitions and property advertisements alike.",
+    "Supporters of such buildings point to a range of benefits. Plants absorb carbon dioxide and some air pollutants, and they release moisture through their leaves, which cools the air around them. On a hot summer day, a planted facade can be several degrees cooler than bare concrete or glass, reducing the need for air conditioning in the apartments behind it. Trees and shrubs also provide shelter from wind and noise, and they create habitats for birds and insects in places where nature is otherwise scarce. Surveys of residents suggest that many people simply enjoy living surrounded by plants, and there is growing evidence that contact with greenery reduces stress.",
+    "Building a forest in the sky, however, is far from simple. Trees are heavy, especially when their soil is wet, and balconies must be designed to carry much greater loads than usual, which requires extra concrete and steel. The Milan towers needed specially reinforced structures, and engineers tested the trees in a wind tunnel to make sure that they would not be blown over in storms. Each tree is attached to the building with steel cables, and its roots grow in containers rather than in open ground, which limits how large it can become.",
+    "Maintenance is another major issue. The plants must be watered, fed and pruned, and dead trees must be replaced. In Milan, this work is carried out by specialist gardeners who abseil down the outside of the buildings several times a year, and the costs are included in the residents' service charges. An automatic irrigation system delivers water to every container, much of it recycled from the buildings themselves. Critics argue that this level of care makes vertical forests an option only for wealthy residents, and indeed apartments in the Milan towers are among the most expensive in the city.",
+    "There are also questions about the environmental balance. The extra concrete and steel needed to support the trees have a substantial carbon footprint, since producing cement is a major source of greenhouse gas emissions. Some researchers have calculated that the trees on a single tower absorb only a small fraction of the carbon released in constructing the reinforced structure, and that it may take many decades, if ever, for the planting to make up the difference. From this perspective, a park at ground level, or trees planted along streets, may deliver far greater benefits for the same cost.",
+    "Defenders of the concept respond that the comparison is unfair, because the purpose of vertical forests is not simply to store carbon. In dense cities, they argue, land at ground level is extremely scarce, and a planted tower adds green space where none would otherwise exist. They also point to newer designs that reduce the structural cost, for example by using lighter timber frames, choosing smaller species of tree or concentrating planting on lower floors. Boeri himself has developed versions of the idea for social housing in the Netherlands, with the aim of showing that vertical greenery need not be a luxury.",
+    "What seems clear is that vertical forests are not a solution on their own. Their greatest contribution may be symbolic: by making greenery highly visible in the skyline, they have encouraged city authorities, developers and the public to think more seriously about integrating nature into urban design. Whether the next generation of buildings will be covered in trees, or simply surrounded by better streets and parks, will depend on careful assessment of costs and benefits rather than on striking images alone."
+   ],
+   "questions": [
+    {
+     "id": "exam04-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B lists the benefits claimed by supporters.",
+     "evidenceQuote": "Supporters of such buildings point to a range of benefits",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Why some people welcome green towers",
+      "Why some people welcome green towers"
+     ]
+    },
+    {
+     "id": "exam04-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains structural engineering challenges.",
+     "evidenceQuote": "Building a forest in the sky, however, is far from simple",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Engineering problems to overcome",
+      "Engineering problems to overcome"
+     ]
+    },
+    {
+     "id": "exam04-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D is about ongoing care and its cost.",
+     "evidenceQuote": "Maintenance is another major issue",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. The continuing work of keeping the plants alive",
+      "The continuing work of keeping the plants alive"
+     ]
+    },
+    {
+     "id": "exam04-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E questions whether the carbon benefit outweighs construction emissions.",
+     "evidenceQuote": "There are also questions about the environmental balance",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Does the carbon calculation add up?",
+      "Does the carbon calculation add up?"
+     ]
+    },
+    {
+     "id": "exam04-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F presents the defenders' reply.",
+     "evidenceQuote": "Defenders of the concept respond that the comparison is unfair",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. A response to the critics",
+      "A response to the critics"
+     ]
+    },
+    {
+     "id": "exam04-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G concludes that the main value is symbolic.",
+     "evidenceQuote": "Their greatest contribution may be symbolic",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. An influence beyond the buildings themselves",
+      "An influence beyond the buildings themselves"
+     ]
+    },
+    {
+     "id": "exam04-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph A, the Milan towers contain",
+     "explanation": "There are about 900 trees and over 20,000 smaller plants.",
+     "evidenceQuote": "covered with around nine hundred trees and more than twenty thousand smaller plants",
+     "skillTag": "detail",
+     "options": [
+      "A. a forest covering two hectares at ground level.",
+      "B. around twenty thousand trees.",
+      "C. hundreds of trees and thousands of other plants.",
+      "D. trees planted only on the roof."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. hundreds of trees and thousands of other plants.",
+      "hundreds of trees and thousands of other plants."
+     ]
+    },
+    {
+     "id": "exam04-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why were the trees tested in a wind tunnel?",
+     "explanation": "To check the trees would not be blown over.",
+     "evidenceQuote": "to make sure that they would not be blown over in storms",
+     "skillTag": "detail",
+     "options": [
+      "A. to choose the most attractive species",
+      "B. to check they would stay in place in strong winds",
+      "C. to measure how much they cooled the air",
+      "D. to test the irrigation system"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to check they would stay in place in strong winds",
+      "to check they would stay in place in strong winds"
+     ]
+    },
+    {
+     "id": "exam04-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What point do critics make in paragraph D?",
+     "explanation": "The maintenance cost means only the wealthy can afford them.",
+     "evidenceQuote": "makes vertical forests an option only for wealthy residents",
+     "skillTag": "main_idea",
+     "options": [
+      "A. Vertical forests are affordable only for the rich.",
+      "B. Gardeners are put at risk by the work.",
+      "C. The irrigation system wastes water.",
+      "D. The trees die too quickly."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Vertical forests are affordable only for the rich.",
+      "Vertical forests are affordable only for the rich."
+     ]
+    },
+    {
+     "id": "exam04-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer's overall view of vertical forests?",
+     "explanation": "The writer sees them as useful but not a complete solution.",
+     "evidenceQuote": "vertical forests are not a solution on their own",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. They should be built in every major city.",
+      "B. They are a waste of money.",
+      "C. They will replace parks in the future.",
+      "D. They are valuable but not a complete answer."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They are valuable but not a complete answer.",
+      "They are valuable but not a complete answer."
+     ]
+    },
+    {
+     "id": "exam04-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The roots of each tree grow in __________ instead of open ground.",
+     "explanation": "Roots grow in containers, limiting tree size.",
+     "evidenceQuote": "its roots grow in containers rather than in open ground",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "containers"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam04-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Producing __________ releases large amounts of greenhouse gases.",
+     "explanation": "Cement production is a major emissions source.",
+     "evidenceQuote": "since producing cement is a major source of greenhouse gas emissions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cement"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam04-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Newer designs may use lighter __________ to reduce structural costs.",
+     "explanation": "Lighter timber frames reduce cost.",
+     "evidenceQuote": "by using lighter timber frames",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "timber frames",
+      "timber"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 708,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below.",
+     "options": [
+      "i. The continuing work of keeping the plants alive",
+      "ii. An influence beyond the buildings themselves",
+      "iii. Why some people welcome green towers",
+      "iv. A response to the critics",
+      "v. How residents choose their apartments",
+      "vi. Engineering problems to overcome",
+      "vii. The history of roof gardens",
+      "viii. Does the carbon calculation add up?"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 23,
+     "instruction": "Questions 20–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam04-rp3",
+   "passageNumber": 3,
+   "title": "The wisdom and madness of crowds",
+   "discipline": "Social Psychology",
+   "paragraphs": [
+    "For much of the twentieth century, the dominant view of crowds was deeply pessimistic. Its most influential source was a book published in 1895 by the French writer Gustave Le Bon, who argued that individuals who join a crowd lose their capacity for reason. Submerged in the mass, he claimed, a person descends several rungs on the ladder of civilisation, becoming impulsive, suggestible and potentially violent. Le Bon's ideas were enormously popular, and they shaped how police forces, politicians and the public thought about crowds for decades. Even today, news reports routinely describe crowds as 'stampeding' or 'panicking' in emergencies, as though people in large groups behave like frightened animals.",
+    "Over the past forty years, however, researchers have assembled a very different picture. A key figure in this work is the British psychologist John Drury, who has studied how people actually behaved in emergencies ranging from fires and shipwrecks to terrorist attacks. His conclusion, based on interviews with survivors and analysis of video footage, is that mass panic is extremely rare. In most disasters, people do not trample one another in a selfish rush to escape. Instead, they tend to help strangers, wait their turn and cooperate, often at considerable risk to themselves. Where deaths do occur in crowds, they are usually caused by the physical pressure of too many bodies in a confined space, not by irrational behaviour.",
+    "To explain this, Drury and his colleagues draw on what is known as social identity theory. According to this approach, a crowd is not simply a collection of individuals who happen to be in the same place. When people face a shared threat, they often begin to see themselves as part of a common group, a 'we' rather than a collection of separate 'I's. This shared identity encourages people to trust one another and to care about what happens to others in the group. In other words, far from losing their identity in a crowd, people often gain a new one, and it is this that guides their behaviour.",
+    "These ideas have important practical consequences. If authorities assume that crowds are likely to panic, they may withhold information in an emergency, fearing that the truth will cause chaos. Research suggests the opposite approach is more effective: people respond better when they are given clear, honest information about what is happening and what they should do. Similarly, if police treat an entire crowd as a threat because of the actions of a small minority, they risk creating the very conflict they wish to avoid. Studies of football crowds and protests have found that heavy-handed policing can cause previously peaceful participants to unite against the police, whereas approaches that distinguish between troublemakers and the majority tend to reduce violence.",
+    "A separate line of research has focused on a more surprising idea: that crowds can sometimes be wiser than individuals. The classic illustration dates from 1906, when the scientist Francis Galton attended a country fair where visitors were invited to guess the weight of an ox. Galton, who had expected ordinary people to perform poorly, collected around eight hundred guesses and found that their average was within one per cent of the true weight, closer than almost any individual guess. Later research has repeated this effect for many kinds of estimate, from the number of sweets in a jar to the outcome of elections.",
+    "The wisdom of crowds, however, depends on certain conditions. The most important is independence: each person must make their own judgement without being influenced by others. When people can see each other's answers, or are exposed to the same misleading information, their errors stop cancelling out and instead reinforce one another. In one experiment, participants who were shown the estimates of others became more confident while their collective accuracy actually fell. This helps to explain why groups that discuss a problem at length can sometimes reach worse decisions than the same people would have reached alone, a phenomenon sometimes called groupthink.",
+    "I would suggest that the two bodies of research share an important lesson. Neither the old idea of the mindless mob nor a naive faith in collective wisdom captures how groups really work. Crowds can be cooperative or hostile, accurate or deeply mistaken, depending on how their members see themselves and how they are treated. Understanding those conditions is not merely of academic interest; it is essential for anyone who has to manage large gatherings or make decisions on behalf of others."
+   ],
+   "questions": [
+    {
+     "id": "exam04-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Le Bon's ideas still influence the way the media describe crowds.",
+     "explanation": "The writer links current news language to Le Bon's view.",
+     "evidenceQuote": "news reports routinely describe crowds as 'stampeding' or 'panicking'",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam04-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most deaths in crowd disasters result from people behaving selfishly.",
+     "explanation": "Deaths are usually caused by physical pressure, not selfish behaviour.",
+     "evidenceQuote": "they are usually caused by the physical pressure of too many bodies in a confined space, not by irrational behaviour",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam04-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Drury's research methods have been widely criticised.",
+     "explanation": "His methods are described, but no criticism is mentioned.",
+     "evidenceQuote": "based on interviews with survivors and analysis of video footage",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam04-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Authorities should be honest with crowds during emergencies.",
+     "explanation": "The writer supports giving clear, honest information.",
+     "evidenceQuote": "people respond better when they are given clear, honest information",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam04-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Galton was surprised by the accuracy of the crowd's estimate.",
+     "explanation": "Galton expected a poor result, so the accuracy surprised him.",
+     "evidenceQuote": "who had expected ordinary people to perform poorly",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam04-R32",
+     "number": 32,
+     "format": "Summary Completion",
+     "prompt": "According to social identity theory, a shared __________ can make people in a crowd see themselves as a group.",
+     "explanation": "A shared threat creates a common identity.",
+     "evidenceQuote": "When people face a shared threat",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "threat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R33",
+     "number": 33,
+     "format": "Summary Completion",
+     "prompt": "This encourages them to __________ one another.",
+     "explanation": "Shared identity encourages trust.",
+     "evidenceQuote": "This shared identity encourages people to trust one another",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trust"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R34",
+     "number": 34,
+     "format": "Summary Completion",
+     "prompt": "Heavy-handed policing can make peaceful people __________ against the police.",
+     "explanation": "Peaceful participants may unite against police.",
+     "evidenceQuote": "can cause previously peaceful participants to unite against the police",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "unite"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R35",
+     "number": 35,
+     "format": "Summary Completion",
+     "prompt": "For a crowd to be wise, its members' judgements must show __________.",
+     "explanation": "Independence is the key condition.",
+     "evidenceQuote": "The most important is independence",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "independence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam04-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about Le Bon in paragraph A?",
+     "explanation": "His ideas were very popular and influential for decades.",
+     "evidenceQuote": "Le Bon's ideas were enormously popular",
+     "skillTag": "detail",
+     "options": [
+      "A. He based his ideas on careful research.",
+      "B. His views were very widely accepted.",
+      "C. He was criticised in his own time.",
+      "D. He studied crowds at football matches."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. His views were very widely accepted.",
+      "His views were very widely accepted."
+     ]
+    },
+    {
+     "id": "exam04-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "According to social identity theory, people in a crowd",
+     "explanation": "People gain a new, shared identity.",
+     "evidenceQuote": "far from losing their identity in a crowd, people often gain a new one",
+     "skillTag": "main_idea",
+     "options": [
+      "A. lose their sense of who they are.",
+      "B. behave like separate individuals.",
+      "C. may develop a new group identity.",
+      "D. become more likely to panic."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. may develop a new group identity.",
+      "may develop a new group identity."
+     ]
+    },
+    {
+     "id": "exam04-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "In Galton's ox experiment, the average guess was",
+     "explanation": "The average was within one per cent of the true weight.",
+     "evidenceQuote": "their average was within one per cent of the true weight",
+     "skillTag": "detail",
+     "options": [
+      "A. more accurate than nearly all individual guesses.",
+      "B. exactly the same as the true weight.",
+      "C. less accurate than the experts' guesses.",
+      "D. about eight hundred kilograms."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. more accurate than nearly all individual guesses.",
+      "more accurate than nearly all individual guesses."
+     ]
+    },
+    {
+     "id": "exam04-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "What happened when participants saw each other's estimates?",
+     "explanation": "Confidence rose but accuracy fell.",
+     "evidenceQuote": "became more confident while their collective accuracy actually fell",
+     "skillTag": "detail",
+     "options": [
+      "A. They became less confident.",
+      "B. Their accuracy improved.",
+      "C. They refused to change their answers.",
+      "D. They became more confident but less accurate."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They became more confident but less accurate.",
+      "They became more confident but less accurate."
+     ]
+    },
+    {
+     "id": "exam04-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer's main conclusion?",
+     "explanation": "Crowd behaviour depends on conditions.",
+     "evidenceQuote": "Crowds can be cooperative or hostile, accurate or deeply mistaken, depending on how their members see themselves and how they are treated",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Crowds are generally wiser than individuals.",
+      "B. How crowds behave depends on the circumstances.",
+      "C. Le Bon was mostly correct.",
+      "D. Large gatherings should be avoided."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. How crowds behave depends on the circumstances.",
+      "How crowds behave depends on the circumstances."
+     ]
+    }
+   ],
+   "estimatedWordCount": 743,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 35,
+     "instruction": "Questions 32–35. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    },
+    {
+     "from": 36,
+     "to": 40,
+     "instruction": "Questions 36–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam04-w1",
+  "title": "Average commuting times in five cities",
+  "visualType": "Table",
+  "instructions": "The table below shows the average time in minutes that people in five cities spent travelling to work by different methods in 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "9DF8B996-D853-5ECA-8EF7-9F15499CB3C8",
+    "series": "Car",
+    "category": "Amsterdam",
+    "value": 24.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "0A9629EA-1532-5445-8916-E8B702D8CCEE",
+    "series": "Public transport",
+    "category": "Amsterdam",
+    "value": 31.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "125C4069-27BD-5944-95F5-9B861776A863",
+    "series": "Bicycle",
+    "category": "Amsterdam",
+    "value": 19.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "ADD52773-A531-560E-8E6F-31658C4FDC8B",
+    "series": "Car",
+    "category": "Bogotá",
+    "value": 52.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "C10609F0-AE77-55E7-838E-7380AB4BFA63",
+    "series": "Public transport",
+    "category": "Bogotá",
+    "value": 68.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "1EC0F6CB-71CA-5433-86D4-DFBC745158A7",
+    "series": "Bicycle",
+    "category": "Bogotá",
+    "value": 35.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "A7D99891-F9CA-5C15-B554-C3D87B83A47B",
+    "series": "Car",
+    "category": "Cairo",
+    "value": 47.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "2F16E708-6201-55A7-B19D-5A8C2F987E6D",
+    "series": "Public transport",
+    "category": "Cairo",
+    "value": 55.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "6798980E-7C06-5507-8246-4F260C513DFB",
+    "series": "Bicycle",
+    "category": "Cairo",
+    "value": 30.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "999FF08B-BF55-5584-B7CF-F2B6AAC45622",
+    "series": "Car",
+    "category": "Seoul",
+    "value": 38.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "4E84EE24-32AD-5B0B-96B2-2BF9BE5CDC45",
+    "series": "Public transport",
+    "category": "Seoul",
+    "value": 42.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "6F0C5BF4-4CE7-5ECE-918D-7FE508A3DFC3",
+    "series": "Bicycle",
+    "category": "Seoul",
+    "value": 26.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "929730DC-C17C-5AEE-9FBC-0BDB08091BAE",
+    "series": "Car",
+    "category": "Toronto",
+    "value": 33.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "C572BD30-53F8-5B61-AE98-08C7C8370A62",
+    "series": "Public transport",
+    "category": "Toronto",
+    "value": 46.0,
+    "unit": "minutes (one way)"
+   },
+   {
+    "id": "6F65CC4D-4094-525A-A866-D525355135AF",
+    "series": "Bicycle",
+    "category": "Toronto",
+    "value": 25.0,
+    "unit": "minutes (one way)"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Public transport was the slowest method in every city; cycling was the fastest.",
+   "Bogotá had the longest commutes for all methods; Amsterdam the shortest."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam04-w2",
+  "title": "Moving to the suburbs",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Cities & Housing",
+  "promptText": "In many countries, families are moving from city centres to suburbs or small towns, where housing is cheaper but journeys to work are longer. Do the advantages of this trend outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam04-spk",
+  "theme": "Homes and neighbourhoods",
+  "part1Questions": [
+   "Do you live in a house or a flat?",
+   "What is your favourite room in your home? Why?",
+   "How long have you lived there?",
+   "What would you change about your home if you could?",
+   "Do you know your neighbours well?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a home you have visited that you particularly liked.",
+   "bulletPoints": [
+    "whose home it was",
+    "where it was",
+    "what it was like",
+    "and explain why you liked it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do many young people find it difficult to buy a home?",
+   "Is it better to rent or buy a home?",
+   "How have homes in your country changed over the last fifty years?",
+   "Should governments build more housing in cities?",
+   "What makes a neighbourhood a good place to bring up children?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical details about the London Underground are simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

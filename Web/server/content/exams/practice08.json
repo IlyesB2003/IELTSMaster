@@ -1,0 +1,2179 @@
+{
+ "id": "practice08",
+ "examNumber": 8,
+ "pool": "practice",
+ "title": "Practice Test 8: Transport, Engineering & Design",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Transport, Engineering & Design",
+ "listeningParts": [
+  {
+   "id": "practice08-lp1",
+   "partNumber": 1,
+   "title": "Hiring a car for a business trip",
+   "contextDescription": "A man phones a car hire company to book a car for a business trip.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "61F3C228-5E60-5421-BB91-6FE466560240",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good morning, Swift Car Hire, Natalie speaking. How can I help?"
+    },
+    {
+     "id": "67B791EA-8000-5B43-8D0E-B1293F16E992",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Hi, I'd like to book a car for a business trip next week, please."
+    },
+    {
+     "id": "9DFAE99D-BC70-52ED-93D2-C558D5F5C7D1",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Certainly. Where would you like to pick the car up?"
+    },
+    {
+     "id": "86523CEB-4CCE-5B0E-95EE-3C72F803A2CA",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "At the airport, if possible. I'm flying in on Monday morning."
+    },
+    {
+     "id": "FFB24F38-3FD1-5EB0-B912-8B44A1381BD5",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "No problem, we have a desk in the arrivals hall of Terminal Two. What time does your flight land?"
+    },
+    {
+     "id": "EA80456F-FB88-5085-81ED-B66C0A2F46C4",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "It's due at nine forty, so if we say ten thirty, that should give me time to get through passport control."
+    },
+    {
+     "id": "569DAAB8-B801-5172-8291-D179A2E1262E",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Ten thirty on Monday the seventeenth. And when will you be returning it?"
+    },
+    {
+     "id": "2B30995D-1420-509D-81C3-495624368404",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "On Friday. But I won't be flying back from the same airport. I'm taking the train home from the city centre, so could I return it there?"
+    },
+    {
+     "id": "AF9E8110-2E32-5514-89D3-9884F3FB391C",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Yes, we have an office near Central Station, on Queen Street. There's a one-way fee of twenty-five pounds for returning it to a different branch, though."
+    },
+    {
+     "id": "91842DB8-50BF-5C59-AEEA-05DA06F768E3",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "That's fine. My company will be paying."
+    },
+    {
+     "id": "02D1A023-F73B-5D7E-8B7C-6D100482962D",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "And what kind of car would you like? We have small, medium and large, as well as electric cars."
+    },
+    {
+     "id": "082C9098-95AF-577A-A4A0-A18C058E8604",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "I'll be driving quite long distances to visit clients, and I'll have some samples to carry. So I think a medium-sized car with a big boot."
+    },
+    {
+     "id": "84925BEE-9514-5629-989A-1E8D07A40CE2",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Our medium estate car would be ideal. It has plenty of space for luggage. That's forty-six pounds a day. Alternatively, we have an electric model of a similar size for fifty-two pounds a day."
+    },
+    {
+     "id": "50EF0B44-3F8B-5629-9B05-67A22A395996",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "How far can the electric one go on a full charge?"
+    },
+    {
+     "id": "BDA72D65-E62C-504E-B2F4-3AC1B366115E",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "About three hundred and fifty kilometres, depending on how you drive."
+    },
+    {
+     "id": "3E15A51B-C188-5AF2-8145-8F304A5B8CC1",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Some of my client visits are in rural areas, and I'm not sure there'll be charging points. I'd better go for the standard car."
+    },
+    {
+     "id": "E9E1C3F2-F61C-586B-BDFB-29B52CF0D9F9",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Okay, the estate car for five days. Now, insurance. Basic insurance is included in the price, but there's an excess of one thousand pounds, which is the amount you'd have to pay if the car was damaged. You can reduce that to zero by adding our full cover, which costs twelve pounds a day."
+    },
+    {
+     "id": "D07AB469-4157-5308-B5E9-B9BDB14178A5",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "My company has its own insurance policy which covers car hire, so I won't need that."
+    },
+    {
+     "id": "2EBA7E4D-4F42-5AA5-B727-A3FB29662366",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "That's fine. You'll just need to show proof of that when you collect the car. What about extras? Would you like satellite navigation?"
+    },
+    {
+     "id": "DD1AA659-7446-5FF5-B550-64CFBDB3CAEA",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "No, I'll use my phone. But I would like a phone holder for the dashboard, if you have one."
+    },
+    {
+     "id": "3A5342DA-4909-5A90-A440-1BC639F6061D",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "We can provide one free of charge. And our fuel policy is full-to-full, which means you'll get the car with a full tank and should return it full. If you don't, we charge for the fuel plus a refuelling fee."
+    },
+    {
+     "id": "929EF82A-4319-5958-B848-1983E789F5FF",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Understood. What do I need to bring?"
+    },
+    {
+     "id": "41E8454F-BDC2-5F50-BCF5-DAF8F6086ADC",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Your driving licence, a credit card in your name, and your passport, since you're visiting from abroad. We'll also need the address where you'll be staying. And one thing to be aware of: we'll put a hold of two hundred and fifty pounds on your credit card as a security deposit, which is released when you return the car."
+    },
+    {
+     "id": "EA2A3990-0389-515C-A3C0-C54B34810E53",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Okay. And I'll be staying at the Riverside Hotel, on Mill Road."
+    },
+    {
+     "id": "1FF999EF-CCF0-5B91-A1D7-1C0CFC7ABE08",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Lovely. Can I have your full name?"
+    },
+    {
+     "id": "4D91F9E9-48AD-56BB-8483-8838E06BD19A",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "It's Daniel Fitzgerald. F-I-T-Z-G-E-R-A-L-D."
+    },
+    {
+     "id": "A17D0F52-7F8C-5B81-A73D-D703E9FEB5FC",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Fitzgerald. Is there a mobile number we can reach you on?"
+    },
+    {
+     "id": "33BF055F-C254-5F12-A4AD-D9B05AB26315",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Yes, it's 001 604 559 2187. That's a Canadian number."
+    },
+    {
+     "id": "944ABD95-7B32-5A5E-8802-64DDB1068BDD",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Perfect. And one last thing: if your flight is delayed, don't worry. We track flight arrivals, and we'll keep the car for you for up to three hours after the scheduled time."
+    },
+    {
+     "id": "EB5A6BCB-DFCF-5E38-AAFF-18C72D322360",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "That's very reassuring. And if I need help during the week, for example if the car breaks down?"
+    },
+    {
+     "id": "764CFF9C-7173-591C-A0F2-4384F829239E",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "There's a twenty-four-hour breakdown number on the key ring, and on the windscreen. Just call that and they'll send someone, usually within an hour."
+    },
+    {
+     "id": "E4790541-C3B5-51CE-B184-520EC609C055",
+     "speaker": "Customer",
+     "accent": "en-CA",
+     "text": "Great. Thanks, Natalie."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice08-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Pick-up: airport, Terminal Two, at __________ a.m. on Monday",
+     "explanation": "He will collect the car at 10.30.",
+     "evidenceQuote": "if we say ten thirty",
+     "skillTag": "numbers",
+     "distractorNote": "9.40 is when his flight lands.",
+     "options": [],
+     "acceptedAnswers": [
+      "10.30",
+      "10:30",
+      "ten thirty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Return: office on __________ Street, near Central Station",
+     "explanation": "He returns it to Queen Street.",
+     "evidenceQuote": "on Queen Street",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Queen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "One-way fee: £__________",
+     "explanation": "The one-way fee is £25.",
+     "evidenceQuote": "a one-way fee of twenty-five pounds",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "25",
+      "twenty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Car type: medium __________ car",
+     "explanation": "He chooses the estate car.",
+     "evidenceQuote": "Our medium estate car would be ideal",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "estate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Daily rate: £__________",
+     "explanation": "The estate car costs £46 a day.",
+     "evidenceQuote": "That's forty-six pounds a day.",
+     "skillTag": "numbers",
+     "distractorNote": "£52 is the electric car; £12 is full cover.",
+     "options": [],
+     "acceptedAnswers": [
+      "46",
+      "forty-six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Reason for not choosing the electric car: few charging __________ in rural areas",
+     "explanation": "He worries about charging points.",
+     "evidenceQuote": "I'm not sure there'll be charging points",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "points"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Insurance: covered by the customer's __________",
+     "explanation": "His company's insurance covers hire.",
+     "evidenceQuote": "My company has its own insurance policy",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "company"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Free extra: phone __________",
+     "explanation": "He wants a phone holder.",
+     "evidenceQuote": "I would like a phone holder for the dashboard",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "holder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Security deposit: £__________",
+     "explanation": "The deposit is £250.",
+     "evidenceQuote": "a hold of two hundred and fifty pounds on your credit card",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "250",
+      "two hundred and fifty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Fitzgerald.",
+     "evidenceQuote": "It's Daniel Fitzgerald. F-I-T-Z-G-E-R-A-L-D.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Fitzgerald"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "pick-up",
+    "drop-off",
+    "insurance",
+    "excess",
+    "fuel policy"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice08-lp2",
+   "partNumber": 2,
+   "title": "A new tram line for the city",
+   "contextDescription": "A project manager speaks at a public meeting about plans for a new tram line.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "05EC2953-5C0F-544C-80FE-3350AA9049DF",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Good evening, everyone, and thank you for coming to tonight's meeting. I'm Rachel Owusu, the project manager for the new Eastside tram line. I'll spend about twenty minutes explaining the plans, and then there'll be plenty of time for your questions."
+    },
+    {
+     "id": "8F0E832D-CC29-5E42-80F7-4C73870A20FB",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "First, why do we need a tram? As many of you know from your own experience, traffic congestion in the eastern part of the city has become a serious problem. Journey times by bus have increased by around forty per cent over the past ten years, and air pollution on the main road, Eastern Avenue, regularly exceeds legal limits. A tram can carry far more passengers than a bus, it's quicker because it runs on its own tracks, and because it's electric, it produces no exhaust fumes on the street."
+    },
+    {
+     "id": "DE7D30C5-69BD-5FC3-B9DD-1E9831C783B9",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "The route will be nine kilometres long, running from the city centre to the new hospital at Greenfield. There will be twelve stops along the way. Trams will run every six minutes during the day and every ten minutes in the evening, from five thirty in the morning until midnight. A journey from one end to the other will take about twenty-five minutes, compared with up to fifty minutes by bus at busy times."
+    },
+    {
+     "id": "786A865E-2D35-5616-9837-A272E743A30C",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "One of the main changes since our first proposal relates to the route through the old town. Originally, we planned to run the tram along the High Street. But after the public consultation last year, where many local businesses expressed concern about disruption during construction, we've moved that section to Station Road instead, which is wider and has fewer shops."
+    },
+    {
+     "id": "D9BBBECB-D7C3-5321-AA50-251EE6A77FC0",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "At the eastern end of the line, near the motorway junction, we'll build a park and ride site with space for eight hundred cars. The idea is that people driving into the city from outside can leave their cars there and take the tram, reducing traffic in the centre. Parking will be free for anyone with a tram ticket."
+    },
+    {
+     "id": "0569E4CB-5A57-5CB6-82A3-BC4DF5D47C31",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Now, I know many of you are worried about the construction work. It will take around three years, starting next spring. We'll work on one section at a time, so no part of the route will be affected for more than about four months. Most of the noisiest work will be done during the day, but some work near the railway bridge will have to happen at night, when trains aren't running. Residents affected by night work will be offered double glazing or, in some cases, alternative accommodation."
+    },
+    {
+     "id": "FAF21C72-4862-553D-8311-C76E6B5FE0FB",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "We'll also be planting over five hundred new trees along the route, and the section through Greenfield Park will have grass between the tracks rather than concrete, which helps to absorb rainwater and reduces noise."
+    },
+    {
+     "id": "9D999DD0-E330-5623-B850-AC38A33EBABB",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "All the trams will be fully accessible, with level boarding at every stop, so passengers in wheelchairs or with pushchairs can get on and off easily. Every stop will also have a shelter, real-time information screens and secure cycle parking."
+    },
+    {
+     "id": "C5B84CDA-ED18-584C-A130-2CC3B1007E28",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "How much will it cost to use? Fares will be the same as buses, and the same tickets will work on both, so you can change from bus to tram without paying again. Children under sixteen and people over sixty-five will travel free outside the morning rush hour."
+    },
+    {
+     "id": "C2E93E8B-5AAA-53B8-B398-ED688E6D8F42",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "The total cost of the project is three hundred and twenty million pounds. Around two-thirds will come from the national government, and the rest from the city council, partly funded by a small charge on businesses in the city centre, which are expected to benefit from more customers."
+    },
+    {
+     "id": "AC9908A8-9F51-5432-93B4-9AC4448808B8",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "If you'd like more information, our project office on Market Street is open every weekday, and there's an exhibition with detailed maps and drawings in the library until the end of the month. Right, I'll now take your questions."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice08-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "According to Rachel, bus journey times in the east of the city have",
+     "explanation": "They have increased by about 40 per cent.",
+     "evidenceQuote": "Journey times by bus have increased by around forty per cent",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. fallen slightly.",
+      "B. increased by about 40 per cent.",
+      "C. doubled."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. increased by about 40 per cent.",
+      "increased by about 40 per cent."
+     ]
+    },
+    {
+     "id": "practice08-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why was the route through the old town changed?",
+     "explanation": "Businesses worried about disruption.",
+     "evidenceQuote": "many local businesses expressed concern about disruption during construction",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The High Street was too narrow.",
+      "B. It would be cheaper.",
+      "C. Local businesses were worried about disruption."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Local businesses were worried about disruption.",
+      "Local businesses were worried about disruption."
+     ]
+    },
+    {
+     "id": "practice08-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "How long will any one section of the route be affected by construction?",
+     "explanation": "About four months at most.",
+     "evidenceQuote": "no part of the route will be affected for more than about four months",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Three years is the total construction time.",
+     "options": [
+      "A. up to four months",
+      "B. about a year",
+      "C. three years"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. up to four months",
+      "up to four months"
+     ]
+    },
+    {
+     "id": "practice08-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why will some work be done at night?",
+     "explanation": "Trains are not running at night.",
+     "evidenceQuote": "some work near the railway bridge will have to happen at night, when trains aren't running",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to reduce traffic problems",
+      "B. because trains do not run then",
+      "C. to finish the project faster"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. because trains do not run then",
+      "because trains do not run then"
+     ]
+    },
+    {
+     "id": "practice08-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Who will travel free outside the morning rush hour?",
+     "explanation": "Under-16s and over-65s travel free.",
+     "evidenceQuote": "Children under sixteen and people over sixty-five will travel free",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. all residents of Greenfield",
+      "B. hospital staff",
+      "C. children and older people"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. children and older people",
+      "children and older people"
+     ]
+    },
+    {
+     "id": "practice08-L16",
+     "number": 16,
+     "format": "Note Completion",
+     "prompt": "Route length: __________ km, with 12 stops",
+     "explanation": "The route is nine kilometres.",
+     "evidenceQuote": "The route will be nine kilometres long",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "9",
+      "nine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "Daytime frequency: every __________ minutes",
+     "explanation": "Every six minutes in the day.",
+     "evidenceQuote": "Trams will run every six minutes during the day",
+     "skillTag": "numbers",
+     "distractorNote": "Every ten minutes in the evening.",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Park and ride: space for __________ cars",
+     "explanation": "800 parking spaces.",
+     "evidenceQuote": "space for eight hundred cars",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "800",
+      "eight hundred"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "In Greenfield Park, __________ will be planted between the tracks",
+     "explanation": "Grass will be between the tracks.",
+     "evidenceQuote": "will have grass between the tracks rather than concrete",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grass"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Exhibition of maps and drawings: in the __________",
+     "explanation": "The exhibition is in the library.",
+     "evidenceQuote": "there's an exhibition with detailed maps and drawings in the library",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "tram",
+    "route",
+    "consultation",
+    "construction",
+    "park and ride"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice08-lp3",
+   "partNumber": 3,
+   "title": "A design project on bridges",
+   "contextDescription": "Two engineering students, Sofia and Marcus, discuss their bridge design project with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "87DB16B1-D838-571B-84C0-0EB0704D9FE5",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Okay, Sofia and Marcus. Your project is to design a footbridge across the river near the university. Where have you got to?"
+    },
+    {
+     "id": "D3B1A2AE-8644-5E1D-8461-412E3B7EDAA0",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "We've looked at the site and done some research on different types of bridge. The river is about sixty metres wide at that point, and the banks are quite soft, which affects what we can build."
+    },
+    {
+     "id": "897D521A-54F8-5BCE-8737-FD41281E6DDA",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "We considered three main types: a beam bridge, an arch bridge and a suspension bridge."
+    },
+    {
+     "id": "4713D488-8CEA-5927-B912-D16A9E7522FE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what did you conclude?"
+    },
+    {
+     "id": "CC626B11-1ACB-5589-9DA2-EC4954C62BF9",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "A simple beam bridge wouldn't work without supports in the middle of the river, because sixty metres is too long a span. And we were told the river authority won't allow anything in the water, because it would affect boats and could cause flooding."
+    },
+    {
+     "id": "F10E47E7-6D2E-5058-A99C-0B45EAA970EB",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "An arch bridge was attractive, but arches push outwards at their ends, so they need very solid ground at both sides. With the soft banks, the foundations would have to be very deep and expensive."
+    },
+    {
+     "id": "6199D589-10CF-540F-BB1A-14386CC36735",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So you've gone for a suspension bridge?"
+    },
+    {
+     "id": "56562A99-723F-5FEE-85FF-2504CEC2AC62",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "Actually, we've chosen a cable-stayed design. It's similar to a suspension bridge, but instead of the deck hanging from long main cables, the cables run directly from one or two tall towers down to the deck. It's simpler to build for a span of this length, and it uses less material."
+    },
+    {
+     "id": "54AA9190-A394-5FB2-99E2-9DD4946E8576",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. That's a sensible choice. How many towers?"
+    },
+    {
+     "id": "06AC2C8A-E906-5E87-BE94-7D5A5396ED1F",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "Just one, on the university side, where the ground is firmer. We think a single tall tower will also look more striking."
+    },
+    {
+     "id": "F4872B65-21AE-5E2D-82F3-51BFC115C7BA",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Appearance matters, but don't let it dominate. What material are you using for the deck?"
+    },
+    {
+     "id": "00FC06EA-C92D-5DF6-92EA-A62F3BB8B7C5",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "We originally planned to use steel, but we've changed to a composite material, fibre-reinforced plastic. It's much lighter, it doesn't rust, and it needs very little maintenance."
+    },
+    {
+     "id": "CAD35C4F-80DF-5E1F-AC9F-EF4137C5EA05",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "The disadvantage is cost. It's more expensive to buy than steel, though we think it saves money over the life of the bridge because of lower maintenance."
+    },
+    {
+     "id": "CC23AF69-FC9C-5D03-ABE6-D4B9B3BBE764",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "You'll need to show that with figures in your report. Have you thought about how the bridge will behave when people walk on it?"
+    },
+    {
+     "id": "BC4CC462-9027-5F07-917A-7165B2A00FC7",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "Yes, we read about the Millennium Bridge in London, which swayed alarmingly when it opened because of the way people walked on it. When the bridge moved slightly, people adjusted their steps, which made it sway even more."
+    },
+    {
+     "id": "C4AFE350-D8AA-5488-856F-28E6FD9B1D9C",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "So we're planning to include dampers, devices that absorb vibrations, a bit like shock absorbers in a car."
+    },
+    {
+     "id": "02D13FF0-B0BC-5AA7-9E44-753A648B5FF5",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "The engineers fixed the Millennium Bridge in the end by adding dampers, and it reopened about two years later. It hasn't had any problems since."
+    },
+    {
+     "id": "99F342AD-F440-53E6-B0E1-8E4BC72C0744",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "We're also going to check the natural frequency of our design, which is how quickly it tends to sway on its own, to make sure it's not close to the rhythm of people walking."
+    },
+    {
+     "id": "C85AC51C-8BCE-51C9-8179-3ECB57582668",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. That's exactly the kind of detail I want to see. What about building a model?"
+    },
+    {
+     "id": "165735DF-B877-57F4-9C82-1C5B6A31F302",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "We're going to make a one-to-fifty scale model and test it in the lab, adding weights to see how much it bends."
+    },
+    {
+     "id": "3AAF491F-E938-5BE7-BA75-E51130566CC9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And make sure you record your results carefully, including any failures. Failure tells you as much as success. Have you considered accessibility?"
+    },
+    {
+     "id": "2CE05C73-D8C6-5AD0-93E0-E97A9C212D83",
+     "speaker": "Sofia",
+     "accent": "en-GB",
+     "text": "Yes, the ramps at both ends will have a gentle slope, so wheelchair users and cyclists can use the bridge easily. And we want lighting built into the handrails, so it's safe at night without lighting up the sky too much."
+    },
+    {
+     "id": "FE744BCC-0EFC-5CC4-B14A-830FC9E619A4",
+     "speaker": "Marcus",
+     "accent": "en-US",
+     "text": "We've also thought about birds. There are swans on that part of the river, so we want the cables to be clearly visible, maybe with coloured markers, so birds don't fly into them."
+    },
+    {
+     "id": "39FE6F99-D6B6-5D4C-85D7-3A9B8264040E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Very good. Your interim report is due in two weeks. I'd like to see the calculations for the main cables by then."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice08-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why could a simple beam bridge not be built?",
+     "explanation": "Supports in the river are not allowed.",
+     "evidenceQuote": "we were told the river authority won't allow anything in the water",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Supports in the river are not permitted.",
+      "B. It would look unattractive.",
+      "C. Beam bridges are too expensive."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Supports in the river are not permitted.",
+      "Supports in the river are not permitted."
+     ]
+    },
+    {
+     "id": "practice08-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students reject an arch bridge?",
+     "explanation": "The soft banks would need costly foundations.",
+     "evidenceQuote": "With the soft banks, the foundations would have to be very deep and expensive",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It would block boats.",
+      "B. It would take too long to build.",
+      "C. The ground on the banks is too soft."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The ground on the banks is too soft.",
+      "The ground on the banks is too soft."
+     ]
+    },
+    {
+     "id": "practice08-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why did they choose a cable-stayed bridge?",
+     "explanation": "It is simpler and uses less material.",
+     "evidenceQuote": "It's simpler to build for a span of this length, and it uses less material",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is the most attractive design.",
+      "B. It is easier to build and needs less material.",
+      "C. The tutor recommended it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It is easier to build and needs less material.",
+      "It is easier to build and needs less material."
+     ]
+    },
+    {
+     "id": "practice08-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why is the tower on the university side?",
+     "explanation": "The ground there is firmer.",
+     "evidenceQuote": "where the ground is firmer",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The ground is firmer there.",
+      "B. It will be closer to the lab.",
+      "C. There is more space there."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The ground is firmer there.",
+      "The ground is firmer there."
+     ]
+    },
+    {
+     "id": "practice08-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What problem did the Millennium Bridge have?",
+     "explanation": "It swayed when people walked on it.",
+     "evidenceQuote": "which swayed alarmingly when it opened",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was too narrow.",
+      "B. Its deck began to rust.",
+      "C. It moved too much when people walked on it."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It moved too much when people walked on it.",
+      "It moved too much when people walked on it."
+     ]
+    },
+    {
+     "id": "practice08-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the model tests?",
+     "explanation": "They should record failures too.",
+     "evidenceQuote": "make sure you record your results carefully, including any failures",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should only report successful tests.",
+      "B. They should record failures as well.",
+      "C. They should test several models."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They should record failures as well.",
+      "They should record failures as well."
+     ]
+    },
+    {
+     "id": "practice08-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "River width: about __________ metres",
+     "explanation": "The river is about sixty metres wide.",
+     "evidenceQuote": "The river is about sixty metres wide",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Deck material: fibre-reinforced __________",
+     "explanation": "The deck uses fibre-reinforced plastic.",
+     "evidenceQuote": "fibre-reinforced plastic",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plastic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "__________ will absorb vibrations",
+     "explanation": "Dampers will absorb vibrations.",
+     "evidenceQuote": "we're planning to include dampers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dampers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Lighting will be built into the __________",
+     "explanation": "Lights will be in the handrails.",
+     "evidenceQuote": "we want lighting built into the handrails",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "handrails"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "load",
+    "tension",
+    "compression",
+    "suspension bridge",
+    "prototype"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice08-lp4",
+   "partNumber": 4,
+   "title": "The history of flight",
+   "contextDescription": "A lecture in an aerospace engineering course on early aviation.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "4A8E14AE-8BF9-5C61-BC1E-2D1D0C0B0C95",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning. Today we're going to look at how humans finally achieved powered flight, and how aviation developed in the decades that followed. The dream of flying is as old as humanity, but it was only just over a hundred and twenty years ago that it became reality."
+    },
+    {
+     "id": "760E8934-BA80-537D-827D-1E6D2E51014F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "For centuries, people tried to fly by imitating birds, attaching wings to their arms and flapping them. These attempts all failed, often with serious injuries, because human muscles are far too weak relative to body weight. The first major step forward came from the English engineer George Cayley in the early nineteenth century. Cayley realised that flight needed to be thought of in terms of separate forces: lift, which holds an aircraft up; weight; thrust, which drives it forward; and drag, the air resistance that slows it down. He understood that a fixed wing could generate lift, and that a separate means of propulsion was needed. In 1853, one of his gliders carried a person across a small valley, apparently his reluctant coachman."
+    },
+    {
+     "id": "965AB5AC-6121-51EA-8463-EE2358F1849D",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In the 1890s, the German engineer Otto Lilienthal made around two thousand flights in gliders of his own design, launching himself from hills. He carefully recorded his results and published them, and photographs of his flights were seen around the world. Sadly, in 1896, he lost control of a glider in a gust of wind, fell and died the next day."
+    },
+    {
+     "id": "8F086916-9977-5CFF-96C0-00E0F6810145",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Lilienthal's work inspired two brothers from Ohio, Wilbur and Orville Wright, who ran a bicycle shop. The Wright brothers recognised that the biggest unsolved problem was not lift or power, but control: how to keep an aircraft balanced and steer it in the air. They developed a method called wing warping, twisting the wings slightly to make the aircraft turn, an idea Wilbur is said to have had while twisting an empty cardboard box. They also discovered that much of the published data on wings was inaccurate, so they built their own small wind tunnel and tested more than two hundred different wing shapes."
+    },
+    {
+     "id": "70116B7F-4EDA-5560-8187-9BDF874DA97A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Because no suitable engine was available, they designed and built their own lightweight engine with the help of their mechanic, Charlie Taylor, and they also designed their own propellers, realising that a propeller is essentially a wing that rotates. On the seventeenth of December 1903, at Kitty Hawk in North Carolina, Orville made the first controlled, powered flight. It lasted just twelve seconds and covered thirty-seven metres, shorter than the wingspan of a modern passenger jet. By the end of the day, Wilbur had flown for fifty-nine seconds."
+    },
+    {
+     "id": "575E43FC-ACA1-58DE-8CAE-13EB0A20FBC9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Progress after that was remarkably fast. In 1909, the Frenchman Louis Blériot flew across the English Channel. The First World War, beginning in 1914, greatly accelerated the development of aircraft, which were used first for observation and then for combat. In 1919, two British pilots, John Alcock and Arthur Brown, made the first non-stop flight across the Atlantic, in an open cockpit, flying through fog and snow for nearly sixteen hours."
+    },
+    {
+     "id": "C7EE6626-0F76-53E4-944B-EC40B67702C8",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The next revolution was the jet engine, developed independently in the 1930s by Frank Whittle in Britain and Hans von Ohain in Germany. Jet engines allowed aircraft to fly faster and higher, above much of the bad weather. The first commercial jet airliner, the de Havilland Comet, entered service in 1952, but a series of crashes revealed a serious problem: metal fatigue around its square windows. That's why aircraft windows today have rounded corners."
+    },
+    {
+     "id": "0392B89A-E89C-5485-8B9F-228390ABCC6F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Today, around four billion passenger journeys are made by air each year. The current challenge is reducing aviation's environmental impact, and engineers are working on more efficient engines, sustainable fuels and, for short flights, electric aircraft. Next week, we'll look at the science of lift in more detail."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice08-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Early attempts failed because human __________ are too weak",
+     "explanation": "Human muscles are too weak.",
+     "evidenceQuote": "because human muscles are far too weak relative to body weight",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "muscles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Cayley: drag is the air __________ that slows an aircraft",
+     "explanation": "Drag is air resistance.",
+     "evidenceQuote": "drag, the air resistance that slows it down",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "resistance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Cayley's glider in 1853 carried his __________",
+     "explanation": "It carried his coachman.",
+     "evidenceQuote": "apparently his reluctant coachman",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coachman"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Lilienthal launched his gliders from __________",
+     "explanation": "He launched from hills.",
+     "evidenceQuote": "launching himself from hills",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hills"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "The Wright brothers ran a __________ shop",
+     "explanation": "They ran a bicycle shop.",
+     "evidenceQuote": "who ran a bicycle shop",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bicycle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Their key problem was __________ of the aircraft",
+     "explanation": "The key problem was control.",
+     "evidenceQuote": "the biggest unsolved problem was not lift or power, but control",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "control"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "They tested over 200 wing shapes in a wind __________",
+     "explanation": "They built a wind tunnel.",
+     "evidenceQuote": "built their own small wind tunnel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tunnel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "A propeller is basically a rotating __________",
+     "explanation": "A propeller is a rotating wing.",
+     "evidenceQuote": "a propeller is essentially a wing that rotates",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Alcock and Brown flew through fog and __________",
+     "explanation": "They flew through fog and snow.",
+     "evidenceQuote": "flying through fog and snow",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "snow"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The Comet crashes were caused by metal __________",
+     "explanation": "Metal fatigue caused the crashes.",
+     "evidenceQuote": "metal fatigue around its square windows",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fatigue"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "glider",
+    "lift",
+    "propeller",
+    "wind tunnel",
+    "jet engine"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice08-rp1",
+   "passageNumber": 1,
+   "title": "The bicycle-friendly city",
+   "discipline": "Urban Planning",
+   "paragraphs": [
+    "Visitors to Amsterdam or Copenhagen, two of the most bicycle-friendly cities in the world, are often struck by the sight of thousands of cyclists of all ages riding through the city centre: office workers in suits, parents with children in cargo bikes, elderly people doing their shopping. In Copenhagen, around forty per cent of all journeys to work or education are made by bicycle, and in some Dutch cities the proportion is even higher. Many people assume that these high levels of cycling are a natural result of flat terrain or national culture. The history of these cities, however, tells a different story.",
+    "In the 1950s and 1960s, the Netherlands and Denmark, like most European countries, were rapidly becoming car-based societies. As incomes rose, car ownership increased dramatically, and planners demolished old neighbourhoods to make room for wide roads and car parks. Cycling declined steeply, and in some cities the number of journeys by bicycle fell by more than half within two decades. In Amsterdam, there were plans to fill in some of the famous canals to create space for traffic, and a motorway was proposed through part of the historic centre. Had these plans been carried out, the cities might look very different today.",
+    "The turning point came in the early 1970s. In the Netherlands, the number of people killed in road accidents reached a peak of over three thousand a year, including more than four hundred children. Public anger led to a protest movement called 'Stop de Kindermoord', which means 'Stop the Child Murder'. Protesters held demonstrations, occupied dangerous junctions and organised bicycle rides demanding safer streets. At the same time, the oil crisis of 1973 caused fuel prices to rise sharply, and the Dutch government introduced car-free Sundays to save fuel. Many people discovered that empty streets were pleasant places to cycle and walk.",
+    "These events led governments to change direction. Rather than continuing to build for cars, cities began to invest in cycling infrastructure. The most important element was the separated cycle lane, physically divided from traffic by a kerb or a strip of land, so that cyclists did not have to share the road with fast-moving vehicles. Junctions were redesigned so that cyclists could cross safely, often with their own traffic lights that turn green a few seconds before those for cars. In residential areas, streets were redesigned to slow traffic down, and many city centres were closed to through traffic.",
+    "Research has shown that safety, and the perception of safety, is the single most important factor in whether people choose to cycle. Surveys in many countries have found that a large proportion of people would like to cycle more, but are deterred by the fear of traffic. When cities build networks of protected lanes, cycling increases rapidly, and the increase is greatest among groups who rarely cycle in car-dominated cities, such as women, children and older people. This has led planners to speak of designing for 'eight to eighty', meaning that streets should be safe enough for anyone between those ages.",
+    "Cycling also brings wider benefits. Regular cycling improves physical and mental health, and studies have estimated that the health benefits of cycling in the Netherlands save the country billions of euros each year. Cycling reduces traffic congestion, air pollution and greenhouse gas emissions, and it takes up far less space than driving: a single car parking space can hold around ten bicycles. Shops in areas with good cycling infrastructure often report higher sales, as cyclists tend to visit local shops more frequently than drivers, even if they spend less on each visit.",
+    "In recent years, many other cities have tried to follow the Dutch and Danish example. Paris has built hundreds of kilometres of new cycle lanes and closed a major road along the River Seine to cars. Seville, in southern Spain, built a network of eighty kilometres of protected lanes in just a few years, and cycling increased more than tenfold. However, such changes often face strong opposition at first, particularly from drivers and some businesses who fear losing customers. Experience suggests that opposition usually declines once the new infrastructure is in place and people see the results, but strong political leadership is needed to get through the initial period of resistance."
+   ],
+   "questions": [
+    {
+     "id": "practice08-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "High levels of cycling in the Netherlands are mainly due to the flat landscape.",
+     "explanation": "The writer says history, not geography, explains it.",
+     "evidenceQuote": "The history of these cities, however, tells a different story.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice08-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Some of Amsterdam's canals were filled in to make space for cars.",
+     "explanation": "There were plans, but the passage implies they were not carried out.",
+     "evidenceQuote": "there were plans to fill in some of the famous canals",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice08-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Road deaths in the Netherlands peaked in the early 1970s.",
+     "explanation": "Deaths peaked in the early 1970s.",
+     "evidenceQuote": "reached a peak of over three thousand a year",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice08-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Car-free Sundays were introduced to reduce accidents.",
+     "explanation": "They were introduced to save fuel.",
+     "evidenceQuote": "introduced car-free Sundays to save fuel",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice08-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Cyclists in the Netherlands are required by law to use separated lanes.",
+     "explanation": "No legal requirement is mentioned.",
+     "evidenceQuote": "The most important element was the separated cycle lane",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice08-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Cycling in Seville increased more than ten times after new lanes were built.",
+     "explanation": "Cycling increased more than tenfold.",
+     "evidenceQuote": "cycling increased more than tenfold",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice08-R7",
+     "number": 7,
+     "format": "Summary Completion",
+     "prompt": "Protesters in the \"Stop de Kindermoord\" movement occupied dangerous __________.",
+     "explanation": "They occupied junctions.",
+     "evidenceQuote": "occupied dangerous junctions",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "junctions"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "Separated cycle lanes are divided from traffic by a __________ or a strip of land.",
+     "explanation": "A kerb separates them.",
+     "evidenceQuote": "physically divided from traffic by a kerb or a strip of land",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kerb"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "Cyclists often have their own traffic __________.",
+     "explanation": "They have their own lights.",
+     "evidenceQuote": "often with their own traffic lights",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lights"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "The most important factor in choosing to cycle is __________.",
+     "explanation": "Safety is the key factor.",
+     "evidenceQuote": "safety, and the perception of safety, is the single most important factor",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "safety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "Planners aim to design streets safe for people aged eight to __________.",
+     "explanation": "From eight to eighty.",
+     "evidenceQuote": "designing for 'eight to eighty'",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eighty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "One car parking space can hold around ten __________.",
+     "explanation": "Ten bicycles per car space.",
+     "evidenceQuote": "a single car parking space can hold around ten bicycles",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bicycles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice08-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "New infrastructure needs strong political __________ at first.",
+     "explanation": "Political leadership is needed.",
+     "evidenceQuote": "strong political leadership is needed",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "leadership"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 710,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice08-rp2",
+   "passageNumber": 2,
+   "title": "Learning from nature: biomimicry",
+   "discipline": "Engineering & Design",
+   "paragraphs": [
+    "In 1941, a Swiss engineer named George de Mestral returned from a walk in the mountains with his dog and noticed that both his trousers and the dog's fur were covered in burrs, the small seed cases of the burdock plant. Curious, he examined them under a microscope and saw that each burr was covered in tiny hooks that caught on loops in fabric and fur. It took him several years of experiments, but the result was Velcro, a fastening system made of hooks on one strip and loops on another. De Mestral's invention is one of the best-known examples of biomimicry: the practice of studying nature to solve human design problems.",
+    "The idea is not new. Leonardo da Vinci studied the wings of birds and bats when designing flying machines in the fifteenth century. But in recent decades, advances in microscopes and computer modelling have allowed scientists to investigate natural structures in far greater detail, and biomimicry has become an established field. Its supporters point out that living things have been evolving solutions to problems for billions of years, and that many of these solutions are highly efficient, using little energy and producing no waste.",
+    "One frequently cited example comes from Japan's high-speed bullet trains. In the 1990s, when trains emerged from tunnels at high speed, they pushed the air in front of them out of the tunnel exit with a loud bang that disturbed residents living nearby. An engineer at the railway company, Eiji Nakatsu, was a keen birdwatcher, and he recalled that the kingfisher dives from the air into water with barely a splash. He and his team redesigned the front of the train to imitate the shape of the kingfisher's long, pointed beak. The new train was not only quieter, but also used about fifteen per cent less electricity and travelled faster.",
+    "Buildings have also benefited. The Eastgate Centre, a large office and shopping complex in Harare, Zimbabwe, which opened in 1996, was designed to stay cool without conventional air conditioning. Its architect, Mick Pearce, was inspired by the mounds built by termites, which maintain a remarkably stable temperature inside despite large changes in the outside temperature. The building uses a system of chimneys and vents that draw cool air in at night and release warm air during the day. It uses less than ten per cent of the energy of a conventional building of similar size. Recent research has suggested that termite mounds may actually work rather differently from how scientists originally believed, but the building itself has proved highly successful.",
+    "Some of the most promising research involves surfaces. The leaves of the lotus plant stay clean even in muddy water because their surface is covered with microscopic bumps coated in wax, which cause water to form droplets that roll off, carrying dirt with them. This 'lotus effect' has inspired self-cleaning paints, glass and fabrics. Similarly, the skin of sharks is covered with tiny tooth-like scales that reduce drag and also make it difficult for bacteria and algae to attach. Researchers have developed materials with similar patterns for use on ship hulls and on surfaces in hospitals, where they may help to reduce the spread of infection.",
+    "Not every attempt has been successful. In 2000, a company released swimsuits inspired by shark skin, claiming they reduced drag. Swimmers wearing similar high-technology suits broke dozens of world records in 2008 and 2009, leading the governing body of the sport to ban them. However, later research suggested that the shark-skin texture itself contributed little to their performance; the main effect came from the tight fabric compressing the swimmer's body. The case illustrates that copying nature successfully requires a precise understanding of how a natural feature actually works.",
+    "Critics also warn that biomimicry is sometimes used as a marketing term, applied to products whose connection with nature is superficial. Genuine biomimicry, they argue, involves more than imitating a shape; it means learning from the underlying principles that allow natural systems to function, such as using local materials and energy, recycling everything and adapting to changing conditions. As the biologist Janine Benyus, who popularised the term in the 1990s, has put it, the aim is to ask not what we can take from nature, but what we can learn from it."
+   ],
+   "questions": [
+    {
+     "id": "practice08-R14",
+     "number": 14,
+     "format": "Matching Features",
+     "prompt": "designed a building inspired by insect structures",
+     "explanation": "Pearce was inspired by termite mounds.",
+     "evidenceQuote": "Its architect, Mick Pearce, was inspired by the mounds built by termites",
+     "skillTag": "matching_features",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Mick Pearce",
+      "Mick Pearce"
+     ]
+    },
+    {
+     "id": "practice08-R15",
+     "number": 15,
+     "format": "Matching Features",
+     "prompt": "noticed a natural feature after a walk in the countryside",
+     "explanation": "De Mestral noticed burrs after a walk.",
+     "evidenceQuote": "returned from a walk in the mountains with his dog and noticed",
+     "skillTag": "matching_features",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. George de Mestral",
+      "George de Mestral"
+     ]
+    },
+    {
+     "id": "practice08-R16",
+     "number": 16,
+     "format": "Matching Features",
+     "prompt": "used knowledge from a hobby to solve a noise problem",
+     "explanation": "Nakatsu used his birdwatching knowledge.",
+     "evidenceQuote": "was a keen birdwatcher",
+     "skillTag": "matching_features",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Eiji Nakatsu",
+      "Eiji Nakatsu"
+     ]
+    },
+    {
+     "id": "practice08-R17",
+     "number": 17,
+     "format": "Matching Features",
+     "prompt": "studied flying animals in the fifteenth century",
+     "explanation": "Leonardo studied wings.",
+     "evidenceQuote": "Leonardo da Vinci studied the wings of birds and bats",
+     "skillTag": "matching_features",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Leonardo da Vinci",
+      "Leonardo da Vinci"
+     ]
+    },
+    {
+     "id": "practice08-R18",
+     "number": 18,
+     "format": "Matching Features",
+     "prompt": "stressed the importance of learning from nature rather than taking from it",
+     "explanation": "Benyus said this.",
+     "evidenceQuote": "the aim is to ask not what we can take from nature, but what we can learn from it",
+     "skillTag": "matching_features",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Janine Benyus",
+      "Janine Benyus"
+     ]
+    },
+    {
+     "id": "practice08-R19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "According to supporters, natural solutions are valuable because they",
+     "explanation": "They are efficient and produce no waste.",
+     "evidenceQuote": "many of these solutions are highly efficient, using little energy and producing no waste",
+     "skillTag": "detail",
+     "options": [
+      "A. are easy to copy.",
+      "B. are efficient and produce no waste.",
+      "C. are cheaper than human designs.",
+      "D. have been tested in laboratories."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. are efficient and produce no waste.",
+      "are efficient and produce no waste."
+     ]
+    },
+    {
+     "id": "practice08-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What problem did the redesigned bullet train solve?",
+     "explanation": "It reduced the loud bang at tunnel exits.",
+     "evidenceQuote": "pushed the air in front of them out of the tunnel exit with a loud bang",
+     "skillTag": "detail",
+     "options": [
+      "A. the loud noise at tunnel exits",
+      "B. the high cost of tickets",
+      "C. delays caused by bad weather",
+      "D. crowding on the trains"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the loud noise at tunnel exits",
+      "the loud noise at tunnel exits"
+     ]
+    },
+    {
+     "id": "practice08-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about recent research on termite mounds?",
+     "explanation": "Mounds may work differently than believed.",
+     "evidenceQuote": "termite mounds may actually work rather differently from how scientists originally believed",
+     "skillTag": "detail",
+     "options": [
+      "A. It proves the Eastgate Centre does not work.",
+      "B. It shows termites cannot control temperature.",
+      "C. It suggests mounds may work differently than thought.",
+      "D. It was carried out in Harare."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It suggests mounds may work differently than thought.",
+      "It suggests mounds may work differently than thought."
+     ]
+    },
+    {
+     "id": "practice08-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What lesson does the swimsuit case teach?",
+     "explanation": "Copying nature needs precise understanding.",
+     "evidenceQuote": "copying nature successfully requires a precise understanding of how a natural feature actually works",
+     "skillTag": "main_idea",
+     "options": [
+      "A. High-technology suits should be allowed.",
+      "B. Shark skin is the best model for swimwear.",
+      "C. Biomimicry never works in sport.",
+      "D. It is essential to understand exactly how a natural feature works."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It is essential to understand exactly how a natural feature works.",
+      "It is essential to understand exactly how a natural feature works."
+     ]
+    },
+    {
+     "id": "practice08-R23",
+     "number": 23,
+     "format": "Sentence Completion",
+     "prompt": "Each burr was covered in tiny __________.",
+     "explanation": "Burrs are covered in hooks.",
+     "evidenceQuote": "each burr was covered in tiny hooks",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hooks"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice08-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The front of the train was redesigned to look like a kingfisher's __________.",
+     "explanation": "It imitated the kingfisher's beak.",
+     "evidenceQuote": "the shape of the kingfisher's long, pointed beak",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "beak"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice08-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Lotus leaves are covered with microscopic bumps coated in __________.",
+     "explanation": "The bumps are coated in wax.",
+     "evidenceQuote": "microscopic bumps coated in wax",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wax"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice08-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Shark-skin patterns may help to reduce the spread of __________ in hospitals.",
+     "explanation": "They may reduce infection.",
+     "evidenceQuote": "they may help to reduce the spread of infection",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "infection"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 712,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Look at the following statements and the list of people below. Match each statement with the correct person, A–E.",
+     "options": [
+      "A. George de Mestral",
+      "B. Leonardo da Vinci",
+      "C. Eiji Nakatsu",
+      "D. Mick Pearce",
+      "E. Janine Benyus"
+     ]
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice08-rp3",
+   "passageNumber": 3,
+   "title": "Are driverless cars the future?",
+   "discipline": "Technology & Society",
+   "paragraphs": [
+    "For more than a decade, technology companies and car manufacturers have promised that driverless cars are just around the corner. Supporters claim that autonomous vehicles will dramatically reduce road accidents, free people from the stress of driving and transform the design of cities. Some even predicted that, by the early 2020s, most new cars would be able to drive themselves. Yet despite billions of dollars of investment, fully self-driving cars remain rare, operating only in limited areas of a few cities. Understanding why progress has been slower than predicted reveals much about the challenges of introducing complex technology into the real world.",
+    "Engineers usually describe vehicle automation in terms of six levels, from zero, meaning no automation, to five, meaning a car that can drive itself anywhere, in any conditions, without a human driver. Many new cars already have features at level one or two, such as systems that keep the car in its lane or maintain a safe distance from the vehicle in front, but the human driver must remain alert and ready to take control at all times. At level four, a car can drive itself without human supervision, but only within a defined area and in certain conditions. Robotaxi services now operating in parts of the United States and China are at this level.",
+    "The main argument for autonomous vehicles is improved safety. More than one million people are killed on the world's roads every year, and the great majority of crashes involve human error, such as distraction, tiredness, speeding or drinking alcohol. Computers, by contrast, do not get tired or distracted, and they can monitor their surroundings in all directions at once using cameras, radar and laser sensors. Some early data from robotaxi services suggests that they are involved in fewer injury crashes than human drivers covering similar distances, although the number of miles driven is still too small for firm conclusions.",
+    "However, driving turns out to be extraordinarily difficult to automate fully. Real roads are full of unpredictable situations, sometimes called 'edge cases': a police officer directing traffic by hand, a child chasing a ball into the road, roadworks with temporary signs, or a plastic bag blowing across the street, which a computer must distinguish from a solid object. Humans handle such situations by drawing on general knowledge and common sense, abilities that remain very hard to replicate in software. Bad weather presents further problems for the technology, as heavy rain, snow and fog can interfere with sensors.",
+    "There are also difficult legal and ethical questions about responsibility. When a human driver causes an accident, the law is relatively clear about who is to blame. But if a driverless car crashes, should responsibility lie with the owner, the manufacturer or the company that wrote the software? Several high-profile accidents involving partially automated cars have shown that drivers often place too much trust in the technology and stop paying attention, even when they are supposed to be supervising. Some experts argue that partial automation may therefore be more dangerous than either full automation or none at all.",
+    "The long-term effects on cities are also uncertain. Optimists imagine shared fleets of driverless taxis reducing the need for private car ownership, freeing up land currently used for parking and making transport available to people who cannot drive, such as the elderly and disabled. Pessimists point out that if travelling by car becomes more comfortable and convenient, people may make more and longer journeys, increasing congestion, and that empty vehicles circulating between passengers could add to traffic. Driverless technology could also threaten the livelihoods of millions of professional drivers around the world, including those of taxi, bus and lorry drivers, many of whom have few alternative sources of employment.",
+    "In my view, the most likely outcome is gradual change rather than a sudden revolution, much as electric cars took decades to move from experiments to everyday use. Autonomous vehicles may first become common in controlled environments, such as motorways, ports and mining sites, and in particular cities with good weather and well-maintained roads. How they ultimately affect our lives will depend less on the technology itself than on the decisions that governments and societies make about how it is used."
+   ],
+   "questions": [
+    {
+     "id": "practice08-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Progress on driverless cars has been as fast as companies promised.",
+     "explanation": "Progress has been slower.",
+     "evidenceQuote": "progress has been slower than predicted",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice08-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Level four vehicles can operate anywhere without restrictions.",
+     "explanation": "They are limited to defined areas.",
+     "evidenceQuote": "but only within a defined area and in certain conditions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice08-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Current data proves that robotaxis are safer than human drivers.",
+     "explanation": "The data is not yet conclusive.",
+     "evidenceQuote": "the number of miles driven is still too small for firm conclusions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice08-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Electric cars are more suitable for automation than petrol cars.",
+     "explanation": "Electric and petrol cars are not compared.",
+     "evidenceQuote": "using cameras, radar and laser sensors",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice08-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Drivers of partially automated cars often rely too much on the technology.",
+     "explanation": "Drivers over-trust the technology.",
+     "evidenceQuote": "drivers often place too much trust in the technology and stop paying attention",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice08-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Government decisions will be very important in determining the impact of driverless cars.",
+     "explanation": "Decisions will matter more than technology.",
+     "evidenceQuote": "will depend less on the technology itself than on the decisions that governments and societies make",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice08-R33",
+     "number": 33,
+     "format": "Matching Sentence Endings",
+     "prompt": "Level one and two systems",
+     "explanation": "The driver must stay alert.",
+     "evidenceQuote": "the human driver must remain alert and ready to take control at all times",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. are caused by mistakes made by people.",
+      "B. have been solved by new software.",
+      "C. still require the driver to pay attention.",
+      "D. can affect how sensors work.",
+      "E. unusual situations that are hard for computers.",
+      "F. are mainly found on motorways."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. still require the driver to pay attention.",
+      "still require the driver to pay attention."
+     ]
+    },
+    {
+     "id": "practice08-R34",
+     "number": 34,
+     "format": "Matching Sentence Endings",
+     "prompt": "Most road crashes",
+     "explanation": "Most involve human error.",
+     "evidenceQuote": "the great majority of crashes involve human error",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. are caused by mistakes made by people.",
+      "B. have been solved by new software.",
+      "C. still require the driver to pay attention.",
+      "D. can affect how sensors work.",
+      "E. unusual situations that are hard for computers.",
+      "F. are mainly found on motorways."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. are caused by mistakes made by people.",
+      "are caused by mistakes made by people."
+     ]
+    },
+    {
+     "id": "practice08-R35",
+     "number": 35,
+     "format": "Matching Sentence Endings",
+     "prompt": "\"Edge cases\" are",
+     "explanation": "Edge cases are unpredictable situations.",
+     "evidenceQuote": "Real roads are full of unpredictable situations, sometimes called 'edge cases'",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. are caused by mistakes made by people.",
+      "B. have been solved by new software.",
+      "C. still require the driver to pay attention.",
+      "D. can affect how sensors work.",
+      "E. unusual situations that are hard for computers.",
+      "F. are mainly found on motorways."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. unusual situations that are hard for computers.",
+      "unusual situations that are hard for computers."
+     ]
+    },
+    {
+     "id": "practice08-R36",
+     "number": 36,
+     "format": "Matching Sentence Endings",
+     "prompt": "Heavy rain, snow and fog",
+     "explanation": "Bad weather interferes with sensors.",
+     "evidenceQuote": "can interfere with sensors",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. are caused by mistakes made by people.",
+      "B. have been solved by new software.",
+      "C. still require the driver to pay attention.",
+      "D. can affect how sensors work.",
+      "E. unusual situations that are hard for computers.",
+      "F. are mainly found on motorways."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. can affect how sensors work.",
+      "can affect how sensors work."
+     ]
+    },
+    {
+     "id": "practice08-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "What do optimists believe driverless taxis could do?",
+     "explanation": "They could reduce car ownership and free land.",
+     "evidenceQuote": "reducing the need for private car ownership, freeing up land currently used for parking",
+     "skillTag": "detail",
+     "options": [
+      "A. make cars cheaper to buy",
+      "B. reduce car ownership and parking space",
+      "C. replace public transport entirely",
+      "D. eliminate traffic jams completely"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. reduce car ownership and parking space",
+      "reduce car ownership and parking space"
+     ]
+    },
+    {
+     "id": "practice08-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "Why might driverless cars increase congestion?",
+     "explanation": "Easier travel may lead to more journeys.",
+     "evidenceQuote": "people may make more and longer journeys",
+     "skillTag": "inference",
+     "options": [
+      "A. They drive more slowly.",
+      "B. They are larger than normal cars.",
+      "C. They cannot use motorways.",
+      "D. People may travel more often and further."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. People may travel more often and further.",
+      "People may travel more often and further."
+     ]
+    },
+    {
+     "id": "practice08-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "Which group may lose jobs because of driverless technology?",
+     "explanation": "Professional drivers may lose jobs.",
+     "evidenceQuote": "including those of taxi, bus and lorry drivers",
+     "skillTag": "detail",
+     "options": [
+      "A. professional drivers",
+      "B. car designers",
+      "C. software engineers",
+      "D. traffic police"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. professional drivers",
+      "professional drivers"
+     ]
+    },
+    {
+     "id": "practice08-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "Where does the writer think autonomous vehicles may first become common?",
+     "explanation": "In controlled environments.",
+     "evidenceQuote": "in controlled environments, such as motorways, ports and mining sites",
+     "skillTag": "detail",
+     "options": [
+      "A. in rural areas",
+      "B. in cities with heavy snow",
+      "C. in controlled environments such as ports",
+      "D. in private homes"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. in controlled environments such as ports",
+      "in controlled environments such as ports"
+     ]
+    }
+   ],
+   "estimatedWordCount": 701,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. are caused by mistakes made by people.",
+      "B. have been solved by new software.",
+      "C. still require the driver to pay attention.",
+      "D. can affect how sensors work.",
+      "E. unusual situations that are hard for computers.",
+      "F. are mainly found on motorways."
+     ]
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice08-w1",
+  "title": "Passenger numbers by mode of transport",
+  "visualType": "Table",
+  "instructions": "The table below shows the distance travelled by passengers using four types of transport in one country in 1990, 2005 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "1CDBC1EF-9BAA-545D-A51A-354D3BA7C545",
+    "series": "1990",
+    "category": "Car",
+    "value": 588.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "FA3403EA-6259-5840-A906-EE1BBEC33A25",
+    "series": "2005",
+    "category": "Car",
+    "value": 680.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "C90B4CE6-79FE-5F7D-A05C-7B5F193D6237",
+    "series": "2020",
+    "category": "Car",
+    "value": 590.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "A958B0EF-B438-561A-9CEE-B79FBF2D44F5",
+    "series": "1990",
+    "category": "Bus and coach",
+    "value": 46.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "61AE0C7E-D037-50AA-9868-652C6D250E1B",
+    "series": "2005",
+    "category": "Bus and coach",
+    "value": 44.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "E511521B-178D-5A4C-A230-871F2A589638",
+    "series": "2020",
+    "category": "Bus and coach",
+    "value": 21.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "2CA029F7-F280-52D3-96D9-CB1AC8CA5302",
+    "series": "1990",
+    "category": "Rail",
+    "value": 39.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "A4973D46-23DD-581D-B89F-8D3A487C0B16",
+    "series": "2005",
+    "category": "Rail",
+    "value": 52.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "E32F332A-24EC-565F-904F-C0EE45B016C3",
+    "series": "2020",
+    "category": "Rail",
+    "value": 35.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "6A391C56-ECB1-55AC-881F-248922B4329A",
+    "series": "1990",
+    "category": "Air (domestic)",
+    "value": 5.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "EC75F839-1B5D-5CE9-910B-7990FFAA4F90",
+    "series": "2005",
+    "category": "Air (domestic)",
+    "value": 10.0,
+    "unit": "billion passenger-kilometres"
+   },
+   {
+    "id": "77896E90-42C9-56CC-A7FA-0526580589B2",
+    "series": "2020",
+    "category": "Air (domestic)",
+    "value": 3.0,
+    "unit": "billion passenger-kilometres"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Cars accounted for by far the most travel in every year.",
+   "All modes grew to 2005 and then fell by 2020, with buses and domestic flights falling most sharply."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice08-w2",
+  "title": "Spending on roads or public transport",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Transport & Government",
+  "promptText": "Some people think governments should spend money on building new roads, while others believe the money should be spent on improving public transport. Discuss both these views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice08-spk",
+  "theme": "Transport and travel",
+  "part1Questions": [
+   "How do you usually travel to work or school?",
+   "Do you enjoy long journeys?",
+   "Have you ever travelled by plane?",
+   "Is traffic a problem where you live?",
+   "Do you like cycling?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a journey that took longer than you expected.",
+   "bulletPoints": [
+    "where you were going",
+    "how you travelled",
+    "why it took longer",
+    "and explain how you felt about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the main transport problems in cities in your country?",
+   "Should cars be banned from city centres?",
+   "Will people still own cars in the future?",
+   "How has air travel changed people's lives?",
+   "Who should pay for public transport: users or taxpayers?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Engineering details and figures are simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

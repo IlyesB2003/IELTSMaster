@@ -1,0 +1,1936 @@
+{
+ "id": "exam25",
+ "examNumber": 25,
+ "pool": "mock",
+ "title": "Mock Exam 25: Packing, Delivering and Returning",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Packing, Delivering and Returning",
+ "listeningParts": [
+  {
+   "id": "exam25-lp1",
+   "partNumber": 1,
+   "title": "Arranging protective cases for an exhibition journey",
+   "contextDescription": "An artist asks a case-hire company about transporting display objects.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "650519AA-9AE5-5ABC-8A88-40850AA712B2",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Hello, Westgate Case Hire. This is Thomas. We hire protective cases for exhibitions, instruments and display equipment. If you can tell me roughly what you need to move, I can explain the options and what information we need before confirming a booking."
+    },
+    {
+     "id": "3DD15844-B99B-51A2-B7AC-1DA93E70DF6D",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "I'm taking some small display models to an exhibition next month. They're not especially heavy, but they have projecting parts, so I don't want them moving around in an ordinary cardboard box. A colleague suggested hiring cases rather than buying something I'd use only once."
+    },
+    {
+     "id": "9CE71DE0-A3FD-5082-8E4D-C31A5A9777B9",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "That sounds sensible. We have rigid cases in several sizes, but the space inside is what matters. External measurements can be misleading because the lining takes up room. Could you measure the largest model, including the projecting parts, and send us those dimensions? Then we can recommend a case without relying on a photograph alone."
+    },
+    {
+     "id": "FA47E925-8A9A-5C6F-B82B-62D2A3B2172C",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "Yes. The exhibition is on the twenty-fourth, and I travel the day before. I was thinking of collecting everything on the twenty-second so I could pack at home without rushing. Would that be possible, or do you require collection on the actual travel day?"
+    },
+    {
+     "id": "778FE067-D047-5B0E-85DF-ED5525F9942B",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "The twenty-second is fine. Standard hire covers seven days, so you would return the cases by the twenty-ninth. If you keep them longer, let us know before that date. The weekly hire fee for the medium case is thirty-six pounds. There is also a refundable deposit of eighty pounds, which is separate from the hire charge."
+    },
+    {
+     "id": "ACC739AB-8F61-5BE6-AB1C-9E66FB8086DF",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "I saw thirty pounds mentioned on a price sheet, but perhaps that was for a different size. I'd probably need two medium cases, although I won't know until I have measured the models properly. Is the lining included, or is that charged separately?"
+    },
+    {
+     "id": "CFAA3DC8-8BA7-5B82-9209-C35E77DC46A1",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Thirty pounds is for a small case. The standard lining is included in the medium-case fee. We can also provide removable dividers. Those are useful if you are packing several objects in one case, but don't assume they will fit every arrangement. Send a sketch showing how you expect to place the models, and we can discuss it."
+    },
+    {
+     "id": "96D3D9EE-64BD-568B-8ABE-ED8BB0F48AF1",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "I'll do that. Could you deliver the cases? I don't have a car during the week. There is a bus from my house, but carrying two large empty cases on it might not be very practical."
+    },
+    {
+     "id": "1C77C463-E652-50BB-A62D-93B2839B12DE",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "We deliver within the town on Tuesday mornings, but your collection date is a Wednesday. We could bring them a day early for an additional twelve pounds. Alternatively, a friend can collect them for you if you give us that person's name in advance. They will need the booking reference, not your payment card."
+    },
+    {
+     "id": "2EB7962F-9B5B-5DB9-8A18-DCFA1B91F78A",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "I'll arrange for my brother to collect them on Wednesday. Can he come after five? He works nearby and could stop on his way home. I'd rather not ask him to leave work early if it isn't necessary."
+    },
+    {
+     "id": "1F9725B5-63EB-5691-8292-D87AFDE2E391",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "The hire counter closes at five thirty, so that should work. Please ask him to arrive before five fifteen, because we need time to check the cases together. We record the condition of each case when it leaves. You receive a copy of that record, so any marks already present are documented."
+    },
+    {
+     "id": "22343F7E-4D21-5EF1-B266-3F82EFB98EA0",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "My name is Nora Bellamy. That's B-E-L-L-A-M-Y. Should I put my own address on the cases when I travel, or does the company label stay on them? I don't want them sent back to you if they get separated from the exhibition equipment."
+    },
+    {
+     "id": "AB43740F-98C5-5375-BAE3-3E1772ACDCA3",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Leave our identification label attached. Put your journey details in the transparent pocket on each case. Do not write directly on the shell or attach tape to it. We provide a card for the pocket, and you can change that card if the return journey has different details."
+    },
+    {
+     "id": "96B51821-CB62-5C1C-B919-475CA0493783",
+     "speaker": "Artist",
+     "accent": "en-AU",
+     "text": "Understood. I'll email the dimensions and sketch this afternoon, and include my brother's name once he has confirmed. Is there anything else I should bring back with the cases?"
+    },
+    {
+     "id": "0278A9AC-0058-5B81-B018-8A2D0AE02B71",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Please return every divider, including any you decide not to use. Keep them together at home so they don't get mixed with your own packing materials. We'll confirm the final booking after checking the measurements, rather than reserve a size that might be unsuitable."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam25-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Measure the largest model, including any projecting __________.",
+     "explanation": "The complete model must fit inside the case.",
+     "evidenceQuote": "including the projecting parts",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parts"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Collection date: the __________.",
+     "explanation": "The exhibition and travel dates are later.",
+     "evidenceQuote": "The twenty-second is fine.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "twenty-second",
+      "22",
+      "22nd"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Medium-case weekly hire fee: £__________.",
+     "explanation": "Thirty pounds applies to a small case; £80 is the deposit.",
+     "evidenceQuote": "the medium case is thirty-six pounds",
+     "skillTag": "note_completion",
+     "distractorNote": "The small case costs £30, while £80 is a refundable deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "36"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Optional removable __________ can separate objects.",
+     "explanation": "Dividers are available, subject to the packing arrangement.",
+     "evidenceQuote": "provide removable dividers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dividers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Send a __________ showing the proposed arrangement.",
+     "explanation": "A sketch helps discuss placement.",
+     "evidenceQuote": "Send a sketch showing how you expect to place the models",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sketch"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Collector needs the booking __________.",
+     "explanation": "The payment card is not needed for collection.",
+     "evidenceQuote": "They will need the booking reference",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reference"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "A record is made of each case’s __________ before hire.",
+     "explanation": "Existing marks are documented.",
+     "evidenceQuote": "We record the condition of each case when it leaves.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "condition"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Customer’s surname: Nora __________.",
+     "explanation": "The customer states and spells Bellamy.",
+     "evidenceQuote": "My name is Nora Bellamy. That's B-E-L-L-A-M-Y.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Bellamy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Place journey details in the transparent __________.",
+     "explanation": "The shell must not be marked directly.",
+     "evidenceQuote": "Put your journey details in the transparent pocket",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pocket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Return every __________, even unused ones.",
+     "explanation": "All hired dividers must come back.",
+     "evidenceQuote": "Please return every divider",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "divider"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam25-lp2",
+   "partNumber": 2,
+   "title": "Sorting books for a community delivery scheme",
+   "contextDescription": "A volunteer leader explains how donated books are checked and packed.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "C455A007-84F7-5F65-88DE-1477FC45A109",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Thank you for helping with the community book deliveries. We send requested books to local reading groups, rather than dispatching random bundles. That distinction affects every stage of today's work. A box can be full and neatly packed yet still be the wrong box if it contains titles the group did not request. Accuracy is more important than getting the greatest number of boxes out of the door."
+    },
+    {
+     "id": "D74E9482-714C-53D1-979E-D2FAC00D5508",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Start at the receiving table, where new donations are placed. The volunteer there checks whether a book is clean and usable. Please don't move straight from receiving to packing, even if a title appears on a request list. We need the condition check first. Books that cannot be used go to the clearly marked review shelf, not into the paper recycling bin. A coordinator decides what happens to those items later."
+    },
+    {
+     "id": "79FF8C24-A248-5FA1-B9B0-76B7C82C1E51",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Next comes the listing desk. We record the title and edition, because two books with the same main title may contain different material. For some reading groups the edition does not matter; for a class working through the same pages together, it may matter a great deal. Follow the request as written. If the edition is unclear, flag the question rather than substitute what seems close enough."
+    },
+    {
+     "id": "3BC13FE4-E369-5AF5-8A15-FF42AADD0D56",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "The picking area is organised by request number. Gather the books for one request into its tray and check them against the list. A second volunteer then repeats the check independently. This isn't because we distrust the first person. It is easier to overlook an error when you have just made the original selection. If something is missing, leave a note in the tray and move it to the incomplete shelf."
+    },
+    {
+     "id": "9E331BA3-C17F-5FE9-9801-9A37AB198C4E",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Packing happens only after the second check. Choose a box that suits the contents, rather than trying to use the largest one available. We have clean reused boxes of several sizes. Put the request slip inside, face upward, so the receiving group can identify the delivery when they open it. Keep the address label outside, on the largest flat face. Don't cover an old address and assume it has disappeared; remove or clearly cancel obsolete labels first."
+    },
+    {
+     "id": "E833E546-1A11-59CF-ABE3-BD8668458A4A",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "The weighing station comes after packing but before the box is sealed. If a parcel is heavier than our agreed limit, we need to divide the request between two boxes. It is much easier to do that before sealing. Don't guess the weight from how a box feels in your hands. Use the scale, allow the reading to settle and ask the station volunteer if you are unsure how to interpret the display."
+    },
+    {
+     "id": "AFD9F017-2F8E-5767-926C-85009F023D74",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "There are three dispatch shelves. The upper shelf is for van deliveries within town. The middle shelf is for groups collecting their own boxes. The lower shelf is for parcels requiring the external delivery service. These categories are on the request slip. Do not choose a shelf based on the destination sounding nearby, because some nearby groups have arranged collection rather than delivery."
+    },
+    {
+     "id": "8DF39096-2045-5F65-9474-5542F5B39172",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Today's van is leaving at two instead of three. Roadworks mean the driver needs an earlier start, so town deliveries must be ready by one thirty. Self-collection continues until four. The external parcels will be collected tomorrow, and should remain on their shelf overnight. A box waiting here is not necessarily delayed; its route may simply have a different schedule."
+    },
+    {
+     "id": "FD7BDCDB-42BA-5A32-A9BE-66986AA66748",
+     "speaker": "Leader",
+     "accent": "en-IE",
+     "text": "Finally, if you notice an error after a parcel reaches dispatch, tell the coordinator immediately. Don't quietly open it and change the contents without updating the record. We need the contents, label and dispatch list to agree. Before you leave, return spare slips to the listing desk and clear your work area. A tidy handover helps the next volunteer continue without repeating checks or guessing which stage a parcel has reached."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam25-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Receiving table",
+     "explanation": "Receiving includes a condition check.",
+     "evidenceQuote": "checks whether a book is clean and usable",
+     "skillTag": "matching",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Checking whether donations are usable",
+      "Checking whether donations are usable"
+     ]
+    },
+    {
+     "id": "exam25-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Listing desk",
+     "explanation": "The edition is recorded as well as the title.",
+     "evidenceQuote": "record the title and edition",
+     "skillTag": "matching",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Recording a book’s title and edition",
+      "Recording a book’s title and edition"
+     ]
+    },
+    {
+     "id": "exam25-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Picking area",
+     "explanation": "Picking assembles a particular requested selection.",
+     "evidenceQuote": "Gather the books for one request into its tray",
+     "skillTag": "matching",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Assembling books for an individual request",
+      "Assembling books for an individual request"
+     ]
+    },
+    {
+     "id": "exam25-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Packing station",
+     "explanation": "The request slip accompanies the packed contents.",
+     "evidenceQuote": "Put the request slip inside",
+     "skillTag": "matching",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. Placing the request slip with the contents",
+      "Placing the request slip with the contents"
+     ]
+    },
+    {
+     "id": "exam25-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Weighing station",
+     "explanation": "Weight is established before sealing.",
+     "evidenceQuote": "before the box is sealed",
+     "skillTag": "matching",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Establishing parcel weight before sealing",
+      "Establishing parcel weight before sealing"
+     ]
+    },
+    {
+     "id": "exam25-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why does a second volunteer repeat the selection check?",
+     "explanation": "An independent check can catch an overlooked mistake.",
+     "evidenceQuote": "easier to overlook an error when you have just made the original selection",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Only the second volunteer can read the request.",
+      "B. The first volunteer is not allowed to record titles.",
+      "C. Independent checking can reveal overlooked errors."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Independent checking can reveal overlooked errors.",
+      "Independent checking can reveal overlooked errors."
+     ]
+    },
+    {
+     "id": "exam25-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "How should a dispatch shelf be chosen?",
+     "explanation": "The route category is recorded on the request.",
+     "evidenceQuote": "These categories are on the request slip.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. By estimating how far away the address sounds.",
+      "B. By using the category on the request slip.",
+      "C. By taking whichever shelf has most space."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. By using the category on the request slip.",
+      "By using the category on the request slip."
+     ]
+    },
+    {
+     "id": "exam25-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What should happen when an error is found at dispatch?",
+     "explanation": "The coordinator needs to update the linked records.",
+     "evidenceQuote": "tell the coordinator immediately",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Inform the coordinator before making changes.",
+      "B. Change the contents without recording it.",
+      "C. Leave the box for the recipient to correct."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Inform the coordinator before making changes.",
+      "Inform the coordinator before making changes."
+     ]
+    },
+    {
+     "id": "exam25-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Today the town-delivery van departs at __________.",
+     "explanation": "The departure has moved from three to two.",
+     "evidenceQuote": "van is leaving at two instead of three",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Return unused slips to the __________ desk.",
+     "explanation": "Spare slips belong at the listing desk.",
+     "evidenceQuote": "return spare slips to the listing desk",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "listing"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Match each station with its task. Choose A–G.",
+     "options": [
+      "A. Establishing parcel weight before sealing",
+      "B. Assembling books for an individual request",
+      "C. Deciding the next year’s delivery budget",
+      "D. Checking whether donations are usable",
+      "E. Choosing a reading group’s preferred titles",
+      "F. Recording a book’s title and edition",
+      "G. Placing the request slip with the contents"
+     ]
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "instruction": "Questions 16–18. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "instruction": "Questions 19–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam25-lp3",
+   "partNumber": 3,
+   "title": "Comparing protective inserts for a model parcel",
+   "contextDescription": "Two students prepare a limited, supervised investigation for a packaging-design class.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "81C3689C-CAE7-5DFC-A35A-74005D284C0B",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "I've rewritten our project question. Instead of asking which packaging is best, I think we should compare how two inserts keep the same model in position during a defined movement. That gives us something we can observe in the classroom without pretending to reproduce an entire delivery journey."
+    },
+    {
+     "id": "ABB25ABC-0F7F-5507-862A-9A711829F447",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "I like that. We should use the same outer box and the same model each time. Our first plan changed the box size as well as the insert, and then we wouldn't know which difference affected movement. The lecturer also said the model must be something we can safely inspect, not a valuable object someone actually wants to send."
+    },
+    {
+     "id": "D98C1F10-2B32-56D9-93FB-4CB209A74126",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "I've made a simple wooden shape for that purpose. We won't describe it as representing every fragile product. It just gives us a consistent object. The workshop supervisor will approve the movement procedure. We shouldn't invent a more dramatic test because it looks impressive in a presentation."
+    },
+    {
+     "id": "51C7B8DA-B6B8-57E4-94D0-F9458D674A53",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "We also need a way to record position. A photograph before and after might help, but the angle has to be consistent. If we photograph from a different side, the model could appear to have moved even if it hasn't. Let's mark the camera position and use a reference grid inside the box."
+    },
+    {
+     "id": "E0B72DF8-5D83-551B-9BFD-18CE0214A499",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "The grid mustn't interfere with how the insert holds the model. We can put it on the base, but check that neither insert covers the marks we need. Another issue is whether opening the box changes the result. We need to look without pushing anything back into position."
+    },
+    {
+     "id": "8F673EB1-A5BB-5A4E-8F7B-0B8F487C695D",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "What about repeating the procedure? A single attempt could be unusual. We have time for three runs per insert, but we should reset everything each time and record whether a piece of packing material has changed shape. Reusing a compressed insert could make the later run different from the first."
+    },
+    {
+     "id": "79550CDD-AE25-5215-B8ED-59488D1AC0C1",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "Yes, and if we replace an insert, we should note that rather than treat the replacement as invisible. The procedure needs to say what counts as the same starting condition. We should draw the initial position of each component on the recording sheet, so a person setting up the next run can follow the arrangement without relying on our memory. Otherwise, the table of results would look precise while the actual comparisons weren't consistent."
+    },
+    {
+     "id": "075AA0D2-54FA-58BC-B5A8-B0E917D4652F",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "For the report, I think a diagram of the arrangement would be clearer than a long paragraph describing where every piece went. But we still need written notes about the procedure. A diagram shows the layout; it doesn't tell the reader exactly what we did to it."
+    },
+    {
+     "id": "D9299439-3A72-5005-ACC6-C39E85301304",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "Agreed. We should also record time spent assembling each insert. Not because the quicker one must win, but because preparation is part of the practical comparison. A slightly better holding result might require a complicated arrangement that is difficult to reproduce. We can describe that trade-off without deciding everyone's priorities for them."
+    },
+    {
+     "id": "41508847-C0B5-5F5D-BDA7-39A62594C7AC",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "Could we calculate a single score combining movement and assembly time? It might make the presentation simpler. Although we'd have to choose how much weight to give each, and we don't have a reason for those weights."
+    },
+    {
+     "id": "334A5DCA-2D62-5C35-ADFD-A083D714D0B6",
+     "speaker": "Megan",
+     "accent": "en-GB",
+     "text": "Let's keep them separate. Otherwise, our personal preference would be hidden inside the score. The conclusion can explain which insert did better on which measure, and what further questions remain. We haven't assessed moisture, long journeys or how recipients remove the packaging."
+    },
+    {
+     "id": "E1970A29-2C75-55D5-9BCF-3752B05D2475",
+     "speaker": "Arun",
+     "accent": "en-AU",
+     "text": "Then our next step is a rehearsal with one arrangement, to check the photographs and recording sheet. We should do that before cutting all the inserts. If the method doesn't let us see the model clearly, it is better to change it now than collect three identical-looking images that don't answer the question."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam25-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What is the revised project intended to compare?",
+     "explanation": "The inquiry concerns holding a specific model under a defined procedure.",
+     "evidenceQuote": "how two inserts keep the same model in position",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The quality of every delivery company.",
+      "B. The value of the product being transported.",
+      "C. How inserts hold one model during a defined movement."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. How inserts hold one model during a defined movement.",
+      "How inserts hold one model during a defined movement."
+     ]
+    },
+    {
+     "id": "exam25-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why will the outer box remain unchanged?",
+     "explanation": "Changing the box as well as the insert would confuse attribution.",
+     "evidenceQuote": "we wouldn't know which difference affected movement",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To isolate the difference between inserts.",
+      "B. Because all delivery boxes have identical dimensions.",
+      "C. To avoid inspecting the model after each run."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. To isolate the difference between inserts.",
+      "To isolate the difference between inserts."
+     ]
+    },
+    {
+     "id": "exam25-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why must the camera position be fixed?",
+     "explanation": "Different camera views can create a misleading comparison.",
+     "evidenceQuote": "the model could appear to have moved even if it hasn't",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To hide the internal reference grid.",
+      "B. To make before-and-after images comparable.",
+      "C. To prevent the lecturer seeing the outer box."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. To make before-and-after images comparable.",
+      "To make before-and-after images comparable."
+     ]
+    },
+    {
+     "id": "exam25-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does Megan say about assembly time?",
+     "explanation": "Preparation time is relevant but not the sole deciding factor.",
+     "evidenceQuote": "preparation is part of the practical comparison",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The quickest insert must be chosen.",
+      "B. It is irrelevant to practical use.",
+      "C. It should be recorded as a separate consideration."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It should be recorded as a separate consideration.",
+      "It should be recorded as a separate consideration."
+     ]
+    },
+    {
+     "id": "exam25-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why do they reject a combined score?",
+     "explanation": "Unjustified weights would conceal their judgement.",
+     "evidenceQuote": "our personal preference would be hidden inside the score",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its weights would lack a justified basis.",
+      "B. Neither measure can be recorded numerically.",
+      "C. A single score would require more photographs."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Its weights would lack a justified basis.",
+      "Its weights would lack a justified basis."
+     ]
+    },
+    {
+     "id": "exam25-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Use a reference __________ inside the box.",
+     "explanation": "The grid helps locate the model.",
+     "evidenceQuote": "use a reference grid inside the box",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "An insert may become __________ after a run.",
+     "explanation": "A changed insert can alter later conditions.",
+     "evidenceQuote": "Reusing a compressed insert",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "compressed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Use a __________ to show the arrangement.",
+     "explanation": "A diagram supplements the procedure notes.",
+     "evidenceQuote": "a diagram of the arrangement",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diagram"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "The project does not investigate the effect of __________.",
+     "explanation": "Moisture lies outside the limited comparison.",
+     "evidenceQuote": "We haven't assessed moisture",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "moisture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "First carry out a __________ of the method.",
+     "explanation": "A rehearsal checks the visibility and recording process.",
+     "evidenceQuote": "a rehearsal with one arrangement",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rehearsal"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam25-lp4",
+   "partNumber": 4,
+   "title": "Following a reusable item through a distribution system",
+   "contextDescription": "A lecturer discusses the information needed to operate a fictional reusable packaging scheme.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "02CEB636-6FBA-56B0-A7E4-C520533007A2",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "When an organisation introduces reusable transport equipment, the physical object is only part of the arrangement. A crate can be strong and convenient, yet disappear from circulation if nobody knows where it is or who should send it back. Today we will use a hypothetical local delivery scheme to examine the information behind reuse. We are not calculating an environmental benefit from an assumed number of trips; we are asking what would make repeated use operationally possible."
+    },
+    {
+     "id": "B1719444-372C-5D50-8150-367744787B17",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "First, distinguish ownership from possession. The distribution service may own a crate while a shop temporarily holds it. If the record contains only the owner's name, it cannot tell the service where to arrange collection. A useful system records the current holder as well as the owner. This distinction becomes particularly important when equipment moves through more than two organisations, because an informal agreement between the first sender and recipient may not cover the next transfer."
+    },
+    {
+     "id": "27ABB5CE-9FF6-525C-A764-08F2914E9A58",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Each item needs an identifier that can be read throughout its intended use. A number printed on a removable delivery label is not necessarily sufficient, because that label may be replaced on the next journey. The identifier should refer to the equipment itself, while shipment information can change. This does not require an elaborate technology in every case. What matters is that the chosen method remains readable and that the record can connect one journey with the next."
+    },
+    {
+     "id": "3AC86CA1-2BD1-5DFD-8DD1-1D34E3732C50",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Decide which events need recording. Issuing a crate, transferring it, receiving it back and removing it from service are different events. A system that records only returns cannot show whether an item was never issued or is still away. Keep the event definitions clear. If one person uses 'returned' to mean collected from a shop and another means ready for a new delivery, the same word will describe different stages and produce misleading totals."
+    },
+    {
+     "id": "2B33233B-9A6B-5535-886D-1EEC6E9D7CF4",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Condition matters as well as location. Returned equipment may need inspection or preparation before it can be issued again. The record should distinguish available stock from items awaiting that work. Otherwise, a planner may promise more usable crates than the depot actually has. The purpose is not to create a complicated description of every mark. It is to record the information needed for the next appropriate action and to make responsibility for that action clear."
+    },
+    {
+     "id": "185A1DE9-8CD6-5C0C-981F-07550D14F91C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Timing introduces another practical issue. An item may be expected back, but that is different from knowing it has arrived. Record an expected date separately from a confirmed event. The distinction helps staff identify overdue equipment without treating every future return as present stock. It also allows the service to discover whether the collection schedule is realistic. A late return might reflect an unsuitable collection arrangement rather than a recipient simply forgetting an obligation."
+    },
+    {
+     "id": "1C3734D7-C4FC-5F84-92F2-1A0CBF26E98A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Users need instructions that fit the arrangement. A request to 'send it back' is incomplete if the recipient does not know whether to book a collection, leave the equipment in a particular place or bring it to a depot. Explain the method and whom to contact if it cannot be followed. The return journey is part of the service, not an optional detail added after the outward delivery has been designed. Responsibility should not become ambiguous at the moment the packaging is empty."
+    },
+    {
+     "id": "A15E2951-AB10-5325-B891-B334A8E6C6AC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, evaluate what the records actually establish. A high number of returns may be encouraging, but it does not by itself show how often each item was used or what resources were required between journeys. Keep conclusions proportionate to the information collected. A reliable reuse scheme links objects, movements, conditions and responsibilities. Good equipment helps, but the repeated journey depends on an organised process that continues after the first recipient has opened the parcel."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam25-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Separate ownership from temporary __________.",
+     "explanation": "The owner and current holder may differ.",
+     "evidenceQuote": "distinguish ownership from possession",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "possession"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Record the equipment’s current __________.",
+     "explanation": "The holder identifies where collection may be needed.",
+     "evidenceQuote": "the current holder as well as the owner",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "holder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Use a durable __________ for the equipment itself.",
+     "explanation": "Equipment identity should survive changes of shipment label.",
+     "evidenceQuote": "Each item needs an identifier",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "identifier"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Keep the definitions of recorded __________ clear.",
+     "explanation": "Different stages require clear event definitions.",
+     "evidenceQuote": "which events need recording",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "events"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Returned items may need __________ before reissue.",
+     "explanation": "Returned does not necessarily mean immediately usable.",
+     "evidenceQuote": "may need inspection or preparation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "inspection"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Distinguish usable stock from equipment still __________ work.",
+     "explanation": "Outstanding work prevents immediate availability.",
+     "evidenceQuote": "items awaiting that work",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "awaiting"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "An expected date differs from a __________ event.",
+     "explanation": "Expected returns are not confirmed arrivals.",
+     "evidenceQuote": "an expected date separately from a confirmed event",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "confirmed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "A delay may reveal an unsuitable collection __________.",
+     "explanation": "Late returns can result from the system, not just users.",
+     "evidenceQuote": "an unsuitable collection arrangement",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arrangement"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Return instructions should explain the __________ to use.",
+     "explanation": "Recipients need practical return instructions.",
+     "evidenceQuote": "Explain the method",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "method"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Reuse needs a process linking objects and __________.",
+     "explanation": "Responsibilities form part of the repeated-use process.",
+     "evidenceQuote": "objects, movements, conditions and responsibilities",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "responsibilities"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam25-rp1",
+   "passageNumber": 1,
+   "title": "A box designed for a journey",
+   "discipline": "Packaging Design",
+   "paragraphs": [
+    "Packaging is sometimes discussed as though its purpose begins and ends with enclosing a product. A more useful starting point is the journey the product is expected to make. It may be stored, lifted, stacked, moved between vehicles, opened and possibly sent back. Each activity creates a different requirement. A package that is easy to assemble may be difficult to open, while one that looks compact on a shelf may leave its contents poorly supported during movement. The design problem is therefore a sequence of related tasks rather than a single choice of external appearance.",
+    "Consider a hypothetical business sending replacement parts to small repair shops. The parts vary in shape, and some orders contain several items. Using one very large box for every order would simplify the list of packaging materials, but could create additional empty space around smaller contents. Using a different box for every possible combination would create a different burden in storage and selection. Neither extreme is automatically efficient. The business needs to understand the orders it actually sends before deciding which range of sizes would provide a reasonable compromise.",
+    "The space inside a package is not identical to its external dimensions. Walls, internal supports and the way an object is positioned all affect the usable area. A part that fits when measured alone may no longer fit when the required separation or protection is included. This is why a layout should show the complete packing arrangement rather than merely compare the longest dimension of a product with the longest dimension of a box. The relevant question concerns the relationship between contents and support throughout the arrangement, not just whether a lid can be closed.",
+    "Handling information is another part of the design. A mark may indicate the intended orientation or identify where an address belongs. But a symbol that the sender understands is not necessarily interpreted in the same way by every person who encounters the parcel. Important information should be clear in the context where it is used. An instruction hidden underneath a package may be discovered only after the action it was meant to guide. Adding more labels does not solve this problem if their placement, wording and relationship to other information remain confusing.",
+    "Opening deserves attention before a package reaches production. The recipient may need to identify the contents, remove an item without unnecessary difficulty and retain information for later reference. A package designed only around departure from the sender can neglect these activities. Imagine a request slip placed where it must be torn to gain access. The parcel may have arrived intact, yet its information becomes less useful at the moment it is needed. Studying the opening sequence can reveal a problem that would not be visible in a photograph of the closed box.",
+    "Returns add a further set of questions. A sender may hope that the original package will be used again, but hope is not a return procedure. The recipient needs to know which components to keep, how the item should be arranged and what information belongs on the outside. If old labels remain visible, they may conflict with the new destination. A reusable arrangement should make the next journey understandable rather than depend on the recipient reconstructing the sender's original choices from memory. Practical reuse is a process as well as a material characteristic.",
+    "Testing should reflect a defined requirement. A classroom comparison might investigate whether an insert keeps a model in position during one specified movement. Such a result is useful within that scope, but it does not reproduce every condition of a distribution network. Reporting the method and its limits allows a reader to understand what has been investigated. A dramatic demonstration without a clear question can be less informative than a modest comparison whose conditions are documented. The appearance of a severe test should not be confused with evidence relevant to the intended journey.",
+    "The strongest packaging decision connects these stages rather than allowing one measure to dominate unexamined. Materials, preparation, handling, opening and possible return may involve trade-offs. A designer can explain those trade-offs, identify the priorities of a particular application and state what still needs checking. There may not be one package that suits every product and route. There can nevertheless be a reasoned arrangement for a defined situation. Thinking in terms of a journey makes it easier to see which situation the arrangement actually serves and where an attractive general claim goes beyond the available evidence."
+   ],
+   "questions": [
+    {
+     "id": "exam25-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Packaging design involves several related activities during a product’s journey.",
+     "explanation": "Enclosure is only one part of the design task.",
+     "evidenceQuote": "a sequence of related tasks",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam25-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The repair-parts example proves that one large box is always most efficient.",
+     "explanation": "The example calls for a compromise based on actual orders.",
+     "evidenceQuote": "Neither extreme is automatically efficient.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam25-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The hypothetical repair-parts business sends more than a thousand orders weekly.",
+     "explanation": "No weekly order total is provided.",
+     "evidenceQuote": "a hypothetical business",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam25-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Internal supports can reduce the usable space in a package.",
+     "explanation": "External size alone does not establish usable capacity.",
+     "evidenceQuote": "Walls, internal supports and the way an object is positioned all affect the usable area.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam25-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "An orientation symbol is necessarily understood identically by every handler.",
+     "explanation": "Users may interpret symbols differently.",
+     "evidenceQuote": "not necessarily interpreted in the same way",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam25-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "A closed-box photograph can reveal every problem in the opening sequence.",
+     "explanation": "Opening problems need investigation of the sequence.",
+     "evidenceQuote": "would not be visible in a photograph of the closed box",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam25-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most recipients keep all packaging for a month after delivery.",
+     "explanation": "The passage gives no retention statistics.",
+     "evidenceQuote": "The recipient needs to know which components to keep",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam25-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "The range of box sizes should reflect actual __________.",
+     "explanation": "Decisions should be based on the orders involved.",
+     "evidenceQuote": "the orders it actually sends",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "orders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A layout needs to show the whole packing __________.",
+     "explanation": "The object and its supports must be considered together.",
+     "evidenceQuote": "the complete packing arrangement",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arrangement"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Label effectiveness depends partly on __________.",
+     "explanation": "Adding labels cannot compensate for poor placement.",
+     "evidenceQuote": "their placement, wording",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "placement"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "A torn request __________ may make parcel information less useful.",
+     "explanation": "The opening sequence should preserve useful information.",
+     "evidenceQuote": "a request slip placed where it must be torn",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "slip"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Old labels may contradict the new __________.",
+     "explanation": "A return journey needs clear current information.",
+     "evidenceQuote": "conflict with the new destination",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "destination"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Testing should address a defined __________.",
+     "explanation": "The test must connect to the intended purpose.",
+     "evidenceQuote": "Testing should reflect a defined requirement.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "requirement"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 744,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam25-rp2",
+   "passageNumber": 2,
+   "title": "What a delivery total leaves out",
+   "discipline": "Operations Analysis",
+   "paragraphs": [
+    "A distribution team can report the number of parcels dispatched in a day, and the figure may be perfectly accurate. Its interpretation is less straightforward. A parcel is a unit created by packing decisions, not necessarily a fixed amount of work or a complete customer order. One order might fill three boxes, while several small items could travel together. Before comparing output between days, an analyst needs to know what was counted and how that count relates to the activity being evaluated. Otherwise, a clear total can support an unclear claim about performance.",
+    "Imagine two days with an identical number of dispatched boxes. On the first, most orders contain one standard item. On the second, staff assemble mixed selections requiring additional checks. The equal totals do not establish equal effort. Equally, a lower total does not by itself prove that staff worked less effectively. The difference could arise from the composition of the work. This is not a reason to abandon counting. It is a reason to record enough context to distinguish a change in the work from a change in the way the work was carried out.",
+    "The point at which an event is counted matters too. A box placed on a dispatch shelf may be ready to leave, but it has not necessarily been collected. If one team counts shelf placement and another counts vehicle departure, their totals describe different stages. Both can be useful if labelled clearly. Problems arise when the common word 'sent' hides the distinction. A comparison should begin with definitions, not with a search for explanations of a difference that may have been created by the recording method itself.",
+    "Incomplete orders need a separate place in the account. A team might dispatch part of an order while waiting for another item. Counting the outgoing parcel records a real movement, but does not establish that the customer's request has been completed. Whether partial dispatch is helpful depends on the circumstances and the agreement with the recipient. The analyst should therefore distinguish movement of goods from fulfilment of a request. A measure designed for planning vehicle space may be unsuitable as the only measure of customer service, even when both concern the same boxes.",
+    "Time can be transferred between stages. A change that speeds packing may require more preparation earlier, or leave the recipient with a longer sorting task. Evaluating only the packing bench could make that transfer appear to be a complete saving. A broader description follows the work far enough to identify where effort has moved. It need not measure every second in the entire system. It should, however, avoid declaring that work has disappeared simply because it now occurs outside the area observed. The boundary of the evaluation is part of its meaning.",
+    "Error measures also require interpretation. A high number of corrections before dispatch might indicate a careless process, but it could also reflect an effective check that discovers problems before they reach recipients. A low number of recorded corrections may be reassuring or may mean that checks are absent. More information is needed to separate those explanations. The appropriate response is not to reward or punish a team from the total alone, but to investigate what the recording process captures and what kinds of problem remain invisible to it.",
+    "Workers can help explain the activity behind a figure. Someone assembling mixed orders may know which repeated interruption the dispatch total conceals. Their account is valuable evidence about the process, although it should not automatically replace other observations. A useful investigation combines records, direct observation and questions that allow unexpected explanations. Asking only whether staff agree with a proposed cause can narrow the enquiry too early. The purpose is to understand the relationship between the number and the work, not simply to attach a persuasive story to a preselected conclusion.",
+    "A delivery total is therefore a starting point rather than a complete verdict. It can help plan capacity, reveal a change or suggest where a closer look is needed. Its usefulness increases when its unit, event definition and limits are explicit. The same organisation may reasonably use several measures for different decisions, provided their roles remain clear. Counting parcels is not a mistaken activity. Mistaking that count for a full description of effort, completed service or quality is the error. Good operational analysis preserves the convenience of a total while resisting claims it cannot support."
+   ],
+   "questions": [
+    {
+     "id": "exam25-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B distinguishes output totals from the composition of the work.",
+     "evidenceQuote": "equal totals do not establish equal effort",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. The difference between output and effort",
+      "The difference between output and effort"
+     ]
+    },
+    {
+     "id": "exam25-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C concerns consistent definitions of the counted event.",
+     "evidenceQuote": "The point at which an event is counted",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Agreeing on which event is recorded",
+      "Agreeing on which event is recorded"
+     ]
+    },
+    {
+     "id": "exam25-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D distinguishes dispatch from completion of an order.",
+     "evidenceQuote": "distinguish movement of goods from fulfilment of a request",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Sending a parcel versus completing a request",
+      "Sending a parcel versus completing a request"
+     ]
+    },
+    {
+     "id": "exam25-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E explains how work can move outside a measurement boundary.",
+     "evidenceQuote": "Time can be transferred between stages.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Work that moves beyond the observed stage",
+      "Work that moves beyond the observed stage"
+     ]
+    },
+    {
+     "id": "exam25-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F discusses alternative explanations for correction totals.",
+     "evidenceQuote": "Error measures also require interpretation.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Why correction counts can have different meanings",
+      "Why correction counts can have different meanings"
+     ]
+    },
+    {
+     "id": "exam25-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G explains the role of workers’ accounts.",
+     "evidenceQuote": "Workers can help explain the activity behind a figure.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Learning from people who perform the work",
+      "Learning from people who perform the work"
+     ]
+    },
+    {
+     "id": "exam25-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H defines the proper role and limits of totals.",
+     "evidenceQuote": "a starting point rather than a complete verdict",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Using a total without treating it as a verdict",
+      "Using a total without treating it as a verdict"
+     ]
+    },
+    {
+     "id": "exam25-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why might equal parcel totals involve different effort?",
+     "explanation": "The contents and checking work may differ.",
+     "evidenceQuote": "mixed selections requiring additional checks",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every parcel has an identical standard content.",
+      "B. The number of orders must be the same.",
+      "C. The mix of orders can require different work.",
+      "D. Equal totals cannot be accurately recorded."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The mix of orders can require different work.",
+      "The mix of orders can require different work."
+     ]
+    },
+    {
+     "id": "exam25-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What is the problem with using the word “sent” without explanation?",
+     "explanation": "The word may refer to different stages in different records.",
+     "evidenceQuote": "hides the distinction",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It may conceal different event definitions.",
+      "B. It always means the recipient has opened a box.",
+      "C. It prevents vehicle capacity being measured.",
+      "D. It proves staff have changed the totals."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It may conceal different event definitions.",
+      "It may conceal different event definitions."
+     ]
+    },
+    {
+     "id": "exam25-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What can a high number of pre-dispatch corrections indicate?",
+     "explanation": "Corrections may show an effective checking process.",
+     "evidenceQuote": "an effective check that discovers problems",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. That no checks are taking place.",
+      "B. That every recipient received an incorrect parcel.",
+      "C. That the dispatch count is necessarily false.",
+      "D. That problems are being found before delivery."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. That problems are being found before delivery.",
+      "That problems are being found before delivery."
+     ]
+    },
+    {
+     "id": "exam25-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The __________ of an evaluation affects its meaning.",
+     "explanation": "The observed scope determines what a saving claim covers.",
+     "evidenceQuote": "The boundary of the evaluation is part of its meaning.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boundary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Investigations should permit unexpected __________.",
+     "explanation": "Questions should not force a preferred cause.",
+     "evidenceQuote": "questions that allow unexpected explanations",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "explanations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "A total can help an organisation plan __________.",
+     "explanation": "A limited measure remains useful for appropriate decisions.",
+     "evidenceQuote": "It can help plan capacity",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "capacity"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 733,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. Why correction counts can have different meanings",
+      "ii. Agreeing on which event is recorded",
+      "iii. Using a total without treating it as a verdict",
+      "iv. Work that moves beyond the observed stage",
+      "v. Why dispatch should stop permanently",
+      "vi. The difference between output and effort",
+      "vii. Replacing all records with personal opinions",
+      "viii. Sending a parcel versus completing a request",
+      "ix. Learning from people who perform the work"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam25-rp3",
+   "passageNumber": 3,
+   "title": "Should the smallest package always win?",
+   "discipline": "Design and Responsibility",
+   "paragraphs": [
+    "A package containing a small object and a great deal of empty space can be frustrating to open. The visible mismatch invites a simple conclusion: less packaging must be better. In my view, reducing unnecessary material is a sensible aim, but the word 'unnecessary' requires a purpose against which it can be judged. A package has to serve activities beyond the moment when a buyer sees it. The right question is not whether material can be removed in isolation, but whether a proposed arrangement performs the required work with a justified use of resources.",
+    "Protection is an obvious consideration, yet it should not become an unlimited excuse. A sender cannot establish that every layer is necessary simply by pointing to the value of the contents. Requirements should be investigated and explained. Equally, a visibly smaller package does not prove that the contents will arrive in the condition promised. I would reject both extremes: treating all protective material as waste before examining its role, and treating every existing arrangement as essential because it has been used before. Either position can avoid the practical question it claims to answer.",
+    "Opening and handling deserve a place in the judgement. A very compact arrangement may be difficult for a recipient to open without damaging useful information or struggling with tightly fitted parts. Another arrangement might use a little more material while making the contents easier to identify and remove. This does not mean that convenience justifies any quantity. It means the comparison should include the people performing the task, rather than assume that the smallest closed parcel describes the best experience. An efficient departure from a warehouse is only one stage of the activity.",
+    "Standardisation can create another trade-off. A modest range of package sizes may simplify storage, training and selection. Demanding a unique perfectly fitted box for every order could introduce work and materials elsewhere. On the other hand, operational convenience should not prevent a business from reviewing a range that plainly fits its current orders badly. In my view, the reasonable approach is to examine the actual distribution of needs and revisit the choice when that distribution changes. Neither complete uniformity nor unlimited variation deserves to be treated as a principle beyond discussion.",
+    "Reuse should be described with similar care. A package that can physically survive another journey is not automatically part of a functioning return system. Someone needs to keep it, prepare it and move it to where it will be used. A claim about potential reuse is therefore different from evidence of repeated use in practice. I believe businesses should make that distinction clear. Otherwise, a desirable possibility can appear to have already delivered a benefit, while the responsibilities and resources needed to realise it remain outside the description.",
+    "Comparisons also need a defined boundary. A change that reduces material at the packing bench might require more protective work earlier or create more work for the recipient. Whether that trade-off is justified depends on the circumstances, but it should at least be visible. I would not call an arrangement improved solely because the easiest part to count has become smaller. A responsible evaluation states what it included, what it omitted and which conclusion the evidence can support. This is more informative than presenting a single attractive number without explaining its relationship to the whole journey.",
+    "Consumers have a role, but they should not be given instructions that the available services make impractical. Telling someone to return a component is not useful if no return route is explained. Similarly, asking people to separate materials requires a description they can follow in their own circumstances. Clear information and workable arrangements are part of design responsibility. In my view, an organisation should evaluate how recipients actually manage the task, not merely whether a sentence on a label transfers the obligation to them. Instructions cannot by themselves create an absent service.",
+    "The smallest package may sometimes be the best choice. The mistake is to assume the conclusion before defining the task. A sound decision can favour reduction, reuse or a different arrangement while explaining why it suits the particular product and journey. It can also identify uncertainty instead of disguising it as precision. I would favour fewer unsupported promises and clearer practical comparisons. Responsible packaging is not demonstrated by size alone, but by an account of the work the package does, the resources it uses and the people expected to carry the process forward."
+   ],
+   "questions": [
+    {
+     "id": "exam25-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Reducing material that serves no justified purpose is a reasonable aim.",
+     "explanation": "The writer supports purposeful reduction.",
+     "evidenceQuote": "reducing unnecessary material is a sensible aim",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam25-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The value of a product proves that every existing protective layer is necessary.",
+     "explanation": "Value alone does not justify all layers.",
+     "evidenceQuote": "cannot establish that every layer is necessary simply by pointing to the value",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam25-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer previously managed a packaging warehouse.",
+     "explanation": "No employment history is supplied.",
+     "evidenceQuote": "An efficient departure from a warehouse",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam25-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "The recipient’s opening task should be included in a packaging comparison.",
+     "explanation": "Opening is part of the relevant activity.",
+     "evidenceQuote": "the comparison should include the people performing the task",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam25-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "A package capable of another journey proves that reuse has happened.",
+     "explanation": "Potential and actual reuse differ.",
+     "evidenceQuote": "potential reuse is therefore different from evidence of repeated use",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam25-R32",
+     "number": 32,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer object to declaring all existing layers essential?",
+     "explanation": "The role of the layers still needs investigation.",
+     "evidenceQuote": "Either position can avoid the practical question",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It makes every package physically smaller.",
+      "B. It avoids investigating their actual role.",
+      "C. It guarantees that reuse will occur.",
+      "D. It requires every order to have a unique box."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It avoids investigating their actual role.",
+      "It avoids investigating their actual role."
+     ]
+    },
+    {
+     "id": "exam25-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "What should guide a business’s range of standard package sizes?",
+     "explanation": "The range should reflect real needs and be reviewed when they change.",
+     "evidenceQuote": "the actual distribution of needs",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A rule against ever changing existing sizes.",
+      "B. The greatest possible number of alternatives.",
+      "C. A requirement that every product use one size.",
+      "D. The needs represented by its actual orders."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. The needs represented by its actual orders.",
+      "The needs represented by its actual orders."
+     ]
+    },
+    {
+     "id": "exam25-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "What should a responsible evaluation make visible?",
+     "explanation": "Its scope and omissions should be explicit.",
+     "evidenceQuote": "what it included, what it omitted",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The boundary and omissions of the comparison.",
+      "B. Only the smallest recorded quantity.",
+      "C. A promise that no uncertainty remains.",
+      "D. Only the convenience of warehouse staff."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The boundary and omissions of the comparison.",
+      "The boundary and omissions of the comparison."
+     ]
+    },
+    {
+     "id": "exam25-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "Why can a return instruction be inadequate?",
+     "explanation": "An instruction needs a workable route behind it.",
+     "evidenceQuote": "if no return route is explained",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every recipient already knows the route.",
+      "B. Reusable components cannot be labelled.",
+      "C. It may lack a practical means of following it.",
+      "D. A label always creates the necessary service."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It may lack a practical means of following it.",
+      "It may lack a practical means of following it."
+     ]
+    },
+    {
+     "id": "exam25-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "Which statement best expresses the writer’s conclusion?",
+     "explanation": "Size should be judged in relation to the task and evidence.",
+     "evidenceQuote": "The mistake is to assume the conclusion before defining the task.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Smaller packaging is never useful.",
+      "B. Packaging size alone cannot establish the best arrangement.",
+      "C. Every package must be returned to its sender.",
+      "D. Only recipients are responsible for improvements."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Packaging size alone cannot establish the best arrangement.",
+      "Packaging size alone cannot establish the best arrangement."
+     ]
+    },
+    {
+     "id": "exam25-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Claims about necessary material require a defined __________.",
+     "explanation": "Purpose determines what material is unnecessary.",
+     "evidenceQuote": "requires a purpose",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purpose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Standardisation can simplify storage, training and __________.",
+     "explanation": "Selection is one operational benefit.",
+     "evidenceQuote": "storage, training and selection",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "selection"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "A proposal should identify rather than disguise __________.",
+     "explanation": "Uncertainty should remain explicit.",
+     "evidenceQuote": "identify uncertainty instead of disguising it",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "uncertainty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam25-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Instructions cannot create a missing __________.",
+     "explanation": "A practical service must support the instruction.",
+     "evidenceQuote": "an absent service",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "service"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 740,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam25-w1",
+  "title": "Preparing a reusable display case for its next booking",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows how a case-hire workshop prepares a returned display case for its next booking. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Returned case and accessories are received at the workshop",
+   "Case identifier is matched to the hire record",
+   "Staff inspect the shell and internal components",
+   "Items needing repair are sent to the repair bench; others continue",
+   "Case and reusable inserts are cleaned",
+   "Accessories are counted and the case is reassembled",
+   "Condition and availability are updated in the record",
+   "Prepared case is placed in storage for the next booking"
+  ],
+  "keyOverviewPoints": [
+   "The process begins with receiving returned equipment and ends with storage for another booking.",
+   "Inspection creates a repair branch before cases rejoin cleaning, checking and preparation."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam25-w2",
+  "title": "Responsibility for delivery packaging",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Business and Environment",
+  "promptText": "Companies selling goods online should be responsible for collecting and reusing the packaging in which they deliver their products. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam25-spk",
+  "theme": "Preparing things for travel",
+  "part1Questions": [
+   "Do you usually pack early before a trip?",
+   "What do you prefer to carry things in?",
+   "Have you ever borrowed equipment for a journey?",
+   "Do you keep useful boxes or bags at home?",
+   "What do you check before leaving home?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you carefully prepared belongings for a journey.",
+   "bulletPoints": [
+    "where you were going",
+    "what you needed to take",
+    "how you prepared the belongings",
+    "and explain why the preparation mattered"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people differ in how much they take on a journey?",
+   "What makes instructions for returning an item easy to follow?",
+   "Should businesses consider the recipient’s experience when designing packaging?",
+   "What are the benefits and difficulties of sharing reusable equipment?",
+   "How can organisations judge whether a new delivery arrangement is an improvement?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Organisations, prices, transport arrangements and student projects in Listening are fictional. Reading uses hypothetical operational examples rather than invented empirical studies. The Writing process is a simplified fictional workshop procedure.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,2127 @@
+{
+ "id": "exam10",
+ "examNumber": 10,
+ "pool": "mock",
+ "title": "Mock Exam 10: Oceans, Coasts & Marine Life",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Oceans, Coasts & Marine Life",
+ "listeningParts": [
+  {
+   "id": "exam10-lp1",
+   "partNumber": 1,
+   "title": "Booking a diving course",
+   "contextDescription": "A woman phones a diving school to book a beginners' course for her holiday.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "0EE6CE1F-AB42-5EAF-8739-3230D8ED150F",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "G'day, Coral Bay Dive Centre, Ryan speaking."
+    },
+    {
+     "id": "925F00D5-FC9A-5BC7-A0E2-B726645043A1",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Oh, hello. I'm coming to Coral Bay on holiday next month, and I'd love to learn to dive while I'm there. Could you tell me about your courses for beginners?"
+    },
+    {
+     "id": "2B13AB3F-A8D9-5DA1-949B-2E68689B9DBA",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Sure thing. We have two options for complete beginners. The first is a Try Dive, which is a single morning. You learn the basics in the pool and then do one shallow dive in the sea with an instructor holding onto you. It doesn't give you a qualification, but it's a good way to see if you like it."
+    },
+    {
+     "id": "85D5C455-A219-5FC2-BB55-37BA16B09FEA",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "And the other option?"
+    },
+    {
+     "id": "F581BAC0-3391-54AB-B33D-DB42FC5BE0B4",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "The other is the Open Water course, which is the full beginner's qualification. It takes four days. You do some theory, five sessions in the pool and four dives in the sea. At the end, you get a certificate that allows you to dive anywhere in the world, down to eighteen metres, with a buddy."
+    },
+    {
+     "id": "AF4749AF-402D-51AB-9A71-F7EA1A3F7F98",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Four days. I'm there for ten days, so I think I'd like to do the full course. How much does it cost?"
+    },
+    {
+     "id": "74C13B15-E7D7-542D-8BEB-B6FED19EFCAF",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "The Open Water course is six hundred and fifty dollars. That includes all the equipment hire, the boat trips and your certificate. The only extra cost is the online theory course, which you should complete before you arrive. That's about a hundred dollars, but it means you spend less time in the classroom and more time in the water."
+    },
+    {
+     "id": "C822570D-2C52-5377-B78B-9FB0CBAAF38B",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "That makes sense. What dates are available?"
+    },
+    {
+     "id": "A24DDD55-017E-5E6D-87A8-5447B4547A33",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "We start a new course every Monday and Thursday. Which week are you here?"
+    },
+    {
+     "id": "B802D629-0E08-5F64-A1F2-E617D89D697D",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I arrive on Saturday the twelfth of April."
+    },
+    {
+     "id": "6620861B-EC8F-5780-AF74-3F0A8A94AFAF",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Then you could start on Monday the fourteenth, which would finish on the Thursday. That gives you a few days afterwards to do some fun dives with your new certificate."
+    },
+    {
+     "id": "2580EDD5-172F-52C3-AC7C-98FE93FEA692",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Perfect. Is there anything I need to know about my health?"
+    },
+    {
+     "id": "645DC6FF-FAA2-5EEF-886B-F156031A3175",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Yes, everyone has to fill in a medical form. If you answer yes to any of the questions, for example if you have asthma or heart problems, you'll need a letter from a doctor saying you're fit to dive. It's best to sort that out before you travel, because it can be hard to see a doctor here at short notice."
+    },
+    {
+     "id": "B7D66565-43FC-5E19-864B-190E4C7DF46D",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "I don't think I have any problems, but I'll check the form. Do I need to be a strong swimmer?"
+    },
+    {
+     "id": "9A180A3A-8F3F-5011-8E13-A5044E2FF73A",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "You need to be able to swim two hundred metres without stopping, any stroke, and float for ten minutes. You don't need to be fast."
+    },
+    {
+     "id": "4E47F449-5CAF-5404-A782-343F79545F8E",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "That's fine. What's the group size?"
+    },
+    {
+     "id": "47B96177-5D15-5046-B4BC-185852DB160F",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "We keep it small: a maximum of four students per instructor. So you get plenty of attention."
+    },
+    {
+     "id": "8F383E9F-BE4C-501F-90DD-E3002B3A31F6",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "And what will I see on the dives?"
+    },
+    {
+     "id": "17600E6B-F1BA-51F4-AE4E-B45DBFDB55E5",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Coral Bay is famous for its reef, which starts just a few metres from the beach. You'll see lots of tropical fish, often turtles, and if you're lucky, manta rays. They visit the bay between May and November, so you might be a bit early, but sometimes we see them in April."
+    },
+    {
+     "id": "EF29F79A-4FCF-5492-B690-C655E822ABCA",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Oh, I hope so. Where do I go on the first day?"
+    },
+    {
+     "id": "1ED4D13D-9AC5-54E9-9932-0B222124C28C",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Come to our shop on Robinson Street at eight o'clock. It's next to the bakery, opposite the post office. Bring your swimming costume, a towel and plenty of sun cream. Please make sure it's reef-safe sun cream, because some chemicals in normal sun cream damage the coral."
+    },
+    {
+     "id": "19FD0BF6-A54B-57BC-BCA3-61682C590458",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Reef-safe sun cream. I'll look for that. Can I book now?"
+    },
+    {
+     "id": "672376BC-5590-52A1-9239-1B05765E3FD9",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Of course. Can I take your name?"
+    },
+    {
+     "id": "6CF193A3-3723-5840-A87A-7E294ADA1A87",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "It's Laura Whitfield. W-H-I-T-F-I-E-L-D."
+    },
+    {
+     "id": "ADC3E541-BC99-546E-9EE1-41F85809C461",
+     "speaker": "Instructor",
+     "accent": "en-AU",
+     "text": "Thanks, Laura. We ask for a deposit of a hundred and fifty dollars to hold your place. If you cancel more than fourteen days before, you'll get it back. I'll send you the link to the online course and the medical form by email."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam10-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Open Water course length: __________ days",
+     "explanation": "The course takes four days.",
+     "evidenceQuote": "It takes four days.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Qualification allows diving to __________ metres with a buddy",
+     "explanation": "The certificate allows 18 metres.",
+     "evidenceQuote": "down to eighteen metres, with a buddy",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "18",
+      "eighteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Course price: $__________ (includes equipment and boat trips)",
+     "explanation": "The course costs $650.",
+     "evidenceQuote": "The Open Water course is six hundred and fifty dollars.",
+     "skillTag": "numbers",
+     "distractorNote": "About $100 is for the online theory; $150 is the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "650",
+      "six hundred and fifty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Course start date: Monday __________ April",
+     "explanation": "She will start on 14 April.",
+     "evidenceQuote": "you could start on Monday the fourteenth",
+     "skillTag": "dates",
+     "distractorNote": "She arrives on the 12th.",
+     "options": [],
+     "acceptedAnswers": [
+      "14",
+      "14th",
+      "fourteenth",
+      "the fourteenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Health problems require a letter from a __________",
+     "explanation": "A doctor's letter is needed.",
+     "evidenceQuote": "you'll need a letter from a doctor",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "doctor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Swimming test: swim __________ metres without stopping",
+     "explanation": "She must swim 200 metres.",
+     "evidenceQuote": "swim two hundred metres without stopping",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "200",
+      "two hundred"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Maximum students per instructor: __________",
+     "explanation": "Four students per instructor.",
+     "evidenceQuote": "a maximum of four students per instructor",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Manta rays usually visit between May and __________",
+     "explanation": "Manta rays come May to November.",
+     "evidenceQuote": "They visit the bay between May and November",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "November"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Shop location: Robinson Street, next to the __________",
+     "explanation": "The shop is next to the bakery.",
+     "evidenceQuote": "It's next to the bakery",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bakery"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Bring __________ sun cream to protect the coral",
+     "explanation": "Reef-safe sun cream is required.",
+     "evidenceQuote": "Please make sure it's reef-safe sun cream",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reef-safe"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "scuba",
+    "instructor",
+    "certificate",
+    "wetsuit",
+    "medical form"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam10-lp2",
+   "partNumber": 2,
+   "title": "Volunteering on a beach clean-up",
+   "contextDescription": "A coordinator explains a beach clean-up and marine survey day to a group of volunteers.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "57DD224F-CD4F-52A4-A228-E2737AFDBAFC",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Good morning, everyone! Thanks so much for coming out on a Saturday morning, and especially in this wind. My name is Fiona, and I'm the coordinator for Clean Coasts in this region. Before we get started, I'll explain what we're doing today and how to stay safe."
+    },
+    {
+     "id": "2D2CAB64-2C22-54BD-A798-16D30CE00E9A",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "First, some background. Our charity organises beach clean-ups all around the country, and last year, volunteers removed over a hundred and twenty tonnes of rubbish from our beaches. But we don't just collect litter. We also record exactly what we find, because that information is really valuable. It's sent to scientists and to the government, and it has helped to change the law. For example, data collected by volunteers like you was used as evidence when the government introduced a charge on plastic bags, and the number of bags we find on beaches has fallen by more than half since then."
+    },
+    {
+     "id": "99552D6C-0F02-5625-8695-5F17EB577A16",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "So, how will today work? We're going to divide into teams of four. Each team will be given a section of beach exactly one hundred metres long, marked with flags. Within your section, please collect everything that isn't natural. One person in each team will be the recorder, who fills in the data sheet, noting each item you find. The others collect the litter and call out what it is."
+    },
+    {
+     "id": "2067C9F6-701C-52BD-B846-6DBE900E8A11",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "The most common items we find are usually small pieces of plastic, then plastic bottle caps, and then fishing rope and nets. Cigarette ends are also very common, and they're a real problem, because the filters contain plastic and toxic chemicals. Please count them carefully, even though they're small."
+    },
+    {
+     "id": "B9DF04FD-21D0-5E9A-999F-13746056EB63",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Now, safety. Everyone must wear the gloves we've given you, and please use the litter pickers for anything sharp. If you find anything dangerous, like broken glass, needles or containers of chemicals, don't touch it. Mark the spot with one of the small orange flags and tell me or one of the other team leaders, who are wearing yellow jackets. We'll deal with it."
+    },
+    {
+     "id": "9AEF0930-C4BC-5F6C-B7FE-52A7108F2AFD",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "Also, please keep away from the bottom of the cliffs at the northern end of the beach. There have been small rock falls there recently, so that area is closed. And keep an eye on the tide. It's going out at the moment, but it will turn at about half past twelve, so we'll finish by twelve to be safe."
+    },
+    {
+     "id": "5FFD4940-0628-5698-BBDE-2A8130187B51",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "After the litter collection, those of you who are interested can join our marine biologist, Dr Patel, for a rock pool survey at the southern end of the beach. She'll show you how to identify crabs, starfish and other creatures, and you'll help her count them. This is part of a long-term study looking at how warmer sea temperatures are affecting which species live on our coast. Please remember to put any creatures back exactly where you found them, and turn any rocks you lift back over carefully."
+    },
+    {
+     "id": "89930F93-A244-5F0D-BC35-E881BBA58372",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "If you find any animals tangled in litter, such as a seabird caught in fishing line, please don't try to free it yourself, as you could injure it or get hurt. Call me, and we'll contact the local wildlife rescue centre, who are on standby today. Last month, volunteers found a young seal caught in a net, and it was rescued and released back into the sea a week later."
+    },
+    {
+     "id": "FAD464F8-D89E-5FF9-9F3E-A4AB9430F017",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "When you've finished, please bring your bags to the collection point by the café. Separate the recycling, mainly plastic bottles and cans, from the general rubbish. The local council will collect everything this afternoon."
+    },
+    {
+     "id": "A9DED2D4-1548-5FAE-88EE-5602EC2FC3FE",
+     "speaker": "Coordinator",
+     "accent": "en-GB",
+     "text": "And finally, to say thank you, the beach café is offering everyone a free hot drink when you show them your volunteer badge. Right, let's get into teams."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam10-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why do volunteers record what they find?",
+     "explanation": "The data goes to scientists and the government.",
+     "evidenceQuote": "that information is really valuable. It's sent to scientists and to the government",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to decide which beaches to clean next",
+      "B. to provide information to scientists and the government",
+      "C. to calculate the weight of the rubbish"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to provide information to scientists and the government",
+      "to provide information to scientists and the government"
+     ]
+    },
+    {
+     "id": "exam10-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What happened after the charge on plastic bags was introduced?",
+     "explanation": "Bags on beaches fell by more than half.",
+     "evidenceQuote": "the number of bags we find on beaches has fallen by more than half",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Volunteers stopped recording bags.",
+      "B. The amount of litter increased.",
+      "C. Fewer bags were found on beaches."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Fewer bags were found on beaches.",
+      "Fewer bags were found on beaches."
+     ]
+    },
+    {
+     "id": "exam10-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What is the role of the recorder in each team?",
+     "explanation": "The recorder fills in the data sheet.",
+     "evidenceQuote": "who fills in the data sheet, noting each item you find",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to write down each item found",
+      "B. to carry the bags",
+      "C. to mark dangerous items"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to write down each item found",
+      "to write down each item found"
+     ]
+    },
+    {
+     "id": "exam10-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why are cigarette ends a particular problem?",
+     "explanation": "Filters contain plastic and toxic chemicals.",
+     "evidenceQuote": "the filters contain plastic and toxic chemicals",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Small pieces of plastic are the most common item.",
+     "options": [
+      "A. They are difficult to see.",
+      "B. They contain plastic and poisons.",
+      "C. They are the most common item."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They contain plastic and poisons.",
+      "They contain plastic and poisons."
+     ]
+    },
+    {
+     "id": "exam10-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What should volunteers do if they find something dangerous?",
+     "explanation": "Mark it and tell a team leader.",
+     "evidenceQuote": "Mark the spot with one of the small orange flags and tell me or one of the other team leaders",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. put it in a separate bag",
+      "B. take it to the café",
+      "C. mark it and tell a team leader"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. mark it and tell a team leader",
+      "mark it and tell a team leader"
+     ]
+    },
+    {
+     "id": "exam10-L16",
+     "number": 16,
+     "format": "Note Completion",
+     "prompt": "Each team cleans a section __________ metres long",
+     "explanation": "Each section is 100 metres.",
+     "evidenceQuote": "a section of beach exactly one hundred metres long",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "100",
+      "one hundred"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "Area near the __________ is closed because of rock falls",
+     "explanation": "The cliffs area is closed.",
+     "evidenceQuote": "keep away from the bottom of the cliffs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cliffs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Rock pool study: effect of warmer sea __________ on species",
+     "explanation": "The study looks at warmer temperatures.",
+     "evidenceQuote": "how warmer sea temperatures are affecting which species live on our coast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "temperatures"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Bags taken to the collection point by the __________",
+     "explanation": "The collection point is by the café.",
+     "evidenceQuote": "bring your bags to the collection point by the café",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "café"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Show your volunteer __________ for a free hot drink",
+     "explanation": "Show the badge for a free drink.",
+     "evidenceQuote": "when you show them your volunteer badge",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "badge"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "litter",
+    "microplastics",
+    "survey",
+    "gloves",
+    "data sheet"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam10-lp3",
+   "partNumber": 3,
+   "title": "Planning a presentation on coral reefs",
+   "contextDescription": "Two marine biology students, Jack and Leila, plan a seminar presentation on coral reefs with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "FB9CEAC7-3D9E-5A35-AC36-119633776400",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Right, Jack and Leila. You're presenting on coral reefs next week. How are you planning to approach it?"
+    },
+    {
+     "id": "9192BC8B-74E3-59DF-8F59-96D50FF53B5C",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "We want to start by explaining what coral actually is, because when we asked friends, most of them thought coral was a type of rock or a plant."
+    },
+    {
+     "id": "89986B25-F227-5B49-9B8E-2D92E8F0C342",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "Right. So we'll explain that each coral is made up of thousands of tiny animals called polyps, and that they build their hard skeletons from calcium carbonate. And then the really important part: inside their tissues live microscopic algae, which provide the coral with most of its food through photosynthesis."
+    },
+    {
+     "id": "CE23C266-F5C8-5068-A3F1-A476B36390DF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. That relationship is key to understanding bleaching. How will you explain that?"
+    },
+    {
+     "id": "6DBC8AAB-571A-528C-9DA7-A00CFA777AE4",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "When the water gets too warm, even just one or two degrees above normal for a few weeks, the coral becomes stressed and expels the algae. Because the algae give coral its colour, the coral turns white, which is why it's called bleaching. If temperatures return to normal quickly, the algae can come back, but if the heat lasts too long, the coral starves and dies."
+    },
+    {
+     "id": "A82827FF-7E83-59BE-82AB-33C0ED9E0CDA",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "We were going to show some photos of the Great Barrier Reef before and after a bleaching event. They're really striking."
+    },
+    {
+     "id": "CB8F00C9-5851-5C7B-A981-AEF5EC3E48E1",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Photos are effective, but make sure you have permission to use them, and cite the source. What else are you covering?"
+    },
+    {
+     "id": "332FA938-53AA-51E8-9E44-2BFEF736CCCE",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "Ocean acidification. As the ocean absorbs carbon dioxide from the atmosphere, the water becomes more acidic, which makes it harder for coral to build their skeletons."
+    },
+    {
+     "id": "1515FF8E-7C2A-5AFD-A50D-F60E91DE8328",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "And we want to mention local threats too, like pollution from farms, which causes algae to grow over the coral, and overfishing, which removes fish that normally keep algae under control."
+    },
+    {
+     "id": "1734EFC8-33FC-51B1-8744-E66BFB0E5BB7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a lot to fit into fifteen minutes. I'd suggest you focus on warming and bleaching, since that's the biggest threat, and mention the others more briefly."
+    },
+    {
+     "id": "D24BC2F5-D600-57AC-A369-CB591F628FC9",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "Okay, that makes sense. Then for the second half, we wanted to talk about solutions, particularly coral restoration."
+    },
+    {
+     "id": "B783AFCE-AD8E-515A-98F6-F98AD63B2118",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What examples have you found?"
+    },
+    {
+     "id": "E9338795-F6F9-5021-B545-DEED816163FB",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "There's a technique called coral gardening, where small pieces of coral are grown on underwater frames, a bit like a plant nursery, and then planted onto damaged reefs. It's been used in Florida and the Caribbean."
+    },
+    {
+     "id": "9CCDCB03-BB80-5D0E-8E44-248D7B820D91",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "And scientists in Australia are trying to breed corals that can survive higher temperatures. They're crossing corals from warmer parts of the reef with corals from cooler parts."
+    },
+    {
+     "id": "74AF5618-677A-5171-8C67-65712FC7CDB1",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. But be careful how you present these. Some researchers argue that restoration can only work on a very small scale, and that it risks distracting attention from the main problem, which is reducing greenhouse gas emissions."
+    },
+    {
+     "id": "D8953B78-5A15-5BF5-9CFC-060085AD1A8F",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "We did read that. Restoring even a small area is very expensive, and the reefs are enormous."
+    },
+    {
+     "id": "AFF40C81-BB29-50D7-8DC3-8435C80D0985",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "Maybe we could end with a slide saying that restoration can help buy time, but it can't replace action on climate change."
+    },
+    {
+     "id": "73D27F03-83D8-5EED-8196-FD72A52D9D51",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "And we could mention what ordinary people can do, like choosing reef-safe sun cream or not buying souvenirs made from coral, so the audience doesn't feel the situation is hopeless."
+    },
+    {
+     "id": "12E9D035-B824-57D7-8200-C5E8D535ADB4",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, but keep that short. The main point is the science. That would be a balanced conclusion. How are you dividing the presentation?"
+    },
+    {
+     "id": "7143085B-805D-5507-8F21-6A2761E6EF10",
+     "speaker": "Leila",
+     "accent": "en-IE",
+     "text": "I'll do the biology and the threats, and Jack will do restoration and the conclusion."
+    },
+    {
+     "id": "0EF8983D-DB1F-5C0B-BEDF-DA4E79DC5484",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Fine. And remember, the audience will be first-year students, so avoid too much technical vocabulary, or explain it when you use it. Prepare one or two questions to ask the audience at the end, to start a discussion."
+    },
+    {
+     "id": "68753C7E-C906-5199-A576-06B88BB211FC",
+     "speaker": "Jack",
+     "accent": "en-US",
+     "text": "Good idea. Maybe we could ask whether they'd be willing to pay more for holidays to reefs if the money went to conservation."
+    },
+    {
+     "id": "C55284E6-2DC9-5DC5-BD6A-B070BD938192",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. I really look forward to seeing it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam10-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why do the students want to begin by explaining what coral is?",
+     "explanation": "Their friends misunderstood what coral is.",
+     "evidenceQuote": "most of them thought coral was a type of rock or a plant",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Many people misunderstand it.",
+      "B. Their tutor asked them to.",
+      "C. It is the most interesting part."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Many people misunderstand it.",
+      "Many people misunderstand it."
+     ]
+    },
+    {
+     "id": "exam10-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What do the algae inside coral provide?",
+     "explanation": "The algae provide most of the food.",
+     "evidenceQuote": "which provide the coral with most of its food through photosynthesis",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. protection from predators",
+      "B. calcium for the skeleton",
+      "C. most of the coral's food"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. most of the coral's food",
+      "most of the coral's food"
+     ]
+    },
+    {
+     "id": "exam10-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about using photos?",
+     "explanation": "They need permission and must cite sources.",
+     "evidenceQuote": "make sure you have permission to use them, and cite the source",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should use fewer photos.",
+      "B. They must get permission and give the source.",
+      "C. They should take their own photos."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They must get permission and give the source.",
+      "They must get permission and give the source."
+     ]
+    },
+    {
+     "id": "exam10-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor advise about the threats to reefs?",
+     "explanation": "Focus on warming and bleaching.",
+     "evidenceQuote": "focus on warming and bleaching, since that's the biggest threat",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Cover all of them equally.",
+      "B. Leave out local threats completely.",
+      "C. Concentrate mainly on warming."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Concentrate mainly on warming.",
+      "Concentrate mainly on warming."
+     ]
+    },
+    {
+     "id": "exam10-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What concern about restoration does the tutor mention?",
+     "explanation": "It may distract from reducing emissions.",
+     "evidenceQuote": "it risks distracting attention from the main problem",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It may draw attention away from cutting emissions.",
+      "B. It damages healthy reefs.",
+      "C. It has never been successful."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It may draw attention away from cutting emissions.",
+      "It may draw attention away from cutting emissions."
+     ]
+    },
+    {
+     "id": "exam10-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Each coral is made of tiny animals called __________",
+     "explanation": "Coral consists of polyps.",
+     "evidenceQuote": "tiny animals called polyps",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "polyps"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Bleached coral turns __________",
+     "explanation": "Bleached coral turns white.",
+     "evidenceQuote": "the coral turns white",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "white"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Acidification makes it harder for coral to build their __________",
+     "explanation": "Acidification affects skeleton-building.",
+     "evidenceQuote": "makes it harder for coral to build their skeletons",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "skeletons"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Coral gardening: coral grown on underwater __________",
+     "explanation": "Coral is grown on frames.",
+     "evidenceQuote": "grown on underwater frames",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "frames"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Audience: first-year students, so avoid technical __________",
+     "explanation": "Avoid technical vocabulary.",
+     "evidenceQuote": "avoid too much technical vocabulary",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vocabulary"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "coral bleaching",
+    "algae",
+    "ocean acidification",
+    "restoration",
+    "biodiversity"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam10-lp4",
+   "partNumber": 4,
+   "title": "The deep ocean",
+   "contextDescription": "A lecture in an oceanography course on exploration of the deep sea.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "CC5C5865-51DD-5BC5-8D8B-250A8C3FF1A4",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning, everyone. It's often said that we know more about the surface of the Moon than about the floor of our own oceans. That's something of an exaggeration, but it reflects a real truth: the deep ocean is the largest and least explored habitat on Earth. Today, I want to talk about how we explore it, what we've found, and the new threats it faces."
+    },
+    {
+     "id": "10E96AF3-E7F2-5B31-A62D-7A2159A5E917",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "First, some definitions. The deep sea is usually defined as the part of the ocean below about two hundred metres, the point at which sunlight becomes too weak for plants to photosynthesise. That's more than ninety per cent of the ocean's volume. The average depth of the ocean is around three thousand seven hundred metres, and the deepest point, the Challenger Deep in the Mariana Trench in the western Pacific, is nearly eleven thousand metres deep."
+    },
+    {
+     "id": "344A03C7-132D-5100-9D6B-DD3514613835",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The biggest challenge of exploring the deep sea is pressure. For every ten metres you go down, the pressure increases by roughly one atmosphere. At the bottom of the Mariana Trench, it's over a thousand times the pressure at the surface, equivalent to having several elephants standing on your thumb. Vehicles that go to these depths need extremely strong hulls, usually made of titanium or thick steel."
+    },
+    {
+     "id": "5C01A838-A9EB-5A8E-B726-7EE5FC46439A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The first people to reach the Challenger Deep were the Swiss engineer Jacques Piccard and the American naval officer Don Walsh in 1960, in a vessel called the Trieste. They spent only about twenty minutes on the bottom, and because their arrival stirred up sediment, they could see very little. Nobody returned for more than fifty years, until the film director James Cameron made a solo dive in 2012. Today, most deep-sea exploration is done not by people but by remotely operated vehicles, controlled from ships by cable, and by autonomous robots that can travel for days without human control."
+    },
+    {
+     "id": "A160859B-39B6-5D4F-ADEF-453CD6244169",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "One of the most important discoveries came in 1977, when scientists exploring near the Galápagos Islands found hydrothermal vents: openings in the sea floor where water heated by volcanic activity pours out, sometimes at temperatures above three hundred and fifty degrees Celsius. To their amazement, the vents were surrounded by dense communities of life, including giant tube worms over two metres long, clams and shrimps. These animals don't depend on sunlight at all. Instead, the base of the food chain is bacteria that obtain energy from chemicals in the vent water, a process called chemosynthesis. This discovery changed our ideas about where life can exist, and it has even influenced the search for life on other planets."
+    },
+    {
+     "id": "D0619E6F-9558-50EE-B965-E1461FCC49C5",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Another remarkable feature of deep-sea life is bioluminescence: the ability to produce light. It's estimated that around three-quarters of animals in the deep ocean can produce their own light, which they use to attract prey, find mates or confuse predators. The anglerfish, for example, has a glowing lure on its head to attract smaller fish."
+    },
+    {
+     "id": "33EF1248-183D-5955-8260-F473B565E9E5",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Unfortunately, the deep ocean is not as remote from human influence as we might hope. Plastic has been found in the stomachs of animals living in the deepest trenches. And there's growing interest in deep-sea mining. Large areas of the sea floor are covered with potato-sized lumps called nodules, which contain valuable metals such as cobalt, nickel and manganese, needed for batteries in electric cars and phones. Companies argue that mining them would be less damaging than mining on land. However, many scientists warn that we know too little about deep-sea ecosystems to predict the damage, and that recovery would be extremely slow, because life in the deep sea grows very slowly. Some areas disturbed in experiments decades ago have still not recovered."
+    },
+    {
+     "id": "01D9C8DB-2B6C-5DBF-8A3D-AAB13A778B2C",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "An international body, the International Seabed Authority, is responsible for regulating mining in international waters, and it's currently discussing rules. Several countries have called for a pause until more research has been done. Next week, we'll look at ocean currents and climate."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam10-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Deep sea: below about 200 metres, where there is too little __________ for photosynthesis",
+     "explanation": "Sunlight is too weak below 200 metres.",
+     "evidenceQuote": "the point at which sunlight becomes too weak for plants to photosynthesise",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sunlight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Biggest challenge of exploration: __________",
+     "explanation": "Pressure is the biggest challenge.",
+     "evidenceQuote": "The biggest challenge of exploring the deep sea is pressure",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Deep-sea vehicles have hulls of titanium or thick __________",
+     "explanation": "Hulls are titanium or steel.",
+     "evidenceQuote": "usually made of titanium or thick steel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "steel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "In 1960, the Trieste's crew could see little because of stirred-up __________",
+     "explanation": "Sediment blocked the view.",
+     "evidenceQuote": "their arrival stirred up sediment",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sediment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Today, exploration mostly uses remotely operated vehicles and autonomous __________",
+     "explanation": "Autonomous robots are used.",
+     "evidenceQuote": "autonomous robots that can travel for days",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "robots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Vent communities include giant tube __________",
+     "explanation": "Giant tube worms live there.",
+     "evidenceQuote": "giant tube worms over two metres long",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "worms"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "The food chain is based on __________ that use chemical energy",
+     "explanation": "Bacteria form the base.",
+     "evidenceQuote": "the base of the food chain is bacteria",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bacteria"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "About three-quarters of deep-sea animals produce their own __________",
+     "explanation": "They produce light.",
+     "evidenceQuote": "can produce their own light",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "light"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Nodules contain metals used in __________",
+     "explanation": "The metals are used in batteries.",
+     "evidenceQuote": "needed for batteries in electric cars and phones",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "batteries"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Recovery would be slow because deep-sea life __________ very slowly",
+     "explanation": "Deep-sea life grows slowly.",
+     "evidenceQuote": "life in the deep sea grows very slowly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grows"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "submersible",
+    "pressure",
+    "hydrothermal vent",
+    "bioluminescence",
+    "deep-sea mining"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam10-rp1",
+   "passageNumber": 1,
+   "title": "The great ocean conveyor",
+   "discipline": "Oceanography",
+   "paragraphs": [
+    "Ocean currents have shaped human history for thousands of years. Polynesian navigators used them to cross vast stretches of the Pacific, European sailors relied on them to reach the Americas, and fishing communities have long known that the richest catches are found where currents meet. Yet it is only in the last century that scientists have begun to understand the full extent of the ocean's circulation, and to recognise its importance for the climate of the entire planet.",
+    "The most familiar currents are those at the surface, which are driven mainly by the wind. The steady trade winds near the equator push water westwards, while the westerly winds of the middle latitudes drive it eastwards, and the rotation of the Earth deflects these flows into enormous circular patterns known as gyres. One of the best-known surface currents is the Gulf Stream, which carries warm water from the Gulf of Mexico northwards along the coast of North America and then across the Atlantic towards Europe. It moves more water than all the world's rivers combined.",
+    "Beneath the surface lies a second, slower system of circulation, driven not by wind but by differences in the density of seawater. Water becomes denser when it is colder or saltier. In the far North Atlantic, near Greenland and Iceland, warm water brought north by the Gulf Stream releases its heat to the atmosphere and cools. At the same time, when sea ice forms, it leaves salt behind in the surrounding water. The resulting cold, salty water is so dense that it sinks to the bottom of the ocean and begins a long journey southwards along the sea floor.",
+    "This sinking water drives a global circulation pattern often called the 'ocean conveyor belt'. The deep water travels south through the Atlantic, around Antarctica and into the Indian and Pacific Oceans, where it gradually rises to the surface and eventually returns to the North Atlantic. A single body of water may take a thousand years or more to complete the circuit. Along the way, the conveyor transports heat, nutrients and dissolved gases around the world, playing a crucial role in regulating climate.",
+    "The Atlantic part of this system, known as the Atlantic Meridional Overturning Circulation, or AMOC, has a particularly important influence on Europe. By carrying warm water northwards, it helps to explain why western Europe has much milder winters than places at the same latitude in North America. London, for example, lies further north than Calgary in Canada, yet its average winter temperatures are considerably higher.",
+    "Evidence from ice cores and ocean sediments shows that the conveyor has changed dramatically in the past. Around twelve thousand years ago, at the end of the last ice age, temperatures in the North Atlantic region fell sharply for more than a thousand years, an event known as the Younger Dryas. Many scientists believe it was caused by a huge release of fresh water from melting ice sheets in North America, which made the surface water of the North Atlantic less salty, preventing it from sinking and weakening the circulation.",
+    "There is now concern that climate change could cause a similar weakening. As the Greenland ice sheet melts and rainfall increases at high latitudes, more fresh water is entering the North Atlantic. Measurements since 2004, made using instruments moored across the Atlantic, suggest that the AMOC has varied considerably, and some studies indicate that it is now weaker than at any time in the past thousand years. However, scientists disagree about how quickly it might decline and whether it could collapse completely this century. A major weakening would not trigger an ice age, as some films have suggested, but it could bring colder winters to northern Europe, changes in rainfall patterns in the tropics and faster sea-level rise along the east coast of North America.",
+    "Because the deep ocean is so difficult to observe, much of our understanding comes from computer models and a limited number of measurements. In recent years, an international network of nearly four thousand robotic floats, called Argo, has greatly improved this picture. The floats drift with the currents, sinking to depths of up to two thousand metres and rising every ten days to transmit data on temperature and salinity to satellites. Such observations will be essential for detecting changes in the conveyor before their effects are felt."
+   ],
+   "questions": [
+    {
+     "id": "exam10-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Surface currents are mainly caused by the wind.",
+     "explanation": "Surface currents are wind-driven.",
+     "evidenceQuote": "which are driven mainly by the wind",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam10-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Gulf Stream carries more water than all rivers put together.",
+     "explanation": "It moves more water than all rivers.",
+     "evidenceQuote": "It moves more water than all the world's rivers combined.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam10-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Saltier water is less dense than fresh water.",
+     "explanation": "Saltier water is denser.",
+     "evidenceQuote": "Water becomes denser when it is colder or saltier",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam10-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Water can take over a thousand years to travel around the conveyor.",
+     "explanation": "It can take a thousand years or more.",
+     "evidenceQuote": "may take a thousand years or more to complete the circuit",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam10-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Calgary has warmer winters than London.",
+     "explanation": "London's winters are warmer.",
+     "evidenceQuote": "its average winter temperatures are considerably higher",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam10-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Younger Dryas was the coldest period in Earth's history.",
+     "explanation": "No comparison with all of history is made.",
+     "evidenceQuote": "temperatures in the North Atlantic region fell sharply for more than a thousand years",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam10-R7",
+     "number": 7,
+     "format": "Summary Completion",
+     "prompt": "The Earth's rotation turns surface flows into circular patterns called __________.",
+     "explanation": "They are called gyres.",
+     "evidenceQuote": "circular patterns known as gyres",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gyres"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "When sea __________ forms, it leaves salt behind in the water.",
+     "explanation": "Sea ice leaves salt behind.",
+     "evidenceQuote": "when sea ice forms, it leaves salt behind",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "The cold, salty water __________ and moves south along the sea floor.",
+     "explanation": "Dense water sinks.",
+     "evidenceQuote": "it sinks to the bottom of the ocean",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sinks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "The conveyor transports heat, __________ and dissolved gases.",
+     "explanation": "It carries nutrients.",
+     "evidenceQuote": "transports heat, nutrients and dissolved gases",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nutrients"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "Melting ice made North Atlantic water less __________, weakening circulation.",
+     "explanation": "Fresh water reduced salinity.",
+     "evidenceQuote": "made the surface water of the North Atlantic less salty",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "salty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "A weaker AMOC could cause faster sea-level __________ in North America.",
+     "explanation": "Sea-level rise could speed up.",
+     "evidenceQuote": "faster sea-level rise along the east coast of North America",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rise"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "Argo floats measure temperature and __________.",
+     "explanation": "Floats measure salinity.",
+     "evidenceQuote": "transmit data on temperature and salinity",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "salinity"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 722,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam10-rp2",
+   "passageNumber": 2,
+   "title": "The secret lives of octopuses",
+   "discipline": "Animal Cognition",
+   "paragraphs": [
+    "Octopuses have long fascinated scientists, not least because they seem to break so many of the rules that apply to other intelligent animals. Most animals with large brains and complex behaviour, such as primates, dolphins and crows, are social, long-lived and closely related to each other on the tree of life. Octopuses are none of these things. They are molluscs, related to snails and clams, and their evolutionary line separated from ours more than five hundred million years ago. Most species live alone and survive only a year or two, so they have little opportunity to learn from parents or companions. Yet they display problem-solving abilities that rival those of many mammals.",
+    "Stories of octopus cleverness are common among aquarium workers. Octopuses have been seen escaping from their tanks at night, crossing the floor to a neighbouring tank to eat the fish inside, and then returning to their own tank before morning. In laboratory experiments, they quickly learn to open screw-top jars to reach food inside, and some have learned to do this from the inside as well. In one well-known study, octopuses were observed carrying coconut shells across the sea floor and assembling them into shelters when needed, which some researchers have described as a form of tool use.",
+    "The structure of the octopus nervous system is very different from ours. An octopus has around five hundred million neurons, comparable to a dog, but around two-thirds of them are located not in the brain but in its eight arms. Each arm can taste, touch and respond to its surroundings with a considerable degree of independence. Experiments have shown that an arm that has been separated from the body can still reach for food and pass it towards where the mouth would be. This has led some researchers to suggest that an octopus's experience of the world may be very different from that of any vertebrate.",
+    "Octopuses are also masters of disguise, a skill that helps them both to hunt and to avoid being eaten. Their skin contains thousands of cells called chromatophores, each filled with pigment and surrounded by tiny muscles, which allow the animal to change colour in a fraction of a second. Other cells reflect light to produce shimmering or white patterns. Octopuses can also change the texture of their skin, raising small bumps and spikes to imitate rocks, coral or seaweed. Remarkably, they appear to do this despite being colour-blind, since their eyes contain only one type of light receptor. How they match the colours of their surroundings remains a puzzle, though some studies suggest their skin itself may be able to detect light.",
+    "One species, discovered in Indonesia in 1998, has taken disguise even further. The mimic octopus appears to imitate the shape and movement of several other animals, including poisonous lionfish, flatfish and sea snakes, apparently choosing which to copy according to the type of predator nearby. Although some scientists have questioned how deliberate this behaviour is, it is widely regarded as one of the most sophisticated examples of mimicry in the animal kingdom.",
+    "Why should a short-lived, solitary animal have evolved such intelligence? One leading theory links it to the loss of the protective shell that the ancestors of octopuses once had. Without a shell, octopuses became vulnerable to predators, but they also gained the freedom to squeeze into small spaces and to explore their environment in new ways. Hunting a wide variety of prey and avoiding many different predators may have favoured flexible behaviour and the ability to learn quickly. Their short lifespan, in contrast, may be linked to the fact that females usually stop eating while guarding their eggs and die soon after they hatch.",
+    "The growing recognition of octopus intelligence has had practical consequences. In 2021, a review commissioned by the British government concluded that octopuses, along with crabs and lobsters, are sentient, meaning they can experience pain and distress, and they were subsequently included in animal welfare law. The findings have also fuelled opposition to plans for commercial octopus farming, which some companies are developing to meet rising demand. Critics argue that confining such curious, solitary animals in crowded tanks would cause serious suffering, and several jurisdictions have moved to ban the practice."
+   ],
+   "questions": [
+    {
+     "id": "exam10-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B gives examples of clever behaviour.",
+     "evidenceQuote": "Stories of octopus cleverness are common among aquarium workers",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Remarkable behaviour observed in captivity",
+      "Remarkable behaviour observed in captivity"
+     ]
+    },
+    {
+     "id": "exam10-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes the distributed nervous system.",
+     "evidenceQuote": "The structure of the octopus nervous system is very different from ours",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A brain spread throughout the body",
+      "A brain spread throughout the body"
+     ]
+    },
+    {
+     "id": "exam10-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains camouflage.",
+     "evidenceQuote": "Octopuses are also masters of disguise",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Changing colour and shape",
+      "Changing colour and shape"
+     ]
+    },
+    {
+     "id": "exam10-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the mimic octopus.",
+     "evidenceQuote": "The mimic octopus appears to imitate the shape and movement of several other animals",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Pretending to be other creatures",
+      "Pretending to be other creatures"
+     ]
+    },
+    {
+     "id": "exam10-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F gives an evolutionary explanation.",
+     "evidenceQuote": "Why should a short-lived, solitary animal have evolved such intelligence?",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. A possible explanation for their abilities",
+      "A possible explanation for their abilities"
+     ]
+    },
+    {
+     "id": "exam10-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers welfare law and farming.",
+     "evidenceQuote": "The growing recognition of octopus intelligence has had practical consequences",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Legal and ethical implications",
+      "Legal and ethical implications"
+     ]
+    },
+    {
+     "id": "exam10-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer say octopuses \"break the rules\"?",
+     "explanation": "Unlike other intelligent animals, they are solitary and short-lived.",
+     "evidenceQuote": "Octopuses are none of these things.",
+     "skillTag": "main_idea",
+     "options": [
+      "A. They are the most intelligent animals.",
+      "B. They are closely related to dolphins.",
+      "C. They are intelligent despite lacking features typical of clever animals.",
+      "D. They live longer than most molluscs."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They are intelligent despite lacking features typical of clever animals.",
+      "They are intelligent despite lacking features typical of clever animals."
+     ]
+    },
+    {
+     "id": "exam10-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did experiments with separated arms show?",
+     "explanation": "Separated arms still reach for food.",
+     "evidenceQuote": "an arm that has been separated from the body can still reach for food",
+     "skillTag": "detail",
+     "options": [
+      "A. Arms cannot function without the brain.",
+      "B. Arms can act with some independence.",
+      "C. Arms grow back quickly.",
+      "D. Arms cannot taste food."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Arms can act with some independence.",
+      "Arms can act with some independence."
+     ]
+    },
+    {
+     "id": "exam10-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What is puzzling about octopus camouflage?",
+     "explanation": "They match colours despite being colour-blind.",
+     "evidenceQuote": "despite being colour-blind",
+     "skillTag": "detail",
+     "options": [
+      "A. It takes a long time.",
+      "B. It only works on rocks.",
+      "C. It requires special food.",
+      "D. They match colours although they are colour-blind."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They match colours although they are colour-blind.",
+      "They match colours although they are colour-blind."
+     ]
+    },
+    {
+     "id": "exam10-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why do female octopuses usually die young?",
+     "explanation": "They stop eating while guarding eggs.",
+     "evidenceQuote": "females usually stop eating while guarding their eggs and die soon after they hatch",
+     "skillTag": "detail",
+     "options": [
+      "A. They stop eating while guarding their eggs.",
+      "B. They are hunted by males.",
+      "C. They lose their shells.",
+      "D. They cannot find shelter."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They stop eating while guarding their eggs.",
+      "They stop eating while guarding their eggs."
+     ]
+    },
+    {
+     "id": "exam10-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Octopuses have been seen using __________ to build shelters.",
+     "explanation": "They use coconut shells.",
+     "evidenceQuote": "carrying coconut shells across the sea floor and assembling them into shelters",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coconut shells"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam10-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Colour change is made possible by cells called __________.",
+     "explanation": "Chromatophores allow colour change.",
+     "evidenceQuote": "thousands of cells called chromatophores",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chromatophores"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam10-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Critics argue that octopus farming would cause serious __________.",
+     "explanation": "Farming would cause suffering.",
+     "evidenceQuote": "would cause serious suffering",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suffering"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 704,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below.",
+     "options": [
+      "i. A brain spread throughout the body",
+      "ii. Legal and ethical implications",
+      "iii. Pretending to be other creatures",
+      "iv. Octopuses as food",
+      "v. A possible explanation for their abilities",
+      "vi. Remarkable behaviour observed in captivity",
+      "vii. Communication between octopuses",
+      "viii. Changing colour and shape"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 23,
+     "instruction": "Questions 20–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam10-rp3",
+   "passageNumber": 3,
+   "title": "Who owns the fish?",
+   "discipline": "Marine Policy & Economics",
+   "paragraphs": [
+    "In 1968, the ecologist Garrett Hardin published an essay called 'The Tragedy of the Commons', which has been cited ever since in debates about natural resources. Hardin asked his readers to imagine a pasture open to all herders. Each herder gains the full benefit of adding another animal to the pasture, while the cost of overgrazing is shared by everyone. As a result, he argued, each herder will keep adding animals until the pasture is destroyed. Freedom in a commons, Hardin concluded, brings ruin to all. Few resources fit this description better than the ocean's fish, which for most of history belonged to no one until they were caught.",
+    "The consequences of open access have been dramatic. According to the Food and Agriculture Organization of the United Nations, the proportion of fish stocks harvested at biologically unsustainable levels rose from around ten per cent in the 1970s to more than a third today. The most famous collapse occurred off the coast of Newfoundland, in Canada, where cod had supported fishing communities for five centuries. Improved technology, including large trawlers and sonar, allowed catches to rise sharply in the 1960s, and despite warnings from some scientists, quotas remained too high. In 1992, the Canadian government closed the fishery, putting around thirty thousand people out of work. Three decades later, cod numbers have still not fully recovered.",
+    "One response to the tragedy of the commons has been to extend national control over the sea. In 1982, the United Nations Convention on the Law of the Sea allowed countries to establish Exclusive Economic Zones extending two hundred nautical miles from their coasts, within which they have the right to manage fishing. Today, these zones cover most of the world's productive fishing grounds. However, national control has not always led to good management, as the Newfoundland case shows, and the high seas beyond these zones remain largely unregulated.",
+    "A more radical approach involves giving fishers secure rights to a share of the catch. Under a system known as individual transferable quotas, scientists set a total allowable catch for each species, and this is divided into shares that are allocated to fishers, who can buy, sell or lease them. Supporters argue that because quota holders have a long-term stake in the fishery, they have an incentive to conserve it, rather than racing to catch as many fish as possible before others do. Iceland and New Zealand were among the first countries to adopt such systems in the 1980s, and studies have found that fisheries managed in this way are less likely to collapse.",
+    "Critics, however, point out that quota systems can concentrate ownership in the hands of a few large companies. In Iceland, small fishing communities complained that quota shares were sold to larger firms based elsewhere, leaving villages without the right to fish waters their families had worked for generations. Some economists argue that quotas, which were originally given away free, have effectively turned a public resource into private wealth, and that governments should charge for them instead.",
+    "Hardin's analysis itself has also been challenged. The political scientist Elinor Ostrom, who in 2009 became the first woman to win the Nobel Prize in Economics, spent decades studying communities around the world that had managed shared resources, such as forests, irrigation systems and fisheries, successfully for centuries without either government control or private ownership. In the lobster fisheries of Maine, in the United States, for example, groups of fishers informally divide the coast into territories and enforce their own rules. Ostrom identified a set of conditions under which such self-management tends to succeed, including clear boundaries, rules adapted to local conditions and ways of resolving disputes cheaply. Her work suggested that the tragedy of the commons is not inevitable.",
+    "In practice, many successful fisheries combine elements of all these approaches: scientific limits on the total catch, secure rights for those who fish, and meaningful involvement of local communities in decision-making. Marine protected areas, where fishing is restricted or banned, can also allow stocks to recover and spill over into surrounding waters. In 2023, after nearly two decades of negotiations, members of the United Nations agreed a treaty to protect biodiversity on the high seas, including provisions for creating protected areas there. Whether it succeeds will depend on how many countries ratify it and how effectively it is enforced."
+   ],
+   "questions": [
+    {
+     "id": "exam10-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "argued that shared resources will inevitably be overused",
+     "explanation": "Hardin argued this.",
+     "evidenceQuote": "Freedom in a commons, Hardin concluded, brings ruin to all",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Garrett Hardin",
+      "Garrett Hardin"
+     ]
+    },
+    {
+     "id": "exam10-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "showed that communities can manage shared resources themselves",
+     "explanation": "Ostrom showed this.",
+     "evidenceQuote": "managed shared resources, such as forests, irrigation systems and fisheries, successfully for centuries",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Elinor Ostrom",
+      "Elinor Ostrom"
+     ]
+    },
+    {
+     "id": "exam10-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "lost thousands of jobs when a fishery was closed",
+     "explanation": "Newfoundland lost jobs.",
+     "evidenceQuote": "putting around thirty thousand people out of work",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Newfoundland",
+      "Newfoundland"
+     ]
+    },
+    {
+     "id": "exam10-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "was one of the first to introduce transferable quotas",
+     "explanation": "Iceland was an early adopter.",
+     "evidenceQuote": "Iceland and New Zealand were among the first countries to adopt such systems",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Iceland",
+      "Iceland"
+     ]
+    },
+    {
+     "id": "exam10-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "has fishers who divide the coast into informal territories",
+     "explanation": "Maine lobster fishers do this.",
+     "evidenceQuote": "groups of fishers informally divide the coast into territories",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Maine",
+      "Maine"
+     ]
+    },
+    {
+     "id": "exam10-R32",
+     "number": 32,
+     "format": "Matching Features",
+     "prompt": "saw small communities lose fishing rights to larger firms",
+     "explanation": "This happened in Iceland.",
+     "evidenceQuote": "small fishing communities complained that quota shares were sold to larger firms",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Iceland",
+      "Iceland"
+     ]
+    },
+    {
+     "id": "exam10-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "National control of fishing zones has always led to good management.",
+     "explanation": "It has not always worked.",
+     "evidenceQuote": "national control has not always led to good management",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam10-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Fisheries managed by quota systems are less likely to collapse.",
+     "explanation": "Studies show fewer collapses.",
+     "evidenceQuote": "studies have found that fisheries managed in this way are less likely to collapse",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam10-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Ostrom believed that government control was the best solution.",
+     "explanation": "She found success without government control.",
+     "evidenceQuote": "without either government control or private ownership",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam10-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The 2023 high seas treaty has already been ratified by most countries.",
+     "explanation": "Ratification numbers are not given.",
+     "evidenceQuote": "Whether it succeeds will depend on how many countries ratify it",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam10-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In the 1960s, large trawlers and __________ allowed cod catches to rise.",
+     "explanation": "Trawlers and sonar increased catches.",
+     "evidenceQuote": "including large trawlers and sonar",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sonar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Exclusive Economic Zones extend 200 nautical miles from a country's __________.",
+     "explanation": "Zones extend from coasts.",
+     "evidenceQuote": "extending two hundred nautical miles from their coasts",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coasts"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Some economists say governments should __________ for quotas.",
+     "explanation": "Quotas should be charged for.",
+     "evidenceQuote": "governments should charge for them instead",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "charge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam10-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Fish in protected areas can recover and __________ over into nearby waters.",
+     "explanation": "Stocks spill over.",
+     "evidenceQuote": "spill over into surrounding waters",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "spill"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 723,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Look at the following statements and the list of people and places below. Match each statement with the correct option, A–E.",
+     "options": [
+      "A. Garrett Hardin",
+      "B. Elinor Ostrom",
+      "C. Newfoundland",
+      "D. Iceland",
+      "E. Maine"
+     ]
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam10-w1",
+  "title": "World fish production",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows world production of fish from wild capture and from fish farming (aquaculture) between 1970 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "EB045F2B-8F53-5C30-8665-CA06B8708076",
+    "series": "Wild capture",
+    "category": "1970",
+    "value": 63.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "026DC680-6220-5A8F-B3FC-314C9B58CF1D",
+    "series": "Aquaculture",
+    "category": "1970",
+    "value": 4.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "F62CC8C4-4C33-5682-8ECF-636551380728",
+    "series": "Wild capture",
+    "category": "1980",
+    "value": 68.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "ED75B5BE-FFC9-51CC-A183-FDF464C202EB",
+    "series": "Aquaculture",
+    "category": "1980",
+    "value": 7.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "C7E7BAB6-B0AD-53FB-AD63-312A0F04451D",
+    "series": "Wild capture",
+    "category": "1990",
+    "value": 85.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "F4BA3966-204F-5190-8A9C-2B72C475A13B",
+    "series": "Aquaculture",
+    "category": "1990",
+    "value": 17.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "D3EC0C96-606C-509B-9C54-CA0A7D674E6E",
+    "series": "Wild capture",
+    "category": "2000",
+    "value": 94.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "006B23C7-4CF0-586F-86DD-558DEA00AEFA",
+    "series": "Aquaculture",
+    "category": "2000",
+    "value": 43.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "952412CA-5441-5C19-A186-4701B3A27CDE",
+    "series": "Wild capture",
+    "category": "2010",
+    "value": 90.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "0182A2F3-8B0F-5884-A524-406B7A592326",
+    "series": "Aquaculture",
+    "category": "2010",
+    "value": 77.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "C0EFD211-60FC-5A0E-B36D-38D03E3F602B",
+    "series": "Wild capture",
+    "category": "2020",
+    "value": 90.0,
+    "unit": "million tonnes"
+   },
+   {
+    "id": "043AC62E-AAB8-5718-9D2D-3E42A68B8D23",
+    "series": "Aquaculture",
+    "category": "2020",
+    "value": 122.0,
+    "unit": "million tonnes"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Wild capture rose until 2000 and then levelled off.",
+   "Aquaculture grew dramatically and overtook wild capture around 2015."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam10-w2",
+  "title": "Protecting the oceans",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment",
+  "promptText": "The world's oceans are under increasing threat from pollution and overfishing. What are the main causes of these problems, and what solutions can you suggest?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam10-spk",
+  "theme": "The sea and the coast",
+  "part1Questions": [
+   "Do you like going to the beach?",
+   "Have you ever been on a boat?",
+   "Do you like eating fish and seafood?",
+   "Is swimming popular in your country?",
+   "Would you like to live by the sea?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a beach or coastal place you have visited.",
+   "bulletPoints": [
+    "where it is",
+    "when you went there",
+    "what you did there",
+    "and explain why you liked or disliked it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do so many people like holidays by the sea?",
+   "What problems do coastal areas face?",
+   "How can people be encouraged to keep beaches clean?",
+   "Should there be limits on fishing?",
+   "Is it important for scientists to explore the deep ocean?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Marine science figures are rounded and simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

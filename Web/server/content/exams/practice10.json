@@ -1,0 +1,2191 @@
+{
+ "id": "practice10",
+ "examNumber": 10,
+ "pool": "practice",
+ "title": "Practice Test 10: Childhood, Learning & Development",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Childhood, Learning & Development",
+ "listeningParts": [
+  {
+   "id": "practice10-lp1",
+   "partNumber": 1,
+   "title": "Enrolling a child at a nursery",
+   "contextDescription": "A father visits a nursery to ask about a place for his daughter.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "208DE1C7-FB6E-546A-8C40-7E817611C19C",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Hello, you must be Mr Okafor. I'm Sophie, the manager here at Little Acorns. Thanks for coming in."
+    },
+    {
+     "id": "B2AF6FAE-F063-52AE-B6EC-320B0D6FB66E",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "Thanks for seeing me. My wife and I are both going back to full-time work in September, so we're looking for a nursery place for our daughter, Ada."
+    },
+    {
+     "id": "86358F2C-8F8F-59D6-8A40-BDC9EAFE07DA",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Lovely. How old is Ada?"
+    },
+    {
+     "id": "BEF9284E-085F-55CC-BEED-A1B9E0700599",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "She'll be two in July."
+    },
+    {
+     "id": "C6D83239-7660-59CE-8A05-3A30A23A2480",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "So she'd join our Squirrels room, which is for children from two to three years old. We have three rooms altogether: Babies, for children up to two, Squirrels, and then Owls, for three- and four-year-olds who are getting ready for school."
+    },
+    {
+     "id": "0FBF73B5-F6FD-5852-B7FE-7418B44E08FB",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "How many children are there in the Squirrels room?"
+    },
+    {
+     "id": "150C4D1E-2D70-586D-890D-A0DE6FAE5E56",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Up to sixteen, with four members of staff, so the ratio is one adult to four children. Each child has a key worker, who's responsible for their care and keeps a record of their development. Parents can see the records and photos through our app."
+    },
+    {
+     "id": "E2AD6F97-2071-530C-A196-AC527D31BB69",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "That sounds good. What are your opening hours?"
+    },
+    {
+     "id": "9160745C-614E-5D3A-80C2-BD07821E5ED2",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "We're open from half past seven in the morning until six in the evening, Monday to Friday. We're closed for one week at Christmas and on public holidays, but otherwise we're open all year."
+    },
+    {
+     "id": "10F5EC3E-032F-5C81-885F-CDFD4E8DE164",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "And the fees?"
+    },
+    {
+     "id": "59979569-2FDB-5C78-BF79-EFF8FF6803AB",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "A full day is sixty-two pounds. If Ada comes five days a week, there's a five per cent discount. The fee includes all meals and snacks, which are cooked here every day by our chef, and nappies as well. The only extra is if you'd like her to join the weekly music class, which is run by an outside teacher and costs four pounds a session."
+    },
+    {
+     "id": "F60221C4-6728-5D43-BCC6-CD7C2E10CB63",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "Okay. Ada is a fussy eater, I'm afraid. Is that a problem?"
+    },
+    {
+     "id": "DDAF6C1B-399B-571E-8886-F832E31401B8",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Not at all, it's very common at that age. We never force children to eat, but we encourage them to try new things, and they often eat better when they see their friends eating. We'll let you know every day what she's eaten."
+    },
+    {
+     "id": "9F7D445D-D428-5EC2-94F7-D5AF8B43F4C4",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "And does she still need to sleep during the day?"
+    },
+    {
+     "id": "A51210FF-EB5E-55F2-B651-CB7E8C5E6FE8",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Most children in Squirrels have a nap after lunch, usually for about an hour and a half. We have a quiet room with little beds, and we follow whatever routine you have at home as far as possible."
+    },
+    {
+     "id": "97B2146C-7D86-55DF-A437-4304A5DB729B",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "What do the children do during the day?"
+    },
+    {
+     "id": "8F35D54A-27E6-581E-83FF-0BC9A446070C",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "A lot of it is play, because that's how young children learn best. There's painting, building, sand and water play, stories and songs. We also spend time outside every day, whatever the weather, so please bring a waterproof suit and wellington boots for Ada. And every Friday, the older children go to the woodland area behind the nursery for forest school."
+    },
+    {
+     "id": "24F567CA-62D1-58DC-B636-4A91C0CF7E91",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "She'd love that. How does the settling-in work?"
+    },
+    {
+     "id": "E7CC253A-7B71-5944-84D6-386DDD19CB2A",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "We offer three free settling-in sessions before the start date. For the first one, you stay with her for an hour. For the second, you leave her for an hour, and for the third, she stays for a whole morning. That way she gets used to us gradually."
+    },
+    {
+     "id": "41A8E4D9-BEB8-521D-BBD6-BE6044307899",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "Great. Is there a place available for September?"
+    },
+    {
+     "id": "E8E105B1-607D-5762-B09D-45C7171E3CDC",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Yes, we have two places left in Squirrels. To secure one, we ask for a registration fee of fifty pounds, which isn't refundable, and a deposit of one month's fees, which you get back when she leaves."
+    },
+    {
+     "id": "36FA924A-4360-5AEC-A253-721CEE3E8D58",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "Okay. Can I fill in the form now?"
+    },
+    {
+     "id": "A51C6A41-8827-57F0-B160-F44D39ABC65E",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Of course. I'll need Ada's full name and date of birth, and the name of your doctor. Which surgery are you registered with?"
+    },
+    {
+     "id": "348CF262-AD96-5C44-B49D-EC1A6F1AECD8",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "The Riverside Health Centre."
+    },
+    {
+     "id": "A8D735A4-C7FD-5C5E-9AAB-0480A7BFA638",
+     "speaker": "Manager",
+     "accent": "en-GB",
+     "text": "Perfect, that's just round the corner. And finally, we ask for the names of two people, other than you and your wife, who are allowed to collect Ada. We'll take a photo of them, and we won't let her go with anyone else unless you've told us in advance and given us a password."
+    },
+    {
+     "id": "22DFCB92-6ABE-5605-AB3F-C2300C58435E",
+     "speaker": "Father",
+     "accent": "en-GB",
+     "text": "That's reassuring. I'll put down my sister and Ada's grandmother."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice10-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Room for Ada: __________ (ages 2–3)",
+     "explanation": "She would join Squirrels.",
+     "evidenceQuote": "So she'd join our Squirrels room",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Squirrels"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Staff to child ratio: 1 to __________",
+     "explanation": "The ratio is one to four.",
+     "evidenceQuote": "the ratio is one adult to four children",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Records and photos can be seen on the __________",
+     "explanation": "They use an app.",
+     "evidenceQuote": "Parents can see the records and photos through our app.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "app"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Closing time: __________ p.m.",
+     "explanation": "It closes at six.",
+     "evidenceQuote": "until six in the evening",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Fee for a full day: £__________",
+     "explanation": "A day costs £62.",
+     "evidenceQuote": "A full day is sixty-two pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£50 is the registration fee; £4 is the music class.",
+     "options": [],
+     "acceptedAnswers": [
+      "62"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Extra cost: weekly __________ class",
+     "explanation": "The music class is extra.",
+     "evidenceQuote": "join the weekly music class",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "music"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Bring a waterproof suit and __________ boots",
+     "explanation": "She needs wellington boots.",
+     "evidenceQuote": "a waterproof suit and wellington boots",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wellington"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Forest school takes place on __________",
+     "explanation": "It is on Fridays.",
+     "evidenceQuote": "every Friday, the older children go to the woodland area",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Friday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Doctor: __________ Health Centre",
+     "explanation": "He uses Riverside.",
+     "evidenceQuote": "The Riverside Health Centre.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Riverside"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Collection by others requires a __________ if not arranged",
+     "explanation": "A password is needed.",
+     "evidenceQuote": "given us a password",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "password"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "nursery",
+    "key worker",
+    "settling-in",
+    "fees",
+    "nap"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice10-lp2",
+   "partNumber": 2,
+   "title": "A new children's discovery centre",
+   "contextDescription": "A presenter on local radio describes a new science discovery centre for children.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "7841AC1E-0CCB-588C-BA97-7DC0BD70A0AD",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Now, if you're a parent looking for something to do with the kids during the half-term holiday, there's some good news. The new Spark Discovery Centre opens this Saturday in the old tram depot on Canal Street. I went for a preview visit yesterday, and I have to say, I had as much fun as the children did."
+    },
+    {
+     "id": "C2AF052E-DDE1-537B-ABF3-E367BB345E38",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "The centre is designed for children aged three to twelve, and the idea is that everything can be touched. There are no glass cases and no signs saying 'Do not touch'. Instead, children learn by experimenting, making mistakes and trying again. The director, Dr Fiona Grant, told me that the aim is to encourage curiosity rather than to teach facts. As she put it, children forget facts, but they remember the feeling of discovering something for themselves."
+    },
+    {
+     "id": "0327D888-9EB7-5443-9A07-886336083116",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "The centre is divided into five zones. On the ground floor, the Water Zone is probably the most popular. Children can build dams, control the flow of water using pipes and pumps, and see how boats float. Be warned: they'll get wet, so it's a good idea to bring a change of clothes, although waterproof aprons are provided."
+    },
+    {
+     "id": "9455ACFD-5494-5D7D-B586-A6BA2F36205B",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Next to it is the Build Zone, where children can design and construct structures using giant foam blocks, and then test them on an earthquake table that shakes. It's surprisingly difficult to make a tower that survives."
+    },
+    {
+     "id": "1EB21BF4-2B63-59DE-AB8B-51B26145E211",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Upstairs, the Body Zone lets children explore how their bodies work. There's a giant model of a heart that you can walk through, and machines that measure how high you can jump or how fast you react. The Light and Sound Zone is in a darkened room, with mirrors, lasers and instruments that make music when you move in front of them."
+    },
+    {
+     "id": "DA689913-8284-5033-A0D7-527BA5A476FA",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "And finally, for the youngest visitors, there's the Tiny Explorers area, which is reserved for children under five and their parents. It's quieter and softer, with sensory toys and a small sand pit, so toddlers don't get knocked over by the bigger children."
+    },
+    {
+     "id": "E5946270-0705-56C6-9911-E912A3B19549",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Every day, there are also live science shows in the theatre, at eleven and at three. I saw one about air pressure, which involved a lot of loud bangs and exploding balloons, and the children absolutely loved it."
+    },
+    {
+     "id": "742D5BF4-EA69-587A-8E85-5FC9DED06356",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "One thing I particularly liked is that the centre has thought about children with different needs. On Sunday mornings, from nine until ten, there's a relaxed session for children who find noise and crowds difficult. The lights are lower, the sound effects are turned off, and the number of visitors is kept small. All the exhibits on both floors can be reached by wheelchair, and staff have been trained to help children with disabilities take part fully."
+    },
+    {
+     "id": "C0B7F72E-3C60-53D1-BC22-D15C01CD1006",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Now, the practical details. The centre is open daily from ten until five, and entry costs nine pounds for children and twelve for adults. Children under two get in free. If you think you'll visit regularly, an annual family membership costs eighty pounds and covers two adults and up to three children, which pays for itself after about two visits. Tickets should be booked online, because numbers are limited to avoid overcrowding."
+    },
+    {
+     "id": "6E83BD4B-F155-5607-BCB6-F5540937F5DF",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "There's no car park at the centre, so the organisers recommend using public transport. The number seven bus stops right outside, and the train station is a ten-minute walk away. There's a café on site, but you're also welcome to bring your own food and eat it in the picnic room on the first floor."
+    },
+    {
+     "id": "407C3B42-B81C-574D-9226-DC71E9E369C3",
+     "speaker": "Presenter",
+     "accent": "en-US",
+     "text": "Finally, if your children are as excited as mine were, you might be interested in the holiday workshops for eight- to twelve-year-olds. This half term, they're about robotics, and the children build and program a simple robot that they can take home. Places cost twenty-five pounds and are already filling up fast, so book soon if you're interested."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice10-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What is the main aim of the centre, according to the director?",
+     "explanation": "The aim is to encourage curiosity.",
+     "evidenceQuote": "the aim is to encourage curiosity rather than to teach facts",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to teach scientific facts",
+      "B. to develop children's curiosity",
+      "C. to prepare children for exams"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to develop children's curiosity",
+      "to develop children's curiosity"
+     ]
+    },
+    {
+     "id": "practice10-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What does the presenter advise visitors to the Water Zone to bring?",
+     "explanation": "Bring a change of clothes.",
+     "evidenceQuote": "it's a good idea to bring a change of clothes",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. waterproof aprons",
+      "B. towels",
+      "C. spare clothes"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. spare clothes",
+      "spare clothes"
+     ]
+    },
+    {
+     "id": "practice10-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why is the Tiny Explorers area separate?",
+     "explanation": "To protect toddlers from older children.",
+     "evidenceQuote": "so toddlers don't get knocked over by the bigger children",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to protect small children from older ones",
+      "B. because it is too noisy",
+      "C. because it costs extra"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to protect small children from older ones",
+      "to protect small children from older ones"
+     ]
+    },
+    {
+     "id": "practice10-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why should tickets be booked online?",
+     "explanation": "Numbers are limited.",
+     "evidenceQuote": "numbers are limited to avoid overcrowding",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are cheaper online.",
+      "B. The number of visitors is limited.",
+      "C. There is no ticket office."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The number of visitors is limited.",
+      "The number of visitors is limited."
+     ]
+    },
+    {
+     "id": "practice10-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the robotics workshop?",
+     "explanation": "Children take their robot home.",
+     "evidenceQuote": "build and program a simple robot that they can take home",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is free.",
+      "B. It is for children under five.",
+      "C. Children keep what they make."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Children keep what they make.",
+      "Children keep what they make."
+     ]
+    },
+    {
+     "id": "practice10-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "a walk-through model of an organ",
+     "explanation": "The Body Zone has a heart model.",
+     "evidenceQuote": "There's a giant model of a heart that you can walk through",
+     "skillTag": "matching",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Body Zone",
+      "Body Zone"
+     ]
+    },
+    {
+     "id": "practice10-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "testing structures on a moving table",
+     "explanation": "The Build Zone has the earthquake table.",
+     "evidenceQuote": "test them on an earthquake table that shakes",
+     "skillTag": "matching",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Build Zone",
+      "Build Zone"
+     ]
+    },
+    {
+     "id": "practice10-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "making music by moving",
+     "explanation": "The Light and Sound Zone does this.",
+     "evidenceQuote": "instruments that make music when you move in front of them",
+     "skillTag": "matching",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Light and Sound Zone",
+      "Light and Sound Zone"
+     ]
+    },
+    {
+     "id": "practice10-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "controlling flow with pumps",
+     "explanation": "The Water Zone has pumps.",
+     "evidenceQuote": "control the flow of water using pipes and pumps",
+     "skillTag": "matching",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Water Zone",
+      "Water Zone"
+     ]
+    },
+    {
+     "id": "practice10-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "playing in a small sand pit",
+     "explanation": "Tiny Explorers has a sand pit.",
+     "evidenceQuote": "with sensory toys and a small sand pit",
+     "skillTag": "matching",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Tiny Explorers",
+      "Tiny Explorers"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "interactive",
+    "exhibit",
+    "zone",
+    "workshop",
+    "membership"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which zone of the centre offers each of the following activities? Choose the correct answer and write the correct letter, A–E.",
+     "options": [
+      "A. Water Zone",
+      "B. Build Zone",
+      "C. Body Zone",
+      "D. Light and Sound Zone",
+      "E. Tiny Explorers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice10-lp3",
+   "partNumber": 3,
+   "title": "Researching bilingual children",
+   "contextDescription": "Two education students, Mei and Tom, discuss a research project on children who grow up speaking two languages.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "4BAE5B3A-F4E1-5DD3-9654-80B5C30433B5",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "So, Mei, have you finished the literature review for our project on bilingual children?"
+    },
+    {
+     "id": "C13E494B-824E-5CB4-B20F-E8FE90BE9411",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Almost. I've read about twenty studies, and there are some really interesting findings, but also a lot of disagreement."
+    },
+    {
+     "id": "5290EFD0-38CB-5D1F-9396-7B3A85EE7C29",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Let's start with the basics. When I was growing up, people used to say that learning two languages at once confused children and delayed their speech."
+    },
+    {
+     "id": "05B4592A-27A3-5EB5-BFF4-AC6F88B61782",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Yes, that was a common belief, especially in the first half of the twentieth century. Some early studies seemed to support it, but they had serious problems. For example, they often tested bilingual children only in their weaker language, or compared poor immigrant children with wealthier monolingual children, so the differences weren't really caused by bilingualism."
+    },
+    {
+     "id": "304713FD-56F7-5B58-A086-C901D8A5808A",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "So what does more recent research show?"
+    },
+    {
+     "id": "5C40E2F2-39CE-5D4F-A324-D9D7D6E02BDD",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Bilingual children reach the main milestones, like saying their first words and putting two words together, at about the same age as other children. It's true that if you count their vocabulary in each language separately, it's often smaller than a monolingual child's. But if you add the two languages together, the total is usually the same or even larger."
+    },
+    {
+     "id": "59F87475-488B-533F-975B-A6EF880F5126",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "That makes sense. They might know some words only in one language, depending on where they use them."
+    },
+    {
+     "id": "FB54630C-7279-52DC-BC54-17ED03C52A94",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Exactly. A child might know kitchen words in the language spoken at home and school words in the other one."
+    },
+    {
+     "id": "56940789-BD93-5D32-9869-1396BF988E48",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "What about mixing languages? I've noticed my cousin's children do that a lot."
+    },
+    {
+     "id": "CE4DE5AD-E496-597D-B38A-8A705275D729",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "It's called code-switching, and parents often worry about it, but researchers generally see it as normal and even a sign of skill. Adult bilinguals do it too, and they follow quite complex grammatical rules when they switch."
+    },
+    {
+     "id": "5AC9B693-DC3C-5C0D-A3E8-D551527DFFC2",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Okay. Now, the part I'm most interested in is the so-called bilingual advantage. I read that bilingual children are better at concentrating and switching between tasks."
+    },
+    {
+     "id": "C10BF4C5-CD36-5B2D-8091-1D8299825FC3",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "That's where the disagreement is. In the 2000s, a lot of studies, particularly by Ellen Bialystok in Canada, found that bilingual children performed better on tests of what's called executive function, which includes things like ignoring distractions and switching attention. The theory was that constantly managing two languages exercises these skills."
+    },
+    {
+     "id": "621CC40B-659C-5BA3-AC07-79D1EC7E0B3C",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "And now?"
+    },
+    {
+     "id": "232D9B9E-244C-59F7-99D1-5C6750FDDDF7",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "More recent studies with much larger samples have often found no difference at all. Some researchers think the earlier positive results were partly due to small samples and to publication bias, meaning that studies that found an advantage were more likely to be published."
+    },
+    {
+     "id": "FA0C5FFA-4D90-5794-966B-09BD0A03D289",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "So we should present both sides in our report."
+    },
+    {
+     "id": "7748D201-5EAE-57D6-AF2C-249A03DAB596",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Definitely. What's much less controversial is that bilingualism has social and cultural benefits, like being able to communicate with grandparents, and practical advantages later in life, for example in the job market."
+    },
+    {
+     "id": "09B43573-A444-5B4B-813B-1DCE00ABE3F9",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Right. Now, for our own small study, we're going to interview parents of bilingual children at the community language school. How many families have agreed to take part?"
+    },
+    {
+     "id": "412AED24-95D9-53B2-A047-516B4A2A0566",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Twelve so far. I'd hoped for at least fifteen, but some parents were worried about their privacy. I've explained that we won't use any real names."
+    },
+    {
+     "id": "D751CBA3-B3A3-5982-A106-422DC02A5C6B",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Good. What should we ask them about?"
+    },
+    {
+     "id": "46644281-9E2D-5511-A00F-696F2F2DE81F",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "I think the most important topic is the strategies they use at home. For example, some families follow the 'one parent, one language' approach, where each parent always speaks a different language to the child. Others speak one language at home and leave the other to school."
+    },
+    {
+     "id": "2CEA8B06-443C-52FD-BAF3-1944EFCDDE03",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "And we should ask about challenges. I imagine a lot of children stop using the home language once they start school, because all their friends speak the majority language."
+    },
+    {
+     "id": "958A4C45-58D0-5BE2-A876-1666C888B2A0",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Yes, that's very common, especially in adolescence. It would be interesting to know what parents do to prevent that."
+    },
+    {
+     "id": "FC8F1ADD-710A-50E0-BF51-B20F6EA19E3F",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Okay. Shall I write the interview questions, and you finish the literature review?"
+    },
+    {
+     "id": "85177B84-C142-5C06-A37A-1A2EF7AED41C",
+     "speaker": "Mei",
+     "accent": "en-US",
+     "text": "Sounds good. Let's meet again on Thursday to check them."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice10-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What was wrong with some early studies of bilingual children?",
+     "explanation": "They tested children in their weaker language.",
+     "evidenceQuote": "they often tested bilingual children only in their weaker language",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They used too many children.",
+      "B. They tested children in their weaker language.",
+      "C. They were carried out by teachers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They tested children in their weaker language.",
+      "They tested children in their weaker language."
+     ]
+    },
+    {
+     "id": "practice10-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What does Mei say about bilingual children's total vocabulary?",
+     "explanation": "It is the same or larger.",
+     "evidenceQuote": "the total is usually the same or even larger",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is usually similar or bigger.",
+      "B. It is always smaller.",
+      "C. It grows more slowly."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It is usually similar or bigger.",
+      "It is usually similar or bigger."
+     ]
+    },
+    {
+     "id": "practice10-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How do researchers generally view code-switching?",
+     "explanation": "It is seen as normal and skilful.",
+     "evidenceQuote": "researchers generally see it as normal and even a sign of skill",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. as a sign of confusion",
+      "B. as a problem to correct",
+      "C. as normal and skilful"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. as normal and skilful",
+      "as normal and skilful"
+     ]
+    },
+    {
+     "id": "practice10-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What has recent research found about the \"bilingual advantage\"?",
+     "explanation": "Large studies often find no difference.",
+     "evidenceQuote": "have often found no difference at all",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is larger than expected.",
+      "B. It may not exist.",
+      "C. It only affects adults."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It may not exist.",
+      "It may not exist."
+     ]
+    },
+    {
+     "id": "practice10-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why have some parents been unwilling to take part?",
+     "explanation": "They worried about privacy.",
+     "evidenceQuote": "some parents were worried about their privacy",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were too busy.",
+      "B. Their children were too young.",
+      "C. They had privacy concerns."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They had privacy concerns.",
+      "They had privacy concerns."
+     ]
+    },
+    {
+     "id": "practice10-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "When do children often stop using their home language?",
+     "explanation": "It often happens when they start school.",
+     "evidenceQuote": "I imagine a lot of children stop using the home language once they start school",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. after starting school",
+      "B. before they can speak",
+      "C. when they leave home"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. after starting school",
+      "after starting school"
+     ]
+    },
+    {
+     "id": "practice10-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Studies read for the literature review: about __________",
+     "explanation": "She read about twenty.",
+     "evidenceQuote": "I've read about twenty studies",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Bialystok's research was carried out in __________",
+     "explanation": "It was in Canada.",
+     "evidenceQuote": "particularly by Ellen Bialystok in Canada",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Canada"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Families who have agreed so far: __________",
+     "explanation": "Twelve have agreed.",
+     "evidenceQuote": "Twelve so far.",
+     "skillTag": "numbers",
+     "distractorNote": "Fifteen was her target.",
+     "options": [],
+     "acceptedAnswers": [
+      "12",
+      "twelve"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Next meeting: __________",
+     "explanation": "They meet on Thursday.",
+     "evidenceQuote": "Let's meet again on Thursday",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "bilingual",
+    "vocabulary",
+    "executive function",
+    "participant",
+    "literature review"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice10-lp4",
+   "partNumber": 4,
+   "title": "How babies learn language",
+   "contextDescription": "A lecture in a developmental psychology course on how infants begin to acquire language.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "8D615112-38EC-579C-961A-D9B3240A2BA7",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Good morning. Today we're going to look at one of the most remarkable achievements of early childhood: learning to speak. By the age of five, most children have a vocabulary of several thousand words and can produce complex sentences, without ever having had a formal lesson. How do they do it?"
+    },
+    {
+     "id": "0C02055C-F91D-525E-9380-BDC45B2337BB",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Surprisingly, language learning begins before birth. From about the twenty-fifth week of pregnancy, a baby can hear sounds from outside the womb, although they're muffled. Experiments have shown that newborn babies prefer their mother's voice to other voices, and that they prefer the language their mother spoke during pregnancy. Researchers discovered this by measuring how fast babies sucked on a special dummy, which tends to increase when they're interested in what they hear. One study even found that the cries of newborn French and German babies have different melodies, which match the patterns of their parents' languages."
+    },
+    {
+     "id": "77383980-DABC-5D09-8D5E-D69F7F6478E7",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "In the first months of life, babies are what researchers call universal listeners. Every language uses a particular set of sounds, called phonemes, to distinguish words. For example, English distinguishes between 'r' and 'l', but Japanese doesn't. Young babies can hear the difference between almost all the sounds used in the world's languages. But by around ten to twelve months, they gradually lose the ability to distinguish sounds that aren't used in the languages around them. In other words, they become specialists in their own language."
+    },
+    {
+     "id": "51EA17CA-76E1-5502-997E-93756B0FE077",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "How do babies work out where one word ends and another begins? In normal speech, there are no pauses between words. One answer comes from a famous study published in 1996 by Jenny Saffran and her colleagues. They played eight-month-old babies a continuous stream of made-up syllables for just two minutes. Within the stream, some syllables always followed each other, forming 'words', while others appeared together only by chance. Afterwards, the babies listened longer to new combinations than to the 'words', showing that they had noticed the patterns. This ability is known as statistical learning."
+    },
+    {
+     "id": "84DBB9A2-194A-5FBF-8D19-51981BA42971",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Meanwhile, babies are practising producing sounds. At around six months, they begin babbling, repeating syllables such as 'ba-ba-ba' or 'da-da-da'. Interestingly, deaf babies who are exposed to sign language babble with their hands, producing repeated movements that resemble signs. This suggests that babbling is not just about controlling the mouth, but a stage in learning language itself."
+    },
+    {
+     "id": "F0959FFC-0A50-5B21-B90F-2B9CC30DC22F",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "First words usually appear at around twelve months, and progress is slow at first. Then, at around eighteen months, many children experience a vocabulary explosion, learning several new words a day. By two, most children are combining words into short phrases, such as 'more milk' or 'daddy gone'."
+    },
+    {
+     "id": "F8FEFD22-28A6-5353-A5CD-A899906FDC63",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "What role do parents play? Across many cultures, adults speak to babies in a special way, sometimes called infant-directed speech, with a higher pitch, exaggerated intonation and simple words. Studies show babies prefer this kind of speech, and it seems to help them learn. Research by Patricia Kuhl also showed the importance of social interaction. Nine-month-old American babies who played with a Mandarin-speaking adult for twelve sessions learned to distinguish Mandarin sounds. But babies who watched exactly the same sessions on video learned nothing. Real human contact appears to be essential."
+    },
+    {
+     "id": "39979DE6-F27C-5728-B667-CE0B5E36200A",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Finally, is there a critical period for learning language, after which it becomes much more difficult? Evidence from people learning second languages suggests that those who start in early childhood are much more likely to achieve a native-like accent. Grammar also seems easier to master when learning begins early. However, adults often learn vocabulary faster than children at first, so it's not simply a case of 'younger is better'. In the next lecture, we'll look at the debate about whether humans have an inborn ability for grammar."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice10-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Newborns prefer their mother's __________ to others",
+     "explanation": "They prefer their mother's voice.",
+     "evidenceQuote": "newborn babies prefer their mother's voice to other voices",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "voice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Interest measured by speed of sucking on a special __________",
+     "explanation": "A dummy was used.",
+     "evidenceQuote": "how fast babies sucked on a special dummy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dummy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "French and German babies' cries have different __________",
+     "explanation": "Their cries have different melodies.",
+     "evidenceQuote": "the cries of newborn French and German babies have different melodies",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "melodies"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Young babies are \"__________ listeners\"",
+     "explanation": "They are universal listeners.",
+     "evidenceQuote": "babies are what researchers call universal listeners",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "universal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Sounds that distinguish words are called __________",
+     "explanation": "They are phonemes.",
+     "evidenceQuote": "a particular set of sounds, called phonemes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "phonemes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Saffran played babies made-up __________ for two minutes",
+     "explanation": "They heard made-up syllables.",
+     "evidenceQuote": "a continuous stream of made-up syllables",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "syllables"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Deaf babies babble with their __________",
+     "explanation": "They babble with their hands.",
+     "evidenceQuote": "babble with their hands",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hands"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "At about 18 months, a vocabulary __________ often occurs",
+     "explanation": "There is a vocabulary explosion.",
+     "evidenceQuote": "many children experience a vocabulary explosion",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "explosion"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Infant-directed speech has a higher __________",
+     "explanation": "It has a higher pitch.",
+     "evidenceQuote": "with a higher pitch",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pitch"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Babies learned Mandarin sounds from a live adult but not from a __________",
+     "explanation": "Video did not work.",
+     "evidenceQuote": "babies who watched exactly the same sessions on video learned nothing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "video"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "infant",
+    "babbling",
+    "phoneme",
+    "statistical learning",
+    "critical period"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice10-rp1",
+   "passageNumber": 1,
+   "title": "The children's garden: the invention of kindergarten",
+   "discipline": "History of Education",
+   "paragraphs": [
+    "Today, it is taken for granted in most countries that young children should spend time in some form of early education before they start school. Yet the idea that children under the age of six could benefit from organised learning is relatively recent. One of the most important figures in its development was a German teacher named Friedrich Froebel, who opened the first kindergarten in 1837 and gave the institution its name, which means 'children's garden'.",
+    "Froebel was born in 1782 in a small village in Thuringia, in central Germany. His mother died when he was a baby, and he later described his childhood as lonely and unhappy. He spent much of his time alone in the countryside, developing a deep love of nature that would influence all his later work. As a young man, he studied a range of subjects, including mathematics, architecture and mineralogy, before discovering his talent for teaching while working at a school in Frankfurt. He later said that he had felt from his first lesson as though he had at last found his true calling, and that he never seriously considered any other career afterwards.",
+    "At the time, most schools relied heavily on memorisation and strict discipline. Children were expected to sit still, repeat what the teacher said and learn by heart. Froebel was strongly influenced by the Swiss educator Johann Heinrich Pestalozzi, with whom he worked for two years, and who believed that education should develop the whole child, including the hands and the heart as well as the head. Froebel went further, arguing that young children learn best through play, which he described as the highest expression of human development in childhood.",
+    "To put his ideas into practice, Froebel designed a series of educational toys, which he called 'gifts'. The first gift was a set of six soft woollen balls in different colours. Later gifts included wooden cubes, cylinders and blocks that could be combined to build shapes and patterns. Through playing with these objects, children were meant to discover basic ideas of form, number and balance for themselves. He also developed 'occupations', such as paper folding, weaving, sewing and modelling with clay, as well as songs and movement games.",
+    "Gardens were central to Froebel's vision. In his kindergartens, each child had a small plot of land to look after, as well as a shared garden for the whole group. He believed that caring for plants would teach children patience and responsibility, and help them understand the natural world. The name kindergarten reflected his belief that children, like plants, need the right conditions in order to grow, and that the teacher's role was rather like that of a gardener, providing care and support rather than forcing development.",
+    "Froebel's ideas were controversial in his own lifetime. In 1851, the Prussian government banned kindergartens, apparently because officials confused Froebel with his nephew, Karl Froebel, who had written books with radical political and religious views. The ban lasted until 1860, by which time Froebel had died. Ironically, the ban helped to spread his ideas abroad, as many of his followers, a large number of them women, left Germany and opened kindergartens in other countries.",
+    "One of these followers, Margarethe Schurz, opened the first kindergarten in the United States in 1856, in Watertown, Wisconsin. It was taught in German, for the children of German immigrants. The first English-language kindergarten in the country was opened in Boston in 1860 by Elizabeth Peabody, who became one of the movement's most energetic supporters. By the end of the nineteenth century, kindergartens had been established in cities across Europe, North America and Japan, and in many places they became part of the public school system. Training colleges for kindergarten teachers were also set up, and for many women at the time, teaching young children offered one of the few respectable careers available to them outside the home.",
+    "Froebel's influence can be seen far beyond the kindergarten. Several important architects, including Frank Lloyd Wright, said that playing with Froebel's blocks as a child had shaped their understanding of space and form. More importantly, many of his core beliefs, that young children learn through play and activity, that education should develop the whole child, and that teachers should guide rather than dictate, are now central to early childhood education around the world, even where his name is no longer known."
+   ],
+   "questions": [
+    {
+     "id": "practice10-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Froebel had a happy childhood.",
+     "explanation": "He described it as unhappy.",
+     "evidenceQuote": "he later described his childhood as lonely and unhappy",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice10-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Froebel studied architecture before becoming a teacher.",
+     "explanation": "He studied architecture first.",
+     "evidenceQuote": "he studied a range of subjects, including mathematics, architecture and mineralogy, before discovering his talent for teaching",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice10-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Froebel worked with Pestalozzi for several decades.",
+     "explanation": "He worked with him for two years.",
+     "evidenceQuote": "with whom he worked for two years",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice10-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The first gift consisted of wooden cubes.",
+     "explanation": "It was woollen balls.",
+     "evidenceQuote": "The first gift was a set of six soft woollen balls in different colours.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice10-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Froebel's gifts were expensive to produce.",
+     "explanation": "Cost is not mentioned.",
+     "evidenceQuote": "Froebel designed a series of educational toys",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice10-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Prussian ban may have been the result of a mistake.",
+     "explanation": "Officials confused him with his nephew.",
+     "evidenceQuote": "apparently because officials confused Froebel with his nephew",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice10-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Elizabeth Peabody had trained with Froebel in Germany.",
+     "explanation": "Her training is not mentioned.",
+     "evidenceQuote": "opened in Boston in 1860 by Elizabeth Peabody",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice10-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Schools at the time relied on memorisation and strict __________",
+     "explanation": "Schools used strict discipline.",
+     "evidenceQuote": "relied heavily on memorisation and strict discipline",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "discipline"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Froebel believed children learn best through __________",
+     "explanation": "Children learn through play.",
+     "evidenceQuote": "young children learn best through play",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "play"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "\"Occupations\" included paper folding, weaving and __________",
+     "explanation": "Sewing was an occupation.",
+     "evidenceQuote": "such as paper folding, weaving, sewing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sewing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Caring for plants taught patience and __________",
+     "explanation": "It taught responsibility.",
+     "evidenceQuote": "would teach children patience and responsibility",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "responsibility"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "The teacher was compared to a __________",
+     "explanation": "The teacher is like a gardener.",
+     "evidenceQuote": "rather like that of a gardener",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gardener"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The first US kindergarten taught in __________",
+     "explanation": "It taught in German.",
+     "evidenceQuote": "It was taught in German",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "German"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 727,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice10-rp2",
+   "passageNumber": 2,
+   "title": "The marshmallow test revisited",
+   "discipline": "Developmental Psychology",
+   "paragraphs": [
+    "In the late 1960s, the psychologist Walter Mischel began a series of experiments at a nursery school at Stanford University in California that would become some of the most famous in the history of psychology. Children aged between three and five were taken into a room and offered a treat, often a marshmallow. They were told that they could eat it immediately, or, if they waited until the researcher returned, they would receive two treats instead. The researcher then left the room for up to fifteen minutes, and the children were observed through a one-way mirror.",
+    "The children's responses varied widely. Some ate the marshmallow as soon as the door closed. Others tried to resist but gave in after a few minutes. Around a third managed to wait the full time and received the second treat. Mischel and his colleagues were particularly interested in the strategies the successful children used. Many covered their eyes, turned away from the table, sang to themselves or kicked the desk. Some invented games. The children who did least well tended to stare at the marshmallow, touch it or even smell it.",
+    "The experiment might have remained a minor study of self-control had it not been for a coincidence. Mischel's own daughters attended the same nursery school, and as they grew older, he began to ask them casually how their former classmates were getting on. He noticed what seemed to be a pattern: the children who had waited longest appeared to be doing better at school. This led him to contact the original participants years later, when they were teenagers, and to collect information about their academic achievement and behaviour.",
+    "The follow-up studies, published in the late 1980s and 1990, produced striking results. Children who had waited longer as preschoolers were described by their parents as more competent and better able to cope with stress as adolescents, and they had higher scores on the SAT, the test used for university admission in the United States. Later studies even suggested that they had healthier body weights as adults. The findings were widely reported, and the marshmallow test became a symbol of the idea that self-control in early childhood can predict success in life.",
+    "This idea had a powerful influence on education. Schools and parenting books promoted programmes designed to teach young children to delay gratification, on the assumption that improving self-control would lead to better outcomes later. The message often given to the public was simple: if you can teach your child to resist the marshmallow, you are setting them up for success.",
+    "However, in 2018, a team led by Tyler Watts at New York University published a study that challenged this interpretation. They repeated the experiment with more than nine hundred children, a much larger and more varied group than Mischel's, whose original participants had mostly been the children of Stanford University staff. Watts and his colleagues found that the link between waiting time and later achievement was only about half as strong as in the original studies. More importantly, once they took into account factors such as the family's income and the mother's level of education, the link almost disappeared.",
+    "This suggests that the ability to wait may be, at least partly, a reflection of children's circumstances rather than a fixed personal quality. Other research supports this view. In a 2012 study at the University of Rochester, children were first promised better art materials by a researcher. In one group, the researcher kept the promise; in the other, he did not. When the marshmallow test followed, children who had experienced a reliable adult waited around four times longer than those who had not. For a child who has learned that promises are often broken, or that food may be taken by others, eating the marshmallow immediately may be a perfectly rational choice.",
+    "Mischel himself, who died in 2018, always argued that self-control was not fixed and could be learned, and that the most important finding was not who waited, but how children managed to do so. Nevertheless, the revised findings suggest that teaching children individual strategies is unlikely, on its own, to have dramatic long-term effects. Improving the stability and resources of children's environments may matter just as much, if not more."
+   ],
+   "questions": [
+    {
+     "id": "practice10-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes children's strategies.",
+     "evidenceQuote": "Mischel and his colleagues were particularly interested in the strategies the successful children used.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. How some children resisted temptation",
+      "How some children resisted temptation"
+     ]
+    },
+    {
+     "id": "practice10-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains how the follow-up began by chance.",
+     "evidenceQuote": "had it not been for a coincidence",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. An unexpected route to new research",
+      "An unexpected route to new research"
+     ]
+    },
+    {
+     "id": "practice10-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D reports the long-term results.",
+     "evidenceQuote": "The follow-up studies, published in the late 1980s and 1990, produced striking results.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Apparent long-term benefits",
+      "Apparent long-term benefits"
+     ]
+    },
+    {
+     "id": "practice10-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the impact on education.",
+     "evidenceQuote": "This idea had a powerful influence on education.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Impact on schools and parents",
+      "Impact on schools and parents"
+     ]
+    },
+    {
+     "id": "practice10-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F presents a challenge from a larger study.",
+     "evidenceQuote": "a team led by Tyler Watts at New York University published a study that challenged this interpretation",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A larger study gives different results",
+      "A larger study gives different results"
+     ]
+    },
+    {
+     "id": "practice10-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G shows the role of trust and environment.",
+     "evidenceQuote": "the ability to wait may be, at least partly, a reflection of children's circumstances",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. The importance of trust",
+      "The importance of trust"
+     ]
+    },
+    {
+     "id": "practice10-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H draws conclusions.",
+     "evidenceQuote": "Improving the stability and resources of children's environments may matter just as much",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Rethinking what should be done",
+      "Rethinking what should be done"
+     ]
+    },
+    {
+     "id": "practice10-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did the least successful children tend to do?",
+     "explanation": "They focused on the marshmallow.",
+     "evidenceQuote": "tended to stare at the marshmallow, touch it or even smell it",
+     "skillTag": "detail",
+     "options": [
+      "A. sing to themselves",
+      "B. cover their eyes",
+      "C. focus their attention on the treat",
+      "D. leave the room"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. focus their attention on the treat",
+      "focus their attention on the treat"
+     ]
+    },
+    {
+     "id": "practice10-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What was a weakness of Mischel's original sample?",
+     "explanation": "Most were children of university staff.",
+     "evidenceQuote": "whose original participants had mostly been the children of Stanford University staff",
+     "skillTag": "detail",
+     "options": [
+      "A. Most participants came from a similar background.",
+      "B. It included too many children.",
+      "C. The children were too old.",
+      "D. It was carried out in several countries."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Most participants came from a similar background.",
+      "Most participants came from a similar background."
+     ]
+    },
+    {
+     "id": "practice10-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "In the Rochester study, which children waited longest?",
+     "explanation": "Those with a reliable adult waited longer.",
+     "evidenceQuote": "children who had experienced a reliable adult waited around four times longer",
+     "skillTag": "detail",
+     "options": [
+      "A. those given art materials",
+      "B. those who had experienced a reliable adult",
+      "C. those from wealthy families",
+      "D. those who were older"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. those who had experienced a reliable adult",
+      "those who had experienced a reliable adult"
+     ]
+    },
+    {
+     "id": "practice10-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Children who waited longer later achieved higher scores on the __________.",
+     "explanation": "They scored higher on the SAT.",
+     "evidenceQuote": "they had higher scores on the SAT",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "SAT"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice10-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Watts found the link nearly disappeared after considering family income and the mother's __________.",
+     "explanation": "Mother's education was considered.",
+     "evidenceQuote": "the mother's level of education",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "education"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice10-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Mischel believed that self-control was not fixed and could be __________.",
+     "explanation": "It can be learned.",
+     "evidenceQuote": "self-control was not fixed and could be learned",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "learned"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 708,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Impact on schools and parents",
+      "ii. An unexpected route to new research",
+      "iii. The importance of trust",
+      "iv. Marshmallows and children's diets",
+      "v. How some children resisted temptation",
+      "vi. Rethinking what should be done",
+      "vii. Differences between boys and girls",
+      "viii. Apparent long-term benefits",
+      "ix. A larger study gives different results"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice10-rp3",
+   "passageNumber": 3,
+   "title": "Is homework worth it?",
+   "discipline": "Education Policy",
+   "paragraphs": [
+    "Few aspects of school life cause as much argument as homework. For many parents, it is a sign that a school takes learning seriously; for others, it is a source of stress that takes away family time and leads to battles at the kitchen table. Teachers, too, are divided. Some see it as essential practice, while others regard it as a burden that widens the gap between children from different backgrounds. The research evidence, as is often the case in education, is more complicated than either side would like.",
+    "Homework has been controversial for more than a century. In the early twentieth century, some American doctors and journalists claimed that homework damaged children's health by depriving them of fresh air, exercise and sleep. In 1901, the state of California passed a law banning homework for children under the age of fifteen, although it was later repealed. Attitudes changed after 1957, when the Soviet Union launched the first satellite, Sputnik, and Americans worried that their children were falling behind. Homework was promoted as a way of raising standards, and the amount set increased.",
+    "The most widely cited research on the subject is by Harris Cooper of Duke University, who has reviewed hundreds of studies. His conclusion is that the effect of homework depends strongly on the age of the student. For secondary school students, there is a clear positive relationship between homework and achievement, up to a point. Beyond around two hours a night, however, the benefits disappear and may even reverse. For primary school children, Cooper found little evidence that homework improves academic achievement at all.",
+    "Why should age make such a difference? One explanation is that younger children are less able to study independently and to concentrate on tasks without help. They are also more easily distracted, and their parents may become heavily involved, sometimes in ways that are unhelpful. It is also possible that much of the homework given to young children is not well designed. Cooper himself does not recommend abolishing homework for primary pupils, however. He argues that short, simple tasks, such as reading for pleasure, can help children develop good study habits and show parents what their children are learning.",
+    "International comparisons add another dimension to the debate. Data from the OECD's PISA tests, which assess fifteen-year-olds around the world, show that students in countries such as Finland, which consistently perform well, do relatively little homework, whereas students in some lower-performing countries do a great deal. Yet within individual countries, students who do more homework tend to score higher. In my view, this suggests that the quality of teaching in school matters far more than the quantity of work done at home.",
+    "A particular concern is the effect of homework on inequality. Children from wealthier families are more likely to have a quiet place to study, access to a computer and the internet, and parents who have the time and education to help them. Children from poorer families may share a crowded room, have caring responsibilities or part-time jobs, or simply lack support. Homework may therefore reward advantages that have nothing to do with ability or effort. Some schools have responded by setting up homework clubs, where students can work after the school day with access to resources and staff.",
+    "There is also growing concern about the effect of homework on well-being. A study of students at high-achieving schools in California by Denise Pope of Stanford University found that many students did more than three hours of homework a night and reported high levels of stress, physical symptoms such as headaches and stomach problems, and a lack of balance in their lives. Pope does not argue that homework should be abolished, but she believes that much of it is set out of habit rather than for a clear purpose.",
+    "What, then, makes homework worthwhile? Most researchers agree that it should be purposeful, clearly linked to what is being taught in class, appropriate to the student's age and not excessive. Feedback matters too; homework that is never marked or discussed is unlikely to be taken seriously. Some schools have experimented with giving students choices about their homework, or with 'flipped learning', in which students watch short videos at home and then use class time for practice. These approaches deserve to be studied more carefully, but they suggest that the question is not simply whether to set homework, but how."
+   ],
+   "questions": [
+    {
+     "id": "practice10-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "passed a law that prohibited homework for younger students",
+     "explanation": "California banned homework in 1901.",
+     "evidenceQuote": "the state of California passed a law banning homework",
+     "skillTag": "matching_features",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. California",
+      "California"
+     ]
+    },
+    {
+     "id": "practice10-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "found that homework has little academic effect on primary pupils",
+     "explanation": "Cooper found this.",
+     "evidenceQuote": "Cooper found little evidence that homework improves academic achievement at all",
+     "skillTag": "matching_features",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Harris Cooper",
+      "Harris Cooper"
+     ]
+    },
+    {
+     "id": "practice10-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "performs well internationally despite setting little homework",
+     "explanation": "Finland does well with little homework.",
+     "evidenceQuote": "students in countries such as Finland, which consistently perform well, do relatively little homework",
+     "skillTag": "matching_features",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Finland",
+      "Finland"
+     ]
+    },
+    {
+     "id": "practice10-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "found that many students suffered from stress-related symptoms",
+     "explanation": "Pope found this.",
+     "evidenceQuote": "reported high levels of stress, physical symptoms such as headaches",
+     "skillTag": "matching_features",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Denise Pope",
+      "Denise Pope"
+     ]
+    },
+    {
+     "id": "practice10-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "recommended simple tasks such as reading for pleasure",
+     "explanation": "Cooper recommends simple tasks.",
+     "evidenceQuote": "short, simple tasks, such as reading for pleasure",
+     "skillTag": "matching_features",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Harris Cooper",
+      "Harris Cooper"
+     ]
+    },
+    {
+     "id": "practice10-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The research on homework clearly supports one side of the debate.",
+     "explanation": "It is more complicated.",
+     "evidenceQuote": "is more complicated than either side would like",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice10-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The launch of Sputnik led to an increase in homework in the USA.",
+     "explanation": "Homework increased after Sputnik.",
+     "evidenceQuote": "Homework was promoted as a way of raising standards, and the amount set increased.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice10-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Teaching quality in school is more important than the amount of homework.",
+     "explanation": "The writer believes teaching quality matters more.",
+     "evidenceQuote": "the quality of teaching in school matters far more than the quantity of work done at home",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice10-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Homework clubs have been shown to close the achievement gap.",
+     "explanation": "Their results are not given.",
+     "evidenceQuote": "Some schools have responded by setting up homework clubs",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice10-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Flipped learning should be adopted by all schools immediately.",
+     "explanation": "The writer wants more study first.",
+     "evidenceQuote": "These approaches deserve to be studied more carefully",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice10-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Some early critics said homework deprived children of fresh air, exercise and __________.",
+     "explanation": "It deprived them of sleep.",
+     "evidenceQuote": "depriving them of fresh air, exercise and sleep",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sleep"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Younger children are more easily __________ than older students.",
+     "explanation": "Younger children are easily distracted.",
+     "evidenceQuote": "They are also more easily distracted",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distracted"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Poorer children may have caring responsibilities or part-time __________.",
+     "explanation": "They may have part-time jobs.",
+     "evidenceQuote": "have caring responsibilities or part-time jobs",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "jobs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice10-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Homework that receives no __________ is unlikely to be taken seriously.",
+     "explanation": "Feedback is important.",
+     "evidenceQuote": "Feedback matters too",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "feedback"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 733,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people and places below. Match each statement with the correct option, A–F.",
+     "options": [
+      "A. California",
+      "B. Harris Cooper",
+      "C. Finland",
+      "D. Denise Pope",
+      "E. the Soviet Union",
+      "F. the OECD"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice10-w1",
+  "title": "Children's daily activities",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts below show how children aged 6–11 in one country spent their free time on a typical school day in 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "784FE264-8007-5466-A99F-7F3462D6869B",
+    "series": "2000",
+    "category": "Outdoor play",
+    "value": 32.0,
+    "unit": "%"
+   },
+   {
+    "id": "37E526D4-98C0-50C9-BFB1-F2416E9C49DC",
+    "series": "2000",
+    "category": "Watching TV",
+    "value": 28.0,
+    "unit": "%"
+   },
+   {
+    "id": "BAC6CB62-FA1C-5159-99AE-21DDB3E45424",
+    "series": "2000",
+    "category": "Reading",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "CB725D52-A4B0-587A-ADDB-248B7B29C118",
+    "series": "2000",
+    "category": "Homework",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "DDE5EAC1-592E-52DC-962A-BB38DCEB1D8C",
+    "series": "2000",
+    "category": "Screens and games",
+    "value": 10.0,
+    "unit": "%"
+   },
+   {
+    "id": "4CA0713B-E4CD-5465-9A2B-2A3815271371",
+    "series": "2020",
+    "category": "Outdoor play",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "43C7D760-E7DD-585C-9691-16921F60D7F4",
+    "series": "2020",
+    "category": "Watching TV",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "72F474A0-7D27-525D-9A06-A4992E3C0FDE",
+    "series": "2020",
+    "category": "Reading",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "B68414A3-D0B0-5B2A-A4E2-D38EC989AF0C",
+    "series": "2020",
+    "category": "Homework",
+    "value": 20.0,
+    "unit": "%"
+   },
+   {
+    "id": "640E78C7-5A7D-5420-937A-D9B8A617FDE4",
+    "series": "2020",
+    "category": "Screens and games",
+    "value": 45.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Screen-based activities rose dramatically to become the main use of free time.",
+   "Outdoor play and watching TV fell sharply, while homework changed little."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice10-w2",
+  "title": "Starting school early",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Education",
+  "promptText": "In some countries, children start formal education at the age of four, while in others they start at seven. Do the advantages of starting school at an early age outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice10-spk",
+  "theme": "Childhood",
+  "part1Questions": [
+   "Where did you grow up?",
+   "What games did you play as a child?",
+   "Did you enjoy primary school?",
+   "Who was your best friend when you were a child?",
+   "Do you think childhood is the happiest time of life?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a teacher who had an important influence on you.",
+   "bulletPoints": [
+    "who the teacher was",
+    "what subject he or she taught",
+    "what the teacher was like",
+    "and explain why this teacher influenced you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What makes a good teacher?",
+   "Is childhood today more difficult than in the past?",
+   "Should parents limit the time children spend on screens?",
+   "How important is play for young children?",
+   "Do you think children should have homework?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Research findings are simplified for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

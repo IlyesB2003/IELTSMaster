@@ -1,0 +1,2159 @@
+{
+ "id": "exam12",
+ "examNumber": 12,
+ "pool": "mock",
+ "title": "Mock Exam 12: Volcanoes, Earthquakes & Natural Hazards",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Volcanoes, Earthquakes & Natural Hazards",
+ "listeningParts": [
+  {
+   "id": "exam12-lp1",
+   "partNumber": 1,
+   "title": "Joining a volcano hiking trip",
+   "contextDescription": "A woman phones a tour company to book a guided hike on a volcano.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "EF1EDE74-5E68-5555-9647-C9CE14C5D61B",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good morning, Fire Mountain Tours, this is Callum. How can I help you?"
+    },
+    {
+     "id": "2853C141-EEC5-5E7A-9EAC-FFD2ED21F64B",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "Hi, I'm on holiday here next month with my husband, and we'd love to do one of your volcano hikes. Could you tell me what you offer?"
+    },
+    {
+     "id": "987FD52D-A9B3-5E3C-BF0B-BA5AA1E6BE26",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Certainly. We have three main trips. The easiest is the Lava Fields Walk. It takes about three hours and goes across old lava flows at the bottom of the mountain. There's not much climbing, so it's suitable for almost anyone, including children over eight."
+    },
+    {
+     "id": "766DD5B7-2844-5AB1-BF66-DFF6023CE887",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "Okay. And the others?"
+    },
+    {
+     "id": "DD2341DF-4B53-5FB8-83A1-E316E81B01FD",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "The second is the Crater Rim Hike, which is our most popular. You drive up to the car park at fifteen hundred metres, and then walk up to the edge of the main crater and around it. It takes around six hours in total, and you need to be reasonably fit, because the path is steep in places and the ground is loose."
+    },
+    {
+     "id": "0FC07FBF-BF38-5D75-808D-B404890BB698",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "And the third one?"
+    },
+    {
+     "id": "58183967-309D-51F8-B7EF-0A8360BB361D",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "That's the Summit Sunrise trip. You start at two in the morning and climb to the summit in the dark, so that you reach the top at sunrise. It's spectacular, but it's very demanding: around nine hours of walking, and the summit is at over three thousand metres, so some people feel the effects of the altitude."
+    },
+    {
+     "id": "AB20AB4D-F314-5A95-BCB3-92ECB1B52309",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "I think the Crater Rim Hike sounds about right for us. We walk quite a lot at home, but we're not experienced mountaineers."
+    },
+    {
+     "id": "4ABA4092-315E-5101-ABF7-C04FA41FF3C5",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good choice. That trip runs every day except Sunday. Which date were you thinking of?"
+    },
+    {
+     "id": "6C557274-F9EB-59CD-B1F6-76058CD28AD1",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "Could we do the nineteenth?"
+    },
+    {
+     "id": "3757DE6C-17D3-5B29-B43B-A35088C943F7",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "The nineteenth is a Wednesday. Yes, there are places available. The price is eighty-five euros per person. That includes transport from your hotel, the guide, a helmet, and a packed lunch."
+    },
+    {
+     "id": "5DA34957-E3F0-52CA-8EF0-220558D20988",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "A helmet? Is it dangerous?"
+    },
+    {
+     "id": "46C68D12-F719-5300-8F8F-27746F8EA876",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "It's a precaution. The volcano is active, and occasionally small stones are thrown out of the crater. Our guides check the activity reports every morning with the volcano observatory, and if the risk is too high, we change the route or cancel the trip. If we cancel, you get a full refund, or you can move to another day."
+    },
+    {
+     "id": "6FE47136-BC75-5DC7-A6CF-89CED4D494E7",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "That's reassuring. What should we bring?"
+    },
+    {
+     "id": "379B2138-FAFE-554C-94BF-4D637DD53A02",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Proper walking boots are essential; we won't allow anyone to join in trainers or sandals, because the volcanic rock is very sharp. You'll also need a waterproof jacket and a warm layer. Even in summer, it can be cold and windy near the crater. And bring at least two litres of water per person, sun cream and sunglasses."
+    },
+    {
+     "id": "DF32CEB4-9AAE-5F2A-B268-2A3F7715122B",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "We don't have walking boots with us. Can we hire them?"
+    },
+    {
+     "id": "490A5988-475F-5A49-82C6-1BFD40CFED6E",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Yes, we hire boots for ten euros a pair. Just tell me your shoe sizes when you book, so we can have them ready."
+    },
+    {
+     "id": "C4121BFC-2472-5476-A022-3AD881E0302D",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "Great. And what time does it start?"
+    },
+    {
+     "id": "F518A10D-FD16-5555-A239-337709C7DDB2",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "The minibus picks people up between seven and seven thirty, depending on where your hotel is. Where are you staying?"
+    },
+    {
+     "id": "9C4C69D5-497D-5696-975F-CD276F49E42D",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "The Hotel Miramar, on the seafront."
+    },
+    {
+     "id": "57D174B1-B572-5DB8-851E-D8F3BB238D93",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "That's one of our first pick-ups, so it'll be seven o'clock, outside the main entrance. Could I take your name, please?"
+    },
+    {
+     "id": "BC5DA0E9-C57A-5314-B3B6-14D56A63B534",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "It's Laura Fairbanks. F-A-I-R-B-A-N-K-S."
+    },
+    {
+     "id": "FDE4DEFE-40FD-5A27-BE33-F7701FA41DBE",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you. And is there anything we should know about your health, for example heart or breathing problems?"
+    },
+    {
+     "id": "230605BF-81D4-543E-A3A5-188D556ABFF7",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "No, we're both fine. Although my husband is allergic to nuts, if that matters for the lunch."
+    },
+    {
+     "id": "B61D1ADC-28AA-5F25-8682-A464E75FB730",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "It does, thank you. I'll make a note so the kitchen prepares a nut-free lunch for him. To confirm the booking, we need a deposit of thirty euros per person, which you can pay online using the link I'll send you by email. The rest is paid in cash or by card to the guide on the day."
+    },
+    {
+     "id": "5EE463C5-2E1C-50F8-A733-9752B1AA1B5E",
+     "speaker": "Customer",
+     "accent": "en-US",
+     "text": "Perfect. One last question: will we actually see lava?"
+    },
+    {
+     "id": "E400ACE0-D932-5B04-913A-10F3781BFDEB",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "I'm afraid I can't promise that. Sometimes, if there's been recent activity, you can see a red glow inside the crater, but most of the time you'll see steam and smoke, and smell the sulphur. It's still very impressive, though, and the views across the island are amazing."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam12-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Lava Fields Walk: suitable for children over __________",
+     "explanation": "Children over eight can go.",
+     "evidenceQuote": "including children over eight",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "8",
+      "eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Crater Rim Hike starts from a car park at __________ metres",
+     "explanation": "The car park is at 1,500 metres.",
+     "evidenceQuote": "drive up to the car park at fifteen hundred metres",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1500",
+      "1,500",
+      "fifteen hundred"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Date chosen: the __________ (Wednesday)",
+     "explanation": "She chooses the nineteenth.",
+     "evidenceQuote": "Could we do the nineteenth?",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "nineteenth",
+      "19th",
+      "19"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Price per person: €__________",
+     "explanation": "It costs €85.",
+     "evidenceQuote": "The price is eighty-five euros per person.",
+     "skillTag": "numbers",
+     "distractorNote": "€30 is the deposit; €10 is boot hire.",
+     "options": [],
+     "acceptedAnswers": [
+      "85"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Price includes transport, guide, a __________ and packed lunch",
+     "explanation": "A helmet is included.",
+     "evidenceQuote": "the guide, a helmet, and a packed lunch",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "helmet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Trainers not allowed because volcanic rock is very __________",
+     "explanation": "The rock is sharp.",
+     "evidenceQuote": "the volcanic rock is very sharp",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sharp"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Boot hire: €__________ a pair",
+     "explanation": "Boots cost €10.",
+     "evidenceQuote": "we hire boots for ten euros a pair",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Pick-up: 7.00 a.m. at Hotel __________",
+     "explanation": "She stays at the Miramar.",
+     "evidenceQuote": "The Hotel Miramar, on the seafront.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Miramar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Fairbanks.",
+     "evidenceQuote": "It's Laura Fairbanks. F-A-I-R-B-A-N-K-S.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Fairbanks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Husband needs a lunch without __________",
+     "explanation": "He is allergic to nuts.",
+     "evidenceQuote": "my husband is allergic to nuts",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nuts"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "crater",
+    "summit",
+    "guide",
+    "altitude",
+    "waterproof"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam12-lp2",
+   "partNumber": 2,
+   "title": "Earthquake preparedness at work",
+   "contextDescription": "A safety officer speaks to new staff at an office about what to do in an earthquake.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "3F55488D-216C-5AA4-AB75-B3F5187CA697",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "Good morning, everyone, and welcome to Harbourview Engineering. I'm Nadia, the health and safety officer, and this morning I want to talk to you about earthquakes. As you probably know, this city lies close to a major fault line, and scientists estimate there's a significant chance of a damaging earthquake here in the next fifty years. So it's important that everyone knows exactly what to do."
+    },
+    {
+     "id": "B61BB0FC-A6CF-5FC0-B6FE-118262585EBF",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "First, the building itself. This office was built in 2012, and it was designed to meet the latest earthquake standards. It sits on special rubber bearings, which allow the building to move separately from the ground and reduce the shaking inside. That means it's very unlikely to collapse. However, people are often injured in earthquakes not because buildings fall down, but because objects inside them fall over or are thrown across the room. That's why all our bookcases and filing cabinets are fixed to the walls, and why we ask you not to keep heavy objects on high shelves."
+    },
+    {
+     "id": "2E86BF08-D91C-5BFE-9139-1574D6CC7A08",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "Now, if you feel an earthquake, the rule is: drop, cover and hold on. Drop to your hands and knees before the shaking knocks you down. Take cover under a strong desk or table, protecting your head and neck. And hold on to it until the shaking stops. If there's no table nearby, crouch next to an inside wall, away from windows, and cover your head with your arms."
+    },
+    {
+     "id": "0429CE4D-D722-5256-9E04-5841C55F8347",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "What you should not do is run outside during the shaking. Many injuries happen when people are hit by falling glass or pieces of buildings as they leave. And please don't use the lifts, either during an earthquake or afterwards, because they may stop working or be damaged. Some people believe that standing in a doorway is the safest place, but in modern buildings, doorways are no stronger than other parts of the structure, so that advice is out of date."
+    },
+    {
+     "id": "B4261F69-22B1-5E00-AE0A-6B56154C0DF5",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "When the shaking stops, wait for instructions from your floor warden. Each floor has two wardens, who wear orange jackets. If the building needs to be evacuated, they'll lead you down the stairs. Our assembly point is in the car park of the sports centre across the road, not the main car park behind this building, because that's next to a tall wall which could fall. At the assembly point, your manager will check that everyone from your team is there."
+    },
+    {
+     "id": "3E455C55-35F9-5174-8494-91CA9D3033F5",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "Be aware that a large earthquake is usually followed by aftershocks, which can continue for days or even weeks. Some can be strong enough to cause further damage, so be prepared to drop, cover and hold on again."
+    },
+    {
+     "id": "72FAEDD2-1E7E-5FEB-8643-B66DB4C01D04",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "We also keep emergency supplies in the building, in case staff are unable to get home, for example if roads or bridges are closed. There are emergency kits on every floor, in the cupboard next to the kitchen. Each one contains water, food bars, a first-aid kit, a torch and a radio that works without batteries, using a handle that you turn. We check the kits every six months and replace anything that's out of date."
+    },
+    {
+     "id": "9A3E501A-868C-51FD-866B-6482AE0825F8",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "We also strongly recommend that you prepare a small kit for your own home and agree a plan with your family, for example a place to meet if you're separated and a friend or relative outside the city that everyone can contact, since local phone networks are often overloaded after an earthquake. You'll find a checklist on the staff website."
+    },
+    {
+     "id": "BAB7E959-0601-5257-8880-F835C273E3D2",
+     "speaker": "Officer",
+     "accent": "en-CA",
+     "text": "Finally, we hold an earthquake drill twice a year, in April and October, and the whole building takes part. You'll hear a long, continuous alarm, which is different from the fire alarm, which goes on and off. Right, does anyone have any questions?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam12-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What does Nadia say about the office building?",
+     "explanation": "Rubber bearings reduce shaking.",
+     "evidenceQuote": "which allow the building to move separately from the ground",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was built before modern standards existed.",
+      "B. It has a system that reduces shaking.",
+      "C. It has been damaged by an earthquake."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It has a system that reduces shaking.",
+      "It has a system that reduces shaking."
+     ]
+    },
+    {
+     "id": "exam12-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "According to Nadia, many earthquake injuries are caused by",
+     "explanation": "Falling objects cause injuries.",
+     "evidenceQuote": "because objects inside them fall over or are thrown across the room",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. buildings collapsing.",
+      "B. people panicking.",
+      "C. objects falling or moving."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. objects falling or moving.",
+      "objects falling or moving."
+     ]
+    },
+    {
+     "id": "exam12-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why is standing in a doorway no longer recommended?",
+     "explanation": "Doorways are not stronger.",
+     "evidenceQuote": "doorways are no stronger than other parts of the structure",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Doorways are not stronger than other areas.",
+      "B. Doors can close and trap people.",
+      "C. It blocks the exit for others."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Doorways are not stronger than other areas.",
+      "Doorways are not stronger than other areas."
+     ]
+    },
+    {
+     "id": "exam12-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why is the main car park not used as the assembly point?",
+     "explanation": "A wall could fall there.",
+     "evidenceQuote": "that's next to a tall wall which could fall",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is too small.",
+      "B. A wall nearby could collapse.",
+      "C. It is used by emergency vehicles."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A wall nearby could collapse.",
+      "A wall nearby could collapse."
+     ]
+    },
+    {
+     "id": "exam12-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why should families choose a contact outside the city?",
+     "explanation": "Local networks may be overloaded.",
+     "evidenceQuote": "local phone networks are often overloaded after an earthquake",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Outside areas are safer.",
+      "B. Relatives can send supplies.",
+      "C. Local phone lines may be too busy."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Local phone lines may be too busy.",
+      "Local phone lines may be too busy."
+     ]
+    },
+    {
+     "id": "exam12-L16",
+     "number": 16,
+     "format": "Sentence Completion",
+     "prompt": "Floor wardens can be recognised by their __________ jackets.",
+     "explanation": "They wear orange jackets.",
+     "evidenceQuote": "who wear orange jackets",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "orange"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "Emergency kits are kept in a cupboard next to the __________.",
+     "explanation": "They are next to the kitchen.",
+     "evidenceQuote": "in the cupboard next to the kitchen",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kitchen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "The radio is powered by turning a __________.",
+     "explanation": "It uses a handle.",
+     "evidenceQuote": "using a handle that you turn",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "handle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "A home checklist can be found on the staff __________.",
+     "explanation": "It is on the website.",
+     "evidenceQuote": "You'll find a checklist on the staff website.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "website"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "Drills take place in April and __________.",
+     "explanation": "Drills are in April and October.",
+     "evidenceQuote": "twice a year, in April and October",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "October"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "drill",
+    "assembly point",
+    "aftershock",
+    "emergency kit",
+    "evacuate"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the sentences below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam12-lp3",
+   "partNumber": 3,
+   "title": "A field trip to study a volcano",
+   "contextDescription": "Two geography students, Hannah and Kofi, discuss a field trip with their lecturer.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "86717B40-55A4-5FAE-A304-E29CA0A41889",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Come in, Hannah, Kofi. So, now that you're back from the field trip to Tenerife, I'd like to hear how your research went before you start writing it up."
+    },
+    {
+     "id": "88B1322E-8488-5FCA-9A79-4BBC477E8F50",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "It went really well, thanks. As you know, our project was about how local people perceive the risk of a future eruption of Mount Teide, and whether they'd know what to do if one happened."
+    },
+    {
+     "id": "BCE61AEA-77B4-5F81-8EEC-9EA561AD3C31",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "And how did you collect your data?"
+    },
+    {
+     "id": "BD4B07E7-A8E2-5DFE-B889-D61C9CCEA13C",
+     "speaker": "Kofi",
+     "accent": "en-GB",
+     "text": "Mainly through face-to-face interviews. We interviewed eighty-six people in three towns at different distances from the volcano. We'd planned to do a hundred, but it took longer than we expected, because a lot of people wanted to talk for much longer than the fifteen minutes we'd planned."
+    },
+    {
+     "id": "37EDAB52-508A-5595-BD65-9C2A2B320DE2",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's actually a good sign. People were interested in the topic, then?"
+    },
+    {
+     "id": "1AEDC7A4-B84C-5CF3-8A26-3644D82F58B1",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "Very. What surprised us most was that most people didn't think an eruption was likely in their lifetime, even though Teide is classified as active. Only about one in four thought there was a real chance."
+    },
+    {
+     "id": "37DD7C28-32B2-5D85-88AB-1FF909F9761B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Why do you think that was?"
+    },
+    {
+     "id": "90DE4A57-F3DC-5D8A-8A42-0322A8BD4313",
+     "speaker": "Kofi",
+     "accent": "en-GB",
+     "text": "Partly because the last eruption on the island was in 1909, so nobody alive remembers one. Several people said things like, 'It's been quiet for over a hundred years, so why would it erupt now?' Volcanologists would say that's not how volcanoes work, of course."
+    },
+    {
+     "id": "665C4512-2C95-5AB9-BDCF-8BED3645449E",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "And there were also some interesting differences between groups. Older people were generally less worried than younger people, which we hadn't expected. We thought older residents might know more about the volcano's history."
+    },
+    {
+     "id": "395AB586-9044-5077-AAC9-341B11DE91C5",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Did you find any explanation for that?"
+    },
+    {
+     "id": "2A0B517A-165F-54B4-8EF0-AA86D5D05E6E",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "We think it might be linked to social media. Younger people said they'd seen news about earthquake swarms under the island in recent years, and some had been following the 2021 eruption on La Palma, the neighbouring island, very closely online."
+    },
+    {
+     "id": "9A5B34CA-B8E3-5EB9-AA63-1BD6F1CCE410",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's a very plausible connection. La Palma would have made the risk feel much more real. What about preparedness?"
+    },
+    {
+     "id": "000D3FD1-4AFD-5261-B992-8F1BB6FD14BE",
+     "speaker": "Kofi",
+     "accent": "en-GB",
+     "text": "That was more worrying. Fewer than a third of people knew where their nearest evacuation route was, and almost nobody had an emergency bag ready. Most people said they'd simply wait for the authorities to tell them what to do."
+    },
+    {
+     "id": "5362C2B2-14AF-5CDB-8A2B-DF461156344E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Which isn't unreasonable, as long as the warning systems work. Did you visit the monitoring centre?"
+    },
+    {
+     "id": "ACFCD9F7-233D-597D-92B4-567234D0F507",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "Yes, on the third day. That was one of the highlights. The scientists showed us how they measure small earthquakes, changes in the shape of the ground and the gases coming out of the volcano. They said changes in gas emissions are often one of the earliest signs that magma is moving."
+    },
+    {
+     "id": "35D2CD64-048C-555E-80E8-58C5BF6C4FB5",
+     "speaker": "Kofi",
+     "accent": "en-GB",
+     "text": "They also told us that the biggest challenge isn't detecting activity, but communicating it to the public without causing panic. If they warn too often and nothing happens, people stop listening."
+    },
+    {
+     "id": "1D5084D6-E891-51FE-A06A-B5637EB5FB32",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "That's an important point for your discussion. It's sometimes called the 'cry wolf' effect. Did they say how they deal with it?"
+    },
+    {
+     "id": "0D070518-AFCF-55A9-ADDC-56A141EA144E",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "They use a colour-coded alert system, from green to red, and they publish regular updates even when nothing is happening, so that people get used to trusting one source of information rather than rumours on social media."
+    },
+    {
+     "id": "1BAC4381-1EB0-59FB-91C1-62D67579C56D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Sensible. Now, any problems with the fieldwork?"
+    },
+    {
+     "id": "BE07531D-6EE7-5442-AB31-D73711119DAA",
+     "speaker": "Kofi",
+     "accent": "en-GB",
+     "text": "The main one was language. Our Spanish isn't great, so we relied on a local student, Elena, to help with interviews. She was excellent, but sometimes we weren't sure whether her translations were exactly what people had said."
+    },
+    {
+     "id": "42C22C05-DA52-5657-BEE2-4D688E70AE1E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "You should mention that as a limitation. You could also record the interviews, with permission, and have a sample checked by another translator."
+    },
+    {
+     "id": "E2750703-D914-5FEF-B9FB-D48660AC7986",
+     "speaker": "Hannah",
+     "accent": "en-AU",
+     "text": "Good idea. We did record about half of them."
+    },
+    {
+     "id": "0401A155-726F-5F27-8B27-0B35338EEC70",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Then do that. Right, I'd like your first draft by the end of the month, and please include a map showing the three towns."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam12-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students interview fewer people than planned?",
+     "explanation": "Interviews took longer than planned.",
+     "evidenceQuote": "a lot of people wanted to talk for much longer than the fifteen minutes",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Interviews lasted longer than expected.",
+      "B. Many people refused to take part.",
+      "C. The weather was bad."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Interviews lasted longer than expected.",
+      "Interviews lasted longer than expected."
+     ]
+    },
+    {
+     "id": "exam12-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What proportion of people thought an eruption was a real possibility?",
+     "explanation": "About a quarter thought so.",
+     "evidenceQuote": "Only about one in four thought there was a real chance.",
+     "skillTag": "numbers",
+     "options": [
+      "A. about a third",
+      "B. about a quarter",
+      "C. about half"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. about a quarter",
+      "about a quarter"
+     ]
+    },
+    {
+     "id": "exam12-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What finding surprised the students?",
+     "explanation": "Older people were less worried.",
+     "evidenceQuote": "Older people were generally less worried than younger people",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Younger people knew more history.",
+      "B. People near the volcano were most worried.",
+      "C. Older people were less concerned than younger ones."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Older people were less concerned than younger ones.",
+      "Older people were less concerned than younger ones."
+     ]
+    },
+    {
+     "id": "exam12-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What do the students think influenced younger people?",
+     "explanation": "Social media may explain it.",
+     "evidenceQuote": "We think it might be linked to social media.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. online news and social media",
+      "B. school lessons",
+      "C. family stories"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. online news and social media",
+      "online news and social media"
+     ]
+    },
+    {
+     "id": "exam12-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "According to the scientists, the biggest challenge is",
+     "explanation": "Communicating risk is hardest.",
+     "evidenceQuote": "the biggest challenge isn't detecting activity, but communicating it to the public",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. detecting small earthquakes.",
+      "B. communicating warnings effectively.",
+      "C. measuring gas emissions."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. communicating warnings effectively.",
+      "communicating warnings effectively."
+     ]
+    },
+    {
+     "id": "exam12-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the lecturer suggest about the translation problem?",
+     "explanation": "Have recordings checked by another translator.",
+     "evidenceQuote": "have a sample checked by another translator",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Repeat all the interviews.",
+      "B. Remove the translated interviews.",
+      "C. Ask another translator to check some recordings."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Ask another translator to check some recordings.",
+      "Ask another translator to check some recordings."
+     ]
+    },
+    {
+     "id": "exam12-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Number of people interviewed: __________",
+     "explanation": "They interviewed 86.",
+     "evidenceQuote": "We interviewed eighty-six people",
+     "skillTag": "numbers",
+     "distractorNote": "100 was the original plan.",
+     "options": [],
+     "acceptedAnswers": [
+      "86"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Last eruption on Tenerife: __________",
+     "explanation": "It was in 1909.",
+     "evidenceQuote": "the last eruption on the island was in 1909",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1909"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Early warning sign: changes in __________ emissions",
+     "explanation": "Gas emissions change early.",
+     "evidenceQuote": "changes in gas emissions are often one of the earliest signs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gas"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Draft must include a __________ of the three towns",
+     "explanation": "They must include a map.",
+     "evidenceQuote": "please include a map showing the three towns",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "map"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "fieldwork",
+    "gas emissions",
+    "sample",
+    "monitoring",
+    "risk perception"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam12-lp4",
+   "partNumber": 4,
+   "title": "Tsunamis",
+   "contextDescription": "A lecture in an earth sciences course on the causes of tsunamis and how their effects can be reduced.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "2995D2BF-259B-54F3-B4E6-7A6DC5A23748",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Good morning. In today's lecture, we're going to look at tsunamis: what causes them, why they're so destructive, and what can be done to reduce the number of people they kill."
+    },
+    {
+     "id": "8E0B91D7-62C7-5B48-B500-E743712DDC68",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "The word tsunami comes from Japanese and means 'harbour wave', because fishermen would return to find their harbours destroyed, although they'd noticed nothing unusual out at sea. Tsunamis used to be called tidal waves, but that's misleading, because they have nothing to do with tides."
+    },
+    {
+     "id": "0E59A43F-9FC8-5858-AD0C-595ACBF9D815",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Most tsunamis are caused by large earthquakes under the sea, particularly at subduction zones, where one of the Earth's plates is being pushed beneath another. Pressure builds up over hundreds of years, and when the plates suddenly slip, the sea floor can rise or fall by several metres. This moves the entire column of water above it, from the sea floor to the surface. Tsunamis can also be caused by underwater landslides, volcanic eruptions and, very rarely, by meteorites hitting the ocean."
+    },
+    {
+     "id": "EE07FE71-37DB-5CAB-AB29-EA9931F75B26",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "A tsunami is very different from an ordinary wave. Ordinary waves are caused by wind and only affect the water near the surface. Tsunami waves involve the whole depth of the ocean, and they have an extremely long wavelength; the distance between one wave crest and the next can be over a hundred kilometres. In deep water, they travel as fast as a jet aircraft, at around eight hundred kilometres per hour, but they may be less than a metre high, so ships at sea often don't notice them at all."
+    },
+    {
+     "id": "809FF00E-F675-5F2E-9E4D-7D0471E25125",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "As the wave approaches the coast and the water becomes shallower, it slows down and grows much taller. Often, the first sign is not a wall of water but the sea suddenly drawing back, exposing the sea floor far beyond the normal low tide. Tragically, people sometimes walk out to look at the exposed beach, not realising that the wave will arrive within minutes. Another common misunderstanding is that a tsunami is a single wave. In fact, there's usually a series of waves, and the first is often not the largest."
+    },
+    {
+     "id": "90611673-6F25-574E-B7BF-9F60E2CE92B4",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "The deadliest tsunami in recorded history occurred in the Indian Ocean on the twenty-sixth of December 2004, after an earthquake off the coast of Sumatra in Indonesia. It killed around two hundred and thirty thousand people in fourteen countries. One reason the death toll was so high was that, unlike the Pacific, the Indian Ocean had no warning system at the time. In some places, such as Sri Lanka and India, the waves arrived two hours after the earthquake, which would have been plenty of time to evacuate if people had been warned."
+    },
+    {
+     "id": "8964A82B-1E21-50E5-B72C-061776CCB3E6",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Since then, a warning system has been established in the Indian Ocean. Such systems rely on two main types of information. First, earthquake measurements, which show where and how strong an earthquake is. And second, sensors on the sea floor that detect changes in water pressure as a tsunami passes above them. These send signals to buoys on the surface, which transmit the data by satellite to warning centres."
+    },
+    {
+     "id": "A1630A61-86F9-5802-8E19-981B6F29C6A3",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "But technology alone isn't enough. The 2011 tsunami in Japan showed this. Japan has the world's most advanced warning system and many coastal defences, including sea walls over ten metres high. Yet the waves were higher than expected and went over many of the walls, and around eighteen thousand people died. Studies afterwards found that some people didn't evacuate because they trusted the sea walls to protect them."
+    },
+    {
+     "id": "2DBE686F-5E37-5AE6-B810-CE491C0AD42D",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "So education is crucial. In some communities, traditional knowledge has saved lives. On the Indonesian island of Simeulue, very close to the 2004 earthquake, only seven people died out of around seventy-eight thousand, because people had passed down stories about an earlier tsunami in 1907, which taught them to run to high ground when the ground shook. Today, many coastal areas have signs showing evacuation routes, and schools carry out regular drills. Next week, we'll look at how coastal planning and natural barriers such as mangrove forests can also reduce the impact."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam12-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "\"Tsunami\" means \"__________ wave\" in Japanese",
+     "explanation": "It means harbour wave.",
+     "evidenceQuote": "means 'harbour wave'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "harbour"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Most are caused at __________ zones, where one plate is pushed under another",
+     "explanation": "They occur at subduction zones.",
+     "evidenceQuote": "particularly at subduction zones",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "subduction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Rare causes include volcanic eruptions and __________",
+     "explanation": "Meteorites are a rare cause.",
+     "evidenceQuote": "very rarely, by meteorites hitting the ocean",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meteorites"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "In deep water, tsunamis travel as fast as a jet __________",
+     "explanation": "They are as fast as a jet aircraft.",
+     "evidenceQuote": "they travel as fast as a jet aircraft",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aircraft"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Ships at sea often do not __________ them",
+     "explanation": "Ships do not notice them.",
+     "evidenceQuote": "ships at sea often don't notice them at all",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "notice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Warning sign: the sea suddenly draws __________",
+     "explanation": "The sea draws back.",
+     "evidenceQuote": "the sea suddenly drawing back",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "back"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "The 2004 earthquake occurred off the coast of __________",
+     "explanation": "It was off Sumatra.",
+     "evidenceQuote": "after an earthquake off the coast of Sumatra",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Sumatra"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Sensors on the sea floor detect changes in water __________",
+     "explanation": "They detect pressure changes.",
+     "evidenceQuote": "detect changes in water pressure",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In Japan, some people did not evacuate because they trusted the sea __________",
+     "explanation": "They trusted the sea walls.",
+     "evidenceQuote": "they trusted the sea walls to protect them",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "walls"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "On Simeulue, traditional __________ about a 1907 tsunami saved lives",
+     "explanation": "Stories were passed down.",
+     "evidenceQuote": "people had passed down stories about an earlier tsunami in 1907",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stories"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "tsunami",
+    "subduction",
+    "wavelength",
+    "buoy",
+    "inundation"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam12-rp1",
+   "passageNumber": 1,
+   "title": "The year without a summer",
+   "discipline": "Volcanology & Climate History",
+   "paragraphs": [
+    "In April 1815, Mount Tambora, a volcano on the island of Sumbawa in what is now Indonesia, produced the largest eruption in recorded history. The explosions were heard more than two thousand kilometres away, and some people on nearby islands believed they were hearing the sound of cannons. Before the eruption, Tambora was over four thousand metres high; afterwards, about a third of the mountain had disappeared, leaving a crater six kilometres wide.",
+    "The immediate effects on the region were catastrophic. Clouds of hot gas, ash and rock, known as pyroclastic flows, rushed down the sides of the volcano at enormous speed, destroying villages and killing almost everyone in their path. Thick layers of ash covered fields across Sumbawa and the neighbouring island of Lombok, ruining crops and poisoning water supplies. Estimates vary, but it is thought that around ten thousand people died during the eruption itself, and that tens of thousands more died in the following months from starvation and disease.",
+    "The effects of the eruption, however, were not limited to Indonesia. Tambora blasted huge quantities of sulphur gas high into the stratosphere, the layer of the atmosphere above the level at which clouds and weather form. There, the gas combined with water to form tiny droplets, which spread around the globe and reflected part of the sun's energy back into space. Because there is no rain in the stratosphere to wash these particles out, they remained there for several years, causing average temperatures around the world to fall by around half a degree Celsius.",
+    "This may not sound like much, but the consequences in 1816 were dramatic. In parts of Europe and North America, it became known as 'the year without a summer'. In New England, in the north-eastern United States, snow fell in June, and frosts in July and August killed crops. In western Europe, it rained almost continuously throughout the summer, and harvests of wheat and potatoes failed. Food prices rose sharply, and there were riots in Britain, France and Switzerland. In Ireland, the cold, wet weather was followed by an epidemic of typhus, which killed tens of thousands of people.",
+    "The crisis had long-lasting social effects. In the United States, thousands of farmers left New England and moved west in search of better land, contributing to the settlement of states such as Ohio and Indiana. In Germany, the high price of oats, which were used to feed horses, may have encouraged the inventor Karl Drais to develop a 'running machine', an early form of bicycle that did not need to be fed, which he demonstrated in 1817. Although this connection is difficult to prove, it is often mentioned by historians of transport.",
+    "The gloomy summer also left a mark on culture. A group of young English writers, including Mary Shelley and Lord Byron, spent the summer of 1816 at a villa beside Lake Geneva in Switzerland. Kept indoors by the constant storms, they held a competition to see who could write the most frightening story. Mary Shelley's contribution later became the novel Frankenstein, published in 1818. Some art historians have also suggested that the vivid orange and red skies in paintings by the English artist J. M. W. Turner during this period reflect the volcanic particles in the atmosphere.",
+    "Remarkably, nobody at the time connected these events with the eruption on the other side of the world. News travelled slowly, and the idea that a volcano could affect the global climate had not yet been developed. It was not until the twentieth century that scientists, studying the eruption of Krakatoa in 1883 and later ice cores from Greenland and Antarctica, which contain layers of sulphur from past eruptions, were able to show the link.",
+    "Today, Tambora's story is studied not only by historians but also by scientists and governments. It shows how vulnerable food systems can be to sudden changes in climate, and how a disaster in one part of the world can have consequences on the other side of it. Some researchers argue that an eruption of a similar size, which is likely to happen at some point in the next few centuries, could cause serious disruption to global food supplies, and that countries should plan for such an event."
+   ],
+   "questions": [
+    {
+     "id": "exam12-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Some people thought the sound of the eruption was gunfire.",
+     "explanation": "They thought they heard cannons.",
+     "evidenceQuote": "believed they were hearing the sound of cannons",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam12-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Most deaths in the region occurred during the eruption itself.",
+     "explanation": "More died afterwards.",
+     "evidenceQuote": "tens of thousands more died in the following months from starvation and disease",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam12-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Sulphur particles were quickly washed out of the stratosphere by rain.",
+     "explanation": "There is no rain there.",
+     "evidenceQuote": "there is no rain in the stratosphere to wash these particles out",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam12-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Snow fell in New England in June 1816.",
+     "explanation": "Snow fell in June.",
+     "evidenceQuote": "snow fell in June",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam12-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Ohio had more farmland than New England.",
+     "explanation": "Farmland areas are not compared.",
+     "evidenceQuote": "moved west in search of better land",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam12-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "It has been proved that Tambora led directly to the invention of the bicycle.",
+     "explanation": "The link is hard to prove.",
+     "evidenceQuote": "Although this connection is difficult to prove",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam12-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Frankenstein was written during the summer of 1816.",
+     "explanation": "Only the start and publication are mentioned.",
+     "evidenceQuote": "later became the novel Frankenstein, published in 1818",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam12-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "After the eruption, Tambora was left with a __________ six kilometres wide.",
+     "explanation": "It left a crater.",
+     "evidenceQuote": "leaving a crater six kilometres wide",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "crater"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "Ash on fields ruined crops and poisoned __________ supplies.",
+     "explanation": "Water was poisoned.",
+     "evidenceQuote": "ruining crops and poisoning water supplies",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "water"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "In Europe, high food prices led to __________ in several countries.",
+     "explanation": "There were riots.",
+     "evidenceQuote": "there were riots in Britain, France and Switzerland",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "riots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "In Ireland, the weather was followed by an epidemic of __________.",
+     "explanation": "Typhus spread.",
+     "evidenceQuote": "an epidemic of typhus",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "typhus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "Turner's paintings may show the effect of volcanic particles on the __________.",
+     "explanation": "The skies were vivid.",
+     "evidenceQuote": "the vivid orange and red skies",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "skies"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "Ice __________ contain layers of sulphur from past eruptions.",
+     "explanation": "Ice cores record eruptions.",
+     "evidenceQuote": "ice cores from Greenland and Antarctica",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cores"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 706,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam12-rp2",
+   "passageNumber": 2,
+   "title": "Can earthquakes be predicted?",
+   "discipline": "Seismology",
+   "paragraphs": [
+    "Of all natural disasters, earthquakes are among the most frightening, partly because they strike without warning. Hurricanes can be tracked for days as they cross the ocean, and floods can often be forecast from rainfall, but an earthquake can destroy a city in less than a minute. For more than a century, scientists have searched for a reliable way of predicting when and where earthquakes will occur. So far, despite enormous effort, they have not succeeded.",
+    "To understand why, it helps to know what causes earthquakes. The Earth's outer layer is broken into large plates, which move slowly, at roughly the speed at which fingernails grow. Where plates meet, they often become locked together along faults, and stress builds up in the surrounding rock. Eventually, the stress becomes greater than the strength of the rock, and the fault suddenly slips, releasing energy in the form of seismic waves. The difficulty is that scientists cannot directly observe conditions deep underground, where most earthquakes begin, and small differences in the properties of rocks can determine whether a fault slips today or in a hundred years.",
+    "Throughout history, people have reported strange events before earthquakes. Animals are said to behave unusually, water levels in wells rise or fall, and lights have been seen in the sky. Some of these reports may reflect real physical changes, but most are collected only after an earthquake has happened, when people are searching for explanations. Scientific studies have generally failed to find signals that occur consistently before earthquakes and rarely at other times, which is what a useful prediction method requires.",
+    "There has been one famous apparent success. In February 1975, Chinese authorities ordered the evacuation of the city of Haicheng after a series of small earthquakes, changes in groundwater and reports of unusual animal behaviour. The next day, a powerful earthquake struck, destroying much of the city. Thousands of lives were probably saved. However, the following year, an even larger earthquake hit the city of Tangshan without any warning, killing at least two hundred and forty thousand people. Most scientists now believe that Haicheng was a lucky case, made possible by an unusually long sequence of small earthquakes beforehand.",
+    "Prediction attempts have also had serious consequences when they failed. In 2009, a series of small earthquakes worried residents of the Italian city of L'Aquila. At a meeting, experts concluded that a major earthquake was unlikely, and an official reassured the public. Days later, an earthquake killed more than three hundred people. Six scientists and an official were convicted of manslaughter for giving misleading information, though the scientists' convictions were later overturned on appeal. The case alarmed researchers around the world, who feared that scientists would become reluctant to give advice.",
+    "Instead of predicting individual earthquakes, seismologists now concentrate on forecasting, which means estimating the probability of earthquakes in a particular area over a period of years or decades. These forecasts are based on the history of past earthquakes, the rate at which plates are moving and measurements of how the ground is deforming. In California, for example, scientists estimate that there is a greater than ninety-five per cent chance of an earthquake of magnitude 6.7 or larger in the next thirty years. Such forecasts cannot tell people when to leave their homes, but they are extremely useful for setting building standards and planning insurance.",
+    "A further approach is early warning. When an earthquake begins, it produces two main types of waves: faster primary waves, which cause relatively little damage, and slower secondary waves, which cause most of the shaking. Networks of sensors can detect the primary waves and send an alert electronically, which travels much faster than the seismic waves themselves. Depending on the distance from the earthquake, this can give people between a few seconds and about a minute of warning. Japan, Mexico and parts of the United States already have such systems, which can automatically stop trains, open fire station doors and send alerts to mobile phones.",
+    "A few seconds may not sound like much, but it can be enough for people to take cover under a table, for surgeons to stop operating and for trains to slow down. Researchers are also experimenting with using the sensors already built into smartphones to detect earthquakes in countries that cannot afford expensive networks. While the dream of predicting earthquakes may never be realised, these more modest goals are already saving lives."
+   ],
+   "questions": [
+    {
+     "id": "exam12-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains causes and why prediction is hard.",
+     "evidenceQuote": "To understand why, it helps to know what causes earthquakes.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why the problem is so difficult",
+      "Why the problem is so difficult"
+     ]
+    },
+    {
+     "id": "exam12-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C discusses unreliable signs.",
+     "evidenceQuote": "Throughout history, people have reported strange events before earthquakes.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Warning signs that cannot be relied on",
+      "Warning signs that cannot be relied on"
+     ]
+    },
+    {
+     "id": "exam12-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D covers Haicheng and Tangshan.",
+     "evidenceQuote": "There has been one famous apparent success.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A success followed by a tragedy",
+      "A success followed by a tragedy"
+     ]
+    },
+    {
+     "id": "exam12-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E covers the L'Aquila case.",
+     "evidenceQuote": "Prediction attempts have also had serious consequences when they failed.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Legal action after a disaster",
+      "Legal action after a disaster"
+     ]
+    },
+    {
+     "id": "exam12-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains long-term probabilities.",
+     "evidenceQuote": "seismologists now concentrate on forecasting",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Calculating long-term likelihood",
+      "Calculating long-term likelihood"
+     ]
+    },
+    {
+     "id": "exam12-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G explains how early warning works.",
+     "evidenceQuote": "A further approach is early warning.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Using the speed difference between waves",
+      "Using the speed difference between waves"
+     ]
+    },
+    {
+     "id": "exam12-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H shows the value of small warnings.",
+     "evidenceQuote": "these more modest goals are already saving lives",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. The value of a short warning",
+      "The value of a short warning"
+     ]
+    },
+    {
+     "id": "exam12-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to the writer, what does a useful prediction method require?",
+     "explanation": "Signals must be consistent and specific.",
+     "evidenceQuote": "signals that occur consistently before earthquakes and rarely at other times",
+     "skillTag": "detail",
+     "options": [
+      "A. reports from many witnesses",
+      "B. evidence from animals",
+      "C. measurements from wells",
+      "D. signals that appear before earthquakes but rarely otherwise"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. signals that appear before earthquakes but rarely otherwise",
+      "signals that appear before earthquakes but rarely otherwise"
+     ]
+    },
+    {
+     "id": "exam12-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why do most scientists think Haicheng was a special case?",
+     "explanation": "There were many small earthquakes first.",
+     "evidenceQuote": "made possible by an unusually long sequence of small earthquakes beforehand",
+     "skillTag": "detail",
+     "options": [
+      "A. The authorities had new equipment.",
+      "B. It was preceded by many small earthquakes.",
+      "C. The city was very small.",
+      "D. Animals behaved unusually."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It was preceded by many small earthquakes.",
+      "It was preceded by many small earthquakes."
+     ]
+    },
+    {
+     "id": "exam12-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What are earthquake forecasts mainly useful for?",
+     "explanation": "They help set building standards.",
+     "evidenceQuote": "they are extremely useful for setting building standards and planning insurance",
+     "skillTag": "detail",
+     "options": [
+      "A. setting building rules and insurance",
+      "B. evacuating cities",
+      "C. stopping trains",
+      "D. warning people a day in advance"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. setting building rules and insurance",
+      "setting building rules and insurance"
+     ]
+    },
+    {
+     "id": "exam12-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Tectonic plates move at about the speed at which __________ grow.",
+     "explanation": "They move as fast as fingernails grow.",
+     "evidenceQuote": "at roughly the speed at which fingernails grow",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fingernails"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam12-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Most of the shaking in an earthquake is caused by __________.",
+     "explanation": "Secondary waves cause most shaking.",
+     "evidenceQuote": "slower secondary waves, which cause most of the shaking",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "secondary waves"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam12-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Researchers are testing sensors in __________ to detect earthquakes cheaply.",
+     "explanation": "Smartphones contain sensors.",
+     "evidenceQuote": "the sensors already built into smartphones",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "smartphones"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 735,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Calculating long-term likelihood",
+      "ii. Warning signs that cannot be relied on",
+      "iii. The value of a short warning",
+      "iv. Legal action after a disaster",
+      "v. The cost of earthquake damage",
+      "vi. Why the problem is so difficult",
+      "vii. Earthquakes caused by human activity",
+      "viii. Using the speed difference between waves",
+      "ix. A success followed by a tragedy"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam12-rp3",
+   "passageNumber": 3,
+   "title": "There is no such thing as a natural disaster",
+   "discipline": "Disaster Studies",
+   "paragraphs": [
+    "Earthquakes, floods, hurricanes and droughts are usually described as natural disasters. The phrase seems obvious: these events are caused by forces of nature rather than by human action. Yet a growing number of researchers argue that the term is misleading, and even harmful. A hazard, they point out, is a natural event; a disaster is what happens when that hazard meets a population that is unable to cope with it. Whether a hazard becomes a disaster, and how severe that disaster is, depends largely on human decisions.",
+    "This argument was popularised in the 1970s by a group of geographers, including Phil O'Keefe, Ken Westgate and Ben Wisner, whose article 'Taking the naturalness out of natural disasters' became highly influential. They noted that, while the number of hazards was not obviously increasing, the number of people killed and affected by disasters was rising rapidly, particularly in poorer countries. The explanation, they argued, lay not in nature but in the vulnerability of the people exposed to hazards, which was itself the result of poverty, inequality and poor planning.",
+    "Comparisons between countries illustrate the point clearly. In January 2010, an earthquake of magnitude 7.0 struck near Port-au-Prince, the capital of Haiti, killing somewhere between one hundred thousand and three hundred thousand people. A month later, an earthquake in Chile released around five hundred times more energy, yet it killed fewer than six hundred people. The difference was not mainly due to geology. Chile had strict building codes, which were generally enforced, and a long experience of earthquakes, whereas in Haiti many buildings were constructed cheaply without reinforcement, and the government lacked the resources to enforce standards.",
+    "Vulnerability also varies within countries. When Hurricane Katrina struck New Orleans in 2005, the areas that flooded most severely were largely low-lying neighbourhoods where poorer residents lived. Many of them did not own cars and could not leave the city when an evacuation was ordered. Similarly, during the European heatwave of 2003, which killed around seventy thousand people, the victims were disproportionately elderly people living alone, often in apartments without air conditioning, who had little contact with neighbours or relatives. In each case, social factors determined who lived and who died.",
+    "Human activity can also increase the hazards themselves. Draining wetlands and cutting down forests can make floods more frequent and severe, because the land is less able to absorb rainfall. Building on unstable slopes increases the risk of landslides. Extracting large quantities of groundwater has caused parts of cities such as Jakarta and Mexico City to sink, sometimes by more than twenty centimetres a year, making them more vulnerable to flooding. And climate change, driven by human emissions of greenhouse gases, is making some hazards, such as heatwaves and heavy rainfall, more intense.",
+    "Critics of the 'no natural disasters' argument accept much of this, but they warn against taking it too far. Some events are so extreme that no society could fully protect itself against them; the 2011 tsunami in Japan, a wealthy and well-prepared country, still killed around eighteen thousand people. Others worry that the phrase may be used to blame governments or communities unfairly, or that it may distract attention from the need to understand the natural processes involved. Seismologists and meteorologists, they point out, remain essential to reducing disaster risk.",
+    "Nevertheless, the change in thinking has influenced international policy. The Sendai Framework, agreed by United Nations member states in 2015, emphasises reducing risk before disasters occur rather than simply responding afterwards. It encourages governments to invest in safer buildings and infrastructure, early warning systems and land-use planning, and to ensure that the poorest and most vulnerable groups are included in decision-making. Research by the World Bank suggests that every dollar spent on making infrastructure more resilient can save around four dollars in future losses.",
+    "In my view, the most important contribution of this way of thinking is that it replaces fatalism with responsibility. If disasters are simply acts of nature, there is little that can be done except to respond when they happen. If, on the other hand, they are the product of choices about where and how we build, who is protected and who is left exposed, then they can be prevented, or at least made far less deadly. The language we use, it turns out, matters a great deal."
+   ],
+   "questions": [
+    {
+     "id": "exam12-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "enforced strict building regulations",
+     "explanation": "Chile enforced building codes.",
+     "evidenceQuote": "Chile had strict building codes, which were generally enforced",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Chile",
+      "Chile"
+     ]
+    },
+    {
+     "id": "exam12-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "had many buildings without reinforcement",
+     "explanation": "Haiti's buildings lacked reinforcement.",
+     "evidenceQuote": "many buildings were constructed cheaply without reinforcement",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Haiti",
+      "Haiti"
+     ]
+    },
+    {
+     "id": "exam12-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "saw poorer residents unable to leave because they had no cars",
+     "explanation": "This happened in New Orleans.",
+     "evidenceQuote": "Many of them did not own cars and could not leave the city",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. New Orleans",
+      "New Orleans"
+     ]
+    },
+    {
+     "id": "exam12-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "is sinking because of groundwater extraction",
+     "explanation": "Jakarta is sinking.",
+     "evidenceQuote": "has caused parts of cities such as Jakarta and Mexico City to sink",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Jakarta",
+      "Jakarta"
+     ]
+    },
+    {
+     "id": "exam12-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "suffered heavy losses despite being wealthy and well prepared",
+     "explanation": "Japan was well prepared.",
+     "evidenceQuote": "the 2011 tsunami in Japan, a wealthy and well-prepared country",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Japan",
+      "Japan"
+     ]
+    },
+    {
+     "id": "exam12-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The severity of a disaster depends mainly on the strength of the natural event.",
+     "explanation": "It depends largely on human decisions.",
+     "evidenceQuote": "depends largely on human decisions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam12-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The 1970s article was criticised by most geographers at the time.",
+     "explanation": "Contemporary criticism is not mentioned.",
+     "evidenceQuote": "became highly influential",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam12-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Social factors influenced who died in the 2003 European heatwave.",
+     "explanation": "Isolated elderly people were most affected.",
+     "evidenceQuote": "the victims were disproportionately elderly people living alone",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam12-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Scientific study of natural hazards is no longer important.",
+     "explanation": "Scientists remain essential.",
+     "evidenceQuote": "Seismologists and meteorologists, they point out, remain essential to reducing disaster risk.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam12-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Viewing disasters as human-made encourages people to take responsibility.",
+     "explanation": "The writer says it encourages responsibility.",
+     "evidenceQuote": "it replaces fatalism with responsibility",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam12-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Researchers argue that a disaster results from the __________ of the people exposed to a hazard.",
+     "explanation": "Vulnerability is the key factor.",
+     "evidenceQuote": "lay not in nature but in the vulnerability of the people exposed",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vulnerability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Draining __________ can make floods more frequent.",
+     "explanation": "Wetlands absorb rain.",
+     "evidenceQuote": "Draining wetlands and cutting down forests can make floods more frequent",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wetlands"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Building on unstable slopes increases the risk of __________.",
+     "explanation": "Landslides become more likely.",
+     "evidenceQuote": "increases the risk of landslides",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "landslides"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam12-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "The Sendai Framework encourages governments to involve vulnerable groups in __________.",
+     "explanation": "They should be included in decision-making.",
+     "evidenceQuote": "are included in decision-making",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "decision-making"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 718,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of places below. Match each statement with the correct place, A–F.",
+     "options": [
+      "A. Haiti",
+      "B. Chile",
+      "C. New Orleans",
+      "D. Jakarta",
+      "E. Japan",
+      "F. Sendai"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam12-w1",
+  "title": "Economic losses from natural disasters",
+  "visualType": "Table",
+  "instructions": "The table below shows economic losses caused by four types of natural disaster worldwide in three decades. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "35DACCBB-3C3B-5D4A-A965-5E9897D535B3",
+    "series": "Storms",
+    "category": "1990–1999",
+    "value": 420.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "E60C7502-B860-58AC-BEDD-18F25469AB80",
+    "series": "Earthquakes",
+    "category": "1990–1999",
+    "value": 230.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "C952EF5E-413B-5957-995F-87CAFDB9366D",
+    "series": "Floods",
+    "category": "1990–1999",
+    "value": 260.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "69D0D250-0449-5B8A-8589-1DACE42424BF",
+    "series": "Droughts",
+    "category": "1990–1999",
+    "value": 60.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "94E8B5ED-19BE-531F-9895-4ED9987E5100",
+    "series": "Storms",
+    "category": "2000–2009",
+    "value": 690.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "7098F632-37D4-5414-B725-10F9427BB0F9",
+    "series": "Earthquakes",
+    "category": "2000–2009",
+    "value": 190.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "FFD74015-958E-5600-A5F0-C38A94457940",
+    "series": "Floods",
+    "category": "2000–2009",
+    "value": 330.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "1987ED09-1B1A-5728-9CA8-78283EF9873E",
+    "series": "Droughts",
+    "category": "2000–2009",
+    "value": 90.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "BD595551-3701-5ABA-93AF-B5D8A907A354",
+    "series": "Storms",
+    "category": "2010–2019",
+    "value": 1080.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "0722757E-CDC1-5714-876B-D074F410941E",
+    "series": "Earthquakes",
+    "category": "2010–2019",
+    "value": 340.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "68259474-2B75-5E48-9565-1E3087B28D1A",
+    "series": "Floods",
+    "category": "2010–2019",
+    "value": 450.0,
+    "unit": "billion US dollars"
+   },
+   {
+    "id": "33D5F580-9318-54D4-AACD-4A656E34762B",
+    "series": "Droughts",
+    "category": "2010–2019",
+    "value": 140.0,
+    "unit": "billion US dollars"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Losses from storms were by far the largest and grew most.",
+   "All four types increased overall, although earthquake losses dipped in the 2000s."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam12-w2",
+  "title": "Rebuilding after disasters",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Environment & Society",
+  "promptText": "More and more people are affected by natural disasters such as floods, storms and earthquakes. Why is this happening? What can governments do to reduce the impact of such disasters?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam12-spk",
+  "theme": "Weather and natural events",
+  "part1Questions": [
+   "What kind of weather do you like best?",
+   "Does the weather affect your mood?",
+   "Have you ever experienced extreme weather?",
+   "Do you check the weather forecast every day?",
+   "What is the weather usually like in your hometown in winter?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when bad weather or a natural event changed your plans.",
+   "bulletPoints": [
+    "when and where it happened",
+    "what you had planned to do",
+    "what happened instead",
+    "and explain how you felt about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are some countries better prepared for disasters than others?",
+   "Should people be allowed to build homes in areas at risk of flooding?",
+   "How can schools teach children to stay safe in emergencies?",
+   "Do you think the media exaggerates natural disasters?",
+   "Who should pay to rebuild after a disaster, individuals or the government?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Scientific figures are simplified for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

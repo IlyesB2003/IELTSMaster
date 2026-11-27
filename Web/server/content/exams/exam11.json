@@ -1,0 +1,2217 @@
+{
+ "id": "exam11",
+ "examNumber": 11,
+ "pool": "mock",
+ "title": "Mock Exam 11: Medicine, Discovery & Public Health",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Medicine, Discovery & Public Health",
+ "listeningParts": [
+  {
+   "id": "exam11-lp1",
+   "partNumber": 1,
+   "title": "Registering with a medical practice",
+   "contextDescription": "A student phones a doctors' surgery to register as a new patient.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "ABD505A8-C477-5EA1-9460-CF75E6A4920E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Parkview Medical Centre, Anita speaking. How can I help?"
+    },
+    {
+     "id": "FBE837F7-967C-5D71-94E1-B8C0DE6063A4",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Hi, I've just moved here to start a postgraduate course at the university, and I'd like to register with your practice."
+    },
+    {
+     "id": "1DB56CB2-F7B2-5F0D-9C5A-B76494A219F6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. First, I need to check that you live within our area. What's your address?"
+    },
+    {
+     "id": "222F5631-CDA2-51F3-B1B3-C772A0F83B9E",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "It's Flat 7, 22 Belmont Road."
+    },
+    {
+     "id": "4EEA6ED8-E8A2-554E-9242-1C565BBCF2E7",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Belmont Road, yes, that's within our boundary. Have you been registered with a doctor in this country before?"
+    },
+    {
+     "id": "D1E23003-3076-5399-BF82-E78A537DD1AA",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "No, this is my first time. I'm from the United States."
+    },
+    {
+     "id": "E5B7A722-45F4-5664-9CE8-94E11D075A2D",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's fine. You'll need to fill in a registration form, which you can do online or on paper here at the surgery. We'll also need to see some proof of your address, such as a tenancy agreement or a letter from the university, and your passport."
+    },
+    {
+     "id": "97E6FF24-6144-574A-8241-CFD33E4161BA",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "I have a letter from the university confirming my accommodation. Would that be okay?"
+    },
+    {
+     "id": "CC2DCE4D-8B15-5AD9-95C9-DAFD6BC99D0D",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Perfect. Once you've registered, we'll invite you for a short health check with one of our nurses. It's not compulsory, but we recommend it. The nurse will check your blood pressure, ask about any medical conditions and make sure your vaccinations are up to date."
+    },
+    {
+     "id": "55C0F892-6CD5-5D40-88E3-9F227F822F7B",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "That sounds useful. Actually, that reminds me, I take medication for asthma. How do I get my prescriptions here?"
+    },
+    {
+     "id": "63581DFB-2EE5-50E0-8999-5906F04BD7C3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "When you register, please bring the details of your medication, ideally the packaging or a letter from your doctor at home. You'll need to see one of our doctors first, and then you can order repeat prescriptions online through our app, and collect them from any pharmacy."
+    },
+    {
+     "id": "0E8AEC71-BC3C-54F1-8ECD-0E3106D568CF",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Is there a charge for prescriptions?"
+    },
+    {
+     "id": "1082741C-E783-5840-AD59-F72430103E2D",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "In England, there's a standard charge for each item, but if you need a lot of medication regularly, you can buy a prepayment certificate, which works out cheaper. The pharmacist can explain the details."
+    },
+    {
+     "id": "897EC033-0D6D-54AD-B013-F1DE62060311",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Okay. And how do I make an appointment to see a doctor?"
+    },
+    {
+     "id": "6C7D34E3-8CCD-505E-ABF7-D1DB0898C370",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There are three ways. You can phone us from eight in the morning, use the online booking system, or come to the desk in person. For urgent problems, we keep some same-day appointments, but they go quickly, so it's best to call as soon as we open. For routine appointments, you might have to wait a week or so."
+    },
+    {
+     "id": "90468241-97D6-5B06-96D7-6721AC3870D3",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "And what if I need medical help in the evening or at the weekend?"
+    },
+    {
+     "id": "AE2074D7-BD4B-5B75-98D5-E3E9C3601F93",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The surgery is closed then, but you can call the national helpline, one-one-one, any time of the day or night. They'll tell you where to go, and they can arrange for you to see a doctor if necessary. For a serious emergency, like chest pain or severe bleeding, you should call nine-nine-nine or go straight to the hospital."
+    },
+    {
+     "id": "77D3E0F9-EEA3-5E04-BEE7-780B03AE9EF6",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "That's really helpful. Is there anything for students specifically?"
+    },
+    {
+     "id": "561D6A1F-3779-5DAE-ADB1-F4CA4497E437",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, the university health service runs a mental health and well-being clinic on Wednesday afternoons, here in our building. It's free for students, and you can book directly without seeing a doctor first. A lot of students find it helpful, particularly in the first term."
+    },
+    {
+     "id": "B0748E4C-D210-585D-B808-B690CD7D8850",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Good to know. What are your opening hours?"
+    },
+    {
+     "id": "5E6F87A2-4011-55F0-96E4-57CBE02DDB5F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Monday to Friday, eight until six thirty. And on Tuesday evenings, we stay open until eight for people who work during the day."
+    },
+    {
+     "id": "76FC08EF-2B11-540C-B477-C4E694DE49E2",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Is it easy to get to the surgery by public transport? I don't have a car."
+    },
+    {
+     "id": "34581DF7-F527-5210-A265-2051AFC9A712",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, the number twelve bus stops right outside, and it's about a fifteen-minute walk from the main university campus. There's also a small car park and space for bicycles at the back of the building, if you decide to get a bike later."
+    },
+    {
+     "id": "7C288828-6D3D-527D-B40E-CB72317183C5",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "And can I choose which doctor I see?"
+    },
+    {
+     "id": "B902DA51-4E26-508B-B396-8EEEEC219655",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You'll be registered with the practice as a whole, but you can ask to see a particular doctor when you book. We have six doctors, three men and three women, and two of them speak other languages as well as English, if that's ever helpful."
+    },
+    {
+     "id": "5232EE3F-C56F-5C9B-8B50-CB8D3C7A480F",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Great. Can I start the registration now?"
+    },
+    {
+     "id": "6F1C6DCC-CC23-5D96-8936-DFBA19BDA76D",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "I can take some basic details. What's your full name?"
+    },
+    {
+     "id": "D37ED91C-3D62-5150-B6B7-4133A717CD1B",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "Megan Kowalski. K-O-W-A-L-S-K-I."
+    },
+    {
+     "id": "E0A19367-F197-51F5-8A66-BA4FC30F6C91",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "And your date of birth?"
+    },
+    {
+     "id": "94812855-B880-5469-ACB6-8AE2EB6BD9E8",
+     "speaker": "Student",
+     "accent": "en-US",
+     "text": "The fourteenth of March, two thousand and one."
+    },
+    {
+     "id": "ECBD8385-D0A7-5A5F-9C1F-16395CF32977",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. I'll send you a text with the link to the online form. Once we've received it and checked your documents, it usually takes about three working days to complete the registration."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam11-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Address: Flat 7, 22 __________ Road",
+     "explanation": "She lives on Belmont Road.",
+     "evidenceQuote": "It's Flat 7, 22 Belmont Road.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Belmont"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Proof of address: a letter from the __________",
+     "explanation": "A university letter proves her address.",
+     "evidenceQuote": "I have a letter from the university confirming my accommodation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "university"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Health check with a __________ (recommended)",
+     "explanation": "The check is with a nurse.",
+     "evidenceQuote": "a short health check with one of our nurses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nurse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Medical condition: __________",
+     "explanation": "She has asthma.",
+     "evidenceQuote": "I take medication for asthma",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "asthma"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Repeat prescriptions ordered through the __________",
+     "explanation": "Prescriptions are ordered via the app.",
+     "evidenceQuote": "order repeat prescriptions online through our app",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "app"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Regular medication: a prepayment __________ is cheaper",
+     "explanation": "A prepayment certificate is cheaper.",
+     "evidenceQuote": "you can buy a prepayment certificate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "certificate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Out-of-hours helpline number: __________",
+     "explanation": "The helpline is 111.",
+     "evidenceQuote": "you can call the national helpline, one-one-one",
+     "skillTag": "numbers",
+     "distractorNote": "999 is for serious emergencies.",
+     "options": [],
+     "acceptedAnswers": [
+      "111",
+      "one-one-one"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Well-being clinic for students: __________ afternoons",
+     "explanation": "The clinic is on Wednesdays.",
+     "evidenceQuote": "runs a mental health and well-being clinic on Wednesday afternoons",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Late opening: __________ evenings until 8 p.m.",
+     "explanation": "Late opening is on Tuesdays.",
+     "evidenceQuote": "on Tuesday evenings, we stay open until eight",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Kowalski.",
+     "evidenceQuote": "Megan Kowalski. K-O-W-A-L-S-K-I.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Kowalski"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "register",
+    "surgery",
+    "appointment",
+    "prescription",
+    "GP"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam11-lp2",
+   "partNumber": 2,
+   "title": "A museum of medical history",
+   "contextDescription": "A guide introduces visitors to a museum of the history of medicine.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "9B48E9E2-40A7-5AA5-A457-DE2D27EBA6C3",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Good afternoon, and welcome to the Halloran Museum of Medicine. My name is Ciara, and I'll be introducing you to the museum before you explore on your own. The museum is housed in what was once the city's first public hospital, built in 1745, so you're standing in a building that has its own place in medical history."
+    },
+    {
+     "id": "DA004A0D-856A-529C-BF82-848BBD9DD66E",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The collection was started by a surgeon, Dr Thomas Halloran, who worked here in the nineteenth century. He collected instruments, specimens and documents, partly for teaching his students and partly because he believed that future generations should understand how medicine had developed. When he died, he left his collection to the hospital, and it was opened to the public as a museum in 1935, after the hospital moved to a new site."
+    },
+    {
+     "id": "A07D6906-31EF-54AE-9AF2-7AE431C9F220",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Let me explain how the museum is organised. There are five galleries, arranged in chronological order. Gallery One, on the ground floor to your left, covers ancient and medieval medicine, including some remarkable surgical instruments from Roman times that look surprisingly similar to modern ones."
+    },
+    {
+     "id": "346A8E2E-0094-543E-B179-3E3BC9BE5141",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Gallery Two is devoted to anatomy. For centuries, doctors' understanding of the body was based on the writings of the ancient Greek physician Galen, many of which turned out to be wrong, because Galen had mainly dissected animals rather than humans. This gallery shows how, from the sixteenth century, anatomists began to study human bodies directly. Some visitors find a few of the exhibits here rather disturbing, so there's a separate route that avoids this gallery if you prefer."
+    },
+    {
+     "id": "8D1756A9-0071-5771-8664-6237FC437447",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Upstairs, Gallery Three is the old operating theatre, which is the highlight for many visitors. Before the discovery of anaesthetics in the 1840s, operations were performed while patients were fully conscious, so surgeons had to work as fast as possible. A good surgeon could remove a leg in under a minute. Students watched from the steep wooden seats around the room, which you can still see today. Every Saturday at two o'clock, we have a demonstration here, with an actor playing a Victorian surgeon. It's very popular, so please collect a free ticket from the front desk."
+    },
+    {
+     "id": "5BB5BD7A-8E69-527C-9989-A20B7C451764",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Gallery Four tells the story of the fight against infectious disease, from the first vaccine against smallpox, developed by Edward Jenner in 1796, to the discovery of penicillin in 1928. There's an interactive display where you can look at bacteria through a microscope, which children especially enjoy."
+    },
+    {
+     "id": "3657A2D0-7D91-513F-ABF3-CD427C628618",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "And finally, Gallery Five looks at modern medicine and the future, including robotic surgery and genetic medicine. It also includes a section on the recent pandemic, with objects and personal stories donated by local healthcare workers."
+    },
+    {
+     "id": "B543AC5A-6323-591B-866A-E3F18074C338",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Now, a few practical points. Photography is allowed in all galleries, but please don't use flash, as it can damage older items. Bags larger than a small backpack must be left in the cloakroom, which is free. There's a café in the courtyard, and the gift shop is next to the exit."
+    },
+    {
+     "id": "BFC05C92-2763-5BBB-B064-184AE4A98E67",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "If you're visiting with children, we have a free activity trail, which you can pick up at the front desk. Children follow clues around the galleries and collect stamps, and when they finish they receive a small badge. The trail takes about forty-five minutes and is designed for ages six to twelve. We also run family workshops during school holidays, where children can try making their own herbal remedies, using the same plants that apothecaries sold two hundred years ago."
+    },
+    {
+     "id": "18889244-DEDD-5C1A-972E-58E017632E49",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The museum is fully accessible. There's a lift to the first floor next to the cloakroom, and wheelchairs can be borrowed free of charge. Seating is available in every gallery if you need a rest, and the courtyard is a pleasant place to sit on a sunny day."
+    },
+    {
+     "id": "87C6E784-47E2-5954-93B3-DE3E44A0786A",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "If you'd like to know more about any object, scan the code next to it with your phone for a short audio description. Audio guides are also available to borrow from the front desk for three euros, with versions in six languages. Enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam11-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the museum building?",
+     "explanation": "It was the city's first public hospital.",
+     "evidenceQuote": "what was once the city's first public hospital",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It was the city's first public hospital.",
+      "B. It was designed by a famous surgeon.",
+      "C. It was the first museum of medicine."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It was the city's first public hospital.",
+      "It was the city's first public hospital."
+     ]
+    },
+    {
+     "id": "exam11-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why did Dr Halloran collect medical objects?",
+     "explanation": "He collected them for teaching and for future generations.",
+     "evidenceQuote": "partly for teaching his students",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to sell them to other museums",
+      "B. to decorate the hospital",
+      "C. to teach students and preserve history"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to teach students and preserve history",
+      "to teach students and preserve history"
+     ]
+    },
+    {
+     "id": "exam11-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why were Galen's descriptions often wrong?",
+     "explanation": "He mainly dissected animals.",
+     "evidenceQuote": "Galen had mainly dissected animals rather than humans",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. He did not write them down.",
+      "B. He studied mainly animal bodies.",
+      "C. His books were badly translated."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. He studied mainly animal bodies.",
+      "He studied mainly animal bodies."
+     ]
+    },
+    {
+     "id": "exam11-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why did surgeons work quickly before the 1840s?",
+     "explanation": "Patients were awake.",
+     "evidenceQuote": "operations were performed while patients were fully conscious",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There were too many patients.",
+      "B. Students needed to see many operations.",
+      "C. Patients were awake during operations."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Patients were awake during operations.",
+      "Patients were awake during operations."
+     ]
+    },
+    {
+     "id": "exam11-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What do visitors need for the Saturday demonstration?",
+     "explanation": "They need a free ticket.",
+     "evidenceQuote": "please collect a free ticket from the front desk",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a free ticket",
+      "B. an audio guide",
+      "C. a paid booking online"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a free ticket",
+      "a free ticket"
+     ]
+    },
+    {
+     "id": "exam11-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What does Gallery Five include?",
+     "explanation": "It includes items about the pandemic.",
+     "evidenceQuote": "a section on the recent pandemic, with objects and personal stories donated by local healthcare workers",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Roman surgical instruments",
+      "B. items connected with a recent pandemic",
+      "C. the first smallpox vaccine"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. items connected with a recent pandemic",
+      "items connected with a recent pandemic"
+     ]
+    },
+    {
+     "id": "exam11-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "The museum opened to the public in __________.",
+     "explanation": "It opened in 1935.",
+     "evidenceQuote": "it was opened to the public as a museum in 1935",
+     "skillTag": "numbers",
+     "distractorNote": "1745 is when the building was built.",
+     "options": [],
+     "acceptedAnswers": [
+      "1935"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "Penicillin was discovered in __________.",
+     "explanation": "Penicillin was discovered in 1928.",
+     "evidenceQuote": "the discovery of penicillin in 1928",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1928"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "Bags larger than a small backpack must be left in the __________.",
+     "explanation": "Large bags go in the cloakroom.",
+     "evidenceQuote": "must be left in the cloakroom",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cloakroom"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "Audio guides cost __________ euros.",
+     "explanation": "Audio guides cost three euros.",
+     "evidenceQuote": "available to borrow from the front desk for three euros",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "exhibit",
+    "anatomy",
+    "surgery",
+    "anaesthetic",
+    "gallery"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 16,
+     "instruction": "Questions 11–16. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "instruction": "Questions 17–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam11-lp3",
+   "partNumber": 3,
+   "title": "Evaluating a public health campaign",
+   "contextDescription": "Two public health students, Grace and Sam, discuss their evaluation of a campaign to encourage hand-washing in schools.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5B11ADE7-7720-5130-9024-459DC8030C75",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "So, Sam, we need to finish the analysis for our report on the hand-washing campaign. Have you looked at the absence figures?"
+    },
+    {
+     "id": "9F4311C7-2772-5067-BF45-FE54EB04A339",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Yes. Just to remind ourselves, the campaign ran in ten primary schools for one term, and we compared them with ten similar schools that didn't take part. The main outcome we measured was how many days pupils were absent because of illness."
+    },
+    {
+     "id": "33212E13-5291-5326-AF30-AF8AA7A74185",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "And the result?"
+    },
+    {
+     "id": "1F53EA60-FA35-5646-B49C-00329F4ECE00",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "In the campaign schools, sickness absence fell by about eighteen per cent compared with the same term the previous year. In the comparison schools, it fell by about six per cent."
+    },
+    {
+     "id": "65E13606-EE6F-5D81-8E30-550D75820C7B",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "So the comparison schools also improved. Why do you think that was?"
+    },
+    {
+     "id": "EAC3BFB5-2B9D-51A6-8097-2DE9EEE50A5B",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Probably because the previous winter had a particularly bad flu season, so absence was unusually high that year. That's exactly why we needed the comparison group. If we'd only looked at the campaign schools, we'd have overestimated the effect."
+    },
+    {
+     "id": "27C43821-715A-5085-A025-A26C782BB185",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Right. So the real effect is the difference, roughly twelve percentage points. That's still substantial. What about the observations?"
+    },
+    {
+     "id": "33BA58BB-9AC9-5163-9A9B-376DE164EEC4",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "That was more complicated. We observed pupils after break and before lunch to see if they washed their hands properly. At the start of the campaign, about forty per cent did. By the middle of the term, it had risen to over seventy per cent."
+    },
+    {
+     "id": "1B7A4D13-BBCA-5295-B8E7-2C23BCD3B978",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "But it dropped again towards the end, didn't it?"
+    },
+    {
+     "id": "F30DBA6D-75B2-5AB4-B0D7-6169D12AC367",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Yes, to about fifty-five per cent. It seems the novelty wore off. The posters and songs were exciting at first, but after a few weeks, the children stopped noticing them."
+    },
+    {
+     "id": "ABC431EF-9ACD-5CB2-A6CB-C1AA795E3472",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "That's an important finding. It suggests campaigns need to be refreshed regularly, rather than just run once."
+    },
+    {
+     "id": "52AD54FC-4323-5DCF-954D-9CD86EB524AB",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Agreed. The teachers' interviews were interesting too. Most of them were positive, but a few mentioned practical problems."
+    },
+    {
+     "id": "9433C96A-6E76-5A5A-81EC-09275AD62D89",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Like what?"
+    },
+    {
+     "id": "FA1CACE8-A7BE-5DD9-B4D6-DBEBD4B2CEAC",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "The biggest one was soap. In several schools, soap dispensers often ran out, and nobody was clearly responsible for refilling them. One teacher said it was pointless telling children to wash their hands when there was no soap."
+    },
+    {
+     "id": "58C45026-F757-58F4-BD02-16FD5C7AF531",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "So the campaign was only as good as the facilities. We should definitely recommend that schools assign someone to check supplies."
+    },
+    {
+     "id": "73A7338F-7F2D-5E8E-AFCF-2995B13A961B",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "And another teacher said there weren't enough sinks. With thirty children all trying to wash their hands before lunch, it took ages, and lunch was delayed."
+    },
+    {
+     "id": "9F34D889-FC16-599C-A4DF-52C76943EAEA",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Did any teachers mention how the children themselves reacted?"
+    },
+    {
+     "id": "7897195D-3B4E-5214-8FDC-CB8ADFF8D715",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Yes, several said the younger children were the most enthusiastic. The five- and six-year-olds loved the hand-washing song and reminded each other to use it. The older pupils, especially the ten- and eleven-year-olds, found it a bit childish, and one teacher said they started making fun of the posters."
+    },
+    {
+     "id": "B0984E97-9BE1-504F-AB70-F27334222E82",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "That's useful. Perhaps the materials need to be adapted for different age groups. Older children might respond better to something more scientific, like growing bacteria from unwashed hands in a dish and comparing it with washed hands."
+    },
+    {
+     "id": "B49BE782-9254-556A-A66F-7A76E4F525B3",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Actually, one school did exactly that in a science lesson, and the teacher said it had a much bigger impact on the older pupils than the posters did. They were quite shocked by what grew."
+    },
+    {
+     "id": "01BF8787-909C-5458-91BE-49D07EC1CA35",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "I'm not surprised. Let's mention that as an example of good practice in the discussion."
+    },
+    {
+     "id": "EB85BD35-1C49-5BF1-80F8-91F4C5016D73",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Okay. What about the limitations of our study?"
+    },
+    {
+     "id": "A8342F83-A6C1-5284-AAA8-0B49F389E9DB",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Well, the schools weren't randomly chosen. The campaign schools volunteered, so their head teachers may have been especially keen on health, which could affect the results."
+    },
+    {
+     "id": "588E02C6-2B99-56DF-968E-2ADABC88F6D9",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Also, one term is quite short. We don't know whether the effect would last over a whole year."
+    },
+    {
+     "id": "57907C95-2392-5D28-96B3-841D0BCD6CAF",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "And when pupils knew they were being observed, they may have washed their hands more carefully than usual."
+    },
+    {
+     "id": "CB08CF03-A9BC-5811-B76B-809FCAED948A",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Good point. That's sometimes called the observer effect. Right, I think our recommendations should be: refresh the campaign regularly, make sure facilities are adequate, and carry out a longer study with randomly selected schools."
+    },
+    {
+     "id": "40CA145E-2ECD-5F29-8824-93AA4939CF73",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Sounds good. I'll write the results section, and you do the discussion?"
+    },
+    {
+     "id": "E92AAC2F-5246-5A06-B091-8263BF7E32E9",
+     "speaker": "Grace",
+     "accent": "en-GB",
+     "text": "Deal. Let's aim to have drafts ready by Monday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam11-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "By how much did sickness absence fall in the campaign schools?",
+     "explanation": "Absence fell by about 18 per cent.",
+     "evidenceQuote": "sickness absence fell by about eighteen per cent",
+     "skillTag": "numbers",
+     "distractorNote": "6% was the comparison schools; 12 points is the difference.",
+     "options": [
+      "A. about 6%",
+      "B. about 18%",
+      "C. about 12%"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. about 18%",
+      "about 18%"
+     ]
+    },
+    {
+     "id": "exam11-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did absence also fall in the comparison schools?",
+     "explanation": "The previous year had a bad flu season.",
+     "evidenceQuote": "the previous winter had a particularly bad flu season",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They copied the campaign.",
+      "B. They had more teachers.",
+      "C. The previous year's absence was unusually high."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The previous year's absence was unusually high.",
+      "The previous year's absence was unusually high."
+     ]
+    },
+    {
+     "id": "exam11-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What happened to hand-washing rates towards the end of the term?",
+     "explanation": "Rates fell as the novelty wore off.",
+     "evidenceQuote": "It seems the novelty wore off.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They fell as children lost interest.",
+      "B. They continued to rise.",
+      "C. They returned to the starting level."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They fell as children lost interest.",
+      "They fell as children lost interest."
+     ]
+    },
+    {
+     "id": "exam11-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What was the main practical problem mentioned by teachers?",
+     "explanation": "Soap often ran out.",
+     "evidenceQuote": "soap dispensers often ran out",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Children refused to take part.",
+      "B. Soap was often not available.",
+      "C. The posters were damaged."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Soap was often not available.",
+      "Soap was often not available."
+     ]
+    },
+    {
+     "id": "exam11-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why might the choice of schools have affected the results?",
+     "explanation": "Volunteer schools may have been especially health-conscious.",
+     "evidenceQuote": "their head teachers may have been especially keen on health",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The schools were too small.",
+      "B. The schools were in different countries.",
+      "C. The schools chose to take part."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The schools chose to take part.",
+      "The schools chose to take part."
+     ]
+    },
+    {
+     "id": "exam11-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Campaign lasted one __________",
+     "explanation": "It ran for one term.",
+     "evidenceQuote": "the campaign ran in ten primary schools for one term",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "term"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Hand-washing at the start: about __________ %",
+     "explanation": "About 40 per cent washed at first.",
+     "evidenceQuote": "At the start of the campaign, about forty per cent did.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "40",
+      "forty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Too few __________ caused delays before lunch",
+     "explanation": "Too few sinks caused delays.",
+     "evidenceQuote": "there weren't enough sinks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sinks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Pupils may wash more carefully when observed: the observer __________",
+     "explanation": "This is the observer effect.",
+     "evidenceQuote": "That's sometimes called the observer effect.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "effect"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Sam will write the __________ section",
+     "explanation": "Sam writes the results.",
+     "evidenceQuote": "I'll write the results section",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "results"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "intervention",
+    "absence rate",
+    "control group",
+    "compliance",
+    "baseline"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam11-lp4",
+   "partNumber": 4,
+   "title": "The story of antibiotics",
+   "contextDescription": "A lecture in a microbiology course on the discovery of antibiotics and the problem of resistance.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "43A5AA2E-23E5-5AEE-B4C5-900DD87C8FDD",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning. Today we're going to look at antibiotics: how they were discovered, how they work, and why their effectiveness is now under serious threat."
+    },
+    {
+     "id": "61136F7D-C4C1-502B-B1BF-AD42A6E80DD1",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "It's hard to imagine today how dangerous bacterial infections were before antibiotics. A small cut or a scratch from a rose thorn could lead to a fatal infection. Pneumonia, tuberculosis and infections after childbirth killed millions of people. Surgery was extremely risky, not because of the operation itself, but because of the infections that often followed."
+    },
+    {
+     "id": "6A69725F-084A-5551-80EA-9DBF6CCBE0FE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The story of the first antibiotic usually begins in 1928, in the London laboratory of the Scottish scientist Alexander Fleming. Fleming was studying bacteria called staphylococci, and before going on holiday, he left several dishes of them on his laboratory bench. When he returned, he noticed that one dish had been contaminated by a mould, and that the bacteria around the mould had been killed. He identified the mould as Penicillium, and named the substance it produced penicillin."
+    },
+    {
+     "id": "D89DE4EC-7CA8-5966-A957-66BA117B399A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "However, Fleming found penicillin very difficult to purify and produce in useful amounts, and he eventually turned to other research. For about ten years, little progress was made. Then, at the end of the 1930s, a team at Oxford University led by Howard Florey and Ernst Chain took up the work. They developed methods of extracting and purifying penicillin, and in 1941, they treated their first patient, a policeman suffering from a severe infection. He began to recover, but the supply of penicillin ran out, and he died. The scientists had been so short of the drug that they had even recovered it from the patient's urine to use again."
+    },
+    {
+     "id": "8A7E777C-1ECF-5348-A1B9-65603011C386",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The Second World War created an urgent need for penicillin to treat wounded soldiers, and production was scaled up enormously, mainly in the United States. A key breakthrough came when researchers found a strain of Penicillium growing on a mouldy melon in a market in Illinois, which produced far more penicillin than Fleming's original mould. By the end of the war, penicillin was being produced in large quantities, and Fleming, Florey and Chain shared the Nobel Prize in 1945."
+    },
+    {
+     "id": "82C9F794-9AFA-53C7-84AB-CA6EFCA71D9C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Over the following decades, many other antibiotics were discovered, most of them from microorganisms found in soil. Antibiotics work in different ways: some destroy the walls that surround bacterial cells, while others prevent bacteria from making proteins or copying their DNA. Importantly, antibiotics have no effect on viruses, which is why they're useless against colds and flu."
+    },
+    {
+     "id": "FB608B6A-6CA0-5984-8A54-4BE326919A49",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Fleming himself warned of the main danger in his Nobel Prize speech. Bacteria reproduce extremely quickly, and occasionally random changes in their DNA, known as mutations, make some of them resistant to a particular antibiotic. When the antibiotic is used, the bacteria that aren't resistant are killed, but the resistant ones survive and multiply. Every time antibiotics are used, therefore, there's a risk of encouraging resistance. Bacteria can also pass resistance genes directly to one another, even between different species."
+    },
+    {
+     "id": "EF82DFF0-F278-54BB-8925-E16C38B753BC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The problem has been made much worse by overuse. Antibiotics are often prescribed for viral infections, where they do nothing, and in many countries they can be bought without a prescription. Large quantities are also given to farm animals, not only to treat disease but to make them grow faster, although this has been banned in the European Union since 2006. Meanwhile, very few new types of antibiotic have been developed since the 1980s, partly because they're not very profitable for drug companies: a new antibiotic is used for short courses and is often kept in reserve for emergencies."
+    },
+    {
+     "id": "6CBC3899-CBBB-586D-B862-6EFD2455C419",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A major study published in 2022 estimated that over a million deaths a year worldwide are directly caused by antibiotic-resistant infections. Solutions include using antibiotics more carefully, improving hygiene and vaccination to prevent infections in the first place, and finding new ways to encourage research. Next week, we'll look at some promising alternatives, including viruses that attack bacteria."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam11-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Before antibiotics, even a scratch from a rose __________ could be fatal",
+     "explanation": "A rose thorn scratch could be fatal.",
+     "evidenceQuote": "a scratch from a rose thorn could lead to a fatal infection",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "thorn"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Fleming noticed a dish had been contaminated by a __________",
+     "explanation": "A mould contaminated the dish.",
+     "evidenceQuote": "one dish had been contaminated by a mould",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mould"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Fleming found penicillin difficult to __________",
+     "explanation": "It was hard to purify.",
+     "evidenceQuote": "Fleming found penicillin very difficult to purify",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purify"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "First patient treated in 1941 was a __________",
+     "explanation": "The first patient was a policeman.",
+     "evidenceQuote": "a policeman suffering from a severe infection",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "policeman"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "A productive strain was found on a __________ in Illinois",
+     "explanation": "It was found on a melon.",
+     "evidenceQuote": "growing on a mouldy melon in a market in Illinois",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "melon"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Most antibiotics come from microorganisms in __________",
+     "explanation": "Most come from soil microorganisms.",
+     "evidenceQuote": "most of them from microorganisms found in soil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "soil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Antibiotics do not work against __________",
+     "explanation": "They do not affect viruses.",
+     "evidenceQuote": "antibiotics have no effect on viruses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "viruses"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Random changes in bacterial DNA are called __________",
+     "explanation": "They are called mutations.",
+     "evidenceQuote": "known as mutations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mutations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In farming, antibiotics were used to make animals grow __________",
+     "explanation": "They made animals grow faster.",
+     "evidenceQuote": "to make them grow faster",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "faster"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Few new antibiotics are developed because they are not very __________",
+     "explanation": "They are not very profitable.",
+     "evidenceQuote": "they're not very profitable for drug companies",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "profitable"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "bacteria",
+    "mould",
+    "penicillin",
+    "resistance",
+    "mutation"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam11-rp1",
+   "passageNumber": 1,
+   "title": "The conquest of smallpox",
+   "discipline": "History of Medicine",
+   "paragraphs": [
+    "For most of recorded history, smallpox was one of the most feared diseases on Earth. It spread easily from person to person through the air, caused high fever and a painful rash that turned into fluid-filled blisters, and killed around three in every ten people it infected. Those who survived were often left with deep scars on their faces, and some were blinded. In the eighteenth century alone, it is estimated that smallpox killed around four hundred thousand Europeans every year, and in the twentieth century, before it was finally defeated, it caused an estimated three hundred million deaths worldwide.",
+    "Long before scientists understood how diseases spread, people noticed that those who recovered from smallpox never caught it again. This observation led to a practice known as variolation, in which material from the blisters of a person with a mild case was deliberately introduced into a healthy person, usually through a small cut in the skin or, in China, by blowing dried scabs into the nose. The person usually developed a mild form of the disease and was then protected for life. Variolation was practised in parts of Asia and Africa for centuries before it reached Europe.",
+    "The practice was introduced to Britain in the 1720s, largely through the efforts of Lady Mary Wortley Montagu, the wife of the British ambassador to the Ottoman Empire. She had survived smallpox herself, and had seen variolation performed in Constantinople. On her return to London, she had her daughter variolated in front of the king's doctors. The method became fashionable among wealthy families, but it carried real risks. Around one or two per cent of those variolated died, and because they had a genuine infection, they could pass the disease to others.",
+    "The decisive breakthrough came from an English country doctor, Edward Jenner. It was common knowledge among farmers that milkmaids who had caught cowpox, a mild disease of cattle that caused sores on the hands, seemed to be protected against smallpox. In 1796, Jenner tested this idea. He took material from a cowpox sore on the hand of a milkmaid named Sarah Nelmes and introduced it into the arm of an eight-year-old boy, James Phipps. Some weeks later, he variolated the boy with smallpox material, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow.",
+    "Jenner's experiment would not be considered ethical today, and he was not the first person to try the method; a farmer named Benjamin Jesty had used cowpox to protect his family more than twenty years earlier. Jenner's contribution was to test the idea systematically, to publish his results and to promote vaccination energetically. Vaccination was far safer than variolation, and it spread with remarkable speed. Within a few years, it was being used across Europe and the Americas. In 1803, the Spanish government sent an expedition to its colonies carrying the vaccine in a living chain of orphan boys, who were vaccinated one after another during the voyage to keep the material fresh.",
+    "Not everyone welcomed the new method. Some people objected on religious grounds, arguing that it was wrong to introduce material from animals into the human body. Cartoons of the time showed vaccinated people growing horns or the heads of cows. When the British government made vaccination of infants compulsory in 1853, opposition grew stronger, and anti-vaccination leagues were formed. By the end of the century, the law had been changed to allow parents who objected on grounds of conscience to refuse.",
+    "Despite vaccination, smallpox remained common in many parts of the world well into the twentieth century. In 1967, the World Health Organization launched an intensified campaign to eliminate the disease completely. At that time, there were still between ten and fifteen million cases a year, mainly in South America, Africa and South Asia. The campaign was helped by two features of the disease: it only infected humans, so there was no animal reservoir in which it could hide, and its rash made infected people easy to identify.",
+    "Rather than trying to vaccinate whole populations, which proved impossible in many areas, the campaign adopted a strategy called surveillance and containment. Teams searched for new cases, isolated the patients and vaccinated everyone around them, creating a ring of immunity that stopped the virus from spreading further. The last natural case occurred in Somalia in 1977, and in 1980 the World Health Organization officially declared that smallpox had been eradicated. It remains the only human disease ever to have been completely wiped out, although samples of the virus are still kept in two high-security laboratories, one in the United States and one in Russia."
+   ],
+   "questions": [
+    {
+     "id": "exam11-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Smallpox killed approximately thirty per cent of the people who caught it.",
+     "explanation": "Three in ten is about thirty per cent.",
+     "evidenceQuote": "killed around three in every ten people it infected",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam11-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Variolation was first developed in Europe.",
+     "explanation": "It came from Asia and Africa.",
+     "evidenceQuote": "Variolation was practised in parts of Asia and Africa for centuries before it reached Europe.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam11-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Lady Mary Wortley Montagu had never had smallpox.",
+     "explanation": "She had survived it.",
+     "evidenceQuote": "She had survived smallpox herself",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam11-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "People who had been variolated could infect other people.",
+     "explanation": "Variolated people could spread it.",
+     "evidenceQuote": "they could pass the disease to others",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam11-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "James Phipps later became a doctor himself.",
+     "explanation": "Nothing is said about his later life.",
+     "evidenceQuote": "introduced it into the arm of an eight-year-old boy, James Phipps",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam11-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Benjamin Jesty used cowpox before Jenner did.",
+     "explanation": "Jesty used it twenty years earlier.",
+     "evidenceQuote": "had used cowpox to protect his family more than twenty years earlier",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam11-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The Spanish expedition of 1803 was a failure.",
+     "explanation": "Its outcome is not stated.",
+     "evidenceQuote": "the Spanish government sent an expedition to its colonies carrying the vaccine",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam11-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "In China, dried scabs were blown into the __________",
+     "explanation": "Scabs were blown into the nose.",
+     "evidenceQuote": "by blowing dried scabs into the nose",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Milkmaids with cowpox had __________ on their hands",
+     "explanation": "Cowpox caused sores.",
+     "evidenceQuote": "caused sores on the hands",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sores"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "The word \"vaccination\" comes from the Latin for __________",
+     "explanation": "Vacca means cow.",
+     "evidenceQuote": "from the Latin word vacca, meaning cow",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cow"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Some opponents objected for __________ reasons",
+     "explanation": "They objected on religious grounds.",
+     "evidenceQuote": "Some people objected on religious grounds",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "religious"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Smallpox was easy to identify because of its __________",
+     "explanation": "The rash identified patients.",
+     "evidenceQuote": "its rash made infected people easy to identify",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rash"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The last natural case was in __________ in 1977",
+     "explanation": "It was in Somalia.",
+     "evidenceQuote": "The last natural case occurred in Somalia in 1977",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Somalia"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 777,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam11-rp2",
+   "passageNumber": 2,
+   "title": "The long war against malaria",
+   "discipline": "Global Health",
+   "paragraphs": [
+    "Malaria has probably killed more people than any other disease in human history. Even today, despite more than a century of scientific effort, it infects around two hundred and fifty million people every year and kills more than six hundred thousand, most of them children under the age of five in sub-Saharan Africa. The story of the fight against malaria is a story of remarkable discoveries, disappointing setbacks and, more recently, cautious hope.",
+    "For centuries, people believed that the disease was caused by bad air rising from swamps and marshes, which is where its name comes from: the Italian words mala aria mean 'bad air'. The idea was not entirely foolish, since malaria was indeed most common near stagnant water. The real cause was discovered in 1880 by a French army doctor, Alphonse Laveran, who saw tiny parasites in the blood of a patient in Algeria. Seventeen years later, a British doctor working in India, Ronald Ross, proved that the parasites were carried by mosquitoes, a discovery that earned him the Nobel Prize in 1902.",
+    "We now know that malaria is caused by single-celled parasites of the genus Plasmodium, and that it is spread only by female Anopheles mosquitoes, which need a meal of blood to produce their eggs. When an infected mosquito bites, parasites enter the bloodstream and travel to the liver, where they multiply. They then invade red blood cells, which burst every two or three days, releasing more parasites. This cycle causes the attacks of fever, shaking and sweating that are typical of the disease. When another mosquito bites the infected person, it picks up parasites and the cycle begins again.",
+    "The first effective treatment came from South America. In the seventeenth century, Jesuit missionaries in Peru learned from local people that the bark of the cinchona tree could reduce fever. The active ingredient, quinine, was isolated by French chemists in 1820 and became the standard treatment for more than a century. It was so important that European colonial powers established cinchona plantations in Asia, and it has been said that without quinine, much of the European colonisation of Africa would not have been possible.",
+    "In the middle of the twentieth century, it seemed that malaria could be defeated altogether. Powerful new insecticides, particularly DDT, were sprayed inside homes to kill mosquitoes, and a cheap synthetic drug called chloroquine was widely used for treatment. In 1955, the World Health Organization launched a global eradication campaign. Malaria was eliminated from Europe, the United States and several other countries, and cases fell dramatically in parts of Asia. However, the campaign largely excluded sub-Saharan Africa, where the disease was most common.",
+    "By the late 1960s, the campaign was in trouble. Mosquitoes had become resistant to DDT, the parasites had become resistant to chloroquine, and concerns about the environmental effects of DDT, raised by books such as Rachel Carson's Silent Spring, led to its use being restricted. Funding dried up, and in 1969 the goal of global eradication was abandoned. In many countries, the disease returned, and by the 1990s malaria deaths in Africa were rising again.",
+    "A new effort began around the year 2000, supported by international organisations and large private donors. One of the simplest tools proved to be among the most effective: bed nets treated with insecticide, which protect people while they sleep, when Anopheles mosquitoes are most active. Hundreds of millions of nets have been distributed, and studies suggest they have prevented more cases than any other measure. At the same time, a new family of drugs based on artemisinin, a substance discovered by the Chinese scientist Tu Youyou in an ancient herbal remedy, replaced chloroquine as the main treatment. Between 2000 and 2015, malaria deaths worldwide fell by around sixty per cent.",
+    "The most recent development is the arrival of vaccines. Developing a malaria vaccine has proved extremely difficult, partly because the parasite changes its form at different stages of its life cycle. In 2021, the World Health Organization recommended the first vaccine for children, and a second, cheaper vaccine was approved in 2023. Neither is completely effective, and both require several doses, but used together with nets and drugs, they could save tens of thousands of lives each year. Yet challenges remain. Resistance to artemisinin has appeared in parts of Africa, and climate change may allow mosquitoes to spread to higher and cooler areas where malaria was previously rare."
+   ],
+   "questions": [
+    {
+     "id": "exam11-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains how the cause was found.",
+     "evidenceQuote": "The real cause was discovered in 1880",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Identifying the true cause",
+      "Identifying the true cause"
+     ]
+    },
+    {
+     "id": "exam11-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes the parasite's life cycle.",
+     "evidenceQuote": "When an infected mosquito bites, parasites enter the bloodstream",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. How the parasite develops in the body",
+      "How the parasite develops in the body"
+     ]
+    },
+    {
+     "id": "exam11-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D covers quinine.",
+     "evidenceQuote": "The first effective treatment came from South America.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A remedy from a tree",
+      "A remedy from a tree"
+     ]
+    },
+    {
+     "id": "exam11-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes early optimism.",
+     "evidenceQuote": "it seemed that malaria could be defeated altogether",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A period of great optimism",
+      "A period of great optimism"
+     ]
+    },
+    {
+     "id": "exam11-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains why the campaign failed.",
+     "evidenceQuote": "in 1969 the goal of global eradication was abandoned",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Why an ambitious plan was given up",
+      "Why an ambitious plan was given up"
+     ]
+    },
+    {
+     "id": "exam11-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers bed nets and new drugs.",
+     "evidenceQuote": "One of the simplest tools proved to be among the most effective",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Simple and modern methods bring success",
+      "Simple and modern methods bring success"
+     ]
+    },
+    {
+     "id": "exam11-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H covers vaccines and remaining problems.",
+     "evidenceQuote": "The most recent development is the arrival of vaccines.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. New protection, but continuing threats",
+      "New protection, but continuing threats"
+     ]
+    },
+    {
+     "id": "exam11-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did Ronald Ross prove?",
+     "explanation": "He proved mosquitoes carry the parasites.",
+     "evidenceQuote": "proved that the parasites were carried by mosquitoes",
+     "skillTag": "detail",
+     "options": [
+      "A. that malaria was caused by bad air",
+      "B. that parasites lived in the liver",
+      "C. that mosquitoes carried the parasites",
+      "D. that quinine cured malaria"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. that mosquitoes carried the parasites",
+      "that mosquitoes carried the parasites"
+     ]
+    },
+    {
+     "id": "exam11-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why do female Anopheles mosquitoes bite people?",
+     "explanation": "They need blood to produce eggs.",
+     "evidenceQuote": "which need a meal of blood to produce their eggs",
+     "skillTag": "detail",
+     "options": [
+      "A. to obtain blood for producing eggs",
+      "B. to spread parasites deliberately",
+      "C. because they cannot find plants",
+      "D. to cool themselves down"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to obtain blood for producing eggs",
+      "to obtain blood for producing eggs"
+     ]
+    },
+    {
+     "id": "exam11-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why have bed nets been especially effective?",
+     "explanation": "Mosquitoes are most active when people sleep.",
+     "evidenceQuote": "protect people while they sleep, when Anopheles mosquitoes are most active",
+     "skillTag": "detail",
+     "options": [
+      "A. They are made from natural materials.",
+      "B. They protect people when mosquitoes are most active.",
+      "C. They kill parasites in the blood.",
+      "D. They are given only to children."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They protect people when mosquitoes are most active.",
+      "They protect people when mosquitoes are most active."
+     ]
+    },
+    {
+     "id": "exam11-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Laveran first saw malaria parasites in a patient in __________.",
+     "explanation": "The patient was in Algeria.",
+     "evidenceQuote": "in the blood of a patient in Algeria",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Algeria"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam11-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Concerns about the environmental effects of __________ led to restrictions on its use.",
+     "explanation": "DDT was restricted.",
+     "evidenceQuote": "concerns about the environmental effects of DDT",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "DDT"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam11-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Tu Youyou discovered artemisinin in an ancient __________.",
+     "explanation": "It came from a herbal remedy.",
+     "evidenceQuote": "in an ancient herbal remedy",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "herbal remedy"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 734,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A remedy from a tree",
+      "ii. New protection, but continuing threats",
+      "iii. Why an ambitious plan was given up",
+      "iv. Identifying the true cause",
+      "v. The economic cost of the disease",
+      "vi. Simple and modern methods bring success",
+      "vii. How the parasite develops in the body",
+      "viii. Malaria in ancient Rome",
+      "ix. A period of great optimism"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam11-rp3",
+   "passageNumber": 3,
+   "title": "Testing the treatments",
+   "discipline": "Clinical Research",
+   "paragraphs": [
+    "How do we know whether a medical treatment works? For most of history, the answer depended on the opinion of experienced physicians, who based their judgements on the patients they had personally treated. The problem with this approach is that people often recover from illnesses naturally, so a doctor who gives a treatment and sees the patient improve may wrongly conclude that the treatment caused the recovery. As a result, many treatments that did more harm than good, such as bloodletting, remained popular for centuries.",
+    "One of the earliest recorded attempts to compare treatments fairly was made in 1747 by James Lind, a Scottish naval surgeon. Sailors on long voyages frequently suffered from scurvy, a disease that caused bleeding gums, weakness and eventually death. Lind took twelve sailors with scurvy and divided them into six pairs, giving each pair a different remedy, including vinegar, seawater and two oranges and a lemon each day. The sailors who ate citrus fruit recovered rapidly, while the others did not. Although Lind's trial was very small, it is often described as the first controlled clinical trial. Surprisingly, it was more than forty years before the British navy began to provide lemon juice to all its sailors.",
+    "The modern randomised controlled trial emerged in the mid-twentieth century. Its key feature is that patients are allocated to groups by chance, so that the groups are as similar as possible in every respect except the treatment they receive. A landmark study published in 1948 by the British Medical Research Council tested the antibiotic streptomycin for tuberculosis. Partly because the drug was in short supply, the researchers could justify giving it to only some patients, and they used random numbers to decide who would receive it. The trial demonstrated a clear benefit and is widely regarded as a model of good research design.",
+    "Randomisation alone is not enough to guarantee reliable results. If patients know they are receiving a new treatment, their expectations may influence how they feel, and if doctors know, they may unconsciously assess those patients more favourably. To avoid this, many trials are double-blind, meaning that neither patients nor researchers know who is in which group until the trial is over. The comparison group typically receives either a placebo or the best existing treatment.",
+    "In the 1970s, a British doctor named Archie Cochrane argued that doctors should base their decisions on the systematic evaluation of all the available evidence, rather than on habit or authority. He criticised the medical profession for failing to organise the results of trials in a way that would allow doctors to use them. His ideas inspired the movement known as evidence-based medicine and led to the founding in 1993 of the Cochrane Collaboration, now an international network of researchers who produce systematic reviews summarising the findings of all the reliable trials on a particular question.",
+    "Systematic reviews are important because individual trials can give misleading results. A small trial may find a positive effect simply by chance, and there is a well-documented tendency for studies with positive results to be published more often than those with negative or disappointing ones. This problem, known as publication bias, can make treatments appear more effective than they really are. One partial solution has been to require researchers to register their trials publicly before they begin, so that results which are never published can at least be identified. Since 2005, many leading medical journals have refused to publish trials that were not registered in advance.",
+    "The influence of funding is another concern. Most trials of new drugs are paid for by the companies that make them, and several studies have found that industry-funded trials are more likely to reach conclusions favourable to the sponsor's product. This does not necessarily mean that the research is dishonest; companies may, for example, choose to compare their drug with a weak alternative or to test it on patients who are most likely to benefit. Nevertheless, critics such as the British doctor and writer Ben Goldacre have argued that greater transparency, including access to full trial data, is essential if doctors and patients are to trust the evidence.",
+    "Randomised trials also have limitations of their own. They are expensive and slow, and they often exclude elderly people, pregnant women and patients with several illnesses, which means that their results may not apply to the patients doctors see in everyday practice. For this reason, researchers increasingly supplement trials with large observational studies using health records from millions of patients. Such studies can reveal rare side effects or long-term outcomes that trials are too small or too short to detect, although they cannot prove cause and effect as convincingly. In my view, the best evidence comes from combining both approaches rather than relying on either alone."
+   ],
+   "questions": [
+    {
+     "id": "exam11-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "compared six different remedies for a disease affecting sailors",
+     "explanation": "Lind compared six remedies.",
+     "evidenceQuote": "giving each pair a different remedy",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. James Lind",
+      "James Lind"
+     ]
+    },
+    {
+     "id": "exam11-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "used random numbers to decide which patients received a drug",
+     "explanation": "The Medical Research Council did this.",
+     "evidenceQuote": "they used random numbers to decide who would receive it",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the British Medical Research Council",
+      "the British Medical Research Council"
+     ]
+    },
+    {
+     "id": "exam11-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "criticised doctors for not organising research results usefully",
+     "explanation": "Cochrane criticised this.",
+     "evidenceQuote": "He criticised the medical profession for failing to organise the results of trials",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Archie Cochrane",
+      "Archie Cochrane"
+     ]
+    },
+    {
+     "id": "exam11-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "produces reviews summarising all reliable trials on a question",
+     "explanation": "The Cochrane Collaboration does this.",
+     "evidenceQuote": "produce systematic reviews summarising the findings of all the reliable trials",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the Cochrane Collaboration",
+      "the Cochrane Collaboration"
+     ]
+    },
+    {
+     "id": "exam11-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "has called for access to complete trial data",
+     "explanation": "Goldacre called for this.",
+     "evidenceQuote": "greater transparency, including access to full trial data, is essential",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Ben Goldacre",
+      "Ben Goldacre"
+     ]
+    },
+    {
+     "id": "exam11-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Patients who improve after treatment have always been cured by it.",
+     "explanation": "Recovery may be natural.",
+     "evidenceQuote": "may wrongly conclude that the treatment caused the recovery",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam11-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The British navy was quick to act on Lind's findings.",
+     "explanation": "It took over forty years.",
+     "evidenceQuote": "it was more than forty years before the British navy began to provide lemon juice",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam11-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Industry-funded research is always dishonest.",
+     "explanation": "It is not necessarily dishonest.",
+     "evidenceQuote": "This does not necessarily mean that the research is dishonest",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam11-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Observational studies are cheaper than randomised trials.",
+     "explanation": "Their cost is not compared.",
+     "evidenceQuote": "researchers increasingly supplement trials with large observational studies",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam11-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Combining trials with observational studies produces the best evidence.",
+     "explanation": "The writer says combining is best.",
+     "evidenceQuote": "the best evidence comes from combining both approaches",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam11-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In a double-blind trial, the comparison group often receives a __________.",
+     "explanation": "It receives a placebo.",
+     "evidenceQuote": "typically receives either a placebo",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "placebo"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Studies with positive results are published more often, a problem called publication __________.",
+     "explanation": "It is publication bias.",
+     "evidenceQuote": "known as publication bias",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bias"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Many journals now require trials to be __________ before they begin.",
+     "explanation": "Trials must be registered.",
+     "evidenceQuote": "refused to publish trials that were not registered in advance",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "registered"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam11-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Trials often exclude elderly people and __________ women.",
+     "explanation": "Pregnant women are often excluded.",
+     "evidenceQuote": "they often exclude elderly people, pregnant women",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pregnant"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 795,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people and organisations below. Match each statement with the correct option, A–E.",
+     "options": [
+      "A. James Lind",
+      "B. the British Medical Research Council",
+      "C. Archie Cochrane",
+      "D. the Cochrane Collaboration",
+      "E. Ben Goldacre"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam11-w1",
+  "title": "Life expectancy at birth",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows average life expectancy at birth in four regions of the world in 1960, 1990 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "A09B71D9-2968-5EF4-8D49-3F47799095D5",
+    "series": "Europe",
+    "category": "1960",
+    "value": 69.0,
+    "unit": "years"
+   },
+   {
+    "id": "E5CF9DAC-A39F-58DF-B071-70752B879792",
+    "series": "Latin America",
+    "category": "1960",
+    "value": 57.0,
+    "unit": "years"
+   },
+   {
+    "id": "10695E11-990B-596F-A9C8-119AB1CC5753",
+    "series": "South Asia",
+    "category": "1960",
+    "value": 46.0,
+    "unit": "years"
+   },
+   {
+    "id": "171AA33C-9B06-544F-B1C6-559F5F86060F",
+    "series": "Sub-Saharan Africa",
+    "category": "1960",
+    "value": 41.0,
+    "unit": "years"
+   },
+   {
+    "id": "D76EDFCD-3594-51A5-B505-E7BA8C8FD64E",
+    "series": "Europe",
+    "category": "1990",
+    "value": 75.0,
+    "unit": "years"
+   },
+   {
+    "id": "5E3E9A62-6E43-5215-9C80-B14FFEA1E903",
+    "series": "Latin America",
+    "category": "1990",
+    "value": 69.0,
+    "unit": "years"
+   },
+   {
+    "id": "77D5FFBA-7E32-5200-8609-0BFDECEE744E",
+    "series": "South Asia",
+    "category": "1990",
+    "value": 61.0,
+    "unit": "years"
+   },
+   {
+    "id": "99CA469A-45BE-58E0-9F91-1BD73F62E42A",
+    "series": "Sub-Saharan Africa",
+    "category": "1990",
+    "value": 50.0,
+    "unit": "years"
+   },
+   {
+    "id": "00D54854-6FFC-5B9C-9520-3860BB9F0738",
+    "series": "Europe",
+    "category": "2020",
+    "value": 81.0,
+    "unit": "years"
+   },
+   {
+    "id": "59F83D5A-675E-5009-ADDB-F48FE386C9D0",
+    "series": "Latin America",
+    "category": "2020",
+    "value": 77.0,
+    "unit": "years"
+   },
+   {
+    "id": "ACC0BA1B-6425-5936-8F35-2F571096776E",
+    "series": "South Asia",
+    "category": "2020",
+    "value": 71.0,
+    "unit": "years"
+   },
+   {
+    "id": "D28E5B04-CCC7-54EB-B4F9-A65746BB645B",
+    "series": "Sub-Saharan Africa",
+    "category": "2020",
+    "value": 63.0,
+    "unit": "years"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Life expectancy rose in all four regions.",
+   "Europe remained highest, but the gap narrowed as other regions improved faster."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam11-w2",
+  "title": "Who should pay for healthcare?",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Health",
+  "promptText": "Some people believe that healthcare should be free for everyone and paid for by the government, while others think individuals should pay for their own medical treatment. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam11-spk",
+  "theme": "Health and medicine",
+  "part1Questions": [
+   "How often do you visit a doctor?",
+   "What do you usually do when you have a cold?",
+   "Do you think you have a healthy lifestyle?",
+   "Are there many pharmacies where you live?",
+   "Did you learn about health at school?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when you or someone you know was ill and needed help.",
+   "bulletPoints": [
+    "who was ill",
+    "what the illness was",
+    "what help was given",
+    "and explain how you felt about the situation"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people avoid going to the doctor?",
+   "Should governments spend more on preventing illness or on treating it?",
+   "How has medicine changed in your country in recent decades?",
+   "Do you think people trust doctors less than in the past?",
+   "What role should schools play in teaching children about health?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Medical history and figures are simplified for practice and are not health advice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

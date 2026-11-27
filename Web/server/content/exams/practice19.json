@@ -1,0 +1,2119 @@
+{
+ "id": "practice19",
+ "examNumber": 19,
+ "pool": "practice",
+ "title": "Practice Test 19: Plants, Gardens & Botany",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Plants, Gardens & Botany",
+ "listeningParts": [
+  {
+   "id": "practice19-lp1",
+   "partNumber": 1,
+   "title": "Applying for an allotment",
+   "contextDescription": "A man phones his local council to ask about renting an allotment to grow vegetables.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "2D06D87F-FEC0-5F07-AADE-14733EF06216",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Good morning, Hillford Council, allotments office. This is Joanne speaking. How can I help you?"
+    },
+    {
+     "id": "055532F3-AA9F-5639-942C-DE7CB29CFA90",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Hi there. I've just moved to Hillford, and I'd really like to grow my own vegetables, but my new flat doesn't have a garden. A neighbour told me the council rents out allotments. Is that right?"
+    },
+    {
+     "id": "373E6EC1-564C-5A4D-932F-52A137C26287",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Yes, it is. We have three allotment sites in the town at the moment. The biggest is at Mill Lane, near the river, with about a hundred and twenty plots. Then there's Station Road, which is smaller, and a new site that opened last year on Orchard Hill."
+    },
+    {
+     "id": "807B01B3-744D-5BB9-B835-69C9E5527A57",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Are there any plots available now?"
+    },
+    {
+     "id": "6509AD79-008E-5A04-9638-36849B9FB0A0",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Not straight away, I'm afraid. There's a waiting list for all three sites. Mill Lane is the most popular, because the soil there is very good, so the wait is around two years. For Station Road it's about eighteen months. But Orchard Hill is much shorter, usually only a few months, because it's further from the town centre."
+    },
+    {
+     "id": "C548FB9B-BC66-53AE-B596-90D7760BA272",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Orchard Hill would be fine. I've got a bike, so distance isn't really a problem. How big are the plots?"
+    },
+    {
+     "id": "72A2BEE3-8298-5AFA-8F0C-03B8F0596952",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "A full plot is two hundred and fifty square metres, which is a lot of work for a beginner. Most new people start with a half plot, which is a hundred and twenty-five. Have you grown vegetables before?"
+    },
+    {
+     "id": "5F4DEF5A-051C-5B30-9672-E66FC4A4DE2F",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Only a few tomatoes on a balcony, so I think a half plot would be more sensible."
+    },
+    {
+     "id": "AD6EC179-E79B-5A07-9053-0E3C432BCFFA",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "I'd agree. A half plot at Orchard Hill costs sixty-two pounds a year. A full plot is a hundred and ten. There's also a deposit of twenty-five pounds when you start, which you get back when you leave, as long as the plot is left in good condition."
+    },
+    {
+     "id": "9650D2F2-6FAA-5D39-A9F1-44DC87BD04AC",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That sounds reasonable. What facilities are there on the site?"
+    },
+    {
+     "id": "AB2F8054-0761-514B-830E-D026C442C938",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Orchard Hill has water taps around the site, and every plot has its own water butt for collecting rainwater from the shed roof. There are toilets near the main gate, and a car park. Each plot also comes with a small wooden shed for storing tools. What we don't have yet is a communal building, but the allotment association is raising money for one."
+    },
+    {
+     "id": "42768E31-50F7-5F2A-A5D3-20B4409FFCF6",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Is there anything I'm not allowed to do on the plot?"
+    },
+    {
+     "id": "9C86EC92-F560-5EFC-B78F-0A12BF43B914",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "A few things. You can't keep animals, except for hens, and you need permission for those. Bonfires aren't allowed between April and September, because of complaints from people living nearby. And you must cultivate at least three quarters of your plot. If a plot isn't looked after, we send a warning letter, and if nothing changes after a month, we can give it to someone else on the list."
+    },
+    {
+     "id": "E3EAEB15-9F33-5015-AEA5-A979153982D9",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Fair enough. Can I put my name down now?"
+    },
+    {
+     "id": "E8E95CBF-E507-554A-AA40-92AD779ECBB8",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Of course. What's your full name?"
+    },
+    {
+     "id": "2D07E9DE-8EB5-5588-8E96-75612832F922",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's Declan Fairweather. That's F-A-I-R-W-E-A-T-H-E-R."
+    },
+    {
+     "id": "6DB66479-E718-59B8-9C0D-5922A0230964",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Lovely name for a gardener! And your address?"
+    },
+    {
+     "id": "C600D013-C524-5FF4-B14B-40C4659438C9",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's Flat 3, 48 Kingsley Road."
+    },
+    {
+     "id": "0426DB1D-9534-529F-B3BF-82598D0BF1C3",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "And the postcode?"
+    },
+    {
+     "id": "03C5791B-889F-5F29-8E20-E1CFD1B8E373",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "HF7 2RB."
+    },
+    {
+     "id": "0997FD10-A1E1-5D43-BC03-34A972369438",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Thank you. And what's the best way to contact you when a plot becomes available?"
+    },
+    {
+     "id": "D2209015-2171-5C08-8736-40229427EEE3",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Email is best, really. It's declan.fw at mailbox dot com."
+    },
+    {
+     "id": "813BFE37-F2FE-5AB0-AB7D-A8EC66BAF79D",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Got it. Now, before you start, all new tenants have to go to an induction session, where the site manager shows you around and explains the rules. They're held on the first Saturday of each month, at ten o'clock."
+    },
+    {
+     "id": "82EB108C-CB3B-582F-AD16-80B3738ECB58",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Is there any help for beginners?"
+    },
+    {
+     "id": "223E4EAD-640F-5DEE-8FC6-1B1E89FFC47D",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "Yes. The association runs a mentoring scheme, where an experienced gardener is paired with a new tenant for the first year. They'll help you plan what to grow and when. Most people find it really useful. And there's a seed swap every February, where people exchange seeds they've saved from their own plants."
+    },
+    {
+     "id": "6A14BDC5-1FD5-5C3A-938C-58C1FECFB095",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That sounds great. I'll definitely sign up for the mentoring scheme."
+    },
+    {
+     "id": "6E71443F-2C73-5A22-ABA5-2E8E78C0632B",
+     "speaker": "Officer",
+     "accent": "en-GB",
+     "text": "I'll add a note to your application. You should get an email confirming you're on the list within five working days."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice19-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Site chosen: __________ Hill",
+     "explanation": "He chooses Orchard Hill because the wait is short.",
+     "evidenceQuote": "Orchard Hill would be fine.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Orchard"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Size of plot: half plot (__________ square metres)",
+     "explanation": "A half plot is 125 square metres.",
+     "evidenceQuote": "Most new people start with a half plot, which is a hundred and twenty-five.",
+     "skillTag": "numbers",
+     "distractorNote": "250 square metres is a full plot.",
+     "options": [],
+     "acceptedAnswers": [
+      "125",
+      "a hundred and twenty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Annual rent: £__________",
+     "explanation": "The half plot costs £62.",
+     "evidenceQuote": "A half plot at Orchard Hill costs sixty-two pounds a year.",
+     "skillTag": "numbers",
+     "distractorNote": "£110 is a full plot; £25 is the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "62",
+      "sixty-two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Each plot has a water butt and a wooden __________ for tools",
+     "explanation": "Each plot has a shed.",
+     "evidenceQuote": "Each plot also comes with a small wooden shed for storing tools.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "shed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Rules: no __________ from April to September",
+     "explanation": "Bonfires are banned in summer.",
+     "evidenceQuote": "Bonfires aren't allowed between April and September",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "bonfires"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "At least three __________ of the plot must be cultivated",
+     "explanation": "Three quarters must be cultivated.",
+     "evidenceQuote": "you must cultivate at least three quarters of your plot",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "quarters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Name: Declan __________",
+     "explanation": "He spells his surname.",
+     "evidenceQuote": "It's Declan Fairweather. That's F-A-I-R-W-E-A-T-H-E-R.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Fairweather"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Address: Flat 3, 48 __________ Road",
+     "explanation": "He lives on Kingsley Road.",
+     "evidenceQuote": "It's Flat 3, 48 Kingsley Road.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Kingsley"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Induction: first __________ of each month, 10 a.m.",
+     "explanation": "Inductions are on the first Saturday.",
+     "evidenceQuote": "They're held on the first Saturday of each month",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Saturday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Seed swap held every __________",
+     "explanation": "The seed swap is in February.",
+     "evidenceQuote": "there's a seed swap every February",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "February"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "allotment",
+    "plot",
+    "waiting list",
+    "water butt",
+    "shed"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice19-lp2",
+   "partNumber": 2,
+   "title": "A guide to the botanic garden",
+   "contextDescription": "A guide welcomes a group of visitors to a botanic garden and describes its main areas.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "185437C5-402D-58DF-B54E-4B42C9B86669",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Good morning, everyone, and welcome to the Riverside Botanic Garden. My name's Daniel, and I'm one of the volunteer guides here. Before you head off to explore, I'd like to give you a quick introduction to the garden and tell you about some of the areas you might like to visit."
+    },
+    {
+     "id": "C03A8F5A-D1D4-533E-A0AB-A4DE0D49E8AF",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The garden was founded in 1862 by a group of local doctors, who wanted a place to grow medicinal plants and teach students about them. In fact, for the first thirty years or so it was used almost entirely for teaching. It only opened to the public in the 1890s. Today, we have more than twelve thousand different kinds of plants, and around a quarter of a million visitors a year. But we're still a scientific institution, and much of our work is about conservation. We grow a number of plants that are rare or even extinct in the wild, and we share seeds with other gardens around the world."
+    },
+    {
+     "id": "7C0C6173-5EF9-5A41-847A-1E4750136601",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Entry to the garden is free, but we do ask for donations, and there's a box by the main gate. All the money goes towards caring for the plants. You'll find the café and the shop next to the car park, and toilets are at the entrance and beside the lake."
+    },
+    {
+     "id": "BC9B6900-6303-55BA-8207-5657A842B357",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Now, a few practical points. Please stay on the paths, especially in the woodland area, because many plants there are only just coming up at this time of year and they're easily damaged. Dogs are welcome, but they must be kept on a lead. And please don't take cuttings or seeds from any of the plants. I know it's tempting, but some of our plants are very rare, and taking even a small piece can harm them."
+    },
+    {
+     "id": "5724F82F-732B-5BEC-9232-4ECC40ABDE17",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "So, let me tell you about the main areas. Straight ahead of us is the Palm House. It's the oldest building in the garden, built in the 1870s from iron and glass, and it's kept at a constant tropical temperature all year round. Inside you'll find palms, bananas and orchids. One of the highlights is a cycad, a very ancient type of plant, which was brought here as a small specimen over a hundred and fifty years ago. It's probably the oldest pot plant in the country. The Palm House is closed on Mondays for maintenance, so if you're coming back another day, bear that in mind."
+    },
+    {
+     "id": "41F069CE-CE05-5950-930D-9E09AB92A1BE",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "To the left of the Palm House is the Rock Garden, where we grow alpine plants from mountain regions all over the world. These plants are adapted to cold, windy conditions and very thin soil, so they tend to be small and low-growing. Late spring is the best time to see them, when many of them are in flower. The rock garden was rebuilt last year using stone from a local quarry, and it now has a small waterfall."
+    },
+    {
+     "id": "6FE5C249-4EBD-5C2D-B509-48B0775936EE",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Beyond that you'll come to the Medicinal Garden, which is a reminder of how the garden began. It's laid out in beds according to the part of the body the plants were traditionally used to treat. There are labels explaining how each plant was used in the past and, in some cases, which modern medicines have been developed from it. Please don't touch the plants in this area, though, because several of them are poisonous."
+    },
+    {
+     "id": "DBB8B1B3-C7B4-5B50-94FD-4FEF29FA399B",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "If you have children with you, I'd recommend the Sensory Garden, which is to the right of the main lawn. It's designed to be explored with all the senses, not just the eyes. Visitors are encouraged to touch the plants, which have interesting textures, and to smell the herbs. There's also a sound trail, with bamboo and tall grasses that rustle in the wind. The paths are wide and flat, so it's very easy to get around with a wheelchair or a buggy."
+    },
+    {
+     "id": "0C052F52-B29F-5EA8-A8FC-C05701D5DF44",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Finally, down by the lake, there's the Herbarium. That's a collection of over two hundred thousand dried and pressed plant specimens, some of them collected in the eighteen hundreds. Scientists from all over the world use it for research. It's not usually open to the public, but on the last Sunday of every month, the staff offer free tours, and they're well worth booking."
+    },
+    {
+     "id": "430E02D4-B680-52E5-9B60-245448CA8972",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Right, I think that's everything. Maps are available from the information desk, and I'll be leading a guided walk at two o'clock if anyone would like to join me. Enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice19-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was the botanic garden originally used for?",
+     "explanation": "It was set up for teaching about medicinal plants.",
+     "evidenceQuote": "for the first thirty years or so it was used almost entirely for teaching",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. teaching students",
+      "B. growing food for the town",
+      "C. scientific conservation work"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. teaching students",
+      "teaching students"
+     ]
+    },
+    {
+     "id": "practice19-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What does Daniel say the donations are used for?",
+     "explanation": "Donations pay for plant care.",
+     "evidenceQuote": "All the money goes towards caring for the plants.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. building a new café",
+      "B. paying the volunteer guides",
+      "C. looking after the plants"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. looking after the plants",
+      "looking after the plants"
+     ]
+    },
+    {
+     "id": "practice19-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why are visitors asked to keep to the paths in the woodland?",
+     "explanation": "Young plants are easily damaged.",
+     "evidenceQuote": "many plants there are only just coming up at this time of year and they're easily damaged",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The ground is often muddy.",
+      "B. Young plants could be harmed.",
+      "C. Some plants there are poisonous."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Young plants could be harmed.",
+      "Young plants could be harmed."
+     ]
+    },
+    {
+     "id": "practice19-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the cycad in the Palm House?",
+     "explanation": "It may be the oldest pot plant in the country.",
+     "evidenceQuote": "It's probably the oldest pot plant in the country.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It may be the oldest plant of its kind in a pot.",
+      "B. It is the tallest plant in the garden.",
+      "C. It was grown from a seed found in the wild."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It may be the oldest plant of its kind in a pot.",
+      "It may be the oldest plant of its kind in a pot."
+     ]
+    },
+    {
+     "id": "practice19-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "On which day is the Palm House closed?",
+     "explanation": "It closes on Mondays.",
+     "evidenceQuote": "The Palm House is closed on Mondays for maintenance",
+     "skillTag": "dates",
+     "options": [
+      "A. Sunday",
+      "B. Monday",
+      "C. Tuesday"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Monday",
+      "Monday"
+     ]
+    },
+    {
+     "id": "practice19-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "plants that visitors are invited to touch",
+     "explanation": "Touching is encouraged in the Sensory Garden.",
+     "evidenceQuote": "Visitors are encouraged to touch the plants",
+     "skillTag": "matching",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Sensory Garden",
+      "Sensory Garden"
+     ]
+    },
+    {
+     "id": "practice19-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "information linking plants with modern drugs",
+     "explanation": "The Medicinal Garden labels mention modern medicines.",
+     "evidenceQuote": "which modern medicines have been developed from it",
+     "skillTag": "matching",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Medicinal Garden",
+      "Medicinal Garden"
+     ]
+    },
+    {
+     "id": "practice19-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "a recently added water feature",
+     "explanation": "The rebuilt Rock Garden has a waterfall.",
+     "evidenceQuote": "it now has a small waterfall",
+     "skillTag": "matching",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Rock Garden",
+      "Rock Garden"
+     ]
+    },
+    {
+     "id": "practice19-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "some plants that are dangerous",
+     "explanation": "Some medicinal plants are poisonous.",
+     "evidenceQuote": "several of them are poisonous",
+     "skillTag": "matching",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Medicinal Garden",
+      "Medicinal Garden"
+     ]
+    },
+    {
+     "id": "practice19-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "easy access for wheelchairs",
+     "explanation": "The Sensory Garden has wide, flat paths.",
+     "evidenceQuote": "it's very easy to get around with a wheelchair or a buggy",
+     "skillTag": "matching",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Sensory Garden",
+      "Sensory Garden"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "glasshouse",
+    "specimen",
+    "alpine",
+    "herbarium",
+    "conservation"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which area of the garden has each of the following features? Choose the correct letter, A–D. You may use any letter more than once.",
+     "options": [
+      "A. Rock Garden",
+      "B. Medicinal Garden",
+      "C. Sensory Garden",
+      "D. Herbarium"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice19-lp3",
+   "partNumber": 3,
+   "title": "Can houseplants clean the air?",
+   "contextDescription": "Two environmental science students, Leo and Hannah, discuss a research project on houseplants and indoor air quality with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "A9BCCB9A-5821-5DBC-A492-11F280AA6F87",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Leo, Hannah. Come and sit down. So, your project is on houseplants and indoor air quality. Tell me where you've got to."
+    },
+    {
+     "id": "1346802B-2997-5FF2-9256-85A7B787B07B",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "Well, we started with the literature review. Almost every article we found on garden websites says that plants clean the air in your home, and most of them refer back to the same source, a NASA study from 1989."
+    },
+    {
+     "id": "02927375-B460-5133-9D46-4568BFBF2DDE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Ah yes, the famous NASA study. What did it actually do?"
+    },
+    {
+     "id": "F54EA827-40D9-5B3C-BFC0-4085BF831B84",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "NASA was interested in how to keep the air clean in space stations, so the researchers put plants inside small sealed chambers and added chemicals that are common indoor pollutants, like benzene and formaldehyde. Over the next twenty-four hours, the levels of those chemicals went down quite a lot."
+    },
+    {
+     "id": "DD289EB0-F5B0-578E-AABB-21BA076EB1B0",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "And they found that much of the effect wasn't actually from the leaves, but from microorganisms living in the soil around the roots."
+    },
+    {
+     "id": "57056BBA-DEB5-5EBC-8AF2-CA1A9AB6E522",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. So what's the problem with using that study to give advice to people at home?"
+    },
+    {
+     "id": "CD7480CC-7D62-5223-A9F8-9DA6007C7334",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "The main problem is scale. The chambers were tiny, with no air coming in from outside, so a single plant had a big effect. But a real house is much bigger, and air is constantly being exchanged with the outside through windows, doors and gaps in the walls. We found a review from 2019 that looked at a lot of the later studies and calculated that, to match the cleaning you get from normal ventilation, you'd need somewhere between ten and a thousand plants per square metre of floor."
+    },
+    {
+     "id": "EDD32CCA-DA00-5835-A67C-75DFAD2020B3",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Per square metre? That's quite a jungle."
+    },
+    {
+     "id": "A017AF19-338F-5E2C-B328-124473EDC972",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "Exactly. So in a normal room, a few pot plants make almost no measurable difference to air quality. Opening a window does far more."
+    },
+    {
+     "id": "D327887F-1F52-54A5-94E0-2900F76349DE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So is your conclusion that the popular claim is simply wrong?"
+    },
+    {
+     "id": "6EE74261-A5B2-58B8-94C2-FF244CBBF0F9",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "Not exactly. We think it's been exaggerated rather than invented. The original experiments were fine for what they were testing. The problem is that the results were applied to situations they weren't designed for."
+    },
+    {
+     "id": "90FFD568-D8D1-5CCA-A46E-70DCAB860A90",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a nice distinction, and it's an important point to make in your discussion. Now, I understand you also want to do some practical work?"
+    },
+    {
+     "id": "14B77F7B-7339-567D-AA1C-992AFD6A6D86",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "Yes. We'd like to measure carbon dioxide levels in two similar student rooms in the hall of residence, one with ten plants and one with none, over a period of four weeks. We've borrowed two carbon dioxide monitors from the engineering department."
+    },
+    {
+     "id": "A3A18A83-1921-5B96-9F2C-1BCB8B2D2910",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what do you expect to find?"
+    },
+    {
+     "id": "5427A874-C46C-589C-8F40-B633F34232D1",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "Probably very little difference, to be honest. But that's still a useful result."
+    },
+    {
+     "id": "26755319-9769-5951-A728-402F23D6B5E9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "It is. A few suggestions, though. First, you'll need to make sure the two rooms are as similar as possible. Things like the size of the room, which way the windows face and how often the students open them could have a much bigger effect than the plants. I'd ask the students living there to keep a simple diary of when they open the window."
+    },
+    {
+     "id": "42B1C6DE-6839-593E-B966-2C3AC06EEF77",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "That's a good idea. We hadn't thought about the windows."
+    },
+    {
+     "id": "5552BF4A-7EDD-53AB-9110-78738F1610EF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Second, four weeks is rather short. Could you extend it?"
+    },
+    {
+     "id": "361B1A3D-3791-55B5-8252-001B51693C6F",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "We could probably manage six, if we start next week."
+    },
+    {
+     "id": "FD5D187A-F62D-57BC-99E3-E32E6CFC7CAF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Do that. And finally, don't forget that there are other benefits of houseplants that might be worth mentioning, even if they're outside the focus of your project."
+    },
+    {
+     "id": "7B474504-6569-55B1-8268-C3B354766796",
+     "speaker": "Hannah",
+     "accent": "en-CA",
+     "text": "Yes, we found several studies suggesting that having plants around can improve people's mood and reduce stress. We thought we'd include those briefly in the introduction."
+    },
+    {
+     "id": "A61D2B39-D2B9-5B3B-9792-39608ECDD0AC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Just be careful to keep the focus on air quality. Now, when can I see a draft?"
+    },
+    {
+     "id": "A9727802-4A5C-5888-8546-BDDCCB4DFA2E",
+     "speaker": "Leo",
+     "accent": "en-GB",
+     "text": "We'd planned to finish the literature review by the end of this month."
+    },
+    {
+     "id": "04D8E3D5-23B9-59EF-B9B9-08120B5E7D28",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's fine. Email it to me, and we can meet again after that to look at your results."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice19-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did the students notice about articles on garden websites?",
+     "explanation": "Most articles cite the same NASA study.",
+     "evidenceQuote": "most of them refer back to the same source",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were mostly written by scientists.",
+      "B. Most of them were based on one study.",
+      "C. They disagreed about which plants work best."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Most of them were based on one study.",
+      "Most of them were based on one study."
+     ]
+    },
+    {
+     "id": "practice19-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did NASA carry out its research?",
+     "explanation": "NASA wanted clean air in space stations.",
+     "evidenceQuote": "NASA was interested in how to keep the air clean in space stations",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to sell plants to the public",
+      "B. to test the effects of chemicals on plants",
+      "C. to find ways of cleaning air in space"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to find ways of cleaning air in space",
+      "to find ways of cleaning air in space"
+     ]
+    },
+    {
+     "id": "practice19-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to Hannah, much of the cleaning effect in the NASA study came from",
+     "explanation": "Soil microorganisms did much of the work.",
+     "evidenceQuote": "from microorganisms living in the soil around the roots",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. tiny organisms in the soil.",
+      "B. the surface of the leaves.",
+      "C. the water given to the plants."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. tiny organisms in the soil.",
+      "tiny organisms in the soil."
+     ]
+    },
+    {
+     "id": "practice19-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What is the main reason the NASA results do not apply to homes?",
+     "explanation": "Homes are much larger and better ventilated than the chambers.",
+     "evidenceQuote": "The main problem is scale.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The plants used are no longer sold.",
+      "B. Homes are far bigger and have air flowing in and out.",
+      "C. The chemicals tested are not found in homes."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Homes are far bigger and have air flowing in and out.",
+      "Homes are far bigger and have air flowing in and out."
+     ]
+    },
+    {
+     "id": "practice19-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What is the students' overall view of the popular claim about houseplants?",
+     "explanation": "They think it has been exaggerated.",
+     "evidenceQuote": "We think it's been exaggerated rather than invented.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is completely false.",
+      "B. It is accurate.",
+      "C. It has been exaggerated."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It has been exaggerated.",
+      "It has been exaggerated."
+     ]
+    },
+    {
+     "id": "practice19-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Year of the NASA study: __________",
+     "explanation": "The study was from 1989.",
+     "evidenceQuote": "a NASA study from 1989",
+     "skillTag": "numbers",
+     "distractorNote": "2019 is the year of the later review.",
+     "options": [],
+     "acceptedAnswers": [
+      "1989"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Plants needed to match ventilation: 10 to 1,000 per square __________",
+     "explanation": "The figure is per square metre.",
+     "evidenceQuote": "between ten and a thousand plants per square metre of floor",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "metre"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Equipment: carbon dioxide monitors borrowed from the __________ department",
+     "explanation": "They borrowed them from engineering.",
+     "evidenceQuote": "We've borrowed two carbon dioxide monitors from the engineering department.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "engineering"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Students in the rooms should keep a __________ of window opening",
+     "explanation": "A diary will record window opening.",
+     "evidenceQuote": "keep a simple diary of when they open the window",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "New length of the experiment: __________ weeks",
+     "explanation": "They extend it to six weeks.",
+     "evidenceQuote": "We could probably manage six, if we start next week.",
+     "skillTag": "numbers",
+     "distractorNote": "Four weeks was the original plan.",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "air quality",
+    "pollutant",
+    "sealed chamber",
+    "ventilation",
+    "literature review"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice19-lp4",
+   "partNumber": 4,
+   "title": "How plants spread their seeds",
+   "contextDescription": "A lecture in an introductory botany course on the ways in which plants disperse their seeds.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "1F506A1D-4DEE-5E1E-8F44-A8D0E6D895C8",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon. Today's topic is seed dispersal: in other words, how plants manage to move their seeds away from the parent plant. Unlike animals, plants can't walk away to find new places to live, so the seed is really their only chance to travel. And it's important that seeds do travel, because a seedling that grows right next to its parent has to compete with it for light, water and nutrients, and it's also more likely to be attacked by pests and diseases that have built up around the older plant."
+    },
+    {
+     "id": "074AA2FE-D699-5FC3-975D-7E2665E5E14F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Plants have developed a remarkable range of ways of spreading their seeds, and we can group them into four main methods: wind, water, animals and what we might call self-dispersal."
+    },
+    {
+     "id": "49B18A5D-E375-5A10-9F18-8FEC98879F39",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Let's begin with wind. Seeds that are carried by the wind are usually small and light, and many have special structures that help them stay in the air for longer. The dandelion is a good example. Each seed is attached to a tiny umbrella of fine hairs, which acts like a parachute, and research has shown that these seeds can travel very long distances in the right conditions. Maple trees take a different approach. Their seeds have a single wing, and as they fall they spin like the blades of a helicopter. This spinning slows their fall, which gives the wind more time to carry them away from the tree. Orchids go to the extreme: their seeds are so small that they're almost like dust."
+    },
+    {
+     "id": "EB93C09C-810D-5A49-AC6C-895B8DE25FE7",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The second method is water. Plants that live by rivers, lakes or the sea often produce seeds or fruits that can float. The most famous example is the coconut. Its seed is surrounded by a thick, fibrous layer that traps air, which makes it buoyant, and a hard shell that keeps seawater out. Coconuts can float for weeks or even months and still germinate when they wash up on a beach, which is partly why coconut palms are found on tropical coasts all over the world."
+    },
+    {
+     "id": "7B7A8DF7-240C-5BEE-AF92-F8303F6F321A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Third, animals. This is probably the most varied group. Many plants produce fruits that are brightly coloured and sweet, to attract birds and mammals. The animal eats the fruit, and the seeds pass through its digestive system unharmed and are deposited somewhere else, along with a useful supply of fertiliser. In some species, seeds actually germinate better after passing through an animal's gut. Other plants rely on animals in a less friendly way. Their seeds are covered in small hooks, which catch in fur or feathers, or in people's clothing. In fact, in the 1940s, a Swiss engineer called George de Mestral noticed how burdock seeds stuck to his dog's fur after a walk. He looked at them under a microscope, saw the tiny hooks, and used the idea to invent Velcro."
+    },
+    {
+     "id": "E9F34094-3CC3-5B7E-B364-7BA05ACF867C",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Animals that store food also help. Squirrels and jays, for example, bury acorns and other nuts to eat in winter. They don't find all of them again, and the forgotten ones can grow into new trees. It's been estimated that jays are responsible for planting a large proportion of the oak trees in some European woodlands."
+    },
+    {
+     "id": "0FD3412F-D828-5866-A4E3-CDE2BE7E57DB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Finally, self-dispersal, where the plant itself throws its seeds away. Some plants have seed pods that dry out and twist as they ripen, until they suddenly split open and fire the seeds into the air. Gorse, a spiny shrub common in Britain, is known for this, and on a hot summer day you can actually hear the pods cracking. Another example is Himalayan balsam, whose ripe pods burst open when they're touched, scattering seeds several metres. That has helped it to spread rapidly along riverbanks in Europe, where it's now considered an invasive species."
+    },
+    {
+     "id": "D8B4C8AC-03DA-5073-94E7-C9DAA84F3A67",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Understanding dispersal isn't just of academic interest. It helps us to predict how plants will respond as the climate changes and suitable areas shift. And when animals that disperse seeds decline, the plants that depend on them can decline as well. In the next session, we'll look at this in more detail, with a case study from tropical forests."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice19-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "A seedling next to its parent competes with it for light, water and __________",
+     "explanation": "They compete for nutrients.",
+     "evidenceQuote": "to compete with it for light, water and nutrients",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nutrients"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Dandelion seeds have fine hairs that act like a __________",
+     "explanation": "The hairs act like a parachute.",
+     "evidenceQuote": "which acts like a parachute",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parachute"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Maple seeds spin like the blades of a __________",
+     "explanation": "They spin like helicopter blades.",
+     "evidenceQuote": "they spin like the blades of a helicopter",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "helicopter"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Orchid seeds are so small they are like __________",
+     "explanation": "Orchid seeds are like dust.",
+     "evidenceQuote": "they're almost like dust",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dust"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "The coconut's fibrous layer traps __________, so it floats",
+     "explanation": "Trapped air makes it buoyant.",
+     "evidenceQuote": "a thick, fibrous layer that traps air",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "air"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Seeds eaten by animals are deposited with a supply of __________",
+     "explanation": "Animal droppings provide fertiliser.",
+     "evidenceQuote": "along with a useful supply of fertiliser",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fertiliser"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "De Mestral studied burdock seeds under a __________",
+     "explanation": "He used a microscope.",
+     "evidenceQuote": "He looked at them under a microscope",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "microscope"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Jays and squirrels bury acorns and other __________",
+     "explanation": "They bury nuts.",
+     "evidenceQuote": "bury acorns and other nuts to eat in winter",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nuts"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Gorse: on a hot summer day you can __________ the pods cracking",
+     "explanation": "The pods can be heard cracking.",
+     "evidenceQuote": "you can actually hear the pods cracking",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hear"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Himalayan balsam has spread rapidly along __________ in Europe",
+     "explanation": "It spreads along riverbanks.",
+     "evidenceQuote": "spread rapidly along riverbanks in Europe",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "riverbanks"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "dispersal",
+    "germinate",
+    "buoyant",
+    "hook",
+    "seedling"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice19-rp1",
+   "passageNumber": 1,
+   "title": "The glass box that moved the world's plants",
+   "discipline": "History of Science & Botany",
+   "paragraphs": [
+    "In the early nineteenth century, moving living plants around the world was extremely difficult. Plant collectors working in Asia, Africa and the Americas could send home dried specimens and seeds without too much trouble, but living plants rarely survived the long sea voyages. They were exposed to salt spray, sudden changes in temperature and a shortage of fresh water, which sailors were usually unwilling to share. It has been estimated that only a small fraction of the living plants sent to Britain by sea at this time arrived alive.",
+    "The solution was discovered almost by accident. Nathaniel Bagshaw Ward was a London doctor with a passion for natural history, especially ferns. He had tried to grow ferns in his garden in the east of the city, but they died, poisoned by the smoke that poured from thousands of coal fires. Around 1829, he placed the cocoon of a moth in a sealed glass bottle with some moist soil, intending to watch the adult insect emerge. Some time later, he noticed that a small fern and some grass had begun to grow in the soil inside the bottle.",
+    "Ward was fascinated. The plants inside the bottle were thriving, even though he never watered them and the air of the city outside was badly polluted. He realised that the closed container had created its own tiny climate. During the day, water evaporated from the soil and the leaves, then condensed on the cool glass and ran back down into the soil, so that the plants were never short of moisture. At the same time, the glass protected them from the dirty air. According to Ward's own account, the fern lived in the bottle for several years without any attention.",
+    "Ward soon began building larger glazed cases made of wood and glass, and he decided to test whether they could protect plants on long journeys. In 1833 he packed two cases with British ferns and grasses and shipped them to Sydney, in Australia. After a voyage of several months, the plants arrived in good condition. The cases were then refilled with Australian plants for the return journey, and despite extreme changes in temperature during the voyage, most of these plants also reached London alive. In 1842 Ward published a book describing his discovery, and the containers became known as Wardian cases.",
+    "The consequences were enormous. For the first time, large numbers of living plants could be moved reliably between continents, and botanic gardens, nurseries and governments quickly took advantage of the new technology. The most famous example involves tea. At the time, China controlled almost all of the world's tea production, and the British East India Company was keen to grow tea in its own territories. In the late 1840s, the Scottish plant collector Robert Fortune travelled through parts of China, often in disguise, and sent thousands of tea plants and seeds to the Himalayas in India in Wardian cases. These plants helped to establish the tea industry of India.",
+    "Wardian cases were involved in other major transfers too. In 1876, seeds of the rubber tree were collected in Brazil and taken to the Royal Botanic Gardens at Kew, near London. Only a small proportion of them germinated, but the seedlings were sent in Wardian cases to Ceylon, now Sri Lanka, and to what is now Malaysia and Singapore. Within a few decades, plantations in South-East Asia had overtaken Brazil as the world's main source of natural rubber, with serious economic consequences for the Brazilian Amazon.",
+    "The cases also changed life at home. In Victorian Britain they became fashionable pieces of furniture, and many middle-class homes displayed decorative cases filled with ferns. Their popularity was helped by the abolition of a tax on glass in 1845, which made glass much cheaper. The result was a national obsession with ferns, which the writer Charles Kingsley named 'pteridomania', from the scientific word for ferns. Collectors stripped some woodlands of rare species, and books on how to identify and grow ferns sold in large numbers.",
+    "Wardian cases remained in use until well into the twentieth century, when air transport and plastic packaging gradually replaced them. Their legacy, however, is mixed. They made possible the spread of valuable crops and garden plants across the globe, but they also carried uninvited passengers, such as insects, fungi and weeds, which travelled along with the plants. Today, strict rules on moving plants between countries try to prevent the spread of pests and diseases, while the modern terrarium, a glass container for growing small plants indoors, is a direct descendant of Ward's simple bottle."
+   ],
+   "questions": [
+    {
+     "id": "practice19-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Sailors were often reluctant to give their drinking water to plants.",
+     "explanation": "Sailors did not want to share water.",
+     "evidenceQuote": "a shortage of fresh water, which sailors were usually unwilling to share",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice19-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Ward's ferns grew well in his London garden.",
+     "explanation": "The ferns in his garden died.",
+     "evidenceQuote": "but they died, poisoned by the smoke",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice19-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Ward had planned to grow a fern when he sealed the bottle.",
+     "explanation": "He wanted to watch the moth emerge.",
+     "evidenceQuote": "intending to watch the adult insect emerge",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice19-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Ward watered the plants in the bottle once a month.",
+     "explanation": "He never watered them.",
+     "evidenceQuote": "even though he never watered them",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice19-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The plants sent to Sydney in 1833 arrived in good condition.",
+     "explanation": "They arrived healthy.",
+     "evidenceQuote": "After a voyage of several months, the plants arrived in good condition.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice19-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Ward's book sold more copies than any other gardening book of its time.",
+     "explanation": "Sales of the book are not mentioned.",
+     "evidenceQuote": "In 1842 Ward published a book describing his discovery",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice19-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Robert Fortune sometimes travelled in China in disguise.",
+     "explanation": "He often wore a disguise.",
+     "evidenceQuote": "often in disguise",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice19-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Inside the case, water evaporated and then __________ on the glass",
+     "explanation": "Water condensed on the glass.",
+     "evidenceQuote": "then condensed on the cool glass",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "condensed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Rubber seeds were first taken from Brazil to __________",
+     "explanation": "They went to Kew.",
+     "evidenceQuote": "taken to the Royal Botanic Gardens at Kew",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Kew"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Rubber plantations in South-East Asia later overtook those in __________",
+     "explanation": "Asia overtook Brazil.",
+     "evidenceQuote": "had overtaken Brazil as the world's main source of natural rubber",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Brazil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Cases became cheaper after a __________ on glass was abolished in 1845",
+     "explanation": "The glass tax was abolished.",
+     "evidenceQuote": "the abolition of a tax on glass in 1845",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tax"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Kingsley called the fern craze '__________'",
+     "explanation": "He named it pteridomania.",
+     "evidenceQuote": "which the writer Charles Kingsley named 'pteridomania'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pteridomania"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The modern __________ is descended from Ward's bottle",
+     "explanation": "The terrarium descends from the case.",
+     "evidenceQuote": "the modern terrarium, a glass container for growing small plants indoors",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "terrarium"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 763,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice19-rp2",
+   "passageNumber": 2,
+   "title": "The hidden partnership beneath our feet",
+   "discipline": "Plant Ecology",
+   "paragraphs": [
+    "If you dig up a handful of soil from a forest floor and look at it closely, you may see fine white threads running through it. These are the hyphae of fungi, and many of them are connected to the roots of the plants growing above. This association between fungi and plant roots is called a mycorrhiza, from the Greek words for 'fungus' and 'root'. It is one of the most widespread partnerships in nature: the great majority of land plants, including most crops and trees, form mycorrhizas of some kind.",
+    "The arrangement benefits both partners. Fungal hyphae are much thinner than even the finest roots, so they can spread through the soil and reach into tiny spaces that roots cannot enter. They are particularly good at absorbing water and nutrients such as phosphorus and nitrogen, which they pass to the plant. In return, the plant supplies the fungus with sugars that it produces by photosynthesis. Because fungi cannot make their own food from sunlight, this supply is essential to them, and plants may give a significant share of the carbon they produce to their fungal partners.",
+    "The term mycorrhiza was introduced in 1885 by the German botanist Albert Bernhard Frank, who was among the first to suggest that the relationship was beneficial rather than a form of disease. Since then, scientists have identified two main types. In the first, the fungus actually enters the cells of the root, forming tiny branched structures inside them; this type is found in most herbs, grasses and crop plants. In the second, the fungus forms a dense covering around the outside of the root and grows between its cells; this is typical of many trees, including pines, oaks and birches.",
+    "The partnership is extremely ancient. Fossils from the Rhynie chert, a rock formation in Scotland about 400 million years old, contain some of the earliest known land plants, and fungi can be seen inside their tissues in structures very similar to those of modern mycorrhizas. Many scientists believe that fungal partners helped the first plants to move from water onto land, at a time when there was no proper soil and nutrients were hard to obtain.",
+    "In recent decades, the subject has attracted public attention for a different reason. In 1997, the Canadian forest ecologist Suzanne Simard and her colleagues published a study in the journal Nature showing that carbon could move between birch and Douglas fir trees in a forest in British Columbia, apparently through fungal connections between their roots. The journal described the idea on its cover as the 'wood wide web'. Over the following years, the notion of trees sharing resources and even communicating through underground networks became popular, and it was spread further by best-selling books, including Simard's own Finding the Mother Tree.",
+    "Not all scientists are convinced. In 2023, a review led by Justine Karst, with her colleagues Melanie Jones and Jason Hoeksema, examined the evidence for three widely repeated claims: that fungal networks connecting trees are common in forests, that resources passed through them help young trees to survive, and that older trees send resources preferentially to their own offspring. The authors concluded that the evidence for all three was weak or mixed, and that some popular accounts had gone well beyond what the research actually showed. They did not deny that mycorrhizas are important; their concern was that uncertain findings were being presented as established fact.",
+    "There is, however, no dispute about some of the more remarkable relationships. Orchids produce extremely small seeds that contain almost no stored food, and in nature they cannot germinate unless they are infected by a suitable fungus that supplies them with nutrients. Some plants have gone further still. The ghost plant of North America, for example, is completely white because it contains no chlorophyll and cannot carry out photosynthesis at all. Instead, it obtains all its carbon from fungi, which in turn obtain it from nearby trees.",
+    "These partnerships also matter for agriculture. Practices such as frequent ploughing and heavy use of chemical fertilisers can reduce the amount of mycorrhizal fungi in farm soils, because the fungal networks are broken up and plants that are given plenty of phosphorus have less need for their fungal partners. Some farmers and researchers are now exploring ways of encouraging these fungi, for example by reducing ploughing, in the hope of growing healthy crops with fewer chemical inputs. As with the debate over the wood wide web, the challenge is to separate promising ideas from proven results."
+   ],
+   "questions": [
+    {
+     "id": "practice19-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains what each partner gains.",
+     "evidenceQuote": "The arrangement benefits both partners.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. An exchange of food and minerals",
+      "An exchange of food and minerals"
+     ]
+    },
+    {
+     "id": "practice19-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers the naming and the two types.",
+     "evidenceQuote": "Since then, scientists have identified two main types.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Naming and classifying the relationship",
+      "Naming and classifying the relationship"
+     ]
+    },
+    {
+     "id": "practice19-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D discusses fossil evidence.",
+     "evidenceQuote": "The partnership is extremely ancient.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Evidence from the distant past",
+      "Evidence from the distant past"
+     ]
+    },
+    {
+     "id": "practice19-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes how the idea became popular.",
+     "evidenceQuote": "The journal described the idea on its cover as the 'wood wide web'.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A striking image captures public imagination",
+      "A striking image captures public imagination"
+     ]
+    },
+    {
+     "id": "practice19-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F presents the critical review.",
+     "evidenceQuote": "Not all scientists are convinced.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Questioning popular claims",
+      "Questioning popular claims"
+     ]
+    },
+    {
+     "id": "practice19-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes plants entirely dependent on fungi.",
+     "evidenceQuote": "Some plants have gone further still.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Plants that cannot survive alone",
+      "Plants that cannot survive alone"
+     ]
+    },
+    {
+     "id": "practice19-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H looks at farming.",
+     "evidenceQuote": "These partnerships also matter for agriculture.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Implications for the way we farm",
+      "Implications for the way we farm"
+     ]
+    },
+    {
+     "id": "practice19-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph B, fungal hyphae are useful to plants because they",
+     "explanation": "Hyphae reach spaces roots cannot.",
+     "evidenceQuote": "they can spread through the soil and reach into tiny spaces that roots cannot enter",
+     "skillTag": "detail",
+     "options": [
+      "A. produce sugars for the plant.",
+      "B. can reach parts of the soil that roots cannot.",
+      "C. protect roots from disease.",
+      "D. store water for long periods."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. can reach parts of the soil that roots cannot.",
+      "can reach parts of the soil that roots cannot."
+     ]
+    },
+    {
+     "id": "practice19-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did Albert Bernhard Frank suggest about mycorrhizas?",
+     "explanation": "He saw the relationship as beneficial.",
+     "evidenceQuote": "who was among the first to suggest that the relationship was beneficial rather than a form of disease",
+     "skillTag": "detail",
+     "options": [
+      "A. They were first found in Scotland.",
+      "B. They only occur in trees.",
+      "C. They are a kind of disease.",
+      "D. They help rather than harm plants."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They help rather than harm plants.",
+      "They help rather than harm plants."
+     ]
+    },
+    {
+     "id": "practice19-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What was the main concern of Karst and her colleagues?",
+     "explanation": "They worried that uncertain results were treated as fact.",
+     "evidenceQuote": "their concern was that uncertain findings were being presented as established fact",
+     "skillTag": "detail",
+     "options": [
+      "A. Uncertain results were being treated as proven.",
+      "B. Mycorrhizas are less important than believed.",
+      "C. Simard's 1997 study contained errors in its data.",
+      "D. Too little money was spent on forest research."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Uncertain results were being treated as proven.",
+      "Uncertain results were being treated as proven."
+     ]
+    },
+    {
+     "id": "practice19-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Orchid seeds need a fungus to germinate because they contain almost no __________.",
+     "explanation": "Orchid seeds have almost no stored food.",
+     "evidenceQuote": "contain almost no stored food",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stored food"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice19-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "The ghost plant is white because it has no __________.",
+     "explanation": "It lacks chlorophyll.",
+     "evidenceQuote": "it contains no chlorophyll",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chlorophyll"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice19-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Frequent ploughing can damage mycorrhizas by breaking up the __________.",
+     "explanation": "Ploughing breaks up the networks.",
+     "evidenceQuote": "the fungal networks are broken up",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fungal networks"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 753,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Evidence from the distant past",
+      "ii. Plants that cannot survive alone",
+      "iii. An exchange of food and minerals",
+      "iv. Fungi that attack crops",
+      "v. Questioning popular claims",
+      "vi. Implications for the way we farm",
+      "vii. Naming and classifying the relationship",
+      "viii. Why forests are disappearing",
+      "ix. A striking image captures public imagination"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice19-rp3",
+   "passageNumber": 3,
+   "title": "Should we judge plants by where they come from?",
+   "discipline": "Conservation Biology",
+   "paragraphs": [
+    "Walk along almost any riverbank in Britain in late summer and you are likely to see tall stems of Himalayan balsam, with their pink flowers and exploding seed pods. Nearby, there may be dense stands of Japanese knotweed, and in the woods, thick clumps of rhododendron. All three plants were brought to Britain deliberately, as attractive additions to gardens, and all three are now widely regarded as serious pests. They are examples of what ecologists call invasive species: organisms introduced by humans to places outside their natural range, where they spread and cause harm.",
+    "The study of invasions is often traced back to the British ecologist Charles Elton, whose book The Ecology of Invasions by Animals and Plants, published in 1958, warned that the movement of species around the world was one of the great forces changing nature. Since then, the evidence of harm has grown. A major report published in 2023 by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, a United Nations-backed body, concluded that invasive species had been a major factor in around sixty per cent of recorded extinctions of plants and animals, and that they cost the world economy more than four hundred billion dollars a year.",
+    "It is important, however, to keep this in proportion. Most introduced species never become a problem. In the 1990s, the ecologists Mark Williamson and Alastair Fitter proposed what they called the 'tens rule': roughly one in ten introduced species becomes established in the wild, and roughly one in ten of those becomes a pest. The figures are only approximate, but they make a useful point. The vast majority of the plants growing in our gardens, from potatoes and tomatoes to roses and tulips, were brought from elsewhere and cause no harm at all.",
+    "In 2011, a group of nineteen ecologists led by Mark Davis published a short article in Nature with the provocative title 'Don't judge species on their origins'. They argued that conservationists had become too focused on whether a species was native or not, and that they should instead judge each species by its effects on the environment, on human health and on the economy. Some introduced species, they pointed out, provide benefits; in parts of the south-western United States, for example, an endangered bird, the south-western willow flycatcher, frequently nests in tamarisk, an introduced tree that many land managers have spent large sums trying to remove.",
+    "The article provoked a sharp response. Daniel Simberloff, a leading invasion biologist, organised a reply signed by more than a hundred and forty scientists, who argued that the authors had misrepresented the field. Most conservationists, they said, already concentrated on harmful species, and the origin of a species is relevant because introduced species are far more likely than native ones to cause dramatic and unexpected damage. Other writers have taken the opposite side. The British botanist Ken Thompson, in his book Where Do Camels Belong?, questioned whether the distinction between native and alien species is as meaningful as is often assumed, while the ecologist Chris Thomas has argued that, in many regions, human activity has actually increased the number of plant species.",
+    "In my view, both sides are partly right. Davis and his colleagues are correct that being non-native is not, in itself, evidence of harm, and that money spent attacking harmless species would be better used elsewhere. Yet Simberloff's group is also right that origin matters, because plants that have arrived without the insects and diseases that controlled them in their native range can spread in ways that native plants rarely do. Japanese knotweed is a case in point. In Britain it has almost no natural enemies, and because the plants here appear to be a single female clone, it spreads not by seed but from small fragments of stem and root, often carried in soil.",
+    "The case of knotweed also shows how fear can run ahead of evidence. Its reputation for forcing its way through concrete and damaging houses has made it notorious, and some homeowners have found their properties difficult to sell. Some recent research, however, suggests that its threat to buildings has been exaggerated, and that it causes no more damage than many other large plants. Meanwhile, scientists have released a tiny insect from Japan that feeds only on knotweed, in the hope of controlling it naturally. I believe this careful, evidence-based approach is far more useful than alarm.",
+    "What does this mean for gardeners? Clearly, nobody should plant species that are known to be invasive, and in many countries it is now illegal to do so. Beyond that, however, there is no reason to feel guilty about growing plants from other parts of the world. In my view, the sensible question to ask about any plant is not where it comes from, but what it does. Gardeners who choose a mix of plants that provide food for insects and birds, whatever their origin, may do more for wildlife than those who insist on growing only native species."
+   ],
+   "questions": [
+    {
+     "id": "practice19-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "suggested that only a small proportion of introduced species become harmful",
+     "explanation": "Williamson and Fitter proposed the tens rule.",
+     "evidenceQuote": "proposed what they called the 'tens rule'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Mark Williamson and Alastair Fitter",
+      "Mark Williamson and Alastair Fitter"
+     ]
+    },
+    {
+     "id": "practice19-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "wrote an early book identifying the spread of species as a major threat to nature",
+     "explanation": "Elton's 1958 book is seen as the start of invasion studies.",
+     "evidenceQuote": "warned that the movement of species around the world was one of the great forces changing nature",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Charles Elton",
+      "Charles Elton"
+     ]
+    },
+    {
+     "id": "practice19-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "argued that species should be assessed by their impacts rather than their origins",
+     "explanation": "Davis and colleagues argued this in Nature.",
+     "evidenceQuote": "they should instead judge each species by its effects on the environment",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Mark Davis and colleagues",
+      "Mark Davis and colleagues"
+     ]
+    },
+    {
+     "id": "practice19-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "claimed that people have increased plant diversity in many places",
+     "explanation": "Chris Thomas made this argument.",
+     "evidenceQuote": "human activity has actually increased the number of plant species",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Chris Thomas",
+      "Chris Thomas"
+     ]
+    },
+    {
+     "id": "practice19-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "led a group that defended the importance of a species' origin",
+     "explanation": "Simberloff organised the reply.",
+     "evidenceQuote": "organised a reply signed by more than a hundred and forty scientists",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Daniel Simberloff",
+      "Daniel Simberloff"
+     ]
+    },
+    {
+     "id": "practice19-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Neither side in the 2011 debate was entirely wrong.",
+     "explanation": "The writer says both are partly right.",
+     "evidenceQuote": "In my view, both sides are partly right.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice19-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The fact that a plant is non-native proves that it is harmful.",
+     "explanation": "Non-native status alone is not evidence of harm.",
+     "evidenceQuote": "being non-native is not, in itself, evidence of harm",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice19-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Using an insect to control knotweed is a reasonable approach.",
+     "explanation": "The writer supports the evidence-based approach.",
+     "evidenceQuote": "I believe this careful, evidence-based approach is far more useful than alarm.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice19-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "The insect released to control knotweed has already succeeded.",
+     "explanation": "Its success is not reported.",
+     "evidenceQuote": "in the hope of controlling it naturally",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice19-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Gardeners should grow only native plants.",
+     "explanation": "The writer rejects a native-only approach.",
+     "evidenceQuote": "there is no reason to feel guilty about growing plants from other parts of the world",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice19-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "The three plants were first brought to Britain to be grown in __________.",
+     "explanation": "They were introduced for gardens.",
+     "evidenceQuote": "as attractive additions to gardens",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gardens"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "An endangered bird often builds its nest in __________, an introduced tree.",
+     "explanation": "The flycatcher nests in tamarisk.",
+     "evidenceQuote": "frequently nests in tamarisk",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tamarisk"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "In Britain, Japanese knotweed has almost no natural __________.",
+     "explanation": "It lacks natural enemies.",
+     "evidenceQuote": "it has almost no natural enemies",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "enemies"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice19-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "British knotweed spreads from small __________ of stem and root.",
+     "explanation": "It spreads from fragments.",
+     "evidenceQuote": "from small fragments of stem and root",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fragments"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 833,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person or people, A–F.",
+     "options": [
+      "A. Charles Elton",
+      "B. Mark Williamson and Alastair Fitter",
+      "C. Mark Davis and colleagues",
+      "D. Daniel Simberloff",
+      "E. Ken Thompson",
+      "F. Chris Thomas"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice19-w1",
+  "title": "Making garden compost",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how garden and kitchen waste is turned into compost in a home compost bin. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Kitchen scraps and garden waste are collected",
+   "Green and brown materials are added to the bin in layers",
+   "The bin is kept moist and covered",
+   "Bacteria and fungi begin to break down the waste and the heap warms up",
+   "The heap is turned with a fork every few weeks to add air",
+   "Worms and insects move in and break the material down further",
+   "After six to twelve months, dark crumbly compost forms at the bottom",
+   "The finished compost is removed and spread on the garden"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, from collecting waste to spreading finished compost on the garden.",
+   "It is largely natural, relying on microorganisms and small creatures, and takes six months to a year."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice19-w2",
+  "title": "Gardening at school",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Education & Environment",
+  "promptText": "Some people believe that every school should have a garden and that all children should learn how to grow plants and food. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice19-spk",
+  "theme": "Plants and gardens",
+  "part1Questions": [
+   "Do you have any plants in your home?",
+   "Did you grow any plants when you were a child?",
+   "Are there many parks or gardens in your area?",
+   "Do you ever buy flowers for other people?",
+   "Which season do you think is the most beautiful in your country?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a park or garden that you enjoy visiting.",
+   "bulletPoints": [
+    "where it is",
+    "what it looks like",
+    "what you do there",
+    "and explain why you enjoy going there"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are green spaces important in cities?",
+   "Should governments spend more money on public parks?",
+   "Why do fewer young people grow their own food today?",
+   "How can people living in flats enjoy gardening?",
+   "Do you think cities will have more or fewer green spaces in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and scientific findings are checked against standard reference sources.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,1925 @@
+{
+ "id": "exam80",
+ "examNumber": 80,
+ "pool": "mock",
+ "title": "Mock Exam 80: The Sound and Geography of Language",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "The Sound and Geography of Language",
+ "listeningParts": [
+  {
+   "id": "exam80-lp1",
+   "partNumber": 1,
+   "title": "Ordering a language reference book",
+   "contextDescription": "A customer calls an independent bookshop to order a reference book as a gift.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "4F3E3C95-4D81-59EC-9739-0A660F872DB8",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "Bracken Books, good morning. I'm serving at the desk, but I can check a title for you if you have its details. If you want to reserve something already in the shop, we can hold it until the end of the following day without payment."
+    },
+    {
+     "id": "B7126914-EDCF-55D4-B7C7-4A721435EE98",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "I'm hoping to buy a language reference book for my nephew. He's starting a course and sent me a photograph of the cover, but it doesn't show the identifying number. The title is Everyday Sounds. There seem to be several editions, and I don't want to choose the wrong one simply because the covers look similar."
+    },
+    {
+     "id": "481D66C9-3812-5FDD-BA08-4140C9C4BC48",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "Let me check. There is a pocket edition and a larger student edition. The student edition has a blue cover and includes access to recordings. The pocket edition is green and has a shorter introduction, though the publisher's name is the same. Has your nephew said which one the course recommends?"
+    },
+    {
+     "id": "C53AF9DA-DE9C-5FAF-B2CB-02DAB4215BC4",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "He said the student edition, the one with recordings. The photograph is blue, so that sounds right. I saw it advertised for twenty-four pounds somewhere. Is that what you charge, or was that a different version?"
+    },
+    {
+     "id": "AE382073-649E-5AA9-B76D-0A0FE56887E2",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "The student edition is twenty-nine pounds. Twenty-four is the pocket edition. We don't have the student version on the shelf at the moment, but the supplier lists it as available. I can order it today. We normally receive that delivery on Wednesday, although we will call you rather than promise that a supplier's estimate is certain."
+    },
+    {
+     "id": "148DA6C0-C622-58A3-9035-372ECBA3072E",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "I'd appreciate that. His birthday is at the weekend, and I can collect on Thursday if it arrives. If there is a delay, I could give him a card saying the book is on its way. I would rather have the correct edition than substitute one he can't use."
+    },
+    {
+     "id": "AD303A4D-7167-5D47-92EE-557D13FDF17F",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "That's sensible. We need a five-pound deposit for a special order. You pay the balance when you collect. We can take the deposit through a payment link; I wouldn't ask you to read card details aloud on this line while other customers are beside the desk. What name should I put on the order?"
+    },
+    {
+     "id": "2669105D-20F9-58F7-AFA9-0DA8B0AF0294",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "It's Helen Wetherby. That's W-E-T-H-E-R-B-Y. The initial is H, not E, if you're entering it. I can give you my email for the payment link, and my mobile number for the arrival message."
+    },
+    {
+     "id": "4FC7406A-8CE5-5B8A-9533-19FABD400F56",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "Thank you, Helen. You mentioned it is a gift. Would you like us to wrap it? We have plain paper and ribbon, and the wrapping service is free for books bought here. We don't put the price on the outside, but we'll give you the receipt separately."
+    },
+    {
+     "id": "8FEE848B-EDAD-5CC9-869F-5B2D073378AE",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "Yes, please. Plain paper would be lovely. Does the recording access require a disc? My nephew uses a small laptop without a disc drive, and I don't want to discover he needs extra equipment just to use the material."
+    },
+    {
+     "id": "D48C94D5-DB85-5BC0-A7D2-A9ECF5A40188",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "The current student edition uses a code printed inside the cover to access recordings online. There isn't a disc. Your nephew should follow the publisher's instructions before discarding any inserts. We can't activate the code for you because it is intended for the reader's own account."
+    },
+    {
+     "id": "69E3A1A8-6810-5DFB-AB90-A11FE61874D1",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "That should be fine. Where do I collect a special order? I know the main counter, but last time I came there was building work at the back and another desk upstairs. I don't want to queue in the wrong place."
+    },
+    {
+     "id": "33412D1C-A476-5530-9140-FA1F29A94DF9",
+     "speaker": "Bookseller",
+     "accent": "en-GB",
+     "text": "Collect it from the downstairs counter, the one beside the staircase. The upstairs desk is for event tickets. If someone else comes for you, give them the order reference from the email. We can find the book by name, but the reference is more reliable when several people have similar names."
+    },
+    {
+     "id": "02FDC7A3-277E-510A-AF0E-97FD4B5D466D",
+     "speaker": "Customer",
+     "accent": "en-IE",
+     "text": "I'll collect it myself if possible. Please send the payment link, and I'll wait for the arrival message before making the journey. Thanks for taking the time to check the edition; a different cover colour wouldn't have meant much to me without the explanation."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam80-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Required version: the __________ edition.",
+     "explanation": "The pocket edition is not the required book.",
+     "evidenceQuote": "He said the student edition",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "student"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Correct cover colour: __________.",
+     "explanation": "Green is the pocket edition.",
+     "evidenceQuote": "The student edition has a blue cover",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Price of the required book: £__________.",
+     "explanation": "£24 is a different edition.",
+     "evidenceQuote": "The student edition is twenty-nine pounds.",
+     "skillTag": "note_completion",
+     "distractorNote": "The pocket edition costs £24.",
+     "options": [],
+     "acceptedAnswers": [
+      "29"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Supplier delivery normally arrives on __________.",
+     "explanation": "The seller will confirm actual arrival.",
+     "evidenceQuote": "delivery on Wednesday",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Special-order deposit: £__________.",
+     "explanation": "The remaining balance is paid at collection.",
+     "evidenceQuote": "a five-pound deposit",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "five",
+      "5"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Order surname: Helen __________.",
+     "explanation": "The customer spells Wetherby.",
+     "evidenceQuote": "Helen Wetherby. That's W-E-T-H-E-R-B-Y.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Wetherby"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "The book will be wrapped in plain __________.",
+     "explanation": "Wrapping is requested.",
+     "evidenceQuote": "Plain paper would be lovely.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "paper"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Online recordings are accessed using a __________.",
+     "explanation": "No disc is supplied.",
+     "evidenceQuote": "uses a code printed inside the cover",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "code"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Collect at the counter beside the __________.",
+     "explanation": "The upstairs desk handles events.",
+     "evidenceQuote": "the one beside the staircase",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "staircase"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Another collector should bring the order __________.",
+     "explanation": "The reference reliably identifies the order.",
+     "evidenceQuote": "give them the order reference",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reference"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam80-lp2",
+   "partNumber": 2,
+   "title": "Visiting the local voices exhibition",
+   "contextDescription": "An exhibition guide introduces displays about regional speech.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "DFCE1A38-E69F-5E92-AB9C-545C3FF0062B",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Welcome to Local Voices. The exhibition explores ways people speak in and around this region. It is not a competition to find the most authentic speaker, and we do not ask visitors to rank accents. You may hear words you use yourself, words remembered from relatives or unfamiliar expressions from a nearby place. The point is to notice variation and the experiences associated with it, rather than assume that one village or generation owns the only correct form."
+    },
+    {
+     "id": "E8A91065-36E4-5D61-A5EF-4E2FB1D6C7EE",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The first room contains a listening wall. Each button plays a short recording, and the label identifies the broad area and the date of the recording. The oldest voices and the newest ones are deliberately mixed, so read the date instead of judging age from sound quality. Some modern recordings were made outdoors, while an older studio recording may be clearer. A crackle does not by itself tell you when someone spoke."
+    },
+    {
+     "id": "B534C9DD-31FD-51A8-AE27-B66AD27D2EDA",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Use the headphones hanging beneath each button. The speakers are kept off because several recordings playing aloud at once would make the room difficult to use. If headphones are unsuitable for you, ask at the desk about the quieter listening station. We also provide written versions, but these are a way of finding the subject of a recording, not a complete replacement for hearing its rhythm and pronunciation."
+    },
+    {
+     "id": "A9C615A4-FFEF-5990-91C7-72FB70F1231B",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "In the map room, movable word cards can be placed beside areas where visitors have heard an expression. Those cards represent contributions to the exhibition. They are not the results of a completed scientific survey, and we don't remove a card simply because another visitor associates the word with a different place. A word can travel, and people can remember different parts of its history. Tell the volunteer if you would like to add a short explanation with your card."
+    },
+    {
+     "id": "E004C713-20E0-500A-BA72-E071BF0D5589",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The third room is about making a recording. There is a demonstration microphone and a sample questionnaire. Visitors can try answering one question, but the practice device does not save their voice. A separate project is collecting recordings for an archive, and that requires a conversation with a member of staff and a consent form. Please don't mistake trying the equipment for agreeing to have your speech kept or published."
+    },
+    {
+     "id": "13E7A6B5-FFC9-5C0A-AF9D-AE536E96F716",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "At the end of the corridor is the family table, where people can discuss expressions used at home. Children are welcome, but adults should avoid turning the activity into a test of whether a child remembers the proper family word. We provide prompt cards about food, weather and games, and people can draw as well as write. The activity is intended to encourage conversation between generations, including different recollections. Some families have found that grandparents and grandchildren remember quite different words for the same thing, and those differences often lead to the most interesting conversations of all."
+    },
+    {
+     "id": "7D2D5D2F-B747-59A5-BF60-23A100CDCF5E",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Two talks take place today. The morning talk looks at the work of field collectors and how questions were prepared. The afternoon talk examines the use of local speech in fiction. Both are in the lecture room, and both have free tickets available at reception. We ask you to take a ticket even if a seat seems empty, because a reserved place may belong to someone who has briefly stepped outside."
+    },
+    {
+     "id": "709468DC-A3BD-5C3C-A93D-8751DC741370",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The exhibition notebook is beside the exit. If you comment, tell us what you noticed or what you would like explained more clearly. Please don't write private contact details there, as other visitors can read it. If you want staff to contact you about contributing to the archive, use the separate enquiry form. We hope you leave with more interest in the voices around you, not a set of judgements about which ones deserve to be heard."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam80-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Dated short recordings",
+     "explanation": "The listening wall contains dated recordings.",
+     "evidenceQuote": "The first room contains a listening wall.",
+     "skillTag": "matching",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Listening wall",
+      "Listening wall"
+     ]
+    },
+    {
+     "id": "exam80-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Visitor contributions showing where a word was heard",
+     "explanation": "Word cards are in the map room.",
+     "evidenceQuote": "In the map room, movable word cards",
+     "skillTag": "matching",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Map room",
+      "Map room"
+     ]
+    },
+    {
+     "id": "exam80-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Equipment that allows practice without saving a voice",
+     "explanation": "The recording demonstration does not retain practice speech.",
+     "evidenceQuote": "The third room is about making a recording.",
+     "skillTag": "matching",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Recording demonstration",
+      "Recording demonstration"
+     ]
+    },
+    {
+     "id": "exam80-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Prompts for discussion between generations",
+     "explanation": "The family table supports intergenerational conversation.",
+     "evidenceQuote": "At the end of the corridor is the family table",
+     "skillTag": "matching",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Family table",
+      "Family table"
+     ]
+    },
+    {
+     "id": "exam80-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Comments that other visitors can read",
+     "explanation": "The public notebook is for exhibition comments.",
+     "evidenceQuote": "The exhibition notebook is beside the exit.",
+     "skillTag": "matching",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Exhibition notebook",
+      "Exhibition notebook"
+     ]
+    },
+    {
+     "id": "exam80-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What warning does the guide give about recording quality?",
+     "explanation": "Sound quality does not reliably date a recording.",
+     "evidenceQuote": "A crackle does not by itself tell you when someone spoke.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every older recording is clearer.",
+      "B. Noise alone does not establish a recording’s age.",
+      "C. Outdoor recordings are always unusable."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Noise alone does not establish a recording’s age.",
+      "Noise alone does not establish a recording’s age."
+     ]
+    },
+    {
+     "id": "exam80-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "How should conflicting locations on word cards be treated?",
+     "explanation": "Different experiences may both be retained.",
+     "evidenceQuote": "we don’t remove a card simply because another visitor associates the word with a different place",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The oldest visitor must decide.",
+      "B. Only the nearest place may remain.",
+      "C. Different remembered associations can be preserved."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Different remembered associations can be preserved.",
+      "Different remembered associations can be preserved."
+     ]
+    },
+    {
+     "id": "exam80-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What is required to contribute a saved archive recording?",
+     "explanation": "The archive project is separate from unsaved practice.",
+     "evidenceQuote": "a consent form",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A staff discussion and consent.",
+      "B. Using the demonstration microphone once.",
+      "C. Writing a name in the public notebook."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A staff discussion and consent.",
+      "A staff discussion and consent."
+     ]
+    },
+    {
+     "id": "exam80-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Listening equipment: use the __________ under each button.",
+     "explanation": "Speakers are switched off to avoid competing sound.",
+     "evidenceQuote": "Use the headphones hanging beneath each button.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "headphones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "The afternoon talk examines regional speech in __________.",
+     "explanation": "The morning talk concerns field collectors.",
+     "evidenceQuote": "local speech in fiction",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fiction"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Match each item with its location or purpose, A–F.",
+     "options": [
+      "A. Map room",
+      "B. Exhibition notebook",
+      "C. Family table",
+      "D. Listening wall",
+      "E. Private enquiry form",
+      "F. Recording demonstration"
+     ]
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "instruction": "Questions 16–18. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "instruction": "Questions 19–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam80-lp3",
+   "partNumber": 3,
+   "title": "Preparing a short phonetic transcription task",
+   "contextDescription": "Two linguistics students discuss an introductory class exercise with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "9C01783B-8D79-581E-A8EB-0EE5EE98A825",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "For your introductory exercise, you don't need to teach the whole phonetic alphabet. Choose one distinction and build a task around it. The aim is to show classmates how a transcription can make attention to sound more precise, not to reward whoever memorises the largest number of unfamiliar symbols before the session."
+    },
+    {
+     "id": "BB11DEC7-8EC5-5AD5-853E-92361B7ECA31",
+     "speaker": "Sara",
+     "accent": "en-GB",
+     "text": "We thought of comparing spelling and pronunciation using a few ordinary English words. That would show why copying the letters isn't the same as describing the sounds. We can avoid asking classmates to read a long passage, because reading style might become an extra issue we aren't prepared to analyse."
+    },
+    {
+     "id": "DB30EFF1-D64C-5AFF-A8F5-287E1829550E",
+     "speaker": "Ben",
+     "accent": "en-CA",
+     "text": "Our first idea used words from three languages, but neither of us knows enough about two of them. We'd risk presenting our own guesses as accurate examples. So we'll use a small English set we can check with the tutor and a reliable pronunciation source. We should identify which variety the source describes."
+    },
+    {
+     "id": "46535EBF-7339-568A-B125-8D6A2300638B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. A pronunciation example is not a claim that every speaker must sound identical. Also distinguish the sound you are studying from the spelling that suggests it. If you ask for a word ending in a particular letter, you may receive examples whose final sounds differ. Make the question about what is heard, not merely what is written."
+    },
+    {
+     "id": "ECBA4C75-8187-5CD8-B93B-5B378916C324",
+     "speaker": "Sara",
+     "accent": "en-GB",
+     "text": "We'll start with two recordings and ask people whether the target sound is the same or different. Then we'll show the relevant symbols and explain what contrast we intend them to represent. We don't need to imply that the symbols describe every detail of the voices."
+    },
+    {
+     "id": "F273EF85-59CA-577E-8E62-D7BAD33C521B",
+     "speaker": "Ben",
+     "accent": "en-CA",
+     "text": "For the recording, should we use our own voices? That would avoid a permission issue with downloading someone else's sound file, but we still need to be clear that our voices are examples rather than a model of the only acceptable accent."
+    },
+    {
+     "id": "959C8398-1E79-5FD3-A872-278FC494DCE2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Using your own recordings is fine for this classroom task. Record in the same room with the microphone at a consistent distance. Otherwise, a difference in loudness or background noise may draw attention away from the feature you want people to compare. Listen back before deciding that a take is suitable."
+    },
+    {
+     "id": "65A657F3-171D-50B1-9645-231324A23830",
+     "speaker": "Sara",
+     "accent": "en-GB",
+     "text": "We'll make a trial recording this afternoon. I think a short pause between words will help people hear the boundaries, but we shouldn't leave such a long pause that the whole exercise becomes slow. We can ask one classmate to try it and tell us whether the instructions are clear."
+    },
+    {
+     "id": "E149FDED-D6BA-548A-9037-1DE51D5D450F",
+     "speaker": "Ben",
+     "accent": "en-CA",
+     "text": "What should go on the handout? I was going to print the entire chart, but that may be distracting for a task using only a few symbols. Perhaps a small key would be more useful, with a reference to the full chart for anyone interested."
+    },
+    {
+     "id": "63D08BAC-D6BA-5052-9E2C-E1C45F914FDA",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That sounds appropriate. Make sure the symbols print correctly. A font change can turn a carefully chosen symbol into an empty box or another mark. Check the actual printed sheet, not just the document on your own screen. You should also have a plain-language explanation of the distinction so nobody is excluded simply because the notation is new."
+    },
+    {
+     "id": "B747CA83-4E8B-5A11-9DEA-9F155AC35D23",
+     "speaker": "Sara",
+     "accent": "en-GB",
+     "text": "At the end, we can ask what the notation helped them notice. We shouldn't give a band or a language proficiency score from a tiny exercise like this. It is an introduction to a tool for describing speech, not an assessment of someone's general ability to communicate."
+    },
+    {
+     "id": "E468EB9C-AC4F-5BAB-8962-A9F85B726DDD",
+     "speaker": "Ben",
+     "accent": "en-CA",
+     "text": "Then our preparation list is manageable: choose and check examples, record them consistently, test the instructions and print the handout. We'll keep the final discussion focused on the relationship between a notation and a listening task, rather than opening a debate about which accent people prefer. If we finish early, we could play the recordings a second time and ask whether people noticed anything new on a second listening."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam80-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor recommend for the exercise’s scope?",
+     "explanation": "A limited focus is more useful than attempting the entire alphabet.",
+     "evidenceQuote": "Choose one distinction",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Teach every symbol in the chart.",
+      "B. Concentrate on one sound distinction.",
+      "C. Test classmates’ knowledge of three languages."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Concentrate on one sound distinction.",
+      "Concentrate on one sound distinction."
+     ]
+    },
+    {
+     "id": "exam80-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why do Sara and Ben reject their first multilingual idea?",
+     "explanation": "Their knowledge would not support accurate examples.",
+     "evidenceQuote": "neither of us knows enough about two of them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Their knowledge of some languages is insufficient.",
+      "B. All multilingual examples are unsuitable.",
+      "C. The class has already memorised those words."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Their knowledge of some languages is insufficient.",
+      "Their knowledge of some languages is insufficient."
+     ]
+    },
+    {
+     "id": "exam80-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor warn about asking for words by their final letter?",
+     "explanation": "The same written letter need not correspond to the same final sound.",
+     "evidenceQuote": "examples whose final sounds differ",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every answer will be the same word.",
+      "B. Participants will necessarily use another language.",
+      "C. Spelling may not identify the sound being studied."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Spelling may not identify the sound being studied.",
+      "Spelling may not identify the sound being studied."
+     ]
+    },
+    {
+     "id": "exam80-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why should recording conditions remain consistent?",
+     "explanation": "Unrelated acoustic differences could distract from the target contrast.",
+     "evidenceQuote": "draw attention away from the feature",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To remove all differences between accents.",
+      "B. To avoid distractions from the intended contrast.",
+      "C. To produce a commercial language course."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. To avoid distractions from the intended contrast.",
+      "To avoid distractions from the intended contrast."
+     ]
+    },
+    {
+     "id": "exam80-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What should the students check about the handout?",
+     "explanation": "Symbols can fail to print as intended.",
+     "evidenceQuote": "Check the actual printed sheet",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. That the symbols survive printing correctly.",
+      "B. That it contains no plain-language explanation.",
+      "C. That every possible symbol is included."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. That the symbols survive printing correctly.",
+      "That the symbols survive printing correctly."
+     ]
+    },
+    {
+     "id": "exam80-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Identify the pronunciation source’s language __________.",
+     "explanation": "Pronunciation sources describe a particular variety.",
+     "evidenceQuote": "which variety the source describes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "variety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Keep microphone __________ consistent.",
+     "explanation": "Distance is part of consistent recording conditions.",
+     "evidenceQuote": "at a consistent distance",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Use a small symbol __________ on the handout.",
+     "explanation": "A focused key can be clearer than the complete chart.",
+     "evidenceQuote": "a small key",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "key"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "A changed __________ may alter a symbol’s appearance.",
+     "explanation": "The actual printout should be checked.",
+     "evidenceQuote": "A font change",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "font"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "The task introduces a tool, not a general proficiency __________.",
+     "explanation": "A tiny exercise does not establish overall communication ability.",
+     "evidenceQuote": "not an assessment",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "assessment"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam80-lp4",
+   "partNumber": 4,
+   "title": "Words as units in connected speech",
+   "contextDescription": "A lecturer introduces the difference between spaces in writing and the flow of speech.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "0805BCB2-7FFE-59B7-850F-66DDB61A04C7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "On a printed page, spaces help us see where one word ends and another begins. When we listen, the situation is different. Ordinary connected speech does not contain a matching silence at every printed space. A speaker produces a flow in which sounds are influenced by neighbouring sounds and by rhythm. This helps explain why a learner may recognise each word on a page yet find the same sequence difficult to follow when it is spoken naturally."
+    },
+    {
+     "id": "EF711627-A56E-5E43-A0FA-C9E0752521C3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "First, distinguish a pause from a word boundary. A speaker may pause in the middle of an idea to plan what comes next, while several short words can be spoken without a break. If we treat every silence as punctuation and every uninterrupted stretch as one word, we will describe neither the writing nor the speech very well. Listening requires attention to several kinds of information, including the likely grammar and meaning of the sequence."
+    },
+    {
+     "id": "B3127664-8FE6-5F5F-80A6-4BE216D8AE32",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Stress can make some parts more prominent than others. In an ordinary phrase, not every word receives equal emphasis. A speaker can also shift prominence to make a contrast, for example when correcting which object they meant. The written sentence may remain the same while the listener hears a different focus. A transcript that contains only the words can preserve the sequence without recording every aspect of that focus. It is therefore useful to know what kind of detail a transcription is intended to show."
+    },
+    {
+     "id": "E643C1CF-E66D-5B71-90E0-D4938F85E68B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Sounds may change in the company of other sounds. For an introductory class, the important point is not to memorise a long list of changes, but to compare a word spoken alone with the same word in a phrase. The isolated version is useful for examining one form, while the phrase shows a different practical setting. Neither should automatically be dismissed as careless. The relationship depends on the language, the variety and the style of the particular utterance."
+    },
+    {
+     "id": "EFA4F4DE-BE19-577C-8EFB-5A1624478BEA",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Examples should be short enough for a listener to compare. Repeating a whole paragraph when the question concerns a single junction between words can make the relevant feature difficult to locate. A carefully chosen extract lets the class listen more than once and discuss what they notice. It should still be identified as an extract, because removing its surrounding conversation can remove information that helped the original listener understand it."
+    },
+    {
+     "id": "64A85E93-B22A-52A2-8E3D-C229657A368C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Recording quality matters, but it does not create a universal model of speech. A quiet room can make a contrast easier to hear, yet a clearly recorded voice remains one person's performance in one setting. Students should not conclude that an unfamiliar accent is defective because it differs from that example. The purpose of phonetic attention is to describe differences more accurately, not to turn personal familiarity into a judgement about a speaker's worth."
+    },
+    {
+     "id": "87C72A69-0AB9-57D4-933A-EAD67E8C6D65",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "For practice, try listening before looking at a transcript. Write down what you think you heard, then compare it with the words and listen again. The point is to locate the source of a difficulty. Was it an unfamiliar word, an unexpected grammatical pattern or the way familiar words joined together? Different difficulties suggest different practice. Simply replaying the same sound without a question in mind can be less informative than a short comparison focused on one feature."
+    },
+    {
+     "id": "433D122A-5B43-5533-A437-222D94FCD3C9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, keep the scale of the conclusion appropriate. Identifying a feature in one phrase shows that the example can be described that way; it does not establish how every person always speaks. A useful listening notebook can collect examples from different situations and connect them to a clear explanation. The goal is a stronger relationship between what is seen on the page and what is heard in an utterance, while recognising that writing and speech organise information through related but different resources."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam80-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Printed spaces do not correspond to a __________ after every spoken word.",
+     "explanation": "Ordinary speech does not separate every word with silence.",
+     "evidenceQuote": "a matching silence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "silence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "A pause differs from a word __________.",
+     "explanation": "A pause need not mark the end of a word or sentence.",
+     "evidenceQuote": "a word boundary",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boundary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Listeners can use likely grammar and __________.",
+     "explanation": "Context contributes to segmentation.",
+     "evidenceQuote": "grammar and meaning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meaning"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Stress gives some parts greater __________.",
+     "explanation": "Stress can increase prominence.",
+     "evidenceQuote": "A speaker can also shift prominence to make a contrast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "prominence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Shifting emphasis can create a different __________.",
+     "explanation": "The same words can carry a changed focus.",
+     "evidenceQuote": "a different focus",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "focus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Compare a word alone with the word in a __________.",
+     "explanation": "Connected context can alter its realisation.",
+     "evidenceQuote": "the same word in a phrase",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "phrase"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Short examples make a relevant __________ easier to locate.",
+     "explanation": "A short extract supports focused comparison.",
+     "evidenceQuote": "the relevant feature",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "feature"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Listen before looking at the __________.",
+     "explanation": "The transcript is used after an initial listening attempt.",
+     "evidenceQuote": "before looking at a transcript",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "transcript"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Different listening difficulties call for different __________.",
+     "explanation": "A diagnosis guides the next activity.",
+     "evidenceQuote": "different practice",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "practice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "A notebook can collect examples from different __________.",
+     "explanation": "One phrase does not represent every use.",
+     "evidenceQuote": "from different situations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "situations"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam80-rp1",
+   "passageNumber": 1,
+   "title": "An alphabet for describing speech",
+   "discipline": "Phonetics",
+   "paragraphs": [
+    "An ordinary alphabet is part of a writing system, not a direct inventory of everything speakers do with their voices. English makes the distinction particularly visible: the letters in familiar words can relate to sound in different ways. A reader who knows how to pronounce 'though' cannot simply apply the same ending to 'cough'. For a teacher or researcher wishing to describe pronunciation, ordinary spelling therefore leaves a problem. A phonetic notation offers a way to attend to speech without assuming that the conventional letters of one language provide a sufficient description of another.",
+    "The International Phonetic Association was founded in Paris in 1886, with Paul Passy and other language teachers and linguists involved. Its early purpose was closely connected to improving modern-language teaching through phonetics. The first versions of the International Phonetic Alphabet grew from that practical educational interest. The Association's historical chart archive identifies an 1888 alphabet, and later charts show continuing revision. The system did not arrive as an unchanging table delivered outside history. It developed through the work of people trying to make speech more accurately describable across languages and teaching contexts.",
+    "The word international is important. If each teacher used only the spelling habits familiar from their own language, the same written explanation could suggest different sounds to different learners. A shared notation provides conventions that can be learned and discussed independently of those habits. That does not make a symbol self-explanatory to someone seeing it for the first time. Like any notation, it requires teaching and examples. Its value lies in making the intended distinction more explicit, rather than relying on a reader to guess what a conventional letter is meant to represent on a particular occasion.",
+    "The alphabet's familiar chart groups symbols according to features of speech production. It is not merely a decorative list of unfamiliar letters. Such organisation allows a learner to connect a symbol with a description of how a sound is made, and to compare related possibilities. The chart also contains marks that add detail beyond a basic symbol. A transcription can consequently be more or less detailed depending on its purpose. Recording every audible feature is not the same task as showing the distinctions relevant to a short pronunciation lesson or an introductory account of a language.",
+    "A transcription must therefore be read with some knowledge of its conventions. Two accounts may differ because they choose different levels of detail, not because one author failed to listen. In an original classroom example, one teacher might show the sound contrast needed to distinguish two words, while another examines a small variation at the beginning of one sound. The questions are related but not identical. A useful notation makes these choices available for explanation. It does not remove the need to say what the transcription is intended to represent.",
+    "Nor does phonetic description establish a single socially superior accent. A notation can describe more than one variety, and a pronunciation guide should indicate the variety it presents. A learner may choose a particular model for a practical purpose without treating other speakers as defective. The distinction between describing a sound and evaluating the person who produces it is essential. A symbol can help specify what is heard, but no row in a chart can by itself justify a judgement about intelligence, courtesy or the cultural worth of a community.",
+    "The Association's history describes the widening use of the alphabet beyond language teaching into linguistic description and other fields concerned with speech. That expansion also helps explain the need for shared reference materials and revisions. Users need to know which conventions are being followed, particularly when reading work from different periods. Historical charts can show that a notation has a history, while current reference material supports communication among users. Neither history nor standardisation means that every question about the sound of an individual utterance can be answered simply by pointing to a printed symbol.",
+    "A phonetic alphabet is best understood as a disciplined resource for description. It can make a pronunciation question more precise, connect listening with articulatory explanation and allow examples to be compared. Its usefulness depends on appropriate selection of detail and on the listener's learning, not on the visual complexity of a transcription. The achievement is not that speech has been replaced by writing. It is that a shared system of marks can support careful attention to spoken language while leaving room to explain the purposes and limits of each particular representation."
+   ],
+   "questions": [
+    {
+     "id": "exam80-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Ordinary spelling always provides a complete description of speech sounds.",
+     "explanation": "Orthography and phonetic description serve different purposes.",
+     "evidenceQuote": "not a direct inventory of everything speakers do",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam80-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Association’s origins were connected with language teaching.",
+     "explanation": "Pedagogical reform was an early purpose.",
+     "evidenceQuote": "improving modern-language teaching",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam80-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The alphabet has remained unchanged since its first appearance.",
+     "explanation": "The chart has a history of revision.",
+     "evidenceQuote": "later charts show continuing revision",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam80-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "A shared symbol becomes obvious to every learner without explanation.",
+     "explanation": "Notation still has to be learned.",
+     "evidenceQuote": "requires teaching and examples",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam80-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The chart organises symbols using features of speech production.",
+     "explanation": "Its arrangement has a phonetic basis.",
+     "evidenceQuote": "according to features of speech production",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam80-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Every early member of the Association taught in the same Paris school.",
+     "explanation": "No common workplace for all members is specified.",
+     "evidenceQuote": "other language teachers and linguists involved",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam80-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most pronunciation guides now include recordings of every symbol.",
+     "explanation": "The passage gives no prevalence figure for recordings.",
+     "evidenceQuote": "a pronunciation guide should indicate the variety",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam80-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "The Association was founded in __________.",
+     "explanation": "Paris is the stated founding location.",
+     "evidenceQuote": "founded in Paris",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Paris"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A common notation reduces reliance on familiar spelling __________.",
+     "explanation": "It provides conventions beyond one language’s spelling.",
+     "evidenceQuote": "independently of those habits",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "habits"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "A transcription’s level of detail depends on its __________.",
+     "explanation": "Purpose determines which distinctions matter.",
+     "evidenceQuote": "depending on its purpose",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purpose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Pronunciation guides should identify the language __________ they present.",
+     "explanation": "A guide describes a particular model.",
+     "evidenceQuote": "the variety it presents",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "variety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Charts alone cannot establish the cultural __________ of a community.",
+     "explanation": "Sound description does not justify social judgement.",
+     "evidenceQuote": "the cultural worth of a community",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "worth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Historical charts demonstrate the notation’s __________.",
+     "explanation": "Conventions have developed over time.",
+     "evidenceQuote": "a notation has a history",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "history"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 744,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam80-rp2",
+   "passageNumber": 2,
+   "title": "Putting dialects on a map",
+   "discipline": "Language Geography",
+   "paragraphs": [
+    "The Survey of English Dialects, associated with the University of Leeds, created a substantial record of regional speech in the mid-twentieth century. Harold Orton and Eugen Dieth had developed the idea before the Second World War, which interrupted the work. The main field investigation took place during the 1950s and was completed in 1961. Its later publications and surviving records allow a reader to examine not merely a collection of unusual words, but an organised attempt to relate forms of speech to places. That purpose shaped both the information sought and the way it was gathered.",
+    "Fieldworkers visited a network of 313 localities. They used a substantial questionnaire intended to make responses from different places comparable. A question could prompt a word for an everyday object or activity, enabling researchers to place different answers alongside one another. This is different from waiting for every desired expression to arise spontaneously in a conversation. A questionnaire can make a comparison possible while also shaping what enters the record. The resulting collection must be understood as material produced through particular questions and encounters, not as every possible word spoken in each locality.",
+    "The respondents were not a miniature version of the whole population. The survey sought forms associated with local continuity, and the selection of speakers reflected that aim. This makes the record valuable for its question, but it limits an interpretation of it as a complete account of every age group and social setting. A modern reader needs to distinguish the existence of a documented form from a claim that every person in the place used it. A dot on a map can represent a recorded answer without representing an entire community's uniform speech.",
+    "Written responses were central to the work, and the surviving response books show the importance of careful notation. The Leeds archive retains a response book for each locality in the national network. Recording speech in writing requires conventions that let another reader interpret the entry. The fieldworker had to attend to the answer and represent relevant features, rather than simply replace it with the nearest ordinary spelling. Such records can preserve distinctions that a standardised written summary would smooth away, though they remain a representation made by a particular listener in a particular encounter.",
+    "Sound recording added another kind of material. The Leeds account identifies a decision in 1952 to record samples of casual speech and conversation. These recordings can contain more than the isolated responses needed for a word map. They may preserve rhythm, narrative and accounts of local work or custom. They are not interchangeable with the questionnaire books: each form makes some features easier to examine than others. Their survival together gives later users opportunities to connect language with the circumstances and stories in which it was used, rather than treating every answer as a detached specimen.",
+    "Publication required further work after collection. The results appeared through an introduction and volumes of basic material, while the Linguistic Atlas of England was published in 1978. A map transforms a set of records into a visual comparison. The reader can notice a distribution more quickly than by turning through every response book, but the map necessarily selects a feature to display. Its symbols and key matter. A boundary drawn around similar answers should not be mistaken for a wall that prevented speakers from meeting or a claim that no variation existed within the area.",
+    "Later interest in the collection can ask questions different from those of the original investigators. A person may recognise a word remembered from a grandparent, while a researcher may compare a historical form with newer recordings. The archive's value does not depend on freezing living speech in the state recorded decades ago. Languages and communities change, and movement can carry expressions beyond the places where a fieldworker first encountered them. The historical record offers a point of comparison, not a rule about who is entitled to use a word today.",
+    "The survey consequently illustrates both the power and the selectivity of a language atlas. Shared questions, systematic fieldwork and publication created a resource far beyond an individual's collection of memories. At the same time, locality, speaker selection and methods of recording remain part of its meaning. A careful user can appreciate its detail without turning it into a complete census of speech. Putting language on a map makes patterns visible, provided the reader continues to ask what was recorded, from whom and for the particular purpose the investigation was designed to serve."
+   ],
+   "questions": [
+    {
+     "id": "exam80-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B explains the questionnaire’s role and selectivity.",
+     "evidenceQuote": "make responses from different places comparable",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Producing comparable answers through shared questions",
+      "Producing comparable answers through shared questions"
+     ]
+    },
+    {
+     "id": "exam80-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C discusses limits of speaker selection.",
+     "evidenceQuote": "not a miniature version of the whole population",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A sample shaped by a historical purpose",
+      "A sample shaped by a historical purpose"
+     ]
+    },
+    {
+     "id": "exam80-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D concerns written recording and notation.",
+     "evidenceQuote": "surviving response books",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Representing answers in response books",
+      "Representing answers in response books"
+     ]
+    },
+    {
+     "id": "exam80-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E examines what recordings add.",
+     "evidenceQuote": "Sound recording added another kind of material.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. What recorded voices add to written answers",
+      "What recorded voices add to written answers"
+     ]
+    },
+    {
+     "id": "exam80-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F describes publication and visual representation.",
+     "evidenceQuote": "A map transforms a set of records",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. From records to published visual patterns",
+      "From records to published visual patterns"
+     ]
+    },
+    {
+     "id": "exam80-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G discusses later uses and change.",
+     "evidenceQuote": "questions different from those of the original investigators",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. New questions for an older collection",
+      "New questions for an older collection"
+     ]
+    },
+    {
+     "id": "exam80-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H draws together value and limits.",
+     "evidenceQuote": "both the power and the selectivity",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A resource to use with its limits in view",
+      "A resource to use with its limits in view"
+     ]
+    },
+    {
+     "id": "exam80-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did fieldworkers use a shared questionnaire?",
+     "explanation": "The questions supported comparisons across localities.",
+     "evidenceQuote": "make responses from different places comparable",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To prevent speakers discussing everyday life.",
+      "B. To allow answers from different places to be compared.",
+      "C. To collect every possible word in each locality.",
+      "D. To replace all need for notation."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. To allow answers from different places to be compared.",
+      "To allow answers from different places to be compared."
+     ]
+    },
+    {
+     "id": "exam80-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What does a locality dot on a map establish in the writer’s account?",
+     "explanation": "The dot can represent a recorded response, not universal usage.",
+     "evidenceQuote": "a recorded answer",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. An answer was recorded in relation to that place.",
+      "B. All residents used one identical form.",
+      "C. Nobody elsewhere knew the word.",
+      "D. The form remained unchanged for every generation."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. An answer was recorded in relation to that place.",
+      "An answer was recorded in relation to that place."
+     ]
+    },
+    {
+     "id": "exam80-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What caution applies to a boundary around similar responses?",
+     "explanation": "A linguistic boundary does not imply physical or absolute separation.",
+     "evidenceQuote": "should not be mistaken for a wall",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It must correspond to a county border.",
+      "B. It makes the questionnaire unnecessary.",
+      "C. It proves speakers never travelled.",
+      "D. It should not imply an absolute barrier between people."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It should not imply an absolute barrier between people.",
+      "It should not imply an absolute barrier between people."
+     ]
+    },
+    {
+     "id": "exam80-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The archive retains a response __________ for each locality.",
+     "explanation": "The books document questionnaire responses.",
+     "evidenceQuote": "a response book for each locality",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "book"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Sound samples may preserve __________ as well as words.",
+     "explanation": "Audio has features beyond isolated lexical answers.",
+     "evidenceQuote": "preserve rhythm",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rhythm"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The older collection provides a point of __________.",
+     "explanation": "It does not prescribe present-day ownership of words.",
+     "evidenceQuote": "a point of comparison",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "comparison"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 749,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. A sample shaped by a historical purpose",
+      "ii. A resource to use with its limits in view",
+      "iii. What recorded voices add to written answers",
+      "iv. New questions for an older collection",
+      "v. Producing comparable answers through shared questions",
+      "vi. Why all local speech remained unchanged",
+      "vii. Representing answers in response books",
+      "viii. From records to published visual patterns",
+      "ix. An entirely representative population census"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam80-rp3",
+   "passageNumber": 3,
+   "title": "Should schools make room for local speech?",
+   "discipline": "Language Education",
+   "paragraphs": [
+    "Schools teach forms of language that allow students to participate in situations beyond their immediate community. This is an important task, but it need not require presenting local speech as a defect. In my view, the educational question is how to expand a learner's repertoire without making them ashamed of the language through which they already know people and places. A school can explain the conventions expected in a formal written task while recognising that a family conversation is a different activity. Treating those activities as identical creates a false choice between opportunity and belonging.",
+    "A common argument for excluding local expressions from school is that students need a clear standard. The practical need for shared written conventions is real, particularly when work will be read by people from different areas. Yet a shared convention does not establish that every other form is linguistically empty or morally inferior. I believe teachers should explain what a convention enables and where it is expected. A rule presented as a tool for a particular purpose can be learned without becoming a judgement that the student's relatives speak badly or have nothing worth saying.",
+    "This does not mean that every classroom task should accept every form without discussion. If a learner is preparing a formal report, learning its expected register is part of the task. If the class is examining dialogue in a story, local vocabulary or grammar may be central to what the writer is doing. The same feature can therefore be relevant in different ways. In my view, good teaching helps students notice these differences rather than using the simple labels correct and incorrect as if the purpose and audience never changed.",
+    "There is also a danger in turning local speech into a display of authenticity. Asking a student to perform an accent for classmates can make them feel exposed, especially if others imitate it for amusement. Nor should a child be appointed the representative of a whole region because of a family connection. Participation in a language activity needs respectful boundaries and choices. A collection of expressions can be studied through willing contributions, published materials or recordings used appropriately, without requiring an individual to prove that their home language is sufficiently traditional to count.",
+    "Learning about variation can support close attention to language. Students can compare how a speaker addresses different audiences or how a writer uses a word that is unfamiliar outside one area. Such work need not become a competition between accents. It can make the relationship between form, context and effect more visible. I would value an activity that asks why a choice matters in a text more than one that simply asks students to collect as many unusual words as possible. The educational purpose is understanding, not the accumulation of curiosities.",
+    "Assessment should make its requirements clear. A teacher may reasonably evaluate whether a learner uses the conventions specified for a formal assignment. It is less defensible to penalise a feature without explaining that requirement or to let a personal preference about accent stand in for a stated criterion. In my view, students should be able to understand what is being assessed and how to improve it. Expanding access to a standard is different from rewarding those whose home experience happened to make that standard familiar before they entered the classroom.",
+    "Practical limits deserve attention. Teachers need suitable resources and time, and not every lesson can become a survey of regional language. Respect does not require an elaborate festival whenever an unfamiliar word appears. It can begin with avoiding ridicule, asking what a form means and connecting the discussion to the lesson's purpose. Where more detailed study is appropriate, resources should present communities as living and varied rather than as museum exhibits whose speech stopped changing at a convenient historical date. Students can learn about heritage without being asked to preserve every feature unchanged.",
+    "The strongest case for making room for local speech is therefore not resistance to learning a wider standard. It is the possibility of learning that standard more intelligently, as one part of a flexible repertoire. In my view, a school succeeds when students can recognise the demands of a new situation and choose language purposefully while retaining respect for the people with whom they began speaking. Their education should increase what they can do. It need not reduce the value of what they already bring in order to make that expansion possible."
+   ],
+   "questions": [
+    {
+     "id": "exam80-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Teaching a formal standard requires describing local speech as defective.",
+     "explanation": "The writer rejects that necessary connection.",
+     "evidenceQuote": "need not require presenting local speech as a defect",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam80-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Shared written conventions have practical value.",
+     "explanation": "The writer accepts their usefulness.",
+     "evidenceQuote": "The practical need for shared written conventions is real",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam80-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "All classroom tasks should accept every language form without considering purpose.",
+     "explanation": "Task and audience remain relevant.",
+     "evidenceQuote": "does not mean that every classroom task should accept every form",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam80-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Students should represent a whole region whenever their relatives come from it.",
+     "explanation": "Family connection does not create that obligation.",
+     "evidenceQuote": "Nor should a child be appointed the representative of a whole region",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam80-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Formal writing should be examined by assessors from a different region.",
+     "explanation": "The writer discusses criteria, not assessors’ geographical origins.",
+     "evidenceQuote": "Assessment should make its requirements clear.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam80-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Language education should increase the range of choices available to learners.",
+     "explanation": "The writer supports expanding the repertoire.",
+     "evidenceQuote": "Their education should increase what they can do.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam80-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "How should a formal convention be presented, according to the writer?",
+     "explanation": "Explaining its function avoids condemning other contexts.",
+     "evidenceQuote": "a tool for a particular purpose",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. As evidence of moral superiority.",
+      "B. As proof that home conversations are worthless.",
+      "C. As a tool suited to a stated purpose.",
+      "D. As a rule that applies identically to every activity."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. As a tool suited to a stated purpose.",
+      "As a tool suited to a stated purpose."
+     ]
+    },
+    {
+     "id": "exam80-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "What risk is associated with an accent performance in class?",
+     "explanation": "It can create unwanted exposure or ridicule.",
+     "evidenceQuote": "can make them feel exposed",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A student may feel exposed or become a target of imitation.",
+      "B. The class will necessarily learn formal grammar.",
+      "C. Every local word will become obsolete.",
+      "D. Published recordings will no longer be needed."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A student may feel exposed or become a target of imitation.",
+      "A student may feel exposed or become a target of imitation."
+     ]
+    },
+    {
+     "id": "exam80-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What kind of variation activity does the writer favour?",
+     "explanation": "The activity should explain function, not simply accumulate curiosities.",
+     "evidenceQuote": "why a choice matters in a text",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Counting unusual words without context.",
+      "B. Ranking classmates’ accents.",
+      "C. Choosing the most traditional family.",
+      "D. Examining the effect of a language choice in context."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Examining the effect of a language choice in context.",
+      "Examining the effect of a language choice in context."
+     ]
+    },
+    {
+     "id": "exam80-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What should a student understand about assessment?",
+     "explanation": "Criteria and routes to improvement should be clear.",
+     "evidenceQuote": "what is being assessed and how to improve it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Which accent the teacher privately prefers.",
+      "B. The requirements and how improvement is possible.",
+      "C. That local forms are always prohibited in stories.",
+      "D. That prior familiarity is the only basis of achievement."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The requirements and how improvement is possible.",
+      "The requirements and how improvement is possible."
+     ]
+    },
+    {
+     "id": "exam80-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Schools can expand a learner’s language __________.",
+     "explanation": "The aim is more available choices.",
+     "evidenceQuote": "expand a learner’s repertoire",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "repertoire"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "A formal report requires attention to an expected __________.",
+     "explanation": "The language should suit the task.",
+     "evidenceQuote": "its expected register",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "register"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Activities involving home speech need respectful __________.",
+     "explanation": "Participation should not be forced or ridiculed.",
+     "evidenceQuote": "respectful boundaries",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boundaries"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam80-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Communities should not be treated as static museum __________.",
+     "explanation": "Living language continues to change.",
+     "evidenceQuote": "as museum exhibits",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "exhibits"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 739,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam80-w1",
+  "title": "Changes to a language resource centre",
+  "visualType": "Map Comparison",
+  "instructions": "The maps show a fictional language resource centre in 2020 and after refurbishment in 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "2020|NW|Archive",
+   "2020|N|Recording studio",
+   "2020|NE|Lecture room",
+   "2020|W|Office",
+   "2020|C|Reception",
+   "2020|E|Cafe",
+   "2020|SW|Store",
+   "2020|S|Entrance",
+   "2020|SE|Garden",
+   "2026|NW|Archive",
+   "2026|N|Two recording studios",
+   "2026|NE|Lecture room",
+   "2026|W|Reading room",
+   "2026|C|Reception",
+   "2026|E|Workshop",
+   "2026|SW|Office",
+   "2026|S|Accessible entrance",
+   "2026|SE|Garden"
+  ],
+  "keyOverviewPoints": [
+   "The archive, lecture room, reception and garden remained in the same positions.",
+   "The centre gained a reading room and workshop, the studio provision expanded, and the office moved into the former store."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam80-w2",
+  "title": "Local language in education",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education and Language",
+  "promptText": "Some people think schools should focus only on teaching a standard form of the national language. Others believe schools should also teach students about local dialects and expressions. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam80-spk",
+  "theme": "Words, voices and places",
+  "part1Questions": [
+   "Do you notice different ways of speaking in your area?",
+   "What do you do when you hear an unfamiliar word?",
+   "Do you enjoy listening to recordings of older relatives?",
+   "What kind of reference book have you used?",
+   "Are local expressions common among your friends?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a conversation in which someone explained a word associated with a place.",
+   "bulletPoints": [
+    "who you spoke with",
+    "what place the word was associated with",
+    "how they explained its meaning",
+    "and explain what interested you about the conversation"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can a word be associated with more than one place?",
+   "How can schools respect different ways of speaking?",
+   "What can recordings preserve that writing may not?",
+   "Should public figures change how they speak for different audiences?",
+   "How can a community share its language heritage without treating it as unchanging?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored IELTS-style material",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "All listening bookshops, exhibitions and assignments are fictional. Reading 1 historical facts checked against International Phonetic Association history and chart archives. Reading 2 details checked against University of Leeds Special Collections and its Dialect and Heritage Project. The map is an invented examination visual.",
+   "References: https://www.internationalphoneticassociation.org/content/history-ipa ; https://www.internationalphoneticassociation.org/IPAcharts/IPA_hist/IPA_hist_2018.html ; https://www.cambridge.org/core/books/handbook-of-the-international-phonetic-association/about-the-international-phonetic-association/A15CC5EBB52735BAE03A47931C4C5FDB ; https://library.leeds.ac.uk/special-collections/collection/2574 ; https://explore.library.leeds.ac.uk/special-collections-explore/409595/questionnaire_response_books%26selection%3DLeeds%20Archive%20of%20Vernacular%20Culture ; https://dialectandheritage.org.uk/about/the-survey-of-english-dialects/",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

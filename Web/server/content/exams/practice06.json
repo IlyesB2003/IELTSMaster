@@ -1,0 +1,2123 @@
+{
+ "id": "practice06",
+ "examNumber": 6,
+ "pool": "practice",
+ "title": "Practice Test 6: Mind, Memory & Decision-Making",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Mind, Memory & Decision-Making",
+ "listeningParts": [
+  {
+   "id": "practice06-lp1",
+   "partNumber": 1,
+   "title": "Booking a venue for a research conference",
+   "contextDescription": "A conference organiser phones a hotel events manager to book facilities for an academic conference.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "CE863DA5-D7A4-5A2F-AB92-4C08F79E6150",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Good morning, Kingsway Hotel events team, this is Martin."
+    },
+    {
+     "id": "E1508C08-2415-5E5B-8E20-62FF4AE29017",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Hello, Martin. My name is Dr Helen Kowalczyk, and I'm organising a two-day psychology conference in the autumn. I spoke to one of your colleagues last week, and she suggested I call you to discuss the details."
+    },
+    {
+     "id": "9F5CFAEF-8AED-52A3-9CB9-CDA067385005",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Of course, Dr Kowalczyk. Could I just take the spelling of your surname?"
+    },
+    {
+     "id": "6BA8D1B7-CCDF-50F5-83BD-A2C9387C8DA9",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Certainly. It's K-O-W-A-L-C-Z-Y-K."
+    },
+    {
+     "id": "43F60B64-0F47-5CE6-A1B6-56E184CD3558",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Thank you. So, how many delegates are you expecting?"
+    },
+    {
+     "id": "41AF19CC-74D1-50E7-94A4-DA4876DBC32F",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "We originally planned for about two hundred, but registrations have been much higher than expected, so we're now looking at around two hundred and eighty."
+    },
+    {
+     "id": "BC02BAA4-FDE3-5178-9647-FE91116FFC34",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "That's fine. Our main conference room, the Regency Suite, holds up to three hundred and fifty in theatre style, so you'd have plenty of space for your plenary sessions. What dates were you considering?"
+    },
+    {
+     "id": "64D02811-AD65-57EC-BBE0-C3C1353BFA5E",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "The fourteenth and fifteenth of October, which is a Thursday and Friday."
+    },
+    {
+     "id": "8D60E40F-B4A4-5E91-869D-63EDC51478D1",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Let me check. Yes, the Regency Suite is available on both days. Will you need smaller rooms for parallel sessions?"
+    },
+    {
+     "id": "CC5AF202-9446-5046-9017-1004C30EAAE9",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Yes, we'll have four parallel sessions running at the same time in the afternoons, so we'd need four breakout rooms, each seating about sixty to seventy people."
+    },
+    {
+     "id": "E85DCD4F-4256-5E03-9F0B-E696D33A11A2",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "We have five rooms of that size on the first floor, so that's no problem. They all have projectors and screens. Will your speakers need anything else in the way of equipment?"
+    },
+    {
+     "id": "9325A21A-AF64-5895-A19F-045911CD9803",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Microphones in every room, please, because some of our speakers have quite quiet voices. And in the main suite, we'd like the plenary talks to be recorded and streamed online for members who can't attend in person."
+    },
+    {
+     "id": "61D56C63-02AB-5CBD-9F1B-0D5A130641F5",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "We can do that, but streaming requires one of our technicians to be present throughout, which is an additional charge of three hundred and fifty pounds per day."
+    },
+    {
+     "id": "CEDD3B22-D4B3-575D-89B1-27BC7133250B",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "That's acceptable. Now, catering. We'd like tea and coffee on arrival and twice during the day, and a buffet lunch."
+    },
+    {
+     "id": "F6B0266B-BFB1-5306-AC0F-A899F486CBBC",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Our standard day delegate package covers exactly that: room hire, refreshments and a hot buffet lunch, at fifty-two pounds per person per day. For groups over two hundred and fifty, we can reduce that to forty-eight."
+    },
+    {
+     "id": "B828FEBE-0E0A-5352-82A7-AB99E9C304EA",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "That's helpful. About fifteen per cent of our delegates have dietary requirements, mostly vegetarian, but some vegan and a few gluten-free. Is that manageable?"
+    },
+    {
+     "id": "47D63B93-3D98-5C96-9525-2BCFE4470AFD",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "Absolutely. We'll just need a final list two weeks before the event. Are you planning a conference dinner?"
+    },
+    {
+     "id": "FFE60A44-F600-5609-906C-6ACD49CC68D0",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Yes, on the Thursday evening. We expect about a hundred and fifty people."
+    },
+    {
+     "id": "33E408A9-32E7-5AEE-B4E1-24DD20954F59",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "The dinner would be in the Garden Restaurant, which overlooks the river. It seats up to a hundred and eighty, so that works well. A three-course dinner is sixty-five pounds per person, including a glass of wine."
+    },
+    {
+     "id": "0261DF00-F395-56DF-B355-2C953BA9D74A",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Lovely. And accommodation? Many delegates will travel from abroad."
+    },
+    {
+     "id": "8B184E5C-AE45-5E80-ACF6-84FECABD00B6",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "We can hold a block of rooms at a discounted conference rate. I'd suggest eighty rooms initially. Delegates book directly using a special code, and any rooms not booked six weeks before the conference are released back to us, so you're not charged for them."
+    },
+    {
+     "id": "6F41CE35-FDF6-5998-86BC-1EA6A99BF5C4",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "That's ideal, because we can't predict exactly how many will stay. What about getting here? Some of our delegates won't be familiar with the city."
+    },
+    {
+     "id": "B2ACD53B-F400-551D-BE68-3BB5A41FD32F",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "We're about ten minutes' walk from the central railway station. If you'd like, we can provide a shuttle bus from the airport on the Wednesday evening and Thursday morning, but that needs to be booked at least a month in advance."
+    },
+    {
+     "id": "E1DC57DF-86D6-5B2B-9DB2-89F5242A1ACD",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Let's do that. And what do you need from me to confirm the booking?"
+    },
+    {
+     "id": "04103EE2-A2B8-556F-95F8-25745484D400",
+     "speaker": "Events manager",
+     "accent": "en-GB",
+     "text": "I'll email you a contract. We ask for a deposit of twenty-five per cent when you sign, and the balance thirty days after the event. If you need to reduce numbers, you can do so without penalty up to fourteen days beforehand."
+    },
+    {
+     "id": "E9DAE990-BA68-5632-9259-BE1093E3CEA6",
+     "speaker": "Organiser",
+     "accent": "en-CA",
+     "text": "Perfect. I'll look out for your email."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice06-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Organiser: Dr Helen __________",
+     "explanation": "She spells Kowalczyk.",
+     "evidenceQuote": "My name is Dr Helen Kowalczyk",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Kowalczyk"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Expected delegates: about __________",
+     "explanation": "Numbers rose from 200 to about 280.",
+     "evidenceQuote": "we're now looking at around two hundred and eighty",
+     "skillTag": "distractor_correction",
+     "distractorNote": "Two hundred was the original plan; 350 is the room capacity.",
+     "options": [],
+     "acceptedAnswers": [
+      "280",
+      "two hundred and eighty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Number of breakout rooms needed: __________",
+     "explanation": "Four breakout rooms are needed.",
+     "evidenceQuote": "so we'd need four breakout rooms",
+     "skillTag": "numbers",
+     "distractorNote": "The hotel has five such rooms.",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Plenary talks to be recorded and __________ online",
+     "explanation": "Talks will be streamed online.",
+     "evidenceQuote": "recorded and streamed online",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "streamed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Technician charge: £__________ per day",
+     "explanation": "Streaming needs a technician at £350 per day.",
+     "evidenceQuote": "an additional charge of three hundred and fifty pounds per day",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "350",
+      "three hundred and fifty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Day delegate rate for this group: £__________ per person",
+     "explanation": "Groups over 250 pay £48.",
+     "evidenceQuote": "we can reduce that to forty-eight",
+     "skillTag": "numbers",
+     "distractorNote": "£52 is the standard rate.",
+     "options": [],
+     "acceptedAnswers": [
+      "48",
+      "forty-eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Conference dinner in the Garden Restaurant, overlooking the __________",
+     "explanation": "The restaurant overlooks the river.",
+     "evidenceQuote": "which overlooks the river",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "river"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Unbooked rooms released __________ weeks before the conference",
+     "explanation": "Rooms are released six weeks before.",
+     "evidenceQuote": "any rooms not booked six weeks before the conference are released",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Shuttle bus from the __________ must be booked a month ahead",
+     "explanation": "The shuttle runs from the airport.",
+     "evidenceQuote": "a shuttle bus from the airport",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "airport"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Numbers can be reduced without penalty up to __________ days before",
+     "explanation": "Reductions are free up to 14 days before.",
+     "evidenceQuote": "up to fourteen days beforehand",
+     "skillTag": "numbers",
+     "distractorNote": "Thirty days after is when the balance is due.",
+     "options": [],
+     "acceptedAnswers": [
+      "14",
+      "fourteen"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "plenary",
+    "breakout room",
+    "delegate",
+    "catering",
+    "audiovisual"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice06-lp2",
+   "partNumber": 2,
+   "title": "Inside a memory research laboratory",
+   "contextDescription": "A research coordinator welcomes volunteers who have signed up to take part in memory experiments.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "DC1B08DD-FCCE-5F8E-A7C2-5D275AE67FE0",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "Good morning, everyone, and thank you for volunteering to take part in our research. My name is Dr Amara Osei, and I coordinate the participant programme here at the Centre for Memory Research. Before we start, I'd like to explain what we do, what taking part involves, and your rights as participants."
+    },
+    {
+     "id": "683A4A7A-F0F0-513D-898A-5AEE3F135C04",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "The Centre was established twelve years ago, and our research focuses on how memories are formed, stored and retrieved, and why they sometimes go wrong. One of our main projects at the moment looks at how sleep affects memory. Another investigates false memories: how people can come to remember, quite sincerely, events that never actually happened. And a third project, funded by a national charity, is studying early changes in memory that might help doctors detect dementia sooner."
+    },
+    {
+     "id": "54155592-9E1C-532B-9175-D8A71B9A0C8E",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "You've all been placed in one of three groups, depending on which studies you're eligible for. The largest group will take part in computer-based tasks in our testing rooms on the ground floor. These usually involve learning lists of words or pictures and then being tested on them later. A typical session lasts about an hour, and you'll be paid fifteen dollars for each session."
+    },
+    {
+     "id": "9AF5B6A8-E27E-5D19-907A-5C86B5A23E85",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "The second group will take part in our sleep study. This involves spending two nights in our sleep laboratory, which is on the third floor. You'll learn some material in the evening, sleep with sensors attached to your head to monitor your brain activity, and be tested the following morning. Because it's a bigger commitment, participants in this study receive two hundred dollars in total."
+    },
+    {
+     "id": "705F0FC2-7BA2-5C15-BD31-A37397991C96",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "The third and smallest group will have a brain scan. The scanner is in the hospital next door, and you'll be taken there by one of our researchers. Scans are completely safe and painless, but they can be noisy, and you need to lie very still inside a narrow tube for about forty-five minutes. If you think you might feel uncomfortable in enclosed spaces, please tell us now, and we can move you to a different study with no problem at all."
+    },
+    {
+     "id": "E884CC5E-C54A-5AC4-84C2-179986803178",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "Now, a few important points about your rights. Before you take part in any study, you'll be asked to read an information sheet and sign a consent form. Please read these carefully and ask questions if anything is unclear. Taking part is entirely voluntary, and you can withdraw from any study at any time without giving a reason. If you withdraw, you'll still be paid for the time you've already spent with us."
+    },
+    {
+     "id": "0BFF187D-B47C-5C6A-89BE-C77235877177",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "All the information we collect is kept confidential. Your results are stored under a code number rather than your name, and they're anonymised before being published, so nobody will be able to identify you. Your personal details are stored separately and are deleted five years after the study ends."
+    },
+    {
+     "id": "0BA766D8-B0BE-5A95-9E76-E794D21E01C8",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "Some of our studies involve a small amount of deception. For instance, in some memory experiments, we can't tell you in advance that you'll be tested later, because knowing that would change how you pay attention. But at the end of every study, a researcher will explain exactly what the study was about and why any information was withheld. This is called debriefing, and you can ask as many questions as you like."
+    },
+    {
+     "id": "C3052983-77F2-52D7-AFDB-E72DA0A0B324",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "A couple of practical things. Please arrive ten minutes before your session, and if you can't make it, let us know at least twenty-four hours in advance so we can offer the slot to someone else. Payments are made by bank transfer within two weeks. And if you're interested in the results, you can sign up for our newsletter, which summarises our findings in plain language a few times a year."
+    },
+    {
+     "id": "7E903BDD-9C77-59F0-9084-1715FA3231EB",
+     "speaker": "Coordinator",
+     "accent": "en-US",
+     "text": "Finally, please don't discuss the details of the experiments with friends who might take part later, as that could affect the results. Right, my colleagues will now take each group to complete the paperwork."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice06-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "The project funded by a national charity aims to",
+     "explanation": "It aims to detect dementia earlier.",
+     "evidenceQuote": "help doctors detect dementia sooner",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. understand false memories.",
+      "B. study the effects of sleep on memory.",
+      "C. help identify dementia at an earlier stage."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. help identify dementia at an earlier stage.",
+      "help identify dementia at an earlier stage."
+     ]
+    },
+    {
+     "id": "practice06-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "How much will participants in the sleep study receive in total?",
+     "explanation": "They receive $200 in total.",
+     "evidenceQuote": "participants in this study receive two hundred dollars in total",
+     "skillTag": "numbers",
+     "distractorNote": "$15 is per computer session.",
+     "options": [
+      "A. $15",
+      "B. $200",
+      "C. $45"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. $200",
+      "$200"
+     ]
+    },
+    {
+     "id": "practice06-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What should people do if they dislike enclosed spaces?",
+     "explanation": "They should say so and can move study.",
+     "evidenceQuote": "please tell us now, and we can move you to a different study",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. tell the researchers so they can change study",
+      "B. bring someone with them",
+      "C. take part in a shorter scan"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. tell the researchers so they can change study",
+      "tell the researchers so they can change study"
+     ]
+    },
+    {
+     "id": "practice06-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What happens if a participant withdraws from a study?",
+     "explanation": "They are still paid for time spent.",
+     "evidenceQuote": "you'll still be paid for the time you've already spent with us",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They must give a reason.",
+      "B. They lose their payment.",
+      "C. They are paid for the time already given."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They are paid for the time already given.",
+      "They are paid for the time already given."
+     ]
+    },
+    {
+     "id": "practice06-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why are some participants not told that they will be tested later?",
+     "explanation": "Knowing would change their attention.",
+     "evidenceQuote": "knowing that would change how you pay attention",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to save time",
+      "B. because it would affect how they pay attention",
+      "C. because the test is optional"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. because it would affect how they pay attention",
+      "because it would affect how they pay attention"
+     ]
+    },
+    {
+     "id": "practice06-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why should participants not discuss experiments with friends?",
+     "explanation": "It could affect the results.",
+     "evidenceQuote": "as that could affect the results",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It could influence the results.",
+      "B. It breaks the confidentiality agreement.",
+      "C. Friends cannot take part."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It could influence the results.",
+      "It could influence the results."
+     ]
+    },
+    {
+     "id": "practice06-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "The sleep laboratory is on the __________ floor.",
+     "explanation": "It is on the third floor.",
+     "evidenceQuote": "our sleep laboratory, which is on the third floor",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "third",
+      "3rd"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "Personal details are deleted __________ years after the study ends.",
+     "explanation": "They are deleted after five years.",
+     "evidenceQuote": "are deleted five years after the study ends",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "The explanation given at the end of each study is called __________.",
+     "explanation": "It is called debriefing.",
+     "evidenceQuote": "This is called debriefing",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "debriefing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "Participants should give at least __________ hours' notice if they cannot attend.",
+     "explanation": "24 hours' notice is required.",
+     "evidenceQuote": "at least twenty-four hours in advance",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "24",
+      "twenty-four"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "participant",
+    "consent form",
+    "brain scan",
+    "anonymised",
+    "withdraw"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 16,
+     "instruction": "Questions 11–16. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "instruction": "Questions 17–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice06-lp3",
+   "partNumber": 3,
+   "title": "Discussing the replication crisis",
+   "contextDescription": "Two psychology students, Felix and Nora, discuss the \"replication crisis\" with their tutor in preparation for an essay.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "EB9CBDC6-813B-5652-BECD-D32739AC23BE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, your essay question is about the replication crisis in psychology. Felix, can you start by explaining what the term refers to?"
+    },
+    {
+     "id": "4B92ABED-66EE-5706-B757-97404B6FDECF",
+     "speaker": "Felix",
+     "accent": "en-GB",
+     "text": "Sure. Basically, replication means repeating a study to see if you get the same result. Around 2015, a large project tried to repeat a hundred studies published in leading psychology journals, and only about a third to a half of them produced results that were statistically significant the second time. That led people to talk about a crisis, because it suggested that many published findings might not be reliable."
+    },
+    {
+     "id": "6E840792-1ABB-5984-A16B-6FCA4495C836",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And Nora, what are the main explanations for why so many studies failed to replicate?"
+    },
+    {
+     "id": "E2CD0371-BBB6-5FB1-99C0-2AA2C49C90FE",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "There are several. One is small samples. If you only test twenty or thirty people, a result can easily appear by chance. Another is what's called publication bias: journals were much more likely to publish studies with positive, exciting results than ones that found nothing, so the published literature gave a misleading picture."
+    },
+    {
+     "id": "CE41E54E-6BE6-5A65-9100-9539BBF0E695",
+     "speaker": "Felix",
+     "accent": "en-GB",
+     "text": "And then there are questionable research practices. Not fraud exactly, but things like collecting more data until the result becomes significant, or testing lots of different measures and only reporting the ones that worked. Each decision might seem reasonable, but together they greatly increase the chance of a false positive."
+    },
+    {
+     "id": "AC33EBEC-BC19-51C0-8F13-AD3099A6CC9D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. Now, one thing I'd warn you about in the essay is suggesting that psychology is uniquely bad. What would you say to that?"
+    },
+    {
+     "id": "6286F376-7334-5E3A-9566-571F08422BE4",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "That similar problems have been found in other fields. There was a project in cancer biology that had trouble replicating important studies, and economics has had similar debates. Psychology may just have been more open about investigating the problem."
+    },
+    {
+     "id": "7731EBCD-0961-59B7-8ADE-1797C2B738B2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "I'd agree. In some ways, psychology has led the response. What reforms have been introduced?"
+    },
+    {
+     "id": "A07EA9BB-622D-566C-8785-4653BA7BC619",
+     "speaker": "Felix",
+     "accent": "en-GB",
+     "text": "The one I find most convincing is pre-registration. Researchers publish their hypotheses and their planned analysis before they collect any data. That way, they can't change their predictions after seeing the results."
+    },
+    {
+     "id": "13F61A1A-E435-5CC1-922D-9D2C7DC516F5",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "And there are now journals that offer what are called registered reports, where the journal agrees to publish a study based on its design, before the results are known. That removes the incentive to produce exciting findings."
+    },
+    {
+     "id": "E44FBAFB-3EB5-588D-BDCB-AE77F36CF50A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Are there any drawbacks to pre-registration?"
+    },
+    {
+     "id": "0BB16404-0D93-5EF0-88F0-D598EF96B912",
+     "speaker": "Felix",
+     "accent": "en-GB",
+     "text": "Some researchers say it makes it harder to do exploratory research, where you don't know in advance what you'll find. But I think that's a misunderstanding. You can still explore; you just have to be clear about which results were predicted and which were discovered afterwards."
+    },
+    {
+     "id": "09FB1504-99C4-52A1-ADEF-EAAE656024EC",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "I'm a bit more sceptical than Felix. Pre-registration helps, but it depends on people actually following their plans. I read a study that found a lot of pre-registered papers didn't stick to what they'd registered, and nobody noticed."
+    },
+    {
+     "id": "BF09EA40-3F55-5F45-95A4-640F90F49C84",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a good point to include, and it shows critical thinking. What about the famous findings that didn't replicate? Did you choose an example?"
+    },
+    {
+     "id": "C3AABC4A-9453-5B72-A348-881DD4D85548",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "We were thinking of power posing, the idea that standing in a confident posture for two minutes changes your hormone levels and makes you take more risks. It became hugely popular after a talk was watched millions of times online, but larger studies didn't find the hormone effects."
+    },
+    {
+     "id": "7498F057-9A93-5C3D-A1D9-47D891BD08AA",
+     "speaker": "Felix",
+     "accent": "en-GB",
+     "text": "Although some studies still find that people report feeling slightly more confident. So it's not that the whole idea was wrong, just that the original claims were too strong."
+    },
+    {
+     "id": "725857A4-DAB3-58C8-8D14-88F159C71030",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That nuance is exactly what I'd like to see. Be careful not to suggest the original researchers were dishonest; there's no evidence of that. For the conclusion, I'd encourage you to argue whether the crisis has ultimately been good for the discipline."
+    },
+    {
+     "id": "229C516C-D313-5CEF-9329-DF94B1060ABE",
+     "speaker": "Nora",
+     "accent": "en-US",
+     "text": "I think we both agree it has, in the long run."
+    },
+    {
+     "id": "94D82254-6473-5789-BD9B-C2E534C7217E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then make that case, but acknowledge that it's damaged public trust in the short term. Send me a plan by Wednesday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice06-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did the large 2015 project find?",
+     "explanation": "Only a third to a half replicated.",
+     "evidenceQuote": "only about a third to a half of them produced results that were statistically significant the second time",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Most studies replicated successfully.",
+      "B. Many studies did not produce the same results.",
+      "C. Several researchers had committed fraud."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many studies did not produce the same results.",
+      "Many studies did not produce the same results."
+     ]
+    },
+    {
+     "id": "practice06-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What is publication bias?",
+     "explanation": "Journals favoured positive results.",
+     "evidenceQuote": "journals were much more likely to publish studies with positive, exciting results",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a preference for publishing positive results",
+      "B. a tendency to use small samples",
+      "C. deliberately changing data"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a preference for publishing positive results",
+      "a preference for publishing positive results"
+     ]
+    },
+    {
+     "id": "practice06-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor warn the students not to suggest?",
+     "explanation": "That psychology alone has this problem.",
+     "evidenceQuote": "suggesting that psychology is uniquely bad",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. that replication is unimportant",
+      "B. that the crisis is over",
+      "C. that only psychology has this problem"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. that only psychology has this problem",
+      "that only psychology has this problem"
+     ]
+    },
+    {
+     "id": "practice06-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why is Nora sceptical about pre-registration?",
+     "explanation": "Researchers often do not follow their registered plans.",
+     "evidenceQuote": "a lot of pre-registered papers didn't stick to what they'd registered",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It makes research too expensive.",
+      "B. Researchers do not always follow their plans.",
+      "C. Journals refuse to accept it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Researchers do not always follow their plans.",
+      "Researchers do not always follow their plans."
+     ]
+    },
+    {
+     "id": "practice06-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does Felix say about power posing?",
+     "explanation": "The original claims were too strong.",
+     "evidenceQuote": "it's not that the whole idea was wrong, just that the original claims were too strong",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It has been completely disproved.",
+      "B. It was based on fraudulent data.",
+      "C. The original claims were exaggerated."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The original claims were exaggerated.",
+      "The original claims were exaggerated."
+     ]
+    },
+    {
+     "id": "practice06-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Small samples: a result can easily appear by __________",
+     "explanation": "Small samples allow chance results.",
+     "evidenceQuote": "a result can easily appear by chance",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Questionable practices: collecting more __________ until results are significant",
+     "explanation": "Collecting more data until significant.",
+     "evidenceQuote": "collecting more data until the result becomes significant",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "data"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Similar problems found in cancer biology and __________",
+     "explanation": "Economics has had similar debates.",
+     "evidenceQuote": "economics has had similar debates",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "economics"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Registered reports: journals accept studies based on their __________",
+     "explanation": "Acceptance is based on design.",
+     "evidenceQuote": "based on its design, before the results are known",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "design"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "In the short term, the crisis has damaged public __________",
+     "explanation": "Public trust has been damaged.",
+     "evidenceQuote": "it's damaged public trust in the short term",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trust"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "replication",
+    "statistical significance",
+    "p-value",
+    "pre-registration",
+    "sample size"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice06-lp4",
+   "partNumber": 4,
+   "title": "How we make decisions",
+   "contextDescription": "A lecture in a psychology course on heuristics and biases in human decision-making.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "BC04DA23-69DD-5E9B-997C-6E9FE27D0D1A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good afternoon. Today we turn to one of the most influential areas of modern psychology: the study of how people make decisions under uncertainty, and why those decisions so often depart from what we might consider rational. Much of this work began with two Israeli psychologists, Daniel Kahneman and Amos Tversky, whose research in the 1970s challenged the assumption, common in economics, that people generally make logical choices that maximise their own interests."
+    },
+    {
+     "id": "E039A4F5-756A-5F89-AE01-AECB1F96D927",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Kahneman later described the mind as using two different systems of thinking. System One is fast, automatic and intuitive; it's what allows you to recognise a friend's face instantly or to understand a simple sentence without effort. System Two is slow, deliberate and effortful; it's what you use to solve a difficult mathematical problem or fill in a tax form. Most of the time, System One works extremely well. But it relies on mental shortcuts, known as heuristics, which can lead to systematic errors, or biases."
+    },
+    {
+     "id": "3737B73B-CC6A-5370-BE50-00BFEF2A2993",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Let me give you three examples. The first is the availability heuristic: we judge how likely something is by how easily examples come to mind. Events that are dramatic or widely reported, such as plane crashes or shark attacks, are easy to recall, so people tend to overestimate their frequency. Meanwhile, far more common causes of death, such as heart disease, receive less attention and are underestimated. After a major accident is reported in the news, for example, sales of insurance against that kind of accident often rise sharply, even though the actual risk hasn't changed."
+    },
+    {
+     "id": "22343687-C1E1-5BFB-BE99-DB05755A7517",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The second is anchoring. In one famous experiment, Tversky and Kahneman spun a wheel of fortune that had been fixed to stop at either ten or sixty-five. Participants were then asked to estimate the percentage of African countries in the United Nations. Those who had seen the number sixty-five gave much higher estimates than those who had seen ten, even though the number on the wheel was obviously random. Anchoring effects have since been found among experienced professionals, including judges deciding on sentences and estate agents valuing houses."
+    },
+    {
+     "id": "C9DB6743-E014-5EC9-8422-5A036B5D0421",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The third example is framing. People's choices can be influenced by how options are described, even when the underlying facts are identical. In one well-known study, participants were told that a disease was expected to kill six hundred people and asked to choose between two programmes. When the options were described in terms of lives saved, most people chose the certain option. When exactly the same options were described in terms of deaths, most people chose the risky option. This finding has obvious implications for how doctors present information about treatments to patients."
+    },
+    {
+     "id": "F781323E-8F8F-59EF-977F-FF54F869D482",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Underlying many of these patterns is a principle Kahneman and Tversky called loss aversion: losses feel roughly twice as painful as equivalent gains feel pleasurable. This helps to explain why people often hold on to investments that are falling in value, hoping to avoid realising a loss, and why they may refuse a bet with a fifty per cent chance of winning a hundred and fifty pounds and a fifty per cent chance of losing a hundred, even though, on average, they would gain."
+    },
+    {
+     "id": "1BC7C65E-7D57-5892-A260-92D24F13978F",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Now, it would be wrong to conclude from this research that humans are simply irrational. Some psychologists, notably Gerd Gigerenzer, have argued that heuristics are often remarkably effective, especially in real-world environments where information is limited and time is short. A simple rule of thumb may outperform complex calculations when the future is genuinely uncertain. The question, then, is not whether heuristics are good or bad, but in which environments they serve us well."
+    },
+    {
+     "id": "EB2B2AED-FD73-53EA-A8A8-C6458AFC23C9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "This research has had a major practical impact. Kahneman was awarded the Nobel Prize in Economics in 2002, an unusual honour for a psychologist. Tversky had died in 1996, and the prize is not awarded after death. Their ideas have since influenced fields as diverse as medicine, law, finance and public policy, and we'll look at some of these applications next week."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice06-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Kahneman and Tversky challenged a common assumption in __________",
+     "explanation": "They challenged an economic assumption.",
+     "evidenceQuote": "challenged the assumption, common in economics",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "economics"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "System One: fast, automatic and __________",
+     "explanation": "System One is intuitive.",
+     "evidenceQuote": "System One is fast, automatic and intuitive",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "intuitive"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Heuristics can lead to systematic errors called __________",
+     "explanation": "The errors are called biases.",
+     "evidenceQuote": "which can lead to systematic errors, or biases",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "biases"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Availability: after an accident in the news, sales of __________ often rise",
+     "explanation": "Insurance sales rise.",
+     "evidenceQuote": "sales of insurance against that kind of accident often rise sharply",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "insurance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Anchoring experiment used a __________ of fortune",
+     "explanation": "They used a wheel of fortune.",
+     "evidenceQuote": "spun a wheel of fortune",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wheel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Anchoring found among judges and estate __________",
+     "explanation": "Estate agents are affected.",
+     "evidenceQuote": "estate agents valuing houses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "agents"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Framing: choices depend on how options are __________",
+     "explanation": "Description affects choice.",
+     "evidenceQuote": "how options are described",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "described"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Loss aversion: losses feel about __________ as painful as gains feel good",
+     "explanation": "Losses feel about twice as painful.",
+     "evidenceQuote": "losses feel roughly twice as painful as equivalent gains feel pleasurable",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "twice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Gigerenzer: heuristics work well where information is limited and __________ is short",
+     "explanation": "Heuristics suit limited time.",
+     "evidenceQuote": "where information is limited and time is short",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "time"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Tversky could not share the Nobel Prize because he had __________",
+     "explanation": "Tversky had died.",
+     "evidenceQuote": "Tversky had died in 1996",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "died"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "heuristic",
+    "bias",
+    "availability",
+    "anchoring",
+    "framing"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice06-rp1",
+   "passageNumber": 1,
+   "title": "The man who could not forget",
+   "discipline": "Neuropsychology",
+   "paragraphs": [
+    "In the 1920s, a young Russian journalist named Solomon Shereshevsky was sent by his editor to see the psychologist Alexander Luria. The editor had noticed that Shereshevsky never took notes at the daily morning meeting, yet could repeat every instruction word for word. Shereshevsky himself saw nothing remarkable in this; he assumed that everyone remembered in the same way. Luria began testing him, expecting to find the limits of his memory quickly, as he would with any other subject. Instead, over a period of some thirty years, he found that there appeared to be no limit at all.",
+    "Luria presented Shereshevsky with long lists of words, numbers and nonsense syllables, and found that he could recall them perfectly, forwards or backwards, after hearing them once. More astonishingly, he could reproduce the same lists when tested again months or even, on some occasions, more than a decade later, without having been warned that he would be tested. In the book he eventually wrote about the case, Luria described his subject's memory as having, for practical purposes, no measurable capacity and no measurable decline over time.",
+    "Part of the explanation seemed to lie in an unusual condition called synaesthesia, in which stimulation of one sense automatically produces sensations in another. For Shereshevsky, sounds and words triggered vivid images, colours, tastes and even textures. A particular tone might appear to him as a strip of reddish-orange light, and he once told the psychologist Lev Vygotsky that he had 'such a crumbly, yellow voice'. These rich associations made each item to be remembered highly distinctive, and therefore easy to recall. Numbers, too, took on personalities for him: the number one was a proud, well-built man, while seven was a man with a moustache. Such vivid, almost cinematic associations are rare even among people with synaesthesia, and they appear to have been central to his abilities.",
+    "Shereshevsky also used deliberate techniques. When memorising a list, he would imagine walking along a familiar street, such as Gorky Street in Moscow, and place an image of each item at a particular point along the route, outside a house, beside a fence or in a shop window. To recall the list, he simply walked along the street again in his imagination and 'saw' the objects. This technique, known as the method of loci, has been used since ancient times; Greek and Roman orators used it to memorise long speeches. Interestingly, Shereshevsky's rare errors usually occurred not because he had forgotten an item but because he had placed it somewhere poorly lit, or against a background of the same colour, so that he failed to 'see' it.",
+    "His extraordinary memory, however, was far from an unqualified advantage. Shereshevsky found it very difficult to forget, and his mind was often crowded with images from the past that he could not suppress. He struggled with abstract ideas and with metaphors, because every word called up a concrete image that interfered with the meaning. Poetry was particularly hard for him. He also had trouble recognising faces, because a person's face changed constantly with their expression and the light, so that each version seemed like a separate image. After leaving journalism, he tried several jobs before eventually earning his living as a professional memory performer, giving demonstrations on stage.",
+    "Modern researchers have studied a small number of people with a condition now called highly superior autobiographical memory, who can remember what happened on almost every day of their lives, often including the weather and what they ate. Unlike Shereshevsky, however, these individuals are generally no better than average at memorising lists of words or numbers. Their remarkable recall is limited to events from their own lives, and some researchers believe it may be linked to a tendency to rehearse personal memories obsessively.",
+    "Such cases are fascinating partly because they challenge our assumption that a better memory would always be desirable. Many psychologists now argue that forgetting is not simply a failure of memory but an essential part of how it works. By allowing unimportant details to fade, forgetting helps us to generalise from experience, to focus on what matters and to adapt when circumstances change. Shereshevsky's life suggests that a mind that retains everything may find it harder, not easier, to understand the world."
+   ],
+   "questions": [
+    {
+     "id": "practice06-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Shereshevsky realised that his memory was unusual before he met Luria.",
+     "explanation": "He assumed everyone remembered as he did.",
+     "evidenceQuote": "he assumed that everyone remembered in the same way",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice06-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Shereshevsky was sometimes tested on lists more than ten years after first learning them.",
+     "explanation": "Some retests came more than a decade later.",
+     "evidenceQuote": "more than a decade later",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice06-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Luria found that Shereshevsky's memory gradually declined with age.",
+     "explanation": "Luria found no measurable decline.",
+     "evidenceQuote": "no measurable decline over time",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice06-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Vygotsky also studied Shereshevsky for several years.",
+     "explanation": "Vygotsky is mentioned once; no study by him is described.",
+     "evidenceQuote": "he once told the psychologist Lev Vygotsky",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice06-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The method of loci was invented by Shereshevsky.",
+     "explanation": "It dates back to ancient times.",
+     "evidenceQuote": "has been used since ancient times",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice06-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Shereshevsky earned money by performing memory feats.",
+     "explanation": "He became a professional memory performer.",
+     "evidenceQuote": "earning his living as a professional memory performer",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice06-R7",
+     "number": 7,
+     "format": "Summary Completion",
+     "prompt": "In synaesthesia, stimulation of one __________ produces sensations in another.",
+     "explanation": "One sense triggers another.",
+     "evidenceQuote": "stimulation of one sense automatically produces sensations in another",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sense"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R8",
+     "number": 8,
+     "format": "Summary Completion",
+     "prompt": "For Shereshevsky, words produced images, colours, tastes and __________.",
+     "explanation": "Words even produced textures.",
+     "evidenceQuote": "triggered vivid images, colours, tastes and even textures",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "textures"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R9",
+     "number": 9,
+     "format": "Summary Completion",
+     "prompt": "His errors occurred when items were placed somewhere poorly __________.",
+     "explanation": "Items in poor light were missed.",
+     "evidenceQuote": "he had placed it somewhere poorly lit",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lit"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R10",
+     "number": 10,
+     "format": "Summary Completion",
+     "prompt": "He found __________ particularly difficult to understand.",
+     "explanation": "Poetry was hard for him.",
+     "evidenceQuote": "Poetry was particularly hard for him",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "poetry"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R11",
+     "number": 11,
+     "format": "Summary Completion",
+     "prompt": "He had trouble recognising __________ because they kept changing.",
+     "explanation": "Faces changed constantly.",
+     "evidenceQuote": "He also had trouble recognising faces",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "faces"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R12",
+     "number": 12,
+     "format": "Summary Completion",
+     "prompt": "People with superior autobiographical memory may __________ their personal memories obsessively.",
+     "explanation": "They may rehearse memories obsessively.",
+     "evidenceQuote": "a tendency to rehearse personal memories obsessively",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rehearse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice06-R13",
+     "number": 13,
+     "format": "Summary Completion",
+     "prompt": "Many psychologists see forgetting as helping us to __________ from experience.",
+     "explanation": "Forgetting helps us generalise.",
+     "evidenceQuote": "forgetting helps us to generalise from experience",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "generalise"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 711,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice06-rp2",
+   "passageNumber": 2,
+   "title": "The science of habits",
+   "discipline": "Behavioural Science",
+   "paragraphs": [
+    "Much of what we do each day is not the result of conscious decision. Researchers who asked people to record their actions at regular intervals found that roughly forty per cent of everyday behaviour was performed almost every day, usually in the same place, and often while the person was thinking about something else. Brushing our teeth, checking our phones, taking a particular route to work: these actions are governed less by intention than by habit. Understanding how habits form, and how they can be changed, has therefore become a major concern for psychologists, doctors and public health officials.",
+    "A habit, in the psychological sense, is an action that is triggered automatically by a cue in the environment as a result of repeated association. The cue might be a place, a time of day, an emotional state or the presence of particular people. Each time the action is performed in response to the cue and followed by a reward, the link between them becomes stronger. Eventually, the cue alone is enough to prompt the behaviour, even when the reward is no longer valued. In one experiment, people who habitually ate popcorn at the cinema ate just as much stale, week-old popcorn as fresh popcorn, provided they were in a cinema; in a meeting room, by contrast, they ate far less of the stale variety.",
+    "Neuroscientists have traced the shift from deliberate action to habit to changes in the brain. When we first learn a behaviour, areas involved in planning and decision-making are highly active. As the behaviour is repeated, control gradually passes to a group of structures deep in the brain known as the basal ganglia, which allows the action to be carried out with little conscious effort. This frees mental resources for other tasks, which is why habits are so useful: imagine having to think carefully about every movement involved in driving or typing.",
+    "How long does it take to form a habit? A popular claim, repeated in countless self-help books, is that it takes twenty-one days. This figure appears to come from a 1960s book by a plastic surgeon, who observed that patients took about three weeks to get used to changes in their appearance, and it has no basis in research on habits. In a study published in 2009, participants chose a new healthy behaviour, such as drinking a glass of water after breakfast or going for a run before dinner, and reported daily how automatic it felt. The average time to reach maximum automaticity was sixty-six days, but there was enormous variation, from eighteen days to an estimated two hundred and fifty-four. Simpler behaviours became automatic more quickly, and missing a single day did not significantly affect the process.",
+    "One implication of habit research is that good intentions are often not enough. People who intend to eat more healthily or exercise more regularly frequently fail, not because they lack willpower, but because their environment continues to trigger old habits. Research suggests that a more effective strategy is to change the environment itself, so that the cues for unwanted habits are removed and cues for desired ones are added. Keeping fruit on the kitchen table rather than biscuits, or placing running shoes by the door, may achieve more than determination alone.",
+    "Major life changes offer a particular opportunity. When people move house, start a new job or have a child, the familiar cues that maintained their habits are disrupted, and behaviour becomes more open to deliberate choice. Researchers have described this as the 'habit discontinuity hypothesis'. In one study, people who had recently moved home were more likely to change their method of travel to work after receiving information about environmentally friendly options than people who had lived in the same place for longer. Some public health campaigns now deliberately target people at such moments.",
+    "Another useful technique is what psychologists call implementation intentions: specific plans that link a behaviour to a particular situation, in the form 'When situation X arises, I will do Y.' For example, rather than simply intending to floss their teeth more often, a person might decide, 'After I brush my teeth at night, I will floss.' Dozens of studies have found that forming such plans substantially increases the chances that people will follow through on their intentions, apparently because they create a new cue-action link that the person can rely on without needing to remember or decide."
+   ],
+   "questions": [
+    {
+     "id": "practice06-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B defines habits as cue-triggered actions.",
+     "evidenceQuote": "A habit, in the psychological sense, is an action that is triggered automatically by a cue",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. What a habit is and how it strengthens",
+      "What a habit is and how it strengthens"
+     ]
+    },
+    {
+     "id": "practice06-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains brain changes.",
+     "evidenceQuote": "Neuroscientists have traced the shift from deliberate action to habit to changes in the brain",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. What happens in the brain",
+      "What happens in the brain"
+     ]
+    },
+    {
+     "id": "practice06-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D tests the 21-day myth.",
+     "evidenceQuote": "A popular claim, repeated in countless self-help books, is that it takes twenty-one days",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Testing a widely believed figure",
+      "Testing a widely believed figure"
+     ]
+    },
+    {
+     "id": "practice06-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E recommends changing the environment.",
+     "evidenceQuote": "a more effective strategy is to change the environment itself",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Rearranging surroundings to support change",
+      "Rearranging surroundings to support change"
+     ]
+    },
+    {
+     "id": "practice06-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F discusses life changes as opportunities.",
+     "evidenceQuote": "Major life changes offer a particular opportunity",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Times when change becomes easier",
+      "Times when change becomes easier"
+     ]
+    },
+    {
+     "id": "practice06-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G explains implementation intentions.",
+     "evidenceQuote": "specific plans that link a behaviour to a particular situation",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Linking actions to specific situations",
+      "Linking actions to specific situations"
+     ]
+    },
+    {
+     "id": "practice06-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What did the popcorn experiment show?",
+     "explanation": "The cinema cue drove eating even of stale popcorn.",
+     "evidenceQuote": "ate just as much stale, week-old popcorn as fresh popcorn, provided they were in a cinema",
+     "skillTag": "inference",
+     "options": [
+      "A. People prefer fresh popcorn in any setting.",
+      "B. People eat more in meeting rooms.",
+      "C. Habitual behaviour can continue even when the reward is poor.",
+      "D. Stale popcorn is rarely eaten."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Habitual behaviour can continue even when the reward is poor.",
+      "Habitual behaviour can continue even when the reward is poor."
+     ]
+    },
+    {
+     "id": "practice06-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why are habits useful according to paragraph C?",
+     "explanation": "Habits free mental resources.",
+     "evidenceQuote": "This frees mental resources for other tasks",
+     "skillTag": "detail",
+     "options": [
+      "A. They free the mind for other tasks.",
+      "B. They make learning faster.",
+      "C. They prevent mistakes when driving.",
+      "D. They improve memory."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They free the mind for other tasks.",
+      "They free the mind for other tasks."
+     ]
+    },
+    {
+     "id": "practice06-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Where does the \"twenty-one days\" figure come from?",
+     "explanation": "It comes from a plastic surgeon's book.",
+     "evidenceQuote": "a 1960s book by a plastic surgeon",
+     "skillTag": "detail",
+     "options": [
+      "A. a large study of habits",
+      "B. a study of runners",
+      "C. research on breakfast routines",
+      "D. observations of surgical patients"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. observations of surgical patients",
+      "observations of surgical patients"
+     ]
+    },
+    {
+     "id": "practice06-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "In the 2009 study, what effect did missing one day have?",
+     "explanation": "It had no significant effect.",
+     "evidenceQuote": "missing a single day did not significantly affect the process",
+     "skillTag": "detail",
+     "options": [
+      "A. It reset the process completely.",
+      "B. It made little difference.",
+      "C. It doubled the time needed.",
+      "D. It made the habit stronger."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It made little difference.",
+      "It made little difference."
+     ]
+    },
+    {
+     "id": "practice06-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "As behaviour is repeated, control passes to the __________.",
+     "explanation": "Control passes to the basal ganglia.",
+     "evidenceQuote": "known as the basal ganglia",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "basal ganglia"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice06-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "On average, participants took __________ days to reach maximum automaticity.",
+     "explanation": "The average was sixty-six days.",
+     "evidenceQuote": "The average time to reach maximum automaticity was sixty-six days",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sixty-six",
+      "66"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice06-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "People who had recently moved were more likely to change their method of __________ to work.",
+     "explanation": "They changed their method of travel.",
+     "evidenceQuote": "change their method of travel to work",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "travel"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 735,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below.",
+     "options": [
+      "i. Times when change becomes easier",
+      "ii. Testing a widely believed figure",
+      "iii. Why willpower always succeeds",
+      "iv. Linking actions to specific situations",
+      "v. What a habit is and how it strengthens",
+      "vi. Rearranging surroundings to support change",
+      "vii. Habits in other animals",
+      "viii. What happens in the brain"
+     ]
+    },
+    {
+     "from": 20,
+     "to": 23,
+     "instruction": "Questions 20–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice06-rp3",
+   "passageNumber": 3,
+   "title": "Is free will an illusion?",
+   "discipline": "Philosophy & Neuroscience",
+   "paragraphs": [
+    "In 1983, the American neuroscientist Benjamin Libet published the results of an experiment that has been debated ever since. Participants were asked to flex their wrist whenever they felt the urge to do so, while watching a special clock and noting the position of a moving dot at the moment they first became aware of the decision to move. At the same time, electrodes on their scalp recorded a pattern of brain activity known as the readiness potential, which was already known to precede voluntary movements. Libet found that the readiness potential began, on average, about a third of a second before participants reported being aware of their decision.",
+    "To many commentators, the implication seemed obvious and startling. If the brain begins preparing an action before we are conscious of deciding to act, then our sense of consciously choosing may be an illusion; the real decision, on this view, is made by unconscious brain processes, and conscious awareness merely follows. Later experiments using brain scanning appeared to strengthen this conclusion. In one study, researchers were able to predict, with an accuracy somewhat better than chance, which of two buttons a participant would press up to several seconds before the participant reported making the decision.",
+    "Libet himself did not draw such a radical conclusion. He noted that there remained a brief window, around a fifth of a second, between conscious awareness and the movement itself, during which participants could still veto the action. Free will, he suggested, might operate not by initiating actions but by allowing or blocking them, a capacity sometimes described as 'free won't'. Critics have pointed out, though, that if the decision to veto is itself caused by earlier brain activity, this merely moves the problem back a step.",
+    "More recent research has challenged the interpretation of the readiness potential itself. In 2012, a team led by Aaron Schurger proposed that the gradual build-up of activity reflects not a decision being made unconsciously, but the random fluctuations of neural activity that occur all the time. In a task where people are asked to move at an arbitrary moment for no reason, they argued, the movement is likely to occur when these fluctuations happen to cross a threshold. Averaged across many trials, this produces a curve that looks like a slow preparation for action, even though no decision was being made in advance. If this is correct, the readiness potential tells us little about when decisions are actually made.",
+    "There are also doubts about whether the experiments study the kind of decision that matters. Flexing a wrist at a random moment is a choice with no reasons and no consequences. Most decisions that we care about, such as accepting a job or ending a relationship, involve weighing reasons over hours, days or even months. A study by Uri Maoz and colleagues found that the readiness potential was present when participants made arbitrary choices between two charities, but largely absent when the choice was meaningful because the selected charity would actually receive a donation. It seems unwise, I would suggest, to draw sweeping conclusions about human freedom from laboratory tasks that are so unlike the choices of real life.",
+    "Philosophers, meanwhile, point out that the experiments may not address the real question at all. Many philosophers are what is called compatibilists: they argue that free will is compatible with the idea that all events, including our decisions, have prior causes. On this view, an action is free not because it is uncaused, but because it flows from the person's own desires, values and reasoning, rather than from external force or compulsion. Unconscious brain processes are, after all, still processes within the person. For a compatibilist, discovering that decisions begin in neural activity before conscious awareness is no more threatening to freedom than discovering that thoughts are made of neurons.",
+    "Does any of this matter outside the laboratory? Some research suggests it might. In one study, participants who read a passage arguing that free will is an illusion subsequently behaved less honestly in a test where cheating was possible than those who read a neutral passage. Although attempts to repeat this finding have produced mixed results, it raises the possibility that how we think about free will may influence how we behave. My own view is that the neuroscience has added valuable detail to our understanding of how actions are produced, but that it has not, so far, settled one of philosophy's oldest questions."
+   ],
+   "questions": [
+    {
+     "id": "practice06-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Libet concluded that free will does not exist.",
+     "explanation": "Libet did not draw that conclusion.",
+     "evidenceQuote": "Libet himself did not draw such a radical conclusion",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice06-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The \"free won't\" idea fully solves the problem raised by Libet's findings.",
+     "explanation": "Critics say it only moves the problem back.",
+     "evidenceQuote": "this merely moves the problem back a step",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice06-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Schurger's explanation, if correct, weakens the importance of the readiness potential.",
+     "explanation": "It would tell us little about decisions.",
+     "evidenceQuote": "the readiness potential tells us little about when decisions are actually made",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice06-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Laboratory tasks provide a strong basis for broad claims about human freedom.",
+     "explanation": "The writer thinks it unwise.",
+     "evidenceQuote": "It seems unwise, I would suggest, to draw sweeping conclusions about human freedom from laboratory tasks",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice06-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Most neuroscientists are compatibilists.",
+     "explanation": "Only philosophers are mentioned as compatibilists.",
+     "evidenceQuote": "Many philosophers are what is called compatibilists",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice06-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Neuroscience has so far answered the question of free will.",
+     "explanation": "The writer says it has not settled the question.",
+     "evidenceQuote": "it has not, so far, settled one of philosophy's oldest questions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice06-R33",
+     "number": 33,
+     "format": "Matching Sentence Endings",
+     "prompt": "In Libet's experiment, the readiness potential",
+     "explanation": "It began before conscious awareness.",
+     "evidenceQuote": "began, on average, about a third of a second before participants reported being aware of their decision",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. was mostly missing when choices had real consequences.",
+      "B. was found only in philosophers.",
+      "C. started before people were aware of deciding.",
+      "D. proved that decisions are random.",
+      "E. could forecast choices somewhat better than guessing.",
+      "F. comes from the person's own values and reasons."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. started before people were aware of deciding.",
+      "started before people were aware of deciding."
+     ]
+    },
+    {
+     "id": "practice06-R34",
+     "number": 34,
+     "format": "Matching Sentence Endings",
+     "prompt": "In the brain scanning study, researchers",
+     "explanation": "They predicted choices somewhat better than chance.",
+     "evidenceQuote": "were able to predict, with an accuracy somewhat better than chance, which of two buttons a participant would press",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. was mostly missing when choices had real consequences.",
+      "B. was found only in philosophers.",
+      "C. started before people were aware of deciding.",
+      "D. proved that decisions are random.",
+      "E. could forecast choices somewhat better than guessing.",
+      "F. comes from the person's own values and reasons."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. could forecast choices somewhat better than guessing.",
+      "could forecast choices somewhat better than guessing."
+     ]
+    },
+    {
+     "id": "practice06-R35",
+     "number": 35,
+     "format": "Matching Sentence Endings",
+     "prompt": "In the charity study, the readiness potential",
+     "explanation": "It was largely absent for meaningful choices.",
+     "evidenceQuote": "largely absent when the choice was meaningful",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. was mostly missing when choices had real consequences.",
+      "B. was found only in philosophers.",
+      "C. started before people were aware of deciding.",
+      "D. proved that decisions are random.",
+      "E. could forecast choices somewhat better than guessing.",
+      "F. comes from the person's own values and reasons."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. was mostly missing when choices had real consequences.",
+      "was mostly missing when choices had real consequences."
+     ]
+    },
+    {
+     "id": "practice06-R36",
+     "number": 36,
+     "format": "Matching Sentence Endings",
+     "prompt": "For compatibilists, an action is free if it",
+     "explanation": "It comes from the person's own reasons.",
+     "evidenceQuote": "it flows from the person's own desires, values and reasoning",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. was mostly missing when choices had real consequences.",
+      "B. was found only in philosophers.",
+      "C. started before people were aware of deciding.",
+      "D. proved that decisions are random.",
+      "E. could forecast choices somewhat better than guessing.",
+      "F. comes from the person's own values and reasons."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. comes from the person's own values and reasons.",
+      "comes from the person's own values and reasons."
+     ]
+    },
+    {
+     "id": "practice06-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "In Libet's experiment, participants used a clock to",
+     "explanation": "They noted when they became aware of deciding.",
+     "evidenceQuote": "noting the position of a moving dot at the moment they first became aware of the decision to move",
+     "skillTag": "detail",
+     "options": [
+      "A. time how long the movement took.",
+      "B. record when they became aware of their decision.",
+      "C. know when to move.",
+      "D. measure the readiness potential."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. record when they became aware of their decision.",
+      "record when they became aware of their decision."
+     ]
+    },
+    {
+     "id": "practice06-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "According to Schurger, the readiness potential may reflect",
+     "explanation": "It may reflect random neural fluctuations.",
+     "evidenceQuote": "the random fluctuations of neural activity that occur all the time",
+     "skillTag": "detail",
+     "options": [
+      "A. an unconscious decision.",
+      "B. muscle activity.",
+      "C. the effort of concentrating.",
+      "D. random background brain activity."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. random background brain activity.",
+      "random background brain activity."
+     ]
+    },
+    {
+     "id": "practice06-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer mention accepting a job or ending a relationship?",
+     "explanation": "To contrast real decisions with arbitrary lab tasks.",
+     "evidenceQuote": "Most decisions that we care about, such as accepting a job or ending a relationship, involve weighing reasons over hours, days or even months",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. to contrast important decisions with laboratory tasks",
+      "B. to show that such decisions are made unconsciously",
+      "C. to give examples of the experiments",
+      "D. to explain compatibilism"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to contrast important decisions with laboratory tasks",
+      "to contrast important decisions with laboratory tasks"
+     ]
+    },
+    {
+     "id": "practice06-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "What does the study on cheating suggest?",
+     "explanation": "Beliefs about free will may influence behaviour.",
+     "evidenceQuote": "how we think about free will may influence how we behave",
+     "skillTag": "inference",
+     "options": [
+      "A. People who believe in free will cheat more.",
+      "B. Cheating is caused by unconscious processes.",
+      "C. Beliefs about free will might affect behaviour.",
+      "D. The finding has been confirmed many times."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Beliefs about free will might affect behaviour.",
+      "Beliefs about free will might affect behaviour."
+     ]
+    }
+   ],
+   "estimatedWordCount": 743,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. was mostly missing when choices had real consequences.",
+      "B. was found only in philosophers.",
+      "C. started before people were aware of deciding.",
+      "D. proved that decisions are random.",
+      "E. could forecast choices somewhat better than guessing.",
+      "F. comes from the person's own values and reasons."
+     ]
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice06-w1",
+  "title": "How people learn new skills",
+  "visualType": "Pie Chart",
+  "instructions": "The pie charts below show the main methods adults in one country used to learn new skills in 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "707DAD9F-53DE-5D66-90DF-539C138847DF",
+    "series": "2005",
+    "category": "Classes in person",
+    "value": 38.0,
+    "unit": "%"
+   },
+   {
+    "id": "1B3F7D1A-9A60-5809-8D27-D7D4035A6A87",
+    "series": "2005",
+    "category": "Books",
+    "value": 27.0,
+    "unit": "%"
+   },
+   {
+    "id": "E54404AA-8A80-5296-80C7-36FEB0F988FC",
+    "series": "2005",
+    "category": "Friends and family",
+    "value": 21.0,
+    "unit": "%"
+   },
+   {
+    "id": "0776935B-9323-5E55-891F-8BC0D29EE658",
+    "series": "2005",
+    "category": "Online videos",
+    "value": 4.0,
+    "unit": "%"
+   },
+   {
+    "id": "B88C788E-7FB0-54C5-B950-DE091B36C8B9",
+    "series": "2005",
+    "category": "Online courses",
+    "value": 10.0,
+    "unit": "%"
+   },
+   {
+    "id": "B448BEA8-B082-55F8-AE84-7E763D214ECD",
+    "series": "2025",
+    "category": "Classes in person",
+    "value": 14.0,
+    "unit": "%"
+   },
+   {
+    "id": "6D85C968-D27A-5C54-87B0-9789A5D68C6B",
+    "series": "2025",
+    "category": "Books",
+    "value": 9.0,
+    "unit": "%"
+   },
+   {
+    "id": "74AEA78E-57D5-5113-A48C-DC69D6376FFC",
+    "series": "2025",
+    "category": "Friends and family",
+    "value": 15.0,
+    "unit": "%"
+   },
+   {
+    "id": "97B630E5-C2DE-51ED-B0A1-9D94848A72E1",
+    "series": "2025",
+    "category": "Online videos",
+    "value": 37.0,
+    "unit": "%"
+   },
+   {
+    "id": "CF679ACA-7E1A-53DD-848B-8BBF77517528",
+    "series": "2025",
+    "category": "Online courses",
+    "value": 25.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Traditional methods (classes and books) declined sharply, while online methods grew dramatically.",
+   "Online videos rose from the least common to the most common method."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice06-w2",
+  "title": "Memory in the digital age",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Technology & Education",
+  "promptText": "Many people now rely on smartphones and the internet to remember information such as phone numbers, dates and facts. Why has this happened? Is this a positive or negative development?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice06-spk",
+  "theme": "Memory, habits and decisions",
+  "part1Questions": [
+   "Are you good at remembering things?",
+   "What do you do to help you remember important dates?",
+   "Do you have any daily routines?",
+   "Do you find it easy to make decisions?",
+   "Do you prefer to plan or to be spontaneous?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an important decision you made that turned out well.",
+   "bulletPoints": [
+    "what the decision was",
+    "when you made it",
+    "how you made it",
+    "and explain why you think it was a good decision"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people find it difficult to change their habits?",
+   "Should important decisions be made quickly or slowly?",
+   "Do people have too many choices in modern life?",
+   "Is it better to make decisions alone or with advice from others?",
+   "How has technology changed the way people remember things?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Written at an Advanced level (Band 8.0–9.0). Research findings are summarised in general terms for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

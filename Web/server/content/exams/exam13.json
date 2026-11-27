@@ -1,0 +1,2218 @@
+{
+ "id": "exam13",
+ "examNumber": 13,
+ "pool": "mock",
+ "title": "Mock Exam 13: Music, Sound & the Arts",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Music, Sound & the Arts",
+ "listeningParts": [
+  {
+   "id": "exam13-lp1",
+   "partNumber": 1,
+   "title": "Volunteering at a music festival",
+   "contextDescription": "A student phones a festival organiser to ask about volunteering.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "DD7E9152-01F5-58BA-B03F-19D5E17B6A2A",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Hello, Greenvale Music Festival volunteer office, Martha speaking."
+    },
+    {
+     "id": "D6B2CEE4-4163-5874-AB29-237C94DFE5B4",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Hi, I saw on your website that you're looking for volunteers for this summer's festival, and I'd like to find out more."
+    },
+    {
+     "id": "42986E44-174C-58CF-8823-C41E90851602",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Great, thanks for calling. The festival runs for three days, from Friday the eighth of August to Sunday the tenth. Volunteers work three shifts of eight hours during the festival, and in return you get a free ticket for the whole weekend, which normally costs two hundred and forty pounds."
+    },
+    {
+     "id": "439F5C4E-9D56-5545-AC33-8EB071465752",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "That sounds like a good deal. What kind of jobs are there?"
+    },
+    {
+     "id": "52A01057-E799-5E15-9EDB-8F03F7559DA2",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There are several teams. The biggest is the stewarding team, which helps with crowd safety, checking tickets at the gates and giving directions. Then there's the recycling team, which collects and sorts waste around the site. We're trying to reduce the amount that goes to landfill, so it's an important job. We also have volunteers in the information tents and at the children's area."
+    },
+    {
+     "id": "564903DA-ED22-5B1B-9D7E-D53EB1511C10",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "I think I'd be most interested in the children's area. I've worked at a summer camp before."
+    },
+    {
+     "id": "EE475D33-88A8-5AD6-B718-FBA475D6A8A5",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "That's useful experience. For the children's area, you need to be at least twenty-one, and you'll need a background check, which we arrange for you free of charge. How old are you?"
+    },
+    {
+     "id": "0C2EFD52-E687-5079-A0D9-3CA77A79DF40",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "I'm twenty-two."
+    },
+    {
+     "id": "1B931627-CC60-5072-AC34-4396FC9CCB8F",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Perfect. The children's area runs activities like face painting, craft workshops and storytelling, and there's a small stage for children's bands. Shifts there are during the day only, between ten in the morning and six in the evening, so you'd have your evenings free to see the main bands."
+    },
+    {
+     "id": "C6E486EA-2E29-5AE0-AD3D-4D411262F01A",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Even better. Where do volunteers stay?"
+    },
+    {
+     "id": "FCD634AA-1C42-55F8-9E6D-C765F3A0948C",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There's a separate volunteers' campsite, which is quieter than the main one and has its own showers and a kitchen tent. You need to bring your own tent and sleeping bag. Meals are provided during your shifts, and you'll get a voucher for one hot meal a day from any food stall on site."
+    },
+    {
+     "id": "D9570D5A-1737-597B-9C5B-D9787BBCCD76",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Do I have to attend any training?"
+    },
+    {
+     "id": "9B290561-0F82-5CF5-B646-FE191B6157B6",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Yes, all volunteers must attend an induction. There's an online session that takes about an hour, which you need to complete by the end of June. Then there's a short briefing on site on the Thursday afternoon, when you arrive and collect your wristband."
+    },
+    {
+     "id": "99257762-F367-5B09-8815-6C29A3480829",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "And is there a deposit or anything like that?"
+    },
+    {
+     "id": "A9266405-1963-576A-A1BF-731E0922363B",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There is. We ask for a deposit of the full ticket price when you sign up, which is returned to you after the festival as long as you complete all three shifts. It's unfortunate, but in the past some people signed up just to get a free ticket and then didn't turn up for work."
+    },
+    {
+     "id": "0240831C-6DF0-509F-B24A-67003125CFEC",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "That's fair. How do I get to the site? I don't drive."
+    },
+    {
+     "id": "CB0D31B0-5909-5C8D-A4D0-8D35E9FAA0B6",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There's a free shuttle bus for volunteers from Hadley train station on the Thursday, leaving every half hour from twelve o'clock. Just show your volunteer email to the driver."
+    },
+    {
+     "id": "514B16BB-49C9-52E6-AA50-79963194569E",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Great. Can I apply now?"
+    },
+    {
+     "id": "5278432C-144D-5F2B-868E-4F6ACAD7CCF7",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Yes, I can start the form. What's your full name?"
+    },
+    {
+     "id": "BB4117B9-7212-523B-AAF6-4066EEAD8D38",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Jasmine Whitlock. That's W-H-I-T-L-O-C-K."
+    },
+    {
+     "id": "37E1A34B-B824-5BE9-BD43-7C9452F099A6",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "And an email address?"
+    },
+    {
+     "id": "CA1AC8DF-20A4-5401-BA52-CD647A7E477B",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "It's jaswhit22 at mailbox dot com. That's J-A-S-W-H-I-T, then the numbers two, two."
+    },
+    {
+     "id": "498912E2-4088-5102-A4E9-BA14BD23E3DF",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Lovely. And do you have any special skills that might be useful? First aid, for example, or other languages?"
+    },
+    {
+     "id": "3166547E-F93C-5561-8173-1B89D2E0E7B3",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "I've got a first-aid certificate from my summer camp job, and I speak some Italian."
+    },
+    {
+     "id": "C1B92919-1483-5CC6-88B7-7C45E8A62252",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Both very useful. I'll make a note. You'll receive an email with the link to the online induction and the deposit payment within the next two days. If you have any questions in the meantime, there's a page of frequently asked questions on the website."
+    },
+    {
+     "id": "95419493-4F61-5EB4-8A01-9AA1B19C2611",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "One more thing. Can I choose who I work with? A friend of mine might apply too."
+    },
+    {
+     "id": "65E4B20B-A6C9-5369-A3A8-96ACE4864A00",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Yes, just put your friend's name in the comments box on the form, and we'll try to put you on the same shifts, although we can't always guarantee it."
+    },
+    {
+     "id": "22E04E57-F996-50B6-A5BE-F4983F9D7EC0",
+     "speaker": "Student",
+     "accent": "en-AU",
+     "text": "Thanks so much, Martha. I'm really looking forward to it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam13-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Festival ends: Sunday __________ August",
+     "explanation": "It ends on the tenth.",
+     "evidenceQuote": "to Sunday the tenth",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "10th",
+      "tenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Normal price of a weekend ticket: £__________",
+     "explanation": "Tickets cost £240.",
+     "evidenceQuote": "which normally costs two hundred and forty pounds",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "240"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "The __________ team collects and sorts waste",
+     "explanation": "The recycling team sorts waste.",
+     "evidenceQuote": "the recycling team, which collects and sorts waste",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "recycling"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Children's area: minimum age __________",
+     "explanation": "Minimum age is 21.",
+     "evidenceQuote": "you need to be at least twenty-one",
+     "skillTag": "numbers",
+     "distractorNote": "She is twenty-two.",
+     "options": [],
+     "acceptedAnswers": [
+      "21",
+      "twenty-one"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Children's area shifts end at __________ p.m.",
+     "explanation": "Shifts end at six.",
+     "evidenceQuote": "between ten in the morning and six in the evening",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Volunteers bring a tent and a sleeping __________",
+     "explanation": "They bring a sleeping bag.",
+     "evidenceQuote": "bring your own tent and sleeping bag",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bag"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Online induction must be finished by the end of __________",
+     "explanation": "It must be done by the end of June.",
+     "evidenceQuote": "complete by the end of June",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "June"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Free shuttle bus from __________ station",
+     "explanation": "The bus leaves from Hadley.",
+     "evidenceQuote": "from Hadley train station",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hadley"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Whitlock.",
+     "evidenceQuote": "Jasmine Whitlock. That's W-H-I-T-L-O-C-K.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Whitlock"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Languages: some __________",
+     "explanation": "She speaks Italian.",
+     "evidenceQuote": "I speak some Italian",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Italian"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "volunteer",
+    "shift",
+    "wristband",
+    "campsite",
+    "induction"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam13-lp2",
+   "partNumber": 2,
+   "title": "Joining a community choir",
+   "contextDescription": "The director of a community choir talks to people attending an open evening.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "42AE7760-42FA-5EBD-B07F-B85A0D96028E",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "Good evening, everybody, and welcome to the Riverside Community Choir open evening. I'm Grace Holloway, the musical director. It's lovely to see so many new faces. I'll tell you a bit about the choir, and then we'll sing a couple of songs together, so you can see what it's like."
+    },
+    {
+     "id": "94041F8D-4161-5C7F-9A07-78E9B571D95E",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "The choir was started twelve years ago by a group of friends who wanted to sing together just for fun. There were eight of them at the first rehearsal, in someone's living room. Today we have over ninety members, aged from eighteen to eighty-seven, and we rehearse here in the church hall every Tuesday evening from half past seven to nine thirty."
+    },
+    {
+     "id": "334E816C-301B-5B26-8E65-2583999D8B6F",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "The first thing I always want to make clear is that you don't need any experience to join, and there's no audition. Many of our members had never sung in a group before, and some told me they'd been told at school that they couldn't sing. In my experience, almost everyone can learn to sing in tune with a bit of practice and confidence."
+    },
+    {
+     "id": "0B2DBB64-85EF-55F0-825B-6F7166FF21C2",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "You also don't need to read music. We teach most of our songs by ear, which means I sing each line and you copy it. For those who do read music, we provide sheet music as well. We also record practice tracks for each part, which you can download from our website and listen to at home, in the car or wherever you like. Most members find these really helpful."
+    },
+    {
+     "id": "02C79587-65D7-5410-8EE2-DF7A4F92396E",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "The choir is divided into four sections, according to the range of your voice: sopranos and altos, who are usually women, and tenors and basses, who are usually men, although that's not a rule. If you're not sure which section you belong in, don't worry. After the first couple of weeks, I'll listen to you individually and help you decide."
+    },
+    {
+     "id": "DDA15CCD-73ED-5D4D-A9C4-66043A30343B",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "As for what we sing, we have a very wide range. There's pop, gospel, folk songs from around the world and some classical pieces. This term we're learning a medley of songs from musicals, as well as a traditional South African song, which has some wonderful harmonies."
+    },
+    {
+     "id": "E0916BDD-D022-5B05-9109-DF9E4BCD866B",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "We perform about four times a year. Our biggest event is the Christmas concert in December, which raises money for a local charity. Last year we raised over three thousand dollars for the children's hospital. In summer we also sing outdoors at the town's riverside festival, and we occasionally visit care homes to sing for the residents, which is always a very moving experience."
+    },
+    {
+     "id": "B2B0B8CC-E927-5525-8DA4-096A64EDC2B8",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "I'm often asked whether singing in a choir is good for you, and the answer seems to be yes. Research has found that group singing can reduce stress and improve mood, and many of our members say the choir is the highlight of their week. It's also very sociable. After each rehearsal, quite a few of us go to the café across the road."
+    },
+    {
+     "id": "635CB7E5-AD14-56D0-9801-9D2BB317D875",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "I should also mention that we have a small choir committee, made up of six members, who organise our concerts, social events and the annual weekend trip. This year we're going to the coast in May, where we'll take part in a choir festival with groups from all over the region. It's a wonderful chance to hear other choirs and make new friends, and everyone is welcome to come, whether or not they sing in the concert."
+    },
+    {
+     "id": "9314E07F-5008-5051-9DD8-171FEE9C2C22",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "Now, the practical details. Membership costs sixty dollars per term, and there are three terms a year. If that's difficult for you financially, please speak to me in private, as we have a fund to help people who can't afford it. Your first two rehearsals are free, so you can try it before deciding."
+    },
+    {
+     "id": "D90D65B2-3F78-5EF8-821F-D69B80B8143C",
+     "speaker": "Director",
+     "accent": "en-US",
+     "text": "Finally, please fill in one of the yellow forms on the table by the door before you leave, so we can add you to the email list. Right, let's warm up. Everybody stand up, take a deep breath, and stretch your arms above your head."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam13-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Where did the first rehearsal of the choir take place?",
+     "explanation": "It was in a living room.",
+     "evidenceQuote": "in someone's living room",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. in a church hall",
+      "B. in a school",
+      "C. in a private home"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. in a private home",
+      "in a private home"
+     ]
+    },
+    {
+     "id": "exam13-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What does Grace say about joining the choir?",
+     "explanation": "No audition is needed.",
+     "evidenceQuote": "there's no audition",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There is no audition.",
+      "B. Some experience is necessary.",
+      "C. New members must read music."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. There is no audition.",
+      "There is no audition."
+     ]
+    },
+    {
+     "id": "exam13-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "How are most songs taught?",
+     "explanation": "Songs are taught by ear.",
+     "evidenceQuote": "We teach most of our songs by ear",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. from sheet music",
+      "B. by listening and copying",
+      "C. using recordings only"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. by listening and copying",
+      "by listening and copying"
+     ]
+    },
+    {
+     "id": "exam13-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "How will new members find out which section to join?",
+     "explanation": "Grace will listen to each person.",
+     "evidenceQuote": "I'll listen to you individually and help you decide",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by doing a test on the first evening",
+      "B. by choosing for themselves",
+      "C. by singing alone for the director"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by singing alone for the director",
+      "by singing alone for the director"
+     ]
+    },
+    {
+     "id": "exam13-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What did last year's Christmas concert raise money for?",
+     "explanation": "It was for the children's hospital.",
+     "evidenceQuote": "for the children's hospital",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a children's hospital",
+      "B. a care home",
+      "C. a riverside festival"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a children's hospital",
+      "a children's hospital"
+     ]
+    },
+    {
+     "id": "exam13-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What should people who cannot afford the fee do?",
+     "explanation": "They should talk to Grace privately.",
+     "evidenceQuote": "please speak to me in private",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pay in smaller amounts",
+      "B. talk privately to the director",
+      "C. attend only the free rehearsals"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. talk privately to the director",
+      "talk privately to the director"
+     ]
+    },
+    {
+     "id": "exam13-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "The choir now has over __________ members.",
+     "explanation": "It has over 90 members.",
+     "evidenceQuote": "Today we have over ninety members",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "90",
+      "ninety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "Practice tracks can be downloaded from the choir's __________.",
+     "explanation": "They are on the website.",
+     "evidenceQuote": "which you can download from our website",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "website"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "This term the choir is learning a song from South __________.",
+     "explanation": "The song is South African.",
+     "evidenceQuote": "a traditional South African song",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Africa"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "Membership costs $__________ per term.",
+     "explanation": "It costs $60.",
+     "evidenceQuote": "Membership costs sixty dollars per term",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "choir",
+    "rehearsal",
+    "soprano",
+    "sheet music",
+    "audition"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 16,
+     "instruction": "Questions 11–16. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "instruction": "Questions 17–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam13-lp3",
+   "partNumber": 3,
+   "title": "A project on music and memory",
+   "contextDescription": "Two psychology students, Ravi and Ellie, discuss a project on music and memory with their supervisor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5C33A420-99A6-5C29-8296-FC53305680CF",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "So, Ravi, Ellie, tell me where you've got to with your project on music and memory."
+    },
+    {
+     "id": "6213774C-F5D7-5B44-AAC1-5CA01F98104A",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "We've finished the experiment, and we've just started analysing the results. As you know, we wanted to find out whether listening to background music affects how well students remember information."
+    },
+    {
+     "id": "547FFE19-3715-5971-952B-A72F3D2E4132",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Remind me of the design."
+    },
+    {
+     "id": "8C462DD9-CB01-5492-A761-2D8B1D3E5A65",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "We had sixty participants, all undergraduate students. Each of them read a short article about the history of the Silk Road and then answered twenty questions about it. They did this in one of three conditions: in silence, with instrumental classical music, or with pop music that had lyrics."
+    },
+    {
+     "id": "8C99A117-A80C-556B-A547-AACDC420F2D6",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "And how did you allocate people to the conditions?"
+    },
+    {
+     "id": "67B96CCD-E539-5F0E-9094-16F0573EB835",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "Randomly, using a computer program, so that there were twenty people in each group."
+    },
+    {
+     "id": "66E85297-582C-5C4F-B521-1EF086285B97",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "And did all the participants read the article for the same length of time?"
+    },
+    {
+     "id": "1F524882-11E8-59BC-97A9-3F90568CAF05",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "Yes, everyone had exactly ten minutes to read it, and then they did a short puzzle for five minutes before answering the questions, so that they couldn't simply repeat what they'd just read."
+    },
+    {
+     "id": "AC20B5E9-BBAE-5CB0-89BB-7495BFAAC633",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Good thinking. What did you find?"
+    },
+    {
+     "id": "EE569D3A-0784-5527-9753-E80E2438A9C5",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "The silent group did best, with an average score of fifteen out of twenty. The classical music group was only slightly lower, at fourteen. But the pop music group scored much lower, with an average of just under eleven."
+    },
+    {
+     "id": "B71FB87A-020E-5439-8E0E-1AAEC2B7A881",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "That's quite a big difference. How do you explain it?"
+    },
+    {
+     "id": "EAF5BA3D-25D5-588F-A32E-503D7C3D9498",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "We think it's mainly the lyrics. When you're reading, you're processing language, and if you're also hearing words in a song, the two compete for the same mental resources. Instrumental music doesn't have that problem, or at least not as much."
+    },
+    {
+     "id": "5A5D1EB1-2553-571D-AAF9-60AEBD0F42C6",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "That fits with previous research. Did anything surprise you?"
+    },
+    {
+     "id": "05617240-F958-578F-9718-1E73C8319D84",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "Yes. We also asked participants whether they usually study with music. Those who said they always listened to music while studying did slightly better in the pop music condition than those who never did, but they still did worse than in silence."
+    },
+    {
+     "id": "E2A39602-814E-521F-8663-3BA4A49F925E",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "So being used to it helps a little, but doesn't remove the effect. That's interesting. Students often believe music helps them concentrate. Did you ask about that?"
+    },
+    {
+     "id": "EDF26781-A4B8-5BB1-8362-C7F1E28EE363",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "We did. Most people in the pop music group thought the music hadn't affected them at all, even though their scores were lower. So people may not be very good at judging how distracting music is."
+    },
+    {
+     "id": "9C6B8E71-9523-5E8A-897B-C0348C6E586E",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "That's a really important point to include in your discussion. Now, what about the limitations?"
+    },
+    {
+     "id": "409B5FF1-F2DA-535F-9DD2-F314AE43DD5D",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "Well, the sample was quite small, and all the participants were students, so we can't generalise to other age groups. Also, the test was immediately after reading, so we don't know about long-term memory."
+    },
+    {
+     "id": "F34F3CD4-B302-5892-BED6-53A2873E1BD7",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Anything else?"
+    },
+    {
+     "id": "67AE3291-1D8C-58E1-9E76-A7E30311CDF9",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "We chose the music ourselves. People might be less distracted by music they know and like. Next time it might be better to let participants choose their own music."
+    },
+    {
+     "id": "5D49B50D-F48C-5C36-B1AE-F4625B9B9BE2",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Good. You might also mention the volume. Did you control that?"
+    },
+    {
+     "id": "13B042C7-60F6-54A8-80A6-EFE3FDD64B66",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "Yes, everyone used the same headphones at the same volume."
+    },
+    {
+     "id": "2A72007C-68EB-5597-AF30-B14A64F49828",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Excellent. In your literature review, you might also want to look at research on music and memory in people with dementia. There's evidence that people with dementia can often remember songs from their youth long after other memories have faded, and some care homes use music to help residents feel calmer and communicate."
+    },
+    {
+     "id": "3593C295-3495-56A9-B3BA-F20B076037B4",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "That's fascinating. Is that because musical memory is stored differently in the brain?"
+    },
+    {
+     "id": "F526380C-F7FF-5603-94E4-BBAC27862027",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "That's one theory. Some studies suggest that the areas of the brain involved in musical memory are among the last to be damaged by the disease. But it's a different question from yours, so just mention it briefly."
+    },
+    {
+     "id": "B63679ED-9B02-5348-9581-83A02B4FECBC",
+     "speaker": "Ellie",
+     "accent": "en-US",
+     "text": "Okay. When would you like the draft?"
+    },
+    {
+     "id": "EB37DEB9-043E-50B4-AB9F-CD50E44C15CD",
+     "speaker": "Supervisor",
+     "accent": "en-GB",
+     "text": "Send me the results section by next Wednesday, and we'll meet again the week after."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam13-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did participants read in the experiment?",
+     "explanation": "They read about the Silk Road.",
+     "evidenceQuote": "a short article about the history of the Silk Road",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a list of words",
+      "B. a history article",
+      "C. a short story"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. a history article",
+      "a history article"
+     ]
+    },
+    {
+     "id": "exam13-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What was the average score of the pop music group?",
+     "explanation": "It was just under eleven.",
+     "evidenceQuote": "with an average of just under eleven",
+     "skillTag": "numbers",
+     "options": [
+      "A. fifteen",
+      "B. fourteen",
+      "C. just under eleven"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. just under eleven",
+      "just under eleven"
+     ]
+    },
+    {
+     "id": "exam13-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to Ravi, why did pop music affect performance?",
+     "explanation": "The lyrics compete with reading.",
+     "evidenceQuote": "We think it's mainly the lyrics.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. because of the words in the songs",
+      "B. because it was too loud",
+      "C. because participants disliked it"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. because of the words in the songs",
+      "because of the words in the songs"
+     ]
+    },
+    {
+     "id": "exam13-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What did most people in the pop music group believe?",
+     "explanation": "They thought it had no effect.",
+     "evidenceQuote": "Most people in the pop music group thought the music hadn't affected them at all",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The music had helped them.",
+      "B. The music had not affected them.",
+      "C. The test was too difficult."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The music had not affected them.",
+      "The music had not affected them."
+     ]
+    },
+    {
+     "id": "exam13-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What improvement does Ravi suggest for a future study?",
+     "explanation": "Participants could choose their music.",
+     "evidenceQuote": "let participants choose their own music",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. using a larger sample",
+      "B. testing older people",
+      "C. letting participants select the music"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. letting participants select the music",
+      "letting participants select the music"
+     ]
+    },
+    {
+     "id": "exam13-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Number of participants: __________",
+     "explanation": "There were sixty.",
+     "evidenceQuote": "We had sixty participants",
+     "skillTag": "numbers",
+     "distractorNote": "Twenty is the number in each group.",
+     "options": [],
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Groups were allocated using a computer __________",
+     "explanation": "A computer program was used.",
+     "evidenceQuote": "using a computer program",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "program"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Everyone used the same __________ at the same volume",
+     "explanation": "Headphones were standardised.",
+     "evidenceQuote": "everyone used the same headphones at the same volume",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "headphones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "People with dementia often remember songs from their __________",
+     "explanation": "They remember songs from their youth.",
+     "evidenceQuote": "can often remember songs from their youth",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "youth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Results section due next __________",
+     "explanation": "It is due Wednesday.",
+     "evidenceQuote": "Send me the results section by next Wednesday",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "recall",
+    "dementia",
+    "participant",
+    "background music",
+    "distraction"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam13-lp4",
+   "partNumber": 4,
+   "title": "The history of recorded sound",
+   "contextDescription": "A lecture in a media history course on the development of sound recording.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "77977C26-4960-5B9A-B2A7-5E3993842BD5",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good afternoon. Today we're going to look at the history of recorded sound. It's easy to forget that for almost all of human history, music could only be heard when it was performed live. If you wanted to hear a symphony, you had to go to a concert hall, and once the performance was over, the sound was gone forever. Recording changed not only how we listen to music, but music itself."
+    },
+    {
+     "id": "AF290B13-461B-5F64-83A1-6116C1B941C8",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The first device that could record sound was invented not by Thomas Edison, as many people believe, but by a French printer named Édouard-Léon Scott de Martinville, in 1857. His machine, which he called the phonautograph, used a horn to collect sound and a thin brush, called a stylus, which traced the sound waves as lines on paper covered with soot. However, Scott never intended his recordings to be played back. He wanted to study sound visually. Remarkably, in 2008, researchers in the United States used computer technology to convert some of his tracings into sound, and they were able to hear a person singing a French folk song recorded in 1860."
+    },
+    {
+     "id": "4681F44B-CB8C-5F69-B56B-AD8226DB978C",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The first machine that could both record and play back sound was Edison's phonograph, in 1877. It used a cylinder wrapped in tin foil. As someone spoke into a horn, a needle cut a groove in the foil, and when the cylinder was turned again, the needle followed the groove and reproduced the sound. The first words Edison recorded were the children's rhyme 'Mary had a little lamb'. Interestingly, Edison originally thought the phonograph would be used mainly in offices, for dictating letters, rather than for entertainment."
+    },
+    {
+     "id": "29C2B44B-93A2-5FAE-8626-993281753564",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Tin foil wore out after only a few plays, so it was soon replaced by wax cylinders. But cylinders were difficult to copy in large numbers. The solution came from a German-born inventor working in the United States, Emile Berliner, who in 1887 patented the gramophone, which used flat discs instead of cylinders. Discs could be produced from a master copy by pressing, rather like a stamp, which meant that thousands of identical copies could be made cheaply. This is the origin of the record industry."
+    },
+    {
+     "id": "2349B773-5B04-5A66-BB57-3E0B9C02125E",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Early recordings were made acoustically, without electricity. Musicians had to crowd around a large horn, and loud instruments like trumpets were placed further away than quiet ones. Many instruments simply didn't record well, and recordings could last only around three or four minutes per side. This is one reason why popular songs, even today, tend to be about three minutes long. From the mid-1920s, microphones and electrical recording greatly improved quality, and singers could perform more quietly and intimately, which led to new styles of singing."
+    },
+    {
+     "id": "60DD8714-9E5D-5D6C-B11D-94E1E5D24F7F",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The next major development was magnetic tape, developed in Germany in the 1930s. Tape allowed recordings to be edited by cutting and joining pieces, and later to be recorded on several separate tracks, so that different instruments could be recorded at different times and then combined. This transformed the recording studio into a creative tool, and by the 1960s, bands like the Beatles were producing albums that would have been impossible to perform live."
+    },
+    {
+     "id": "39AC4D58-B743-5B03-AFB2-6FDCA4536FC0",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Meanwhile, records themselves improved. In 1948, the long-playing record, or LP, was introduced, which could hold over twenty minutes of music per side and was made of vinyl, which produced less noise than earlier materials. This made it possible to release albums rather than just single songs."
+    },
+    {
+     "id": "2F199726-CEB9-589F-9739-DB5EDD21C896",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Then came the digital age. The compact disc, launched in 1982, stored sound as a series of numbers that were read by a laser. In the 1990s, the MP3 format compressed digital files by removing sounds that the human ear is less likely to notice, making it possible to share music over the internet. Today, most people listen through streaming services, which offer millions of songs instantly. Yet interestingly, sales of vinyl records have grown every year for well over a decade, as some listeners seek a more physical and deliberate experience. Next week, we'll look at how streaming has changed the economics of the music industry."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam13-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Scott de Martinville worked as a __________",
+     "explanation": "He was a printer.",
+     "evidenceQuote": "a French printer named Édouard-Léon Scott de Martinville",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "printer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "The phonautograph traced sound on paper covered with __________",
+     "explanation": "The paper was covered with soot.",
+     "evidenceQuote": "paper covered with soot",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "soot"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "In 2008, a recording of a French folk __________ was played",
+     "explanation": "It was a folk song.",
+     "evidenceQuote": "a person singing a French folk song recorded in 1860",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "song"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Edison's first cylinder was wrapped in tin __________",
+     "explanation": "It used tin foil.",
+     "evidenceQuote": "a cylinder wrapped in tin foil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "foil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Edison expected the phonograph to be used in __________",
+     "explanation": "He expected office use.",
+     "evidenceQuote": "would be used mainly in offices",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "offices"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Berliner's gramophone used flat __________",
+     "explanation": "It used discs.",
+     "evidenceQuote": "which used flat discs instead of cylinders",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "discs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Early acoustic recording: musicians crowded around a large __________",
+     "explanation": "They gathered round a horn.",
+     "evidenceQuote": "Musicians had to crowd around a large horn",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "horn"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Magnetic tape allowed recordings to be __________",
+     "explanation": "Tape allowed editing.",
+     "evidenceQuote": "Tape allowed recordings to be edited",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "edited"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "LPs were made of __________, which produced less noise",
+     "explanation": "They were made of vinyl.",
+     "evidenceQuote": "was made of vinyl",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vinyl"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "CDs were read by a __________",
+     "explanation": "A laser read CDs.",
+     "evidenceQuote": "read by a laser",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "laser"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "phonograph",
+    "cylinder",
+    "gramophone",
+    "magnetic tape",
+    "digital"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam13-rp1",
+   "passageNumber": 1,
+   "title": "The invention of the piano",
+   "discipline": "History of Music",
+   "paragraphs": [
+    "The piano is one of the most popular musical instruments in the world, found in concert halls, schools, churches and millions of homes. Yet compared with instruments such as the flute, the harp or the violin, it is a relatively recent invention. Its story is one of gradual technical improvement, driven by the demands of composers and performers and by changes in society.",
+    "Before the piano, the most important keyboard instruments were the harpsichord and the clavichord. In a harpsichord, pressing a key causes a small piece of quill or leather to pluck a string. This produces a bright, clear sound, but it has a significant limitation: however hard or softly the player presses the key, the volume stays almost the same. The clavichord, in which the strings are struck by small metal blades, could vary its volume, but its sound was so quiet that it was suitable only for small rooms.",
+    "The solution was found by Bartolomeo Cristofori, an instrument maker employed by the powerful Medici family in Florence, Italy. Around the year 1700, he built an instrument in which the strings were struck by small hammers covered in leather. The key feature of his design was a mechanism that allowed each hammer to strike the string and immediately fall back, so that the string could continue to vibrate. Because the force of the hammer depended on how hard the key was pressed, the player could now control the volume. Cristofori called his instrument the gravicembalo col piano e forte, meaning 'harpsichord with soft and loud', and it is from this name that the word piano comes.",
+    "Cristofori's invention attracted little attention at first. Only three of his pianos survive today, in museums in New York, Rome and Leipzig. It was in Germany, rather than Italy, that the instrument began to develop. The organ builder Gottfried Silbermann made pianos based on Cristofori's design and showed one to Johann Sebastian Bach in the 1730s. According to one account, Bach criticised the instrument's heavy touch and weak upper notes, but he later approved of an improved version.",
+    "By the late eighteenth century, the piano had become fashionable throughout Europe, and composers such as Mozart and Haydn wrote much of their keyboard music for it. Instruments of this period, now often called fortepianos, were much lighter than modern pianos, with wooden frames and thinner strings. Their sound was softer and faded more quickly. As composers demanded greater power and range, piano makers responded by adding more keys and using thicker strings under greater tension. Beethoven, in particular, was known for pushing the instruments of his time to their limits, and he is said to have broken strings when he played.",
+    "The greater tension of the strings created a problem: wooden frames could not withstand it and tended to bend or crack. The answer was iron. In 1825, the American maker Alpheus Babcock patented a frame cast in a single piece of iron, which allowed strings to be tightened much more. Later in the century, the firm founded in New York in 1853 by the German immigrant Henry Steinway combined an iron frame with an arrangement in which the bass strings crossed over the others, producing a richer and more powerful sound. By the 1880s, the piano had taken essentially its modern form, with eighty-eight keys covering more than seven octaves.",
+    "The nineteenth century also saw the piano move from the homes of the wealthy to those of the middle classes. Industrial production made instruments cheaper, and they could often be bought in instalments. Owning a piano became a symbol of respectability, and learning to play was considered an important accomplishment, especially for young women. Before the invention of the gramophone and the radio, the piano was the main way in which most people heard music at home, and publishers sold enormous quantities of sheet music, including piano arrangements of popular songs and operas.",
+    "In the twentieth century, the piano faced competition from recorded music and, later, from electronic keyboards, which are lighter, cheaper and can be played with headphones. Sales of traditional pianos have fallen in many countries. In China, however, where tens of millions of children are estimated to be learning the instrument, demand has grown enormously, and China is now the world's largest producer of pianos. More than three hundred years after Cristofori, his invention remains at the heart of musical life."
+   ],
+   "questions": [
+    {
+     "id": "exam13-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Harpsichord players could easily change the volume of the notes.",
+     "explanation": "Volume stays the same.",
+     "evidenceQuote": "the volume stays almost the same",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam13-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The clavichord was too quiet for large rooms.",
+     "explanation": "It suited only small rooms.",
+     "evidenceQuote": "its sound was so quiet that it was suitable only for small rooms",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam13-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Cristofori's invention immediately became popular.",
+     "explanation": "It attracted little attention.",
+     "evidenceQuote": "Cristofori's invention attracted little attention at first.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam13-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Bach owned several pianos made by Silbermann.",
+     "explanation": "Ownership is not mentioned.",
+     "evidenceQuote": "showed one to Johann Sebastian Bach in the 1730s",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam13-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Fortepianos were heavier than modern pianos.",
+     "explanation": "They were lighter.",
+     "evidenceQuote": "were much lighter than modern pianos",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam13-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Pianos could sometimes be paid for over a period of time.",
+     "explanation": "They were bought in instalments.",
+     "evidenceQuote": "they could often be bought in instalments",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam13-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Electronic keyboards produce a better sound than traditional pianos.",
+     "explanation": "Sound quality is not compared.",
+     "evidenceQuote": "which are lighter, cheaper and can be played with headphones",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam13-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "In a harpsichord, the string is plucked by a piece of quill or __________",
+     "explanation": "Quill or leather plucks the string.",
+     "evidenceQuote": "a small piece of quill or leather to pluck a string",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "leather"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Cristofori worked for the Medici family in __________",
+     "explanation": "He worked in Florence.",
+     "evidenceQuote": "the powerful Medici family in Florence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Florence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "In Cristofori's piano, strings were struck by small __________",
+     "explanation": "Hammers struck the strings.",
+     "evidenceQuote": "the strings were struck by small hammers covered in leather",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hammers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Beethoven is said to have broken __________ while playing",
+     "explanation": "He broke strings.",
+     "evidenceQuote": "he is said to have broken strings when he played",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "strings"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Babcock's frame was made from a single piece of __________",
+     "explanation": "It was made of iron.",
+     "evidenceQuote": "a frame cast in a single piece of iron",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "iron"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The modern piano has __________ keys",
+     "explanation": "It has 88 keys.",
+     "evidenceQuote": "with eighty-eight keys",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eighty-eight",
+      "88"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 732,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam13-rp2",
+   "passageNumber": 2,
+   "title": "Why does music give us chills?",
+   "discipline": "Music Psychology & Neuroscience",
+   "paragraphs": [
+    "Many people have had the experience: a piece of music reaches a particular moment, and suddenly a shiver runs down the spine, the skin breaks out in goosebumps and the hairs on the arms stand on end. Psychologists call this response 'frisson', from a French word meaning a shiver or thrill. For a long time it was regarded as too personal and unpredictable to be studied scientifically. Today, however, it is the subject of a growing body of research, which is shedding light not only on music but on how the brain experiences pleasure.",
+    "Frisson is surprisingly common, but not universal. Surveys suggest that somewhere between half and two-thirds of people experience it at least occasionally when listening to music, although estimates vary considerably depending on how the question is asked. For some people, it happens frequently; others report never having felt it at all. The same piece of music may produce chills in one listener and leave another completely unmoved, and even the same listener may react differently on different occasions.",
+    "Researchers have identified several musical features that are particularly likely to produce chills. These include a sudden change in volume, such as a quiet passage followed by a loud one, the entrance of a new instrument or voice, and unexpected harmonies. What these features have in common is that they involve something surprising or that breaks a pattern the listener has come to expect. According to one theory, the brain is constantly predicting what will happen next in a piece of music, and chills occur when those predictions are violated in a way that is surprising but ultimately pleasurable.",
+    "The first brain-imaging study of musical chills was carried out in 2001 by Anne Blood and Robert Zatorre at McGill University in Montreal. They asked participants to bring in pieces of music that reliably gave them chills, and scanned their brains while they listened. They found that the experience was associated with activity in regions of the brain that are involved in reward and motivation, the same areas that respond to food, sex and certain drugs. This was a striking finding, because music, unlike food, has no obvious value for survival.",
+    "A later study by Valorie Salimpoor, also working with Zatorre, went further. Using a technique that can detect the release of chemicals in the brain, the researchers showed in 2011 that dopamine, a chemical associated with pleasure and reward, was released when listeners experienced the peak emotional moments of a piece. More surprisingly, dopamine was also released in a different area in the seconds before those moments, while listeners were anticipating them. In other words, part of the pleasure of music seems to come from the expectation of what is about to happen.",
+    "Why do some people experience chills more than others? Personality appears to play a role. Several studies have found that people who score highly on a personality trait known as openness to experience, which includes imagination, curiosity and a love of art and beauty, are more likely to report chills. There may also be differences in brain structure. A study by Matthew Sachs and colleagues at Harvard University in 2016, though based on only twenty participants, found that people who experienced chills had stronger connections between the areas of the brain that process sound and those that process emotion.",
+    "Context and memory matter too. Music that is associated with important events in a person's life, such as a wedding or the loss of a loved one, is especially likely to produce strong emotional responses. Some researchers have also noted that sad music produces chills particularly often. One explanation is that the experience resembles the physical response to separation or loss, combined with a sense of comfort and connection, which may explain why people seek out sad music even though it makes them feel sad.",
+    "The study of musical chills has practical as well as theoretical value. Because music can activate the brain's reward system so powerfully, researchers are investigating whether it could be used to help people with depression, a condition in which the ability to feel pleasure is often reduced. Others are interested in how music can motivate people during exercise or rehabilitation. Above all, the research shows that our response to music, far from being trivial, is rooted in some of the most fundamental systems of the human brain."
+   ],
+   "questions": [
+    {
+     "id": "exam13-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes how widespread chills are.",
+     "evidenceQuote": "Frisson is surprisingly common, but not universal.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. How many people are affected",
+      "How many people are affected"
+     ]
+    },
+    {
+     "id": "exam13-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers features that cause chills.",
+     "evidenceQuote": "Researchers have identified several musical features that are particularly likely to produce chills.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. What kind of music triggers the response",
+      "What kind of music triggers the response"
+     ]
+    },
+    {
+     "id": "exam13-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D reports the first imaging study.",
+     "evidenceQuote": "The first brain-imaging study of musical chills was carried out in 2001",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A link to the brain's reward system",
+      "A link to the brain's reward system"
+     ]
+    },
+    {
+     "id": "exam13-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E shows the role of anticipation.",
+     "evidenceQuote": "part of the pleasure of music seems to come from the expectation of what is about to happen",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. The pleasure of waiting",
+      "The pleasure of waiting"
+     ]
+    },
+    {
+     "id": "exam13-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains individual differences.",
+     "evidenceQuote": "Why do some people experience chills more than others?",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Explaining individual differences",
+      "Explaining individual differences"
+     ]
+    },
+    {
+     "id": "exam13-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers memories and sad music.",
+     "evidenceQuote": "Context and memory matter too.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. The influence of personal experience",
+      "The influence of personal experience"
+     ]
+    },
+    {
+     "id": "exam13-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes possible applications.",
+     "evidenceQuote": "The study of musical chills has practical as well as theoretical value.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Possible uses of the research",
+      "Possible uses of the research"
+     ]
+    },
+    {
+     "id": "exam13-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to one theory, chills occur when",
+     "explanation": "They occur when predictions are broken pleasantly.",
+     "evidenceQuote": "chills occur when those predictions are violated in a way that is surprising but ultimately pleasurable",
+     "skillTag": "detail",
+     "options": [
+      "A. music is very loud.",
+      "B. the brain's expectations are pleasantly broken.",
+      "C. a song is familiar.",
+      "D. the listener is tired."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the brain's expectations are pleasantly broken.",
+      "the brain's expectations are pleasantly broken."
+     ]
+    },
+    {
+     "id": "exam13-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why was Blood and Zatorre's finding considered striking?",
+     "explanation": "Music has no obvious survival value.",
+     "evidenceQuote": "music, unlike food, has no obvious value for survival",
+     "skillTag": "detail",
+     "options": [
+      "A. The study used new equipment.",
+      "B. Few participants felt chills.",
+      "C. The brain areas were unknown.",
+      "D. Music is not obviously necessary for survival."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Music is not obviously necessary for survival.",
+      "Music is not obviously necessary for survival."
+     ]
+    },
+    {
+     "id": "exam13-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What weakness of the 2016 Harvard study does the writer mention?",
+     "explanation": "It had only twenty participants.",
+     "evidenceQuote": "though based on only twenty participants",
+     "skillTag": "detail",
+     "options": [
+      "A. It had a small number of participants.",
+      "B. It did not use brain scans.",
+      "C. It was not published.",
+      "D. It studied only musicians."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It had a small number of participants.",
+      "It had a small number of participants."
+     ]
+    },
+    {
+     "id": "exam13-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The word frisson comes from __________.",
+     "explanation": "It is French.",
+     "evidenceQuote": "from a French word meaning a shiver or thrill",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "French"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam13-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Salimpoor's study showed the release of __________ at emotional peaks.",
+     "explanation": "Dopamine was released.",
+     "evidenceQuote": "dopamine, a chemical associated with pleasure and reward, was released",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dopamine"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam13-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Researchers hope music might help people with __________.",
+     "explanation": "Music might help with depression.",
+     "evidenceQuote": "help people with depression",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "depression"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 726,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A link to the brain's reward system",
+      "ii. The influence of personal experience",
+      "iii. How many people are affected",
+      "iv. Chills caused by films",
+      "v. Explaining individual differences",
+      "vi. The history of concert music",
+      "vii. What kind of music triggers the response",
+      "viii. Possible uses of the research",
+      "ix. The pleasure of waiting"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam13-rp3",
+   "passageNumber": 3,
+   "title": "Should the arts be paid for by the state?",
+   "discipline": "Cultural Policy",
+   "paragraphs": [
+    "In most European countries, governments spend significant sums of public money on the arts. Opera houses, orchestras, theatres, museums and galleries receive grants that allow them to keep ticket prices lower than they would otherwise be, to commission new work and to take risks that commercial organisations might avoid. In the United States, by contrast, direct government funding is relatively small, and the arts depend much more on private donations, which are encouraged by tax relief. Whether, and how much, taxpayers should support the arts is a question that provokes strong opinions on all sides.",
+    "The tradition of public support for the arts has deep roots. For centuries, artists and musicians depended on wealthy patrons, such as kings, aristocrats and the Church. Haydn spent most of his career as a court musician employed by the Esterházy family in Hungary, and much of the greatest art of the Italian Renaissance was paid for by bankers and popes. As the power of these patrons declined, governments gradually took on part of their role. In Britain, the Arts Council was established in 1946, inspired partly by the economist John Maynard Keynes, who believed that the arts should be available to all and not only to the wealthy.",
+    "Supporters of public funding make several arguments. The first is economic. The cultural sector employs large numbers of people and attracts tourists, who spend money in hotels, restaurants and shops. Cities such as Bilbao in Spain, whose economy was transformed after the opening of the Guggenheim Museum in 1997, are often cited as evidence that investment in culture can bring wider benefits. The second argument concerns access. Without subsidies, it is claimed, tickets for opera, ballet or classical concerts would be so expensive that only the rich could attend.",
+    "A third argument is that the arts have value that cannot be measured in money. They help societies understand themselves, preserve cultural heritage for future generations and give people experiences of beauty and meaning. Some research also suggests that taking part in arts activities can improve health and well-being, particularly among older people and those who are socially isolated. In my view, this is ultimately the strongest argument, since it does not depend on the arts paying for themselves.",
+    "Critics, however, raise important objections. One is that public funding often benefits those who are already advantaged. Surveys in several countries have found that audiences for subsidised art forms such as opera and classical music are, on average, wealthier and more highly educated than the population as a whole. If this is the case, then taxes paid by people who never attend are effectively being used to subsidise the leisure activities of the better off. Supporters reply that the solution is to widen access, not to cut funding.",
+    "Another objection concerns who decides what is worth funding. When government bodies distribute grants, they inevitably make judgements about which kinds of art are valuable. Critics argue that this can favour established institutions and traditional forms over popular culture, or that it can lead to political interference. Others worry that dependence on public money can make arts organisations less responsive to audiences, since their income does not depend on selling tickets.",
+    "The economic arguments, too, have been questioned. Some economists point out that claims about the economic benefits of the arts are often based on studies commissioned by arts organisations themselves, and that money spent on culture might produce similar or greater benefits if it were spent on something else. The 'Bilbao effect', they note, has proved difficult to repeat; several cities that built expensive new museums in the hope of attracting tourists have been disappointed.",
+    "In practice, most countries now combine public and private funding, and the debate is less about whether the state should support the arts than about how much, and on what terms. Many governments now require funded organisations to demonstrate that they are reaching a wider and more diverse audience, through education programmes, cheaper tickets for young people and performances in schools, hospitals and community venues, and some publish detailed information about who attends their events. Whether such measures can answer the criticism that subsidised culture serves mainly a privileged minority remains to be seen."
+   ],
+   "questions": [
+    {
+     "id": "exam13-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "depends more on private donations than on direct state funding",
+     "explanation": "The United States relies on donations.",
+     "evidenceQuote": "the arts depend much more on private donations",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the United States",
+      "the United States"
+     ]
+    },
+    {
+     "id": "exam13-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "employed a famous composer for most of his career",
+     "explanation": "The Esterházy family employed Haydn.",
+     "evidenceQuote": "employed by the Esterházy family in Hungary",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the Esterházy family",
+      "the Esterházy family"
+     ]
+    },
+    {
+     "id": "exam13-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "believed that the arts should be available to everyone",
+     "explanation": "Keynes believed this.",
+     "evidenceQuote": "who believed that the arts should be available to all",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. John Maynard Keynes",
+      "John Maynard Keynes"
+     ]
+    },
+    {
+     "id": "exam13-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "saw its economy transformed by a new museum",
+     "explanation": "Bilbao was transformed.",
+     "evidenceQuote": "whose economy was transformed after the opening of the Guggenheim Museum",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Bilbao",
+      "Bilbao"
+     ]
+    },
+    {
+     "id": "exam13-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "was founded in 1946",
+     "explanation": "The Arts Council was founded then.",
+     "evidenceQuote": "the Arts Council was established in 1946",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the Arts Council",
+      "the Arts Council"
+     ]
+    },
+    {
+     "id": "exam13-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The non-financial value of the arts is the most convincing reason to fund them.",
+     "explanation": "The writer calls it the strongest argument.",
+     "evidenceQuote": "this is ultimately the strongest argument",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam13-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Opera audiences are generally less wealthy than the average citizen.",
+     "explanation": "They are wealthier on average.",
+     "evidenceQuote": "are, on average, wealthier and more highly educated than the population as a whole",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam13-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Popular music should receive more government funding than classical music.",
+     "explanation": "No such recommendation is made.",
+     "evidenceQuote": "this can favour established institutions and traditional forms over popular culture",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam13-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Other cities have easily repeated Bilbao's success.",
+     "explanation": "It has been hard to repeat.",
+     "evidenceQuote": "The 'Bilbao effect', they note, has proved difficult to repeat",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam13-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "It is certain that new access requirements will solve the problem of privilege.",
+     "explanation": "The outcome is uncertain.",
+     "evidenceQuote": "remains to be seen",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam13-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In the past, artists depended on wealthy __________.",
+     "explanation": "They relied on patrons.",
+     "evidenceQuote": "artists and musicians depended on wealthy patrons",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "patrons"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "The cultural sector attracts __________ who spend money locally.",
+     "explanation": "Tourists spend money.",
+     "evidenceQuote": "attracts tourists, who spend money",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tourists"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Arts activities may improve health, especially for older and socially __________ people.",
+     "explanation": "It helps isolated people.",
+     "evidenceQuote": "those who are socially isolated",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "isolated"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam13-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Critics fear government funding may lead to political __________.",
+     "explanation": "They fear interference.",
+     "evidenceQuote": "it can lead to political interference",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "interference"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people, organisations and places below. Match each statement with the correct option, A–F.",
+     "options": [
+      "A. the United States",
+      "B. the Esterházy family",
+      "C. John Maynard Keynes",
+      "D. Bilbao",
+      "E. the Arts Council",
+      "F. the Guggenheim Museum"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam13-w1",
+  "title": "How people listen to music",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows the share of recorded music revenue in one country from physical sales, digital downloads and streaming between 2005 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "5BF121D3-E306-5E44-91B3-49800BF9B964",
+    "series": "Physical (CDs and vinyl)",
+    "category": "2005",
+    "value": 88.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "C6EA24D9-603B-5FD3-8A7B-81E6519B7766",
+    "series": "Downloads",
+    "category": "2005",
+    "value": 10.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "E26FA650-975B-55D3-BB23-74666F21467E",
+    "series": "Streaming",
+    "category": "2005",
+    "value": 2.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "CAA3D32D-0B59-57FD-9663-35C339EE2C80",
+    "series": "Physical (CDs and vinyl)",
+    "category": "2010",
+    "value": 60.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "8E2AFE4F-37BC-5A5C-9B9F-850C2C740D68",
+    "series": "Downloads",
+    "category": "2010",
+    "value": 32.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "F8B4F06B-C810-561E-9001-1897EC6B7146",
+    "series": "Streaming",
+    "category": "2010",
+    "value": 8.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "4DD77835-E900-5985-8BBF-078B3546148D",
+    "series": "Physical (CDs and vinyl)",
+    "category": "2015",
+    "value": 40.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "7BBAF74E-EA02-5FD6-8700-A1A580FE9667",
+    "series": "Downloads",
+    "category": "2015",
+    "value": 33.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "5F7C064E-D358-5870-90E9-D0E212F76064",
+    "series": "Streaming",
+    "category": "2015",
+    "value": 27.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "10C4A99B-99F9-5963-8BD7-29BE8700F456",
+    "series": "Physical (CDs and vinyl)",
+    "category": "2020",
+    "value": 18.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "32D3BFD8-DAC4-5E55-A6EF-7D8F1C56CC3A",
+    "series": "Downloads",
+    "category": "2020",
+    "value": 9.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "5211E0D5-F37B-518B-B721-51CC82948477",
+    "series": "Streaming",
+    "category": "2020",
+    "value": 73.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "8863882E-51E1-526F-88C4-EACBC76149CE",
+    "series": "Physical (CDs and vinyl)",
+    "category": "2025",
+    "value": 14.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "B62C5663-B974-536C-BF8B-C8BBDF6D0822",
+    "series": "Downloads",
+    "category": "2025",
+    "value": 3.0,
+    "unit": "% of music revenue"
+   },
+   {
+    "id": "0BEA2281-4E1E-509B-BB71-91BB87FF7C62",
+    "series": "Streaming",
+    "category": "2025",
+    "value": 83.0,
+    "unit": "% of music revenue"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Physical sales fell steadily while streaming rose to dominate the market.",
+   "Downloads grew at first but peaked around 2015 and then almost disappeared."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam13-w2",
+  "title": "Music education for all",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Arts & Education",
+  "promptText": "Some people believe that every child should be required to learn a musical instrument at school. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam13-spk",
+  "theme": "Music and the arts",
+  "part1Questions": [
+   "What kind of music do you like?",
+   "Do you play a musical instrument?",
+   "When do you usually listen to music?",
+   "Have you ever been to a live concert?",
+   "Is traditional music popular in your country?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a song or piece of music that is special to you.",
+   "bulletPoints": [
+    "what it is",
+    "when you first heard it",
+    "how often you listen to it",
+    "and explain why it is special to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do young people and older people often like different music?",
+   "Should governments spend money on the arts?",
+   "How has technology changed the way people listen to music?",
+   "Do you think musicians are paid fairly?",
+   "Is it important to preserve traditional music?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates are checked against standard reference sources.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

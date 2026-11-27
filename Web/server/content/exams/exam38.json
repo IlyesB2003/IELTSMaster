@@ -1,0 +1,2118 @@
+{
+ "id": "exam38",
+ "examNumber": 38,
+ "pool": "mock",
+ "title": "Mock Exam 38: Inventions & Inventors",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Inventions & Inventors",
+ "listeningParts": [
+  {
+   "id": "exam38-lp1",
+   "partNumber": 1,
+   "title": "Booking a young inventors' club",
+   "contextDescription": "A father phones a science centre to book a place for his daughter on a holiday club for young inventors.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "264DF2C5-B15F-5C1E-B3F9-479AA016B0CF",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Good morning, Brightwater Science Centre, Leanne speaking. How can I help you?"
+    },
+    {
+     "id": "47A06188-71F5-5030-86EE-70E15EC33D9B",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Hello. I'm calling about the Young Inventors club during the summer holidays. My daughter's very keen, and I wanted to find out a bit more and maybe book a place."
+    },
+    {
+     "id": "6F9E0045-A1C6-5B0A-9868-913610F1C467",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Of course. The club runs for five days, Monday to Friday, and it's for children aged nine to thirteen. Each day the children learn about a famous invention, and then they work in small teams to design and build their own. On the last afternoon, they present their inventions to the parents."
+    },
+    {
+     "id": "275D5D83-751D-55CD-B78B-490FE7D331DA",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "That sounds great. She's eleven, so that's fine. What kind of things do they make?"
+    },
+    {
+     "id": "D0E6360E-C74D-5647-9DA4-7B9413EA749F",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "It varies, but last year they built things like simple robots, water filters and machines for sorting coins. Most of the materials are recycled, things like cardboard, plastic bottles and old toys, because we want the children to see that you don't need expensive equipment to invent something. We do also have a small electronics kit for each team, with batteries, motors and lights, and the children learn how to use it safely on the first morning. There are never more than twelve children in a group, with two members of staff, so everyone gets plenty of help."
+    },
+    {
+     "id": "1B8465F4-6272-587D-9656-C3C701EDEF8D",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Which weeks are available?"
+    },
+    {
+     "id": "83B137E5-9438-5E65-AEF4-E181CABE4EFD",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "We have three sessions. The first one, starting on the twenty-second of July, is already full, I'm afraid. There are still places on the week starting the fifth of August, and on the last one, starting the nineteenth of August."
+    },
+    {
+     "id": "7AE25BA4-185D-5471-9466-5B31A16E1523",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "We're away at the end of August, so it would have to be the fifth."
+    },
+    {
+     "id": "E526E866-F77E-5F6E-B631-9EFE7ED69317",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "No problem. Let me take some details. What's your daughter's name?"
+    },
+    {
+     "id": "AB657C84-B030-5585-982B-EC085D289C8D",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "It's Isla Pemberton. That's P-E-M-B-E-R-T-O-N."
+    },
+    {
+     "id": "6FE81E6A-39D6-5288-9288-D69AD5E01A48",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Thank you. And does Isla have any medical conditions or allergies we should know about?"
+    },
+    {
+     "id": "F67E6F85-A2D9-59F8-A83C-97B79007A639",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "She has asthma, but it's mild. She carries an inhaler with her."
+    },
+    {
+     "id": "7583F63D-F47C-5CAB-B2B4-190144767C61",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "That's fine. I'll make a note of it, and our staff are all trained in first aid. Now, the price. The full week costs a hundred and forty-five pounds. If you're a member of the science centre, there's a discount, and it comes down to a hundred and twenty."
+    },
+    {
+     "id": "DCFCFCFD-CB26-5988-B946-A6A6536EC051",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "We're not members, unfortunately."
+    },
+    {
+     "id": "73359FB9-5C92-56BA-9E38-3C9F3E166302",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Then it's a hundred and forty-five. You can pay a deposit of fifty pounds now to hold the place, and the rest at least two weeks before the start."
+    },
+    {
+     "id": "A9134A46-06D0-57B8-8886-9AA6EE0CC00E",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Okay. And what are the times?"
+    },
+    {
+     "id": "28CB989C-F819-518D-9D5E-F2C0A1BB09FE",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "The club starts at nine thirty and finishes at three thirty. We do offer an early drop-off from eight fifteen, at no extra charge, for parents who work."
+    },
+    {
+     "id": "AA2F5658-3C62-568D-9C53-6EDBC110B1A2",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "That would be really helpful. Does she need to bring lunch?"
+    },
+    {
+     "id": "81D2B34C-819B-5677-80C8-8FF50DB61FDF",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Yes, please send her with a packed lunch and a water bottle. We provide a snack in the afternoon, usually fruit. And because they'll be cutting and gluing, it's a good idea to send her in old clothes, or with an apron."
+    },
+    {
+     "id": "7C138C0E-76C0-516D-8FFB-9A8DDA07F40D",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Right. Where do I drop her off? The science centre's quite big."
+    },
+    {
+     "id": "B6858344-70F2-5C1B-B096-A3467B5E7A2B",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "The club meets in the Discovery Room, which is on the ground floor. Don't use the main entrance; use the side door on Mill Lane, opposite the library. There'll be a member of staff there to sign the children in."
+    },
+    {
+     "id": "30D1D3B7-AC23-5A43-8EF8-9B5CCB627C93",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "And is there anything else I need to do before the first day?"
+    },
+    {
+     "id": "7D6BE95C-40D9-5A84-ABD8-DDCF51020511",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Just one thing. We'll email you a consent form for photographs. We like to take pictures of the children's inventions for our website, but we only include children's faces if parents agree. Please return it before the club starts."
+    },
+    {
+     "id": "7349C0E5-C237-537B-83A7-E2608332B4EA",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Will do. And do the children get to keep what they make?"
+    },
+    {
+     "id": "44C949A8-EC11-5BD6-AB43-D3C2AC538E03",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "They do. And every child also receives a certificate at the presentation on the Friday. Last year one team's invention, a plant-watering machine, was so good that it's now on display in our main hall."
+    },
+    {
+     "id": "3BE9A1F8-C7E7-523E-A64E-B71E7BEF332D",
+     "speaker": "Parent",
+     "accent": "en-GB",
+     "text": "Wonderful. Isla will love that. She's been taking apart old radios at home for months, so it'll be nice for her to build something for a change."
+    },
+    {
+     "id": "58B4CF1F-EF63-595B-9E61-671FE8C0AA93",
+     "speaker": "Coordinator",
+     "accent": "en-CA",
+     "text": "Ha! She sounds like a natural inventor. I'll send the booking confirmation and the payment link to your email this afternoon."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam38-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Most materials used by the teams are __________",
+     "explanation": "The materials are mostly recycled.",
+     "evidenceQuote": "Most of the materials are recycled",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "recycled"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Week chosen: starting __________ August",
+     "explanation": "He chooses the week of 5 August.",
+     "evidenceQuote": "it would have to be the fifth",
+     "skillTag": "dates",
+     "distractorNote": "The 22 July week is full; the 19 August week clashes with their holiday.",
+     "options": [],
+     "acceptedAnswers": [
+      "fifth",
+      "5th",
+      "5"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Child's surname: __________",
+     "explanation": "He spells Pemberton.",
+     "evidenceQuote": "It's Isla Pemberton. That's P-E-M-B-E-R-T-O-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Pemberton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Medical information: mild __________",
+     "explanation": "Isla has mild asthma.",
+     "evidenceQuote": "She has asthma, but it's mild.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "asthma"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Cost for non-members: £__________",
+     "explanation": "Non-members pay £145.",
+     "evidenceQuote": "Then it's a hundred and forty-five.",
+     "skillTag": "numbers",
+     "distractorNote": "£120 is the member price; £50 is the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "145",
+      "a hundred and forty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Early drop-off available from __________ a.m.",
+     "explanation": "Early drop-off starts at 8.15.",
+     "evidenceQuote": "We do offer an early drop-off from eight fifteen",
+     "skillTag": "numbers",
+     "distractorNote": "9.30 is the normal start time.",
+     "options": [],
+     "acceptedAnswers": [
+      "8.15",
+      "8:15",
+      "eight fifteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring a packed lunch, a water bottle and old clothes or an __________",
+     "explanation": "An apron protects clothes.",
+     "evidenceQuote": "send her in old clothes, or with an apron",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "apron"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Meeting place: the Discovery Room; use the side door on __________ Lane",
+     "explanation": "The side door is on Mill Lane.",
+     "evidenceQuote": "use the side door on Mill Lane",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Mill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Before the club: return the consent form for __________",
+     "explanation": "The form is about photographs.",
+     "evidenceQuote": "a consent form for photographs",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "photographs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "On Friday, every child receives a __________",
+     "explanation": "Each child gets a certificate.",
+     "evidenceQuote": "every child also receives a certificate",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "certificate"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "holiday club",
+    "workshop",
+    "prototype",
+    "recycled materials",
+    "consent form"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam38-lp2",
+   "partNumber": 2,
+   "title": "A tour of the Museum of Everyday Inventions",
+   "contextDescription": "A guide welcomes a group of visitors to a museum about everyday inventions and explains the galleries.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "E327FDCB-9F72-5C17-BCAC-F0D5B4187145",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Hi, everyone, and welcome to the Museum of Everyday Inventions. I'm Craig, and I'll be giving you a quick introduction before you head off to explore. Most museums of science focus on spectacular inventions like rockets and computers. We decided to do something different and tell the stories behind the ordinary objects that we use every day without thinking about them, things like zips, tin cans and toothbrushes."
+    },
+    {
+     "id": "8A5D668E-1111-5BDD-91BE-A1F29F2758D7",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "The museum opened in 2009 in what used to be a shoe factory, which seemed appropriate, because the building itself was full of machines that were once new inventions. Some of the original machinery is still in place on the ground floor, and on the first Sunday of every month we switch one of them on, so you can see how shoes were made a hundred years ago. It's very noisy, but people love it, and it gives you a real sense of what working life was like for the hundreds of people who were employed here."
+    },
+    {
+     "id": "CDAB9D96-6B20-5DD0-BC67-08234E88AD47",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Before I describe the galleries, just a few practical points. Photography is allowed everywhere except in the Patent Room, where some of the documents are very old and can be damaged by flash. Bags larger than a small backpack need to go in the lockers next to the shop; you'll need a one-dollar coin, but you get it back. And the café on the top floor closes half an hour before the museum, at four thirty."
+    },
+    {
+     "id": "59F3118A-BFBE-5CA0-8DE0-CB8A697BED32",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Right, the galleries. There are four. Gallery One, here on the ground floor, is called In the Kitchen. It covers everything from the tin can, which was invented in the early nineteenth century, long before anyone had invented a tin opener, to the modern microwave. The highlight for many visitors is a wall of more than two hundred kitchen gadgets, some useful and some completely ridiculous. You can vote for the silliest one on a screen at the end."
+    },
+    {
+     "id": "8392682A-F3D4-51AA-8615-0E9A83EAD8A0",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Gallery Two, on the first floor, is At Home. This is where you'll find our collection of early vacuum cleaners. One of the first ones was so large that it was pulled by horses and parked outside the house, with long hoses going in through the windows. There's also a reconstructed bathroom from the nineteen twenties, where you can see how much plumbing has changed."
+    },
+    {
+     "id": "2FDAA389-3B71-577D-8A44-23AA49C03604",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Gallery Three is called Getting Dressed, and it's all about clothing. It tells the story of the zip, which took several inventors and about twenty years to perfect, as well as buttons, safety pins and waterproof fabrics. Children particularly enjoy the dressing-up area, where they can try on copies of historical clothes and see how long it takes to fasten them without modern zips."
+    },
+    {
+     "id": "0B7AE263-1C83-5445-BD28-852DAEBF12BB",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Gallery Four, on the top floor, is the Inventors' Workshop. This is our hands-on space, where you can build your own simple inventions using the tools and materials provided. It's very popular with school groups, so if you want to use it, I'd recommend going this morning, as there are three schools booked in for this afternoon."
+    },
+    {
+     "id": "118C598A-D94F-5237-A5E7-4043693D6399",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "And finally, next to the workshop is the Patent Room, which I mentioned earlier. It contains original patent drawings for many of the objects in the museum. Some of them were drawn by the inventors themselves, and they're surprisingly beautiful. We've also got a small display of inventions that failed, which I personally find the most interesting part of the whole museum. Most inventions never make any money, and it's good to remember that the successful ones are the exception. My favourite is a hat with a built-in umbrella, which was patented more than once and never sold."
+    },
+    {
+     "id": "1AD0A006-EEE7-58D5-A922-5E3EACBD6F1C",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "If you have any questions, our staff are in green shirts. There's also a free audio guide, which you can download onto your phone using the code on the back of your ticket. Enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam38-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What makes this museum different from most science museums, according to Craig?",
+     "explanation": "It focuses on ordinary objects.",
+     "evidenceQuote": "tell the stories behind the ordinary objects that we use every day",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is located in a former factory.",
+      "B. It has more hands-on exhibits.",
+      "C. It concentrates on objects in daily use."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It concentrates on objects in daily use.",
+      "It concentrates on objects in daily use."
+     ]
+    },
+    {
+     "id": "exam38-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What happens on the first Sunday of each month?",
+     "explanation": "A shoe machine is operated.",
+     "evidenceQuote": "we switch one of them on, so you can see how shoes were made",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A historic machine is demonstrated.",
+      "B. Entry to the museum is free.",
+      "C. Visitors can make their own shoes."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A historic machine is demonstrated.",
+      "A historic machine is demonstrated."
+     ]
+    },
+    {
+     "id": "exam38-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why is photography not allowed in the Patent Room?",
+     "explanation": "Flash could damage old documents.",
+     "evidenceQuote": "some of the documents are very old and can be damaged by flash",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The drawings are protected by copyright.",
+      "B. Flash could harm old papers.",
+      "C. The room is too crowded."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Flash could harm old papers.",
+      "Flash could harm old papers."
+     ]
+    },
+    {
+     "id": "exam38-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Visitors need a one-dollar coin in order to",
+     "explanation": "The lockers need a coin.",
+     "evidenceQuote": "you'll need a one-dollar coin, but you get it back",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. use a locker.",
+      "B. buy a drink in the café.",
+      "C. vote for a kitchen gadget."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. use a locker.",
+      "use a locker."
+     ]
+    },
+    {
+     "id": "exam38-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why does Craig suggest using the Inventors' Workshop in the morning?",
+     "explanation": "Schools will fill it later.",
+     "evidenceQuote": "there are three schools booked in for this afternoon",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The materials run out by the afternoon.",
+      "B. The workshop closes at lunchtime.",
+      "C. School groups will be using it later."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. School groups will be using it later.",
+      "School groups will be using it later."
+     ]
+    },
+    {
+     "id": "exam38-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "a chance for visitors to choose the most absurd object",
+     "explanation": "Voting is in In the Kitchen.",
+     "evidenceQuote": "You can vote for the silliest one on a screen at the end.",
+     "skillTag": "matching",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. In the Kitchen",
+      "In the Kitchen"
+     ]
+    },
+    {
+     "id": "exam38-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "a machine that was once pulled by animals",
+     "explanation": "The horse-drawn vacuum is in At Home.",
+     "evidenceQuote": "it was pulled by horses and parked outside the house",
+     "skillTag": "matching",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. At Home",
+      "At Home"
+     ]
+    },
+    {
+     "id": "exam38-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "an activity showing how slow fastening clothes used to be",
+     "explanation": "This is in Getting Dressed.",
+     "evidenceQuote": "see how long it takes to fasten them without modern zips",
+     "skillTag": "matching",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Getting Dressed",
+      "Getting Dressed"
+     ]
+    },
+    {
+     "id": "exam38-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "a display of unsuccessful inventions",
+     "explanation": "Failed inventions are in the Patent Room.",
+     "evidenceQuote": "a small display of inventions that failed",
+     "skillTag": "matching",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the Patent Room",
+      "the Patent Room"
+     ]
+    },
+    {
+     "id": "exam38-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "a room from the early twentieth century",
+     "explanation": "The 1920s bathroom is in At Home.",
+     "evidenceQuote": "a reconstructed bathroom from the nineteen twenties",
+     "skillTag": "matching",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. At Home",
+      "At Home"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "gallery",
+    "exhibit",
+    "prototype",
+    "patent",
+    "hands-on"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Which gallery or room contains each of the following? Choose the correct answer and write the correct letter, A–E.",
+     "options": [
+      "A. In the Kitchen",
+      "B. At Home",
+      "C. Getting Dressed",
+      "D. Inventors' Workshop",
+      "E. the Patent Room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam38-lp3",
+   "partNumber": 3,
+   "title": "A presentation on Hedy Lamarr",
+   "contextDescription": "Two history of technology students, Nina and Josh, discuss their presentation on the actress and inventor Hedy Lamarr with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "276D4C71-B310-51E0-9B41-4F6D6C536F80",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Nina, Josh. Have a seat. So, you've chosen Hedy Lamarr for your presentation on overlooked inventors. Why her?"
+    },
+    {
+     "id": "8A7AB333-FB95-5823-A43B-D8DFBB89ABF6",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "Mainly because her story is so surprising. Most people who've heard of her know her as a Hollywood film star from the nineteen thirties and forties. Very few people know that she was also an inventor and held a patent for a communication system."
+    },
+    {
+     "id": "176B8DEC-A11E-5E21-B933-EF3BD27EDFA9",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "And we liked the fact that her invention was ignored for years and then became important much later. It fits the theme of the module really well."
+    },
+    {
+     "id": "9AE2F7BF-7883-5EE2-B7A5-30B5AB8D2594",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Remind me of the basic facts."
+    },
+    {
+     "id": "D5887C38-C99E-5D6E-8E7D-C534199E6FEE",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "She was born in Vienna in 1914 and became an actress in Europe before moving to the United States in the late nineteen thirties. During the Second World War, she wanted to help the war effort, and she became interested in radio-controlled torpedoes."
+    },
+    {
+     "id": "CED683E0-3D9E-5F55-BD9E-886A6873B240",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "The problem with those torpedoes was that the enemy could jam the radio signal, or take control of it, by finding the frequency it was using. Lamarr's idea was that the signal should jump rapidly between many different frequencies in a pattern known only to the sender and the receiver. So the enemy couldn't follow it."
+    },
+    {
+     "id": "C15C37C2-BA03-54E4-AFF5-453C590FECC4",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And she didn't do this alone, did she?"
+    },
+    {
+     "id": "AD0EECFE-7128-575C-8868-74EEBA4D3CB4",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "No, she worked with a composer, George Antheil. He had experience of synchronising mechanical pianos, and they used a similar idea: a strip of paper with holes punched in it, like a piano roll, to keep the transmitter and receiver switching at the same time. They used eighty-eight frequencies, which is the same as the number of keys on a piano."
+    },
+    {
+     "id": "48923C58-2616-5A4D-84CE-3B9E8637318B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a lovely detail. Make sure you include it. What happened to the patent?"
+    },
+    {
+     "id": "6EE1C91C-E72F-576C-BFF8-291C0937C12A",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "It was granted in 1942, and they gave it to the US Navy. But the navy didn't use it during the war. They thought the mechanism was too complicated to fit inside a torpedo. Some historians also think that the navy simply didn't take an actress seriously as an inventor."
+    },
+    {
+     "id": "A6E83EAE-6A2F-5C10-B75B-8DBE871E4D43",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "How are you going to handle that point? It's partly speculation."
+    },
+    {
+     "id": "2C89032C-99AB-501C-AB9C-850F5836D18D",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "We were going to present it as one possible explanation, and make it clear that the technical objections were real as well."
+    },
+    {
+     "id": "61BD9789-5048-5988-A827-3E2932A547E2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good, that's the right approach. And what about her later influence? There are some big claims online."
+    },
+    {
+     "id": "6437D5C7-97E9-5DD0-8E41-57F39B0E26D4",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "Yes, that's something we wanted to ask about. A lot of websites say she invented Wi-Fi or mobile phones, which isn't really accurate. The idea of switching between frequencies, which is called frequency hopping, was later developed by many engineers, and it's one of the techniques behind some modern wireless systems, such as Bluetooth. But she didn't invent those systems herself."
+    },
+    {
+     "id": "7485F739-0F9C-53B9-A5B4-FE377F3BF9A2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. I'd describe her work as an important early contribution rather than the origin of modern wireless technology. Be careful with your sources there. Use books and academic articles rather than popular websites."
+    },
+    {
+     "id": "9B9DBB3C-071D-5759-8BB9-E80137B2E8A2",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "We've found a good biography in the library, so we'll rely mainly on that."
+    },
+    {
+     "id": "DC831A74-2990-595E-86CF-849574845BF5",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Fine. How are you going to end the presentation?"
+    },
+    {
+     "id": "F5252A4C-FFF8-5678-9784-340D91440A1F",
+     "speaker": "Josh",
+     "accent": "en-GB",
+     "text": "With the recognition she received. She got very little credit for most of her life, but in 1997 she received an award from an organisation that campaigns for digital rights, and in 2014, after her death, she was added to the National Inventors Hall of Fame in the United States."
+    },
+    {
+     "id": "AFD8FBA4-02BA-5CEC-A9B5-6C42D542E926",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a nice way to finish. Perhaps you could also ask the audience a question at the end, about why some inventors are remembered and others forgotten. It would link back to the theme of the module."
+    },
+    {
+     "id": "03D2F841-F493-5929-93CB-CC8E4265F57F",
+     "speaker": "Nina",
+     "accent": "en-US",
+     "text": "Good idea. We could show some photos of other forgotten inventors while we ask it."
+    },
+    {
+     "id": "0F79F0ED-EFCD-546B-9591-911BDBC1A90A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Just don't make it too long. You've got fifteen minutes in total, including questions."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam38-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did Josh want to present Hedy Lamarr's story?",
+     "explanation": "It was ignored, then mattered later.",
+     "evidenceQuote": "her invention was ignored for years and then became important much later",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. She was a famous film star.",
+      "B. Her idea became significant long after it was ignored.",
+      "C. She was the only female inventor of her time."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Her idea became significant long after it was ignored.",
+      "Her idea became significant long after it was ignored."
+     ]
+    },
+    {
+     "id": "exam38-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What problem was Lamarr's idea designed to solve?",
+     "explanation": "Radio signals could be jammed.",
+     "evidenceQuote": "the enemy could jam the radio signal, or take control of it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Enemies could interfere with torpedo guidance signals.",
+      "B. Torpedoes were too slow.",
+      "C. Radio signals could not travel far underwater."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Enemies could interfere with torpedo guidance signals.",
+      "Enemies could interfere with torpedo guidance signals."
+     ]
+    },
+    {
+     "id": "exam38-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How did George Antheil contribute to the invention?",
+     "explanation": "He knew how to synchronise mechanical pianos.",
+     "evidenceQuote": "He had experience of synchronising mechanical pianos",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. He paid for the patent.",
+      "B. He tested it for the navy.",
+      "C. He knew how to keep machines working in time."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. He knew how to keep machines working in time.",
+      "He knew how to keep machines working in time."
+     ]
+    },
+    {
+     "id": "exam38-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the claim that the navy ignored Lamarr because she was an actress?",
+     "explanation": "The tutor says it is partly speculation.",
+     "evidenceQuote": "It's partly speculation.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It should be left out.",
+      "B. It cannot be fully proved.",
+      "C. It is the main reason."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It cannot be fully proved.",
+      "It cannot be fully proved."
+     ]
+    },
+    {
+     "id": "exam38-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor advise about claims that Lamarr invented Wi-Fi?",
+     "explanation": "Reliable sources should be used.",
+     "evidenceQuote": "Use books and academic articles rather than popular websites.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Rely on more academic sources.",
+      "B. Mention them as a popular myth at the start.",
+      "C. Ask the audience whether they believe them."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Rely on more academic sources.",
+      "Rely on more academic sources."
+     ]
+    },
+    {
+     "id": "exam38-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Lamarr was born in Vienna in __________",
+     "explanation": "She was born in 1914.",
+     "evidenceQuote": "She was born in Vienna in 1914",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1914"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "A paper strip with holes, like a piano __________, kept the two devices switching together",
+     "explanation": "The idea came from a piano roll.",
+     "evidenceQuote": "like a piano roll",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "roll"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Number of frequencies used: __________",
+     "explanation": "They used 88 frequencies.",
+     "evidenceQuote": "They used eighty-eight frequencies",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "88",
+      "eighty-eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "The navy thought the system was too __________ to fit in a torpedo",
+     "explanation": "It seemed too complicated.",
+     "evidenceQuote": "the mechanism was too complicated to fit inside a torpedo",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "complicated"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Frequency hopping is now used in some systems such as __________",
+     "explanation": "Bluetooth is one example.",
+     "evidenceQuote": "some modern wireless systems, such as Bluetooth",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Bluetooth"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "frequency hopping",
+    "patent",
+    "torpedo",
+    "jamming",
+    "recognition"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam38-lp4",
+   "partNumber": 4,
+   "title": "Gutenberg and the printing revolution",
+   "contextDescription": "A lecture in a history course on the invention of printing with movable type in Europe and its effects.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "B1287BD2-13B0-57CD-8E87-E3C54D5740C6",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon. Today we're looking at what many historians consider one of the most important inventions of the last thousand years: printing with movable type, developed in Europe by Johannes Gutenberg in the middle of the fifteenth century."
+    },
+    {
+     "id": "D89E2B0F-E873-5E0B-8B51-962E925776BF",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "First, though, it's important to say that Gutenberg did not invent printing itself. Printing from carved wooden blocks had been used in China for centuries, and around the year 1040, a Chinese craftsman called Bi Sheng created movable type made from baked clay. In Korea, books were being printed with metal type by the fourteenth century. However, Chinese writing uses thousands of different characters, which made movable type far less practical there than for European languages, which need only a few dozen letters and symbols."
+    },
+    {
+     "id": "D1FE56BD-7F36-5E2E-88D1-3C5A1C4F03C8",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So what was the situation in Europe before Gutenberg? Books were copied by hand, often by monks, and a single book could take months or even years to produce. As a result, books were extremely expensive, and most were owned by churches, universities and wealthy families."
+    },
+    {
+     "id": "2581BB6F-566D-594B-871D-34498E849B45",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Gutenberg was born in the German city of Mainz, around 1400. He trained as a metalworker, and that background was crucial. His real achievement was not a single machine but a whole system. The first part was a hand mould, a device that allowed individual letters to be cast quickly and accurately, so that thousands of identical pieces of type could be made. The type itself was made of an alloy, mainly lead, with tin and antimony, which melted at a low temperature but was hard enough to survive repeated use."
+    },
+    {
+     "id": "C57186C5-8035-5280-8781-F8BACCDE96CB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The second part of the system was the ink. The water-based inks used by scribes did not stick well to metal, so Gutenberg developed an oil-based ink, similar to the paints used by artists at the time. And the third part was the press. Here, Gutenberg adapted the screw presses that were already used in the region for making wine and pressing olives. Using a press, rather than rubbing the paper by hand, allowed even pressure to be applied across the whole page, and both sides of the paper could be printed."
+    },
+    {
+     "id": "C5E9496E-B24E-541B-B88E-BEDF3C3EE046",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The most famous product of Gutenberg's workshop is the Gutenberg Bible, completed in about 1455. Around a hundred and eighty copies were printed, some on paper and some on vellum, which is a fine material made from animal skin. About forty-nine copies survive today, and they're among the most valuable books in the world. What's striking is that they were designed to look like handwritten manuscripts, with the same style of lettering, because that's what readers expected a book to look like."
+    },
+    {
+     "id": "8C33336C-82DF-5922-9161-B29C69DE1CBC",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Sadly, Gutenberg himself didn't profit much from his invention. He had borrowed large sums of money from a businessman called Johann Fust, and in 1455 Fust took him to court to get his money back. Fust won the case and took over much of the equipment, and he and his partner went on to run a successful printing business."
+    },
+    {
+     "id": "3F430CD8-B983-5974-BF17-5A2733847BCB",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "But the technology spread remarkably quickly. Printers trained in Mainz moved to other cities, and by 1500, there were presses in more than two hundred and fifty towns across Europe. Historians estimate that millions of books had been printed by then. Books became much cheaper, and they could be produced in identical copies, which meant that scholars in different countries could refer to exactly the same text, page by page."
+    },
+    {
+     "id": "578E6419-248A-5282-988C-E9F437FBBC55",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The consequences were enormous. Printing helped to spread the ideas of the Renaissance and, later, of the Scientific Revolution, as scientists could publish their findings and build on each other's work. It also played a major role in religious change. When Martin Luther wrote his criticisms of the Church in 1517, printed copies spread across Germany within weeks. Over the longer term, cheaper books encouraged the growth of literacy, and printing also helped to standardise spelling and grammar in many European languages."
+    },
+    {
+     "id": "FBA085BF-7343-569D-A554-3F1858FA4462",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Next week, we'll look at another information revolution, the arrival of the telephone, and ask whether it changed society as much as printing did."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam38-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Bi Sheng's movable type was made from baked __________",
+     "explanation": "His type was made of clay.",
+     "evidenceQuote": "created movable type made from baked clay",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "clay"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Chinese uses thousands of __________, so movable type was less practical",
+     "explanation": "There are thousands of characters.",
+     "evidenceQuote": "Chinese writing uses thousands of different characters",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "characters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Before Gutenberg, books were often copied by __________",
+     "explanation": "Monks copied books.",
+     "evidenceQuote": "Books were copied by hand, often by monks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "monks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Gutenberg trained as a __________",
+     "explanation": "He was a metalworker.",
+     "evidenceQuote": "He trained as a metalworker",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "metalworker"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "A hand __________ allowed letters to be cast quickly",
+     "explanation": "Type was cast in a hand mould.",
+     "evidenceQuote": "The first part was a hand mould",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mould"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "The type was an alloy, mainly of __________",
+     "explanation": "It was mostly lead.",
+     "evidenceQuote": "mainly lead, with tin and antimony",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lead"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "His ink was based on __________, like artists' paints",
+     "explanation": "The ink was oil-based.",
+     "evidenceQuote": "Gutenberg developed an oil-based ink",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Presses were adapted from those used for wine and __________",
+     "explanation": "Presses were used for olives.",
+     "evidenceQuote": "for making wine and pressing olives",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "olives"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Some copies of the Bible were printed on __________, made from animal skin",
+     "explanation": "Vellum is made from skin.",
+     "evidenceQuote": "some on vellum, which is a fine material made from animal skin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vellum"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "In the long term, cheaper books encouraged the growth of __________",
+     "explanation": "Literacy grew.",
+     "evidenceQuote": "cheaper books encouraged the growth of literacy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "literacy"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "movable type",
+    "alloy",
+    "press",
+    "manuscript",
+    "literacy"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam38-rp1",
+   "passageNumber": 1,
+   "title": "The humble pencil",
+   "discipline": "History of Technology",
+   "paragraphs": [
+    "Few objects are as ordinary as the pencil. It is cheap, light and reliable, it works in freezing temperatures and even upside down, and its marks can be rubbed out. Yet the pencil has a surprisingly long and interesting history, involving a lucky discovery in the English countryside, a war between Britain and France, and the work of several inventors whose names are now largely forgotten.",
+    "The story begins in Borrowdale, a valley in the Lake District of north-west England. In the sixteenth century, a large deposit of an unusual black mineral was found there. It was soft, left a dark mark and could be cut into sticks. According to local tradition, shepherds were the first to use it, marking their sheep to show who owned them. Nobody at the time knew what the substance was. Because it looked rather like lead, it became known as 'black lead', and this is why we still talk about the 'lead' of a pencil today, even though pencils have never contained lead at all.",
+    "In fact, the mineral was graphite, a form of pure carbon. The Borrowdale deposit was exceptionally pure and solid, and for a long time it was the only one of its kind known in the world. Graphite quickly became valuable, not only for writing but also for lining the moulds in which cannonballs were made. The mine was so important that it was guarded, and it was opened only for a few weeks each year to prevent prices from falling. In 1752, the British Parliament made stealing graphite a serious crime, punishable by imprisonment or transportation to a colony.",
+    "Early pencils were simply sticks of graphite, which were soft and brittle and left marks on the user's hands. To solve this, people wrapped them in string or sheepskin. Later, craftsmen began placing the graphite inside a holder made of wood. The method that eventually became standard involved cutting a groove in a strip of wood, laying the graphite in it and gluing a second strip on top. Cedar became the most popular wood, because it is soft, has a straight grain and can be sharpened easily.",
+    "The next major development was a result of war. In the 1790s, France was at war with Britain and could no longer obtain English graphite. The French government asked an engineer and painter, Nicolas-Jacques Conté, to find an alternative. In 1795, Conté developed a method of mixing powdered graphite with clay and water, forming the mixture into thin rods and heating them in a kiln. His process had a great advantage: by changing the proportion of clay, manufacturers could make pencils harder or softer. The same basic method is still used today, and it explains the grading system found on many pencils, in which H stands for hard and B for black.",
+    "The pencil industry grew rapidly during the nineteenth century. Germany became a major centre of production, and in the United States, one of the early manufacturers was the family of the writer Henry David Thoreau, who worked in his father's pencil business and helped to improve the quality of its products. In England, a pencil industry developed in the town of Keswick, close to the original Borrowdale mine, and today the town has a museum devoted to the history of the pencil.",
+    "Another common feature of the modern pencil, the eraser on the end, also has an interesting history. Rubber had been used to remove pencil marks since the eighteenth century, but in 1858 an American, Hymen Lipman, received a patent for a pencil with an eraser attached to one end. He later sold the patent for a large sum. However, in 1875, the United States Supreme Court ruled that the patent was invalid, because joining two existing objects together did not count as a new invention.",
+    "Today, billions of pencils are produced every year, and despite the arrival of computers and tablets, the pencil remains popular with artists, architects, carpenters and schoolchildren. It needs no batteries, no ink cartridges and no software updates. Some modern pencils are even made from recycled newspapers or plastic rather than wood. The pencil is a reminder that some of the most successful inventions are not dramatic breakthroughs but simple objects that are gradually improved by many people over hundreds of years."
+   ],
+   "questions": [
+    {
+     "id": "exam38-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Pencils have never been made with real lead.",
+     "explanation": "Pencils never contained lead.",
+     "evidenceQuote": "even though pencils have never contained lead at all",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam38-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Borrowdale mine was kept open all year to meet demand.",
+     "explanation": "It opened only a few weeks a year.",
+     "evidenceQuote": "it was opened only for a few weeks each year to prevent prices from falling",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam38-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Graphite was used in the manufacture of cannonballs.",
+     "explanation": "It lined cannonball moulds.",
+     "evidenceQuote": "for lining the moulds in which cannonballs were made",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam38-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Cedar was chosen for pencils because it was the cheapest wood available.",
+     "explanation": "It was chosen for its softness and straight grain.",
+     "evidenceQuote": "because it is soft, has a straight grain and can be sharpened easily",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam38-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Conté was rewarded by the French government for his invention.",
+     "explanation": "No reward is mentioned.",
+     "evidenceQuote": "The French government asked an engineer and painter, Nicolas-Jacques Conté, to find an alternative.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam38-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Adding more clay to the mixture changes the hardness of the pencil.",
+     "explanation": "Clay controls hardness.",
+     "evidenceQuote": "by changing the proportion of clay, manufacturers could make pencils harder or softer",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam38-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Henry David Thoreau wrote a book about pencil making.",
+     "explanation": "No book on pencils is mentioned.",
+     "evidenceQuote": "who worked in his father's pencil business and helped to improve the quality of its products",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam38-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "According to tradition, Borrowdale graphite was first used by __________ to mark their animals",
+     "explanation": "Shepherds used it first.",
+     "evidenceQuote": "shepherds were the first to use it",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shepherds"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "From 1752, those caught stealing graphite could face imprisonment or __________",
+     "explanation": "Thieves could be transported.",
+     "evidenceQuote": "punishable by imprisonment or transportation to a colony",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "transportation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Early graphite sticks were wrapped in string or __________",
+     "explanation": "Sheepskin protected the hands.",
+     "evidenceQuote": "people wrapped them in string or sheepskin",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sheepskin"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Conté heated rods of graphite and clay in a __________",
+     "explanation": "The rods were heated in a kiln.",
+     "evidenceQuote": "heating them in a kiln",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kiln"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "A museum of pencils can be found in the town of __________",
+     "explanation": "Keswick has a pencil museum.",
+     "evidenceQuote": "the town of Keswick, close to the original Borrowdale mine",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Keswick"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Lipman's patent was later declared __________ by the Supreme Court",
+     "explanation": "The court ruled it invalid.",
+     "evidenceQuote": "ruled that the patent was invalid",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "invalid"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 717,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam38-rp2",
+   "passageNumber": 2,
+   "title": "Happy accidents",
+   "discipline": "History of Science & Technology",
+   "paragraphs": [
+    "We often imagine inventors as people who set out to solve a particular problem and work steadily until they succeed. Many inventions do happen this way. But a surprising number of familiar products were discovered by accident, when someone who was looking for one thing noticed something quite different. The French scientist Louis Pasteur famously observed that, in the field of observation, chance favours only the prepared mind. The stories behind several everyday inventions suggest that he was right.",
+    "In 1945, Percy Spencer, an engineer at the American company Raytheon, was working with a magnetron, a device that produces microwaves for radar equipment. Standing near the machine, he noticed that a chocolate bar in his pocket had melted. Other people had probably experienced something similar, but Spencer was curious. He placed some popcorn kernels near the magnetron and watched them pop, and later tried an egg, which exploded. Raytheon soon applied for a patent for cooking with microwaves, and in 1947 the first commercial microwave oven went on sale. It was nearly two metres tall and weighed hundreds of kilograms, and it was used mainly in restaurants and ships. Smaller ovens for the home did not become common until the late 1960s.",
+    "Another accidental invention began with a walk in the countryside. In 1941, a Swiss engineer, George de Mestral, returned from a hunting trip in the mountains and found that his clothes and his dog's fur were covered with burrs, the seed cases of the burdock plant. Rather than simply removing them, he examined them under a microscope and saw that they were covered in tiny hooks, which caught on anything with loops, such as fabric or hair. He spent years trying to reproduce this in a factory, first with cotton and then with nylon. He received a patent in the 1950s and called his product Velcro, from the French words for 'velvet' and 'hook'.",
+    "Sometimes an accidental discovery waits years for a use. In 1968, Spencer Silver, a chemist at the American company 3M, was trying to develop a very strong glue. Instead, he produced an adhesive that was weak and could be removed easily without leaving a mark. For several years, nobody could think of a use for it. Then a colleague, Art Fry, who sang in a church choir, became frustrated that the paper bookmarks in his hymn book kept falling out. He realised that Silver's adhesive could make a bookmark that stayed in place but did not damage the page. After further development, the product was launched across the United States in 1980 as the Post-it Note.",
+    "A similar story lies behind one of the most slippery substances ever made. In 1938, Roy Plunkett, a chemist at the company DuPont, was working on new gases for refrigerators. One morning, he opened the valve of a container that should have been full of gas, but nothing came out. When the container was cut open, it was found to contain a white, waxy powder. The gas had turned into a new solid material, later named Teflon, which was extremely slippery and was not affected by heat or most chemicals. It was first used in industry and the military, and only later on the non-stick frying pans for which it is best known.",
+    "What do these stories have in common? In each case, the accident alone was not enough. Many people must have had chocolate melt in their pockets or burrs stuck to their clothes. What made the difference was that the person involved had the knowledge to recognise that something unusual had happened, the curiosity to investigate it and, often, the persistence to spend years turning a strange observation into a product that people wanted to buy.",
+    "Some organisations have tried to create the conditions in which such discoveries are more likely. 3M, for example, has for decades allowed its technical staff to spend part of their working time on projects of their own choosing. The idea is that if people are free to follow their curiosity, they are more likely to notice unexpected results and to share them with colleagues who may see a use for them. Other technology companies have since adopted similar policies.",
+    "It would be wrong, however, to conclude that invention is mainly a matter of luck. The stories of happy accidents are memorable partly because they are unusual. For every accidental discovery, there are many inventions that resulted from years of careful, systematic work. Thomas Edison, whose laboratory tested thousands of materials in the search for a long-lasting light bulb filament, is often quoted as saying that genius is one per cent inspiration and ninety-nine per cent perspiration. Even the luckiest inventors needed plenty of both."
+   ],
+   "questions": [
+    {
+     "id": "exam38-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the discovery of microwave cooking.",
+     "evidenceQuote": "he noticed that a chocolate bar in his pocket had melted",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. A surprise in an engineer's pocket",
+      "A surprise in an engineer's pocket"
+     ]
+    },
+    {
+     "id": "exam38-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C shows an idea copied from a plant.",
+     "evidenceQuote": "he examined them under a microscope",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Learning from nature",
+      "Learning from nature"
+     ]
+    },
+    {
+     "id": "exam38-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes a product that waited years for a use.",
+     "evidenceQuote": "For several years, nobody could think of a use for it.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A product in search of a purpose",
+      "A product in search of a purpose"
+     ]
+    },
+    {
+     "id": "exam38-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes an unexpected result in a container.",
+     "evidenceQuote": "he opened the valve of a container that should have been full of gas, but nothing came out",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A container that seemed to be empty",
+      "A container that seemed to be empty"
+     ]
+    },
+    {
+     "id": "exam38-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains the qualities the inventors shared.",
+     "evidenceQuote": "In each case, the accident alone was not enough.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. More than just good fortune",
+      "More than just good fortune"
+     ]
+    },
+    {
+     "id": "exam38-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes company policies.",
+     "evidenceQuote": "Some organisations have tried to create the conditions in which such discoveries are more likely.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Encouraging chance discoveries at work",
+      "Encouraging chance discoveries at work"
+     ]
+    },
+    {
+     "id": "exam38-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H stresses hard work.",
+     "evidenceQuote": "It would be wrong, however, to conclude that invention is mainly a matter of luck.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. The importance of effort",
+      "The importance of effort"
+     ]
+    },
+    {
+     "id": "exam38-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about the first commercial microwave oven?",
+     "explanation": "It was used in restaurants and ships.",
+     "evidenceQuote": "it was used mainly in restaurants and ships",
+     "skillTag": "detail",
+     "options": [
+      "A. It was invented by Raytheon's managers.",
+      "B. It was cheap to produce.",
+      "C. It was mostly used outside the home.",
+      "D. It became popular immediately."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It was mostly used outside the home.",
+      "It was mostly used outside the home."
+     ]
+    },
+    {
+     "id": "exam38-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did Art Fry want a new kind of bookmark?",
+     "explanation": "His bookmarks kept falling out.",
+     "evidenceQuote": "the paper bookmarks in his hymn book kept falling out",
+     "skillTag": "detail",
+     "options": [
+      "A. His paper bookmarks would not stay in place.",
+      "B. He wanted to write notes on his books.",
+      "C. His bookmarks damaged the pages.",
+      "D. He needed to mark pages for other singers."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. His paper bookmarks would not stay in place.",
+      "His paper bookmarks would not stay in place."
+     ]
+    },
+    {
+     "id": "exam38-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What made the material discovered by Roy Plunkett unusual?",
+     "explanation": "It resisted heat and chemicals.",
+     "evidenceQuote": "which was extremely slippery and was not affected by heat or most chemicals",
+     "skillTag": "detail",
+     "options": [
+      "A. It could be used as a gas for refrigerators.",
+      "B. It was found in a frying pan.",
+      "C. It was a liquid at room temperature.",
+      "D. It resisted heat and most chemicals."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It resisted heat and most chemicals.",
+      "It resisted heat and most chemicals."
+     ]
+    },
+    {
+     "id": "exam38-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Percy Spencer was working with a device that produced microwaves for __________.",
+     "explanation": "The magnetron was for radar.",
+     "evidenceQuote": "a device that produces microwaves for radar equipment",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "radar equipment",
+      "radar"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam38-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "George de Mestral first tried to make his fastener from __________ before using nylon.",
+     "explanation": "He tried cotton first.",
+     "evidenceQuote": "first with cotton and then with nylon",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cotton"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam38-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Edison's laboratory tested thousands of materials to find a durable __________.",
+     "explanation": "They searched for a filament.",
+     "evidenceQuote": "in the search for a long-lasting light bulb filament",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "light bulb filament",
+      "filament"
+     ],
+     "maxWordCount": 3
+    }
+   ],
+   "estimatedWordCount": 784,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Encouraging chance discoveries at work",
+      "ii. A product in search of a purpose",
+      "iii. Why most inventors fail",
+      "iv. More than just good fortune",
+      "v. A surprise in an engineer's pocket",
+      "vi. Protecting inventions from competitors",
+      "vii. The importance of effort",
+      "viii. Learning from nature",
+      "ix. A container that seemed to be empty"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam38-rp3",
+   "passageNumber": 3,
+   "title": "Do patents help or hinder invention?",
+   "discipline": "Economics & Law",
+   "paragraphs": [
+    "A patent is a legal right that allows an inventor to prevent others from making, using or selling an invention for a limited period, usually twenty years in most countries today. In return, the inventor must publish a detailed description of how the invention works, so that once the patent expires, anyone can use it. The idea is simple: by giving inventors a temporary monopoly, society encourages them to invest time and money in new ideas, and in the long run everyone benefits.",
+    "The idea has a long history. One of the earliest patent laws was passed in Venice in 1474, when the city offered ten years of protection to anyone who built a new and useful device. In the United States, the founders considered patents important enough to mention in the Constitution, which gave Congress the power to promote the progress of science and useful arts. When the first patent law was passed in 1790, Thomas Jefferson, then Secretary of State, was one of the officials responsible for examining applications, although he had mixed feelings about granting monopolies.",
+    "Supporters of the system point to industries in which patents seem essential. Developing a new medicine, for example, can take more than a decade and cost enormous sums, while copying the final product may be relatively cheap. Without the protection of a patent, the argument goes, no company would take the risk. Patents can also help small inventors, who may be able to raise money from investors or sell their rights to a larger company. In addition, because patent documents must be published, they form a huge public library of technical knowledge, which engineers and researchers can consult to learn how problems have been solved before.",
+    "Critics, however, argue that patents can slow down progress rather than speed it up. A frequently cited example is the steam engine. James Watt patented his improved engine in 1769, and in 1775 the British Parliament extended the patent until 1800. Some economists, including Michele Boldrin and David Levine, have argued that Watt used his patent to block other engineers from making further improvements, and that the steam engine developed much faster once the patent expired.",
+    "The early history of aviation offers another example. After their first powered flight in 1903, Wilbur and Orville Wright spent years in legal battles with other aircraft makers, especially Glenn Curtiss, whom they accused of using their ideas. Many historians believe these disputes held back the American aircraft industry. When the United States entered the First World War in 1917 and needed planes urgently, the government encouraged manufacturers to share their patents so that production could increase. An organisation was set up through which aircraft makers could use each other's inventions in return for a fee, and the legal battles largely came to an end.",
+    "Some inventors have chosen not to seek patents at all. When Jonas Salk's polio vaccine was announced in 1955, he was asked in a television interview who owned the patent. He famously replied that there was no patent, and asked whether one could patent the sun. Historians have pointed out that the vaccine might not have been patentable anyway, but his answer has become a symbol of the idea that some discoveries should be freely available to everyone. Similar arguments are heard today in debates about medicines needed in poorer countries, where high prices protected by patents can put treatment out of reach.",
+    "In my view, the evidence does not support either extreme. Patents clearly play an important role in some industries, particularly where research is expensive and copying is easy. But the system works poorly when patents are granted too easily or for very broad ideas, because they can then be used to block competitors rather than to reward genuine invention. A particular problem is the rise of companies that produce nothing themselves but buy up patents in order to sue other businesses, a practice that adds costs without creating anything new.",
+    "I believe the most sensible approach is not to abolish patents but to make them harder to obtain and narrower in scope, so that they protect real innovation without preventing others from building on it. It is also worth remembering that patents are only one of many reasons people invent. Curiosity, the desire to solve a problem and the satisfaction of being first have driven inventors for centuries, and many of the most important ideas in history were never patented at all."
+   ],
+   "questions": [
+    {
+     "id": "exam38-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "had doubts about giving inventors monopolies",
+     "explanation": "Jefferson had mixed feelings.",
+     "evidenceQuote": "although he had mixed feelings about granting monopolies",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Thomas Jefferson",
+      "Thomas Jefferson"
+     ]
+    },
+    {
+     "id": "exam38-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "had a patent extended by Parliament",
+     "explanation": "Watt's patent was extended.",
+     "evidenceQuote": "in 1775 the British Parliament extended the patent until 1800",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. James Watt",
+      "James Watt"
+     ]
+    },
+    {
+     "id": "exam38-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "claim that an invention developed faster when its protection ended",
+     "explanation": "Boldrin and Levine argued this.",
+     "evidenceQuote": "the steam engine developed much faster once the patent expired",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Michele Boldrin and David Levine",
+      "Michele Boldrin and David Levine"
+     ]
+    },
+    {
+     "id": "exam38-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "spent years in legal disputes with competitors",
+     "explanation": "The Wright brothers fought in court.",
+     "evidenceQuote": "spent years in legal battles with other aircraft makers",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the Wright brothers",
+      "the Wright brothers"
+     ]
+    },
+    {
+     "id": "exam38-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "said in a television interview that there was no patent on a discovery",
+     "explanation": "Salk said there was no patent.",
+     "evidenceQuote": "He famously replied that there was no patent",
+     "skillTag": "matching_features",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Jonas Salk",
+      "Jonas Salk"
+     ]
+    },
+    {
+     "id": "exam38-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Patents are important in industries where research is costly and copying is easy.",
+     "explanation": "The writer agrees they matter there.",
+     "evidenceQuote": "Patents clearly play an important role in some industries, particularly where research is expensive and copying is easy.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam38-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Broad patents are an effective way of rewarding genuine invention.",
+     "explanation": "Broad patents can block competitors.",
+     "evidenceQuote": "they can then be used to block competitors rather than to reward genuine invention",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam38-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Companies that buy patents only to sue others add costs without creating value.",
+     "explanation": "The writer criticises them.",
+     "evidenceQuote": "a practice that adds costs without creating anything new",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam38-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "The patent system should be abolished.",
+     "explanation": "The writer rejects abolition.",
+     "evidenceQuote": "the most sensible approach is not to abolish patents",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam38-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Patent offices employ too few examiners to check applications properly.",
+     "explanation": "The number of examiners is not discussed.",
+     "evidenceQuote": "to make them harder to obtain and narrower in scope",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam38-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In exchange for protection, an inventor must __________ a description of the invention.",
+     "explanation": "The inventor must publish it.",
+     "evidenceQuote": "the inventor must publish a detailed description",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "publish"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "An early law in __________ protected new devices for ten years.",
+     "explanation": "Venice passed an early law.",
+     "evidenceQuote": "One of the earliest patent laws was passed in Venice in 1474",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Venice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Patents may help small inventors to raise money from __________.",
+     "explanation": "They can attract investors.",
+     "evidenceQuote": "may be able to raise money from investors",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "investors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam38-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Besides patents, inventors have been driven by __________ and the wish to solve problems.",
+     "explanation": "Curiosity drives inventors.",
+     "evidenceQuote": "Curiosity, the desire to solve a problem and the satisfaction of being first",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "curiosity"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 741,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person or people, A–F.",
+     "options": [
+      "A. James Watt",
+      "B. the Wright brothers",
+      "C. Jonas Salk",
+      "D. Thomas Jefferson",
+      "E. Michele Boldrin and David Levine",
+      "F. Glenn Curtiss"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam38-w1",
+  "title": "How pencils are made",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows the stages in the manufacture of wooden pencils. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Graphite and clay are ground into a fine powder",
+   "The powder is mixed with water to form a paste",
+   "The paste is pressed into thin rods and cut to length",
+   "The rods are dried and fired in a kiln at about 1,000°C",
+   "The rods are soaked in wax to make them write smoothly",
+   "Grooves are cut into thin slats of cedar wood",
+   "Rods are laid in the grooves and a second slat is glued on top",
+   "The slats are cut into individual pencils",
+   "Pencils are painted, stamped with a grade and sharpened"
+  ],
+  "keyOverviewPoints": [
+   "The process has nine stages, beginning with raw graphite and clay and ending with finished pencils.",
+   "Two parts are made separately, the writing core and the wooden casing, and these are then joined, shaped and finished."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam38-w2",
+  "title": "Lone inventors or large teams?",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Science & Technology",
+  "promptText": "Some people believe that the most important inventions are made by individuals working alone, while others think that today new inventions can only come from large teams in companies and universities. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam38-spk",
+  "theme": "Inventions and gadgets",
+  "part1Questions": [
+   "What piece of technology do you use most every day?",
+   "Is there a household gadget you could not live without?",
+   "Were you interested in science as a child?",
+   "Do you like trying new gadgets as soon as they come out?",
+   "Have you ever had an idea for an invention?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an invention that has made your life easier.",
+   "bulletPoints": [
+    "what the invention is",
+    "when you first used it",
+    "how you use it",
+    "and explain why it has made your life easier"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the most important inventions of the last hundred years?",
+   "Why do some inventions become popular while others fail?",
+   "Should governments spend more money supporting inventors?",
+   "Do you think modern inventions always improve people's lives?",
+   "How might schools encourage children to be more inventive?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical details are simplified for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

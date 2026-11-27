@@ -1,0 +1,2168 @@
+{
+ "id": "exam39",
+ "examNumber": 39,
+ "pool": "mock",
+ "title": "Mock Exam 39: Islands & Island Life",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Islands & Island Life",
+ "listeningParts": [
+  {
+   "id": "exam39-lp1",
+   "partNumber": 1,
+   "title": "Booking a ferry and a holiday cottage",
+   "contextDescription": "A woman phones an island ferry and accommodation office to arrange a short holiday.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "37A7729A-921E-5EC8-9557-E8177B3E680D",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Good morning, Inishkerrow Ferries and Island Holidays, Declan speaking. How can I help you?"
+    },
+    {
+     "id": "12741226-F94E-5BCF-8A4D-70C73EBEB256",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hi there. My partner and I are planning a few days on Inishkerrow this summer, and I'd like to book the ferry and somewhere to stay, if that's possible."
+    },
+    {
+     "id": "571F3D99-143E-5003-A299-265BE5D3E59E",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "No problem at all, we can do both. Are you bringing a car, or travelling as foot passengers?"
+    },
+    {
+     "id": "03C95B8B-7CDE-53EA-9BA3-BF42F71AC2E6",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We were thinking of bringing the car. Is that a good idea?"
+    },
+    {
+     "id": "A9596368-18C1-5F20-A06D-421A72B8874B",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "To be honest, the island's only about six kilometres long, and most people walk or cycle. But you can bring a car on the larger ferry. The vehicle has to be under five metres long, though, because the deck is quite small."
+    },
+    {
+     "id": "D9B32053-79D0-5211-80AD-B429106F3318",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Ours is a small hatchback, so that's fine. How long is the crossing?"
+    },
+    {
+     "id": "DA8A32FA-D7E9-59E9-ACA2-39DFBC10CC90",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "On the car ferry it's forty-five minutes. There's also a fast passenger boat that takes about twenty-five minutes, but it doesn't carry vehicles."
+    },
+    {
+     "id": "A55FEF9F-278B-5CE2-8CAD-A0E2A3E55D3B",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We'll take the car ferry. What are the fares?"
+    },
+    {
+     "id": "EBC61C0B-453F-5260-9990-29966DC4342F",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "A single ticket is fourteen euros per adult, and a return is twenty-four euros. The car is an extra thirty-five euros return, and that includes the driver's ticket, so you'd pay for one adult return plus the car."
+    },
+    {
+     "id": "FF4CD668-C9B5-5DBE-99D6-6DFEB59DBB6A",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "So fifty-nine euros altogether. That sounds fine. And the accommodation?"
+    },
+    {
+     "id": "92A4685C-AA19-5897-AFB5-6036713469D1",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "We manage four self-catering cottages on the island. When would you like to come?"
+    },
+    {
+     "id": "BB0882C2-C129-5BD7-BC95-7C64A6571BD2",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "We were hoping to arrive on the twelfth of July and stay four nights."
+    },
+    {
+     "id": "A7168AFE-1F21-5160-8EF6-75313BA05D93",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Let me check. Ah, the cottages are all booked on the twelfth, I'm afraid, because there's a music festival on the island that weekend. But I could offer you the fourteenth to the eighteenth."
+    },
+    {
+     "id": "C33656C1-5D60-59CE-BDD6-C820604E3B91",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "The fourteenth works. We're flexible."
+    },
+    {
+     "id": "31A9D7BF-863C-5F6B-BDAE-3A09A29C65F8",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Great. The cottage that's free then is called Seal Cottage. It's right beside the old harbour, and you can often see seals on the rocks from the kitchen window. It has one double bedroom, a small garden, and a wood-burning stove in the sitting room, which is lovely in the evenings, even in July."
+    },
+    {
+     "id": "1CA41844-C577-5191-9FEB-E0115896C469",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That sounds perfect. How much is it?"
+    },
+    {
+     "id": "B18589EE-F446-51AD-8A7F-9E397A28E3AD",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "It's ninety-five euros a night, so three hundred and eighty for the four nights. Bed linen and towels are included, and there's a basket of firewood for the stove."
+    },
+    {
+     "id": "89B9AAE8-7ABE-56ED-B4EE-2DC52B1517DE",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "And what about food? Is there a supermarket?"
+    },
+    {
+     "id": "111343DA-F678-5DD2-9498-0C55EB4C3AF5",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "There's one small shop near the pier, which sells most basics, as well as fresh fish and bread from the island bakery. It's open every day except Wednesday afternoons, when it closes at one. But I'd recommend bringing some supplies with you, as prices are a bit higher than on the mainland."
+    },
+    {
+     "id": "F3B84A52-D3BF-5424-8A69-A23B019ADF0C",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Good to know. Can we pay by card on the island?"
+    },
+    {
+     "id": "A7B538B4-126C-51AA-99E3-FAE9BD39B8B6",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "The shop and the café take cards, but there's no bank and no cash machine on the island, and a few places, like the bike hire, only accept cash. So it's worth bringing some euros with you."
+    },
+    {
+     "id": "E6E75786-BD0C-53AE-B0E7-4A83A1AC385C",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Where's the bike hire?"
+    },
+    {
+     "id": "2A1B537F-4BF1-5078-8F92-D3F6509E8515",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "It's run from the café, just up the hill from the pier. Bikes are twelve euros a day. Honestly, if you're hiring bikes, you might want to leave your car on the mainland and save the money."
+    },
+    {
+     "id": "1606227D-712D-57C2-98AD-4888028FADB0",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hmm, you might be right. Let me talk to my partner about that. Can I book the cottage now and the ferry later?"
+    },
+    {
+     "id": "DD919310-0213-5C13-924A-12F1AA5DD4BA",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Of course. I'll just need your name for the booking."
+    },
+    {
+     "id": "A16318A5-99E1-539F-A0F9-44A320E084AA",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "It's Joanna Pruett. That's P-R-U-E-T-T."
+    },
+    {
+     "id": "296BA25A-8F2D-5E64-866E-B746FB8C16CC",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Thank you. And a phone number?"
+    },
+    {
+     "id": "B5E67C45-D4FF-5329-B401-73CF0FB16FCC",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "My cell number is oh-one-five-five, three-two-nine, eight-four-one."
+    },
+    {
+     "id": "67EAFC5F-3146-5D77-A861-AD96EE3A2DBC",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Lovely. We ask for a deposit of one hundred euros to hold the cottage, and the rest is due two weeks before you arrive. I'll email you the payment details today."
+    },
+    {
+     "id": "28C2C836-6745-5E7A-9546-9566064F10DE",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Great. Is there anything else we should bring?"
+    },
+    {
+     "id": "B6288147-3207-5950-886A-CC8E3A5BE04A",
+     "speaker": "Agent",
+     "accent": "en-IE",
+     "text": "Definitely a good waterproof jacket. The weather out here can change very quickly, even in summer. And if you're walking to the cliffs at the north end, wear proper boots, because the path can be muddy."
+    },
+    {
+     "id": "39A2CB95-0ED1-5E4B-B978-C18747EE6888",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Thanks so much, Declan. You've been really helpful."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam39-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Cars on the ferry must be less than __________ metres long",
+     "explanation": "Cars must be under five metres.",
+     "evidenceQuote": "The vehicle has to be under five metres long",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Car ferry crossing time: __________ minutes",
+     "explanation": "The car ferry takes 45 minutes.",
+     "evidenceQuote": "On the car ferry it's forty-five minutes.",
+     "skillTag": "numbers",
+     "distractorNote": "25 minutes is the fast passenger boat, which carries no cars.",
+     "options": [],
+     "acceptedAnswers": [
+      "45",
+      "forty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Adult return fare: €__________",
+     "explanation": "A return costs €24.",
+     "evidenceQuote": "a return is twenty-four euros",
+     "skillTag": "numbers",
+     "distractorNote": "€14 is a single; €35 is the car.",
+     "options": [],
+     "acceptedAnswers": [
+      "24",
+      "twenty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Arrival date: __________ July",
+     "explanation": "She accepts the 14th.",
+     "evidenceQuote": "The fourteenth works.",
+     "skillTag": "dates",
+     "distractorNote": "The 12th was her first choice, but the cottages were full.",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Name of cottage: __________ Cottage",
+     "explanation": "The cottage is Seal Cottage.",
+     "evidenceQuote": "is called Seal Cottage",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Seal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Sitting room has a wood-burning __________",
+     "explanation": "There is a wood-burning stove.",
+     "evidenceQuote": "a wood-burning stove in the sitting room",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stove"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Island shop closes early on __________ afternoons",
+     "explanation": "It closes early on Wednesdays.",
+     "evidenceQuote": "except Wednesday afternoons",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Bike hire is run from the __________",
+     "explanation": "Bikes are hired from the café.",
+     "evidenceQuote": "It's run from the café",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "café"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Pruett.",
+     "evidenceQuote": "It's Joanna Pruett. That's P-R-U-E-T-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Pruett"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Deposit to hold the cottage: €__________",
+     "explanation": "The deposit is €100.",
+     "evidenceQuote": "We ask for a deposit of one hundred euros",
+     "skillTag": "numbers",
+     "distractorNote": "€95 is the nightly price and €380 is the total.",
+     "options": [],
+     "acceptedAnswers": [
+      "100",
+      "one hundred"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "ferry",
+    "crossing",
+    "single",
+    "return",
+    "self-catering"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam39-lp2",
+   "partNumber": 2,
+   "title": "Welcome to Holm Island nature reserve",
+   "contextDescription": "A ranger speaks to a group of day visitors as they arrive by boat at an island nature reserve.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "C45D8C88-F6AA-5AB6-9B0A-0F9E1A7FEC86",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "Good morning, everyone, and welcome to Holm Island. My name's Ben, and I'm one of the two rangers who live here from March to October. Before you set off, I'd like to give you some information about the island and a few rules, so that you have a good day and the wildlife isn't disturbed."
+    },
+    {
+     "id": "3CFE5192-A734-5DC0-A3D8-A0FE516F4DC1",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "Holm Island has been a nature reserve since 1976. Before that, there was a small farming community here, but the last family left in the 1950s, mainly because the children had to go to the mainland for secondary school and the parents didn't want to be separated from them. Since then, the island has belonged entirely to the birds and the seals, and to visitors like you, of course."
+    },
+    {
+     "id": "CDB0A0C6-B0AC-569C-8665-2F5FC108B775",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "Most people come here to see the seabirds, and you've chosen a very good time. In June the colonies are at their busiest. We have around twelve thousand pairs of puffins, which nest in burrows in the grassy slopes above the cliffs. The burrows are only a short distance under the surface, and the ground is easily broken, so it's extremely important that you stay on the marked paths. If you step off the path, you could collapse a burrow with a chick inside."
+    },
+    {
+     "id": "019307D4-945E-5F39-B68B-5AE6D1F687C0",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "You'll also see razorbills, guillemots and kittiwakes on the cliff ledges. A lot of visitors ask whether the numbers are going up or down. The honest answer is that puffins here are fairly stable at the moment, but kittiwakes have declined by about a third in the last twenty years. The main cause seems to be changes in the sea, which mean there are fewer of the small fish they feed their chicks on."
+    },
+    {
+     "id": "B43CF4EF-ADE4-5359-A01A-80606547E41C",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "A few rules. There are no bins on the island, so please take all your rubbish back with you on the boat. Dogs aren't allowed, as you probably saw on the booking website. And please don't feed the gulls, however friendly they look. They've learned that visitors carry sandwiches, and they can be quite bold."
+    },
+    {
+     "id": "E572EDF3-D514-5118-9424-0DC6D1657401",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "The boat leaves again at four o'clock, and it won't wait, so please be back at the landing stage by a quarter to four. If you miss it, you'll be spending the night with me, and I can promise you the accommodation isn't very comfortable."
+    },
+    {
+     "id": "F8955F6E-D9A4-561C-A01D-A7FBCDAD88A5",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "Now, let me tell you about the main places to visit. If you look at the map on the board here, you'll see the landing stage at the bottom, and the visitor hut just above it. The hut has toilets, which are the only ones on the island, and an exhibition about the island's history, including photographs of the families who once lived here."
+    },
+    {
+     "id": "F3077271-5A3B-588F-99A2-2BBAA42613B2",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "If you follow the main path north for about twenty minutes, you'll reach the North Cliffs. This is the best place to see puffins close up. In fact, they often walk right up to the path. There's a wooden screen with viewing holes, so you can watch them without disturbing them."
+    },
+    {
+     "id": "49EB04A6-EE2C-5D00-8BF2-C13E47B66E4C",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "On the west side of the island is Seal Bay. Grey seals rest on the rocks there at low tide, and today low tide is at about one o'clock, so that's the best time to go. Please keep your voices down, because the seals are easily frightened and will go into the water if they hear people."
+    },
+    {
+     "id": "D118CFE2-2120-5028-89A5-224AA163791F",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "In the middle of the island, you'll find the old walled garden, which belonged to the farm. It's sheltered from the wind, so it's a good spot for a picnic, and there are benches there. It's also where we've planted wild flowers that attract butterflies and bees."
+    },
+    {
+     "id": "90ACE697-729B-50A1-BA25-92FBF8077C87",
+     "speaker": "Ranger",
+     "accent": "en-GB",
+     "text": "And finally, at the southern tip, there's the lighthouse. It's been automatic since the 1980s, so there are no keepers any more, and you can't go inside. But on Wednesdays and Saturdays, I give a short talk there at two o'clock about the history of the lighthouse, which you're welcome to join. Right, enjoy your day."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam39-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why did the last family leave Holm Island?",
+     "explanation": "The children had to go to school on the mainland.",
+     "evidenceQuote": "the children had to go to the mainland for secondary school",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The farm could no longer make money.",
+      "B. Their children needed to attend school elsewhere.",
+      "C. The island was made into a nature reserve."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Their children needed to attend school elsewhere.",
+      "Their children needed to attend school elsewhere."
+     ]
+    },
+    {
+     "id": "exam39-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why must visitors stay on the marked paths?",
+     "explanation": "Walking off the path can collapse burrows.",
+     "evidenceQuote": "you could collapse a burrow with a chick inside",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to avoid damaging puffin burrows",
+      "B. because the cliffs are dangerous",
+      "C. to avoid frightening the seals"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to avoid damaging puffin burrows",
+      "to avoid damaging puffin burrows"
+     ]
+    },
+    {
+     "id": "exam39-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What does Ben say about kittiwakes on the island?",
+     "explanation": "Kittiwake numbers have fallen.",
+     "evidenceQuote": "kittiwakes have declined by about a third in the last twenty years",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Their numbers are stable.",
+      "B. They compete with puffins for food.",
+      "C. Their numbers have fallen in recent decades."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their numbers have fallen in recent decades.",
+      "Their numbers have fallen in recent decades."
+     ]
+    },
+    {
+     "id": "exam39-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What does Ben ask visitors to do with their rubbish?",
+     "explanation": "Visitors must take their rubbish away.",
+     "evidenceQuote": "please take all your rubbish back with you on the boat",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. put it in the bins at the hut",
+      "B. take it back to the mainland",
+      "C. give it to the rangers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. take it back to the mainland",
+      "take it back to the mainland"
+     ]
+    },
+    {
+     "id": "exam39-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "By what time must visitors return to the landing stage?",
+     "explanation": "They must be back by 3.45.",
+     "evidenceQuote": "please be back at the landing stage by a quarter to four",
+     "skillTag": "numbers",
+     "options": [
+      "A. 3.45",
+      "B. 4.00",
+      "C. 4.15"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. 3.45",
+      "3.45"
+     ]
+    },
+    {
+     "id": "exam39-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "learn about people who used to live on the island",
+     "explanation": "The exhibition is in the visitor hut.",
+     "evidenceQuote": "an exhibition about the island's history, including photographs of the families who once lived here",
+     "skillTag": "matching",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the visitor hut",
+      "the visitor hut"
+     ]
+    },
+    {
+     "id": "exam39-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "watch birds from behind a screen",
+     "explanation": "The screen is at the North Cliffs.",
+     "evidenceQuote": "There's a wooden screen with viewing holes",
+     "skillTag": "matching",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the North Cliffs",
+      "the North Cliffs"
+     ]
+    },
+    {
+     "id": "exam39-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "see animals best at around one o'clock",
+     "explanation": "Seals are seen at Seal Bay at low tide.",
+     "evidenceQuote": "today low tide is at about one o'clock, so that's the best time to go",
+     "skillTag": "matching",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Seal Bay",
+      "Seal Bay"
+     ]
+    },
+    {
+     "id": "exam39-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "have lunch out of the wind",
+     "explanation": "The walled garden is sheltered.",
+     "evidenceQuote": "It's sheltered from the wind, so it's a good spot for a picnic",
+     "skillTag": "matching",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the walled garden",
+      "the walled garden"
+     ]
+    },
+    {
+     "id": "exam39-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "hear a talk on certain days",
+     "explanation": "The talks are at the lighthouse.",
+     "evidenceQuote": "on Wednesdays and Saturdays, I give a short talk there",
+     "skillTag": "matching",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the lighthouse",
+      "the lighthouse"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "seabird",
+    "burrow",
+    "colony",
+    "nesting season",
+    "ranger"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Where on the island can visitors do each of the following? Choose the correct letter, A–E.",
+     "options": [
+      "A. the visitor hut",
+      "B. the North Cliffs",
+      "C. Seal Bay",
+      "D. the walled garden",
+      "E. the lighthouse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam39-lp3",
+   "partNumber": 3,
+   "title": "A project on island depopulation",
+   "contextDescription": "Two geography students, Ella and Tom, discuss their research on population decline in small islands with their tutor.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "EAA26CB7-BD15-56F7-A98E-5C42FB729B36",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Hi, Ella, Tom, come and sit down. So, how's the island project going?"
+    },
+    {
+     "id": "67FEA6C2-2535-513C-A96E-649D45D9D506",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "Really well, thanks. As you know, we're looking at why the populations of small islands off the coasts of Scotland and Ireland have fallen, and whether anything can reverse it. We've now finished our background reading and started on the case studies."
+    },
+    {
+     "id": "B84B96D7-CB95-5EF5-825C-BC3903A06222",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Good. What did you find in the reading?"
+    },
+    {
+     "id": "340A67EC-6218-594C-A624-5591CB096E1B",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The general pattern is quite clear. Most of these islands reached their highest population in the nineteenth century, and since then numbers have dropped, sometimes very steeply. The most famous extreme case is St Kilda, where the last thirty-six inhabitants asked to be taken to the mainland in 1930, and the island has had no permanent population since then."
+    },
+    {
+     "id": "5253E40C-42CB-5982-8458-9DEB986D4FA1",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "And what are the main reasons for decline, generally?"
+    },
+    {
+     "id": "F5815970-4C5A-538A-9EE7-FB616C4864A3",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "Lack of jobs is always mentioned first. Traditional work like fishing and small-scale farming doesn't support as many people as it used to. But what surprised me was how often education came up. On a lot of islands, once the primary school closes, families with young children leave, and then it's very hard to get them back."
+    },
+    {
+     "id": "E7E75373-4976-5FAE-9FB4-82ADDEFD1B57",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "It becomes a kind of cycle. Fewer children means the school closes, and without a school, younger families won't move there, so the population gets older and older."
+    },
+    {
+     "id": "3D19BF35-67B3-5C66-9BF6-009DA5F7A6CA",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's a good point to develop. Have you found any examples of islands where the trend has been reversed?"
+    },
+    {
+     "id": "F4386B21-F14F-5740-9BE1-F5539F64F5C5",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "Yes, a few. The best examples seem to be places where the community itself bought the land. In Scotland, there have been several community buyouts, where residents raised money to buy the island from a private landowner. Afterwards, they were able to build affordable housing and attract new families."
+    },
+    {
+     "id": "F5C87725-27EB-54E8-83FC-1474D950BADA",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The other big change is broadband. Since fast internet reached some islands, a few people have moved there to work remotely for companies on the mainland, or even abroad. One woman we interviewed runs a graphic design business from her kitchen."
+    },
+    {
+     "id": "ABB84C14-FDB4-58DE-A940-A89F7ACFFA0C",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "So you've done interviews as well?"
+    },
+    {
+     "id": "D35038F2-3E79-5D8D-9596-F5E19174686F",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "Yes, by video call. We spoke to fourteen people on three islands. We'd hoped to visit one of them, but the ferry was cancelled twice because of storms, so in the end we had to do everything online."
+    },
+    {
+     "id": "8D653076-6B71-5CF2-9AFF-6BAAD4A15824",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's a shame, but it's actually a nice illustration of your topic. Transport problems are part of island life. Did the interviews tell you anything you didn't expect?"
+    },
+    {
+     "id": "7A166D4B-477B-5709-A23C-1650B36DFE48",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The thing that came up most often wasn't jobs or schools, actually. It was housing. Several people said that holiday homes were pushing up prices, so that young islanders couldn't afford to stay, even when they had work."
+    },
+    {
+     "id": "F2A8D588-21B2-5AD2-9FE2-0A9D1DF566C0",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "And one man said that some houses are empty for ten months of the year, which makes the villages feel deserted in winter."
+    },
+    {
+     "id": "2C1CC89E-D97F-5546-8E76-AE2A0FDA9FDC",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's an important tension, because tourism also brings income. You'll need to present both sides. Now, how are you going to structure the final report?"
+    },
+    {
+     "id": "68CC0CF7-3C21-5212-85F2-B6D751017108",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We thought we'd start with the historical background, then the three case studies, and finish with recommendations."
+    },
+    {
+     "id": "08BFE2E7-0E32-50AD-BAD4-E4709C3F9D1B",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "I'd suggest putting a short section comparing the three islands before the recommendations. That way, the reader can see the patterns clearly. And please include a table with the population figures for each island at each census, so the trends are easy to see."
+    },
+    {
+     "id": "BE2FDAE3-640C-5B0D-B701-8526440F1575",
+     "speaker": "Ella",
+     "accent": "en-AU",
+     "text": "Okay, that makes sense. Should we include quotes from the interviews?"
+    },
+    {
+     "id": "EED08B4D-71CD-55AE-9E3E-B4C06F8BB9A2",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Definitely, but keep them short, and make sure you've got permission from everyone you quote. Some of these communities are very small, so even without names, people might be recognised. You could ask them to check the quotes before you submit."
+    },
+    {
+     "id": "864697B5-3C29-5289-9D93-A3CC5F35421F",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Good idea. When do you need the draft?"
+    },
+    {
+     "id": "F85C07AF-0495-5021-AEA6-7C87457EBB6D",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "By the end of next month, please. And send me the interview questions too, so I can include them in the appendix check."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam39-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What happened on St Kilda in 1930?",
+     "explanation": "The residents asked to leave.",
+     "evidenceQuote": "the last thirty-six inhabitants asked to be taken to the mainland in 1930",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its school was closed.",
+      "B. It was bought by its community.",
+      "C. Its remaining residents chose to leave."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Its remaining residents chose to leave.",
+      "Its remaining residents chose to leave."
+     ]
+    },
+    {
+     "id": "exam39-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What surprised Ella about the reasons for decline?",
+     "explanation": "Education was mentioned often.",
+     "evidenceQuote": "what surprised me was how often education came up",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. how often schools were mentioned",
+      "B. how few jobs were available",
+      "C. how old most residents were"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. how often schools were mentioned",
+      "how often schools were mentioned"
+     ]
+    },
+    {
+     "id": "exam39-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to Ella, what allowed some communities to reverse decline?",
+     "explanation": "Community buyouts helped.",
+     "evidenceQuote": "the community itself bought the land",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. government grants for farmers",
+      "B. buying the land from private owners",
+      "C. building new ferry ports"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. buying the land from private owners",
+      "buying the land from private owners"
+     ]
+    },
+    {
+     "id": "exam39-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students carry out their interviews online?",
+     "explanation": "Storms cancelled the ferry.",
+     "evidenceQuote": "the ferry was cancelled twice because of storms",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The islanders preferred video calls.",
+      "B. Bad weather prevented them from travelling.",
+      "C. Their tutor recommended it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Bad weather prevented them from travelling.",
+      "Bad weather prevented them from travelling."
+     ]
+    },
+    {
+     "id": "exam39-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What issue did interviewees mention most often?",
+     "explanation": "Housing came up most often.",
+     "evidenceQuote": "It was housing.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. jobs",
+      "B. schools",
+      "C. housing"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. housing",
+      "housing"
+     ]
+    },
+    {
+     "id": "exam39-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Number of people interviewed: __________",
+     "explanation": "They interviewed 14 people.",
+     "evidenceQuote": "We spoke to fourteen people on three islands.",
+     "skillTag": "numbers",
+     "distractorNote": "Three is the number of islands.",
+     "options": [],
+     "acceptedAnswers": [
+      "14",
+      "fourteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "One remote worker runs a __________ design business",
+     "explanation": "She runs a graphic design business.",
+     "evidenceQuote": "runs a graphic design business from her kitchen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "graphic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Some holiday homes are empty for __________ months a year",
+     "explanation": "They are empty for ten months.",
+     "evidenceQuote": "some houses are empty for ten months of the year",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "ten",
+      "10"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Add a short section __________ the three islands",
+     "explanation": "The tutor wants a comparison section.",
+     "evidenceQuote": "I'd suggest putting a short section comparing the three islands",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "comparing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Include a __________ of population figures from each census",
+     "explanation": "Population figures go in a table.",
+     "evidenceQuote": "please include a table with the population figures",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "table"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "depopulation",
+    "remote working",
+    "ageing population",
+    "infrastructure",
+    "case study"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam39-lp4",
+   "partNumber": 4,
+   "title": "The theory of island biogeography",
+   "contextDescription": "A lecture in an ecology course about why some islands have more species than others.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "E433D1DE-9B2C-5421-9E43-51C2CA69439D",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good afternoon. Today we're going to look at one of the most influential ideas in ecology, which tries to answer a simple question: why do some islands have many more species than others?"
+    },
+    {
+     "id": "F55F1694-EC0D-5485-9411-01383C98B785",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Naturalists had noticed for a long time that large islands generally support more species than small ones. If you count the species of birds, reptiles or plants on a group of islands, and plot them against the area of each island, you get a fairly regular pattern. This is known as the species-area relationship. As a rough rule, an island ten times larger than another will have about twice as many species."
+    },
+    {
+     "id": "E63A6C6F-C3A1-5374-8AD9-A3A341B612F5",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "But it wasn't until the 1960s that two American ecologists, Robert MacArthur and Edward Wilson, offered a full explanation. In 1967 they published a book called The Theory of Island Biogeography, and their central idea was that the number of species on an island reflects a balance between two processes: immigration and extinction."
+    },
+    {
+     "id": "55BA235F-6FDD-5D85-B6D7-5D5445AD6C4C",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Let's take immigration first. New species arrive on islands all the time: birds and bats fly there, seeds are carried by the wind or by birds, and insects and small reptiles may float across the sea on pieces of vegetation. MacArthur and Wilson pointed out that the rate of arrival depends mainly on distance. An island close to the mainland will receive new arrivals much more often than a remote one in the middle of the ocean."
+    },
+    {
+     "id": "928984B4-8C6B-5814-97D4-54179F77E6C3",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Now extinction. Once a species arrives, it may not survive. On a small island, populations are small, and small populations are much more likely to die out, for example after a storm, a drought or a disease. So the rate of extinction depends mainly on the size of the island. Over time, the two rates come into balance, and the number of species stays roughly constant, even though the actual species present may keep changing. They called this an equilibrium."
+    },
+    {
+     "id": "727108D0-1E1D-596C-8341-617B6B7E5C43",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The theory makes two clear predictions. Large islands close to the mainland should have the most species, and small, remote islands the fewest. And these predictions have generally been supported by the evidence."
+    },
+    {
+     "id": "2D522B28-85AD-52EC-A57C-2EBCC087E0F4",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Wilson also tested the theory directly, together with his student Daniel Simberloff. In the late 1960s, they chose several tiny mangrove islands off the coast of Florida, each only a few metres across, and covered them with tents before removing all the insects and spiders with chemicals. Then they watched as the islands were recolonised. Within about a year, the number of species on each island had returned to roughly its original level, and, as the theory predicted, the nearest islands recovered fastest, although the species were not all the same as before."
+    },
+    {
+     "id": "FE0DB11E-7B9B-5CCC-B2E5-1CA3C9E54FF3",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Nature has also provided its own experiments. When the volcano Krakatoa in Indonesia erupted in 1883, it destroyed all life on the remaining islands. Scientists who visited in the following decades recorded the return of plants and animals, starting with ferns and grasses. And in 1963, a completely new island, called Surtsey, appeared in the sea off the south coast of Iceland after a volcanic eruption. It was immediately protected, and only scientists are allowed to land, so that they can study how life arrives. The first plant was recorded there in 1965, just two years after the island appeared."
+    },
+    {
+     "id": "C5B08AA8-2D5E-5A46-985B-ED23678FBB3F",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "What makes the theory so important today, though, is that it doesn't only apply to real islands. Think of a forest that has been cut into small patches by farmland or roads. Each patch is effectively an island surrounded by an environment that many forest species can't cross. The same is true of many national parks. So the theory helps to explain why species disappear when habitats are fragmented, and it has influenced the design of nature reserves. For example, it suggests that one large reserve may often be better than several small ones, and that corridors of habitat connecting reserves can help species to move between them."
+    },
+    {
+     "id": "9A1811CE-2DB5-50B6-95FD-1831F74F14C0",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "That said, the theory has its limitations. It treats all species as if they were equal, and it pays little attention to the evolution of new species on islands, which is particularly important on very remote islands such as Hawaii. We'll come back to that next week, when we look at island evolution."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam39-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "The species-__________ relationship: larger islands have more species",
+     "explanation": "It is the species-area relationship.",
+     "evidenceQuote": "This is known as the species-area relationship.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "area"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Number of species reflects a balance between immigration and __________",
+     "explanation": "The two processes are immigration and extinction.",
+     "evidenceQuote": "a balance between two processes: immigration and extinction",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "extinction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Some insects and reptiles float across the sea on pieces of __________",
+     "explanation": "They float on vegetation.",
+     "evidenceQuote": "may float across the sea on pieces of vegetation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vegetation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The rate of arrival depends mainly on __________",
+     "explanation": "Distance controls immigration.",
+     "evidenceQuote": "the rate of arrival depends mainly on distance",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Small populations may die out after a storm, a drought or a __________",
+     "explanation": "Disease is one cause.",
+     "evidenceQuote": "for example after a storm, a drought or a disease",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "disease"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Simberloff and Wilson studied tiny __________ islands in Florida",
+     "explanation": "They used mangrove islands.",
+     "evidenceQuote": "several tiny mangrove islands off the coast of Florida",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mangrove"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "The islands were covered with __________ before the insects were removed",
+     "explanation": "Tents covered the islands.",
+     "evidenceQuote": "covered them with tents before removing all the insects",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tents"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "After Krakatoa erupted, the first returning plants included ferns and __________",
+     "explanation": "Ferns and grasses returned first.",
+     "evidenceQuote": "starting with ferns and grasses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grasses"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Patches of forest separated by farmland are like islands; habitats become __________",
+     "explanation": "Habitats become fragmented.",
+     "evidenceQuote": "why species disappear when habitats are fragmented",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fragmented"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "__________ of habitat can help species move between reserves",
+     "explanation": "Corridors connect reserves.",
+     "evidenceQuote": "corridors of habitat connecting reserves",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "corridors"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "species",
+    "colonise",
+    "extinction",
+    "equilibrium",
+    "habitat fragmentation"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam39-rp1",
+   "passageNumber": 1,
+   "title": "The statues of Rapa Nui",
+   "discipline": "Archaeology & Pacific History",
+   "paragraphs": [
+    "Rapa Nui, also known as Easter Island, is one of the most remote inhabited places on Earth. A triangle of volcanic rock covering only about 164 square kilometres, it lies in the south-eastern Pacific Ocean, more than three thousand five hundred kilometres west of the coast of Chile, to which it belongs. The nearest inhabited island, Pitcairn, is around two thousand kilometres away. Yet this tiny, isolated island is famous throughout the world for the giant stone statues, known as moai, that were carved by its Polynesian inhabitants centuries ago.",
+    "The island's first settlers were Polynesian seafarers, who reached it by canoe after a remarkable voyage across open ocean. Exactly when they arrived is still debated. Earlier researchers suggested a date in the first millennium AD, but more recent radiocarbon dating has led many archaeologists to conclude that settlement took place around 1200. The settlers brought with them crops such as sweet potato and taro, as well as chickens. They also brought, probably by accident, the Polynesian rat, an animal that would have important consequences for the island's environment.",
+    "Nearly a thousand moai have been recorded on the island. Most are between three and six metres tall, but the largest ever raised, known as Paro, is around ten metres high and is estimated to weigh more than eighty tonnes. Almost all of them were carved from a soft volcanic rock called tuff, at a quarry in the crater of an extinct volcano, Rano Raraku. Hundreds of statues remain at the quarry today, some still attached to the rock in which they were being carved, which gives archaeologists a valuable picture of how the work was done, using hard stone tools.",
+    "Once finished, many moai were transported to stone platforms, called ahu, near the coast. Most of these statues face inland, towards the villages, rather than out to sea, and it is widely believed that they represented important ancestors who watched over the community. Some were given red stone 'hats', called pukao, made from a different type of volcanic rock from another quarry. How the islanders moved such heavy objects across the island, sometimes for more than ten kilometres, has been one of the great puzzles of Pacific archaeology.",
+    "For many years, the most popular theory was that the statues were laid on wooden sledges and dragged, which would have required large quantities of timber. This idea fitted a well-known account of the island's history, popularised by the geographer Jared Diamond in his 2005 book Collapse. According to this view, the islanders cut down their forests to move statues and clear land, which led to soil erosion, food shortages and conflict, and a dramatic fall in population. The island became a warning about what happens when a society destroys its own environment.",
+    "In recent years, however, this story has been strongly challenged. The archaeologists Terry Hunt and Carl Lipo have argued that the rats introduced by the first settlers, which ate the seeds of the island's palm trees, played a major part in the loss of the forest. They have also suggested that the moai were 'walked' upright, rocked from side to side by teams pulling on ropes. In 2012, they demonstrated this method with a replica statue weighing several tonnes, which a team of fewer than twenty people moved along a road with surprising speed. This method would have required far less wood than dragging.",
+    "What is not disputed is that the greatest disaster in the island's history came from outside. Europeans first reached Rapa Nui on Easter Sunday in 1722, when the Dutch explorer Jacob Roggeveen arrived and gave the island its European name. In the 1860s, raiders from Peru took around fifteen hundred islanders away to work as slaves, and diseases such as smallpox, brought back by a few survivors who were returned, spread rapidly. By 1877, only around one hundred and eleven Rapa Nui people remained on the island.",
+    "Today the population is several thousand, and the island's culture is experiencing a revival. Rapa Nui National Park was added to the World Heritage List in 1995, and tourism is now the main source of income. Many islanders have campaigned for the return of statues taken abroad, including one called Hoa Hakananai'a, which has been in the British Museum in London since 1869. For the Rapa Nui people, the moai are not simply archaeological objects, but living links with their ancestors."
+   ],
+   "questions": [
+    {
+     "id": "exam39-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Rapa Nui is part of Chile.",
+     "explanation": "The island belongs to Chile.",
+     "evidenceQuote": "west of the coast of Chile, to which it belongs",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam39-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Archaeologists now agree on the exact date the first settlers arrived.",
+     "explanation": "The date is still debated.",
+     "evidenceQuote": "Exactly when they arrived is still debated.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam39-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The first settlers deliberately brought rats to the island as food.",
+     "explanation": "The rats were probably brought by accident.",
+     "evidenceQuote": "They also brought, probably by accident, the Polynesian rat",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam39-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Some unfinished statues are still joined to the rock at Rano Raraku.",
+     "explanation": "Some are still attached to the rock.",
+     "evidenceQuote": "some still attached to the rock in which they were being carved",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam39-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The red stone hats were added to the statues after the Europeans arrived.",
+     "explanation": "When the hats were added is not stated.",
+     "evidenceQuote": "Some were given red stone 'hats', called pukao",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam39-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Hunt and Lipo's walking method would have needed more timber than dragging.",
+     "explanation": "Walking needed far less wood.",
+     "evidenceQuote": "This method would have required far less wood than dragging.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam39-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Roggeveen stayed on the island for several months.",
+     "explanation": "The length of his stay is not mentioned.",
+     "evidenceQuote": "when the Dutch explorer Jacob Roggeveen arrived and gave the island its European name",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam39-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Settlers' crops included sweet potato and __________",
+     "explanation": "They brought taro.",
+     "evidenceQuote": "crops such as sweet potato and taro",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "taro"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Most moai were carved from a soft volcanic rock called __________",
+     "explanation": "They were carved from tuff.",
+     "evidenceQuote": "a soft volcanic rock called tuff",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tuff"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Statues were placed on stone platforms known as __________",
+     "explanation": "The platforms are ahu.",
+     "evidenceQuote": "stone platforms, called ahu",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ahu"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "The moai are thought to represent important __________",
+     "explanation": "They represented ancestors.",
+     "evidenceQuote": "they represented important ancestors",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ancestors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Diamond's theory: loss of forest led to soil __________, food shortages and conflict",
+     "explanation": "Soil erosion followed.",
+     "evidenceQuote": "which led to soil erosion, food shortages and conflict",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "erosion"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Population in 1877: about __________",
+     "explanation": "About 111 people remained.",
+     "evidenceQuote": "only around one hundred and eleven Rapa Nui people remained",
+     "skillTag": "numbers",
+     "distractorNote": "Fifteen hundred is the number taken by raiders.",
+     "options": [],
+     "acceptedAnswers": [
+      "111",
+      "one hundred and eleven"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 733,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam39-rp2",
+   "passageNumber": 2,
+   "title": "Giants and dwarfs: the strange evolution of island animals",
+   "discipline": "Evolutionary Biology",
+   "paragraphs": [
+    "Islands have long fascinated biologists, and for good reason. Cut off from the mainland, often for millions of years, island plants and animals evolve in isolation, and the results can be remarkable. Charles Darwin's visit to the Galápagos Islands in 1835 helped to shape his ideas about evolution, and islands continue to serve as natural laboratories. One of the most striking patterns they reveal concerns body size: on islands, small animals often become larger, while large animals often become smaller.",
+    "This pattern was first described systematically by the Canadian biologist J. Bristol Foster, who published a study of island mammals in the journal Nature in 1964. Foster compared mammals living on islands off the west coast of North America with their relatives on the mainland, and noticed that island rodents tended to be larger, while island deer and carnivores tended to be smaller. Nine years later, the American biologist Leigh Van Valen gave the pattern a name, the island rule, and it has been debated by scientists ever since.",
+    "The fossil record provides some dramatic examples of dwarfing. During the last ice ages, elephants reached several islands in the Mediterranean Sea, including Sicily, Malta and Cyprus, probably by swimming, as modern elephants are strong swimmers. Over many generations, their descendants shrank. Some of the dwarf elephants of Sicily and Malta stood barely a metre tall at the shoulder, compared with their mainland ancestors, which were among the largest elephants that ever lived. On Wrangel Island, in the Arctic Ocean, a population of woolly mammoths survived until around four thousand years ago, long after mammoths had disappeared from the mainland.",
+    "Even humans may not have been an exception. In 2003, archaeologists working in a cave on the Indonesian island of Flores discovered the remains of a previously unknown human species, which they named Homo floresiensis. Adults appear to have been only around a metre tall, and the species was quickly nicknamed 'the hobbit'. Some researchers have suggested that its small size is another example of island dwarfing, although its origins are still the subject of intense debate.",
+    "At the other end of the scale, some islands have produced giants. The Komodo dragon of Indonesia, the world's largest living lizard, can grow to around three metres long. The Galápagos Islands and Aldabra in the Indian Ocean are home to giant tortoises, and on Mauritius lived the dodo, a large flightless relative of pigeons. New Zealand, which had no land mammals apart from bats before humans arrived, was once home to the moa, enormous flightless birds, the largest of which could reach a height of more than three metres with its neck stretched upwards.",
+    "Why should islands produce these opposite effects? The most common explanation is that islands offer a very different set of challenges from the mainland. Large animals need a great deal of food, and on a small island, resources are limited, so smaller individuals, which need less food, may be more likely to survive and reproduce. Small animals, on the other hand, are often freed from the predators that kept them small and hidden on the mainland, and from competition with other species, which allows them to grow larger. In the absence of predators, many island birds also lost the ability to fly, as flight requires a great deal of energy.",
+    "Unfortunately, the same features that allowed island animals to flourish in isolation also made them extremely vulnerable when humans arrived. Animals that had never encountered predators were often unafraid of people, and flightless birds could not escape. The dodo was first described by Dutch sailors in 1598, and within less than a century it had disappeared, hunted by sailors and attacked by the rats, pigs and other animals they brought with them. In New Zealand, all species of moa were hunted to extinction within a few centuries of the arrival of the first Polynesian settlers.",
+    "Not all scientists are convinced that the island rule is a true rule. Some studies have found many exceptions, and in 2008, a group of researchers led by Shai Meiri argued that the pattern was much weaker than had been assumed for many groups of mammals. Others have pointed out that the size of an island, its distance from the mainland and its climate all seem to influence the result. However, more recent large-scale analyses, comparing hundreds of island species with their mainland relatives, have found that the general trend does exist across mammals, birds and reptiles, even if it is far from universal."
+   ],
+   "questions": [
+    {
+     "id": "exam39-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B tells how the island rule was identified and named.",
+     "evidenceQuote": "This pattern was first described systematically by the Canadian biologist J. Bristol Foster",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Identifying and naming a pattern",
+      "Identifying and naming a pattern"
+     ]
+    },
+    {
+     "id": "exam39-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes dwarf elephants and mammoths.",
+     "evidenceQuote": "The fossil record provides some dramatic examples of dwarfing.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Evidence of shrinking from the distant past",
+      "Evidence of shrinking from the distant past"
+     ]
+    },
+    {
+     "id": "exam39-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes Homo floresiensis.",
+     "evidenceQuote": "Even humans may not have been an exception.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A surprising human example",
+      "A surprising human example"
+     ]
+    },
+    {
+     "id": "exam39-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E lists island giants.",
+     "evidenceQuote": "At the other end of the scale, some islands have produced giants.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Animals that grew larger",
+      "Animals that grew larger"
+     ]
+    },
+    {
+     "id": "exam39-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains the causes.",
+     "evidenceQuote": "Why should islands produce these opposite effects?",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Explaining two opposite trends",
+      "Explaining two opposite trends"
+     ]
+    },
+    {
+     "id": "exam39-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes extinctions after human arrival.",
+     "evidenceQuote": "also made them extremely vulnerable when humans arrived",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Defenceless against newcomers",
+      "Defenceless against newcomers"
+     ]
+    },
+    {
+     "id": "exam39-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes the scientific debate.",
+     "evidenceQuote": "Not all scientists are convinced that the island rule is a true rule.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Questioning a general principle",
+      "Questioning a general principle"
+     ]
+    },
+    {
+     "id": "exam39-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How did elephants probably reach the Mediterranean islands?",
+     "explanation": "They probably swam.",
+     "evidenceQuote": "probably by swimming, as modern elephants are strong swimmers",
+     "skillTag": "detail",
+     "options": [
+      "A. They were carried by humans.",
+      "B. They swam there.",
+      "C. They walked across land bridges.",
+      "D. They arrived when sea ice formed."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They swam there.",
+      "They swam there."
+     ]
+    },
+    {
+     "id": "exam39-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to the passage, why might large animals become smaller on islands?",
+     "explanation": "Smaller animals need less food.",
+     "evidenceQuote": "smaller individuals, which need less food, may be more likely to survive and reproduce",
+     "skillTag": "detail",
+     "options": [
+      "A. Smaller individuals need less food.",
+      "B. Islands have colder climates.",
+      "C. There are more predators on islands.",
+      "D. Small animals can hide more easily."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Smaller individuals need less food.",
+      "Smaller individuals need less food."
+     ]
+    },
+    {
+     "id": "exam39-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer's conclusion about the island rule?",
+     "explanation": "The trend is real but not universal.",
+     "evidenceQuote": "the general trend does exist across mammals, birds and reptiles, even if it is far from universal",
+     "skillTag": "detail",
+     "options": [
+      "A. It applies only to mammals.",
+      "B. It has been shown to be false.",
+      "C. It applies to every island species.",
+      "D. It is a real trend with many exceptions."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It is a real trend with many exceptions.",
+      "It is a real trend with many exceptions."
+     ]
+    },
+    {
+     "id": "exam39-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Foster found that island __________ tended to be larger than mainland ones.",
+     "explanation": "Island rodents were larger.",
+     "evidenceQuote": "island rodents tended to be larger",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rodents"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam39-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Before humans arrived, the only land mammals in New Zealand were __________.",
+     "explanation": "Bats were the only land mammals.",
+     "evidenceQuote": "which had no land mammals apart from bats",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bats"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam39-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Many island birds became flightless because flying uses a lot of __________.",
+     "explanation": "Flight requires energy.",
+     "evidenceQuote": "flight requires a great deal of energy",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "energy"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 750,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Animals that grew larger",
+      "ii. Defenceless against newcomers",
+      "iii. Evidence of shrinking from the distant past",
+      "iv. How animals first reached islands",
+      "v. Questioning a general principle",
+      "vi. Identifying and naming a pattern",
+      "vii. Explaining two opposite trends",
+      "viii. Saving island species today",
+      "ix. A surprising human example"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam39-rp3",
+   "passageNumber": 3,
+   "title": "Can the atoll nations survive?",
+   "discipline": "Climate Policy & International Law",
+   "paragraphs": [
+    "Scattered across the Pacific and Indian Oceans are a handful of countries made up almost entirely of coral atolls: rings of low, narrow islands built from sand and broken coral on top of ancient reefs. Kiribati, Tuvalu, the Marshall Islands and the Maldives are among them. Most of their land lies only a few metres above sea level, and in the case of the Maldives, the great majority is less than a metre above the sea. As global sea levels rise, these nations face a threat that no other country has experienced: the possibility that their entire territory could become uninhabitable.",
+    "The dangers are not only a matter of slow flooding. Long before an atoll is permanently under water, it may become impossible to live on. Storms and unusually high tides already push seawater across some islands, damaging homes and roads. Just as seriously, salt water seeps into the thin layer of fresh groundwater on which atoll communities depend for drinking and for growing crops. In Tuvalu, for example, the deep pits in which families have traditionally grown a type of giant taro have been badly affected by salt in some areas.",
+    "The leaders of atoll nations have used dramatic gestures to draw the world's attention to their situation. In 2009, the president of the Maldives, Mohamed Nasheed, held a cabinet meeting underwater, with ministers in diving equipment signing a call for cuts in global emissions. In 2021, Tuvalu's foreign minister, Simon Kofe, recorded a speech for an international climate conference while standing knee-deep in the sea. In my view, such images have been more effective than many years of technical reports in making distant governments understand what is at stake.",
+    "Some governments have begun to plan for the worst. In 2014, Kiribati bought a plot of land of around six thousand acres on Vanua Levu, one of the islands of Fiji. The government said it would be used mainly to grow food, but the then president, Anote Tong, also spoke of the possibility that his people might one day need to move there. Fiji itself has already relocated several coastal villages to higher ground, beginning in 2014 with the village of Vunidogoloa, and has identified dozens more communities that may need to move in the future.",
+    "Others have chosen to build. The Maldives has created an artificial island, Hulhumalé, near the capital, by pumping sand from the sea floor onto a shallow reef. Work began in 1997, and the new island stands about two metres above sea level, higher than most natural islands in the country. It is now home to tens of thousands of people. Critics point out, however, that such projects are expensive, can damage surrounding reefs, and are beyond the means of the poorest atoll states.",
+    "Science offers a more complicated picture than the headlines sometimes suggest. Coral islands are not fixed lumps of rock; they are made of sediment that is constantly moved by waves and currents, and new material is supplied by living reefs. A study published in 2018 by a team led by the geomorphologist Paul Kench found that the total land area of Tuvalu's 101 islands had actually increased slightly between 1971 and 2014, even though sea levels in the region had risen. Some islands had shrunk, but more had grown. I would argue that this finding is a reason for careful planning rather than for complacency, because it depends on healthy reefs, which are themselves threatened by warming oceans.",
+    "The situation also raises difficult legal questions. Under the Montevideo Convention of 1933, a state is generally understood to require a defined territory and a permanent population. What happens to a country if its people are forced to leave and its land disappears? Would it still have a seat at the United Nations, or control over the fishing grounds around its former islands, which are a vital source of income? In 2023, the leaders of the Pacific Islands Forum declared that the statehood of their members would continue regardless of the impact of sea-level rise, and Tuvalu has begun recording its land, culture and history in digital form.",
+    "In the same year, Tuvalu and Australia signed a treaty that allows up to two hundred and eighty Tuvaluans each year to move to Australia to live, work and study. Some welcomed this as a model of how wealthy countries could help, while others worried that it might encourage the slow emptying of the islands. It seems to me that the real test of the international community is not whether it offers new homes elsewhere, but whether it does enough to cut emissions so that people can choose to remain in the homes they already have."
+   ],
+   "questions": [
+    {
+     "id": "exam39-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "Its government purchased land in another country.",
+     "explanation": "Kiribati bought land in Fiji.",
+     "evidenceQuote": "Kiribati bought a plot of land of around six thousand acres",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Kiribati",
+      "Kiribati"
+     ]
+    },
+    {
+     "id": "exam39-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "Its leader held a government meeting below the surface of the sea.",
+     "explanation": "Nasheed of the Maldives held it underwater.",
+     "evidenceQuote": "held a cabinet meeting underwater",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the Maldives",
+      "the Maldives"
+     ]
+    },
+    {
+     "id": "exam39-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "It has moved whole villages away from the coast.",
+     "explanation": "Fiji relocated villages.",
+     "evidenceQuote": "has already relocated several coastal villages to higher ground",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Fiji",
+      "Fiji"
+     ]
+    },
+    {
+     "id": "exam39-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "It has made new land by moving sand onto a reef.",
+     "explanation": "The Maldives built Hulhumalé.",
+     "evidenceQuote": "by pumping sand from the sea floor onto a shallow reef",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the Maldives",
+      "the Maldives"
+     ]
+    },
+    {
+     "id": "exam39-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "It has an agreement allowing some of its citizens to settle in Australia.",
+     "explanation": "Tuvalu signed the treaty.",
+     "evidenceQuote": "allows up to two hundred and eighty Tuvaluans each year to move to Australia",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Tuvalu",
+      "Tuvalu"
+     ]
+    },
+    {
+     "id": "exam39-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Dramatic public gestures have done more than technical reports to raise awareness.",
+     "explanation": "The writer thinks the images were more effective.",
+     "evidenceQuote": "such images have been more effective than many years of technical reports",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam39-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Artificial islands are an affordable solution for all atoll nations.",
+     "explanation": "They are too expensive for the poorest states.",
+     "evidenceQuote": "are beyond the means of the poorest atoll states",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam39-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "The 2018 study shows that atoll nations no longer need to worry about rising seas.",
+     "explanation": "The writer rejects complacency.",
+     "evidenceQuote": "this finding is a reason for careful planning rather than for complacency",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam39-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Fishing grounds earn more money for atoll nations than tourism does.",
+     "explanation": "No comparison with tourism is made.",
+     "evidenceQuote": "which are a vital source of income",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam39-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Reducing emissions matters more than offering people new homes abroad.",
+     "explanation": "The writer sees cutting emissions as the real test.",
+     "evidenceQuote": "the real test of the international community is not whether it offers new homes elsewhere, but whether it does enough to cut emissions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam39-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Atolls are rings of low islands formed from sand and broken __________.",
+     "explanation": "They are made of sand and coral.",
+     "evidenceQuote": "built from sand and broken coral on top of ancient reefs",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coral"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Salt water can enter the fresh __________ that communities rely on.",
+     "explanation": "Salt enters the groundwater.",
+     "evidenceQuote": "the thin layer of fresh groundwater",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "groundwater"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Coral islands are made of __________ that waves and currents move.",
+     "explanation": "The islands are made of sediment.",
+     "evidenceQuote": "they are made of sediment that is constantly moved by waves and currents",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sediment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam39-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Under the Montevideo Convention, a state needs a defined territory and a permanent __________.",
+     "explanation": "A permanent population is required.",
+     "evidenceQuote": "require a defined territory and a permanent population",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "population"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 782,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of countries below. Match each statement with the correct country, A–D. You may use any letter more than once.",
+     "options": [
+      "A. Kiribati",
+      "B. Tuvalu",
+      "C. the Maldives",
+      "D. Fiji"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam39-w1",
+  "title": "Changes to an island",
+  "visualType": "Map Comparison",
+  "instructions": "The maps below show a small island in 1995 and the same island today, after it was developed for tourism. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "1995|NW|Forest",
+   "1995|N|Cliffs",
+   "1995|NE|Fishing village",
+   "1995|W|Sandy beach",
+   "1995|C|Farmland",
+   "1995|E|Small harbour",
+   "1995|SW|Sand dunes",
+   "1995|S|Footpath",
+   "1995|SE|Lighthouse",
+   "2025|NW|Forest (smaller) with walking trail",
+   "2025|N|Cliffs with viewing point",
+   "2025|NE|Fishing village with cafés and shops",
+   "2025|W|Beach with hotel and swimming area",
+   "2025|C|Holiday cabins and car park",
+   "2025|E|Ferry terminal and marina",
+   "2025|SW|Sand dunes (protected area)",
+   "2025|S|Road linking hotel and ferry terminal",
+   "2025|SE|Lighthouse converted to museum"
+  ],
+  "keyOverviewPoints": [
+   "The island has been transformed from a quiet farming and fishing area into a tourist destination.",
+   "Farmland and part of the forest were replaced by accommodation, while transport links were greatly improved; some natural areas were kept or protected."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam39-w2",
+  "title": "People leaving small islands",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Society & Geography",
+  "promptText": "In many parts of the world, young people are leaving small islands and remote communities to live in large cities. What problems does this cause for these communities? What measures could be taken to solve these problems?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam39-spk",
+  "theme": "Islands, beaches and the sea",
+  "part1Questions": [
+   "Have you ever been to an island?",
+   "Do you prefer holidays by the sea or in the mountains?",
+   "How often do you go to the beach?",
+   "Would you like to live near the sea? Why or why not?",
+   "Have you ever travelled by boat or ferry?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place near water, such as an island, a beach or a lake, that you enjoyed visiting.",
+   "bulletPoints": [
+    "where it is",
+    "when you went there",
+    "what you did there",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "What are the advantages and disadvantages of living on a small island?",
+   "Why do many young people leave rural or remote areas?",
+   "How does tourism change small communities?",
+   "What can governments do to support remote communities?",
+   "Should rich countries help nations threatened by rising sea levels?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical and scientific figures are checked against standard reference sources; some are rounded.",
+   "Inishkerrow, Holm Island and the people in the Listening dialogues are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

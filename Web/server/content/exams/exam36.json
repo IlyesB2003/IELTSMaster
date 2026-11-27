@@ -1,0 +1,2254 @@
+{
+ "id": "exam36",
+ "examNumber": 36,
+ "pool": "mock",
+ "title": "Mock Exam 36: News, Journalism & the Media",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "News, Journalism & the Media",
+ "listeningParts": [
+  {
+   "id": "exam36-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on a news-writing course",
+   "contextDescription": "A woman phones an adult education centre to ask about a weekend course in writing for the news.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B84D5213-9284-5419-859C-67003E2D05CC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Riverside Adult Education Centre, Owen speaking. How can I help you?"
+    },
+    {
+     "id": "3086D6C0-53A3-5C9F-9EFB-260204C4BBB1",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Oh, hello. I picked up one of your leaflets a while ago, and I think there was a course on writing news articles. I was wondering whether there are still places available."
+    },
+    {
+     "id": "FE30AD9A-0211-5582-BD94-70885133167A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, that'll be our Writing for the News course. It's one of our most popular courses, but we do still have a few places left for the autumn. Would you like me to tell you a bit about it first?"
+    },
+    {
+     "id": "8C9C49C0-30DA-50C0-94CA-D517C816223F",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Yes, please. I've never done anything like this before, so I'm a bit nervous."
+    },
+    {
+     "id": "BD9293A7-8941-55BA-9045-40D610A1C1F2",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Don't worry, it's aimed at complete beginners, so you don't need any experience at all. It used to run over eight Saturdays, but a lot of people found that too long, so we've shortened it, and it now runs for six Saturdays. Each session goes from ten in the morning until three in the afternoon, with an hour off for lunch."
+    },
+    {
+     "id": "76F49A80-973C-5E86-ACBF-3AECEDD16C2E",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Six weeks. That sounds manageable. When does it start?"
+    },
+    {
+     "id": "D42723F6-F8F3-5A6E-9FE4-ED0248C859C6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The first session is on the fourteenth of September, and the last one is towards the end of October. There's no session on the second Saturday in October, because the building is closed that weekend for repairs, so the course finishes a week later than you might expect."
+    },
+    {
+     "id": "27918F1F-E859-5BDC-99F6-4657F0934AED",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Okay, I'll make a note of that. And who teaches it?"
+    },
+    {
+     "id": "2DAB9B83-3BED-5369-A6ED-7EDD73CD5DCE",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The tutor is Joanna Marsh. She worked as an editor on a regional daily paper for nearly twenty years, and these days she writes for several magazines. Students always say she's brilliant at giving feedback, and very honest, which is what you want."
+    },
+    {
+     "id": "85EF743C-CDA7-5B61-8153-851D092A2955",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "And what do you actually do on the course?"
+    },
+    {
+     "id": "2B2A879C-C7A2-5E0B-A755-3ABD848914D0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "In the first few weeks, you learn the basics: how to find a story, how to interview people, and how to organise an article so that the most important information comes first. After that, you look at writing headlines, checking facts and taking good photographs on your phone. And for the final assignment, each student writes a complete article about a local festival. The best ones are published on the website of the Riverside Gazette, which is our local paper."
+    },
+    {
+     "id": "55CF5C88-4F50-5BC5-96FB-0322B3E77EE1",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Oh, that would be exciting. What do I need to bring with me?"
+    },
+    {
+     "id": "1AD9F953-AAD3-52FC-8672-AE84F252E293",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Most people bring a laptop, because you'll be writing in every session. If you haven't got one, we can lend you one, but you need to ask at least a week in advance, because we've only got a few. A notebook and pen are useful too, for the interview practice."
+    },
+    {
+     "id": "2B9E4165-5CEC-57AD-A456-FF1F562E12B8",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "I've got a laptop, so that's fine. And how much does it cost?"
+    },
+    {
+     "id": "E915A1AF-CEF4-5DDE-A898-4F568CA3E1D5",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The full fee is one hundred and twenty pounds. There's a reduced fee of ninety-five pounds for students and for people over sixty-five."
+    },
+    {
+     "id": "64983BF9-495E-5184-AD16-B136AE3C774E",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "I'm afraid I'm neither of those, so it'll be the full fee for me."
+    },
+    {
+     "id": "BD2F4F6C-5C7E-5C8C-A935-D7F00C91D3A9",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's no problem. To keep your place, you just need to pay a deposit of thirty pounds today, and the rest can be paid at any time before the first session. Now, the course isn't held in the main building. It's in the Garden Building, which is the newer one behind the main car park. It's the one with the glass front. You'll be in room twelve, on the ground floor."
+    },
+    {
+     "id": "28240B3E-EC4C-5AED-BB6D-76FCB44858DC",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Is there anywhere to park?"
+    },
+    {
+     "id": "8AC82370-6186-5DE8-ABB1-805BB4A0F957",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, parking is free at weekends, but the car park fills up quickly, so try to arrive by about a quarter to ten. Right, shall I take your details?"
+    },
+    {
+     "id": "6B025DEA-C438-5167-A5E2-9FA5052069E6",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Yes, please."
+    },
+    {
+     "id": "37CEC7CB-546D-5901-B3F5-CEFD383B6F1A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Could I have your name?"
+    },
+    {
+     "id": "991B1E8B-1885-5DA2-8039-7E0EDBDA185E",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's Clare Delaney. That's D-E-L-A-N-E-Y."
+    },
+    {
+     "id": "FD1F5A02-110A-5196-92CC-703992D195C9",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "And is Clare spelt with an 'i'?"
+    },
+    {
+     "id": "623BC701-2971-57E5-B4C8-AC9D743A1EF3",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "No, just C-L-A-R-E."
+    },
+    {
+     "id": "70C9F725-1B2C-51A6-BA7E-20AF95F01DE6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And your address?"
+    },
+    {
+     "id": "F54AAB44-9294-5F57-AAC5-E34BE3DEC6F8",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "It's forty-seven Linden Road. L-I-N-D-E-N. That's in Ashford."
+    },
+    {
+     "id": "19706205-478D-5586-BB15-50D6C63B57FB",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. And just one more question, which we ask everybody. How did you hear about the course?"
+    },
+    {
+     "id": "701C6BCA-1C99-5CBE-963F-B97F40FD84A1",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "Well, my sister mentioned your website a few months ago, but I didn't really think about it until I heard an advert on the local radio last week. That's what made me pick up the phone."
+    },
+    {
+     "id": "17C88944-3888-58BF-90A2-9BA3E84EA3BB",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "So I'll put down the radio, then. That's really useful for us to know. I'll send you a confirmation email this afternoon, with a short reading list from Joanna. There's only one book on it, and it's quite short, so don't panic."
+    },
+    {
+     "id": "A77C7E7A-33DB-5807-A8A0-3BF317AF78C4",
+     "speaker": "Caller",
+     "accent": "en-IE",
+     "text": "That's a relief. Thanks very much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam36-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Length of news course: __________ Saturdays",
+     "explanation": "The course now runs for six Saturdays.",
+     "evidenceQuote": "it now runs for six Saturdays",
+     "skillTag": "numbers",
+     "distractorNote": "Eight Saturdays was the old length of the course.",
+     "options": [],
+     "acceptedAnswers": [
+      "six",
+      "6"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "First session: __________ September",
+     "explanation": "It starts on 14 September.",
+     "evidenceQuote": "The first session is on the fourteenth of September",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Tutor Joanna Marsh was previously an __________ on a regional daily paper",
+     "explanation": "She worked as an editor.",
+     "evidenceQuote": "She worked as an editor on a regional daily paper",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "editor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Final assignment: an article about a local __________",
+     "explanation": "The article is about a local festival.",
+     "evidenceQuote": "each student writes a complete article about a local festival",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "festival"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Students should bring a __________",
+     "explanation": "A laptop is needed for writing.",
+     "evidenceQuote": "Most people bring a laptop",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "laptop"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Full fee: £__________",
+     "explanation": "She pays the full fee of £120.",
+     "evidenceQuote": "The full fee is one hundred and twenty pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£95 is the reduced fee and £30 is the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "120",
+      "one hundred and twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Course location: the __________ Building, room 12",
+     "explanation": "The course is in the Garden Building.",
+     "evidenceQuote": "It's in the Garden Building",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Garden"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Surname of caller: __________",
+     "explanation": "She spells Delaney.",
+     "evidenceQuote": "It's Clare Delaney. That's D-E-L-A-N-E-Y.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Delaney"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Address: 47 __________ Road, Ashford",
+     "explanation": "She lives on Linden Road.",
+     "evidenceQuote": "It's forty-seven Linden Road. L-I-N-D-E-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Linden"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Heard about the course from: the local __________",
+     "explanation": "The radio advert made her phone.",
+     "evidenceQuote": "I heard an advert on the local radio last week",
+     "skillTag": "detail",
+     "distractorNote": "Her sister mentioned the website, but that is not what made her call.",
+     "options": [],
+     "acceptedAnswers": [
+      "radio"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "beginner",
+    "assignment",
+    "headline",
+    "reduced fee",
+    "deposit"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam36-lp2",
+   "partNumber": 2,
+   "title": "Volunteering at a community radio station",
+   "contextDescription": "The manager of a community radio station speaks to a group of new volunteers.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "B424F77B-A43F-5A9E-9CC6-D0F339A8B5A9",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Hello, everyone, and welcome to Valley Community Radio. My name's Sophie, and I'm the station manager. Thank you all for coming along this evening. I know some of you have travelled quite a long way, so I'll try not to keep you too long. I'd like to give you a bit of background about the station, explain how volunteering works, and then tell you about some of our programmes, so you can start thinking about where you'd like to get involved."
+    },
+    {
+     "id": "6FD75C72-5A4E-5351-85C1-CC3C5766328F",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "The station was set up in 2009 by a small group of local residents who felt that the big commercial stations didn't cover anything happening in this valley. For the first two years, we only broadcast for a few weeks each summer, but now we're on air twenty-four hours a day, all year round. Like all community stations, our licence says we must be run on a not-for-profit basis and serve the people of our local area. We do carry a small amount of advertising from local businesses, but most of our income comes from grants and from our listeners' donations."
+    },
+    {
+     "id": "D12AD224-B13E-5AB0-829F-399B615BEFFB",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "People are often surprised to hear that we have only two paid members of staff: me, and a part-time engineer who keeps all the equipment running. Everything else, from presenting and producing to answering the phones and doing the accounts, is done by volunteers. There are around ninety of them at the moment."
+    },
+    {
+     "id": "AA016B6A-40AC-54B1-A8A8-20B9803CCD4E",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "As you can see, this building is fairly new. We moved here three years ago from a room above a shop in the high street. That place was actually quite cosy, and the rent was low, but it was up two flights of stairs with no lift, which meant that some of our volunteers simply couldn't get in. Here, everything is on one level."
+    },
+    {
+     "id": "6B6079C6-F00C-57C5-81F5-1166D3C1522B",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Now, I know that most of you are keen to get on air as soon as possible. But before anyone presents a live programme, they have to sit in on at least four shows with one of our experienced presenters and learn how the desk works. Then you do a short practice show, which isn't broadcast, and one of our senior volunteers gives you feedback."
+    },
+    {
+     "id": "5C42073A-08D8-5637-8B57-297172502383",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "There are a few rules I want to mention tonight. The most important one is about what you say on air. The thing that gets small stations into serious trouble isn't swearing or playing the wrong song. It's repeating a rumour about a named person, which could be defamatory. So if you're not sure something is true, don't say it. And please never leave the studio during a live show, even for a minute."
+    },
+    {
+     "id": "3E4F49E7-259A-5E21-9FCF-F6B0E96A249F",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "As for our audience, it's changed a lot. When we started, everybody listened on an ordinary radio. Now, more than half our listeners hear us online or through smart speakers, and some of them are former residents who live in other countries but still like to hear what's going on at home."
+    },
+    {
+     "id": "599513C3-97C6-5BF9-8328-5EEC9DFC4E81",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Right, let me tell you about some of the programmes where we need help. Our biggest show is the Breakfast Show, from six until nine on weekdays. It's a mix of music, local news and travel, and a big part of it is listeners phoning in to talk about whatever's on their mind that morning, so we need people to answer the calls."
+    },
+    {
+     "id": "4E679497-BEFF-5188-BAB9-D71D04AF7830",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Then there's Farming Week. It's presented by a farmer, Tom Ellis, and because he can't be here at lunchtime during the busy seasons, it's recorded in advance on Sunday evenings. He'd love someone to help with the editing."
+    },
+    {
+     "id": "A708DBDC-FB2A-5D85-9BF2-CDF9DDA55842",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Youth Hour, on Friday evenings, is produced and presented entirely by teenagers from the two secondary schools in the valley. It was shortlisted for a national prize this year, although we haven't heard the result yet. They need an adult volunteer to supervise them in the studio."
+    },
+    {
+     "id": "98BC0821-B194-57FE-9937-4A375F5629F4",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "Our sports programme, Valley Sport, is currently on Saturday afternoons. But from September, it's going to start an hour later, so that our reporters can include the final scores from the local football and rugby matches."
+    },
+    {
+     "id": "4E567FF1-6041-5090-9ECA-80EEAAA72220",
+     "speaker": "Manager",
+     "accent": "en-CA",
+     "text": "And finally, Late Night Jazz, which goes out on Sunday nights. It's presented by a retired music teacher, Margaret Hill, and last year it won a national award for community radio, which we're all very proud of. Margaret's looking for someone to help her choose music from our collection. Okay, let's take a short break, and then we'll go and see the studios."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam36-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Where does most of Valley Community Radio's income come from?",
+     "explanation": "Grants and donations provide most income.",
+     "evidenceQuote": "most of our income comes from grants and from our listeners' donations",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Advertising is mentioned, but it is only a small amount.",
+     "options": [
+      "A. advertising by local businesses",
+      "B. grants and donations",
+      "C. fees paid by volunteers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. grants and donations",
+      "grants and donations"
+     ]
+    },
+    {
+     "id": "exam36-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "How many paid staff work at the radio station?",
+     "explanation": "There are only two paid staff.",
+     "evidenceQuote": "we have only two paid members of staff",
+     "skillTag": "numbers",
+     "options": [
+      "A. two",
+      "B. four",
+      "C. ninety"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. two",
+      "two"
+     ]
+    },
+    {
+     "id": "exam36-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why did the station leave its room above a shop?",
+     "explanation": "Some volunteers could not reach the room.",
+     "evidenceQuote": "which meant that some of our volunteers simply couldn't get in",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The rent became too expensive.",
+      "B. The room was too small.",
+      "C. It was not accessible to everyone."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It was not accessible to everyone.",
+      "It was not accessible to everyone."
+     ]
+    },
+    {
+     "id": "exam36-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Before presenting a live show, new volunteers must first",
+     "explanation": "They must sit in on four shows.",
+     "evidenceQuote": "they have to sit in on at least four shows with one of our experienced presenters",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pass a written test on the law.",
+      "B. watch experienced presenters at work.",
+      "C. present a show that is broadcast."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. watch experienced presenters at work.",
+      "watch experienced presenters at work."
+     ]
+    },
+    {
+     "id": "exam36-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "According to Sophie, small radio stations most often get into serious trouble for",
+     "explanation": "Repeating rumours is the main danger.",
+     "evidenceQuote": "It's repeating a rumour about a named person, which could be defamatory.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. repeating unproven stories about people.",
+      "B. using bad language.",
+      "C. playing unsuitable music."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. repeating unproven stories about people.",
+      "repeating unproven stories about people."
+     ]
+    },
+    {
+     "id": "exam36-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "The Breakfast Show",
+     "explanation": "Listeners phone in to the Breakfast Show.",
+     "evidenceQuote": "a big part of it is listeners phoning in to talk",
+     "skillTag": "matching_information",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. involves calls from listeners",
+      "involves calls from listeners"
+     ]
+    },
+    {
+     "id": "exam36-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "Farming Week",
+     "explanation": "Farming Week is pre-recorded.",
+     "evidenceQuote": "it's recorded in advance on Sunday evenings",
+     "skillTag": "matching_information",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. is not broadcast live",
+      "is not broadcast live"
+     ]
+    },
+    {
+     "id": "exam36-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Youth Hour",
+     "explanation": "Teenagers present Youth Hour.",
+     "evidenceQuote": "is produced and presented entirely by teenagers",
+     "skillTag": "matching_information",
+     "distractorNote": "It was only shortlisted for a prize; the result is not known.",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. is presented by young people",
+      "is presented by young people"
+     ]
+    },
+    {
+     "id": "exam36-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Valley Sport",
+     "explanation": "Valley Sport will move to a later time.",
+     "evidenceQuote": "from September, it's going to start an hour later",
+     "skillTag": "matching_information",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. will be broadcast at a different time",
+      "will be broadcast at a different time"
+     ]
+    },
+    {
+     "id": "exam36-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Late Night Jazz",
+     "explanation": "Late Night Jazz won an award.",
+     "evidenceQuote": "last year it won a national award for community radio",
+     "skillTag": "matching_information",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. has won a national prize",
+      "has won a national prize"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "community radio",
+    "licence",
+    "presenter",
+    "broadcast",
+    "phone-in"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does Sophie say about each programme? Choose FIVE answers from the box and write the correct letter, A–G.",
+     "options": [
+      "A. is presented by young people",
+      "B. will be broadcast at a different time",
+      "C. has won a national prize",
+      "D. is not broadcast live",
+      "E. is broadcast in two languages",
+      "F. needs a new presenter",
+      "G. involves calls from listeners"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam36-lp3",
+   "partNumber": 3,
+   "title": "A project on checking online news",
+   "contextDescription": "Two media students, Megan and Tariq, discuss their research project on how students check news online with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E7979D99-C9E9-5D9E-BAA9-1EEB3989BED9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Come in, both of you. So, you're going to tell me how your project on checking online news is going. Remind me how you chose the topic."
+    },
+    {
+     "id": "10175EE5-0078-586E-A872-C6A65CE317A5",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Well, it was a bit embarrassing, really. During a hurricane in America last year, I saw a photo of a shark swimming along a flooded motorway, and I shared it with all my friends. Then Tariq pointed out that the same photo had been shared during almost every big flood for years. It was completely fake."
+    },
+    {
+     "id": "7334F223-F5BB-561F-B076-DEB0EE0E3077",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "And we realised that if a media student could be fooled that easily, it was probably happening to lots of people. So we decided to look at what students actually do when they see a news story online."
+    },
+    {
+     "id": "C53E4B50-BB41-569F-AD16-40C8C162395D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And how did you go about it?"
+    },
+    {
+     "id": "29440BE9-DA1C-5401-84CC-40C95B6B6277",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "We did it in two stages. First, there was an online survey about people's habits. Then, we invited some of the people who'd done the survey to come in and do a practical exercise. We gave them a set of ten news stories on a laptop, some real and some false, and asked them to decide which ones they'd trust."
+    },
+    {
+     "id": "00FAD429-8CAB-58FF-BD0E-8231DC5B8A40",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what did the survey show?"
+    },
+    {
+     "id": "144C5956-7532-5ED8-A4AB-C31798EDE5AF",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Almost everyone said they checked whether a story was true before they shared it. But in the practical exercise, it was a different story. Very few people checked anything. Most of them just looked at whether the website looked professional, and whether the story had lots of likes."
+    },
+    {
+     "id": "1D1D0271-4235-5819-A38F-EA70029BDBF6",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That gap between what people say and what they do is a really important finding. Make sure you discuss it properly. How many people did the practical exercise, by the way?"
+    },
+    {
+     "id": "71CB3DB8-BD51-5BCF-BA51-927B55E380FF",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "Sixty-four. We'd hoped to get a hundred, but it was exam season, so a lot of people dropped out."
+    },
+    {
+     "id": "6EFC7DC1-B924-5420-A114-A5C67A8E0A22",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's still a reasonable number for a project like this. Did you compare them with anyone?"
+    },
+    {
+     "id": "D24BBDF3-C034-5461-BF59-A5C1CE694F90",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Not directly, but we read about a study from Stanford University which compared students, historians and professional fact-checkers. The fact-checkers were much faster and more accurate, and the main reason was something called lateral reading."
+    },
+    {
+     "id": "37252183-1657-5790-B04C-FFE2E30662B2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Explain that for me."
+    },
+    {
+     "id": "26AAF07C-F15E-53B1-8098-AA5C754333CF",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Instead of staying on a website and reading it carefully from top to bottom, the fact-checkers left it almost immediately. They opened new tabs and searched for what other sources said about the website or the organisation behind it. The students tended to stay on the page and were often taken in by how it looked."
+    },
+    {
+     "id": "F556BA44-B2C4-502C-8E02-B1454CD56CBB",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Right. And did any of your participants do that?"
+    },
+    {
+     "id": "B644E03D-2F46-5B9A-91BB-9DADAF82190E",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "Only nine of them. And only five used a reverse image search to check where a photo came from, which is the easiest way to spot old pictures being reused, like Megan's shark."
+    },
+    {
+     "id": "AF84B4F7-8B85-5F68-AA75-09CEDBB19B75",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Thanks for reminding everyone, Tariq."
+    },
+    {
+     "id": "75C30EF4-ABC0-5F62-83FB-4DF1C6FF7A9B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What about the reasons false stories spread? Have you looked at the research on that?"
+    },
+    {
+     "id": "2212E337-BE1A-5F5F-A083-88CBB4A7E2C3",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "Yes, we read the study from MIT that was published in 2018. They looked at millions of posts on Twitter and found that false news spread further and faster than true news. What surprised us was that it wasn't mainly because of automated accounts, which is what we'd assumed. It was ordinary people sharing it, probably because false stories are more surprising."
+    },
+    {
+     "id": "0C2061DD-E407-511F-AF2F-0B9861CF4B39",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, that point about novelty is important. Now, were there any problems with your method?"
+    },
+    {
+     "id": "F583D3C1-66D4-50A3-A137-4022F57669C5",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "The main one is that people knew they were taking part in a study about fake news, so they were probably more suspicious than usual. In real life, when you're scrolling quickly on your phone, you'd probably check even less."
+    },
+    {
+     "id": "E292C7D5-9C0F-54F8-AA97-94725B8B5234",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly, so your results may actually be optimistic. Mention that in the limitations section. What are you planning to do next?"
+    },
+    {
+     "id": "C33F403E-66E5-5551-ABDC-11D41520470A",
+     "speaker": "Tariq",
+     "accent": "en-US",
+     "text": "We'd like to see whether a short training session makes a difference. We're thinking of teaching a group of students lateral reading in about twenty minutes and then giving them the exercise again."
+    },
+    {
+     "id": "357D6910-307D-570C-9BA6-D9FBA30CFB8D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That sounds very worthwhile. But you'll need a control group who don't get the training, otherwise you can't tell whether they've just improved through practice. And please send me a draft of your literature review by Friday."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam36-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What led Megan and Tariq to choose their project topic?",
+     "explanation": "Megan had shared a fake photo.",
+     "evidenceQuote": "I shared it with all my friends",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Megan had passed on a false picture.",
+      "B. Their tutor suggested it.",
+      "C. They had read a report about hurricanes."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Megan had passed on a false picture.",
+      "Megan had passed on a false picture."
+     ]
+    },
+    {
+     "id": "exam36-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did the practical exercise show about the participants?",
+     "explanation": "Few people actually checked the stories.",
+     "evidenceQuote": "Very few people checked anything.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were better at checking than the survey suggested.",
+      "B. They trusted none of the stories.",
+      "C. Their behaviour did not match what they had reported."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their behaviour did not match what they had reported.",
+      "Their behaviour did not match what they had reported."
+     ]
+    },
+    {
+     "id": "exam36-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why did fewer people take part in the exercise than planned?",
+     "explanation": "Exams caused people to drop out.",
+     "evidenceQuote": "it was exam season, so a lot of people dropped out",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The survey was too long.",
+      "B. It took place during exams.",
+      "C. The laptops were not available."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It took place during exams.",
+      "It took place during exams."
+     ]
+    },
+    {
+     "id": "exam36-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What made the professional fact-checkers in the Stanford study successful?",
+     "explanation": "They checked other sources quickly.",
+     "evidenceQuote": "They opened new tabs and searched for what other sources said about the website",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They read each website very carefully.",
+      "B. They looked at what other sources said about a site.",
+      "C. They had more knowledge of history."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They looked at what other sources said about a site.",
+      "They looked at what other sources said about a site."
+     ]
+    },
+    {
+     "id": "exam36-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What surprised the students about the 2018 study of false news?",
+     "explanation": "People, not automated accounts, spread it.",
+     "evidenceQuote": "It was ordinary people sharing it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People rather than automated accounts spread most of it.",
+      "B. True news spread faster than false news.",
+      "C. Very few posts contained false news."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People rather than automated accounts spread most of it.",
+      "People rather than automated accounts spread most of it."
+     ]
+    },
+    {
+     "id": "exam36-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the planned training study?",
+     "explanation": "A control group is needed.",
+     "evidenceQuote": "you'll need a control group who don't get the training",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It should last longer than twenty minutes.",
+      "B. It should use different news stories.",
+      "C. It needs a group that receives no training."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It needs a group that receives no training.",
+      "It needs a group that receives no training."
+     ]
+    },
+    {
+     "id": "exam36-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Many participants judged stories by the number of __________",
+     "explanation": "They looked at the number of likes.",
+     "evidenceQuote": "whether the story had lots of likes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "likes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Number of participants in the exercise: __________",
+     "explanation": "Sixty-four people took part.",
+     "evidenceQuote": "Sixty-four. We'd hoped to get a hundred",
+     "skillTag": "numbers",
+     "distractorNote": "A hundred was the original target.",
+     "options": [],
+     "acceptedAnswers": [
+      "64",
+      "sixty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Participants who used a reverse image search: __________",
+     "explanation": "Only five used it.",
+     "evidenceQuote": "only five used a reverse image search",
+     "skillTag": "numbers",
+     "distractorNote": "Nine people used lateral reading.",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Limitation: participants were probably more __________ than usual",
+     "explanation": "They were more suspicious.",
+     "evidenceQuote": "they were probably more suspicious than usual",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suspicious"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "fact-checking",
+    "reverse image search",
+    "lateral reading",
+    "participant",
+    "viral"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam36-lp4",
+   "partNumber": 4,
+   "title": "The rise of the news agency",
+   "contextDescription": "A lecture in a media history course about the origins of international news agencies.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "EB8A430E-F39A-5438-A280-91D901B7F0F9",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Good afternoon. Today, I want to look at an institution that most newspaper readers never think about, but which has shaped the news we receive for nearly two hundred years: the news agency. If you read a story about an election in South America or an earthquake in Asia, there's a good chance that the first report came not from the newspaper's own journalist, but from an agency such as Reuters, the Associated Press or Agence France-Presse."
+    },
+    {
+     "id": "F1903193-DC70-5DF3-BF72-677B36FFAB4C",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "So what exactly is a news agency? Put simply, it's an organisation that gathers news and sells it to other organisations, its subscribers, which include newspapers, broadcasters and, today, websites. The idea is that it's far cheaper for hundreds of newspapers to share the cost of a network of reporters around the world than for each of them to employ its own."
+    },
+    {
+     "id": "099F6EDF-11B6-569C-8024-9FDAF0514D33",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Until the middle of the nineteenth century, news could only travel as fast as a horse or a ship could carry it. News from India might take several months to reach London. The first modern agency was founded in Paris in 1835 by Charles-Louis Havas. He began by translating articles from foreign newspapers and selling them to the French press. Havas soon used carrier pigeons to bring news from London and Brussels to Paris, because they were faster than any coach. His agency was the ancestor of today's Agence France-Presse, which was established in 1944."
+    },
+    {
+     "id": "BC7780C4-3F3F-5E33-9D18-30545DFE5E6F",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "One of the people who worked briefly for Havas was a young German called Paul Julius Reuter. In 1850, he spotted a gap in the new telegraph network. There was a telegraph line from Berlin to the German city of Aachen, and another from Paris to Brussels, but nothing in between. Reuter used more than forty carrier pigeons to fly share prices between Aachen and Brussels, and for a time this was the fastest link between the two cities. Of course, once the telegraph line was completed, his pigeons were no longer needed."
+    },
+    {
+     "id": "3B1A9EFB-7619-5CF1-A530-9A29DC9AE0A5",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "So in 1851, Reuter moved to London. This was the year that the first undersea telegraph cable was laid across the Channel between Dover and Calais, connecting London directly with the financial markets of continental Europe. Reuter opened an office near the Stock Exchange, and at first his customers were mainly bankers and traders who wanted financial information. Only later did newspapers become his most important clients."
+    },
+    {
+     "id": "DC4BE1FF-BD18-529C-AA23-EF213D6C65A6",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Meanwhile, in the United States, a different model developed. In 1846, five newspapers in New York agreed to share the cost of bringing news of the war with Mexico, which was expensive because reports had to be carried long distances. This cooperative arrangement became the Associated Press. Unlike Reuters, it was owned by its member newspapers, and it still operates as a not-for-profit cooperative today."
+    },
+    {
+     "id": "7C22A9E6-2259-5242-B12D-C488EAA9C7D5",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "By the 1870s, the three biggest European agencies, Havas, Reuters and the German agency Wolff, had signed an agreement dividing the world between them. Each agency had its own territory, where it collected news and sold it, and they exchanged news with each other. This arrangement lasted, in one form or another, until the 1930s."
+    },
+    {
+     "id": "73A8C5F0-660D-53F6-9949-593D1106A2F9",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "The telegraph didn't just change the speed of news; it may also have changed the way news was written. Because sending telegrams was expensive, and lines sometimes failed in the middle of a message, journalists learned to write as briefly as possible and to put the most important facts at the start. This is often given as the origin of the inverted pyramid, the structure in which a story begins with the key facts and adds less important details further down. Historians debate how far the telegraph was really responsible, but the style certainly became standard in the late nineteenth century. It's also why agencies are still sometimes called wire services, after the telegraph wires they once depended on."
+    },
+    {
+     "id": "EDC9D4E5-66DE-5D98-BE30-DD364645365C",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Today, the agencies face new challenges, as newspapers have less money to spend on subscriptions. But they remain essential. Because their stories are sold to clients with very different political views, agencies have traditionally tried to write in a neutral style, and many people regard them as among the most reliable sources of basic facts. Next week, we'll look at the role of the foreign correspondent."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam36-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "A news agency sells news to its __________, such as newspapers and broadcasters",
+     "explanation": "Agencies sell to subscribers.",
+     "evidenceQuote": "sells it to other organisations, its subscribers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "subscribers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Before the telegraph, news travelled no faster than a horse or a __________",
+     "explanation": "News travelled by horse or ship.",
+     "evidenceQuote": "as fast as a horse or a ship could carry it",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ship"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Havas started by __________ articles from foreign newspapers",
+     "explanation": "He translated foreign articles.",
+     "evidenceQuote": "He began by translating articles from foreign newspapers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "translating"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Reuter's pigeons carried share prices between Brussels and __________",
+     "explanation": "The pigeons flew to Aachen.",
+     "evidenceQuote": "to fly share prices between Aachen and Brussels",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Aachen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "In 1851, a telegraph __________ was laid under the Channel",
+     "explanation": "An undersea cable was laid.",
+     "evidenceQuote": "the first undersea telegraph cable was laid across the Channel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Reuter's first customers were bankers and __________",
+     "explanation": "Bankers and traders used his service.",
+     "evidenceQuote": "his customers were mainly bankers and traders",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "traders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Associated Press: New York papers shared the cost of reporting a __________",
+     "explanation": "They covered the war with Mexico.",
+     "evidenceQuote": "share the cost of bringing news of the war with Mexico",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "war"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "In the 1870s, each of three European agencies was given its own __________",
+     "explanation": "Each had its own territory.",
+     "evidenceQuote": "Each agency had its own territory",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "territory"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "The inverted __________ puts the key facts at the start of a story",
+     "explanation": "This is the inverted pyramid.",
+     "evidenceQuote": "the origin of the inverted pyramid",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pyramid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Agencies traditionally write in a __________ style for clients with different views",
+     "explanation": "They use a neutral style.",
+     "evidenceQuote": "agencies have traditionally tried to write in a neutral style",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "neutral"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "news agency",
+    "subscriber",
+    "telegraph",
+    "carrier pigeon",
+    "wire service"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam36-rp1",
+   "passageNumber": 1,
+   "title": "From the Roman Forum to the penny press",
+   "discipline": "History of Journalism",
+   "paragraphs": [
+    "People have always wanted to know what is happening beyond their own street, and long before the invention of printing, rulers and merchants found ways of spreading news. In ancient Rome, Julius Caesar ordered in 59 BC that the proceedings of the Senate should be made public. Daily notices known as the Acta Diurna, or 'daily acts', were displayed on boards in busy public places. As well as official announcements, they reported on trials, births, marriages and deaths, and scribes copied them by hand so that they could be sent to officials and wealthy families in distant provinces.",
+    "Other early societies developed similar systems. Under the Tang dynasty, the imperial court in China circulated handwritten bulletins among government officials, informing them of decisions, appointments and events at court. In sixteenth-century Venice, which was then one of Europe's great trading centres, merchants depended on handwritten news sheets that reported on wars, shipping and prices in foreign markets. It is often said that these sheets could be read for a small coin called a gazzetta, which is the origin of the word 'gazette', still used in the names of many newspapers today.",
+    "The printing press, developed by Johannes Gutenberg in Germany in the mid-fifteenth century, made it possible to produce hundreds of identical copies of a text quickly. For more than a century, however, printed news appeared mainly in occasional pamphlets describing a single dramatic event, such as a battle, a flood or the appearance of a comet. These pamphlets were often sensational, and readers had no way of knowing when the next one would appear or whether its contents were accurate.",
+    "The publication that is usually regarded as the world's first newspaper appeared in Strasbourg, then part of the Holy Roman Empire, in 1605. Its publisher, Johann Carolus, had previously earned his living producing handwritten newsletters for wealthy subscribers. Copying each one by hand was slow, so he bought a printing press and began publishing a weekly paper called the Relation. In a petition to the city council, he asked for protection against other printers copying his work, and this document is one of the main pieces of evidence for the paper's early date. What made the Relation different from earlier pamphlets was regularity: it appeared every week and covered a range of news.",
+    "The idea spread quickly. Within a few decades, weekly papers were being published in Amsterdam, Frankfurt and other European cities. In England, the Oxford Gazette was first published in 1665, in Oxford rather than London because the royal court had moved there to escape the plague; a few months later it was renamed the London Gazette, and it is still published today as an official journal of the government. The first daily newspaper in Britain, the Daily Courant, was founded in London in 1702 by Elizabeth Mallet. It consisted of a single sheet and, unusually for the time, promised to report only news, not opinions, so that readers could make up their own minds.",
+    "For much of the following century, newspapers remained expensive. In Britain, the government introduced a stamp duty on newspapers in 1712, partly to raise money and partly to limit the spread of criticism. Critics called such charges 'taxes on knowledge', because they kept newspapers out of the reach of ordinary working people. The duty was increased several times, and it was not finally abolished until 1855, after a long public campaign. A separate tax on paper itself was removed six years later, in 1861.",
+    "Technology also played a part in bringing prices down. In 1814, The Times of London began printing on a steam-powered press designed by the German engineer Friedrich Koenig, which could produce more than a thousand sheets an hour, several times faster than a hand-operated press. Over the following decades, further improvements, together with cheaper paper made from wood pulp rather than rags, allowed publishers to print much larger numbers of copies at lower cost.",
+    "The most dramatic change came in the United States. In 1833, a young printer named Benjamin Day launched The Sun in New York and sold it for just one cent, at a time when most papers cost six. Instead of relying on subscriptions from the wealthy, Day's paper was sold on the street by boys, and it made its money mainly from advertising. To attract large numbers of readers, it concentrated on crime, accidents and human-interest stories rather than politics and business. Its success was rapid, and other 'penny papers' soon followed. For the first time, newspapers had become a mass medium, read by people of almost every social class."
+   ],
+   "questions": [
+    {
+     "id": "exam36-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Acta Diurna included information about events in people's private lives.",
+     "explanation": "Births, marriages and deaths were reported.",
+     "evidenceQuote": "they reported on trials, births, marriages and deaths",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam36-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Venetian news sheets were mainly read by government officials.",
+     "explanation": "They were used by merchants.",
+     "evidenceQuote": "merchants depended on handwritten news sheets",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam36-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Early printed pamphlets were published on a regular schedule.",
+     "explanation": "Their appearance was unpredictable.",
+     "evidenceQuote": "readers had no way of knowing when the next one would appear",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam36-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Johann Carolus asked the Strasbourg authorities to stop others from copying his paper.",
+     "explanation": "He petitioned for protection.",
+     "evidenceQuote": "he asked for protection against other printers copying his work",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam36-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The Amsterdam weekly papers had more readers than the Relation.",
+     "explanation": "Readership numbers are not compared.",
+     "evidenceQuote": "weekly papers were being published in Amsterdam, Frankfurt and other European cities",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam36-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Daily Courant aimed to give readers facts without the publisher's opinions.",
+     "explanation": "It promised news, not opinions.",
+     "evidenceQuote": "promised to report only news, not opinions",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam36-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Britain's stamp duty on newspapers was abolished soon after it was introduced.",
+     "explanation": "It lasted from 1712 to 1855.",
+     "evidenceQuote": "it was not finally abolished until 1855",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam36-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Copies of the Acta Diurna were made by __________ and sent to the provinces.",
+     "explanation": "Scribes copied them.",
+     "evidenceQuote": "scribes copied them by hand",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scribes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "One kind of event described in early printed pamphlets was the appearance of a __________.",
+     "explanation": "Comets were reported.",
+     "evidenceQuote": "or the appearance of a comet",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "comet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "The Oxford Gazette was printed in Oxford because the royal court was avoiding the __________.",
+     "explanation": "The court escaped the plague.",
+     "evidenceQuote": "the royal court had moved there to escape the plague",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plague"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Opponents described newspaper taxes as 'taxes on __________'.",
+     "explanation": "They were called taxes on knowledge.",
+     "evidenceQuote": "Critics called such charges 'taxes on knowledge'",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "knowledge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Cheaper paper was produced from wood __________ instead of rags.",
+     "explanation": "Wood pulp replaced rags.",
+     "evidenceQuote": "cheaper paper made from wood pulp rather than rags",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pulp"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Benjamin Day's paper earned most of its income from __________.",
+     "explanation": "Advertising paid for The Sun.",
+     "evidenceQuote": "it made its money mainly from advertising",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "advertising"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 765,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam36-rp2",
+   "passageNumber": 2,
+   "title": "What makes a story news?",
+   "discipline": "Journalism Studies",
+   "paragraphs": [
+    "Every day, millions of things happen around the world: people are born and die, laws are passed, companies make profits and losses, and storms form over the oceans. Only a tiny fraction of these events will ever be reported. Someone, somewhere, has to decide which events become news and which are ignored. For more than seventy years, researchers have tried to understand how these decisions are made, and their answers reveal a great deal about the picture of the world that the media present to us.",
+    "One of the earliest attempts to study the question used the idea of 'gatekeeping'. The term had been introduced by the psychologist Kurt Lewin, who used it to describe how certain members of a household decided which foods reached the family table. In 1950, the American researcher David Manning White applied it to journalism. He persuaded the wire editor of a small-town newspaper, whom he called 'Mr Gates', to keep every news agency story he received during one week, along with a note explaining why he had rejected it. The editor used only around a tenth of the material, and many of his reasons were highly personal. White concluded that the news was shaped to a surprising extent by the individual tastes and prejudices of the person at the gate.",
+    "Later researchers argued that this picture was too simple, because journalists working in very different organisations tended to make similar choices. In 1965, two Norwegian scholars, Johan Galtung and Mari Holmboe Ruge, published an influential study of how four Norwegian newspapers had reported crises in the Congo, Cuba and Cyprus. They proposed that events were more likely to be reported if they had certain characteristics, which they called 'news factors', and that the more of these factors an event had, the more likely it was to make the news.",
+    "Some of their factors will seem obvious to any newspaper reader. Events that are negative, such as disasters, conflicts and accidents, are more likely to be reported than positive ones. Unexpected events attract more attention than predictable ones. Events involving powerful nations or famous people are favoured over those involving ordinary people or distant, less powerful countries. And stories that can be told through the experience of individuals, rather than as abstract processes, are more attractive to editors, because readers find it easier to identify with a person than with a set of statistics.",
+    "Galtung and Ruge's list has been tested and revised many times. In 2001, the British researchers Tony Harcup and Deirdre O'Neill examined the main stories in three national newspapers and found that some of the original factors no longer fitted. Stories about celebrities and entertainment, for example, were far more common than the 1965 study would have predicted, and many stories were included simply because they were good news or had striking pictures. In an update published in 2017, the same researchers added a new factor that would have been unimaginable in the 1960s: 'shareability', the likelihood that a story will be shared and commented on through social media.",
+    "If gatekeeping and news factors explain which stories are chosen, another theory suggests what effect those choices have on the public. During the 1968 United States presidential election, Maxwell McCombs and Donald Shaw asked undecided voters in the town of Chapel Hill, North Carolina, which issues they considered most important. They then compared the answers with the amount of coverage each issue had received in the local media and found a very close match. Their theory, known as agenda-setting, echoed a famous remark by the political scientist Bernard Cohen in 1963: the press 'may not be successful much of the time in telling people what to think, but it is stunningly successful in telling its readers what to think about'.",
+    "The preference for negative news has consequences of its own. Surveys carried out for the Reuters Institute for the Study of Journalism in recent years have found that, across many countries, nearly four in ten people say they sometimes or often avoid the news, and one of the most common reasons they give is that it has a negative effect on their mood. In response, some journalists have promoted 'solutions journalism', which reports not only on problems but also on how people are trying to solve them. The Solutions Journalism Network, founded in the United States in 2013, trains reporters in this approach, while insisting that it should be as rigorous as any other kind of reporting.",
+    "Today, the gatekeepers are changing once again. Editors still choose which stories to publish, but a large share of the public now meets the news through search engines and social media, where computer programs decide which stories each user sees, based on what they have clicked on, liked or shared before. These algorithms are designed mainly to keep people engaged rather than to inform them, and they are largely hidden from public view. Understanding how they select the news may prove to be one of the most important tasks for researchers in the coming decades."
+   ],
+   "questions": [
+    {
+     "id": "exam36-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B shows one editor's personal choices.",
+     "evidenceQuote": "White concluded that the news was shaped to a surprising extent by the individual tastes and prejudices",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. One editor and his personal preferences",
+      "One editor and his personal preferences"
+     ]
+    },
+    {
+     "id": "exam36-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C introduces news factors to explain shared choices.",
+     "evidenceQuote": "journalists working in very different organisations tended to make similar choices",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. A search for patterns shared across newspapers",
+      "A search for patterns shared across newspapers"
+     ]
+    },
+    {
+     "id": "exam36-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D lists the characteristics.",
+     "evidenceQuote": "Some of their factors will seem obvious to any newspaper reader.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Features that make an event attractive to editors",
+      "Features that make an event attractive to editors"
+     ]
+    },
+    {
+     "id": "exam36-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E updates the list.",
+     "evidenceQuote": "Galtung and Ruge's list has been tested and revised many times.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Updating an older list for a new era",
+      "Updating an older list for a new era"
+     ]
+    },
+    {
+     "id": "exam36-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains agenda-setting.",
+     "evidenceQuote": "telling its readers what to think about",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Deciding which issues the public considers important",
+      "Deciding which issues the public considers important"
+     ]
+    },
+    {
+     "id": "exam36-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers news avoidance and a response.",
+     "evidenceQuote": "one of the most common reasons they give is that it has a negative effect on their mood",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why some people turn away from the news, and one response",
+      "Why some people turn away from the news, and one response"
+     ]
+    },
+    {
+     "id": "exam36-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes algorithms as new gatekeepers.",
+     "evidenceQuote": "Today, the gatekeepers are changing once again.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Hidden selection by machines",
+      "Hidden selection by machines"
+     ]
+    },
+    {
+     "id": "exam36-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How did Kurt Lewin originally use the term 'gatekeeping'?",
+     "explanation": "Lewin used it for household food choices.",
+     "evidenceQuote": "decided which foods reached the family table",
+     "skillTag": "detail",
+     "options": [
+      "A. to describe how editors selected stories",
+      "B. to explain how news agencies worked",
+      "C. to describe decisions about a family's food",
+      "D. to study voting in elections"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to describe decisions about a family's food",
+      "to describe decisions about a family's food"
+     ]
+    },
+    {
+     "id": "exam36-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did Harcup and O'Neill add to the list of news factors in 2017?",
+     "explanation": "They added shareability.",
+     "evidenceQuote": "'shareability', the likelihood that a story will be shared and commented on through social media",
+     "skillTag": "detail",
+     "options": [
+      "A. the presence of celebrities",
+      "B. the availability of pictures",
+      "C. the amount of good news",
+      "D. how likely a story is to spread online"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. how likely a story is to spread online",
+      "how likely a story is to spread online"
+     ]
+    },
+    {
+     "id": "exam36-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did McCombs and Shaw compare in their Chapel Hill study?",
+     "explanation": "They compared voters' priorities with coverage.",
+     "evidenceQuote": "compared the answers with the amount of coverage each issue had received in the local media",
+     "skillTag": "detail",
+     "options": [
+      "A. voters' priorities and media coverage of issues",
+      "B. the views of decided and undecided voters",
+      "C. coverage in local and national newspapers",
+      "D. the speeches of the two candidates"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. voters' priorities and media coverage of issues",
+      "voters' priorities and media coverage of issues"
+     ]
+    },
+    {
+     "id": "exam36-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Galtung and Ruge studied coverage of crises in four __________ newspapers.",
+     "explanation": "The newspapers were Norwegian.",
+     "evidenceQuote": "Norwegian newspapers",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Norwegian"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam36-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Solutions journalism reports on problems and on how people are trying to __________.",
+     "explanation": "It reports how people solve problems.",
+     "evidenceQuote": "how people are trying to solve them",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "solve them"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam36-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The algorithms used by platforms are designed mainly to keep people __________.",
+     "explanation": "They aim to keep people engaged.",
+     "evidenceQuote": "designed mainly to keep people engaged rather than to inform them",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "engaged"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 840,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Features that make an event attractive to editors",
+      "ii. Hidden selection by machines",
+      "iii. Deciding which issues the public considers important",
+      "iv. One editor and his personal preferences",
+      "v. The rising cost of foreign reporting",
+      "vi. Why some people turn away from the news, and one response",
+      "vii. A search for patterns shared across newspapers",
+      "viii. How journalists are trained to write headlines",
+      "ix. Updating an older list for a new era"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam36-rp3",
+   "passageNumber": 3,
+   "title": "Who will pay for local news?",
+   "discipline": "Media Economics & Public Policy",
+   "paragraphs": [
+    "For most of the twentieth century, local newspapers were among the most profitable businesses in many towns. They reported on council meetings, courts, schools and sports clubs, and they were paid for largely by advertisers who had few other ways of reaching local customers. In the past two decades, that model has collapsed. In the United States, more than a quarter of all newspapers have closed since 2005, and many of those that survive employ only a fraction of the journalists they once did. Similar declines have been recorded in Britain, Canada and Australia. The researcher Penelope Muse Abernathy helped to popularise the term 'news deserts' to describe the growing number of communities with no reliable local source of news at all.",
+    "The main cause is not hard to find. Advertising, which once provided most of a local paper's income, has moved online. Small advertisements for jobs, homes and second-hand goods, which used to fill page after page, migrated to free websites, and much of the remaining advertising money now goes to a small number of technology companies that can target customers far more precisely than any newspaper. At the same time, readers have become used to finding news online without paying for it, so that income from sales has also fallen.",
+    "Does it matter? A growing body of research suggests that it does. A study by the economists Pengjie Gao, Chang Lee and Dermot Murphy found that, after a local newspaper closed, the cost of borrowing for the local government tended to rise. Their explanation was that, without journalists watching how public money was spent, lenders saw a greater risk of waste or mismanagement and charged more. Another study, by Joshua Darr and his colleagues, found that after local papers closed, voters became more likely to choose the same party in national and local elections, which suggests that they were relying more on national news, which tends to be more strongly divided along party lines.",
+    "Several new models have emerged to fill the gap. One is the non-profit news organisation, funded by charitable foundations, individual donors and events. The Texas Tribune, founded in 2009 in Austin, is one of the best-known examples. It concentrates on state politics and public policy and allows other news outlets to republish its articles free of charge. Critics point out, however, that donors may have their own interests, and that charitable funding tends to flow to wealthier, larger cities rather than to the small towns that have suffered most.",
+    "A second approach relies on readers. Some publishers have introduced paywalls, which allow only paying subscribers to read their articles. Others, such as the British newspaper The Guardian, have kept their journalism free to read and instead asked readers to make voluntary contributions; more than a million people have supported the paper in this way. Yet such models seem to work best for large national titles with loyal audiences. Surveys repeatedly find that only a small minority of people in most countries pay for any online news, and very few are willing to pay for several sources.",
+    "A third option is support from public money. In Britain, the BBC launched the Local Democracy Reporting Service in 2017, under which it pays for around 150 reporters who work for local news organisations and cover the activities of councils and other public bodies. In Canada, the federal government's Local Journalism Initiative, which began in 2019, funds journalists to report on communities that are poorly served by the media. Supporters of such schemes argue that local news is a public good, like clean water or street lighting, which markets alone will not provide. Opponents worry that journalists who depend on the state for their salaries may be reluctant to criticise it.",
+    "Finally, some governments have tried to make the technology companies themselves pay. In 2021, Australia introduced the News Media Bargaining Code, which requires large digital platforms to negotiate payments with news publishers whose content appears on their services. Before the law was passed, Facebook briefly blocked users in Australia from viewing or sharing news on its platform, which also affected the pages of some emergency services. The dispute was resolved after a few days, and the companies have since signed deals worth large sums with Australian publishers, although critics claim that most of the money has gone to the biggest media groups.",
+    "In my view, there is no single solution to the crisis, and it would be a mistake to search for one. Each of these models has weaknesses, but together they can support a varied range of local news organisations, which is itself a protection against any one source of funding becoming too powerful. What matters most is that the reporting of local courts, councils and schools continues, because it is precisely in those places, which national journalists rarely visit, that power is most easily abused without anyone noticing. A town without a newspaper is not necessarily a worse place to live, but it is certainly a place where fewer questions are asked."
+   ],
+   "questions": [
+    {
+     "id": "exam36-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "helped to spread a term for places with no local news source",
+     "explanation": "Abernathy popularised the term news deserts.",
+     "evidenceQuote": "Penelope Muse Abernathy helped to popularise the term 'news deserts'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Penelope Muse Abernathy",
+      "Penelope Muse Abernathy"
+     ]
+    },
+    {
+     "id": "exam36-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "linked the loss of a newspaper with higher costs for local government",
+     "explanation": "Gao, Lee and Murphy found borrowing costs rose.",
+     "evidenceQuote": "after a local newspaper closed, the cost of borrowing for the local government tended to rise",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "Pengjie Gao, Chang Lee and Dermot Murphy"
+     ]
+    },
+    {
+     "id": "exam36-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "found that voters behaved differently after their local paper disappeared",
+     "explanation": "Darr and colleagues studied voting.",
+     "evidenceQuote": "voters became more likely to choose the same party in national and local elections",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Joshua Darr and his colleagues",
+      "Joshua Darr and his colleagues"
+     ]
+    },
+    {
+     "id": "exam36-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "lets other organisations use its stories without paying",
+     "explanation": "The Texas Tribune allows free republishing.",
+     "evidenceQuote": "allows other news outlets to republish its articles free of charge",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. The Texas Tribune",
+      "The Texas Tribune"
+     ]
+    },
+    {
+     "id": "exam36-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "pays for reporters who are employed by other news organisations",
+     "explanation": "The BBC funds local reporters.",
+     "evidenceQuote": "it pays for around 150 reporters who work for local news organisations",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. The BBC",
+      "The BBC"
+     ]
+    },
+    {
+     "id": "exam36-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The loss of advertising income is the main reason for the decline of local newspapers.",
+     "explanation": "The writer identifies advertising as the main cause.",
+     "evidenceQuote": "The main cause is not hard to find. Advertising, which once provided most of a local paper's income, has moved online.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam36-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Charitable funding for news is spread evenly between large cities and small towns.",
+     "explanation": "It goes mainly to larger cities.",
+     "evidenceQuote": "charitable funding tends to flow to wealthier, larger cities rather than to the small towns",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam36-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Paywalls produce more income than voluntary contributions.",
+     "explanation": "The two are not compared for income.",
+     "evidenceQuote": "Some publishers have introduced paywalls",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam36-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Governments should look for one model that can replace all the others.",
+     "explanation": "The writer rejects a single solution.",
+     "evidenceQuote": "there is no single solution to the crisis, and it would be a mistake to search for one",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam36-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Having several different sources of funding for news is an advantage in itself.",
+     "explanation": "Variety protects against any one funder.",
+     "evidenceQuote": "which is itself a protection against any one source of funding becoming too powerful",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam36-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Small advertisements for jobs and homes moved to __________ websites.",
+     "explanation": "They moved to free websites.",
+     "evidenceQuote": "migrated to free websites",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "free"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Supporters of public funding say local news is a public __________, like street lighting.",
+     "explanation": "It is described as a public good.",
+     "evidenceQuote": "local news is a public good",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "good"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Opponents fear state-funded journalists may hesitate to __________ the government.",
+     "explanation": "They may not criticise the state.",
+     "evidenceQuote": "may be reluctant to criticise it",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "criticise"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam36-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "In Australia, large platforms must __________ payments with news publishers.",
+     "explanation": "They must negotiate payments.",
+     "evidenceQuote": "requires large digital platforms to negotiate payments with news publishers",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "negotiate"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 837,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people and organisations below. Match each statement with the correct person or organisation, A–F.",
+     "options": [
+      "A. Penelope Muse Abernathy",
+      "B. Pengjie Gao, Chang Lee and Dermot Murphy",
+      "C. Joshua Darr and his colleagues",
+      "D. The Texas Tribune",
+      "E. The BBC",
+      "F. The Guardian"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam36-w1",
+  "title": "Sources of news",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows the percentage of adults in one country who used four different sources of news in a typical week in 2013, 2018 and 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "70E53B07-044D-5F7A-85A7-5281CD587C63",
+    "series": "Television",
+    "category": "2013",
+    "value": 76.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "ACA61B38-115F-50A0-A4E4-0FA276916975",
+    "series": "Printed newspapers",
+    "category": "2013",
+    "value": 44.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "65C36B18-B3CB-559E-80E2-1DABECB43914",
+    "series": "Social media",
+    "category": "2013",
+    "value": 27.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "78BAF675-0C0F-5395-8D23-69C29F0A468D",
+    "series": "News websites and apps",
+    "category": "2013",
+    "value": 41.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "5432D1F8-1EB0-5561-8219-9F08C4D172AB",
+    "series": "Television",
+    "category": "2018",
+    "value": 68.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "1C2A16CD-8F04-5435-AED5-16386AA559FC",
+    "series": "Printed newspapers",
+    "category": "2018",
+    "value": 31.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "5B4A3D55-1C01-5691-A445-AC665E63A6C6",
+    "series": "Social media",
+    "category": "2018",
+    "value": 39.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "268B8CE8-1892-59FA-AA40-00E44157C29E",
+    "series": "News websites and apps",
+    "category": "2018",
+    "value": 47.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "E81255F9-C6CD-594C-831C-CCDFB2ABF481",
+    "series": "Television",
+    "category": "2023",
+    "value": 57.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "F3DB3BA5-39E0-5C49-A290-511565EBDA35",
+    "series": "Printed newspapers",
+    "category": "2023",
+    "value": 18.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "5FD224E4-B5CF-5866-93A0-EFBC88147C4A",
+    "series": "Social media",
+    "category": "2023",
+    "value": 49.0,
+    "unit": "% of adults"
+   },
+   {
+    "id": "03F4AC0D-5ABB-52CE-A763-B540BAC7979E",
+    "series": "News websites and apps",
+    "category": "2023",
+    "value": 51.0,
+    "unit": "% of adults"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Television remained the most used source, although its share fell steadily.",
+   "Printed newspapers declined sharply, while social media and news websites grew to overtake them."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam36-w2",
+  "title": "News from social media",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Media & Society",
+  "promptText": "More and more people now get their news from social media rather than from newspapers or television. Do the advantages of this development outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam36-spk",
+  "theme": "News and the media",
+  "part1Questions": [
+   "How do you usually find out what is happening in the world?",
+   "Did your family read newspapers when you were a child?",
+   "What kind of news stories interest you most?",
+   "Do you ever listen to the radio?",
+   "Would you like to work as a journalist?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a news story that you found interesting.",
+   "bulletPoints": [
+    "what the story was about",
+    "where you saw, heard or read it",
+    "how you felt when you learned about it",
+    "and explain why you found it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think bad news gets more attention than good news?",
+   "How can people tell whether a news story is reliable?",
+   "Should journalists be allowed to report on the private lives of famous people?",
+   "Do you think local newspapers are still important?",
+   "How might the way people get news change in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and research findings are checked against standard reference sources; dialogue details are fictional.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

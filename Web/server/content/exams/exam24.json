@@ -1,0 +1,1976 @@
+{
+ "id": "exam24",
+ "examNumber": 24,
+ "pool": "mock",
+ "title": "Mock Exam 24: Clay, Craft and Useful Objects",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Clay, Craft and Useful Objects",
+ "listeningParts": [
+  {
+   "id": "exam24-lp1",
+   "partNumber": 1,
+   "title": "Booking a beginner pottery course",
+   "contextDescription": "A customer calls a pottery studio about an introductory course.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "18610893-B03D-5A65-9A36-586BCC088356",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Hello, Brookfield Pottery Studio. This is Alice at reception. If you're asking about collecting finished work, that happens on Saturday mornings, but I can also help with course bookings. What would you like to know?"
+    },
+    {
+     "id": "DE561E74-E89D-54BA-918A-552E15ADE8E5",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'd like to book a beginner course for myself and my cousin. Neither of us has done any pottery before. We saw photographs of people using wheels on your website, but we're not sure whether that is the best place to start. We'd like to make something we can actually keep."
+    },
+    {
+     "id": "7FB20A69-63D6-553D-9005-A3AE7EF775AA",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We offer a wheel introduction and a hand-building course. For people who want a first finished object, I'd recommend hand-building. You begin with a small bowl, and later you can try a box or a simple vase. The wheel course is more about learning a movement than completing several pieces immediately."
+    },
+    {
+     "id": "952C86C1-C9D8-545E-AB27-C1CBAC523FC0",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Then hand-building sounds right. I noticed two prices online, sixty-eight pounds and eighty-two pounds. Does the higher price mean that materials are included, or is it a longer course? I couldn't find that information on the page I was looking at."
+    },
+    {
+     "id": "F23BED16-4411-517F-A002-DDD8EABD0A96",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Sixty-eight pounds is the old price from last term. The current fee is eighty-two pounds per person for four sessions. That includes clay, shared tools and the finishing of two pieces. If you make additional work and want it finished, there may be an extra charge, which the tutor explains before you decide."
+    },
+    {
+     "id": "57D0ACCE-201B-58E0-8424-73A449D497A9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Thank you. We'd rather know that beforehand. Is the class on Tuesday evenings? My cousin works late on Thursdays, and we would like to attend together rather than join different groups."
+    },
+    {
+     "id": "0C9BE8C4-DE1D-5E1B-984D-90691125AFAD",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Tuesday is the advanced group. The beginner course runs on Wednesday, from six thirty until eight thirty. The first session is on the ninth. Please arrive fifteen minutes early that evening so we can complete the registration and show you where to put your belongings."
+    },
+    {
+     "id": "06F06C0A-6830-5A88-ACCA-E8EB001B6C75",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Wednesday works for both of us. Do we need to bring special equipment? I've got an old apron, but I don't own any pottery tools. I wouldn't want to spend a lot before knowing whether I enjoy the course."
+    },
+    {
+     "id": "06C31562-1F39-5B67-B6E2-5C5F7F242161",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You don't need to buy tools. Bring your apron and a towel for your hands. Wear clothes that you don't mind getting marked, and shoes that cover your feet. We don't recommend bringing jewellery to the worktables. There are lockers near reception, but people sometimes forget what they have put in them."
+    },
+    {
+     "id": "3C8C3553-D3CD-508F-A187-38DB8F5EDFF9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "All right. My cousin has difficulty standing for a long time. Would the course still be suitable? The pictures show some people standing, but perhaps they were only watching a demonstration."
+    },
+    {
+     "id": "F5CE6435-4980-52FE-8418-8ECFE29166A9",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Most of the work can be done seated, and the tutor can arrange a lower table. Please mention that on the registration form, so it is ready when you arrive. The classroom is on the ground floor, with a separate entrance from the courtyard. You won't need to use the stairs to the exhibition room."
+    },
+    {
+     "id": "1D52548E-7058-571C-9ADF-6722CFFBD407",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's helpful. Could you put the booking in my name? I'm Miriam Hensley. That's H-E-N-S-L-E-Y. I'll pay for both places now if that is possible, and my cousin can pay me back."
+    },
+    {
+     "id": "F933C5C6-83AB-50C3-9D2D-3CBAAED5778A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Certainly, Miriam. I'll send a payment link rather than take card details on the telephone. Please complete it within two days. Until then, the places will be held for you. Once payment is received, you'll get a confirmation email and the registration form for each person."
+    },
+    {
+     "id": "70FA3DEF-4D9B-574E-A0F5-3CE44D29B857",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "And what happens to the pieces after the last session? We live outside town, so it would be useful to know whether we'll have to make a separate journey to collect them."
+    },
+    {
+     "id": "8E016D87-0BC1-5415-ADE2-030DCE990ABC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "They won't be ready to take home that evening. Allow three weeks after the course for finishing. We will email when they are ready. Collect them from the shop, not reception, because that is where finished student work is stored. The shop staff will ask for your name and the course date."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam24-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Recommended course: hand-building, beginning with a small __________.",
+     "explanation": "The first object is a bowl; boxes and vases come later.",
+     "evidenceQuote": "You begin with a small bowl",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bowl"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Current course fee per person: £__________.",
+     "explanation": "The £68 price is from the previous term.",
+     "evidenceQuote": "The current fee is eighty-two pounds per person",
+     "skillTag": "note_completion",
+     "distractorNote": "Sixty-eight pounds is an outdated price.",
+     "options": [],
+     "acceptedAnswers": [
+      "82"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Beginner classes take place on __________.",
+     "explanation": "Tuesday is for the advanced group.",
+     "evidenceQuote": "The beginner course runs on Wednesday",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Bring an apron and a __________ for hands.",
+     "explanation": "Tools are provided, but a towel is requested.",
+     "evidenceQuote": "Bring your apron and a towel for your hands.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "towel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "For the cousin, the tutor can provide a lower __________.",
+     "explanation": "The lower table supports seated working.",
+     "evidenceQuote": "the tutor can arrange a lower table",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "table"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Classroom entrance is reached from the __________.",
+     "explanation": "The classroom entrance is off the courtyard.",
+     "evidenceQuote": "a separate entrance from the courtyard",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "courtyard"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Booking surname: Miriam __________.",
+     "explanation": "The caller states and spells Hensley.",
+     "evidenceQuote": "I'm Miriam Hensley. That's H-E-N-S-L-E-Y.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Hensley"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Complete the payment within __________ days.",
+     "explanation": "The places are held for two days pending payment.",
+     "evidenceQuote": "Please complete it within two days.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "two",
+      "2"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Allow __________ weeks after the course for finishing.",
+     "explanation": "Finished objects are not available at the final session.",
+     "evidenceQuote": "Allow three weeks after the course for finishing.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "three",
+      "3"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Finished pieces should be collected from the __________.",
+     "explanation": "The shop stores completed student work.",
+     "evidenceQuote": "Collect them from the shop, not reception",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shop"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam24-lp2",
+   "partNumber": 2,
+   "title": "Visiting a working craft centre",
+   "contextDescription": "A guide introduces the rooms and activities at a public craft centre.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "14857DEE-4F72-5800-95C3-D27BA054D253",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Welcome to the Lantern Craft Centre. The building used to be a storage depot, but the rooms now support several different kinds of making. It is important to remember that some people here are at work rather than taking part in a demonstration. Please look for the open-door symbol before entering a room, and do not assume that an unlocked door is an invitation to walk in."
+    },
+    {
+     "id": "836C0771-A1ED-5A07-ADF7-037982B6619C",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The first place to visit is the materials room. This is not a shop. You can handle labelled samples of clay, wood and other materials, and compare them with examples of finished objects. The intention is to show that choosing a material involves more than liking its colour. A maker may also think about weight, the way a surface feels and how an object will be used. Children are welcome, but an adult should stay with them."
+    },
+    {
+     "id": "1CF0A0DB-4A10-5A80-8DD7-1235D0FFA610",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Next is the demonstration room. There is a programme of short talks throughout the day. You don't need a ticket for the talks, but the room has limited seating, so arriving early is sensible. The maker will usually pause for questions at the end, rather than answer while handling tools. Please wait for that invitation. A demonstration is a chance to see part of a process; it should not be taken as enough training to repeat specialist work unsupervised."
+    },
+    {
+     "id": "316C656F-2D7C-5772-B61E-23A911E76E6F",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The gallery takes a different approach. Instead of showing only finished pieces, it displays drawings, early attempts and revised designs beside them. We hope visitors will see that changes are part of making, not evidence that a maker failed to plan. Some objects were altered because the first version was awkward to hold. Others changed because a material did not behave as expected. The labels explain the particular decision rather than presenting every change as a general rule."
+    },
+    {
+     "id": "6A99C75E-3C7D-5FC7-BBAA-7A435B93C1FE",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "At the far end is the handling collection. This is the one area where you may pick up finished examples, but please remain at the table and follow the volunteer's guidance. The objects have been selected for handling; gallery pieces have not. If you are uncertain which collection an object belongs to, ask. We would rather answer a simple question than have someone copy what they saw another visitor doing in a different room."
+    },
+    {
+     "id": "3CE0C9A1-BE4E-5B61-BA92-CA736AEA93EA",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "For people who would like to try an activity, the afternoon workshop is making a small paper structure. It does not involve the specialist equipment used in the studios. Book at the desk beside the stairs. The workshop is included in your admission, but you need a separate place reservation. Only reserve for people who will actually take part. Parents watching a child do not need a participant's place."
+    },
+    {
+     "id": "CADC5F48-BCE4-5D7A-AF58-30D8CFC121AD",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "There are two changes to today's leaflet. The talk about preparing an exhibition will be in the library, because the usual meeting room is being repaired. Also, the café will close at four, half an hour earlier than the centre. Food and drink must stay in the café or the courtyard. Even a covered cup can spill, so please don't carry one into the handling collection."
+    },
+    {
+     "id": "8F2DA37C-E615-5C69-A421-A5FE278EF62D",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "If you want information about commissioning work, leave your details at the information desk. The volunteer there can explain how to contact a maker, but cannot promise a price or completion date on their behalf. Each project needs discussion of its own requirements. Buying an object from the shop is different: the price on its label is the price you pay, and you can usually take it home that day."
+    },
+    {
+     "id": "464266A4-D1E0-5DF5-9B40-384C70331337",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, photography is permitted in the public displays where a camera symbol is shown. Flash is not allowed anywhere in the centre. Please ask before photographing a working maker, and keep the passageways clear while taking pictures. If you need somewhere quiet, the reading corner is available beside the library. You can return to any of the public rooms later; there is no required order once this introduction is finished."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam24-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Materials room",
+     "explanation": "The room supports comparison of material samples.",
+     "evidenceQuote": "You can handle labelled samples",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching makers explain a process",
+      "B. Examining selected completed objects by hand",
+      "C. Purchasing bulk materials",
+      "D. Comparing samples of different materials",
+      "E. Obtaining guaranteed commission prices",
+      "F. Seeing how designs have developed"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Comparing samples of different materials",
+      "Comparing samples of different materials"
+     ]
+    },
+    {
+     "id": "exam24-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Demonstration room",
+     "explanation": "Visitors watch makers explain parts of their work.",
+     "evidenceQuote": "a programme of short talks",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching makers explain a process",
+      "B. Examining selected completed objects by hand",
+      "C. Purchasing bulk materials",
+      "D. Comparing samples of different materials",
+      "E. Obtaining guaranteed commission prices",
+      "F. Seeing how designs have developed"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Watching makers explain a process",
+      "Watching makers explain a process"
+     ]
+    },
+    {
+     "id": "exam24-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Gallery",
+     "explanation": "The gallery shows development rather than only final pieces.",
+     "evidenceQuote": "displays drawings, early attempts and revised designs",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching makers explain a process",
+      "B. Examining selected completed objects by hand",
+      "C. Purchasing bulk materials",
+      "D. Comparing samples of different materials",
+      "E. Obtaining guaranteed commission prices",
+      "F. Seeing how designs have developed"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Seeing how designs have developed",
+      "Seeing how designs have developed"
+     ]
+    },
+    {
+     "id": "exam24-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Handling collection",
+     "explanation": "Selected finished objects can be examined by hand.",
+     "evidenceQuote": "you may pick up finished examples",
+     "skillTag": "matching",
+     "options": [
+      "A. Watching makers explain a process",
+      "B. Examining selected completed objects by hand",
+      "C. Purchasing bulk materials",
+      "D. Comparing samples of different materials",
+      "E. Obtaining guaranteed commission prices",
+      "F. Seeing how designs have developed"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Examining selected completed objects by hand",
+      "Examining selected completed objects by hand"
+     ]
+    },
+    {
+     "id": "exam24-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does an unlocked studio door indicate?",
+     "explanation": "An unlocked door is not sufficient permission to enter.",
+     "evidenceQuote": "do not assume that an unlocked door is an invitation",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The maker is giving a public demonstration.",
+      "B. It does not necessarily mean visitors may enter.",
+      "C. The studio has finished work for the day."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It does not necessarily mean visitors may enter.",
+      "It does not necessarily mean visitors may enter."
+     ]
+    },
+    {
+     "id": "exam24-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "How should visitors ask questions during a demonstration?",
+     "explanation": "Questions should wait for the maker’s invitation.",
+     "evidenceQuote": "pause for questions at the end",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Interrupt whenever they see an unfamiliar tool.",
+      "B. Ask a child to question the maker first.",
+      "C. Wait until the maker invites questions."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Wait until the maker invites questions.",
+      "Wait until the maker invites questions."
+     ]
+    },
+    {
+     "id": "exam24-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "Who needs a participant reservation for the afternoon workshop?",
+     "explanation": "Watching parents do not require a participant’s place.",
+     "evidenceQuote": "people who will actually take part",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People who will do the activity.",
+      "B. Everyone who enters the centre.",
+      "C. Only people buying objects from the shop."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People who will do the activity.",
+      "People who will do the activity."
+     ]
+    },
+    {
+     "id": "exam24-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Exhibition-preparation talk has moved to the __________.",
+     "explanation": "Repairs have displaced the talk from its usual room.",
+     "evidenceQuote": "will be in the library",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "The café closes today at __________.",
+     "explanation": "The centre stays open until four thirty.",
+     "evidenceQuote": "the café will close at four",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Photographers may not use __________ anywhere in the centre.",
+     "explanation": "The no-flash rule applies throughout.",
+     "evidenceQuote": "Flash is not allowed anywhere in the centre.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Flash"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Match each space with its main purpose. Choose A–F.",
+     "options": [
+      "A. Watching makers explain a process",
+      "B. Examining selected completed objects by hand",
+      "C. Purchasing bulk materials",
+      "D. Comparing samples of different materials",
+      "E. Obtaining guaranteed commission prices",
+      "F. Seeing how designs have developed"
+     ]
+    },
+    {
+     "from": 15,
+     "to": 17,
+     "instruction": "Questions 15–17. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 18,
+     "to": 20,
+     "instruction": "Questions 18–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam24-lp3",
+   "partNumber": 3,
+   "title": "Planning a comparison of drinking-cup handles",
+   "contextDescription": "Two design students discuss the scope and method of a supervised classroom project.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B4C9A75B-7523-599A-8AE1-E587A1268CD9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Before you make the final models, tell me what your handle project is meant to investigate. Last time, you had a very broad idea about designing the perfect cup. That would involve far more questions than you can answer in a short classroom exercise."
+    },
+    {
+     "id": "F4E63E18-31AB-5B06-A753-3AF626DDBDDB",
+     "speaker": "Leah",
+     "accent": "en-AU",
+     "text": "We've narrowed it to the space between the handle and the side of the cup. We want to compare how easy it is for volunteers to put their fingers through that space. We're not trying to test a finished drinking product, and we won't use hot liquid or ask anyone to lift a heavy load."
+    },
+    {
+     "id": "635A3F8A-AF26-57CA-9C0B-575C7BCCCFD4",
+     "speaker": "Owen",
+     "accent": "en-CA",
+     "text": "The models will be light and unfilled. We first considered changing both the shape and the gap, but that would make the comparison difficult to interpret. Now the overall handle shape will stay the same, and we'll vary the gap. The tutor in the model workshop has agreed to check the pieces before volunteers handle them."
+    },
+    {
+     "id": "A93134B8-DC31-5E9E-88E0-F77CDE75316D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That is a clearer question. How will you make sure that what you ask volunteers to do is consistent? A person who has already tried several versions may approach the next one differently from someone seeing the task for the first time."
+    },
+    {
+     "id": "E1085CAD-7904-5122-9927-6B7ACE142A47",
+     "speaker": "Leah",
+     "accent": "en-AU",
+     "text": "We'll write a short instruction and use the same wording each time. We also want to vary the order of the models, rather than always showing the smallest gap first. Otherwise, a response to the later model might partly reflect getting familiar with the activity."
+    },
+    {
+     "id": "5FEA5E91-2F3F-5090-836E-85FA7E1C74EA",
+     "speaker": "Owen",
+     "accent": "en-CA",
+     "text": "We're going to record what people actually do as well as their comments. If someone says a model is comfortable but changes their grip several times, that difference is worth noting. It doesn't automatically prove that their comment is wrong, though. We should ask what they meant instead of replacing their account with our interpretation."
+    },
+    {
+     "id": "92D11BA2-A97D-585D-8E3F-9518DD600B91",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And think about your sample. A few classmates will give you useful observations, but they won't represent everyone who uses a cup. Describe who took part without collecting more personal information than the assignment needs."
+    },
+    {
+     "id": "3A9630DE-A314-55C2-B30C-412CBBFBE6C8",
+     "speaker": "Leah",
+     "accent": "en-AU",
+     "text": "We'll recruit volunteers from two classes, and make it clear that joining is optional. We won't include names in the report. We thought of noting hand size because it is relevant to the task, but we need a consistent measurement method rather than guessing whether someone's hands are small or large."
+    },
+    {
+     "id": "5D6B57E2-56AC-5A7F-9EBB-AF3BC98334D2",
+     "speaker": "Owen",
+     "accent": "en-CA",
+     "text": "The measuring procedure will be agreed with the tutor beforehand. We also want participants to be able to stop at any point. We shouldn't treat completing every model as a condition of helping us. If a person finds the activity uncomfortable, we'll stop rather than encourage them to continue for the sake of complete data."
+    },
+    {
+     "id": "7CC65090-6D4F-5CAD-8D36-30D4E03F92EA",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. What will your result look like? Be cautious about turning a small set of observations into a precise ranking that appears more certain than your evidence allows."
+    },
+    {
+     "id": "45876C53-CA28-5E93-ACE2-D778E8CF56B2",
+     "speaker": "Leah",
+     "accent": "en-AU",
+     "text": "We can make a table of observed actions and summarise comments under themes. A simple total of preferred models might be useful, but it won't replace explaining the reasons. If people prefer different gaps for different reasons, that is a finding we need to preserve rather than average away."
+    },
+    {
+     "id": "8ACF54A6-E70B-5071-A5E3-B94E61FFCF28",
+     "speaker": "Owen",
+     "accent": "en-CA",
+     "text": "Our final drawing will show a possible revision, with notes explaining which observations influenced it. We'll label it a proposal, not a validated product. Questions about durability, cleaning and actual drinking use would need a different study. Those are outside our current exercise, even if the proposed shape looks convincing."
+    },
+    {
+     "id": "171104E6-8F8F-5EF0-8CAD-BF958D8A4F30",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then do a short rehearsal of the procedure before recruiting the full group. It may show that an instruction is ambiguous or that you can't record two actions at once. Adjust the procedure before the main sessions, and include that adjustment in your method section so the reader can understand how the study developed."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam24-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Which feature have the students selected for their comparison?",
+     "explanation": "They focus on the gap rather than a complete product design.",
+     "evidenceQuote": "the space between the handle and the side of the cup",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The temperature of the liquid.",
+      "B. The space inside the handle.",
+      "C. The decoration on the cup."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The space inside the handle.",
+      "The space inside the handle."
+     ]
+    },
+    {
+     "id": "exam24-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why will they keep the overall handle shape unchanged?",
+     "explanation": "Changing one chosen feature makes interpretation clearer.",
+     "evidenceQuote": "changing both the shape and the gap, but that would make the comparison difficult to interpret",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To make the effect of the gap easier to interpret.",
+      "B. Because volunteers rejected every alternative shape.",
+      "C. To copy a commercially available product exactly."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. To make the effect of the gap easier to interpret.",
+      "To make the effect of the gap easier to interpret."
+     ]
+    },
+    {
+     "id": "exam24-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What will they do if a comment differs from observed actions?",
+     "explanation": "They will clarify rather than automatically reject the participant’s account.",
+     "evidenceQuote": "We should ask what they meant",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Remove the participant’s comment.",
+      "B. Assume the observed action proves dishonesty.",
+      "C. Ask the participant to explain their meaning."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Ask the participant to explain their meaning.",
+      "Ask the participant to explain their meaning."
+     ]
+    },
+    {
+     "id": "exam24-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about their volunteer sample?",
+     "explanation": "The sample supports limited observations, not universal conclusions.",
+     "evidenceQuote": "they won't represent everyone who uses a cup",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It must contain every student in the college.",
+      "B. It cannot represent all potential users.",
+      "C. It makes observations about grip impossible."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It cannot represent all potential users.",
+      "It cannot represent all potential users."
+     ]
+    },
+    {
+     "id": "exam24-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "How will the final design drawing be described?",
+     "explanation": "The drawing is a proposed response to limited evidence.",
+     "evidenceQuote": "We'll label it a proposal, not a validated product.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. As a proposal requiring further investigation.",
+      "B. As a proven safe drinking product.",
+      "C. As the only suitable handle for every user."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. As a proposal requiring further investigation.",
+      "As a proposal requiring further investigation."
+     ]
+    },
+    {
+     "id": "exam24-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Change the __________ in which models are shown.",
+     "explanation": "The order is varied to reduce familiarity effects.",
+     "evidenceQuote": "vary the order of the models",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "order"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Measure hand size rather than __________ it.",
+     "explanation": "A consistent measure replaces subjective estimates.",
+     "evidenceQuote": "rather than guessing whether someone's hands are small or large",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "guessing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Organise participant comments under __________.",
+     "explanation": "Themes preserve reasons behind preferences.",
+     "evidenceQuote": "summarise comments under themes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "themes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Questions about __________ are outside this classroom exercise.",
+     "explanation": "Durability needs a separate investigation.",
+     "evidenceQuote": "Questions about durability, cleaning and actual drinking use would need a different study.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "durability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Run a __________ of the procedure before the main sessions.",
+     "explanation": "A rehearsal identifies practical problems in the method.",
+     "evidenceQuote": "do a short rehearsal of the procedure",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rehearsal"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam24-lp4",
+   "partNumber": 4,
+   "title": "Keeping a useful record of material trials",
+   "contextDescription": "A lecturer explains documentation in a supervised craft workshop.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "175A7D34-745C-509B-9CF9-CB136E6D7F9B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "When makers explore materials, they often produce more small trials than finished objects. A trial may test a surface, a joint or the way two parts fit together. Its value depends partly on being able to connect the result with what was done. A box of attractive fragments can become surprisingly uninformative if nobody remembers which materials or conditions produced them. Today we will consider how a simple recording system can preserve useful information without becoming an obstacle to making."
+    },
+    {
+     "id": "6C904862-C831-5E97-A3EF-597DB2AB73D7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Begin by giving each trial an identifier. This is not the same as a descriptive title. You might change your description after examining the result, but the identifier should remain stable. Put it on the accompanying record and use it when referring to photographs or notes. If the object itself cannot be marked safely, use an appropriate label or storage position agreed with the workshop supervisor. Do not improvise a marking method that could interfere with the equipment or the trial."
+    },
+    {
+     "id": "F97FF589-4368-5787-B8CD-2E5C844D49C3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Record the purpose before you begin. A useful purpose is a question that the trial can actually address. 'Find the best surface' is too broad unless best has been defined. Comparing how two prepared samples look under the same light is more specific, although it tells you nothing by itself about their suitability for another use. Writing the question helps prevent an appealing result from being used later as evidence for something that was never investigated."
+    },
+    {
+     "id": "5D5714B6-306F-5004-86E2-A5BF2D3DF20B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Next, distinguish the intended procedure from the procedure actually carried out. The plan may specify one material or sequence, while a shortage or an interruption leads to a change. Record the change rather than quietly rewriting the plan to match the result. This is not an admission that the trial has no value. It allows someone else to understand which conditions apply to the observation and decide whether a comparison with another trial is meaningful."
+    },
+    {
+     "id": "504E0B71-000B-5F3D-907B-8ECE015A384C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Photographs can help, but include a scale when size matters. A close view may make two very different objects appear similar in dimensions. Also note lighting if appearance is part of the question. An image is a record made under particular conditions, not a complete substitute for the object. Keep the original image available if an edited copy is used in a presentation, and make significant adjustments clear to the reader."
+    },
+    {
+     "id": "22AC7C46-8D09-55DF-B8B0-CF5FF1D49697",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The written result should separate observation from explanation. 'The edge has a visible crack' reports something seen. A claim about why the crack formed is an interpretation that may need further checking. You can record both, provided the distinction remains clear. If another trial is needed to investigate the explanation, state the proposed question. Do not treat a plausible account as settled simply because it fits the first example you noticed."
+    },
+    {
+     "id": "3F490D58-6F32-5C6C-A1EC-C1190362964A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Storage matters too. Keep related records together, or provide links that make the relationship easy to recover. A physical sample in one room and an unexplained photograph in another folder may effectively become two disconnected objects. Decide who will maintain the collection after a course ends. Some trials may be photographed and then discarded under the workshop's normal arrangements, while others remain useful for teaching. The choice should follow a clear purpose rather than happen accidentally."
+    },
+    {
+     "id": "E0EEAAF2-9189-5CFB-B7CD-E7B492C4517F",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, preserve evidence of unsuccessful attempts when it helps explain a decision. A collection containing only attractive outcomes can give a misleading picture of an object’s development. This does not mean keeping everything forever. A concise selection, with an explanation of what was removed, can be more useful than an unmanageable archive. The aim is a record that supports accurate reflection: what was attempted, what was observed, what remains uncertain and what a maker might reasonably try next."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam24-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Assign every trial a stable __________.",
+     "explanation": "The identifier connects the object with its records.",
+     "evidenceQuote": "giving each trial an identifier",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "identifier"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "State the trial’s __________ before starting.",
+     "explanation": "The purpose defines the question being investigated.",
+     "evidenceQuote": "Record the purpose before you begin.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purpose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Keep a record when the intended procedure undergoes a __________.",
+     "explanation": "Changes should be documented rather than hidden.",
+     "evidenceQuote": "Record the change",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "change"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Include a __________ in photographs when dimensions matter.",
+     "explanation": "A scale makes size interpretable.",
+     "evidenceQuote": "include a scale when size matters",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scale"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Note the __________ if appearance is being compared.",
+     "explanation": "Lighting affects how appearance is recorded.",
+     "evidenceQuote": "note lighting if appearance is part of the question",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lighting"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Retain the original __________ when using an edited copy.",
+     "explanation": "The original permits the edited version to be understood.",
+     "evidenceQuote": "Keep the original image available",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "image"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Distinguish an observation from an __________ of its cause.",
+     "explanation": "An explanation may require additional evidence.",
+     "evidenceQuote": "an interpretation that may need further checking",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "interpretation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Records should be stored together or connected by __________.",
+     "explanation": "Links preserve relationships across separate storage locations.",
+     "evidenceQuote": "provide links that make the relationship easy to recover",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "links"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Retained trials may be useful for __________.",
+     "explanation": "Some samples remain valuable as teaching examples.",
+     "evidenceQuote": "others remain useful for teaching",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "teaching"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "An attractive-only collection can give a misleading picture of __________.",
+     "explanation": "The record should also explain the development process.",
+     "evidenceQuote": "a misleading picture of an object’s development",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "development"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam24-rp1",
+   "passageNumber": 1,
+   "title": "What a test tile can tell a maker",
+   "discipline": "Craft Documentation",
+   "paragraphs": [
+    "A small sample can be useful precisely because it is not a finished object. In a supervised pottery workshop, a maker may prepare a test tile to investigate the appearance of a particular surface treatment. The tile allows a limited question to be explored without committing a larger piece to the same process. Yet a successful-looking sample does not answer every question about a future object. The task is to identify what the sample represents, what conditions produced it and which conclusions remain outside its purpose. A useful trial is a source of information, not a miniature guarantee.",
+    "The shape of a sample affects how it can be interpreted. A flat tile may show a colour clearly, but a curved object can present that surface differently to the viewer. An edge or a recessed area may create effects absent from a simple flat face. This does not make the tile a poor tool. It means that the maker should choose a sample form suited to the question. If a particular feature of an intended object is important, the trial may need to include an equivalent feature rather than depend on a general resemblance.",
+    "Identification is another essential step. A label such as 'blue trial' can become ambiguous when several similar samples exist. A stable code links the object to a record even if its description later changes. The record can state the materials used, the procedure followed and the conditions reported by the workshop supervisor. Where technical operations require specialist control, the maker should not substitute a guessed setting for a missing record. An acknowledged gap in the information is preferable to a precise-looking figure that nobody can verify or explain.",
+    "Comparisons become more informative when the variable of interest is separated from other differences. Imagine two samples made with different surface treatments on different underlying bodies. If their appearances differ, the surface treatment alone cannot automatically be credited with the result. The example does not prove that comparison is impossible; it shows why the question and the arrangement must be connected. A maker can either prepare a more controlled comparison or describe the combined change honestly. The least useful response is to overlook the additional difference because it complicates a preferred explanation.",
+    "Recording an outcome involves more than deciding whether it is attractive. A note might describe where a colour is uneven, whether an edge appears different from the centre or which features are visible under a stated light. These observations provide a basis for later discussion. The word 'good', on its own, preserves much less information. A result that is unsuitable for one intended appearance might suggest another use, while a visually pleasing result could still require separate investigation before being used in a functional product. Aesthetic judgement and practical suitability are different questions.",
+    "Photographs can help makers compare trials when the objects are not together, but they introduce another set of conditions. Lighting, background and the camera's processing can affect the image. Including a reference and keeping the conditions consistent can make a comparison clearer, without turning the photograph into an exact substitute for direct examination. A report should explain whether a description came from viewing the object or its image. Otherwise, a later reader may mistake a photographic difference for a difference in the material itself and pursue an explanation that the evidence does not support.",
+    "A collection of samples also needs a policy for keeping and removing items. Retaining every trial can make useful examples difficult to find. Retaining only the most attractive ones can conceal why earlier decisions changed. One practical approach is to keep a selected sequence that explains a particular development, together with notes on what was omitted. The selection should follow its intended use: a teaching collection, a record of a commission and a maker's personal reference library may reasonably contain different things. Completeness is meaningful only in relation to a stated purpose.",
+    "Ultimately, the value of a test tile lies in the relationship between an object, a question and a record. None is sufficient by itself. An unexplained object can invite confident speculation; a detailed record without a corresponding sample may be difficult to interpret. Bringing them together allows a maker to identify a reasonable next step while recognising what remains unknown. The most useful sample is therefore not always the most beautiful one. It is one that makes a particular decision better informed and leaves enough evidence for the decision to be reconsidered later."
+   ],
+   "questions": [
+    {
+     "id": "exam24-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "An attractive test tile establishes every aspect of a future object’s suitability.",
+     "explanation": "A sample addresses limited questions.",
+     "evidenceQuote": "does not answer every question about a future object",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam24-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "A trial may need to reproduce a relevant feature of the intended object.",
+     "explanation": "A suitable sample form may need the relevant feature.",
+     "evidenceQuote": "include an equivalent feature",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam24-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The workshop in the passage gives each student ten tiles per week.",
+     "explanation": "No allocation or weekly quantity is specified.",
+     "evidenceQuote": "In a supervised pottery workshop",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam24-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "A stable code can connect a sample to its record after its description changes.",
+     "explanation": "The code preserves the connection.",
+     "evidenceQuote": "even if its description later changes",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam24-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "A missing technical setting should be replaced with an estimate presented as precise.",
+     "explanation": "Uncertainty should be acknowledged.",
+     "evidenceQuote": "should not substitute a guessed setting for a missing record",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam24-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The two imaginary samples use the same underlying body.",
+     "explanation": "The example changes both surface treatment and body.",
+     "evidenceQuote": "different underlying bodies",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam24-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most professional makers prefer photographs to direct examination.",
+     "explanation": "No survey or majority preference is given.",
+     "evidenceQuote": "Photographs can help makers compare trials",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam24-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "A description such as “blue trial” may become __________.",
+     "explanation": "Similar samples can make descriptive labels unclear.",
+     "evidenceQuote": "can become ambiguous",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ambiguous"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "The desired variable should be separated from other __________.",
+     "explanation": "Several changed conditions complicate attribution.",
+     "evidenceQuote": "separated from other differences",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "differences"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Appearance and practical __________ need different questions.",
+     "explanation": "An attractive appearance does not prove fitness for use.",
+     "evidenceQuote": "practical suitability are different questions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suitability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Photographic appearance can depend on the __________.",
+     "explanation": "Background is one stated imaging condition.",
+     "evidenceQuote": "Lighting, background and the camera",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "background"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "A selected __________ of samples can explain development.",
+     "explanation": "A purposeful sequence may be more useful than all samples.",
+     "evidenceQuote": "keep a selected sequence",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sequence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "A sample should make a particular __________ better informed.",
+     "explanation": "The concluding paragraph relates samples to decisions.",
+     "evidenceQuote": "a particular decision better informed",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "decision"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 745,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam24-rp2",
+   "passageNumber": 2,
+   "title": "The handle as a relationship",
+   "discipline": "Product Design",
+   "paragraphs": [
+    "A handle can appear to be a separate part attached after the main object has been designed. For the user, however, it is a point of contact through which the object is approached, supported or moved. Its value depends on a relationship: the hand, the object, the intended action and the circumstances of use. A handle that feels satisfactory in a brief display may behave differently when someone carries the object across a room. Treating it only as a visual detail can therefore leave a central part of the experience unexplored.",
+    "The first question is what action the handle supports. Lifting a light empty container is not the same task as controlling it while pouring. Carrying it for a moment differs from holding it during a longer activity. These distinctions matter before dimensions are chosen. An investigation that asks merely whether a handle is comfortable may collect answers to several different imagined tasks. Defining the activity helps participants understand what is being discussed and allows the designer to decide whether the model being used is suitable for that activity at all.",
+    "People bring different physical characteristics and learned habits to a task. Even individuals with similar hand dimensions may choose different grips. It is therefore risky to treat one person's preferred arrangement as a universal solution. This does not mean every object needs an unlimited range of handles. It means that a claim about suitability must be linked to the people and activities actually considered. A designer may choose a compromise or provide alternatives, but should not hide the trade-off behind an unsupported assertion that one shape naturally suits everybody.",
+    "Early models can answer some questions while remaining inappropriate for others. A lightweight form may allow a person to explore where the fingers fit, yet provide no evidence about carrying a full container. A model made to examine appearance may not be strong enough for any lifting test. The purpose should be stated before someone is asked to handle it, and specialist supervision should determine what use is appropriate. A model is informative when its limits are understood, not when its resemblance to a finished product encourages more confident testing than it can support.",
+    "Observation and comment offer different kinds of information. A participant might describe a handle as easy to use while repeatedly changing grip. The discrepancy is a reason to ask a question, not a licence to dismiss the comment. The person may mean that finding a suitable grip was easy, or may be describing an appearance rather than the action just performed. A careful interview allows that meaning to be clarified. Equally, a favourable comment should not erase an observed difficulty simply because it is easier to report a positive verdict.",
+    "The order in which alternatives are presented can influence a small trial. A participant may become familiar with the task, compare a model with the immediately preceding example or become tired. Varying order and keeping instructions consistent can help interpret the responses, although neither removes every source of variation. A report should describe the procedure rather than imply that a preference arose independently of it. Results obtained in a classroom exercise can suggest directions for further work without establishing a precise ranking that applies outside the exercise.",
+    "Once a form has been selected for further development, other requirements remain. Cleaning, storage, production and the connection between handle and body may raise questions not addressed by the first trial. These requirements can interact. An arrangement that creates more finger space might also occupy more storage space. A designer should explain which conditions were prioritised and what still needs investigation. A successful early comparison is a step in development, not a reason to regard all remaining requirements as minor details that will somehow resolve themselves.",
+    "The broader lesson is that a handle should be evaluated through the activity it enables. Measurements, observations and preferences become meaningful when connected to that activity and to the limits of the trial. The goal is not to eliminate judgement from design. It is to make judgement accountable to the evidence available. A reasoned proposal can acknowledge competing needs, justify a choice and identify the next question. In this sense, the apparently small handle reveals something important about product design: a useful object is understood through relationships rather than through isolated dimensions alone."
+   ],
+   "questions": [
+    {
+     "id": "exam24-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B explains why the task must be defined.",
+     "evidenceQuote": "what action the handle supports",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Defining the intended activity",
+      "Defining the intended activity"
+     ]
+    },
+    {
+     "id": "exam24-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C discusses variation among users.",
+     "evidenceQuote": "People bring different physical characteristics and learned habits",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Recognising differences between users",
+      "Recognising differences between users"
+     ]
+    },
+    {
+     "id": "exam24-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D describes matching a model to an appropriate purpose.",
+     "evidenceQuote": "Early models can answer some questions",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. What an early model can legitimately test",
+      "What an early model can legitimately test"
+     ]
+    },
+    {
+     "id": "exam24-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E explains how to interpret discrepancies between actions and comments.",
+     "evidenceQuote": "Observation and comment offer different kinds of information.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Clarifying differences between actions and words",
+      "Clarifying differences between actions and words"
+     ]
+    },
+    {
+     "id": "exam24-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F discusses procedural influences on trials.",
+     "evidenceQuote": "The order in which alternatives are presented",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. How the trial procedure can affect responses",
+      "How the trial procedure can affect responses"
+     ]
+    },
+    {
+     "id": "exam24-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G identifies requirements after an initial selection.",
+     "evidenceQuote": "other requirements remain",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Questions that remain after initial selection",
+      "Questions that remain after initial selection"
+     ]
+    },
+    {
+     "id": "exam24-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H presents the overall argument for evidence-based design judgement.",
+     "evidenceQuote": "make judgement accountable to the evidence available",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Making a design decision answerable to evidence",
+      "Making a design decision answerable to evidence"
+     ]
+    },
+    {
+     "id": "exam24-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why is a general question about handle comfort potentially unclear?",
+     "explanation": "Participants may imagine different uses.",
+     "evidenceQuote": "answers to several different imagined tasks",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Comfort can never be discussed verbally.",
+      "B. People may answer with different activities in mind.",
+      "C. All handles support exactly the same action.",
+      "D. Participants must choose identical grips."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People may answer with different activities in mind.",
+      "People may answer with different activities in mind."
+     ]
+    },
+    {
+     "id": "exam24-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What does a lightweight finger-space model fail to establish?",
+     "explanation": "Finger fit does not establish load-carrying performance.",
+     "evidenceQuote": "provide no evidence about carrying a full container",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Whether a gap can be observed.",
+      "B. Whether a person can make a comment.",
+      "C. Whether the model has an appearance.",
+      "D. How a filled container can be carried."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. How a filled container can be carried.",
+      "How a filled container can be carried."
+     ]
+    },
+    {
+     "id": "exam24-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the storage-space example illustrate?",
+     "explanation": "Improving one feature can affect another requirement.",
+     "evidenceQuote": "These requirements can interact.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Requirements can create trade-offs.",
+      "B. Larger handles always improve storage.",
+      "C. Early preferences remove later constraints.",
+      "D. Storage is irrelevant to product design."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Requirements can create trade-offs.",
+      "Requirements can create trade-offs."
+     ]
+    },
+    {
+     "id": "exam24-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "A universal claim should not be based on one person’s preferred __________.",
+     "explanation": "A single preference does not establish universal suitability.",
+     "evidenceQuote": "one person's preferred arrangement",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arrangement"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Consistency in __________ helps interpret a trial.",
+     "explanation": "Instructions are one procedural factor.",
+     "evidenceQuote": "keeping instructions consistent",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "instructions"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "A useful object is understood through __________.",
+     "explanation": "The conclusion links object, user, task and conditions.",
+     "evidenceQuote": "understood through relationships",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "relationships"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 720,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. What an early model can legitimately test",
+      "ii. Making a design decision answerable to evidence",
+      "iii. Defining the intended activity",
+      "iv. How the trial procedure can affect responses",
+      "v. Replacing all judgement with one measurement",
+      "vi. Questions that remain after initial selection",
+      "vii. Recognising differences between users",
+      "viii. Why handles should be purely decorative",
+      "ix. Clarifying differences between actions and words"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam24-rp3",
+   "passageNumber": 3,
+   "title": "Must a handmade object look imperfect?",
+   "discipline": "Craft and Consumption",
+   "paragraphs": [
+    "A slight irregularity in a handmade object can be valued as a sign of individual work. A bowl may differ from its neighbours, or a line may vary across a surface. Yet it does not follow that irregularity is always desirable, or that a highly consistent object lacks the maker's attention. In my view, the discussion becomes confused when appearance is used as a shortcut for judging a process. The important questions concern what the maker intended, how the object performs and which claims are being made about the relationship between the work and its production.",
+    "Consider a set of cups intended to stack in a small cupboard. Differences that prevent stacking may be inconvenient even if each cup is attractive alone. Someone buying a single decorative piece may reasonably have different priorities. I would not describe either preference as inherently more sensitive to craft. The purpose of the purchase changes the relevant judgement. Celebrating every variation as evidence of authenticity ignores the person who needs several objects to work together, while rejecting all variation ignores uses in which difference is part of the appeal.",
+    "The word 'imperfection' itself can conceal a decision. A maker may deliberately leave a visible mark, while carefully controlling other dimensions. The resulting object is not necessarily an accidental product that escaped attention. Conversely, an unwanted mark does not become intentional merely because a seller offers a persuasive story about it. Claims of intention should be presented honestly. In my view, buyers are entitled to distinguish a deliberate feature from a problem that the maker did not intend, even when both are visible on the same kind of surface.",
+    "Function introduces further distinctions. A variation in colour is different from a defect that affects the intended use. It would be irresponsible to treat every concern as a failure to appreciate handmade work. Where use depends on specialist requirements, those requirements need appropriate assessment rather than a romantic appeal to individuality. This does not reduce a craft object to a technical specification. It recognises that practical reliability and expressive character can both matter, and that a maker should explain the limits of an object rather than expect admiration to replace relevant information.",
+    "At the same time, consistency should not be mistaken for the absence of skill. Repeating a form can involve careful attention, and a maker may choose repetition because the objects are intended as a group. I believe the skill lies partly in controlling what matters to the purpose, not simply in producing visible difference. Two pieces that look similar may still reflect individual decisions throughout their making. Judging the entire process from a photograph of their outlines risks overlooking the work required to achieve a chosen relationship between them.",
+    "Clear description helps buyers make a choice. A seller can explain expected variation, identify whether the photograph shows the exact object or an example, and distinguish decorative use from other intended uses. Such information need not destroy the pleasure of discovery. It can prevent disappointment arising from an expectation the maker never meant to create. A buyer who receives an object with a different pattern may welcome that difference if it was explained, but feel misled if the image appeared to promise a precise match.",
+    "There is also a risk in turning one visual style into a universal sign of authenticity. If every handmade object must display the same kind of irregularity to be recognised as handmade, makers face a new convention rather than freedom from conventions. Some may exaggerate particular marks because those marks are commercially legible. In my view, this is a reason to ask better questions about process, not to suspect every expressive surface. Learning how an object was made can expand appreciation beyond the narrow expectation that honest work must look unfinished.",
+    "The sensible conclusion is that neither perfection nor imperfection is a sufficient verdict. The terms need a context: the maker's purpose, the buyer's needs and the consequences of a particular variation. A well-informed choice can value a distinctive mark while expecting the object to perform as described. It can also admire a consistent set without denying the human work behind it. I would favour a conversation based on clear claims and appropriate evidence, rather than a rule requiring every handmade object to demonstrate its origin through a visible irregularity."
+   ],
+   "questions": [
+    {
+     "id": "exam24-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Every irregularity in a handmade object should be considered desirable.",
+     "explanation": "The writer rejects a universal preference for irregularity.",
+     "evidenceQuote": "it does not follow that irregularity is always desirable",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam24-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The purpose of a purchase can affect which variations matter.",
+     "explanation": "A decorative object and a stackable set have different requirements.",
+     "evidenceQuote": "The purpose of the purchase changes the relevant judgement.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam24-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer owns a set of handmade cups that cannot be stacked.",
+     "explanation": "The cups are an example, not a personal ownership claim.",
+     "evidenceQuote": "Consider a set of cups",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam24-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Buyers should be able to distinguish deliberate features from unintended problems.",
+     "explanation": "The writer supports honest explanation of intention.",
+     "evidenceQuote": "buyers are entitled to distinguish a deliberate feature from a problem",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam24-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "A consistent appearance proves that little skill was involved.",
+     "explanation": "Consistency can require careful control.",
+     "evidenceQuote": "consistency should not be mistaken for the absence of skill",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam24-R32",
+     "number": 32,
+     "format": "Multiple Choice",
+     "prompt": "What concern does the writer raise about describing all variation as authentic?",
+     "explanation": "The description can overlook legitimate practical requirements.",
+     "evidenceQuote": "ignores the person who needs several objects to work together",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It always lowers the selling price.",
+      "B. It makes decorative objects impossible to appreciate.",
+      "C. It can disregard the buyer’s practical purpose.",
+      "D. It proves that all variation was planned."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It can disregard the buyer’s practical purpose.",
+      "It can disregard the buyer’s practical purpose."
+     ]
+    },
+    {
+     "id": "exam24-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "Why is a persuasive sales story insufficient to establish intention?",
+     "explanation": "An attractive account alone does not change how a mark arose.",
+     "evidenceQuote": "does not become intentional merely because a seller offers a persuasive story",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It does not by itself show that a mark was deliberate.",
+      "B. It prevents buyers seeing the surface.",
+      "C. It guarantees that the maker lacked skill.",
+      "D. It removes every difference between objects."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It does not by itself show that a mark was deliberate.",
+      "It does not by itself show that a mark was deliberate."
+     ]
+    },
+    {
+     "id": "exam24-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about specialist functional requirements?",
+     "explanation": "Romantic descriptions cannot substitute for relevant assessment.",
+     "evidenceQuote": "need appropriate assessment",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should be ignored for individual pieces.",
+      "B. They concern colour variations only.",
+      "C. They make expressive character irrelevant.",
+      "D. They need assessment appropriate to the intended use."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They need assessment appropriate to the intended use.",
+      "They need assessment appropriate to the intended use."
+     ]
+    },
+    {
+     "id": "exam24-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What should a seller explain about a product photograph?",
+     "explanation": "Buyers should know whether the image promises an exact match.",
+     "evidenceQuote": "whether the photograph shows the exact object or an example",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. How many viewers liked the image.",
+      "B. Whether it represents that item or an example.",
+      "C. Why all differences are defects.",
+      "D. Why every buyer must prefer a different pattern."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Whether it represents that item or an example.",
+      "Whether it represents that item or an example."
+     ]
+    },
+    {
+     "id": "exam24-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What is the risk of one irregular style becoming a sign of authenticity?",
+     "explanation": "A supposedly free style can become a commercial expectation.",
+     "evidenceQuote": "makers face a new convention",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It removes all conventions from craft.",
+      "B. It makes process information unnecessary.",
+      "C. It can impose a new visual convention on makers.",
+      "D. It proves expressive surfaces are dishonest."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It can impose a new visual convention on makers.",
+      "It can impose a new visual convention on makers."
+     ]
+    },
+    {
+     "id": "exam24-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Practical reliability can coexist with expressive __________.",
+     "explanation": "The writer does not regard expression and reliability as opposites.",
+     "evidenceQuote": "practical reliability and expressive character",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "character"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Repeated forms may be intended to work as a __________.",
+     "explanation": "A group can require consistency.",
+     "evidenceQuote": "the objects are intended as a group",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "group"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Clear information can prevent buyer __________.",
+     "explanation": "Expectation management reduces avoidable disappointment.",
+     "evidenceQuote": "prevent disappointment",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "disappointment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam24-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Judgements about variation require a __________.",
+     "explanation": "Purpose, needs and consequences provide context.",
+     "evidenceQuote": "The terms need a context",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "context"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 720,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam24-w1",
+  "title": "Products sold by a pottery studio",
+  "visualType": "Bar Chart",
+  "instructions": "The chart shows the numbers of four types of pottery sold by a studio in 2016 and 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "93FDA5A4-7F8F-55E7-84D4-9907F8FD7192",
+    "series": "2016",
+    "category": "Cups",
+    "value": 320.0,
+    "unit": "items"
+   },
+   {
+    "id": "D340777B-F7C4-5167-A719-2ECDA916D08D",
+    "series": "2016",
+    "category": "Bowls",
+    "value": 260.0,
+    "unit": "items"
+   },
+   {
+    "id": "F884888B-8779-5F90-AFB7-7F47F05F4D90",
+    "series": "2016",
+    "category": "Vases",
+    "value": 180.0,
+    "unit": "items"
+   },
+   {
+    "id": "C2CF3823-5C2D-547F-9FF6-2F7E3ABD1E9B",
+    "series": "2016",
+    "category": "Decorative tiles",
+    "value": 140.0,
+    "unit": "items"
+   },
+   {
+    "id": "49A05910-E7C0-5F6C-9B53-42B3A39D7D74",
+    "series": "2026",
+    "category": "Cups",
+    "value": 470.0,
+    "unit": "items"
+   },
+   {
+    "id": "C45D7FE9-73C5-53DD-891E-85B072EC3094",
+    "series": "2026",
+    "category": "Bowls",
+    "value": 390.0,
+    "unit": "items"
+   },
+   {
+    "id": "C4ED8368-CAE5-561C-A4D3-ECF43CCF8E0A",
+    "series": "2026",
+    "category": "Vases",
+    "value": 150.0,
+    "unit": "items"
+   },
+   {
+    "id": "5FE5F60B-39AE-5109-BC38-9CCB17FF2383",
+    "series": "2026",
+    "category": "Decorative tiles",
+    "value": 290.0,
+    "unit": "items"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Cups remained the largest category and vases were the only category to decline.",
+   "Decorative tile sales more than doubled, while total sales rose from 900 to 1300."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam24-w2",
+  "title": "Practical making in secondary education",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Education and Skills",
+  "promptText": "Some people believe secondary schools should give more time to practical subjects such as woodwork and pottery. Others think this time should be used for academic subjects. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam24-spk",
+  "theme": "Making and choosing useful objects",
+  "part1Questions": [
+   "Do you enjoy making things by hand?",
+   "What kind of object do you use most often at home?",
+   "Do you notice how everyday objects feel to use?",
+   "Have you ever attended a practical class?",
+   "Do you prefer choosing one object carefully or comparing many alternatives?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a useful object whose shape or design you particularly like.",
+   "bulletPoints": [
+    "what the object is",
+    "how you use it",
+    "what you notice about its design",
+    "and explain why that design suits you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people value handmade objects?",
+   "Should schools teach more practical skills?",
+   "How can buyers judge whether a product suits their needs?",
+   "Is a consistent appearance important in a set of objects?",
+   "What information should makers provide about products they sell?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening businesses, prices and procedures are fictional. Reading workshop cases are analytical examples, not claims about named experiments. Writing data are fictional assessment data. Technical work described here is supervised, not a set of operating instructions.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

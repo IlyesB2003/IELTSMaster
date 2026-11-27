@@ -1,0 +1,2244 @@
+{
+ "id": "exam16",
+ "examNumber": 16,
+ "pool": "mock",
+ "title": "Mock Exam 16: Robots, Automation & Artificial Intelligence",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Robots, Automation & Artificial Intelligence",
+ "listeningParts": [
+  {
+   "id": "exam16-lp1",
+   "partNumber": 1,
+   "title": "Enrolling in a robotics holiday club",
+   "contextDescription": "A mother phones a children's robotics club to book a summer course for her son.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E2D4E0C9-5293-5826-AE18-00D011928FD0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Kingsley Robotics Club, Daniel speaking. How can I help?"
+    },
+    {
+     "id": "0D14C21D-56D1-5BC9-A64D-7BF744408283",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "Oh, hi. I'm ringing about your summer holiday courses. My son is absolutely obsessed with building things at the moment, and a friend of mine said her daughter went to one of your courses last year and loved it."
+    },
+    {
+     "id": "8D45E112-7AA2-54A2-AD60-152703039274",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's great to hear. We run two courses for children over the summer, depending on their age. Can I ask how old your son is?"
+    },
+    {
+     "id": "78F08706-9F75-597B-8530-F13A6918874B",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "He's eleven. He'll be twelve in October."
+    },
+    {
+     "id": "D1FBBEDE-D733-575D-B495-6CDE49C83F1A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Right. So our Junior Builders course is for seven- to nine-year-olds, and that's mostly about building simple moving models with motors and gears. For his age, the better option would be Code Explorers, which is for ten- to thirteen-year-olds. On that course, children build a small wheeled robot from a kit and then learn to program it so that it can follow a line, avoid obstacles and respond to sounds."
+    },
+    {
+     "id": "B4972CC2-58D8-5FB2-9F6D-2BA3BC323957",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "That sounds perfect. He's done a bit of coding at school, but nothing with real machines. Does he need any experience?"
+    },
+    {
+     "id": "883A675C-18B7-51FA-BB25-C63F82F35629",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Not at all. Most children are complete beginners. The instructors are university engineering students, and they're very good at explaining things step by step. We also keep the groups small, with no more than eight children per instructor."
+    },
+    {
+     "id": "F05E5BFE-92C1-5B58-8300-CE087BEA8CB3",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "Good. And when do the courses run?"
+    },
+    {
+     "id": "4C9D4017-4F7E-5669-83FA-AF6FFB40C2F3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Each course lasts one week, Monday to Friday. Code Explorers runs four times over the summer. I'm afraid the week beginning the twenty-eighth of July is already full, but we still have places in the week beginning the fourth of August, and in the last two weeks of August."
+    },
+    {
+     "id": "8FAFBEEB-65FA-532D-859E-10E55AEE1356",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "We're away at the end of August, so the fourth of August would be best."
+    },
+    {
+     "id": "05D2F72E-AD18-58F5-83EC-526B692759D3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. Now, I should mention that during the summer we don't use our usual building in Kingsley, because it's being repainted. The courses will be held at Ashford Primary School, on Mill Lane. We'll be using the school library, which has plenty of space and good internet access."
+    },
+    {
+     "id": "8249D918-062A-5CF0-9B9D-BD1C7B99EBD8",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "I know Ashford, it's not far from us. What about the cost?"
+    },
+    {
+     "id": "A6E264B2-F579-5DD8-90B3-BD155E84A63E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The full price for the week is one hundred and seventy-five pounds. If you were a member of the club, it would be one hundred and fifty, but membership is only for children who come to our weekly Saturday sessions during term time. To hold the place, we ask for a deposit of thirty pounds, and the rest is due two weeks before the course starts."
+    },
+    {
+     "id": "192AC5EC-10F0-5F5A-B331-6738AEAEA921",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "Fine. Does that include the robot kit?"
+    },
+    {
+     "id": "9B739FAC-1162-5831-8341-E513AC4D4445",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, all the equipment is included, and at the end of the week each child takes their robot home, so they can carry on programming it. Children just need to bring a packed lunch and a drink. Oh, and on Wednesday afternoon we go outside to the school field to fly small drones, so they should bring a sun hat, in case it's hot."
+    },
+    {
+     "id": "EEAEF44C-73DA-5101-BDF1-03512A09AFFA",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "He'll love the drones. What time does it start and finish?"
+    },
+    {
+     "id": "CDCD7909-F9DD-51BC-9225-10FE5D5B49F6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Doors open at a quarter to nine, and sessions start at nine. From Monday to Thursday, pick-up is at quarter past four. On Friday, we finish a little earlier, at half past three, because there's a final competition, and parents are invited to come and watch the robots race around an obstacle course."
+    },
+    {
+     "id": "3CAB791C-9845-53FB-803B-4D9F22325A36",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "Oh, that'll be fun. I'll try to get the afternoon off work."
+    },
+    {
+     "id": "F0AC5A39-A3F4-5F2F-8466-AD099CE4E52B",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Now, could I take some details? What's your son's name?"
+    },
+    {
+     "id": "904B4FF0-6053-5506-B258-8B425E8CCC5C",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "It's Toby Westacott. That's W-E-S-T-A-C-O-T-T."
+    },
+    {
+     "id": "CA061B54-D31B-5445-A8B6-38CA5C5F380A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And is there anything we should know about his health?"
+    },
+    {
+     "id": "31736467-D8CC-5A3A-9942-87FDD3074BCF",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "He has asthma, but it's mild. He carries an inhaler with him, and he knows how to use it."
+    },
+    {
+     "id": "DC9EDBB1-E07E-5177-99C5-5E402D588884",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "That's fine, I'll add a note to his form, and the instructors are all trained in first aid. Could I have a phone number for you, in case we need to contact you during the day?"
+    },
+    {
+     "id": "E9E9CE1E-5C93-5C1B-A486-4C8AE3A154B2",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "Yes, it's 07712 384 906."
+    },
+    {
+     "id": "9089EB1A-4338-54EB-8117-30B88C62A6A5",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Perfect. I'll email you a link so you can pay the deposit online, and a consent form for photographs. We sometimes put pictures of the robots on our website, but only with permission."
+    },
+    {
+     "id": "E3F2ADDB-112E-5B3D-BFC0-51B07CD4BC6C",
+     "speaker": "Parent",
+     "accent": "en-AU",
+     "text": "That's fine. Thanks so much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam16-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Child's age: __________",
+     "explanation": "Toby is eleven now.",
+     "evidenceQuote": "He's eleven.",
+     "skillTag": "numbers",
+     "distractorNote": "He will be twelve in October, but he is eleven now.",
+     "options": [],
+     "acceptedAnswers": [
+      "11",
+      "eleven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Course name: Code __________ (for ages 10–13)",
+     "explanation": "He should do Code Explorers.",
+     "evidenceQuote": "the better option would be Code Explorers",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Explorers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Course instructors are university __________ students",
+     "explanation": "They study engineering.",
+     "evidenceQuote": "The instructors are university engineering students",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "engineering"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Week beginning: the __________ of August",
+     "explanation": "She chooses the fourth of August.",
+     "evidenceQuote": "the fourth of August would be best",
+     "skillTag": "dates",
+     "distractorNote": "The week of 28 July is already full.",
+     "options": [],
+     "acceptedAnswers": [
+      "fourth",
+      "4th",
+      "4"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Summer venue: Ashford Primary School — in the school __________",
+     "explanation": "Classes are in the library.",
+     "evidenceQuote": "We'll be using the school library",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Full price for the week: £__________",
+     "explanation": "The full price is £175.",
+     "evidenceQuote": "The full price for the week is one hundred and seventy-five pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£150 is the members' price and £30 is the deposit.",
+     "options": [],
+     "acceptedAnswers": [
+      "175"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Wednesday: bring a sun __________ for drone flying",
+     "explanation": "They need a sun hat.",
+     "evidenceQuote": "they should bring a sun hat",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "hat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Friday afternoon: final __________ for parents to watch",
+     "explanation": "There is a competition on Friday.",
+     "evidenceQuote": "there's a final competition",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "competition"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Westacott.",
+     "evidenceQuote": "It's Toby Westacott. That's W-E-S-T-A-C-O-T-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Westacott"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Health: has mild __________",
+     "explanation": "Toby has mild asthma.",
+     "evidenceQuote": "He has asthma, but it's mild.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "asthma"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "enrol",
+    "beginner",
+    "drone",
+    "inhaler",
+    "deposit"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam16-lp2",
+   "partNumber": 2,
+   "title": "A new exhibition about robots",
+   "contextDescription": "A museum curator introduces a new exhibition about robots and artificial intelligence to a group of visitors.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "2A806E93-A8A0-584C-9BD6-CAD265A25141",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "Good morning, everybody, and welcome to the Northgate Science Museum. My name is Rachel Dumont, and I'm the curator of our new exhibition, Machines Like Us, which opened just last week. Before you go in, I'd like to give you a quick overview, so you can plan your visit and make sure you don't miss anything."
+    },
+    {
+     "id": "0FC47B8A-5D32-5FE5-932E-A5FC326623D2",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The exhibition took nearly three years to put together. Originally, we planned a small display about the history of factory robots, but as we started talking to researchers, we realised that what visitors really wanted to know was how robots and artificial intelligence are going to affect their everyday lives. So the focus changed, and the exhibition became much bigger. It now fills the whole of the second floor."
+    },
+    {
+     "id": "3421C9F5-B2A6-5E83-A787-535958290EA7",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The first thing I'd like to stress is that this isn't an exhibition where you just look at objects behind glass. Most of the robots here are working machines, and many of them are interactive. You'll be able to talk to them, play games with them and, in some cases, teach them to do simple tasks. Because of that, some of the displays can get very busy, especially at weekends, so I'd recommend visiting the most popular galleries first."
+    },
+    {
+     "id": "80181983-8AC5-54AD-9ABD-51EE87A84670",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "Let me take you through the galleries in order. The first gallery is called Ancestors. It looks at the long history of machines that imitate living things, from clockwork figures made in the eighteenth century to the first industrial robots of the 1960s. The star object here is a beautiful mechanical writer, a doll that can write short messages with a real pen. It's very delicate, so it's only switched on twice a day, at eleven and at three. If you want to see it move, make sure you're there at the right time."
+    },
+    {
+     "id": "0DD972BB-75C0-521B-A39C-2E7DA2DAB4FE",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The second gallery is The Factory Floor. Here you'll find a full-sized robot arm of the kind used in car factories. It's been programmed to sort coloured blocks, and you can challenge it to a race to see who's faster. I should warn you that almost nobody wins. For safety reasons, the arm is behind a transparent screen, and children under eight must be accompanied by an adult in this area."
+    },
+    {
+     "id": "FFB1C375-A023-59DC-BFD0-2981B67ABD6A",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "Next comes the gallery called At Home. This one is about robots that people actually live with, such as robot vacuum cleaners and lawnmowers. What's interesting here is that it shows how often these machines fail. There's a fun section where you can watch videos of robots getting stuck under sofas or falling down stairs. It's a reminder that homes are much more difficult environments for robots than factories, because everything is constantly being moved around."
+    },
+    {
+     "id": "248396EA-DD14-5431-BCC6-EE8291DC4AF8",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The fourth gallery, Caring Machines, looks at robots in hospitals and care homes. There's a robotic seal that's used to comfort elderly patients, and you're welcome to stroke it. We've also got a surgical robot, although it's not working, I'm afraid; it's a prototype that was donated by a hospital. Next to it, there's a short film in which surgeons explain how they control these machines from a console a few metres away from the patient."
+    },
+    {
+     "id": "AC4BFD42-B6BA-5F37-BD70-2895BDB86479",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The fifth gallery is called Thinking Machines, and it's about artificial intelligence. Rather than robots, it's mostly screens. You can play a game against a computer that learns from your moves, and try to tell the difference between poems written by people and poems written by software. Many visitors find that harder than they expect."
+    },
+    {
+     "id": "976C7394-46F6-5372-9D34-4EBC8FBA96A1",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "The final gallery, Tomorrow, is a little different. It doesn't have many objects. Instead, it asks you questions about the future, for example whether you'd trust a robot to look after a child, and you vote using a touch screen. The results are displayed on a large wall, so you can compare your answers with everyone else's. We're collecting these votes for a research project with the local university."
+    },
+    {
+     "id": "C832BE46-8BE0-596D-8279-D322299B4126",
+     "speaker": "Curator",
+     "accent": "en-CA",
+     "text": "Just a couple of practical points before you go in. Photography is allowed everywhere except in Caring Machines, because the film there includes real patients. The café on the ground floor is open until four, and there's a shop next to the exit where you can buy simple robot kits. Okay, enjoy your visit."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam16-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why did the museum change its original plan for the exhibition?",
+     "explanation": "Visitors wanted to know about effects on everyday life.",
+     "evidenceQuote": "what visitors really wanted to know was how robots and artificial intelligence are going to affect their everyday lives",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Researchers refused to lend factory robots.",
+      "B. People were more interested in the impact on daily life.",
+      "C. The second floor became available unexpectedly."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People were more interested in the impact on daily life.",
+      "People were more interested in the impact on daily life."
+     ]
+    },
+    {
+     "id": "exam16-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Rachel advises visitors to go to the most popular galleries first because",
+     "explanation": "Popular displays get crowded.",
+     "evidenceQuote": "some of the displays can get very busy, especially at weekends",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the interactive displays can become crowded.",
+      "B. some robots stop working later in the day.",
+      "C. the exhibition closes early at weekends."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the interactive displays can become crowded.",
+      "the interactive displays can become crowded."
+     ]
+    },
+    {
+     "id": "exam16-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What does Rachel say about the robot arm in The Factory Floor?",
+     "explanation": "Visitors rarely beat the arm.",
+     "evidenceQuote": "I should warn you that almost nobody wins.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is the oldest object in the museum.",
+      "B. Visitors can program it themselves.",
+      "C. Visitors are very unlikely to beat it."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Visitors are very unlikely to beat it.",
+      "Visitors are very unlikely to beat it."
+     ]
+    },
+    {
+     "id": "exam16-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "According to Rachel, homes are difficult for robots because",
+     "explanation": "Things in homes keep moving.",
+     "evidenceQuote": "because everything is constantly being moved around",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. objects in them keep changing position.",
+      "B. they contain too many electrical devices.",
+      "C. people do not program the robots correctly."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. objects in them keep changing position.",
+      "objects in them keep changing position."
+     ]
+    },
+    {
+     "id": "exam16-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Ancestors",
+     "explanation": "The mechanical writer only works at set times.",
+     "evidenceQuote": "it's only switched on twice a day, at eleven and at three",
+     "skillTag": "matching",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. see an object that works only at certain times",
+      "see an object that works only at certain times"
+     ]
+    },
+    {
+     "id": "exam16-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "The Factory Floor",
+     "explanation": "Visitors race the robot arm.",
+     "evidenceQuote": "you can challenge it to a race to see who's faster",
+     "skillTag": "matching",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. compete against a machine",
+      "compete against a machine"
+     ]
+    },
+    {
+     "id": "exam16-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "At Home",
+     "explanation": "Videos show robots failing.",
+     "evidenceQuote": "you can watch videos of robots getting stuck under sofas or falling down stairs",
+     "skillTag": "matching",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. see machines making mistakes",
+      "see machines making mistakes"
+     ]
+    },
+    {
+     "id": "exam16-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Caring Machines",
+     "explanation": "No photos are allowed there.",
+     "evidenceQuote": "Photography is allowed everywhere except in Caring Machines",
+     "skillTag": "matching",
+     "distractorNote": "Visitors can stroke the seal, but the surgical robot does not work.",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "H",
+      "H. not take photographs",
+      "not take photographs"
+     ]
+    },
+    {
+     "id": "exam16-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Thinking Machines",
+     "explanation": "Visitors judge who wrote the poems.",
+     "evidenceQuote": "try to tell the difference between poems written by people and poems written by software",
+     "skillTag": "matching",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. guess whether a text was produced by a machine",
+      "guess whether a text was produced by a machine"
+     ]
+    },
+    {
+     "id": "exam16-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Tomorrow",
+     "explanation": "Votes are compared on a wall.",
+     "evidenceQuote": "so you can compare your answers with everyone else's",
+     "skillTag": "matching",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. compare their opinions with other visitors",
+      "compare their opinions with other visitors"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "curator",
+    "humanoid",
+    "gallery",
+    "interactive",
+    "prototype"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 15,
+     "to": 20,
+     "instruction": "Questions 15–20. What can visitors do or find in each gallery? Choose SIX answers from the box and write the correct letter, A–H, next to Questions 15–20.",
+     "options": [
+      "A. see machines making mistakes",
+      "B. buy a robot kit",
+      "C. guess whether a text was produced by a machine",
+      "D. see an object that works only at certain times",
+      "E. compare their opinions with other visitors",
+      "F. compete against a machine",
+      "G. listen to a talk by an engineer",
+      "H. not take photographs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam16-lp3",
+   "partNumber": 3,
+   "title": "A project on robots in elderly care",
+   "contextDescription": "Two social care students, Megan and Josh, discuss their research project with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "498F6271-3542-5348-9DFE-EB6D62FD6B87",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Megan, Josh. Come and sit down. So you wanted to talk about your project on robots in elderly care. How far have you got?"
+    },
+    {
+     "id": "AD0E8375-D570-5DB5-BCE4-83A1E23C9145",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Well, we've done most of the reading, and last week we visited a care home that's been trying out a social robot for six months. We've got a lot of notes, but we're not sure how to organise the report."
+    },
+    {
+     "id": "3366610D-CF44-5449-9544-F1E5405B2970",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Let's start with the reading, then. What did you find?"
+    },
+    {
+     "id": "DD5413F6-131C-55F5-8CDB-74558DB55B7B",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "The most researched robot by far is PARO, the robotic seal that was developed in Japan. It responds to touch and to voices, and it moves its head and makes sounds a bit like a baby seal. There are quite a few studies of it being used with people with dementia."
+    },
+    {
+     "id": "297D2B28-E3DF-5CE6-8D9E-60145D4C6233",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what do those studies show?"
+    },
+    {
+     "id": "0044198A-968E-5B1B-AF06-588141258A2C",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "Some of them found that residents were calmer and less anxious after sessions with the robot, and that they talked to each other more. But a lot of the studies were quite small, and some were funded by people connected with the company, so we decided we couldn't rely on them too much."
+    },
+    {
+     "id": "D06DB28B-503E-5677-9427-3DF308C16EE0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a very sensible thing to notice. Make sure you say that in your literature review. What about the visit?"
+    },
+    {
+     "id": "FCD2C8BB-9C98-5C37-AC0E-3D944A51A83B",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "That was really interesting. The home we went to is using a different kind of robot. It's about the size of a small child, it has a screen for a face, and it leads activities like quizzes, music sessions and gentle exercises. The manager told us they introduced it because they'd had problems recruiting enough staff, not to replace anyone."
+    },
+    {
+     "id": "74024434-CCA5-5AA3-BC79-AB991FD0DF39",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "And what surprised me was that the residents were much more positive about it than I'd expected. I thought older people might be suspicious of technology, but most of the ones we spoke to just found it fun. One woman said it was the only thing in the home that never got tired of her stories."
+    },
+    {
+     "id": "69747E75-7797-50CC-9F0F-BF3D9EC3AD97",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a lovely quotation. Did you get permission to use it?"
+    },
+    {
+     "id": "E5A4688D-F465-58CC-907B-D22EC0009843",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Yes, everyone we interviewed signed a consent form, and we're not using any real names."
+    },
+    {
+     "id": "0973BF63-B631-5AC3-967F-676EED2D73DA",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And what did the staff think?"
+    },
+    {
+     "id": "BA2375CB-FA7B-50B0-8421-18BE8D09B9F3",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Their views were more mixed. The activities coordinator liked it, because it meant she could spend more time with residents who needed one-to-one attention. But two of the care assistants were worried that the management might eventually use robots as an excuse to cut staff. And one nurse said that when the robot broke down for a week, some residents were quite upset, which made her wonder whether they were becoming too attached to it."
+    },
+    {
+     "id": "73DAD0A7-A8EB-572D-BC89-79F285A0D41F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a really important ethical question. In fact, I'd suggest you make ethics a separate section of the report, rather than mixing it in with the findings. Issues like attachment, privacy and whether it's honest to give someone with dementia a robot animal deserve proper discussion."
+    },
+    {
+     "id": "C23D0D21-DF44-5E54-A5EF-62D8EB2FCA09",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "Privacy came up too. The robot has a camera, and some families didn't like the idea that it might be recording their relatives."
+    },
+    {
+     "id": "7042954A-CF8C-55A1-BC87-CBC417DA141A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Did the home say what happens to the recordings?"
+    },
+    {
+     "id": "481C6119-25A0-581E-ACCF-0040430037A7",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "The manager said the camera is only used to recognise faces, and nothing is stored. But she admitted that most families had never asked."
+    },
+    {
+     "id": "058B38FF-0C49-56CB-9960-F5540E0FCA8B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Right. Now, for the structure. You could start with a short introduction explaining why this matters, for example the growing number of older people and the shortage of care workers in many countries. Then the literature review, then your method, then the findings from the visit, and then the ethics section. Finish with recommendations."
+    },
+    {
+     "id": "69B142F8-08BD-5536-9BE5-04A2DED447D0",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "How long should it be?"
+    },
+    {
+     "id": "42988EC4-96B5-54ED-8EC5-041C41B12532",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "The limit is four thousand words. Don't go over it, because you'll lose marks. And I'd like to see a draft of the literature review by Friday the fourteenth."
+    },
+    {
+     "id": "2BBAF30E-9534-52A4-8B0E-578FD9DDB841",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "We were also thinking of including some photographs of the robot."
+    },
+    {
+     "id": "832CDDD3-CAE3-576C-AFB0-83A68F4CA75C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's fine, as long as no residents appear in them. Actually, a simple table comparing the different types of care robot would be more useful than photos. Put it in the appendix."
+    },
+    {
+     "id": "2F2268E9-CA57-5408-BFE7-31FE33C64860",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Great, thanks. That's really helpful."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam16-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why do the students doubt some of the published research on the robotic seal?",
+     "explanation": "Some studies had links to the company.",
+     "evidenceQuote": "some were funded by people connected with the company",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The studies were carried out too long ago.",
+      "B. The researchers did not work with dementia patients.",
+      "C. Some of the research had links to the manufacturer."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Some of the research had links to the manufacturer.",
+      "Some of the research had links to the manufacturer."
+     ]
+    },
+    {
+     "id": "exam16-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to the care home manager, the robot was introduced because",
+     "explanation": "The home could not recruit enough staff.",
+     "evidenceQuote": "they'd had problems recruiting enough staff, not to replace anyone",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. it was cheaper than employing staff.",
+      "B. the home was finding it hard to employ enough people.",
+      "C. families had asked for more activities."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the home was finding it hard to employ enough people.",
+      "the home was finding it hard to employ enough people."
+     ]
+    },
+    {
+     "id": "exam16-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What surprised Josh about the residents?",
+     "explanation": "They liked the robot more than he expected.",
+     "evidenceQuote": "the residents were much more positive about it than I'd expected",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They were more enthusiastic about the robot than he had predicted.",
+      "B. They preferred the robot to the staff.",
+      "C. They knew a lot about technology."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They were more enthusiastic about the robot than he had predicted.",
+      "They were more enthusiastic about the robot than he had predicted."
+     ]
+    },
+    {
+     "id": "exam16-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why did one nurse have concerns about the robot?",
+     "explanation": "Residents may have become too attached.",
+     "evidenceQuote": "some residents were quite upset, which made her wonder whether they were becoming too attached to it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It often broke down.",
+      "B. Residents seemed too emotionally dependent on it.",
+      "C. It made too much noise at night."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Residents seemed too emotionally dependent on it.",
+      "Residents seemed too emotionally dependent on it."
+     ]
+    },
+    {
+     "id": "exam16-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor suggest about ethical issues?",
+     "explanation": "Ethics should be its own section.",
+     "evidenceQuote": "I'd suggest you make ethics a separate section of the report",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should be included in the findings.",
+      "B. They should be left out of the report.",
+      "C. They should be discussed in their own section."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They should be discussed in their own section.",
+      "They should be discussed in their own section."
+     ]
+    },
+    {
+     "id": "exam16-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Care home has tested the robot for __________ months",
+     "explanation": "It has been used for six months.",
+     "evidenceQuote": "trying out a social robot for six months",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "six",
+      "6"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Some families worried about the robot's __________",
+     "explanation": "The camera worried families.",
+     "evidenceQuote": "The robot has a camera",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "camera"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Word limit: __________",
+     "explanation": "The limit is 4,000 words.",
+     "evidenceQuote": "The limit is four thousand words.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4000",
+      "4,000",
+      "four thousand"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Draft of the literature review due: Friday the __________",
+     "explanation": "It is due on the fourteenth.",
+     "evidenceQuote": "by Friday the fourteenth",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Put a comparison table in the __________",
+     "explanation": "The table goes in the appendix.",
+     "evidenceQuote": "Put it in the appendix.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "appendix"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "care home",
+    "companionship",
+    "loneliness",
+    "pilot study",
+    "consent"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam16-lp4",
+   "partNumber": 4,
+   "title": "The early history of artificial intelligence",
+   "contextDescription": "A lecture in a computer science course on how the field of artificial intelligence developed in the twentieth century.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "2BB48435-6D33-5C6C-992C-8CB9354D4E31",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon, everyone. Today I want to step back from the technical material and look at the history of artificial intelligence. It's a history full of big promises, bitter disappointments and surprising comebacks, and knowing it will help you judge some of the claims you hear about AI today."
+    },
+    {
+     "id": "72A9E361-DE2F-5142-8200-7A514CCD3329",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "A good place to start is 1950, when the British mathematician Alan Turing published a paper called 'Computing Machinery and Intelligence'. Turing thought that the question 'Can machines think?' was too vague to answer, so he replaced it with a test, which he called the imitation game. A human judge has a written conversation with two hidden partners, one a person and one a machine. If the judge can't reliably tell which is which, Turing argued, we have no good reason to deny that the machine is intelligent. We now call this the Turing test, and it's still discussed, although most researchers no longer think it's a useful goal."
+    },
+    {
+     "id": "FAEF7DFF-9FB1-54C3-AE82-9061454F33A9",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The field got its name a few years later. In 1955, the computer scientist John McCarthy and three colleagues wrote a proposal for a summer workshop at Dartmouth College in the United States, and in it they used the phrase 'artificial intelligence'. The workshop took place in 1956, and it's usually seen as the birth of AI as a research field. The organisers were extremely optimistic. They believed that significant progress could be made on problems such as language and learning in a single summer."
+    },
+    {
+     "id": "415C2EE3-3FFF-5ADC-AAEF-B13757040858",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "For the next twenty years or so, most AI research was what we call symbolic. The idea was that intelligence consisted of manipulating symbols according to rules, so if you could write down the right rules, a computer could reason like a person. And there were some impressive early results. Programs were written that could prove mathematical theorems and play draughts. In the mid-1960s, Joseph Weizenbaum at MIT created a program called ELIZA, which imitated a therapist by turning the user's statements into questions. It was very simple, but some users became emotionally attached to it, which alarmed Weizenbaum."
+    },
+    {
+     "id": "06E787DA-54D6-5625-A619-C38041FD3645",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "However, the early optimism didn't last. Problems that seemed easy, like understanding ordinary language or recognising objects, turned out to be extremely hard, and computers at the time were very slow and had tiny memories. In Britain, a government report written by the mathematician James Lighthill in 1973 concluded that AI had failed to achieve its grand aims, and funding was cut sharply. Similar cuts happened in the United States. This period of reduced funding and interest became known as the first AI winter."
+    },
+    {
+     "id": "C77E2EB2-222F-524F-820B-B664F11A6583",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In the 1980s, interest returned, thanks largely to expert systems. These were programs that tried to capture the knowledge of human specialists, such as doctors or engineers, in the form of thousands of if-then rules. Some were commercially successful, but they were expensive to build and to update, and they were brittle: if they met a situation the rules didn't cover, they failed completely. By the late 1980s, the market had collapsed, and a second winter followed."
+    },
+    {
+     "id": "73C9BBD4-FFCB-567C-9A09-0AA8A39574BE",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Meanwhile, a different approach had been developing quietly. Instead of writing rules, researchers built neural networks, which are loosely inspired by the brain, and which learn patterns from examples. Frank Rosenblatt had built an early version, the perceptron, in the late 1950s, but for decades these networks were limited by a lack of data and computing power."
+    },
+    {
+     "id": "97371001-894C-5780-A25E-C2F3569E9A4B",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Two famous events showed how much things had changed. In 1997, IBM's Deep Blue computer defeated the world chess champion, Garry Kasparov, in a six-game match. Deep Blue mostly relied on enormous speed, examining millions of positions per second. Then, in 2012, a neural network won an image recognition competition by a huge margin, using powerful graphics processors originally designed for video games. That result convinced many researchers to switch to the approach now called deep learning. And in 2016, DeepMind's AlphaGo program beat Lee Sedol, one of the world's best players of the board game Go, which had been considered far harder for computers than chess."
+    },
+    {
+     "id": "BAE43087-026D-5C54-8A4E-1E47141BFDCC",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So what's the lesson? Progress in AI hasn't been steady. It's come in waves, driven as much by data and hardware as by new ideas. Next week, we'll look at how modern language models work."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam16-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Turing replaced the question \"Can machines think?\" with a test called the imitation __________",
+     "explanation": "Turing called it the imitation game.",
+     "evidenceQuote": "which he called the imitation game",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "game"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "The phrase \"artificial intelligence\" first appeared in a 1955 __________ for a workshop",
+     "explanation": "It appeared in a proposal.",
+     "evidenceQuote": "wrote a proposal for a summer workshop at Dartmouth College",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "proposal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "The Dartmouth organisers were extremely __________",
+     "explanation": "They were very optimistic.",
+     "evidenceQuote": "The organisers were extremely optimistic.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "optimistic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Early AI was __________: intelligence was seen as manipulating symbols by rules",
+     "explanation": "Early AI was symbolic.",
+     "evidenceQuote": "most AI research was what we call symbolic",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "symbolic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "ELIZA imitated a __________",
+     "explanation": "ELIZA imitated a therapist.",
+     "evidenceQuote": "which imitated a therapist",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "therapist"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "After the Lighthill report, __________ for AI in Britain was cut",
+     "explanation": "Funding was cut.",
+     "evidenceQuote": "funding was cut sharply",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "funding"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Expert systems were described as __________ because they failed in new situations",
+     "explanation": "They were brittle.",
+     "evidenceQuote": "and they were brittle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "brittle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Neural networks learn patterns from __________",
+     "explanation": "They learn from examples.",
+     "evidenceQuote": "which learn patterns from examples",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "examples"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Deep Blue mostly relied on enormous __________",
+     "explanation": "It relied on speed.",
+     "evidenceQuote": "Deep Blue mostly relied on enormous speed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "speed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The 2012 network used processors designed for video __________",
+     "explanation": "They were designed for video games.",
+     "evidenceQuote": "powerful graphics processors originally designed for video games",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "games"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "imitation game",
+    "symbolic",
+    "expert system",
+    "neural network",
+    "funding"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam16-rp1",
+   "passageNumber": 1,
+   "title": "The chess-playing machine that fooled Europe",
+   "discipline": "History of Technology",
+   "paragraphs": [
+    "In 1770, at the imperial palace of Schönbrunn in Vienna, a civil servant named Wolfgang von Kempelen presented a remarkable invention to the Empress Maria Theresa and her court. It consisted of a large wooden cabinet, on top of which sat a life-sized figure of a man dressed in robes and a turban, holding a long pipe in one hand. Kempelen announced that this figure, which soon became known as the Turk, could play chess against any human opponent. To the astonishment of the audience, it did exactly that, moving the pieces with its mechanical arm and usually winning.",
+    "Kempelen took great care to persuade spectators that the machine was genuine. Before each game, he opened the doors of the cabinet one by one and held a candle behind them, so that the audience could see an elaborate collection of gears, wheels and levers inside. He then closed the doors, wound up the machine with a key and invited a volunteer to play. During the game, the figure would nod its head when it threatened its opponent's queen, and if a player attempted an illegal move, it would shake its head and move the piece back to its original square.",
+    "In reality, the Turk was an ingenious illusion. Hidden inside the cabinet was a skilled human chess player, who could slide from one section to another on a moving seat while the doors were being opened, so that he was never seen. The operator followed the game by watching small metal discs beneath the board, which were pulled upwards by magnets in the chess pieces above. He then controlled the figure's arm using a system of levers, and worked by the light of a candle. The machinery that the audience saw was largely there to distract them.",
+    "Curiously, Kempelen himself does not seem to have been particularly proud of the Turk. He regarded it as a clever entertainment rather than a serious achievement, and for long periods he refused to exhibit it, preferring to work on other projects, including a machine that could imitate human speech. However, in the early 1780s, he was persuaded to take the Turk on a tour of Europe, and it attracted large crowds in cities such as Paris and London. Wherever it went, writers and scientists published articles attempting to explain how it worked, although few came close to the truth.",
+    "After Kempelen's death in 1804, the Turk was bought by Johann Nepomuk Maelzel, a Bavarian musician and showman who is also remembered for producing and promoting the metronome. Maelzel made the act more theatrical and took the machine on further tours. In 1809, according to a famous account, the Turk played against Napoleon Bonaparte, who had occupied Vienna, and easily defeated him. Among the many people who saw the Turk in action was the English mathematician Charles Babbage, who later designed some of the earliest mechanical computers and who was fascinated by the question of whether a machine could really play chess.",
+    "In 1826, Maelzel took the Turk across the Atlantic to the United States, where it toured for more than a decade. There, it inspired one of the best-known attempts to expose it: an essay published in 1836 by the writer Edgar Allan Poe. Poe argued correctly that a human player must be hidden inside, partly because the machine did not always win, which he believed a true machine would. Some of his other reasoning, however, was mistaken.",
+    "After Maelzel died in 1838, the Turk passed through several owners and eventually ended up in a museum in Philadelphia. In 1854, a fire swept through the building and destroyed it. A few years later, the son of its last owner published a series of articles that finally revealed exactly how the illusion had been performed, ending more than eighty years of speculation.",
+    "Although the Turk was a fraud, its influence was real. It encouraged people to ask whether thinking could be mechanised, a question that would later become central to computer science. In the twentieth century, chess became a standard test for artificial intelligence, and in 1997 a real machine, IBM's Deep Blue, defeated the world champion. Even the Turk's name lives on: in 2005, the company Amazon launched a service called Mechanical Turk, through which businesses pay people to carry out small tasks, such as labelling images, that computers still find difficult. The name is an honest joke, since, like the original, the service relies on human intelligence hidden behind a machine."
+   ],
+   "questions": [
+    {
+     "id": "exam16-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Turk was first demonstrated at a palace in Vienna.",
+     "explanation": "It was presented at Schönbrunn in Vienna.",
+     "evidenceQuote": "at the imperial palace of Schönbrunn in Vienna",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam16-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Turk would refuse to accept a move that broke the rules of chess.",
+     "explanation": "It moved illegal moves back.",
+     "evidenceQuote": "if a player attempted an illegal move, it would shake its head and move the piece back",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam16-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The hidden operator could see the board through a small window in the cabinet.",
+     "explanation": "He followed the game using discs and magnets, not by seeing the board.",
+     "evidenceQuote": "The operator followed the game by watching small metal discs beneath the board",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam16-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Kempelen considered the Turk to be his most important invention.",
+     "explanation": "He did not think it was serious.",
+     "evidenceQuote": "He regarded it as a clever entertainment rather than a serious achievement",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam16-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Kempelen earned a large amount of money from the European tour.",
+     "explanation": "Crowds are mentioned, but not his earnings.",
+     "evidenceQuote": "it attracted large crowds in cities such as Paris and London",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam16-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Charles Babbage played a game of chess against the Turk.",
+     "explanation": "The passage says he saw it, not that he played it.",
+     "evidenceQuote": "Among the many people who saw the Turk in action was the English mathematician Charles Babbage",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam16-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Poe believed that a genuine machine would win every game.",
+     "explanation": "Poe thought a real machine would always win.",
+     "evidenceQuote": "because the machine did not always win, which he believed a true machine would",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam16-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Before each game, Kempelen used a __________ to show the machinery inside the cabinet.",
+     "explanation": "He held a candle behind the doors.",
+     "evidenceQuote": "held a candle behind them",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "candle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The operator moved between sections of the cabinet on a sliding __________.",
+     "explanation": "He used a moving seat.",
+     "evidenceQuote": "on a moving seat",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "seat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Each chess piece contained a __________ that pulled a disc upwards.",
+     "explanation": "Magnets were in the pieces.",
+     "evidenceQuote": "which were pulled upwards by magnets in the chess pieces above",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "magnet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Kempelen also worked on a machine that imitated human __________.",
+     "explanation": "He built a speaking machine.",
+     "evidenceQuote": "a machine that could imitate human speech",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "speech"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Maelzel is also known for promoting the __________.",
+     "explanation": "He promoted the metronome.",
+     "evidenceQuote": "producing and promoting the metronome",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "metronome"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The Turk was destroyed by a __________ in Philadelphia in 1854.",
+     "explanation": "A fire destroyed it.",
+     "evidenceQuote": "a fire swept through the building and destroyed it",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fire"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 749,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam16-rp2",
+   "passageNumber": 2,
+   "title": "Why robots struggle with the easy things",
+   "discipline": "Robotics & Cognitive Science",
+   "paragraphs": [
+    "In 1961, a machine called Unimate began work at a General Motors car factory in New Jersey. It was a heavy hydraulic arm that lifted hot pieces of metal from a casting machine and stacked them, a dangerous job that had injured many workers. Unimate is generally regarded as the first industrial robot, and it was the product of a partnership between the inventor George Devol, who had patented the idea, and the engineer Joseph Engelberger, who turned it into a business. Within two decades, robot arms were welding, painting and assembling cars in factories across the world.",
+    "Today, the most automated economies have astonishing numbers of these machines. According to the International Federation of Robotics, South Korea has around one thousand industrial robots for every ten thousand manufacturing workers, and countries such as Singapore, China, Germany and Japan also have very high densities. Yet if you visit almost any factory, you will notice that robots are concentrated in certain kinds of work. They weld and paint with superhuman precision, but many apparently simple tasks, such as folding a towel, sorting a pile of mixed objects or plugging in a flexible cable, are still done by people.",
+    "Researchers noticed this puzzle decades ago. In the 1980s, scientists including Hans Moravec, Rodney Brooks and Marvin Minsky pointed out that the tasks people find difficult, such as playing chess or solving equations, are often relatively easy for computers, while those that even a small child performs without thinking, such as recognising a face or walking across a crowded room, are extremely hard. Moravec wrote in 1988 that it was comparatively easy to make computers perform like adults on intelligence tests, but very difficult to give them the perception and mobility of a one-year-old. This observation is now known as Moravec's paradox.",
+    "Moravec offered an evolutionary explanation. Skills such as seeing, grasping and moving have been refined by natural selection over hundreds of millions of years, and the brain devotes enormous resources to them. Because they are so well practised, we perform them unconsciously and therefore underestimate how complex they are. Abstract reasoning, by contrast, is a recent development in evolutionary terms. It feels difficult to us precisely because we are not very good at it, and it can often be reduced to a small number of clear rules that a computer can follow.",
+    "A related idea comes from the philosopher Michael Polanyi, who wrote in 1966 that 'we can know more than we can tell'. A person can ride a bicycle or recognise a friend's voice without being able to explain how. This kind of tacit knowledge creates a problem for engineers, because traditional programming requires every step of a task to be specified in advance. If nobody can describe precisely how they tie a shoelace, it is very hard to write instructions that a robot can follow.",
+    "The difficulty is especially clear in warehouses. In 2015, the online retailer Amazon organised the first of a series of competitions, the Amazon Picking Challenge, inviting university teams to build robots that could pick individual items from crowded shelves. The items ranged from pencils and books to soft toys and packets of biscuits. The winning robots worked, but they were far slower and less reliable than human workers, struggling in particular with objects that were transparent, shiny, soft or partly hidden behind others.",
+    "Recent progress has come from two directions. First, machine learning allows robots to learn from experience rather than relying entirely on rules written by programmers. Instead of being told how to grasp each object, a robot can practise thousands of times, sometimes in computer simulations, and gradually improve. Second, engineers have developed new hardware, including soft grippers made of flexible materials and suction devices, which are more forgiving of small errors than rigid metal fingers. Cheaper cameras and sensors have also helped robots to build a more detailed picture of their surroundings.",
+    "Even so, most experts believe that general-purpose robots capable of doing household chores in an ordinary home are still some way off. Homes are unpredictable; objects are constantly moved, lighting changes and every room is different. Factories, on the other hand, can be redesigned around the needs of machines. For the foreseeable future, it seems likely that robots will continue to take over tasks in controlled environments, while the jobs that require ordinary human dexterity, such as cleaning, caring and cooking, will remain surprisingly hard to automate."
+   ],
+   "questions": [
+    {
+     "id": "exam16-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B shows robots are common but limited to some tasks.",
+     "evidenceQuote": "robots are concentrated in certain kinds of work",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Widespread use, but only for some jobs",
+      "Widespread use, but only for some jobs"
+     ]
+    },
+    {
+     "id": "exam16-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C names the paradox.",
+     "evidenceQuote": "This observation is now known as Moravec's paradox.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A surprising pattern is given a name",
+      "A surprising pattern is given a name"
+     ]
+    },
+    {
+     "id": "exam16-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains why using evolution.",
+     "evidenceQuote": "Moravec offered an evolutionary explanation.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. An explanation based on the history of life",
+      "An explanation based on the history of life"
+     ]
+    },
+    {
+     "id": "exam16-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E is about skills that cannot be explained.",
+     "evidenceQuote": "This kind of tacit knowledge creates a problem for engineers",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Abilities that people cannot put into words",
+      "Abilities that people cannot put into words"
+     ]
+    },
+    {
+     "id": "exam16-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes the picking competition.",
+     "evidenceQuote": "The difficulty is especially clear in warehouses.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A contest that revealed the limits of machines",
+      "A contest that revealed the limits of machines"
+     ]
+    },
+    {
+     "id": "exam16-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers learning and new hardware.",
+     "evidenceQuote": "Recent progress has come from two directions.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Advances in software and equipment",
+      "Advances in software and equipment"
+     ]
+    },
+    {
+     "id": "exam16-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H says home robots are still distant.",
+     "evidenceQuote": "general-purpose robots capable of doing household chores in an ordinary home are still some way off",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Why the home remains a challenge",
+      "Why the home remains a challenge"
+     ]
+    },
+    {
+     "id": "exam16-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What was Joseph Engelberger's role in the development of Unimate?",
+     "explanation": "He made it commercial.",
+     "evidenceQuote": "who turned it into a business",
+     "skillTag": "detail",
+     "options": [
+      "A. He patented the original idea.",
+      "B. He operated it at General Motors.",
+      "C. He developed it commercially.",
+      "D. He designed its hydraulic system."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. He developed it commercially.",
+      "He developed it commercially."
+     ]
+    },
+    {
+     "id": "exam16-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to Moravec, why does abstract reasoning seem hard to humans?",
+     "explanation": "We are not good at it.",
+     "evidenceQuote": "It feels difficult to us precisely because we are not very good at it",
+     "skillTag": "detail",
+     "options": [
+      "A. It requires a large part of the brain.",
+      "B. Humans are relatively poor at it.",
+      "C. It cannot be reduced to rules.",
+      "D. It is learned late in childhood."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Humans are relatively poor at it.",
+      "Humans are relatively poor at it."
+     ]
+    },
+    {
+     "id": "exam16-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Which kinds of objects did robots in the Amazon Picking Challenge find most difficult?",
+     "explanation": "Transparent, shiny, soft or hidden objects were hardest.",
+     "evidenceQuote": "struggling in particular with objects that were transparent, shiny, soft or partly hidden behind others",
+     "skillTag": "detail",
+     "options": [
+      "A. very heavy items",
+      "B. objects with sharp edges",
+      "C. items stored on high shelves",
+      "D. objects that were see-through or reflective"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. objects that were see-through or reflective",
+      "objects that were see-through or reflective"
+     ]
+    },
+    {
+     "id": "exam16-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Before Unimate, lifting hot metal from the casting machine had injured many __________.",
+     "explanation": "The job injured many workers.",
+     "evidenceQuote": "a dangerous job that had injured many workers",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "workers"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam16-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Some robots practise grasping objects in computer __________ before working in the real world.",
+     "explanation": "They practise in simulations.",
+     "evidenceQuote": "sometimes in computer simulations",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "simulations"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam16-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Unlike homes, factories can be __________ to suit machines.",
+     "explanation": "Factories can be redesigned.",
+     "evidenceQuote": "Factories, on the other hand, can be redesigned around the needs of machines.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "redesigned"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 738,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A contest that revealed the limits of machines",
+      "ii. A surprising pattern is given a name",
+      "iii. Why the home remains a challenge",
+      "iv. Abilities that people cannot put into words",
+      "v. The rising cost of industrial robots",
+      "vi. Advances in software and equipment",
+      "vii. Widespread use, but only for some jobs",
+      "viii. Workers who refused to use robots",
+      "ix. An explanation based on the history of life"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam16-rp3",
+   "passageNumber": 3,
+   "title": "Will the machines take our jobs?",
+   "discipline": "Economics of Technology",
+   "paragraphs": [
+    "Fear that machines will make human workers unnecessary is almost as old as industry itself. Between 1811 and 1816, groups of textile workers in the English Midlands and the north of England, who called themselves Luddites after a mythical leader named Ned Ludd, broke into factories at night and smashed the new machines that threatened their livelihoods. Today the word 'Luddite' is used to mock anyone who resists technology, but the original Luddites were not opposed to machines as such. They objected to the way machines were being used to cut wages and replace skilled workers with cheaper, less skilled labour.",
+    "In 1930, the economist John Maynard Keynes gave this fear a name. In a short essay entitled 'Economic Possibilities for our Grandchildren', he warned of 'technological unemployment', meaning unemployment caused by our discovering ways of saving labour faster than we can find new uses for it. Yet Keynes was optimistic about the long term. He predicted that within a hundred years, people in wealthy countries would be so productive that they might need to work only around fifteen hours a week, and that the main challenge would be learning how to use their leisure time well.",
+    "Keynes was right about productivity, which has risen enormously, but wrong about working hours, which have fallen far less than he expected. And despite two centuries of automation, the long-feared collapse of employment has not occurred. The reason, economists argue, is that technology does not only destroy jobs; it also creates them. When machines make goods cheaper, people spend the money they save on other things, and new industries appear that nobody could have imagined. In 1900, around forty per cent of American workers were employed in agriculture; today the figure is below two per cent, yet unemployment is not remotely forty per cent.",
+    "Nevertheless, recent advances in artificial intelligence have revived the old anxiety. In 2013, Carl Benedikt Frey and Michael Osborne of the University of Oxford estimated that around forty-seven per cent of jobs in the United States were at high risk of being automated within a decade or two. Their study received enormous publicity. However, other researchers soon pointed out that it assessed entire occupations, whereas most jobs consist of many different tasks, only some of which can be automated. A study for the Organisation for Economic Co-operation and Development (OECD), published in 2016, took this task-based approach and concluded that only around nine per cent of jobs across OECD countries were at high risk.",
+    "A well-known example shows why the task-based view matters. When automated teller machines (ATMs) spread through American banks from the 1970s onwards, many people assumed that bank tellers would disappear. The economist James Bessen found that this did not happen. Because ATMs reduced the cost of running a branch, banks opened many more branches, and the number of tellers remained roughly stable for decades. Their work changed, however: they spent less time counting cash and more time selling financial products and dealing with customers' problems.",
+    "This does not mean that automation is harmless. The economist David Autor has shown that, in many wealthy countries, technology has contributed to a 'polarisation' of the labour market. Routine middle-skill jobs, such as clerical and factory work, have declined, while employment has grown in both highly paid professional jobs and in low-paid service work, such as cleaning and care, which is difficult to automate. The result has been rising inequality, as many workers have lost secure, reasonably paid jobs and have been unable to move into better ones.",
+    "Will artificial intelligence follow the same pattern? There are reasons to think it may be different. Earlier waves of automation mainly affected physical and routine tasks, but modern AI systems can write, translate, summarise and analyse, which means they may affect educated office workers who previously felt secure. In my view, it would be foolish to assume that, because technology has created more jobs than it destroyed in the past, it will automatically do so again. History is a useful guide, but it is not a guarantee.",
+    "At the same time, I believe that the most pessimistic predictions underestimate how much choice societies have. Whether automation leads to shared prosperity or to greater inequality depends heavily on policy: on how education systems prepare people for changing work, on whether workers who lose their jobs are supported while they retrain, and on how the gains from higher productivity are distributed. Technology shapes the possibilities, but it is people who decide which ones become reality. The Luddites lost their battle, but the question they raised, about who benefits from new machines, is as relevant as ever."
+   ],
+   "questions": [
+    {
+     "id": "exam16-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "expected people in the future to have far more free time",
+     "explanation": "Keynes predicted a fifteen-hour week.",
+     "evidenceQuote": "they might need to work only around fifteen hours a week",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. John Maynard Keynes",
+      "John Maynard Keynes"
+     ]
+    },
+    {
+     "id": "exam16-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "produced a high estimate of the proportion of jobs that could be automated",
+     "explanation": "Frey and Osborne gave the 47% figure.",
+     "evidenceQuote": "estimated that around forty-seven per cent of jobs in the United States were at high risk",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "Carl Benedikt Frey and Michael Osborne"
+     ]
+    },
+    {
+     "id": "exam16-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "found that a new machine changed the nature of a job rather than eliminating it",
+     "explanation": "Bessen showed tellers' work changed.",
+     "evidenceQuote": "Their work changed, however",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. James Bessen",
+      "James Bessen"
+     ]
+    },
+    {
+     "id": "exam16-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "protested against the use of machines to lower pay",
+     "explanation": "The Luddites objected to wage cuts.",
+     "evidenceQuote": "They objected to the way machines were being used to cut wages",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the Luddites",
+      "the Luddites"
+     ]
+    },
+    {
+     "id": "exam16-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "identified a decline in jobs in the middle of the labour market",
+     "explanation": "Autor described polarisation.",
+     "evidenceQuote": "Routine middle-skill jobs, such as clerical and factory work, have declined",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. David Autor",
+      "David Autor"
+     ]
+    },
+    {
+     "id": "exam16-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The original Luddites were against all forms of machinery.",
+     "explanation": "They were not opposed to machines as such.",
+     "evidenceQuote": "the original Luddites were not opposed to machines as such",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam16-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Keynes's prediction about working hours has turned out to be inaccurate.",
+     "explanation": "He was wrong about hours.",
+     "evidenceQuote": "wrong about working hours, which have fallen far less than he expected",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam16-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "The Oxford study was widely criticised for using out-of-date data.",
+     "explanation": "The criticism concerns occupations versus tasks, not the age of the data.",
+     "evidenceQuote": "it assessed entire occupations, whereas most jobs consist of many different tasks",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam16-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Past experience proves that artificial intelligence will create more jobs than it destroys.",
+     "explanation": "The writer says history is not a guarantee.",
+     "evidenceQuote": "History is a useful guide, but it is not a guarantee.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam16-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Government decisions will strongly influence who gains from automation.",
+     "explanation": "The outcome depends on policy.",
+     "evidenceQuote": "depends heavily on policy",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam16-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Keynes used the term \"technological unemployment\" for job losses caused by discovering ways of saving __________ too quickly.",
+     "explanation": "Saving labour faster than new uses are found.",
+     "evidenceQuote": "our discovering ways of saving labour faster than we can find new uses for it",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "labour"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "In 1900, about forty per cent of American workers were employed in __________.",
+     "explanation": "They worked in agriculture.",
+     "evidenceQuote": "around forty per cent of American workers were employed in agriculture",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "agriculture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Because ATMs made branches cheaper to run, banks opened more __________.",
+     "explanation": "More branches were opened.",
+     "evidenceQuote": "banks opened many more branches",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "branches"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam16-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Autor argues that the changes in the labour market have increased __________.",
+     "explanation": "Inequality rose.",
+     "evidenceQuote": "The result has been rising inequality",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "inequality"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 773,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person or people, A–F.",
+     "options": [
+      "A. the Luddites",
+      "B. John Maynard Keynes",
+      "C. Carl Benedikt Frey and Michael Osborne",
+      "D. James Bessen",
+      "E. David Autor",
+      "F. the OECD researchers"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam16-w1",
+  "title": "Industrial robots installed by sector",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows the number of new industrial robots installed in one country in five sectors in 2015, 2020 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "4795AB65-11AA-518C-8F61-88885B3BD72F",
+    "series": "Car manufacturing",
+    "category": "2015",
+    "value": 42.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "BEDC5D1D-A8AB-5A5F-AB20-C30C0605515F",
+    "series": "Electronics",
+    "category": "2015",
+    "value": 28.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "83B9468B-A4F5-534D-B15C-1EA7D0A58397",
+    "series": "Metal products",
+    "category": "2015",
+    "value": 9.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "910503F4-8880-5CBC-952C-721C1B66755B",
+    "series": "Food and drink",
+    "category": "2015",
+    "value": 6.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "ACFB54C2-73F4-5411-BC6A-9B56F63CA5C2",
+    "series": "Logistics",
+    "category": "2015",
+    "value": 3.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "82618D68-AFA2-5F97-BB63-C3B96F342293",
+    "series": "Car manufacturing",
+    "category": "2020",
+    "value": 51.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "E7F7B096-E994-58E0-945A-5673541889AE",
+    "series": "Electronics",
+    "category": "2020",
+    "value": 47.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "F0E5F88E-E2FA-5765-AFA4-A29E161390F8",
+    "series": "Metal products",
+    "category": "2020",
+    "value": 13.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "A2AFF2D7-F1A0-5EDB-B6A6-1F06465E988F",
+    "series": "Food and drink",
+    "category": "2020",
+    "value": 12.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "32F6461C-7983-51A4-9E1C-3EE19C7C8600",
+    "series": "Logistics",
+    "category": "2020",
+    "value": 7.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "81D0E497-C050-5A49-BD3B-96709DDBCEBC",
+    "series": "Car manufacturing",
+    "category": "2025",
+    "value": 48.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "C4E148CF-9A41-5861-A8D9-D71BD26E2EE6",
+    "series": "Electronics",
+    "category": "2025",
+    "value": 63.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "28BA3908-6BB1-5EB8-BC84-D49E46E3FD2A",
+    "series": "Metal products",
+    "category": "2025",
+    "value": 18.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "07D36FB1-F2D7-5431-8C5D-92B5A89E7053",
+    "series": "Food and drink",
+    "category": "2025",
+    "value": 21.0,
+    "unit": "thousands of robots"
+   },
+   {
+    "id": "ECFBACB8-EFFC-58A7-A710-02F9D6F1A569",
+    "series": "Logistics",
+    "category": "2025",
+    "value": 15.0,
+    "unit": "thousands of robots"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Installations rose in every sector except car manufacturing, which peaked in 2020.",
+   "Electronics overtook car manufacturing to become the largest sector, while logistics grew fastest from a low base."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam16-w2",
+  "title": "Robots in the workplace",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Technology & Work",
+  "promptText": "In many workplaces, robots and artificial intelligence are now doing tasks that used to be done by people. Do the advantages of this development outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam16-spk",
+  "theme": "Machines and technology",
+  "part1Questions": [
+   "Which machine in your home do you use most?",
+   "Are you good at fixing things when they break?",
+   "Have you ever used a voice assistant on a phone or speaker?",
+   "Did you enjoy science or technology lessons at school?",
+   "Is there a machine you would like to buy in the future?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a piece of technology that has made your life easier.",
+   "bulletPoints": [
+    "what it is",
+    "when you started using it",
+    "how you use it",
+    "and explain how it has made your life easier"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Which jobs do you think robots will never be able to do?",
+   "Should companies that replace workers with machines pay a special tax?",
+   "How should schools prepare young people for a world with more automation?",
+   "Do people rely too much on artificial intelligence to make decisions?",
+   "Would older people in your country accept robots as carers?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and research findings are checked against standard reference sources; some figures are rounded for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

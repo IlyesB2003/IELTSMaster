@@ -1,0 +1,2018 @@
+{
+ "id": "exam23",
+ "examNumber": 23,
+ "pool": "mock",
+ "title": "Mock Exam 23: Making Room for Everyday Life",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Making Room for Everyday Life",
+ "listeningParts": [
+  {
+   "id": "exam23-lp1",
+   "partNumber": 1,
+   "title": "Hiring a stall at a neighbourhood market",
+   "contextDescription": "A first-time seller telephones the organiser of a neighbourhood market.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "F6D57615-E39E-533D-B5F1-8F240790E138",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Good afternoon, Ashfield Neighbourhood Market, Ellen speaking. If you're ringing about this Sunday's event, the visitor entrance is beside the station. Stall bookings are handled here too, so let me know which information you need."
+    },
+    {
+     "id": "235EDDFD-D5DA-5BC7-9DA2-92CCA42DAF4A",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "It's about booking a stall, actually. I've been making bags from reused fabric, and a friend suggested trying your market. I've never sold at an event before, so I have quite a few questions. Would a new seller be allowed to join this month?"
+    },
+    {
+     "id": "54DCCC86-D8D7-53F4-9DAC-6EC43E6E4897",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Yes, provided there's space and the products fit our guidelines. Everything must be made, grown or repaired by the person selling it. We don't accept people buying ordinary goods in bulk and simply offering them again. Your bags sound appropriate. Would you bring anything else?"
+    },
+    {
+     "id": "D5E6C1D0-32A2-5550-BE05-9DE3C12C2E52",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "Probably some small purses, made from the pieces left over after I cut out the bags. I'd like to show people how I use the fabric, though I wouldn't be sewing there. Is there room to put a little display behind the table?"
+    },
+    {
+     "id": "93D64865-F266-51D5-8A9C-CBBBE7542FDF",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There is, but don't attach it to the wall. We have freestanding boards that you can borrow. The tables are inside the old school hall. Outside spaces are reserved for plant sellers because they need more room and sometimes bring wet pots. Everyone selling fabric items is indoors."
+    },
+    {
+     "id": "EDD2DCC1-14F8-5224-B668-A07DF1666FDD",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "That would suit me. A leaflet I picked up says a stall costs twenty-five pounds. Does that include a table, or do I have to bring one from home? I haven't got a suitable vehicle for carrying furniture."
+    },
+    {
+     "id": "B8A388E8-4074-538C-96F6-47B4C8E4252E",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "That leaflet covers our larger summer event. For this monthly market, the fee is eighteen pounds, and that includes one table. Bring a cloth to cover it. We provide chairs, so you don't need to carry those. You can book a second table, but I suggest starting with one."
+    },
+    {
+     "id": "83738C84-4BBA-5AFD-B148-DDC197E863CE",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "Yes, one should be enough. What time should I arrive? I saw that the market opens at ten, so I thought perhaps half past nine would give me enough time to arrange everything without being too early."
+    },
+    {
+     "id": "64555C3F-F27D-523B-BED9-0CCC18818B29",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Please arrive by nine instead. Vehicles have to leave the courtyard by nine thirty, and we need time to check the walkways before the public enters. You can unload in the courtyard, then park at the library. Market sellers can use its car park free on Sundays."
+    },
+    {
+     "id": "60632D9F-6F52-5807-8250-5E8F3E0D63AB",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "Right, nine o'clock. And can I use an electronic payment machine? Mine usually connects through my phone, but the signal isn't always reliable in older buildings. I don't want to arrive and discover I can only take cash."
+    },
+    {
+     "id": "164C10E9-7132-513A-B78C-7A8C680DA63B",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "There is wireless internet, and we'll give you the password on arrival. We can't guarantee that every payment device will work, so bring a cash float as well. We don't exchange money at the information desk. Also, there's no electricity at individual tables, unless you've booked a demonstration space in advance."
+    },
+    {
+     "id": "A4B6597D-F225-5B16-8364-18F7B08EAC31",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "That's fine. Could you take my details now? My name's Louise Fenwick. That's F-E-N-W-I-C-K. The business name is Patchwork Lane, although I haven't printed any signs yet."
+    },
+    {
+     "id": "51D2DC89-9E7A-5BDF-8808-A04ED273E499",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Thank you. Please email a photograph of your products, so we can confirm they meet the guidelines. We don't need a photograph of your workspace. Once we've approved the products, we'll send a booking form. The deadline for returning it is Thursday, not Friday as it was last month."
+    },
+    {
+     "id": "A3835F8D-E120-5EA5-986F-A4A5ADD8D667",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "I'll send that tonight. Will I be told which table I've got before the day? I'd like to work out how to arrange the bags, particularly if the table is close to a doorway."
+    },
+    {
+     "id": "CC7AE7B9-568D-5931-B860-057AC12AEFD0",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Your confirmation will include a table number. We keep all entrances clear, and there will be a plan at reception. One last thing: packaging. Please avoid plastic carrier bags. Paper is acceptable, but we encourage customers to bring their own bags. You're welcome to put up a small notice explaining that."
+    },
+    {
+     "id": "16949419-790C-5607-B7FC-923E3A9A2EC4",
+     "speaker": "Seller",
+     "accent": "en-AU",
+     "text": "That fits well with what I'm making. Thank you for explaining everything. I'll wait for approval before printing the table number on anything, and I'll make sure the cloth and cash float are packed the night before."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam23-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Fabric stalls are located in the old school __________.",
+     "explanation": "Fabric sellers use the indoor hall.",
+     "evidenceQuote": "The tables are inside the old school hall.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hall"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Monthly stall fee: £__________.",
+     "explanation": "The £25 figure applies to the summer event.",
+     "evidenceQuote": "the fee is eighteen pounds",
+     "skillTag": "note_completion",
+     "distractorNote": "Twenty-five pounds is the fee for a different event.",
+     "options": [],
+     "acceptedAnswers": [
+      "18"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Seller should bring a __________ for the table.",
+     "explanation": "A cloth is needed; chairs are provided.",
+     "evidenceQuote": "Bring a cloth to cover it.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cloth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Seller must arrive by __________ a.m.",
+     "explanation": "Nine thirty is the vehicle departure deadline.",
+     "evidenceQuote": "Please arrive by nine instead.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nine",
+      "9",
+      "9.00",
+      "9:00"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "After unloading, park at the __________.",
+     "explanation": "The library car park is available to sellers.",
+     "evidenceQuote": "then park at the library",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Internet __________ is provided on arrival.",
+     "explanation": "The organiser provides the wireless network password.",
+     "evidenceQuote": "we'll give you the password on arrival",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "password"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Seller’s surname: Louise __________.",
+     "explanation": "Fenwick is stated and spelled.",
+     "evidenceQuote": "My name's Louise Fenwick. That's F-E-N-W-I-C-K.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Fenwick"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Email a photograph showing the __________.",
+     "explanation": "The photograph should show goods, not the workspace.",
+     "evidenceQuote": "Please email a photograph of your products",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "products"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Return the form no later than __________.",
+     "explanation": "Thursday replaces last month’s Friday deadline.",
+     "evidenceQuote": "The deadline for returning it is Thursday",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Permitted bag material: __________.",
+     "explanation": "Plastic carrier bags should be avoided.",
+     "evidenceQuote": "Paper is acceptable",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Paper"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam23-lp2",
+   "partNumber": 2,
+   "title": "A welcome to the riverside walking festival",
+   "contextDescription": "A volunteer coordinator explains the programme and arrangements for a local walking festival.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "945D7D7F-5F7D-5480-89CD-69798E84FD86",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Welcome to the riverside walking festival. Before you choose a walk, I'd like to explain a few changes to the printed programme and how our activities work. The festival is intended for local people as much as visitors, and none of the walks requires specialist knowledge. We hope you'll notice something unfamiliar even on a street you use every day."
+    },
+    {
+     "id": "89B1E852-36C3-5AD4-84D3-9689A6446976",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Our first route, the Doorway Walk, looks at how buildings meet the street. You won't go inside private homes. Instead, the guide will ask you to notice entrances, steps, gates and the small spaces where neighbours sometimes stop to talk. It is a short route with frequent pauses, so it suits people who enjoy discussion rather than covering a long distance. It finishes where it begins, at the clock tower."
+    },
+    {
+     "id": "42C64C32-5911-504F-942C-55F779D8D3CB",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The Waterline Walk follows the river path. It was advertised as a complete circuit, but repairs to the footbridge mean we must return along the same bank. The total distance is unchanged. This route is mainly about the working river: loading places, old workshop entrances and the ways different activities have occupied the bank. It isn't a wildlife identification walk, though you may certainly see birds."
+    },
+    {
+     "id": "D1A741D8-660B-5AE6-9F98-78DC276D7740",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "The third route is called Listening to the Street. For part of it, the guide will ask everyone to stop talking and pay attention to the sounds around them. You don't need to record anything. In fact, we'd prefer phones to remain in pockets during those short periods. Afterwards, there will be time to compare what people noticed. Someone near the front may have heard a different sound from someone at the back, which is part of the interest."
+    },
+    {
+     "id": "8FFFCF07-3ED9-50C5-B98C-0430F96125AA",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Finally, the Sketching Walk is not an art class. You don't have to produce an attractive picture, and nobody will assess your drawing. Making a quick sketch is simply a way of looking carefully. The guide may ask you to mark where people sit or how they move through a square. We can lend pencils, but bring your own notebook. Loose sheets tend to blow away when we're near the river."
+    },
+    {
+     "id": "920D6549-8F7E-5910-BE9F-11A6CE5E342D",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "All four walks are free, but places are limited because large groups can block narrow pavements. Collect a coloured ticket at the registration desk for the route you want. Please take only one ticket per person. If you later change your mind, return it so someone else can use the place. Booking a place on a walk does not reserve a seat at the evening discussion; that has a separate ticket."
+    },
+    {
+     "id": "6B80BDE8-E3D2-59E3-81C1-1131298B06F8",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "A few practical matters now. The printed map shows toilets inside the sports centre, but that building is closed today. Please use the public toilets behind the theatre. Drinking water is available here in the courtyard, so fill your bottle before leaving. There are no refreshments included on the routes. Some pass cafés, but the guides won't make a scheduled stop for buying food."
+    },
+    {
+     "id": "30C0C0C6-7086-51AD-A5BD-E2519210C028",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "If heavy rain makes a route unsuitable, we will hold its discussion in the gallery rather than cancel the entire session. You can look at photographs and talk about what the walk was intended to explore. This alternative obviously doesn't replace being outside, but it still gives you a chance to exchange observations. Check the noticeboard before your start time, as that is where any change will be posted."
+    },
+    {
+     "id": "4D0EFF8A-FAA6-5FC4-9334-1209F4FA5015",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Please respect the people who live and work along the routes. Avoid photographing someone at close range without asking, and keep doorways clear when the group stops. Our guides are volunteers, and they have been asked to prioritise safe movement over finishing every planned stop. If the group is moving slowly, some material may be discussed back here afterwards. Enjoy your walk, and bring your questions to the discussion when you return."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam23-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Doorway Walk",
+     "explanation": "The route examines entrances and the boundary between buildings and streets.",
+     "evidenceQuote": "looks at how buildings meet the street",
+     "skillTag": "matching",
+     "options": [
+      "A. Noticing the local soundscape",
+      "B. Identifying species of birds",
+      "C. Examining entrances and street boundaries",
+      "D. Improving formal drawing technique",
+      "E. Exploring activities connected to the river",
+      "F. Using drawing to observe spaces"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Examining entrances and street boundaries",
+      "Examining entrances and street boundaries"
+     ]
+    },
+    {
+     "id": "exam23-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Waterline Walk",
+     "explanation": "The focus is activity along the riverbank.",
+     "evidenceQuote": "This route is mainly about the working river",
+     "skillTag": "matching",
+     "options": [
+      "A. Noticing the local soundscape",
+      "B. Identifying species of birds",
+      "C. Examining entrances and street boundaries",
+      "D. Improving formal drawing technique",
+      "E. Exploring activities connected to the river",
+      "F. Using drawing to observe spaces"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Exploring activities connected to the river",
+      "Exploring activities connected to the river"
+     ]
+    },
+    {
+     "id": "exam23-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Listening to the Street",
+     "explanation": "Participants attend to the soundscape.",
+     "evidenceQuote": "pay attention to the sounds around them",
+     "skillTag": "matching",
+     "options": [
+      "A. Noticing the local soundscape",
+      "B. Identifying species of birds",
+      "C. Examining entrances and street boundaries",
+      "D. Improving formal drawing technique",
+      "E. Exploring activities connected to the river",
+      "F. Using drawing to observe spaces"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Noticing the local soundscape",
+      "Noticing the local soundscape"
+     ]
+    },
+    {
+     "id": "exam23-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Sketching Walk",
+     "explanation": "Drawing is a means of observation, not an assessed outcome.",
+     "evidenceQuote": "Making a quick sketch is simply a way of looking carefully.",
+     "skillTag": "matching",
+     "options": [
+      "A. Noticing the local soundscape",
+      "B. Identifying species of birds",
+      "C. Examining entrances and street boundaries",
+      "D. Improving formal drawing technique",
+      "E. Exploring activities connected to the river",
+      "F. Using drawing to observe spaces"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Using drawing to observe spaces",
+      "Using drawing to observe spaces"
+     ]
+    },
+    {
+     "id": "exam23-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why has the Waterline route changed?",
+     "explanation": "Footbridge work prevents a circuit.",
+     "evidenceQuote": "repairs to the footbridge mean we must return along the same bank",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The advertised distance was too long.",
+      "B. A footbridge is being repaired.",
+      "C. Wildlife needs protection on one bank."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A footbridge is being repaired.",
+      "A footbridge is being repaired."
+     ]
+    },
+    {
+     "id": "exam23-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why are walk numbers limited?",
+     "explanation": "The limit protects access along narrow pavements.",
+     "evidenceQuote": "large groups can block narrow pavements",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Only specialist visitors can participate.",
+      "B. Cafés cannot serve larger groups.",
+      "C. Large groups could obstruct pavements."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Large groups could obstruct pavements.",
+      "Large groups could obstruct pavements."
+     ]
+    },
+    {
+     "id": "exam23-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "What will happen if heavy rain prevents an outdoor walk?",
+     "explanation": "An indoor discussion replaces the outdoor component.",
+     "evidenceQuote": "we will hold its discussion in the gallery",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its discussion will move indoors.",
+      "B. Every festival activity will be cancelled.",
+      "C. Participants will go to the sports centre."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Its discussion will move indoors.",
+      "Its discussion will move indoors."
+     ]
+    },
+    {
+     "id": "exam23-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Sketching participants should bring a __________.",
+     "explanation": "Pencils can be borrowed, but notebooks cannot.",
+     "evidenceQuote": "bring your own notebook",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "notebook"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Available public toilets are behind the __________.",
+     "explanation": "The sports-centre facilities are closed.",
+     "evidenceQuote": "public toilets behind the theatre",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "theatre"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Programme changes are posted on the __________.",
+     "explanation": "The noticeboard gives the current arrangements.",
+     "evidenceQuote": "Check the noticeboard before your start time",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "noticeboard"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Match each route with its main focus. Choose A–F.",
+     "options": [
+      "A. Noticing the local soundscape",
+      "B. Identifying species of birds",
+      "C. Examining entrances and street boundaries",
+      "D. Improving formal drawing technique",
+      "E. Exploring activities connected to the river",
+      "F. Using drawing to observe spaces"
+     ]
+    },
+    {
+     "from": 15,
+     "to": 17,
+     "instruction": "Questions 15–17. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 18,
+     "to": 20,
+     "instruction": "Questions 18–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam23-lp3",
+   "partNumber": 3,
+   "title": "Choosing an observation site for a planning assignment",
+   "contextDescription": "Two students discuss how to investigate the use of a small public square.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "1526B7A5-F9C7-552C-A418-501A6A625476",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "I've been looking at possible squares for our planning assignment. The large one outside the station would be interesting, but it would be difficult to observe all the entrances at once. I think Mill Square is more manageable. We could see the whole area from the low wall beside the café without standing in anyone's way."
+    },
+    {
+     "id": "3D281ACE-7811-5AF4-800E-B80533B264BB",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "I agree about the size, but wouldn't sitting beside the café influence what we notice? We might focus on customers using its tables and miss people just crossing the square. We should draw the boundaries of the area before we start, so we're both recording the same space."
+    },
+    {
+     "id": "C25A2139-D173-5F3D-9222-81D602DF5AC0",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Good point. Let's include the paved square but exclude the café's private seating. We can still note whether people move between the two, but we shouldn't count a café customer as using public seating. The surface makes that boundary fairly clear: the café has timber decking, while the square is paved."
+    },
+    {
+     "id": "373B698C-7686-5D76-A02D-D0872332F507",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "Our question was whether the square provides places to rest. At first I thought we could count occupied benches and use that to judge demand. But someone might sit on the wall because all the benches are full, or because they prefer the view from there. So counting benches alone would miss other forms of sitting."
+    },
+    {
+     "id": "15E7C99F-0738-5B6D-82E3-DEF7272BA213",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Then let's record the location of each seated person, not just whether a bench is occupied. We can mark locations on a plan. We should avoid guessing ages, though. We'd have no reliable basis for saying a particular person is sixty rather than fifty. We can discuss access needs without assigning everyone to an age group."
+    },
+    {
+     "id": "6E9D7595-E09D-5EA7-9A23-B5ED82045158",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "What about people who stand still? They might be resting too, but we can't tell from a brief observation. I suggest we record standing separately and explain that the category describes a visible position, not a person's intention. That would be more accurate than calling everyone who stops a resting visitor."
+    },
+    {
+     "id": "473296C8-C751-5D60-AFB4-7BD074AA2BD8",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Yes. And we need a rule for recording movement. If somebody walks across, leaves and then returns, we can't necessarily recognise them. Let's count crossings as events rather than claiming to count unique individuals. That means our report must say crossings, not visitors. The distinction sounds small but changes what the total means."
+    },
+    {
+     "id": "E16C177B-8957-532F-8CCD-20E07722F308",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "For timing, I can manage Tuesday morning and Wednesday afternoon. Those are the only periods when neither of us has a class. We'd originally considered Friday evening, but there's a temporary food market then. That would make the square quite different from its normal arrangement."
+    },
+    {
+     "id": "34944BF0-AEC5-5617-8FC8-0224F7FE54D7",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "We should actually mention the market as a limitation. Two daytime sessions won't tell us how well the space works during events. We don't have to pretend our sample covers every use. Maybe the report could end with questions for a later study rather than a complete redesign of the square."
+    },
+    {
+     "id": "1CB090D8-B011-58BF-8F0C-2EE7DD16C376",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "Before the main sessions, could we do a ten-minute trial together? We might find that the categories overlap or that the plan is too small to mark clearly. I'd rather discover that now than after collecting two hours of notes we can't compare."
+    },
+    {
+     "id": "13F2A496-93E3-5090-987C-2A7DACCAB132",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Definitely. We'll each make independent records during the trial, then compare them. If our descriptions differ, we'll refine the definitions. We should also record the weather, because it may affect whether people choose exposed seats. We can't isolate its effect from two visits, but readers should know the conditions."
+    },
+    {
+     "id": "B0441127-5564-599F-A366-EB68CCD8C321",
+     "speaker": "Jonah",
+     "accent": "en-CA",
+     "text": "And no photographs of individual people. A sketch of the empty layout should be enough for the report. If we want opinions, we can propose interviews as future work instead of approaching people without having prepared a clear consent process. For this assignment, careful observation is already a substantial task."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam23-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why does Amira prefer Mill Square to the station square?",
+     "explanation": "Mill Square can be observed as a whole.",
+     "evidenceQuote": "We could see the whole area from the low wall",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Its whole area can be observed from one place.",
+      "B. Its café has agreed to provide interviews.",
+      "C. It attracts a larger number of visitors."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Its whole area can be observed from one place.",
+      "Its whole area can be observed from one place."
+     ]
+    },
+    {
+     "id": "exam23-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What will the students exclude from their observation area?",
+     "explanation": "They distinguish private café space from public space.",
+     "evidenceQuote": "exclude the café's private seating",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The paved part of the square.",
+      "B. People crossing the square.",
+      "C. The café’s private seating area."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The café’s private seating area.",
+      "The café’s private seating area."
+     ]
+    },
+    {
+     "id": "exam23-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What weakness do they identify in counting occupied benches?",
+     "explanation": "People may use walls or other locations to sit.",
+     "evidenceQuote": "counting benches alone would miss other forms of sitting",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Benches cannot be seen from their position.",
+      "B. People may sit somewhere other than benches.",
+      "C. The council has removed all the benches."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. People may sit somewhere other than benches.",
+      "People may sit somewhere other than benches."
+     ]
+    },
+    {
+     "id": "exam23-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why will the movement total refer to crossings rather than visitors?",
+     "explanation": "They cannot reliably identify people who return.",
+     "evidenceQuote": "we can't necessarily recognise them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Returning people cannot reliably be identified.",
+      "B. Only visitors entering the café will be counted.",
+      "C. Everyone will be asked to cross the square twice."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Returning people cannot reliably be identified.",
+      "Returning people cannot reliably be identified."
+     ]
+    },
+    {
+     "id": "exam23-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "How will they treat the absence of evening observations?",
+     "explanation": "They will state the limits rather than claim to cover evening uses.",
+     "evidenceQuote": "We should actually mention the market as a limitation.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Assume evening use matches daytime use.",
+      "B. Replace the daytime sample with market photographs.",
+      "C. Explain that some uses fall outside their sample."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Explain that some uses fall outside their sample.",
+      "Explain that some uses fall outside their sample."
+     ]
+    },
+    {
+     "id": "exam23-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Mark seated people’s positions on a __________.",
+     "explanation": "A plan records where sitting takes place.",
+     "evidenceQuote": "We can mark locations on a plan.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "plan"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Record standing as a separate __________.",
+     "explanation": "Standing is an observable category, not proof of intention.",
+     "evidenceQuote": "the category describes a visible position",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "category"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Friday evening has a temporary food __________.",
+     "explanation": "The market changes the ordinary layout.",
+     "evidenceQuote": "there's a temporary food market then",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "market"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Conduct a short __________ before the main sessions.",
+     "explanation": "The trial checks categories and recording tools.",
+     "evidenceQuote": "do a ten-minute trial together",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trial"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Also note the __________ during observations.",
+     "explanation": "Weather may affect seating choices.",
+     "evidenceQuote": "We should also record the weather",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weather"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam23-lp4",
+   "partNumber": 4,
+   "title": "Describing a neighbourhood through routes",
+   "contextDescription": "A lecturer introduces the use of route descriptions in urban observation.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "D5CD9E01-62BA-53AF-9D32-39C874A68568",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A neighbourhood can be described as a collection of buildings, but it can also be understood through the routes people use. A route connects activities in a sequence: leaving home, taking a child to school, buying food and reaching a workplace. Looking at that sequence helps us see why a small obstacle can matter much more than it appears to on a map. Today's lecture considers what route descriptions can reveal, and where their limitations lie."
+    },
+    {
+     "id": "6892CABB-FF78-55C4-A452-9C28D765509D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Begin by distinguishing distance from effort. Two routes of equal length may involve different demands. One could include steps, difficult crossings or an exposed stretch without shelter. Another might be longer on paper but easier for a person carrying shopping. A route description should therefore include obstacles, not merely the total distance. It should also avoid assuming that every traveller has the same physical capacity, equipment or reason for being there."
+    },
+    {
+     "id": "A1FECC83-0338-532E-8178-2DC3229295DE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The next issue is time. A crossing that causes little difficulty at midday may be uncomfortable during the school run. A passage that is available during business hours may be locked in the evening. Record when an observation was made, and distinguish a permanent feature from a temporary condition. A parked delivery vehicle can block a path, but a single encounter does not establish that the path is always blocked. Repeated observations or other information would be needed for that conclusion."
+    },
+    {
+     "id": "0640ED0E-BFA5-51D5-84A8-9AF99DE40ACB",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Routes also involve decisions. At a junction, a person may choose the familiar way even if a sign suggests a shorter alternative. An observer can record which direction was taken, but should not infer the person's reason from movement alone. If reasons matter to the project, an interview may be appropriate. Its questions should allow people to describe their own priorities rather than invite agreement with the planner's preferred explanation."
+    },
+    {
+     "id": "5E1B2ACD-0936-54C9-BCC7-C3CFA7C70604",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A useful recording method combines a simple map with a narrative. The map shows where something happened; the narrative explains the sequence and the conditions. Either on its own can lose important information. A map covered in symbols may be difficult to interpret without a key, while a written account may leave the reader uncertain about the location. The two should refer to each other clearly, using consistent names for the same places."
+    },
+    {
+     "id": "F05813C0-F057-5683-9B91-143003AC97B9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Be cautious when comparing accounts. Someone who walks the route daily may describe a confusing turn as obvious because they no longer need to think about it. A newcomer may notice the missing sign immediately. Neither account should simply replace the other. Their difference can reveal how familiarity affects the experience. The planner's task is to understand that difference, not to decide that the experienced person must provide the correct description of everyone's journey."
+    },
+    {
+     "id": "F1877023-9126-5D0F-A94D-D48241BA87D1",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A route study can generate possible improvements, but these proposals need checking. Removing a barrier in one place might change deliveries or access somewhere else. Before recommending a permanent alteration, consider who uses the space for purposes not included in the initial account. This is particularly important when the person who supplied the account is only one of several groups affected. Listening carefully to one experience should expand the enquiry rather than close it."
+    },
+    {
+     "id": "1A80C0F4-3A7F-5FF1-B4BB-BC291F1C0821",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, explain the scope of the work. A detailed account of one journey is valuable as an account of that journey. It does not automatically represent every resident. State which routes were examined, under what conditions and whose experiences remain absent. Then the reader can use the account appropriately. Even a photograph of an open gate should be accompanied by information about when access was checked, rather than being offered as proof that the route is permanently available. Route descriptions become most useful when they connect the physical arrangement of a place with the practical activities that people are trying to carry out."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam23-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "A route links activities into a __________.",
+     "explanation": "The order of activities matters.",
+     "evidenceQuote": "A route connects activities in a sequence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sequence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Distinguish distance from the __________ required.",
+     "explanation": "Equal distances can involve different physical demands.",
+     "evidenceQuote": "distinguishing distance from effort",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "effort"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Record route __________ as well as total length.",
+     "explanation": "Barriers can determine practical accessibility.",
+     "evidenceQuote": "include obstacles, not merely the total distance",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "obstacles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Separate lasting features from a temporary __________.",
+     "explanation": "A temporary obstruction is not a permanent feature.",
+     "evidenceQuote": "a permanent feature from a temporary condition",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "condition"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "To investigate reasons for choices, consider an __________.",
+     "explanation": "Movement alone does not reveal motives.",
+     "evidenceQuote": "an interview may be appropriate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "interview"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Combine a map with a __________.",
+     "explanation": "The narrative supplies sequence and conditions.",
+     "evidenceQuote": "a simple map with a narrative",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "narrative"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "A map’s symbols may require a __________.",
+     "explanation": "A key explains the symbols.",
+     "evidenceQuote": "difficult to interpret without a key",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "key"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Comparing users can reveal the effect of __________.",
+     "explanation": "Newcomers and regular users may notice different difficulties.",
+     "evidenceQuote": "reveal how familiarity affects the experience",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "familiarity"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Check proposals before recommending a permanent __________.",
+     "explanation": "A change may affect other uses of the space.",
+     "evidenceQuote": "Before recommending a permanent alteration",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "alteration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "At the end, state the __________ of the investigation.",
+     "explanation": "Readers need to know which journeys and conditions were included.",
+     "evidenceQuote": "explain the scope of the work",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scope"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam23-rp1",
+   "passageNumber": 1,
+   "title": "The routes between places",
+   "discipline": "Urban Observation",
+   "paragraphs": [
+    "A map can show two destinations close together while revealing little about the journey between them. The straight line connecting a home and a shop is a geometric relationship, not necessarily a usable route. A fence, a missing crossing or a change in level may require a substantial detour. To understand access, therefore, it is necessary to consider the network of available connections rather than simply the positions of destinations. This distinction is especially important when a plan appears to provide a facility nearby but leaves the practical route to it unresolved.",
+    "Imagine a neighbourhood with a school on the opposite side of a busy road from its housing. Measuring the distance from each front door to the school gate would not establish how easy the journey is. The location of a suitable crossing matters, as does the route through the school grounds. A gate that is physically close but kept locked cannot be treated as an entrance available to pupils. A useful description must distinguish what can be seen on a drawing from what people are actually permitted and able to use at the relevant time.",
+    "Distance is not the only cost of travelling. A path with frequent obstacles may require more attention or effort than a longer unobstructed alternative. Consider someone pushing a loaded trolley. A short flight of steps could make the direct route impractical, even though a person walking without equipment might scarcely notice it. The point is not that one route is universally better. It is that a comparison needs an explicit account of the user and the task. Without that account, the phrase 'most convenient route' can conceal rather than resolve a disagreement.",
+    "Connections may also change over a day. A passage through a shopping building might shorten a walk while the shops are open but become unavailable after closing. An observation made during the afternoon would not reveal this limitation unless opening arrangements were checked separately. Temporary conditions matter as well: a delivery can occupy a narrow path for a short period. These examples call for careful descriptions of when a route was examined. They do not justify assuming that a single obstruction is permanent or that an apparently clear route will always remain clear.",
+    "The attractiveness of a route can influence its use without changing its physical length. Shelter, places to pause and opportunities to see other people may be relevant to a walker. However, these preferences should not simply be assigned to users by an observer. A person might choose a shaded street because it is familiar, because a friend lives there or for a reason unrelated to shade. Observing the chosen route establishes a movement, not its motivation. If the reason is central to an investigation, the person may need to be asked directly.",
+    "A route description can combine several kinds of record. A plan locates a crossing or barrier; a written account describes what happened there; a note of the time supplies context. Linking these records makes an account easier to interpret than presenting them separately. Consistent labels are important. If one record calls a place the south gate and another calls it the garden entrance, a reader may assume that two different locations are involved. Clear naming is a modest task, but it can determine whether someone else can follow the observation at all.",
+    "Changes to a connection need to be considered beyond the immediate inconvenience they address. Opening a gate could help pedestrians while creating new responsibilities for the people maintaining the site. Moving a crossing might benefit one route and lengthen another. These possibilities are not arguments against improvement. They are reasons to identify the groups affected and examine the proposed arrangement as part of a network. An intervention at one point can alter the practical choices available elsewhere, so its value cannot always be judged by looking only at the original obstacle.",
+    "A careful access study is consequently more than a search for the shortest line. It describes connections, permissions, conditions and the activities people need to carry out. Even a small study can be useful if its scope is clear. An account of a journey with a trolley need not claim to represent every journey in the neighbourhood. It can identify a particular difficulty, explain how it was observed and suggest what further information would help. Understanding access begins with destinations, but it becomes practical only when the routes between them are taken seriously."
+   ],
+   "questions": [
+    {
+     "id": "exam23-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "A short straight-line distance guarantees that a usable route is available.",
+     "explanation": "The geometric relationship does not establish accessibility.",
+     "evidenceQuote": "not necessarily a usable route",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam23-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "A locked gate cannot be counted as an entrance available to pupils.",
+     "explanation": "A visible gate is not necessarily usable.",
+     "evidenceQuote": "A gate that is physically close but kept locked cannot be treated as an entrance available to pupils.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam23-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The hypothetical school permits deliveries only before lessons begin.",
+     "explanation": "No delivery policy for the school is specified.",
+     "evidenceQuote": "Imagine a neighbourhood with a school",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam23-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "A route’s suitability may depend on what a traveller is carrying or using.",
+     "explanation": "Equipment can make a direct route impractical.",
+     "evidenceQuote": "someone pushing a loaded trolley",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam23-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "An afternoon observation alone always reveals a passage’s evening availability.",
+     "explanation": "Availability after closing needs additional checking.",
+     "evidenceQuote": "would not reveal this limitation unless opening arrangements were checked separately",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam23-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Choosing a shaded street proves that shade motivated the choice.",
+     "explanation": "The observed choice does not establish its reason.",
+     "evidenceQuote": "for a reason unrelated to shade",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam23-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Most residents in the example neighbourhood prefer to walk alone.",
+     "explanation": "No preference survey or majority view is given.",
+     "evidenceQuote": "these preferences should not simply be assigned to users",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam23-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Access should be considered through a __________ of connections.",
+     "explanation": "Access depends on available links, not just destinations.",
+     "evidenceQuote": "the network of available connections",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "network"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A comparison should identify both the user and the __________.",
+     "explanation": "Convenience depends on what the traveller needs to do.",
+     "evidenceQuote": "the user and the task",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "task"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "A note of the observation time supplies __________.",
+     "explanation": "Timing helps readers interpret conditions.",
+     "evidenceQuote": "a note of the time supplies context",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "context"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Different names for one location can confuse a __________.",
+     "explanation": "Consistent location names prevent misunderstanding.",
+     "evidenceQuote": "a reader may assume that two different locations are involved",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reader"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "A proposed change may create maintenance __________.",
+     "explanation": "New access arrangements can bring operational duties.",
+     "evidenceQuote": "creating new responsibilities for the people maintaining the site",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "responsibilities"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "A limited study remains useful when its __________ is clear.",
+     "explanation": "The study should explain what it covers.",
+     "evidenceQuote": "if its scope is clear",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scope"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 740,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam23-rp2",
+   "passageNumber": 2,
+   "title": "A timetable as a model",
+   "discipline": "Transport Planning",
+   "paragraphs": [
+    "A timetable appears to be a list of departures and arrivals, yet it is also a model of how a transport service is expected to work. It connects journeys, vehicles, stopping places and the time needed to move between them. The printed page shows only selected results of those relationships. A passenger may reasonably care most about one departure, while an operator must consider whether the same vehicle can complete an earlier journey in time to begin it. Reading the page as a set of independent promises can therefore hide the connections on which those promises depend.",
+    "One basic distinction is between travel time and the interval between services. A bus may take twenty minutes to reach its destination, while departures from the starting point occur every fifteen minutes. These figures answer different questions. The first concerns a journey; the second concerns how frequently an opportunity to start that journey is offered. Neither tells a passenger how long they will actually wait without further information about when they arrive at the stop. Even simple numbers need an explanation of what is being measured before they can support a practical decision.",
+    "Connections introduce another layer. Imagine two routes that meet at an interchange. If an arriving service is scheduled to reach it one minute before the other departs, the paper connection may look efficient. In practice, passengers could need time to leave one vehicle, find the right platform and board the next. A connection is not just a relationship between two clock readings. It is an activity carried out by people in a particular place. Its adequacy depends partly on the layout and on the needs of those expected to transfer.",
+    "A schedule also has to accommodate variation. Traffic, boarding and other circumstances can affect how long a journey takes. Adding spare time can reduce the chance of a small delay spreading, but that time has consequences. Passengers already on board may experience it as an unnecessarily long pause if the vehicle arrives early. The planning question is not whether every pause is wasteful or every buffer is desirable. It is where an allowance serves a clear purpose and how its effect is balanced against the time experienced by users.",
+    "Comparisons between published and observed journeys require care. A service that reaches its final stop on time may still have left an intermediate stop early, inconveniencing a passenger who arrived according to the timetable. Conversely, an average delay at the terminus may conceal substantial differences between individual trips. A useful evaluation identifies which event was measured and describes the distribution of results when that matters. One headline figure cannot establish that every passenger encountered the same conditions or that all stages of the journey performed equally well.",
+    "Information design affects whether the model can be used. A timetable may distinguish weekdays from weekends through a small symbol whose meaning appears elsewhere on the page. An experienced passenger may interpret it instantly; an unfamiliar user may not notice it. Testing should therefore involve an actual task, such as finding a possible departure on a specified day. Asking whether the page looks clear is a weaker test of practical understanding. It is possible to approve the appearance of a timetable and still choose a service that does not run on the required day.",
+    "Changes require coordination across the places where information is available. A revised departure may appear on a website while an older version remains at a stop. The contradiction creates a problem that cannot be solved merely by making each version attractive. Somebody must identify the affected records, update them and make the current arrangement clear. Temporary changes need particular attention because they can outlast the notice intended to explain them. A useful information system records when an alteration begins, when it is expected to end and who will check whether the original schedule has resumed.",
+    "The timetable is therefore best understood as a public account of a planned system, rather than a complete description of every journey that will occur. Its usefulness depends on operational assumptions, sensible allowances and information people can interpret. This does not make precise departure times meaningless. It explains why precision on the page must be supported by a process behind it. When evaluating a timetable, the appropriate question is not simply whether the numbers are neatly arranged, but whether the relationships they express provide a credible and usable plan for travel."
+   ],
+   "questions": [
+    {
+     "id": "exam23-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B distinguishes two different measures of time.",
+     "evidenceQuote": "travel time and the interval between services",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Two measures that answer different questions",
+      "Two measures that answer different questions"
+     ]
+    },
+    {
+     "id": "exam23-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C explains the practical requirements of transfers.",
+     "evidenceQuote": "an activity carried out by people in a particular place",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Allowing people to make a connection",
+      "Allowing people to make a connection"
+     ]
+    },
+    {
+     "id": "exam23-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D examines the trade-offs of time allowances.",
+     "evidenceQuote": "Adding spare time can reduce the chance of a small delay spreading",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. The benefits and costs of spare time",
+      "The benefits and costs of spare time"
+     ]
+    },
+    {
+     "id": "exam23-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E discusses interpreting performance measures.",
+     "evidenceQuote": "identifies which event was measured",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Interpreting service performance carefully",
+      "Interpreting service performance carefully"
+     ]
+    },
+    {
+     "id": "exam23-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F discusses testing whether passengers can use the information.",
+     "evidenceQuote": "Testing should therefore involve an actual task",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Finding out whether information can be used",
+      "Finding out whether information can be used"
+     ]
+    },
+    {
+     "id": "exam23-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G concerns keeping published versions consistent.",
+     "evidenceQuote": "Changes require coordination",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Coordinating updates across information sources",
+      "Coordinating updates across information sources"
+     ]
+    },
+    {
+     "id": "exam23-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H summarises the timetable as a practical model.",
+     "evidenceQuote": "a public account of a planned system",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Understanding the plan behind the printed times",
+      "Understanding the plan behind the printed times"
+     ]
+    },
+    {
+     "id": "exam23-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does a fifteen-minute departure interval indicate?",
+     "explanation": "Frequency differs from travel time and actual waiting time.",
+     "evidenceQuote": "how frequently an opportunity to start that journey is offered",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The duration of the complete journey.",
+      "B. How often a journey can be started.",
+      "C. The exact wait experienced by every passenger.",
+      "D. The time needed to change platforms."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. How often a journey can be started.",
+      "How often a journey can be started."
+     ]
+    },
+    {
+     "id": "exam23-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why may a one-minute interchange be unsuitable?",
+     "explanation": "The transfer requires physical actions beyond comparing clock times.",
+     "evidenceQuote": "need time to leave one vehicle, find the right platform and board the next",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Both routes must use the same vehicle.",
+      "B. Passengers never read connecting timetables.",
+      "C. Published arrivals are always inaccurate.",
+      "D. People need time to carry out the transfer."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. People need time to carry out the transfer.",
+      "People need time to carry out the transfer."
+     ]
+    },
+    {
+     "id": "exam23-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the example of an early departure demonstrate?",
+     "explanation": "Terminal punctuality does not establish performance at every stop.",
+     "evidenceQuote": "may still have left an intermediate stop early",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A final-stop result can conceal problems elsewhere.",
+      "B. Early running benefits every passenger.",
+      "C. Intermediate stops should not appear in timetables.",
+      "D. Arrival measurements are impossible to collect."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A final-stop result can conceal problems elsewhere.",
+      "A final-stop result can conceal problems elsewhere."
+     ]
+    },
+    {
+     "id": "exam23-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Extra time may prevent a small __________ from spreading.",
+     "explanation": "A buffer can limit knock-on effects.",
+     "evidenceQuote": "a small delay spreading",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "delay"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "A symbol may distinguish weekdays from __________.",
+     "explanation": "Users must know which days a service operates.",
+     "evidenceQuote": "distinguish weekdays from weekends",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weekends"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Published precision needs support from an underlying __________.",
+     "explanation": "The schedule requires operational support.",
+     "evidenceQuote": "supported by a process behind it",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "process"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 736,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. Interpreting service performance carefully",
+      "ii. Allowing people to make a connection",
+      "iii. Replacing scheduled services with private vehicles",
+      "iv. Coordinating updates across information sources",
+      "v. Two measures that answer different questions",
+      "vi. Finding out whether information can be used",
+      "vii. Why every journey should have equal demand",
+      "viii. The benefits and costs of spare time",
+      "ix. Understanding the plan behind the printed times"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam23-rp3",
+   "passageNumber": 3,
+   "title": "Who decides what a public square is for?",
+   "discipline": "Urban Policy",
+   "paragraphs": [
+    "A public square may be described as an open space for everyone, but that description does not resolve how it should be used. One person wants somewhere quiet to sit, another hopes to organise a market, and a third needs a direct route between streets. These uses can coexist at some times and compete at others. In my view, the purpose of planning is not to discover one activity that defines the square forever. It is to make a reasonable arrangement between uses while recognising that the people affected do not all have equal opportunities to express their preferences.",
+    "The visible popularity of an event is relevant, but it is not a complete measure of public value. Imagine a square filled with visitors during a weekend market. The crowd demonstrates that the event attracts people who can and wish to attend. It does not show what happened to someone who normally rests there, or whether a person avoiding crowds stayed away. I would resist the claim that the busiest arrangement must be the best one. Absence is harder to observe than attendance, yet it may still reveal a consequence worth investigating.",
+    "This does not mean that temporary events should be excluded. A market or performance can introduce people to a place and support forms of social contact that do not occur during an ordinary day. The problem arises when a temporary use gradually becomes the default without a clear decision about what it replaces. If setup, the event itself and clearing away occupy most of a weekend, describing the activity as lasting only a few hours understates its effect. An honest account includes the surrounding work as well as the advertised performance or trading period.",
+    "Consultation can improve decisions, provided it is more than an invitation to endorse a finished proposal. Asking residents to choose between two complete layouts may leave the underlying priorities unexamined. It can be more useful to ask what people need to do in the space and what difficulties they currently face. I believe such questions should precede the detailed drawing. A preferred solution can then be evaluated against stated needs, rather than defended because considerable effort has already been invested in producing an attractive image of it.",
+    "Nor should consultation be treated as a simple vote in which the largest group automatically receives everything it wants. A requirement for a continuous accessible path is not equivalent to a preference for one colour of paving. Some needs concern whether a person can use the place at all. Others concern how enjoyable a particular use might be. Both deserve attention, but they may justify different levels of priority. In my view, explaining these distinctions is part of fair planning, even when it does not produce an outcome that pleases every participant.",
+    "A temporary trial can provide useful evidence. Movable seats or a limited event schedule may reveal practical effects before permanent work begins. But a trial is not automatically representative. The weather, publicity and novelty may affect who attends and how they behave. An evaluation should therefore explain the conditions and identify what remains uncertain. It should also give people a way to report difficulties. Counting those who used the trial arrangement, without considering people who could not use it, repeats the same limitation as judging a market entirely by its crowd.",
+    "Maintenance belongs in the decision too. A proposal that depends on moving furniture every morning requires someone with the time, resources and authority to do that work. If this support is absent, the intended flexibility may exist only in the plan. I would rather see an achievable arrangement than an elaborate promise that cannot be maintained. This is not an argument for permanent simplicity regardless of need. It is a demand that the practical responsibilities of an arrangement be considered alongside the experience it is intended to create.",
+    "Public squares cannot avoid choices about priorities. The reasonable aim is to make those choices explicit, test assumptions where possible and remain open to revision. Different uses may need different times, different areas or limits that protect access for others. In my view, success is not demonstrated by a photograph of a busy square on its best day. It is demonstrated by an arrangement that people can understand, that includes important needs and that has a credible way to respond when its effects differ from what was expected."
+   ],
+   "questions": [
+    {
+     "id": "exam23-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "A single activity should permanently define the purpose of every square.",
+     "explanation": "The writer favours arrangements between uses.",
+     "evidenceQuote": "not to discover one activity that defines the square forever",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam23-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "A large crowd alone establishes that an arrangement is best for the public.",
+     "explanation": "Attendance does not capture excluded or displaced users.",
+     "evidenceQuote": "I would resist the claim that the busiest arrangement must be the best one.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam23-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Temporary events can create worthwhile opportunities for social contact.",
+     "explanation": "The writer recognises benefits of events.",
+     "evidenceQuote": "support forms of social contact that do not occur during an ordinary day",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam23-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer has organised a market in the square where they live.",
+     "explanation": "The market is hypothetical; no personal organising experience is stated.",
+     "evidenceQuote": "Imagine a square filled with visitors",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam23-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Questions about users’ needs should come before detailed designs.",
+     "explanation": "Needs should guide solutions, not be considered after a finished design.",
+     "evidenceQuote": "such questions should precede the detailed drawing",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam23-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer recommends making every trial last at least twelve months.",
+     "explanation": "No minimum trial duration is specified.",
+     "evidenceQuote": "A temporary trial can provide useful evidence.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam23-R33",
+     "number": 33,
+     "format": "Matching Sentence Endings",
+     "prompt": "An account of the duration of a market should",
+     "explanation": "Setup and clearing away are part of the impact.",
+     "evidenceQuote": "includes the surrounding work",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. give every decision to the largest group.",
+      "B. recognise that different needs can warrant different priorities.",
+      "C. identify who can carry out the necessary work.",
+      "D. consider only people who attended the event.",
+      "E. include time spent preparing and clearing the site.",
+      "F. state the circumstances and limits of the evidence."
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. include time spent preparing and clearing the site.",
+      "include time spent preparing and clearing the site."
+     ]
+    },
+    {
+     "id": "exam23-R34",
+     "number": 34,
+     "format": "Matching Sentence Endings",
+     "prompt": "A fair consultation process should",
+     "explanation": "Access requirements and aesthetic preferences may merit different priorities.",
+     "evidenceQuote": "explaining these distinctions is part of fair planning",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. give every decision to the largest group.",
+      "B. recognise that different needs can warrant different priorities.",
+      "C. identify who can carry out the necessary work.",
+      "D. consider only people who attended the event.",
+      "E. include time spent preparing and clearing the site.",
+      "F. state the circumstances and limits of the evidence."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. recognise that different needs can warrant different priorities.",
+      "recognise that different needs can warrant different priorities."
+     ]
+    },
+    {
+     "id": "exam23-R35",
+     "number": 35,
+     "format": "Matching Sentence Endings",
+     "prompt": "An evaluation of a temporary trial should",
+     "explanation": "The trial’s limits should remain visible.",
+     "evidenceQuote": "explain the conditions and identify what remains uncertain",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. give every decision to the largest group.",
+      "B. recognise that different needs can warrant different priorities.",
+      "C. identify who can carry out the necessary work.",
+      "D. consider only people who attended the event.",
+      "E. include time spent preparing and clearing the site.",
+      "F. state the circumstances and limits of the evidence."
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. state the circumstances and limits of the evidence.",
+      "state the circumstances and limits of the evidence."
+     ]
+    },
+    {
+     "id": "exam23-R36",
+     "number": 36,
+     "format": "Matching Sentence Endings",
+     "prompt": "A plan depending on daily furniture movement should",
+     "explanation": "Operational support is necessary for the plan to work.",
+     "evidenceQuote": "requires someone with the time, resources and authority",
+     "skillTag": "sentence_endings",
+     "options": [
+      "A. give every decision to the largest group.",
+      "B. recognise that different needs can warrant different priorities.",
+      "C. identify who can carry out the necessary work.",
+      "D. consider only people who attended the event.",
+      "E. include time spent preparing and clearing the site.",
+      "F. state the circumstances and limits of the evidence."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. identify who can carry out the necessary work.",
+      "identify who can carry out the necessary work."
+     ]
+    },
+    {
+     "id": "exam23-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Compared with attendance, __________ is more difficult to observe.",
+     "explanation": "Non-attendance may hide exclusion or displacement.",
+     "evidenceQuote": "Absence is harder to observe than attendance",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Absence"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "An accessible __________ may be a requirement rather than a decorative preference.",
+     "explanation": "The path concerns whether someone can use the square.",
+     "evidenceQuote": "a continuous accessible path",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "path"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "A trial may attract people because of its __________.",
+     "explanation": "Novelty can limit how representative trial behaviour is.",
+     "evidenceQuote": "publicity and novelty may affect who attends",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "novelty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam23-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Planning decisions should remain open to __________.",
+     "explanation": "The arrangement should respond to observed effects.",
+     "evidenceQuote": "remain open to revision",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "revision"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 731,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Complete each sentence with the correct ending, A–F.",
+     "options": [
+      "A. give every decision to the largest group.",
+      "B. recognise that different needs can warrant different priorities.",
+      "C. identify who can carry out the necessary work.",
+      "D. consider only people who attended the event.",
+      "E. include time spent preparing and clearing the site.",
+      "F. state the circumstances and limits of the evidence."
+     ]
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam23-w1",
+  "title": "How residents reached a town-centre library",
+  "visualType": "Table",
+  "instructions": "The table shows the percentages of visitors to a town-centre library using four forms of transport in 2010, 2018 and 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "B2EE1E9E-308C-52BF-A0C7-34058519A9D7",
+    "series": "2010",
+    "category": "Walking",
+    "value": 24.0,
+    "unit": "%"
+   },
+   {
+    "id": "146C2297-B435-5B36-AD4A-A8C73CDE0740",
+    "series": "2010",
+    "category": "Bicycle",
+    "value": 8.0,
+    "unit": "%"
+   },
+   {
+    "id": "0751A2EF-8CD6-58A4-90E8-648F4DAC5327",
+    "series": "2010",
+    "category": "Public transport",
+    "value": 18.0,
+    "unit": "%"
+   },
+   {
+    "id": "D4F500C1-ECF5-5F37-9524-893B6BCDCA6F",
+    "series": "2010",
+    "category": "Car",
+    "value": 50.0,
+    "unit": "%"
+   },
+   {
+    "id": "81F045BA-8B60-525D-AF3E-B44597C9203D",
+    "series": "2018",
+    "category": "Walking",
+    "value": 29.0,
+    "unit": "%"
+   },
+   {
+    "id": "2751F4C9-01ED-5AE5-9E29-012460A0FCB2",
+    "series": "2018",
+    "category": "Bicycle",
+    "value": 12.0,
+    "unit": "%"
+   },
+   {
+    "id": "578A3A70-69AD-5D7B-BE49-36DFF7C4FFAA",
+    "series": "2018",
+    "category": "Public transport",
+    "value": 24.0,
+    "unit": "%"
+   },
+   {
+    "id": "4C990992-986E-5EB3-A5EF-0C55562AEC20",
+    "series": "2018",
+    "category": "Car",
+    "value": 35.0,
+    "unit": "%"
+   },
+   {
+    "id": "B72A81C7-27B7-5338-8827-E3EE12EA7F26",
+    "series": "2026",
+    "category": "Walking",
+    "value": 34.0,
+    "unit": "%"
+   },
+   {
+    "id": "7AA97521-8AA5-514A-90A6-87F2674F125A",
+    "series": "2026",
+    "category": "Bicycle",
+    "value": 16.0,
+    "unit": "%"
+   },
+   {
+    "id": "20E97490-4CC4-5ABF-A2EA-739B0BB89588",
+    "series": "2026",
+    "category": "Public transport",
+    "value": 28.0,
+    "unit": "%"
+   },
+   {
+    "id": "F20DBB75-6A26-5022-8535-094C760C6A2C",
+    "series": "2026",
+    "category": "Car",
+    "value": 22.0,
+    "unit": "%"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Car use fell from half of visits to just over a fifth, while all other modes increased.",
+   "Walking became the largest category by 2026, and cycling remained the smallest throughout."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam23-w2",
+  "title": "Competing uses of street space",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Urban Planning",
+  "promptText": "Local authorities should give more road space to pedestrians and cyclists, even if this reduces the space available for cars. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam23-spk",
+  "theme": "Places to spend time locally",
+  "part1Questions": [
+   "Do you often spend time in your town centre?",
+   "What do you usually notice when walking somewhere?",
+   "Do you prefer busy streets or quieter routes?",
+   "Is it easy to find somewhere to sit near your home?",
+   "What kind of local event would you like to attend?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an outdoor public place where you have spent time with other people.",
+   "bulletPoints": [
+    "where the place is",
+    "who you were with",
+    "what you did there",
+    "and explain how the place suited your activity"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How should towns balance different uses of public space?",
+   "Why might people disagree about changes to a street?",
+   "Should local events always be free to attend?",
+   "What makes a place accessible to a wide range of people?",
+   "How can local authorities find out whether a new public space works well?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening organisations and arrangements are fictional. Reading examples are analytical and hypothetical, not accounts of invented studies. Writing chart figures are a fictional examination dataset.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

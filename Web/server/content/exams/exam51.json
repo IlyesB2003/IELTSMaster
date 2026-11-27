@@ -1,0 +1,1927 @@
+{
+ "id": "exam51",
+ "examNumber": 51,
+ "pool": "mock",
+ "title": "Mock Exam 51: Water Beneath Our Feet",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Water Beneath Our Feet",
+ "listeningParts": [
+  {
+   "id": "exam51-lp1",
+   "partNumber": 1,
+   "title": "Ordering a rainwater container for a garden",
+   "contextDescription": "A customer asks a community garden supplier about a rainwater container and delivery.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5925804F-B5EB-5804-9DFE-8BAB99410A8E",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "Green Yard Supplies, this is Patrick. We provide garden containers, compost bins and small hand tools. If you're asking about a delivery already booked, please have the order number ready. For a new order, I can explain the choices before you use our payment page."
+    },
+    {
+     "id": "EEB15827-C448-50E9-9991-E2422F1C7DD2",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "It's a new order. I'd like a container to collect rainwater from the roof of my garden shed. The garden isn't large, and I don't want to buy something that blocks the path. Your leaflet lists several sizes, but I'm not sure whether the dimensions include the tap."
+    },
+    {
+     "id": "F4A07976-7AE2-5EAB-88F2-CCB3E2E96FBE",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "The drawing shows the body of the container. You need extra room to reach the tap and remove the lid. For a narrow space, the slim model is probably worth considering. Its capacity is one hundred and twenty litres. The round model holds two hundred litres, but it is considerably wider."
+    },
+    {
+     "id": "5DE739D0-A8C2-5AE4-85F9-A050A511DFA2",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "The slim one sounds suitable. I don't need a very large amount at a time, because I mostly grow things in pots. Does it come with the part that connects it to the pipe from the shed roof, or would I need to order that separately?"
+    },
+    {
+     "id": "2EB17A69-10FB-5EEF-88B7-BD6F0725B01C",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "The connector is included. You'll need to check that it suits the pipe you already have; the measurements are on the product page. We don't carry out installation. We can deliver the container and demonstrate how its lid locks, but you should arrange any work on the shed with a suitably competent person."
+    },
+    {
+     "id": "DC5C00EB-26F7-5D68-9879-11290CB288C0",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "That's clear. I had seen a green container in a photograph, but I would prefer grey if that's available. It would be less noticeable beside the shed. My neighbour has a black one, which seems rather large for our kind of garden."
+    },
+    {
+     "id": "9B68E4B6-0AC6-5783-99EE-2BA4082AA979",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "Grey is available in the slim size. Green is temporarily out of stock, so your preference works well. The container costs forty-eight pounds. Delivery within the town is seven pounds, making fifty-five pounds altogether. The larger model is sixty-four pounds before delivery, but that isn't the one we're discussing."
+    },
+    {
+     "id": "9D3FB0C5-7390-5F77-8F82-98442193C6F6",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "I'll choose the grey slim container, then. Could it arrive on Tuesday? I work from home that morning. The old leaflet says deliveries are on Tuesdays and Thursdays, though I realise the routes might have changed since it was printed."
+    },
+    {
+     "id": "B8B73D5E-955C-572F-B322-EA931B30580E",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "They have changed. We now deliver to your part of town on Wednesday, between one and four. We can leave the container in a safe place if you aren't there, but we need written permission. It can't be left on the pavement, because that would obstruct people using the street."
+    },
+    {
+     "id": "C0D16FA0-C314-51E6-B471-4FDF26BAB6D5",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Wednesday is all right if you can put it behind the gate. The gate isn't locked during the day. Please don't leave it in front of the garage, because my partner needs to get the car out. The side passage leads directly to the garden."
+    },
+    {
+     "id": "D39D074F-FACD-58AF-B24B-AFB2AE42B5F3",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "I'll note that. We ask customers to send a photograph of the access route if it is unusually narrow, just to check that the packaged container will fit. You don't need to include anyone in the photograph. A picture of the passage and gate is sufficient."
+    },
+    {
+     "id": "B75274BE-5F49-59F8-8325-0C79A30A5DBA",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "I can do that. My surname is Calder, C-A-L-D-E-R, and the house number is thirty-one. Do I need to pay everything now, or can I give the driver the money when the delivery arrives? I normally use a card."
+    },
+    {
+     "id": "8CF4DF96-D328-5403-9F2A-D73D61836871",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "Please pay through the link before delivery. Drivers don't take payments. The confirmation includes a reference for any follow-up enquiry. Keep the packaging until you've checked the container, and contact us if anything is missing. Don't sign a note saying that you've inspected it if you haven't had a chance to do so."
+    },
+    {
+     "id": "74E13A99-E20E-5ACF-B226-D01D325CAFFF",
+     "speaker": "Customer",
+     "accent": "en-AU",
+     "text": "Thank you. One final question: is the collected water intended for drinking? I assume it is just for the garden, but I want to make sure that everyone in the household understands what the container is for."
+    },
+    {
+     "id": "EDB7884E-4164-5532-8740-9C0155899A80",
+     "speaker": "Supplier",
+     "accent": "en-GB",
+     "text": "This product is supplied for garden use, not drinking water. There is a label on the lid stating that. Keep the lid properly secured, and follow the supplied care instructions. I'll send the product details and payment link now, so you can review everything before confirming the order."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam51-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Chosen model has a capacity of __________ litres.",
+     "explanation": "The slim model holds 120 litres; 200 refers to the round model.",
+     "evidenceQuote": "one hundred and twenty litres",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "120"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "The __________ for the existing pipe is included.",
+     "explanation": "The customer must still check its suitability.",
+     "evidenceQuote": "The connector is included.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "connector"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Chosen colour: __________.",
+     "explanation": "Grey is requested and available.",
+     "evidenceQuote": "Grey is available in the slim size.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Grey"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Total cost including delivery: £__________.",
+     "explanation": "£48 is the item price; £55 includes delivery.",
+     "evidenceQuote": "fifty-five pounds altogether",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "55",
+      "fifty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Delivery day for this area: __________.",
+     "explanation": "The old Tuesday/Thursday schedule no longer applies.",
+     "evidenceQuote": "on Wednesday, between one and four",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Safe delivery location: behind the __________.",
+     "explanation": "The garage entrance must remain clear.",
+     "evidenceQuote": "put it behind the gate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Confirm that the delivery will fit by photographing its access __________.",
+     "explanation": "The picture helps check whether the packaged item will fit.",
+     "evidenceQuote": "a photograph of the access route",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "route"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Customer’s surname: __________.",
+     "explanation": "The name is stated and spelled.",
+     "evidenceQuote": "My surname is Calder, C-A-L-D-E-R",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Calder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Payment must be made through the __________.",
+     "explanation": "Drivers do not accept payment.",
+     "evidenceQuote": "pay through the link before delivery",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "link"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Keep the __________ until the item has been checked.",
+     "explanation": "Packaging should remain until inspection.",
+     "evidenceQuote": "Keep the packaging until you've checked the container",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "packaging"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam51-lp2",
+   "partNumber": 2,
+   "title": "Visiting the water-learning trail",
+   "contextDescription": "A guide welcomes visitors to an educational trail at a fictional water-learning centre.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "A41BE8C4-061C-589E-8C43-1E7F14A5A5BB",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Welcome to the water-learning trail. The route is designed to explain how we can think about water in a landscape, including water that is not visible from the path. It is not a tour of a working treatment plant, and you won't be asked to enter any operational buildings. The examples here are teaching exhibits, so please read the labels before assuming that a model represents the exact system beneath this site."
+    },
+    {
+     "id": "67429881-05EB-5EE6-9412-91D6B8635EBE",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Your first stop is the Rain Garden. It is beside the entrance, but it is easily missed because people look towards the larger pond. The display explains the difference between water running over a surface and water entering the ground. The purpose is not to claim that every garden can absorb every storm. Look particularly at the overflow route shown on the diagram. It illustrates why a design needs to consider where water goes when its intended storage space is full."
+    },
+    {
+     "id": "6ECA543C-9113-510C-8C35-CC9BFDD7FCDB",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Next is the Groundwater Window, which is actually an indoor model. Transparent sides let you see water moving through different materials. You can press a button to start the demonstration, but please wait for it to finish before pressing again. The colours in the model make movement visible; they are not meant to suggest that underground water naturally has those colours. A volunteer will be there if you want to ask about the model's limitations."
+    },
+    {
+     "id": "62FF0E94-A442-57C3-82BC-FDB549F7F3DF",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The third stop is the Listening Bench beside the stream. This is not an audio recording station. We ask you simply to sit for a moment and notice what you can hear, including sounds that don't come from the water. There are questions on the panel to prompt discussion. It is a place to reflect on the experience of the landscape rather than an instrument for measuring stream flow. Keep the bench accessible by leaving bags on the ground at your own feet."
+    },
+    {
+     "id": "6C31CA8F-CCE0-503A-A46E-B54D31CEB27B",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The final exhibit is the Weather Log. Here you can compare different kinds of weather record and see why a figure needs a date, a place and an explanation of how it was obtained. Some numbers on the screen are invented examples for the activity; they are clearly labelled. You shouldn't copy them into a project as if they were measurements from this centre. The point is to practise interpreting a record, not to provide a local climate dataset."
+    },
+    {
+     "id": "98FDEC5E-815E-5FA4-9568-B7E8D9DC07A9",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The complete trail takes about an hour at an unhurried pace. The leaflet suggests forty minutes, but that allows little time to read or discuss the exhibits. You can return to the centre sooner if you need to. The shortcut is marked with blue arrows. The longer return path has several steps, which are shown on the access map, so check that before deciding which way to come back."
+    },
+    {
+     "id": "7C996AB1-B905-5F81-816F-88E0396862AD",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Please keep to the marked paths. The grass beside the stream looks firm, but parts of it can be soft after rain. Children must remain with their accompanying adult. The stream is not a paddling area, even if the water looks shallow. If you drop something beyond the barrier, tell a member of staff rather than climbing over to retrieve it. We would much rather help with a lost hat than have someone put themselves at risk."
+    },
+    {
+     "id": "745FBE68-55D6-5788-9B70-101B08581F7B",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Toilets are available in the main building, and a drinking-water refill point is beside the classroom. The small kiosk on the trail sells snacks but does not provide a refill tap. At the end, you can leave a comment on a card at reception. We'd particularly welcome examples of labels that were confusing or questions the exhibits did not answer. Please return the access map if you borrowed a laminated copy; the ordinary paper leaflet is yours to keep."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam51-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Rain Garden",
+     "explanation": "The exhibit distinguishes runoff and infiltration.",
+     "evidenceQuote": "water running over a surface and water entering the ground",
+     "skillTag": "matching",
+     "options": [
+      "A. Understanding how to interpret recorded information",
+      "B. Making underground movement visible in a model",
+      "C. Testing the quality of drinking water",
+      "D. Recording the speed of a stream electronically",
+      "E. Distinguishing surface flow from entry into the ground",
+      "F. Reflecting on the sounds and experience of a place"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Distinguishing surface flow from entry into the ground",
+      "Distinguishing surface flow from entry into the ground"
+     ]
+    },
+    {
+     "id": "exam51-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Groundwater Window",
+     "explanation": "The model illustrates subsurface movement.",
+     "evidenceQuote": "see water moving through different materials",
+     "skillTag": "matching",
+     "options": [
+      "A. Understanding how to interpret recorded information",
+      "B. Making underground movement visible in a model",
+      "C. Testing the quality of drinking water",
+      "D. Recording the speed of a stream electronically",
+      "E. Distinguishing surface flow from entry into the ground",
+      "F. Reflecting on the sounds and experience of a place"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Making underground movement visible in a model",
+      "Making underground movement visible in a model"
+     ]
+    },
+    {
+     "id": "exam51-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Listening Bench",
+     "explanation": "The stop invites sensory reflection rather than measurement.",
+     "evidenceQuote": "reflect on the experience of the landscape",
+     "skillTag": "matching",
+     "options": [
+      "A. Understanding how to interpret recorded information",
+      "B. Making underground movement visible in a model",
+      "C. Testing the quality of drinking water",
+      "D. Recording the speed of a stream electronically",
+      "E. Distinguishing surface flow from entry into the ground",
+      "F. Reflecting on the sounds and experience of a place"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Reflecting on the sounds and experience of a place",
+      "Reflecting on the sounds and experience of a place"
+     ]
+    },
+    {
+     "id": "exam51-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Weather Log",
+     "explanation": "The exhibit teaches interpretation of weather records.",
+     "evidenceQuote": "practise interpreting a record",
+     "skillTag": "matching",
+     "options": [
+      "A. Understanding how to interpret recorded information",
+      "B. Making underground movement visible in a model",
+      "C. Testing the quality of drinking water",
+      "D. Recording the speed of a stream electronically",
+      "E. Distinguishing surface flow from entry into the ground",
+      "F. Reflecting on the sounds and experience of a place"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Understanding how to interpret recorded information",
+      "Understanding how to interpret recorded information"
+     ]
+    },
+    {
+     "id": "exam51-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why does the guide mention the model’s colours?",
+     "explanation": "The colours are a visual aid, not a natural property claim.",
+     "evidenceQuote": "they are not meant to suggest that underground water naturally has those colours",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Visitors must choose the most attractive colour.",
+      "B. The colours show contamination at this site.",
+      "C. The visual aid should not be mistaken for a natural feature."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The visual aid should not be mistaken for a natural feature.",
+      "The visual aid should not be mistaken for a natural feature."
+     ]
+    },
+    {
+     "id": "exam51-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What should visitors understand about some numbers in the Weather Log?",
+     "explanation": "The numbers are labelled illustrative data.",
+     "evidenceQuote": "invented examples for the activity",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are labelled examples rather than local measurements.",
+      "B. They show the centre’s current climate.",
+      "C. They were all measured by visiting children."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They are labelled examples rather than local measurements.",
+      "They are labelled examples rather than local measurements."
+     ]
+    },
+    {
+     "id": "exam51-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "What feedback does the centre especially welcome?",
+     "explanation": "The centre wants to improve clarity and coverage.",
+     "evidenceQuote": "labels that were confusing or questions the exhibits did not answer",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Suggestions for commercial souvenirs.",
+      "B. Examples of unclear or incomplete explanations.",
+      "C. Rankings of visitors against one another."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Examples of unclear or incomplete explanations.",
+      "Examples of unclear or incomplete explanations."
+     ]
+    },
+    {
+     "id": "exam51-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Shortcut arrows are __________.",
+     "explanation": "The blue arrows identify the short return route.",
+     "evidenceQuote": "marked with blue arrows",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "The drinking-water refill point is beside the __________.",
+     "explanation": "The kiosk does not have a refill tap.",
+     "evidenceQuote": "beside the classroom",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "classroom"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Return a borrowed laminated __________.",
+     "explanation": "The paper leaflet can be kept.",
+     "evidenceQuote": "return the access map",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "map"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Match each exhibit with its main purpose. Choose A–F.",
+     "options": [
+      "A. Understanding how to interpret recorded information",
+      "B. Making underground movement visible in a model",
+      "C. Testing the quality of drinking water",
+      "D. Recording the speed of a stream electronically",
+      "E. Distinguishing surface flow from entry into the ground",
+      "F. Reflecting on the sounds and experience of a place"
+     ]
+    },
+    {
+     "from": 15,
+     "to": 17,
+     "instruction": "Questions 15–17. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 18,
+     "to": 20,
+     "instruction": "Questions 18–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam51-lp3",
+   "partNumber": 3,
+   "title": "Planning an assignment about groundwater diagrams",
+   "contextDescription": "Two students discuss how to evaluate an educational explanation of groundwater.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "649E1454-026B-5409-816E-4E4D8DEF2674",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "For the assignment, I thought we could compare two groundwater diagrams from the course pack. One shows a big blue area under a village, and the other shows water between grains of material. I understood the second one more easily, but perhaps that's because we'd already had the lecture when I looked at it."
+    },
+    {
+     "id": "109EE2F6-544E-512C-A765-A7D23C0C98F4",
+     "speaker": "Ethan",
+     "accent": "en-US",
+     "text": "That's important. We shouldn't just ask which picture people like. We need to find out what they think it represents. Someone might prefer the first image because it's simple, yet imagine an underground lake where the diagram is only trying to show a saturated layer. Our question could focus on that interpretation."
+    },
+    {
+     "id": "70E67FEE-EC90-5DC2-98C3-EAD4BA8FC2A4",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "Then we could ask volunteers to explain where they think the water is. We shouldn't tell them the answer first. Otherwise, we'd be checking whether they remembered our explanation rather than whether the diagram communicated it. The task needs neutral wording, not a question that points directly to spaces between grains."
+    },
+    {
+     "id": "5251467A-AB59-52EC-A018-AB2980D5DC52",
+     "speaker": "Ethan",
+     "accent": "en-US",
+     "text": "We also need to decide who to ask. If everyone is taking the same geology module, they may already know what the picture is intended to mean. Perhaps we should recruit students from another subject, while making clear that this isn't a test of their intelligence. The difficulty might be in the diagram rather than in the reader."
+    },
+    {
+     "id": "74BCCE55-7541-5997-80EA-06CC38A6ACD8",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "I can ask the tutor about recruitment. We'll need consent, and we shouldn't collect names on the answer sheet. A participant number is enough. We can ask whether they have studied groundwater before, since that background is relevant, but we don't need their grades or other personal information."
+    },
+    {
+     "id": "AFA7745E-E2F1-575A-99F8-C7E1C66ABB0C",
+     "speaker": "Ethan",
+     "accent": "en-US",
+     "text": "What about the order? If everyone sees the same diagram first, the first one may affect how they explain the second. We could divide volunteers into two groups and reverse the order. With a small class project that won't establish a universal result, but it would avoid one obvious problem in the comparison."
+    },
+    {
+     "id": "FD15A1B7-B798-58F8-87CA-58504033960A",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "For answers, I'd prefer short spoken explanations, because people may find it easier to point to parts of the image while talking. But recording voices creates extra responsibilities. We could take written notes instead and ask the person whether our summary reflects their intended meaning. That would also make the material easier to anonymise."
+    },
+    {
+     "id": "F2278BA6-12F7-5D55-8F96-649BB20AADFD",
+     "speaker": "Ethan",
+     "accent": "en-US",
+     "text": "Let's keep the questions limited. Where is the water, what do the arrows mean, and what does the boundary represent? If we ask ten different things, we may not have time to analyse the responses properly. We could use a separate sheet to note questions the diagram raises, without treating those as incorrect answers."
+    },
+    {
+     "id": "657C10D5-1248-527D-BB72-80F069EE9B29",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "We should check our own understanding with the tutor before creating categories for the responses. I don't want us to mark an explanation wrong merely because it uses different words from the textbook. The categories should relate to the idea being communicated, and ambiguous cases should stay visible in the report."
+    },
+    {
+     "id": "4B1DC875-1E88-5887-A633-1C89F0A3A0AE",
+     "speaker": "Ethan",
+     "accent": "en-US",
+     "text": "For the conclusion, we can explain which misunderstandings appeared and suggest a revised caption. We shouldn't announce that one diagram is best for every audience. A diagram that works well in an introductory lesson might not provide enough detail for someone studying a particular aquifer."
+    },
+    {
+     "id": "18D6C9D7-F390-5218-9F4C-ABCB8659D18A",
+     "speaker": "Mina",
+     "accent": "en-GB",
+     "text": "Before recruiting anyone, let's try the task with one classmate who is willing to comment on the instructions. We won't include that pilot response in the main comparison. It will tell us whether the questions make sense and whether our notes contain enough information to interpret the answers later. Then we can revise the sheet rather than changing it halfway through the actual interviews. The trial may also show whether participants need more space to explain an idea that does not fit our initial expectations."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam51-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why does Mina hesitate to judge the second diagram by her own experience?",
+     "explanation": "Her background knowledge had changed.",
+     "evidenceQuote": "we'd already had the lecture when I looked at it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The second diagram has no labels.",
+      "B. Her earlier lecture may have influenced understanding.",
+      "C. The tutor has already ranked both images."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Her earlier lecture may have influenced understanding.",
+      "Her earlier lecture may have influenced understanding."
+     ]
+    },
+    {
+     "id": "exam51-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What do they want to investigate rather than visual preference?",
+     "explanation": "They want the meaning readers infer.",
+     "evidenceQuote": "what they think it represents",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Which colours are cheapest to print.",
+      "B. How quickly volunteers can copy a drawing.",
+      "C. What readers understand the images to represent."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. What readers understand the images to represent.",
+      "What readers understand the images to represent."
+     ]
+    },
+    {
+     "id": "exam51-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why might students from another subject be useful participants?",
+     "explanation": "The geology class may rely on prior knowledge.",
+     "evidenceQuote": "they may already know what the picture is intended to mean",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They may have less prior knowledge of the intended idea.",
+      "B. Their intelligence can be measured more accurately.",
+      "C. They can replace the need for consent."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They may have less prior knowledge of the intended idea.",
+      "They may have less prior knowledge of the intended idea."
+     ]
+    },
+    {
+     "id": "exam51-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why will diagram order be reversed for one group?",
+     "explanation": "Order could influence interpretation.",
+     "evidenceQuote": "the first one may affect how they explain the second",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To make one group finish much earlier.",
+      "B. To reduce an order-related influence.",
+      "C. To ensure every answer uses identical wording."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. To reduce an order-related influence.",
+      "To reduce an order-related influence."
+     ]
+    },
+    {
+     "id": "exam51-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What kind of conclusion will they avoid?",
+     "explanation": "The small study cannot establish universal superiority.",
+     "evidenceQuote": "one diagram is best for every audience",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. A description of misunderstandings observed.",
+      "B. A suggestion for improving a caption.",
+      "C. A claim that one diagram suits all readers."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. A claim that one diagram suits all readers.",
+      "A claim that one diagram suits all readers."
+     ]
+    },
+    {
+     "id": "exam51-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Use neutral __________ for the interpretation task.",
+     "explanation": "Questions should not supply the answer.",
+     "evidenceQuote": "The task needs neutral wording",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wording"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Identify each person using a participant __________.",
+     "explanation": "Names are unnecessary on answer sheets.",
+     "evidenceQuote": "A participant number is enough.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "number"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Written notes should be checked against the participant’s intended __________.",
+     "explanation": "Checking the summary reduces misrepresentation.",
+     "evidenceQuote": "their intended meaning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meaning"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Ask the tutor to check response __________ before analysis.",
+     "explanation": "The categories must reflect accurate conceptual understanding.",
+     "evidenceQuote": "creating categories for the responses",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "categories"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Do not include the __________ response in the main comparison.",
+     "explanation": "The pilot is for testing the procedure.",
+     "evidenceQuote": "that pilot response",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pilot"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam51-lp4",
+   "partNumber": 4,
+   "title": "Storage and movement below the ground",
+   "contextDescription": "A lecturer explains why storing water and transmitting it are different properties of earth materials.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E2E8C6CA-1D83-5A41-B2FD-AB99B8278DFE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "When people first hear about groundwater, they sometimes picture an enormous underground chamber filled with water. Such cavities can exist in particular settings, but that image is not a useful general model. Much groundwater occupies spaces within soil, sediment or rock. Those spaces may lie between grains or within fractures. To understand the material, we need to ask two separate questions: how much space can contain water, and how readily water can move through the connected spaces."
+    },
+    {
+     "id": "60320428-4C0E-5B51-A1EB-822908F5FC99",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The first property is porosity. It concerns the proportion of the material's volume represented by openings. A material can contain numerous small spaces without allowing water to pass through it quickly. That brings us to permeability, which concerns transmission. Connections between openings, their dimensions and the character of the material all matter. A high capacity to hold water is therefore not automatically a high capacity to supply water to a well. Keeping storage and transmission separate prevents a common misunderstanding."
+    },
+    {
+     "id": "0AA0A1C5-497B-579A-8F64-3DA6D1C50153",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Consider an illustrative container filled with coarse, clean gravel. Water can occupy spaces between the pieces, and connected openings can allow movement through the container. Now compare it with a different material containing much smaller openings. The comparison is a way of discussing properties, not a complete model of every geological formation. A real site can contain layers, fractures and variations that a simple classroom container leaves out. The demonstration helps introduce a distinction; it does not replace investigation of the actual ground."
+    },
+    {
+     "id": "5621D9CB-E8B0-5F03-A1CB-B15291769A8B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The water table is another term that needs care. In a simple description, it marks the upper surface of the saturated zone. Below it, the relevant openings are filled with water. Above it, some water may still be present, but the spaces are not necessarily completely saturated. The water table should not be imagined as a fixed horizontal floor beneath an entire region. Its position can vary across a landscape and change over time as water enters and leaves the system."
+    },
+    {
+     "id": "7E554AC1-0DFE-5B3B-9831-97E518B717B9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Recharge refers to water being added to groundwater. Rainfall may contribute after water enters the ground, but not every drop of rain becomes recharge. Some may remain near the surface, leave as runoff or return to the atmosphere. The amount reaching a particular groundwater system depends on the conditions. A diagram with one downward arrow is a simplification, not a statement that the whole rainfall total immediately arrives at depth. The route and the timing can be important to understanding the system."
+    },
+    {
+     "id": "A6D0C74F-6C20-5D31-B497-618F14DF0528",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Discharge is water leaving the groundwater system. A spring can occur where groundwater reaches the land surface. Water can also move towards a stream or be removed through a well. The balance between additions and losses helps explain why a groundwater level may change, but one measurement cannot identify every cause. If we want to interpret a trend, we need to know where and when measurements were made and what other information is available."
+    },
+    {
+     "id": "931CF3E6-FE79-5081-BE0E-7B77EF9B7CA1",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "An aquifer is a body of earth material that can transmit useful quantities of groundwater. The term is not simply another name for any wet rock. Both the material's properties and the practical context matter when considering a supply. A picture showing water beneath a town does not establish that it can be extracted at a desired rate or that its quality suits an intended use. Those are additional questions requiring appropriate evidence rather than assumptions drawn from a coloured area on a map."
+    },
+    {
+     "id": "63FEBBF4-02D0-5D67-9607-58ECA3286EA6",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, use models with their limits in view. A diagram can make an invisible arrangement easier to discuss, especially if its labels distinguish pores, fractures, saturated material and the direction of movement. It becomes misleading when a simplified image is treated as a detailed survey. State what the model is intended to explain, and ask which important features it omits. Understanding begins with a clear distinction between concepts, but responsible interpretation also requires knowing when the actual site demands more information."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam51-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Groundwater may occupy spaces between grains or within __________.",
+     "explanation": "Fractures provide another kind of opening.",
+     "evidenceQuote": "within fractures",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fractures"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "The proportion of openings in a material is its __________.",
+     "explanation": "Porosity concerns available space.",
+     "evidenceQuote": "The first property is porosity.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "porosity"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "The property concerned with transmission is __________.",
+     "explanation": "Permeability concerns movement through material.",
+     "evidenceQuote": "permeability, which concerns transmission",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "permeability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Storage capacity does not automatically establish supply to a __________.",
+     "explanation": "Holding water and delivering it are different.",
+     "evidenceQuote": "supply water to a well",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "well"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "The water table marks the upper surface of the saturated __________.",
+     "explanation": "The term identifies the upper saturated boundary in a simple model.",
+     "evidenceQuote": "the saturated zone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "zone"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Water added to groundwater is called __________.",
+     "explanation": "Recharge adds water to the system.",
+     "evidenceQuote": "Recharge refers to water being added to groundwater.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Recharge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Some rainfall leaves as surface __________.",
+     "explanation": "Not all rainfall becomes groundwater recharge.",
+     "evidenceQuote": "leave as runoff",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "runoff"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Water leaving the groundwater system is termed __________.",
+     "explanation": "Discharge describes an outgoing flow.",
+     "evidenceQuote": "Discharge is water leaving the groundwater system.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Discharge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Groundwater reaching the surface may produce a __________.",
+     "explanation": "A spring is one form of groundwater discharge.",
+     "evidenceQuote": "A spring can occur where groundwater reaches the land surface.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "spring"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "A coloured map does not establish whether water __________ is suitable.",
+     "explanation": "Suitability requires evidence beyond the map.",
+     "evidenceQuote": "its quality suits an intended use",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quality"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam51-rp1",
+   "passageNumber": 1,
+   "title": "An underground resource without an underground lake",
+   "discipline": "Hydrogeology",
+   "paragraphs": [
+    "The word groundwater can suggest a buried reservoir with a visible shoreline and a roof of rock. This is not the usual general picture. Groundwater commonly occupies openings in earth materials, including spaces between sediment grains and fractures in rock. The water is present within a material rather than necessarily beneath an empty chamber. Recognising this distinction changes the questions an investigator asks. Instead of simply searching for a hidden body of open water, the investigator considers the properties of the material and how those properties permit storage and movement.",
+    "Two concepts help explain these properties. Porosity describes the share of a material's volume made up of openings. Permeability concerns how readily water can pass through it. Openings need suitable connections for transmission, so a material containing water is not automatically able to deliver it readily. This distinction can be illustrated with classroom materials, but the illustration should not be mistaken for a complete account of a geological formation. Natural materials may vary within a small area and contain structures that a simple container demonstration cannot represent.",
+    "The upper boundary of a saturated zone is commonly described as the water table. Below this boundary, the relevant openings are filled with water; above it, water may occur without filling all the available space. The boundary is not a permanent level that lies at the same depth everywhere. Its position can differ across a landscape and vary over time. A measurement of depth therefore needs a location and a date. Without those, a statement that water is 'near the surface' lacks information necessary for a useful comparison with another observation.",
+    "Water entering a groundwater system is termed recharge. Rain can contribute to recharge after it infiltrates the ground, but rainfall and recharge are not interchangeable totals. Water may run over the surface, remain in the soil or return to the atmosphere before reaching a particular saturated zone. The pathways and timing depend on local conditions. A drawing that represents rainfall with a single arrow can introduce the idea, yet the arrow should not imply that every drop travels immediately to the same depth. A simplified direction is not a measurement of quantity or speed.",
+    "Groundwater also leaves the system through discharge. A spring is one place where groundwater emerges at the land surface. Discharge can contribute to surface water, and wells can remove groundwater for use. An observed water level reflects a system with additions and losses, not simply the amount of rain on the day of measurement. Explaining a change may require records extending beyond one visit. The fact that a level fell between two observations does not by itself identify which process was responsible or establish that the same trend will continue indefinitely.",
+    "An aquifer is an earth-material body capable of transmitting useful quantities of groundwater. The practical significance lies in transmission as well as presence. A map showing a water-bearing layer does not, on its own, establish the rate at which a particular well could supply water. Nor does it establish water quality. Those are separate questions. A resource may be physically present while its suitability for an intended purpose remains uncertain. This is why descriptions of groundwater should distinguish what has been measured from what has merely been inferred from a general geological picture.",
+    "Imagine a village considering a new well. A sensible preliminary map might identify locations for further investigation rather than announce a guaranteed supply. The map could help organise questions about material, depth and existing information. It should not replace the work needed to assess a particular location. This hypothetical example illustrates a broader point about invisible resources: the ease of drawing a continuous coloured area can create a stronger impression of certainty than the available observations justify. The visual representation needs an explanation of its basis and of important gaps in knowledge.",
+    "Groundwater is therefore best understood through connected concepts rather than a single dramatic image. Storage space, transmission, recharge and discharge describe different aspects of a system. A clear explanation keeps those aspects related without treating them as identical. It can make an unseen process understandable while still acknowledging that each site has particular conditions. The aim of an introductory model is to support better questions. Its success should be judged by whether readers understand what further evidence is needed, not by whether they can imagine a perfectly simple underground world."
+   ],
+   "questions": [
+    {
+     "id": "exam51-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Groundwater commonly occupies openings within earth materials.",
+     "explanation": "The material itself contains water-filled spaces.",
+     "evidenceQuote": "occupies openings in earth materials",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam51-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Any material that contains water must transmit it readily.",
+     "explanation": "Storage does not guarantee effective transmission.",
+     "evidenceQuote": "not automatically able to deliver it readily",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam51-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The water table is always at one fixed depth throughout a landscape.",
+     "explanation": "Its position varies spatially and over time.",
+     "evidenceQuote": "Its position can differ across a landscape",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam51-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Rainfall totals and recharge totals are interchangeable.",
+     "explanation": "Not all rainfall reaches groundwater.",
+     "evidenceQuote": "rainfall and recharge are not interchangeable totals",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam51-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Groundwater beneath the hypothetical village moves mainly through fractures rather than spaces between grains.",
+     "explanation": "The village’s specific geological openings are not described.",
+     "evidenceQuote": "Imagine a village considering a new well.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam51-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "A spring can be a place where groundwater reaches the surface.",
+     "explanation": "A spring is a discharge location.",
+     "evidenceQuote": "groundwater emerges at the land surface",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam51-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Water from the proposed village well would need treatment for excess minerals.",
+     "explanation": "The water’s composition and treatment requirements are not given.",
+     "evidenceQuote": "considering a new well",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam51-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Porosity describes the volume share occupied by __________.",
+     "explanation": "Porosity concerns spaces in the material.",
+     "evidenceQuote": "volume made up of openings",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "openings"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "A depth measurement needs a location and a __________.",
+     "explanation": "The time of observation matters.",
+     "evidenceQuote": "a location and a date",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "date"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Water leaving a groundwater system is called __________.",
+     "explanation": "Discharge is an outgoing flow.",
+     "evidenceQuote": "leaves the system through discharge",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "discharge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "A water-bearing-layer map does not establish water __________.",
+     "explanation": "Quality needs separate evidence.",
+     "evidenceQuote": "Nor does it establish water quality.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quality"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "A preliminary map may guide further __________.",
+     "explanation": "The map can support enquiry without guaranteeing a supply.",
+     "evidenceQuote": "locations for further investigation",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "investigation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "An introductory model should encourage better __________.",
+     "explanation": "The model should guide further reasoning.",
+     "evidenceQuote": "support better questions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "questions"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 728,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam51-rp2",
+   "passageNumber": 2,
+   "title": "Where groundwater joins the daylight",
+   "discipline": "Spring Hydrology",
+   "paragraphs": [
+    "A spring makes an underground process visible. Water that has travelled through earth materials emerges at the surface, sometimes as a distinct flowing outlet and sometimes as a less concentrated seep. The emergence can be easy to see, but the system supplying it extends beyond that visible point. A spring is therefore not simply a small surface feature that can be understood by examining its outlet. Its flow connects a place that people can visit with storage and movement elsewhere in the ground, including areas where water originally entered the system.",
+    "Springs form where geological conditions allow groundwater to reach the surface. A change in the relationship between the water table and the land can bring saturated material into contact with open air. Fractures or more permeable routes may concentrate the movement. In other settings, pressure helps drive water through an opening. These are different arrangements, so the appearance of one spring should not be used as a universal diagram. The visible outlet is a consequence of the underground setting, and two similar-looking outlets may receive water through different paths and from different contributing areas.",
+    "The response to rain also varies. Water can move relatively directly through some openings, whereas other parts of a system store and release it more gradually. A spring's flow may therefore change quickly in some circumstances or remain more persistent in others. The rain falling beside an outlet is not necessarily the only water that matters. Recharge may occur in another part of the landscape. This helps explain why understanding a spring requires attention to its contributing area rather than only the small patch of ground where the water becomes visible.",
+    "Discharge depends partly on the condition of the groundwater system. Changes in recharge can affect the amount of water available, while groundwater withdrawals can reduce levels or pressure and alter spring flow. These connections do not mean that every change at every spring has one identical cause. They do mean that a spring cannot always be managed as an isolated pool. An action some distance away may affect the water emerging at its outlet. The relevant distance and timing depend on the pathways and storage involved, not merely on a straight line drawn across a surface map.",
+    "The water's composition carries another part of the story. Spring water is not automatically pure because it comes from underground. Its quality can reflect the water entering the system, the materials it contacts and the time spent along its route. Dissolved substances may occur naturally, while substances introduced by human activities may also enter groundwater. Clear appearance alone cannot establish suitability for drinking. Evaluating that use requires appropriate assessment of quality. A pleasant-looking outlet and a long history of local use are not substitutes for evidence about the water being supplied now.",
+    "Where groundwater emerges, it can support living communities that depend on the water's flow or chemical characteristics. Some springs contribute to streams; others sustain small wet areas in a drier surrounding landscape. Their ecological importance cannot necessarily be judged by the size of the visible outlet. A modest emergence can maintain conditions that are uncommon nearby. If flow or quality changes, the consequences may extend beyond the immediate point where water appears. Considering the outlet and the receiving habitat together reveals a connection that a simple inventory of water volumes might overlook.",
+    "This relationship helps explain why protecting a spring may require work in its recharge area. Caring only for the bank beside the outlet can leave important pathways of pressure unaddressed. For example, a hypothetical community might improve a spring-side path while remaining unaware of changes where recharge occurs. The path could benefit visitors without solving the separate problem affecting the water supply. The example does not establish what action any particular spring needs. It illustrates why visible maintenance and protection of an underground connection answer different questions, even when both are useful.",
+    "Springs thus connect landscape, geology and ecology in a form that people can observe directly. The emerging water offers evidence of an underground system, but it does not reveal every property of that system at a glance. Understanding comes from relating the outlet to recharge, pathways, storage and the places receiving its flow. This broader view avoids two misleading simplifications: that a spring is merely a self-contained pool, or that all underground origins guarantee the same water quality. What appears at one point on the surface belongs to a larger and changing set of relationships."
+   ],
+   "questions": [
+    {
+     "id": "exam51-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B explains routes and settings of emergence.",
+     "evidenceQuote": "Springs form where geological conditions allow groundwater to reach the surface.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Several routes by which water reaches the surface",
+      "Several routes by which water reaches the surface"
+     ]
+    },
+    {
+     "id": "exam51-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C discusses recharge pathways and different response times.",
+     "evidenceQuote": "The response to rain also varies.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Different pathways and the pace of response",
+      "Different pathways and the pace of response"
+     ]
+    },
+    {
+     "id": "exam51-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D explains connections affecting discharge.",
+     "evidenceQuote": "groundwater withdrawals can reduce levels or pressure and alter spring flow",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. How changes elsewhere can affect discharge",
+      "How changes elsewhere can affect discharge"
+     ]
+    },
+    {
+     "id": "exam51-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E discusses water quality and its influences.",
+     "evidenceQuote": "Spring water is not automatically pure",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Why underground origin does not guarantee purity",
+      "Why underground origin does not guarantee purity"
+     ]
+    },
+    {
+     "id": "exam51-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F examines ecological roles of spring water.",
+     "evidenceQuote": "support living communities",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Water supporting distinctive habitats",
+      "Water supporting distinctive habitats"
+     ]
+    },
+    {
+     "id": "exam51-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G explains why protection can extend beyond the outlet.",
+     "evidenceQuote": "protecting a spring may require work in its recharge area",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Protection that reaches beyond visible surroundings",
+      "Protection that reaches beyond visible surroundings"
+     ]
+    },
+    {
+     "id": "exam51-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H draws the connected-system explanation together.",
+     "evidenceQuote": "connect landscape, geology and ecology",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Understanding the outlet as part of a connected system",
+      "Understanding the outlet as part of a connected system"
+     ]
+    },
+    {
+     "id": "exam51-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why can two similar-looking spring outlets require different explanations?",
+     "explanation": "Appearance does not establish the underground arrangement.",
+     "evidenceQuote": "different paths and from different contributing areas",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. All springs are isolated from surrounding geology.",
+      "B. Their underground routes and supply areas may differ.",
+      "C. Only their surface colours determine the source.",
+      "D. Similar outlets must have identical recharge rates."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Their underground routes and supply areas may differ.",
+      "Their underground routes and supply areas may differ."
+     ]
+    },
+    {
+     "id": "exam51-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer mention a small outlet in a drier landscape?",
+     "explanation": "Ecological significance need not match visible outlet size.",
+     "evidenceQuote": "maintain conditions that are uncommon nearby",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Small outlets always supply more water than large springs.",
+      "B. Dry landscapes cannot contain groundwater.",
+      "C. Every spring habitat supports the same species.",
+      "D. A modest flow can sustain locally unusual conditions."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. A modest flow can sustain locally unusual conditions.",
+      "A modest flow can sustain locally unusual conditions."
+     ]
+    },
+    {
+     "id": "exam51-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the hypothetical path improvement illustrate?",
+     "explanation": "Visitor access work need not address the source of a water-system problem.",
+     "evidenceQuote": "without solving the separate problem affecting the water supply",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Visible maintenance may not protect the underground connection.",
+      "B. Spring-side paths must never be improved.",
+      "C. Recharge occurs only beneath constructed paths.",
+      "D. Visitor comfort determines spring-water composition."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Visible maintenance may not protect the underground connection.",
+      "Visible maintenance may not protect the underground connection."
+     ]
+    },
+    {
+     "id": "exam51-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "An emergence that is less concentrated may be described as a __________.",
+     "explanation": "A seep is a less concentrated emergence.",
+     "evidenceQuote": "a less concentrated seep",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "seep"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Groundwater __________ may alter spring levels or pressure.",
+     "explanation": "Removing groundwater can affect discharge conditions.",
+     "evidenceQuote": "groundwater withdrawals can reduce levels or pressure",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "withdrawals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The time and materials along a route can influence water __________.",
+     "explanation": "Quality reflects both inputs and underground contact.",
+     "evidenceQuote": "Its quality can reflect the water entering the system, the materials it contacts and the time spent along its route.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quality"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 744,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. How changes elsewhere can affect discharge",
+      "ii. Why every spring responds immediately to rainfall",
+      "iii. Water supporting distinctive habitats",
+      "iv. Several routes by which water reaches the surface",
+      "v. Understanding the outlet as part of a connected system",
+      "vi. Protection that reaches beyond visible surroundings",
+      "vii. Different pathways and the pace of response",
+      "viii. The absence of life around small outlets",
+      "ix. Why underground origin does not guarantee purity"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam51-rp3",
+   "passageNumber": 3,
+   "title": "Planning for shortage before the taps slow down",
+   "discipline": "Water Policy",
+   "paragraphs": [
+    "Planning for a possible water shortage is difficult partly because a precaution can seem unnecessary while supply remains normal. If no immediate problem is visible, people may ask why restrictions, investment or changes in routine should be discussed. In my view, the absence of a current shortage is not sufficient reason to avoid preparation. It is, however, a reason to explain the proposal carefully. A plan should distinguish the evidence for concern from the assumptions used to explore possible futures, rather than present an uncertain scenario as a prediction guaranteed to occur.",
+    "The first task is to define what the plan is intended to protect. A single total for water use may combine essential household needs, discretionary activities and uses that sustain employment or public services. These categories cannot always be separated neatly, but their differences matter. A request for everyone to reduce consumption by the same proportion may look fair while producing very different consequences. I would expect a serious plan to examine the practical effects of its priorities instead of assuming that a uniform numerical rule automatically produces an equitable outcome.",
+    "Information about the system also needs interpretation. A fall in a monitored level may justify concern, but its significance depends on the context and the range of other evidence. Announcing a dramatic figure without explaining what it measures can increase anxiety without improving decisions. Equally, uncertainty should not be used as a convenient reason for doing nothing. In my view, responsible communication explains what is known, what remains uncertain and which actions are reasonable under those conditions. People need a usable account of uncertainty, not either exaggerated confidence or an empty reassurance that everything is complicated.",
+    "Preparation can include actions that are useful under more than one future. Identifying leaks, clarifying responsibilities or improving the way information reaches users may have value even if a severe shortage does not occur. This does not mean every proposed measure is automatically worthwhile. Costs and unintended consequences still require attention. The benefit of preparation should be judged against a clear purpose, not defended merely because it is associated with an important resource. A label such as resilience can express an aim, but it does not replace an explanation of how a particular measure is expected to help.",
+    "Public involvement should occur early enough to influence priorities. People may identify practical difficulties that a technical proposal overlooks: a message delivered only online, a collection point that is difficult to reach or a timetable that conflicts with caring responsibilities. Their experience is relevant evidence about access and implementation. It should not be reduced to a choice of wording after the essential decisions have already been made. I believe authorities also need to explain which suggestions were adopted, which were not and what reasons led to those decisions.",
+    "A plan needs triggers for review, but those triggers should be understandable. If a particular indicator is used to move from advice to stronger measures, users should know why it is relevant and how it is checked. A trigger is a decision rule, not a claim that nature changes abruptly at one exact number. It may be revised when better evidence becomes available. Clear communication about that possibility can prevent a later adjustment from being mistaken for proof that the entire planning process was arbitrary or dishonest from the beginning.",
+    "Responsibilities matter as much as targets. A programme that asks households to save water while leaving reported problems unanswered may undermine its own credibility. Authorities and service providers should make their own commitments visible and provide a way for users to report difficulties. In my view, a modest promise that can be delivered is more valuable than an impressive target with no operational support. This does not justify low ambition. It requires ambitions to be connected to resources, authority and a process for checking whether the work is actually happening.",
+    "Finally, preparation should remain open to evaluation after the immediate concern has passed. If a shortage does not occur, that fact alone does not prove that planning was pointless, just as a difficult season does not prove that every action was effective. The relevant question is whether decisions were reasonable in light of the evidence available and whether the arrangements improved the capacity to respond. A useful review records both achievements and limitations. It turns preparation into a continuing public responsibility rather than a dramatic announcement that disappears when attention moves elsewhere."
+   ],
+   "questions": [
+    {
+     "id": "exam51-R27",
+     "number": 27,
+     "format": "Matching Information",
+     "prompt": "a warning that a shared percentage reduction may have unequal practical effects",
+     "explanation": "B discusses the unequal effects of identical proportional cuts.",
+     "evidenceQuote": "a uniform numerical rule automatically produces an equitable outcome",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam51-R28",
+     "number": 28,
+     "format": "Matching Information",
+     "prompt": "examples of measures that could help under several possible futures",
+     "explanation": "D gives leak identification and communication examples.",
+     "evidenceQuote": "actions that are useful under more than one future",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam51-R29",
+     "number": 29,
+     "format": "Matching Information",
+     "prompt": "a reason to seek public input before essential decisions are final",
+     "explanation": "E explains meaningful public involvement.",
+     "evidenceQuote": "early enough to influence priorities",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "exam51-R30",
+     "number": 30,
+     "format": "Matching Information",
+     "prompt": "an explanation that a review threshold is not a natural physical boundary",
+     "explanation": "F distinguishes a decision trigger from an abrupt natural change.",
+     "evidenceQuote": "nature changes abruptly at one exact number",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "exam51-R31",
+     "number": 31,
+     "format": "Matching Information",
+     "prompt": "a warning against judging preparation only by whether shortage occurs",
+     "explanation": "H considers evaluation after the concern passes.",
+     "evidenceQuote": "that fact alone does not prove that planning was pointless",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "H",
+      "H. H",
+      "H"
+     ]
+    },
+    {
+     "id": "exam51-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Normal supply at present makes all preparation unnecessary.",
+     "explanation": "The writer supports preparation before a current shortage.",
+     "evidenceQuote": "not sufficient reason to avoid preparation",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam51-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Communication should explain both evidence and uncertainty.",
+     "explanation": "Responsible communication includes both.",
+     "evidenceQuote": "what is known, what remains uncertain",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam51-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer considers groundwater levels more reliable than rainfall records as a shortage trigger.",
+     "explanation": "No ranking of groundwater and rainfall indicators is supplied.",
+     "evidenceQuote": "Identifying leaks, clarifying responsibilities",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam51-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Authorities should explain why some public suggestions were not adopted.",
+     "explanation": "The writer wants reasons for consultation outcomes.",
+     "evidenceQuote": "which were not and what reasons led to those decisions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam51-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "A dramatic target is valuable even if nobody can support its implementation.",
+     "explanation": "Operational support is required for a credible commitment.",
+     "evidenceQuote": "an impressive target with no operational support",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam51-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "A scenario should not be confused with a guaranteed __________.",
+     "explanation": "A scenario explores a possibility.",
+     "evidenceQuote": "a prediction guaranteed to occur",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "prediction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "A review trigger is a decision __________.",
+     "explanation": "The trigger guides action rather than defining a natural threshold.",
+     "evidenceQuote": "a decision rule",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rule"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Users need a way to report __________.",
+     "explanation": "Reporting mechanisms make implementation responsive.",
+     "evidenceQuote": "report difficulties",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "difficulties"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam51-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "A useful review records achievements and __________.",
+     "explanation": "The review should preserve a balanced account.",
+     "evidenceQuote": "both achievements and limitations",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "limitations"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 737,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Which paragraph contains the following information? Write the correct letter, A–H."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam51-w1",
+  "title": "Collecting rainwater for a domestic garden",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows an illustrative system for collecting rainwater from a shed roof and using it in a garden. Summarise the information by selecting and reporting the main features. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Rain falls onto the sloping shed roof",
+   "A gutter channels roof water towards a downpipe",
+   "A screen removes leaves before water enters a storage container",
+   "Water accumulates in the covered container",
+   "An overflow pipe carries excess water to a designated garden area",
+   "A gardener fills a watering can from the container tap",
+   "Collected water is applied to garden plants"
+  ],
+  "keyOverviewPoints": [
+   "The system collects roof runoff, screens it and stores it before garden use.",
+   "There are separate outlets for deliberate watering and excess water."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam51-w2",
+  "title": "Responsibility for saving water",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Environment and Public Services",
+  "promptText": "Some people believe that reducing household water use is mainly the responsibility of individuals. Others think governments and water suppliers should take the leading role. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam51-spk",
+  "theme": "Water in daily surroundings",
+  "part1Questions": [
+   "Do you like the sound of rain?",
+   "What do you usually do on a rainy day?",
+   "Is there a fountain or stream near where you live?",
+   "Did you enjoy playing outdoors after rain as a child?",
+   "Do you check the weather before making outdoor plans?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a place where the sound of water is noticeable.",
+   "bulletPoints": [
+    "where the place is",
+    "what produces the sound",
+    "when you have heard it",
+    "and explain what you think of the sound"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people enjoy spending time near water?",
+   "How can public spaces make good use of natural features?",
+   "What information helps people understand local water issues?",
+   "How should authorities communicate uncertain environmental risks?",
+   "Should schools teach more about the systems that supply everyday resources?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening venues, people, arrangements and numerical examples are fictional. Reading background checked against USGS https://www.usgs.gov/water-science-school/science/aquifers-and-groundwater and Utah Geological Survey https://geology.utah.gov/water/groundwater/groundwater-aquifers/ . Spring background also checked against https://www.usgs.gov/water-science-school/science/springs-and-water-cycle , https://www.nps.gov/orgs/1439/groundwater.htm and https://floridadep.gov/springs . No invented studies are presented as evidence. The rainwater diagram is an illustrative domestic system, not installation advice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

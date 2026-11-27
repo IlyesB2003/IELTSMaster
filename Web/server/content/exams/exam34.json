@@ -1,0 +1,2248 @@
+{
+ "id": "exam34",
+ "examNumber": 34,
+ "pool": "mock",
+ "title": "Mock Exam 34: Sports Science, Athletes & the Olympic Games",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Sports Science, Athletes & the Olympic Games",
+ "listeningParts": [
+  {
+   "id": "exam34-lp1",
+   "partNumber": 1,
+   "title": "Booking a fitness test at a sports science centre",
+   "contextDescription": "A man phones a university sports science centre to book a fitness assessment before running his first marathon.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "36C9089D-5BBF-5418-B5EB-6FC297030226",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Northgate University Sports Science Centre, Megan speaking. How can I help you?"
+    },
+    {
+     "id": "AA4C4082-F038-5956-BC39-DF2C501A5C46",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Hi. I saw on your website that members of the public can book fitness tests in your laboratory, and I'd like a bit more information. I'm training for my first marathon in the spring."
+    },
+    {
+     "id": "DC5DB867-80D0-57DD-A335-FC28D3233B17",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely. We offer three assessments for the public. The simplest is the Health Check, which measures your blood pressure, body fat and flexibility. That takes about forty-five minutes. Then there's the Running Profile, where we film you on a treadmill, analyse your technique and record your heart rate at different speeds. And the third is the Endurance Test, which measures how much oxygen your body can use while you exercise. That's the same test our professional athletes do."
+    },
+    {
+     "id": "A879A579-B0D4-596B-A7E6-A31349EBB622",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "How does the Endurance Test actually work?"
+    },
+    {
+     "id": "C7C918C9-7BB8-5006-AA24-03CBAF9A4417",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You wear a mask connected to a machine that analyses the air you breathe out, and you run on the treadmill while the speed and the slope increase every two minutes, until you can't continue. It's hard work, I won't pretend otherwise, but people find the results really useful, because we can give you training zones based on your own heart rate, rather than on a general formula."
+    },
+    {
+     "id": "0D4F923F-E20C-537A-8335-0BD98A2E871C",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That sounds like exactly what I need. How much is it?"
+    },
+    {
+     "id": "1E126F6C-5357-5150-BC39-215EC84D0A95",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The Endurance Test on its own is a hundred and twenty pounds. The Running Profile is eighty, but if you book both together, the total is a hundred and seventy-five, so you'd save twenty-five pounds."
+    },
+    {
+     "id": "CC88BEF5-64BA-5EBB-9878-5494B5FC9A25",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'll just do the Endurance Test for now, I think. I had my running technique checked at a sports shop a few months ago."
+    },
+    {
+     "id": "8F4A7FE9-BE2D-5019-B668-7C05B64A058A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "No problem at all. I should mention that the tests are carried out by our postgraduate students, but always under the supervision of a member of staff. And with your permission, your results may be used anonymously in research projects."
+    },
+    {
+     "id": "1FFD9B81-B465-5A6C-B290-240F274B7B68",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "That's fine with me. When could I come?"
+    },
+    {
+     "id": "7DCE474D-6F20-5139-B13E-C85C76FABEAF",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We do public testing on Tuesday and Friday mornings. The next free slots are Tuesday the fourth at nine o'clock, or Friday the fourteenth at half past ten."
+    },
+    {
+     "id": "6254B83A-FBC4-5753-BE27-6D627D1EAE87",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'm away for work on the fourth, so the fourteenth would be better."
+    },
+    {
+     "id": "F259E392-51B3-51CD-B2AD-D533886DEA58",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Right, I'll put you down for Friday the fourteenth at ten thirty. Now, there are a few things you need to do to prepare. Please don't do any hard training for two days before the test, and don't eat a large meal in the three hours beforehand. Also, avoid coffee on the morning of the test, because caffeine raises your heart rate and can affect the results."
+    },
+    {
+     "id": "693C8631-1563-51D2-82CF-332B104C9276",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Oh, no coffee? That'll be the hardest part! What should I wear?"
+    },
+    {
+     "id": "D3FB2D5B-EFCE-5622-B60A-A90EC4770122",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Normal running clothes and the shoes you usually train in. There are showers and lockers, so bring a towel, and please bring a water bottle as well, although we do have a drinking fountain in the corridor."
+    },
+    {
+     "id": "CEC3F7CC-ACF5-5F7D-AC20-B674CD385BE5",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "And where exactly are you? I've never been to the campus."
+    },
+    {
+     "id": "4F329CC9-5B97-5B7D-B2DE-645EF7840AC3",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We're in the Hamilton Building, right next to the athletics track. If you come by car, use car park C. You'll need a visitor permit, which you can collect from the main reception when you arrive. It's free, but you have to display it on the windscreen."
+    },
+    {
+     "id": "2C678B14-2609-537F-AC79-2DD951426D15",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Great. Do you need my details?"
+    },
+    {
+     "id": "FB6D69B2-6FED-5A9B-AD7B-641050334556",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, please. Could I have your full name?"
+    },
+    {
+     "id": "1E65ACF6-DC31-5C12-B193-7DEA0C238A1F",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "It's Daniel Whitcombe. That's W-H-I-T-C-O-M-B-E."
+    },
+    {
+     "id": "DF10CA26-E33C-5EC8-8C3D-9F9E0DCE60E2",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you, Daniel. And how old are you?"
+    },
+    {
+     "id": "C99A59FA-8FA2-5F40-A29F-8866DE760D10",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I'm thirty-four."
+    },
+    {
+     "id": "DA96E25B-60F7-50B9-AE1E-4F859DAEE402",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "And have you had any injuries or health problems recently? We ask everybody, because the test is quite demanding."
+    },
+    {
+     "id": "5191E7BB-0129-544E-90C2-593960BA8014",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "I had a problem with my ankle last year, but it's completely fine now. I've been running forty kilometres a week without any pain."
+    },
+    {
+     "id": "D26C1E70-C454-50D3-80E0-6B42DD78118C",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Please mention the ankle on the health questionnaire anyway. I'll email the questionnaire to you today, and you need to complete it and bring it with you on the day. Payment is taken when you arrive, by card or cash."
+    },
+    {
+     "id": "20D029F5-97E6-504F-949D-E05D495AA31F",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "Okay. And when do I get the results?"
+    },
+    {
+     "id": "F9001EAC-3B52-511E-A03E-5C9CFBA33DB6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You'll receive a written report within a week, and it includes a twenty-minute meeting with the person who tested you, so they can explain what the numbers mean and how to use them in your training. Is there anything else I can help you with?"
+    },
+    {
+     "id": "15A68130-C08A-525C-B905-1B96A612DBBE",
+     "speaker": "Caller",
+     "accent": "en-US",
+     "text": "No, that's everything. Thanks very much, Megan."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam34-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Assessment chosen: the __________ Test",
+     "explanation": "He chooses the Endurance Test only.",
+     "evidenceQuote": "I'll just do the Endurance Test for now",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Endurance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Treadmill speed and slope increase every __________ minutes",
+     "explanation": "They increase every two minutes.",
+     "evidenceQuote": "the speed and the slope increase every two minutes",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "two",
+      "2"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Cost: £__________",
+     "explanation": "The test alone costs £120.",
+     "evidenceQuote": "The Endurance Test on its own is a hundred and twenty pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£175 is the price for both tests; £80 is the Running Profile.",
+     "options": [],
+     "acceptedAnswers": [
+      "120",
+      "a hundred and twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Tests carried out by __________ students",
+     "explanation": "Postgraduate students do the tests.",
+     "evidenceQuote": "the tests are carried out by our postgraduate students",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "postgraduate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Date: Friday the __________, 10.30 a.m.",
+     "explanation": "He chooses the fourteenth.",
+     "evidenceQuote": "the fourteenth would be better",
+     "skillTag": "dates",
+     "distractorNote": "He is away on the fourth.",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Morning of test: no __________",
+     "explanation": "Caffeine raises heart rate.",
+     "evidenceQuote": "avoid coffee on the morning of the test",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "coffee"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring: a towel and a water __________",
+     "explanation": "He should bring a water bottle.",
+     "evidenceQuote": "please bring a water bottle as well",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "bottle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Location: Hamilton Building, next to the athletics __________",
+     "explanation": "It is next to the track.",
+     "evidenceQuote": "right next to the athletics track",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "track"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Name: Daniel __________",
+     "explanation": "He spells Whitcombe.",
+     "evidenceQuote": "It's Daniel Whitcombe. That's W-H-I-T-C-O-M-B-E.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Whitcombe"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Previous injury to mention: __________",
+     "explanation": "He must mention his ankle.",
+     "evidenceQuote": "Please mention the ankle on the health questionnaire",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "ankle"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "treadmill",
+    "heart rate",
+    "training zones",
+    "questionnaire",
+    "visitor permit"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam34-lp2",
+   "partNumber": 2,
+   "title": "Open day at a national training centre",
+   "contextDescription": "A guide welcomes visitors to an open day at a centre where elite athletes train.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "E42FE359-ADFD-5668-815A-D52E5292A734",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Good morning, everyone, and welcome to the Westvale National Training Centre. My name's Carly, and I'll be your guide this morning. Before we start walking, I'll give you a quick introduction, and then I'll explain what you'll see in each part of the centre."
+    },
+    {
+     "id": "64C0CF30-986E-5DED-BE43-430679972326",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Many visitors are surprised to hear that this site was once an airfield. The runway was closed in the nineteen-nineties, and the centre opened here in 2009. If you look out of the windows on the north side, you can still see the old control tower, which is now used as offices by our coaching staff."
+    },
+    {
+     "id": "DEEDA942-D745-517F-9CF6-64317E2683E8",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "At any one time, around three hundred athletes train here, in twelve different sports. Some of them live on site in the accommodation block, especially the younger ones who have moved here from other parts of the country, but most live nearby and come in every day. The centre is funded partly by the government and partly by money raised through the national lottery, and in return, we open our doors to the public several times a year, as we're doing today."
+    },
+    {
+     "id": "F5C3685C-DB10-50DB-BFA2-39E459374AA0",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "One thing I'd like to stress is that the athletes are working, not performing for visitors. So please don't ask them for photographs or autographs while they're training. If they're happy to talk to you during a break, that's fine, but let them come to you. And you're welcome to take photos of the buildings, but please don't use flash anywhere indoors, because it can distract athletes at important moments, for example when a gymnast is in the air."
+    },
+    {
+     "id": "FFEF9601-E0F7-595F-8D3A-4E68456F7C9B",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "People often ask me what makes a centre like this different from an ordinary gym. The answer is really the support around the athletes. Each athlete has a team that might include a coach, a physiotherapist, a nutritionist and a sports psychologist, and they all share information, so that the training programme can be adjusted quickly if, say, an athlete isn't sleeping well or has a minor injury."
+    },
+    {
+     "id": "3C6A0F48-ABF5-50E9-8F78-83C7BC6F05F8",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Right, let me tell you about the places we'll visit. We'll begin at the hydrotherapy pool. This isn't used for swimming training at all; it's a warm pool where injured athletes do exercises, because the water supports their body weight and reduces the pressure on their joints. You'll be able to see the underwater treadmill, which always gets a lot of attention."
+    },
+    {
+     "id": "81EAB058-DF32-56DB-9360-1A4709E7169F",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "From there we'll go to the biomechanics laboratory. This is where scientists use high-speed cameras and sensors in the floor to measure exactly how athletes move. Today, the scientists will be running a short demonstration, and two volunteers from the group will be able to try the long-jump runway and see their own results on a screen."
+    },
+    {
+     "id": "A7CC66B5-718F-5E19-A104-7140C931210F",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Next is the altitude chamber. This is a sealed room where the amount of oxygen in the air can be reduced, so that athletes can experience conditions similar to being high up in the mountains without leaving the country. For safety reasons, visitors can't go inside, but there's a large window, and one of the physiologists will explain how it works."
+    },
+    {
+     "id": "AE9EE7FA-1368-56C8-ACEA-EFCA7E6C8DFF",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "After that, we'll stop at the performance kitchen. Every athlete's diet is planned individually, according to their sport, their body size and the stage of the season they're in, so meals are prepared here rather than bought from outside. Our chefs will be giving away samples of a recovery smoothie, so you'll get a taste of what the athletes eat. If you have any food allergies, please tell the chefs before you try anything."
+    },
+    {
+     "id": "C08D48A5-0DF0-5563-8AA7-4B63773743D0",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "And we'll finish at the indoor athletics hall, which has a two-hundred-metre track. This is the only part of the centre that local schools and clubs can book, usually in the evenings and at weekends, when our own athletes aren't using it. Information about booking is available at the main reception."
+    },
+    {
+     "id": "14C4B761-2161-5A12-A31B-C7D23119B4CC",
+     "speaker": "Guide",
+     "accent": "en-AU",
+     "text": "Finally, there's a café near the entrance, which is open to the public every day, not just on open days. Right, if you'd like to follow me, we'll head to the pool."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam34-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was the site of the training centre used for before 2009?",
+     "explanation": "It was an airfield.",
+     "evidenceQuote": "this site was once an airfield",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a farm",
+      "B. an airfield",
+      "C. a factory"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. an airfield",
+      "an airfield"
+     ]
+    },
+    {
+     "id": "exam34-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Which athletes are most likely to live at the centre?",
+     "explanation": "Younger athletes from elsewhere live on site.",
+     "evidenceQuote": "especially the younger ones who have moved here from other parts of the country",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. those who are injured",
+      "B. those preparing for the Olympics",
+      "C. young athletes from other regions"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. young athletes from other regions",
+      "young athletes from other regions"
+     ]
+    },
+    {
+     "id": "exam34-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why are visitors asked not to use flash indoors?",
+     "explanation": "Flash can distract athletes.",
+     "evidenceQuote": "it can distract athletes at important moments",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It may distract the athletes.",
+      "B. It damages sensitive equipment.",
+      "C. The athletes dislike being photographed."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It may distract the athletes.",
+      "It may distract the athletes."
+     ]
+    },
+    {
+     "id": "exam34-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "According to Carly, what mainly makes the centre different from an ordinary gym?",
+     "explanation": "The support team is the key difference.",
+     "evidenceQuote": "The answer is really the support around the athletes.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the quality of the equipment",
+      "B. the team of experts supporting each athlete",
+      "C. the number of sports available"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the team of experts supporting each athlete",
+      "the team of experts supporting each athlete"
+     ]
+    },
+    {
+     "id": "exam34-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Carly say about the café?",
+     "explanation": "It is open daily to the public.",
+     "evidenceQuote": "which is open to the public every day, not just on open days",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is only open on open days.",
+      "B. It serves the same food as the athletes eat.",
+      "C. Members of the public can use it every day."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Members of the public can use it every day.",
+      "Members of the public can use it every day."
+     ]
+    },
+    {
+     "id": "exam34-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "hydrotherapy pool",
+     "explanation": "Visitors will see the underwater treadmill.",
+     "evidenceQuote": "You'll be able to see the underwater treadmill",
+     "skillTag": "matching",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. see an unusual piece of equipment",
+      "see an unusual piece of equipment"
+     ]
+    },
+    {
+     "id": "exam34-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "biomechanics laboratory",
+     "explanation": "Two visitors can try the runway.",
+     "evidenceQuote": "two volunteers from the group will be able to try the long-jump runway",
+     "skillTag": "matching",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. take part in a demonstration",
+      "take part in a demonstration"
+     ]
+    },
+    {
+     "id": "exam34-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "altitude chamber",
+     "explanation": "They watch through a window.",
+     "evidenceQuote": "visitors can't go inside, but there's a large window",
+     "skillTag": "matching",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. look through a window",
+      "look through a window"
+     ]
+    },
+    {
+     "id": "exam34-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "performance kitchen",
+     "explanation": "Visitors can taste a smoothie.",
+     "evidenceQuote": "Our chefs will be giving away samples of a recovery smoothie",
+     "skillTag": "matching",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. taste a drink",
+      "taste a drink"
+     ]
+    },
+    {
+     "id": "exam34-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "indoor athletics hall",
+     "explanation": "Visitors can find out how to book it.",
+     "evidenceQuote": "Information about booking is available at the main reception.",
+     "skillTag": "matching",
+     "distractorNote": "Local schools and clubs book it, but the information is collected at reception, not in the hall.",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. find out how to book the facility",
+      "find out how to book the facility"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "elite athlete",
+    "hydrotherapy",
+    "biomechanics",
+    "recovery",
+    "nutritionist"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What can visitors do at each of the following places? Choose FIVE answers from the box and write the correct letter, A–G.",
+     "options": [
+      "A. look through a window",
+      "B. meet an Olympic champion",
+      "C. find out how to book the facility",
+      "D. see an unusual piece of equipment",
+      "E. swim in warm water",
+      "F. take part in a demonstration",
+      "G. taste a drink"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam34-lp3",
+   "partNumber": 3,
+   "title": "A project on exercising in the heat",
+   "contextDescription": "Two sports science students, Priya and Tom, discuss their research project with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "C8CDD590-D8BB-512C-9A5F-B6F4A9C9A3DF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Come in, both of you. So, you've finished collecting the data for your project on exercise in hot conditions. How did it go?"
+    },
+    {
+     "id": "4B563536-1E99-571D-B266-F2901594E2BA",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "Pretty well, I think. Just to remind you, we compared two ways of cooling athletes down before exercise: drinking ice slurry, which is a mixture of crushed ice and liquid, and drinking the same amount of cold water."
+    },
+    {
+     "id": "D670A447-A861-5DB2-817E-C4A45C51167C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what made you choose that topic in the first place?"
+    },
+    {
+     "id": "06C8A426-9665-5236-8609-BCE183EFFC10",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "It was partly the Tokyo Olympics. We read that the marathon and the race walks were moved to Sapporo, much further north, because of worries about the summer heat in Tokyo. That made us realise how serious the problem is becoming for event organisers, not just for athletes."
+    },
+    {
+     "id": "AD6E8DD4-8B40-5FA1-9788-B860026CB979",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "And with summers getting hotter, it seems likely that more competitions will be held in extreme conditions."
+    },
+    {
+     "id": "E303FD45-1BE4-59D8-B543-5710BDE930C2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Fair enough. Remind me how you set up the experiment."
+    },
+    {
+     "id": "5321EEC5-FF5A-5B50-9FEB-9FEB505183F7",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We had ten participants, all members of the university cycling club. Each of them came to the lab twice, a week apart. On one visit they drank ice slurry before cycling, and on the other they had cold water. Then they cycled in the heat chamber, which we set at thirty-five degrees, until they were too exhausted to continue."
+    },
+    {
+     "id": "99341015-9D74-5332-855A-305F7230639D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Did they know which drink they were getting?"
+    },
+    {
+     "id": "4C034057-BE2B-5D29-9DBD-87220F0A0E56",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "Well, obviously they could see and feel the difference between ice and water, so we couldn't hide it from them. That's a weakness we'll have to discuss. But we didn't tell them what we expected to find, and the person recording their times didn't know which drink they'd had."
+    },
+    {
+     "id": "029CB813-A3D2-5FC8-8930-940EC608A59D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good, that helps. And how did you measure body temperature?"
+    },
+    {
+     "id": "6E8F8546-C932-5301-8890-058180A57A42",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "With a small capsule that the participants swallowed a few hours before the test. It sends a radio signal to a receiver, so we could follow their core temperature throughout the ride. Some of them were a bit nervous about swallowing it, but nobody refused."
+    },
+    {
+     "id": "C5DF732A-B9D5-5BDF-8F8D-2992276330D4",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what did you find?"
+    },
+    {
+     "id": "F26FC62A-C5E0-5789-8983-52E5DC60BAD3",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "On average, the participants cycled for longer after drinking the slurry, by about ten per cent. What was interesting was that they stopped at almost the same core temperature in both conditions, just under forty degrees. So the slurry seemed to give them more room before they reached that point."
+    },
+    {
+     "id": "A6999B77-856E-5857-9AFB-2B524540460D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That fits with what's been found in published studies. Was the improvement the same for everyone?"
+    },
+    {
+     "id": "24F9DDF2-21FD-566C-8C14-4741E07ADA27",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "No, it varied a lot. Two participants actually did slightly worse with the slurry. One of them said it gave him a stomach ache, which we hadn't expected at all."
+    },
+    {
+     "id": "4D3E56AA-2C6E-5770-AA85-FDCDA76F1D5F",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's worth reporting. Practical problems like that matter if you're advising real athletes. Now, did you look at acclimatisation at all?"
+    },
+    {
+     "id": "D3E648D3-D1E1-5A28-82FE-D919824395F8",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "Only in the literature review. Most sources say that the body needs between about one and two weeks of training in the heat to adapt properly. Athletes start sweating earlier and more heavily, and their heart rate doesn't rise as much."
+    },
+    {
+     "id": "A64A68A1-81B4-5453-A211-DCC3F2EDDB34",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then you could argue in your discussion that pre-cooling is a useful extra, but not a replacement for proper acclimatisation. What are you planning for the presentation?"
+    },
+    {
+     "id": "CAF56098-30CF-5993-9B08-606DD7C472C5",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We thought we'd start with a short video of the heat chamber, because most people in our year haven't seen it. Then Priya will present the results, and I'll talk about limitations."
+    },
+    {
+     "id": "7414CD76-D40C-5289-BF3A-7142E434CAA9",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Keep the video short, no more than a minute. And for the results, I'd use a graph showing each participant's times separately, not just the average, because the variation is one of your most interesting findings."
+    },
+    {
+     "id": "0E14E04F-8559-5C93-9772-ED12ABE9D765",
+     "speaker": "Priya",
+     "accent": "en-CA",
+     "text": "That's a good idea. We'd only made a bar chart of the averages."
+    },
+    {
+     "id": "E3CEF8E0-7C34-5130-AFF4-59A5C24832E8",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Finally, make sure you mention the sample size. Ten people is fine for a student project, but it's too small to draw firm conclusions. You should suggest repeating it with a bigger group, perhaps including women, since all your participants were men."
+    },
+    {
+     "id": "530D1614-5F3C-5001-8E3A-73CDF4086FC9",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We'll add that. Thanks."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam34-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What first gave the students the idea for their project?",
+     "explanation": "Moving the Tokyo marathon inspired them.",
+     "evidenceQuote": "It was partly the Tokyo Olympics.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the relocation of events at the Tokyo Olympics",
+      "B. an article about climate change",
+      "C. a heat-related illness at their cycling club"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the relocation of events at the Tokyo Olympics",
+      "the relocation of events at the Tokyo Olympics"
+     ]
+    },
+    {
+     "id": "exam34-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Which weakness in their experimental design do the students admit?",
+     "explanation": "Participants knew which drink they had.",
+     "evidenceQuote": "we couldn't hide it from them",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The tests were too close together.",
+      "B. The heat chamber was not hot enough.",
+      "C. Participants knew which drink they had been given."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Participants knew which drink they had been given.",
+      "Participants knew which drink they had been given."
+     ]
+    },
+    {
+     "id": "exam34-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How was the participants' core temperature measured?",
+     "explanation": "They swallowed a capsule.",
+     "evidenceQuote": "With a small capsule that the participants swallowed",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. with a sensor on the skin",
+      "B. with a device they swallowed",
+      "C. with a thermometer before and after the ride"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. with a device they swallowed",
+      "with a device they swallowed"
+     ]
+    },
+    {
+     "id": "exam34-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What did the students find interesting about the temperature data?",
+     "explanation": "They stopped at a similar temperature.",
+     "evidenceQuote": "they stopped at almost the same core temperature in both conditions",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Temperatures rose faster after drinking slurry.",
+      "B. Participants stopped at a similar temperature each time.",
+      "C. Some participants reached forty-one degrees."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Participants stopped at a similar temperature each time.",
+      "Participants stopped at a similar temperature each time."
+     ]
+    },
+    {
+     "id": "exam34-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What unexpected problem did one participant report?",
+     "explanation": "One had a stomach ache.",
+     "evidenceQuote": "One of them said it gave him a stomach ache",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. stomach pain",
+      "B. a headache",
+      "C. difficulty swallowing the capsule"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. stomach pain",
+      "stomach pain"
+     ]
+    },
+    {
+     "id": "exam34-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor recommend for presenting the results?",
+     "explanation": "Show individual results.",
+     "evidenceQuote": "I'd use a graph showing each participant's times separately",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a bar chart of the average times",
+      "B. a video of each participant",
+      "C. a graph of individual participants' times"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. a graph of individual participants' times",
+      "a graph of individual participants' times"
+     ]
+    },
+    {
+     "id": "exam34-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Participants: members of the university __________ club",
+     "explanation": "They were from the cycling club.",
+     "evidenceQuote": "all members of the university cycling club",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cycling"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Heat chamber temperature: __________ °C",
+     "explanation": "It was set at 35 degrees.",
+     "evidenceQuote": "which we set at thirty-five degrees",
+     "skillTag": "numbers",
+     "distractorNote": "Just under forty degrees was the core temperature at which participants stopped.",
+     "options": [],
+     "acceptedAnswers": [
+      "35",
+      "thirty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Average improvement with slurry: about __________ %",
+     "explanation": "They lasted about 10% longer.",
+     "evidenceQuote": "by about ten per cent",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Future study should include __________ as well as men",
+     "explanation": "Women should be included.",
+     "evidenceQuote": "perhaps including women, since all your participants were men",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "women"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "core temperature",
+    "acclimatisation",
+    "pre-cooling",
+    "ice slurry",
+    "heat chamber"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam34-lp4",
+   "partNumber": 4,
+   "title": "Technique, technology and the limits of sport",
+   "contextDescription": "A lecture in a sports science course on how changes in technique and equipment have affected athletic performance.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "9174E5AE-5309-5C24-BA6B-FEA65BE9F37B",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Good afternoon. Last week we looked at how training methods have improved athletic performance over the past century. Today I want to focus on two other factors: changes in technique and changes in equipment, and, importantly, how sports organisations decide what's fair."
+    },
+    {
+     "id": "A8EC23E6-CCB5-5AF7-BD6D-81D8DF9B0A5D",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Let's begin with the high jump. For much of the twentieth century, jumpers used techniques in which they went over the bar facing it or sideways, and they landed on their feet. That was necessary, because the landing area was often just a pit filled with sand or sawdust. In the nineteen-sixties, however, these pits began to be replaced by thick foam mats, and that opened up new possibilities."
+    },
+    {
+     "id": "72638249-4341-56A7-8A81-FE641FC5B2DE",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "The athlete who took advantage of this most famously was the American Dick Fosbury. He developed a technique in which he ran towards the bar on a curve, turned, and went over head first, on his back, landing on his shoulders. Many coaches thought it looked ridiculous, and some thought it was dangerous. But at the 1968 Olympics in Mexico City, Fosbury won the gold medal, and within a few years, the Fosbury Flop, as it became known, was used by almost every top jumper. It remains the dominant technique today. The point here is that the change in technique depended on a change in equipment: nobody would have landed on their back in a sandpit."
+    },
+    {
+     "id": "687A4911-ECF4-5BC1-86C7-BE9F244DCAD2",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "The pole vault shows the influence of equipment even more clearly. In the first half of the twentieth century, most vaulters used poles made of bamboo, which was light but could break. After the Second World War, metal poles became common. Then, from the late nineteen-fifties, poles made of fibreglass were introduced. Unlike metal, fibreglass bends a great deal and then straightens, returning much of the energy the athlete puts into it. World records rose rapidly as athletes learned to use the new poles."
+    },
+    {
+     "id": "91BE43BA-AB61-517D-B410-0ACFE534E8E5",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "My third example comes from speed skating. In a traditional skate, the blade is fixed firmly to the boot. In the clap skate, the blade is attached only at the front, by a hinge, so that when the skater pushes off, the heel lifts but the blade stays in contact with the ice for longer. Researchers in the Netherlands developed the modern version in the nineteen-eighties, and once top skaters adopted it in the late nineties, times fell sharply. At the 1998 Winter Olympics in Nagano, in Japan, world records were broken in several events."
+    },
+    {
+     "id": "51AA67D3-B046-546D-8CC0-AAB3F0030135",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "Now, in none of these cases did the governing bodies ban the new equipment, because it was available to everyone and it still required skill. But that isn't always the outcome. Consider swimming. Around 2008, new swimsuits were introduced that contained panels of polyurethane, a type of plastic. They compressed the swimmer's body into a smoother shape, reducing drag, and they also trapped air, which increased buoyancy, helping swimmers float higher in the water. Dozens of world records were broken in just two years. Critics began to describe this as 'technology doping'."
+    },
+    {
+     "id": "EB550778-23DA-5588-9D13-23000CFACCF0",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "In response, the international swimming federation introduced new rules, which came into force in 2010. Suits now have to be made of fabric only, and there are limits on how much of the body they can cover. For several years afterwards, very few of the records set in the plastic suits were broken, which suggests just how much of an advantage they had given."
+    },
+    {
+     "id": "4D736939-41A1-5690-9E03-AEE720619A16",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "More recently, the same debate has arisen in running. Since around 2017, road-racing shoes containing a thick layer of new foam and a stiff carbon plate have helped athletes run faster, and many records have fallen. World Athletics, the sport's governing body, responded by setting a maximum thickness for the sole, of forty millimetres for road races, rather than banning the shoes altogether."
+    },
+    {
+     "id": "15F0423A-CC25-5F32-AA55-0E980B32E26E",
+     "speaker": "Lecturer",
+     "accent": "en-IE",
+     "text": "So what principle should governing bodies follow? A useful question to ask is whether the technology improves the athlete's own ability to perform, or whether it does part of the work for them. We'll come back to that in the seminar. For next week, please read the article on the reading list about artificial limbs in elite sport."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam34-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Early high jumpers often landed in a pit of sand or __________",
+     "explanation": "Pits contained sand or sawdust.",
+     "evidenceQuote": "just a pit filled with sand or sawdust",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sawdust"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "In the 1960s, pits were replaced by thick __________ mats",
+     "explanation": "Foam mats replaced pits.",
+     "evidenceQuote": "these pits began to be replaced by thick foam mats",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "foam"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Fosbury went over the bar head first and on his __________",
+     "explanation": "He went over on his back.",
+     "evidenceQuote": "went over head first, on his back",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "back"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Early vaulting poles were made of __________, which could break",
+     "explanation": "Early poles were bamboo.",
+     "evidenceQuote": "most vaulters used poles made of bamboo",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bamboo"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Fibreglass poles bend, then straighten and return __________",
+     "explanation": "They return energy.",
+     "evidenceQuote": "returning much of the energy the athlete puts into it",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "energy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Clap skate: blade attached at the front by a __________",
+     "explanation": "A hinge joins blade and boot.",
+     "evidenceQuote": "the blade is attached only at the front, by a hinge",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hinge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Plastic swimsuits trapped air and increased __________",
+     "explanation": "Buoyancy increased.",
+     "evidenceQuote": "they also trapped air, which increased buoyancy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "buoyancy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Critics called the swimsuits \"technology __________\"",
+     "explanation": "They called it technology doping.",
+     "evidenceQuote": "Critics began to describe this as 'technology doping'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "doping"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Since 2010, suits must be made only of __________",
+     "explanation": "Only fabric is allowed.",
+     "evidenceQuote": "Suits now have to be made of fabric only",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fabric"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Running shoes: a limit was set on the thickness of the __________",
+     "explanation": "The sole thickness is limited.",
+     "evidenceQuote": "setting a maximum thickness for the sole",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sole"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "high jump",
+    "pole vault",
+    "clap skate",
+    "drag",
+    "governing body"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam34-rp1",
+   "passageNumber": 1,
+   "title": "The long road of the marathon",
+   "discipline": "Sport History",
+   "paragraphs": [
+    "Few sporting events have a story as famous as the marathon. According to a popular legend, after the Athenians defeated a Persian army at the Battle of Marathon in 490 BC, a messenger ran about forty kilometres to Athens to announce the victory, cried out the news and immediately fell dead. It is a moving tale, and it inspired one of the best-known races in the world. The historical evidence for it, however, is surprisingly weak.",
+    "The earliest account of the period comes from the Greek historian Herodotus, who wrote several decades after the battle. He describes a professional runner called Pheidippides who was sent from Athens to Sparta before the battle to ask for help, arriving on the day after he set out. That journey was roughly two hundred and forty kilometres, far longer than a modern marathon. Herodotus says nothing about a run from Marathon to Athens. That version of the story appears only in the work of writers living in the Roman period, several centuries later, and they did not agree on the messenger's name.",
+    "Whatever its origins, the legend proved useful when the modern Olympic Games were being planned. The French scholar Michel Bréal, a friend of the Games' founder, Pierre de Coubertin, suggested a long-distance race from Marathon to Athens for the first modern Olympics, held in Athens in 1896. Bréal even offered a silver cup for the winner. The Greek organisers welcomed the idea, hoping that a race linked to their ancient history would attract public interest.",
+    "Their hopes were more than fulfilled. Greek athletes had won few events at the Games, and when a local water carrier named Spyridon Louis entered the stadium first, finishing in just under three hours, the crowd was overjoyed. Louis became a national hero. Inspired by the race, the city of Boston held its own marathon the following year, and the Boston Marathon, first run in 1897, is now the oldest marathon held every year in the world.",
+    "In these early races, the distance was not fixed; it was simply about forty kilometres. The figure used today comes from the 1908 Olympics in London, where the course began at Windsor Castle and finished in front of the royal box in the stadium, a distance of 26 miles and 385 yards, or 42.195 kilometres. That race is remembered for the Italian runner Dorando Pietri, who entered the stadium in the lead but collapsed several times on the track. Officials helped him across the line, and as a result he was disqualified, but his courage made him a celebrity. In 1921, the international athletics federation adopted the London distance as the official length of the race.",
+    "For much of the twentieth century, the marathon was considered unsuitable for women, and many doctors believed that such long distances could damage their health. In 1967, Kathrine Switzer entered the Boston Marathon using her initials, and an official famously tried to pull her out of the race. She finished, and the photographs of the incident were published around the world. Boston officially accepted women runners in 1972, but a women's marathon was not added to the Olympic programme until the 1984 Games in Los Angeles, where it was won by the American Joan Benoit.",
+    "In the 1970s, the marathon began to change from an event for a small number of specialists into a mass activity. The first New York City Marathon, in 1970, was a few laps of Central Park with just over a hundred runners. Today, more than fifty thousand people finish the race, and the big city marathons attract runners of all ages and abilities, many of whom raise money for charity. For most participants, the aim is not to win but simply to complete the distance.",
+    "At the very top of the sport, times have continued to fall. In 2019, the Kenyan runner Eliud Kipchoge became the first person to run the marathon distance in under two hours, finishing in Vienna in 1 hour 59 minutes and 40 seconds. Because the event used rotating teams of pacemakers and was not an open race, the time was not accepted as an official world record. Even so, it showed how far the event has come from its legendary beginnings, and it raised new questions about the limits of human endurance."
+   ],
+   "questions": [
+    {
+     "id": "exam34-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Herodotus described a messenger running from Marathon to Athens after the battle.",
+     "explanation": "He does not mention that run.",
+     "evidenceQuote": "Herodotus says nothing about a run from Marathon to Athens.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam34-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Pheidippides' journey to Sparta was longer than the modern marathon distance.",
+     "explanation": "It was about 240 km.",
+     "evidenceQuote": "That journey was roughly two hundred and forty kilometres, far longer than a modern marathon.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam34-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Michel Bréal had competed as an athlete when he was younger.",
+     "explanation": "His own athletic past is not mentioned.",
+     "evidenceQuote": "The French scholar Michel Bréal, a friend of the Games' founder",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam34-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Spyridon Louis completed the 1896 race in more than three hours.",
+     "explanation": "He finished in under three hours.",
+     "evidenceQuote": "finishing in just under three hours",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam34-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Dorando Pietri lost his victory because he received assistance from officials.",
+     "explanation": "He was disqualified for being helped.",
+     "evidenceQuote": "Officials helped him across the line, and as a result he was disqualified",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam34-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Kathrine Switzer recorded a faster time than most men in the 1967 Boston Marathon.",
+     "explanation": "Her time is not given.",
+     "evidenceQuote": "She finished, and the photographs of the incident were published around the world.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam34-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Kipchoge's run in Vienna is recognised as the official world record.",
+     "explanation": "It was not accepted as a record.",
+     "evidenceQuote": "the time was not accepted as an official world record",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam34-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Bréal offered a silver __________ as a prize for the 1896 winner",
+     "explanation": "He offered a silver cup.",
+     "evidenceQuote": "Bréal even offered a silver cup for the winner",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cup"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Spyridon Louis worked as a water __________",
+     "explanation": "He was a water carrier.",
+     "evidenceQuote": "a local water carrier named Spyridon Louis",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "carrier"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "The first Boston Marathon took place in __________",
+     "explanation": "It was first run in 1897.",
+     "evidenceQuote": "the Boston Marathon, first run in 1897",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1897"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "In 1908 the course started at Windsor __________",
+     "explanation": "It began at Windsor Castle.",
+     "evidenceQuote": "the course began at Windsor Castle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Castle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Many __________ once believed that marathons could harm women's health",
+     "explanation": "Doctors believed this.",
+     "evidenceQuote": "many doctors believed that such long distances could damage their health",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "doctors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Many modern participants raise money for __________",
+     "explanation": "They raise money for charity.",
+     "evidenceQuote": "many of whom raise money for charity",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "charity"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 718,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam34-rp2",
+   "passageNumber": 2,
+   "title": "Thin air: the science of altitude training",
+   "discipline": "Exercise Physiology",
+   "paragraphs": [
+    "When the 1968 Olympic Games were awarded to Mexico City, many scientists and coaches were worried. The city lies about 2,240 metres above sea level, and nobody was sure how athletes from lowland countries would cope. Their concerns turned out to be justified. In the longer running races, times were noticeably slower than at previous Games, and several athletes collapsed. Yet in short, explosive events such as sprinting and jumping, performances were outstanding. The American Bob Beamon's long jump of 8.90 metres broke the world record by more than half a metre and stood for almost twenty-three years.",
+    "The explanation for both results lies in the physics of the atmosphere. As altitude increases, air pressure falls. The proportion of oxygen in the air stays the same, at about twenty-one per cent, but because the air is less dense, each breath contains fewer oxygen molecules. For endurance athletes, whose muscles depend on a steady supply of oxygen, this is a serious handicap. For sprinters and jumpers, whose events last only seconds and rely less on oxygen, the thinner air is actually an advantage, because it offers less resistance to movement.",
+    "The human body, however, is capable of adapting. When a person spends time at altitude, the kidneys detect the lower level of oxygen in the blood and release more of a hormone called erythropoietin, usually known as EPO. This hormone stimulates the bone marrow to produce more red blood cells, which contain haemoglobin, the protein that carries oxygen around the body. The process is slow, and it generally takes several weeks before the amount of haemoglobin increases significantly. When athletes return to sea level, they may for a time have a greater capacity to carry oxygen than their rivals.",
+    "The success of runners from the highlands of Kenya and Ethiopia has often been linked to these effects. Many of the world's best distance runners grew up and train at altitudes of around two thousand metres or more. Most researchers, though, believe that altitude is only part of the explanation. Factors such as an active childhood, a strong running culture, a lightweight body build and the powerful motivation provided by the prospect of escaping poverty are all thought to play a role, and no single cause has been identified.",
+    "For athletes from lowland countries, altitude training presents a dilemma. Living high up stimulates the production of red blood cells, but the thin air also makes it impossible to train at the same intensity as at sea level, so fitness may actually suffer. In the 1990s, the American researchers Benjamin Levine and James Stray-Gundersen tested a solution, known as 'live high, train low'. In their study, published in 1997, runners who lived at altitude but travelled down to train at a lower level improved their race times, whereas runners who lived and trained at sea level did not. The approach has since been adopted by many national teams.",
+    "Not every athlete can spend weeks in the mountains, and technology now offers alternatives. Altitude tents, which fit over a bed, and specially built rooms can reduce the amount of oxygen in the air, allowing athletes to 'sleep high' in their own homes. Some people have questioned whether this is fair, since it produces an effect similar to that of a banned substance. In 2006, the World Anti-Doping Agency considered prohibiting such devices, but it eventually decided not to, partly because the effect is natural and partly because the rule would have been very difficult to enforce.",
+    "Research has also shown that people respond to altitude in very different ways. In some athletes, red blood cell production increases substantially, while in others it hardly changes at all, and scientists sometimes describe these groups as 'responders' and 'non-responders'. Several practical factors also matter. The body needs iron to make haemoglobin, so athletes with low iron levels may gain little benefit, and sleep is often disturbed at altitude, which can interfere with recovery. For this reason, sports scientists now usually monitor athletes closely during altitude camps rather than simply sending them away.",
+    "The same biology that makes altitude training effective has also been exploited dishonestly. In the 1990s, a synthetic form of EPO, originally developed to treat patients with kidney disease and anaemia, was widely abused in endurance sports, particularly cycling. Because it was chemically almost identical to the hormone produced by the body, it was very hard to detect, and it was not until the Sydney Olympics in 2000 that a test for it was first used. The contrast is instructive: altitude achieves by natural means what doping achieves artificially, which is why the line between them remains a subject of debate."
+   ],
+   "questions": [
+    {
+     "id": "exam34-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains why thin air helps some events and harms others.",
+     "evidenceQuote": "The explanation for both results lies in the physics of the atmosphere.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Why thin air helps some athletes and hinders others",
+      "Why thin air helps some athletes and hinders others"
+     ]
+    },
+    {
+     "id": "exam34-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes how the body responds to altitude.",
+     "evidenceQuote": "The human body, however, is capable of adapting.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. How the body adjusts to less oxygen",
+      "How the body adjusts to less oxygen"
+     ]
+    },
+    {
+     "id": "exam34-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D says East African success has several causes.",
+     "evidenceQuote": "Most researchers, though, believe that altitude is only part of the explanation.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A combination of causes",
+      "A combination of causes"
+     ]
+    },
+    {
+     "id": "exam34-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes a solution to the training dilemma.",
+     "evidenceQuote": "In the 1990s, the American researchers Benjamin Levine and James Stray-Gundersen tested a solution, known as 'live high, train low'.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A way round a training problem",
+      "A way round a training problem"
+     ]
+    },
+    {
+     "id": "exam34-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F covers altitude devices and the debate about them.",
+     "evidenceQuote": "Some people have questioned whether this is fair",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Artificial mountains and the question of fairness",
+      "Artificial mountains and the question of fairness"
+     ]
+    },
+    {
+     "id": "exam34-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G explains individual differences.",
+     "evidenceQuote": "people respond to altitude in very different ways",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why results vary from person to person",
+      "Why results vary from person to person"
+     ]
+    },
+    {
+     "id": "exam34-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H discusses EPO doping.",
+     "evidenceQuote": "The same biology that makes altitude training effective has also been exploited dishonestly.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A natural process misused",
+      "A natural process misused"
+     ]
+    },
+    {
+     "id": "exam34-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about the air at high altitude?",
+     "explanation": "Each breath has fewer oxygen molecules.",
+     "evidenceQuote": "because the air is less dense, each breath contains fewer oxygen molecules",
+     "skillTag": "detail",
+     "options": [
+      "A. It contains a lower percentage of oxygen.",
+      "B. It creates more resistance for sprinters.",
+      "C. Each breath provides less oxygen.",
+      "D. It is harmful to the kidneys."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Each breath provides less oxygen.",
+      "Each breath provides less oxygen."
+     ]
+    },
+    {
+     "id": "exam34-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "According to the passage, why can living at altitude reduce an athlete's fitness?",
+     "explanation": "Athletes cannot train as hard.",
+     "evidenceQuote": "the thin air also makes it impossible to train at the same intensity as at sea level",
+     "skillTag": "detail",
+     "options": [
+      "A. Athletes cannot train as intensely.",
+      "B. Athletes produce too many red blood cells.",
+      "C. Athletes lose weight too quickly.",
+      "D. Athletes become ill more often."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Athletes cannot train as intensely.",
+      "Athletes cannot train as intensely."
+     ]
+    },
+    {
+     "id": "exam34-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why did the World Anti-Doping Agency decide not to ban altitude tents?",
+     "explanation": "The effect is natural and a ban would be hard to enforce.",
+     "evidenceQuote": "partly because the effect is natural and partly because the rule would have been very difficult to enforce",
+     "skillTag": "detail",
+     "options": [
+      "A. Scientists proved they had no effect.",
+      "B. Too many athletes were already using them.",
+      "C. They were too expensive for most athletes.",
+      "D. Their effect is natural and a ban would be hard to police."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Their effect is natural and a ban would be hard to police.",
+      "Their effect is natural and a ban would be hard to police."
+     ]
+    },
+    {
+     "id": "exam34-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Bob Beamon's long jump record lasted for nearly __________ years.",
+     "explanation": "It stood for almost 23 years.",
+     "evidenceQuote": "stood for almost twenty-three years",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "twenty-three",
+      "23"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam34-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Red blood cells are produced by the __________ in response to EPO.",
+     "explanation": "Bone marrow produces the cells.",
+     "evidenceQuote": "This hormone stimulates the bone marrow to produce more red blood cells",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bone marrow"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam34-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Athletes who lack __________ may not benefit much from altitude training.",
+     "explanation": "Iron is needed for haemoglobin.",
+     "evidenceQuote": "athletes with low iron levels may gain little benefit",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "iron"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 776,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. A combination of causes",
+      "ii. A natural process misused",
+      "iii. Artificial mountains and the question of fairness",
+      "iv. Why thin air helps some athletes and hinders others",
+      "v. The dangers of training too hard",
+      "vi. Why results vary from person to person",
+      "vii. How the body adjusts to less oxygen",
+      "viii. Choosing the best altitude for a training camp",
+      "ix. A way round a training problem"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam34-rp3",
+   "passageNumber": 3,
+   "title": "Are the Olympics worth the price?",
+   "discipline": "Sports Economics & Urban Policy",
+   "paragraphs": [
+    "For much of the twentieth century, winning the right to host the Olympic Games was regarded as one of the greatest prizes a city could achieve. In recent years, however, the enthusiasm has faded. When the International Olympic Committee invited bids for the 2022 Winter Games, several European cities, including Oslo, Stockholm and Munich, withdrew or abandoned their plans, in some cases after local residents voted against them. Only Beijing and Almaty remained. A few years later, faced with a shortage of candidates for the Summer Games, the committee took the unusual step of awarding the 2024 Games to Paris and the 2028 Games to Los Angeles at the same time.",
+    "The main reason for this reluctance is cost. Hosting the Games requires stadiums, an athletes' village, transport links and enormous security operations, and the final bill almost always exceeds the original estimate. Researchers at the University of Oxford who examined Games held since 1960 found that every one for which reliable data were available had gone over budget, with an average overrun of more than one hundred and fifty per cent. Few other kinds of large project, they noted, perform so consistently badly.",
+    "The most notorious example is Montreal, which hosted the Summer Games in 1976. Construction problems, rising prices and an ambitious stadium design caused costs to soar, and the city took about thirty years to pay off the resulting debt. The Olympic Stadium, intended as a symbol of civic pride, became known locally as 'the Big Owe'. For a generation of politicians, Montreal served as a warning of what could go wrong.",
+    "Los Angeles, which hosted the next Summer Games but one, in 1984, took a very different approach. It was effectively the only city willing to host the event, which gave it a strong position in negotiations with the International Olympic Committee. The organisers relied heavily on existing venues, including a stadium that had been used for the 1932 Games, and raised much of their income from private sponsors and television rights. The Games ended with a surplus of more than two hundred million dollars, much of which was used to fund youth sport in the region.",
+    "Supporters of the Games often point to Barcelona as proof that the event can transform a city. In preparation for 1992, Barcelona invested heavily in new roads, an improved airport and the redevelopment of a run-down industrial area by the sea, which became a new district with beaches open to the public. In the following decades, the city became one of the most visited in Europe. Sceptics reply that much of this investment could have been made without the Games, but it is generally accepted that the deadline imposed by the event helped the city to complete projects that might otherwise have taken decades.",
+    "Other host cities have been left with expensive facilities that they do not need. After the 2004 Games in Athens, many of the venues built for sports with little following in Greece were left empty, and photographs of overgrown stadiums and empty swimming pools were widely published. Similar images emerged from Rio de Janeiro only a few years after 2016. Such buildings are costly to maintain even when they are not used, and they have become a powerful symbol for opponents of future bids.",
+    "The International Olympic Committee has responded with a series of reforms. Its Olympic Agenda 2020, adopted in 2014, encourages cities to use existing or temporary venues and allows events to be held in more than one city or even country. Paris took this approach in 2024, with the organisers stating that around ninety-five per cent of the venues were either already built or temporary. The selection process has also changed: Brisbane was chosen for 2032 through a new procedure in which the committee holds discussions with preferred candidates, rather than inviting cities to compete in expensive bidding contests.",
+    "In my view, these reforms are welcome but do not go far enough. The fundamental problem is that each host is expected to create a huge event almost from scratch, and then has little use for much of what it has built. Some commentators have proposed giving the Games a permanent home, or a small group of cities that would host them in rotation. I believe this idea deserves more serious consideration than it has received. It would certainly reduce the sense of excitement that comes from taking the Games to new places, but the price of that excitement has too often been paid by local taxpayers who were never asked whether they wanted it."
+   ],
+   "questions": [
+    {
+     "id": "exam34-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "took about three decades to clear the debts from hosting the Games",
+     "explanation": "This was Montreal.",
+     "evidenceQuote": "the city took about thirty years to pay off the resulting debt",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Montreal",
+      "Montreal"
+     ]
+    },
+    {
+     "id": "exam34-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "made a profit that was spent on sport for young people",
+     "explanation": "Los Angeles used its surplus for youth sport.",
+     "evidenceQuote": "much of which was used to fund youth sport in the region",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Los Angeles",
+      "Los Angeles"
+     ]
+    },
+    {
+     "id": "exam34-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "turned a former industrial area into a public seafront",
+     "explanation": "This was Barcelona.",
+     "evidenceQuote": "the redevelopment of a run-down industrial area by the sea",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Barcelona",
+      "Barcelona"
+     ]
+    },
+    {
+     "id": "exam34-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "built venues for sports that were not popular locally",
+     "explanation": "This was Athens.",
+     "evidenceQuote": "many of the venues built for sports with little following in Greece were left empty",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Athens",
+      "Athens"
+     ]
+    },
+    {
+     "id": "exam34-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "was selected without a traditional bidding contest",
+     "explanation": "Brisbane was chosen through discussions.",
+     "evidenceQuote": "Brisbane was chosen for 2032 through a new procedure",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Brisbane",
+      "Brisbane"
+     ]
+    },
+    {
+     "id": "exam34-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Olympic budgets are usually more accurate than those of other large projects.",
+     "explanation": "Olympic budgets are worse than most.",
+     "evidenceQuote": "Few other kinds of large project, they noted, perform so consistently badly.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam34-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Barcelona's improvements would probably have happened more slowly without the Games.",
+     "explanation": "The deadline sped things up.",
+     "evidenceQuote": "the deadline imposed by the event helped the city to complete projects that might otherwise have taken decades",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam34-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Rio de Janeiro spent more on its Olympic venues than Athens did.",
+     "explanation": "Spending in the two cities is not compared.",
+     "evidenceQuote": "Similar images emerged from Rio de Janeiro only a few years after 2016.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam34-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "The International Olympic Committee's reforms have fully solved the problems of hosting.",
+     "explanation": "The writer says they do not go far enough.",
+     "evidenceQuote": "In my view, these reforms are welcome but do not go far enough.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam34-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "A permanent home for the Games should be considered more seriously.",
+     "explanation": "The writer supports considering it.",
+     "evidenceQuote": "I believe this idea deserves more serious consideration than it has received.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam34-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Some cities dropped their bids for the 2022 Winter Games after local __________ voted against them.",
+     "explanation": "Residents voted against bids.",
+     "evidenceQuote": "after local residents voted against them",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "residents"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Los Angeles earned much of its income from private __________ and television rights.",
+     "explanation": "Sponsors provided income.",
+     "evidenceQuote": "raised much of their income from private sponsors and television rights",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sponsors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Unused venues remain expensive to __________.",
+     "explanation": "They are costly to maintain.",
+     "evidenceQuote": "Such buildings are costly to maintain even when they are not used",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "maintain"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam34-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Under recent reforms, cities are encouraged to use existing or __________ venues.",
+     "explanation": "Temporary venues are encouraged.",
+     "evidenceQuote": "encourages cities to use existing or temporary venues",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "temporary"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 762,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of host cities below. Match each statement with the correct city, A–F.",
+     "options": [
+      "A. Montreal",
+      "B. Los Angeles",
+      "C. Barcelona",
+      "D. Athens",
+      "E. Paris",
+      "F. Brisbane"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam34-w1",
+  "title": "Male and female athletes at the Summer Olympic Games",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows the approximate number of male and female athletes who competed at seven Summer Olympic Games between 1960 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "79AF8A74-44A0-5E97-852D-CBA4A2AD7176",
+    "series": "Men",
+    "category": "1960",
+    "value": 4.7,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "6B6E7DAD-AE16-5B49-BC62-12CCF77AC0B7",
+    "series": "Women",
+    "category": "1960",
+    "value": 0.6,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "FE36E006-99E1-5156-BC27-D34EC63E6CC6",
+    "series": "Men",
+    "category": "1972",
+    "value": 6.1,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "3093A8C1-9664-5A11-AF65-07E960381AFA",
+    "series": "Women",
+    "category": "1972",
+    "value": 1.1,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "93CA8F2C-90CC-5FF0-9F17-BBE2C397DEB3",
+    "series": "Men",
+    "category": "1984",
+    "value": 5.3,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "2A661B24-68CC-5587-8F88-6823B1CC7E16",
+    "series": "Women",
+    "category": "1984",
+    "value": 1.6,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "3ADD4AF2-82CA-541C-A414-74AD38861CDC",
+    "series": "Men",
+    "category": "1996",
+    "value": 6.8,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "0F5409B8-008F-5E1A-BDF1-C74908B666A8",
+    "series": "Women",
+    "category": "1996",
+    "value": 3.5,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "BBE935FB-F8A9-5763-A2B0-8A6029D06E68",
+    "series": "Men",
+    "category": "2008",
+    "value": 6.3,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "C0992D79-C65D-5303-A40F-A14A15F511CA",
+    "series": "Women",
+    "category": "2008",
+    "value": 4.6,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "B3D76346-0FFA-5681-85E2-94D02B369668",
+    "series": "Men",
+    "category": "2020",
+    "value": 5.9,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "74B9DAC0-2026-5580-8FF6-87ABC00F8CAA",
+    "series": "Women",
+    "category": "2020",
+    "value": 5.5,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "149FD4CB-31CA-5BAB-B5E3-280FB36351F3",
+    "series": "Men",
+    "category": "2024",
+    "value": 5.3,
+    "unit": "thousand athletes"
+   },
+   {
+    "id": "B2255524-500D-52C3-8EF2-1930DC2466C0",
+    "series": "Women",
+    "category": "2024",
+    "value": 5.3,
+    "unit": "thousand athletes"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "The number of women rose steadily throughout the period until it equalled the number of men in 2024.",
+   "The number of men fluctuated between about 4.7 and 6.8 thousand, peaking in 1996 and then falling."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam34-w2",
+  "title": "Elite sport or sport for all?",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Sport & Government",
+  "promptText": "Some people believe that governments should spend money on sports facilities for ordinary people rather than on training top athletes to win international competitions. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam34-spk",
+  "theme": "Sports events and athletes",
+  "part1Questions": [
+   "Do you enjoy watching sport on television?",
+   "Which sports are most popular in your country?",
+   "Did you take part in sports competitions at school?",
+   "Would you like to go to the Olympic Games one day?",
+   "Do you prefer team sports or individual sports?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a sports event that you watched or attended and enjoyed.",
+   "bulletPoints": [
+    "what the event was",
+    "where and when it took place",
+    "who you watched it with",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think so many people enjoy watching elite athletes?",
+   "Do top athletes earn too much money compared with other professions?",
+   "Should athletes who are caught using banned drugs be banned for life?",
+   "What benefits can hosting a major sports event bring to a country?",
+   "How might new technology change sport in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates, records and results are checked against standard reference sources; Olympic participation figures in Writing Task 1 are rounded.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

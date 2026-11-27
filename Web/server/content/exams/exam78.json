@@ -1,0 +1,1998 @@
+{
+ "id": "exam78",
+ "examNumber": 78,
+ "pool": "mock",
+ "title": "Mock Exam 78: Language Beyond a Printed Page",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Language Beyond a Printed Page",
+ "listeningParts": [
+  {
+   "id": "exam78-lp1",
+   "partNumber": 1,
+   "title": "Arranging a family storytelling visit",
+   "contextDescription": "A parent calls a storytelling centre about a bilingual family event.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "3BE03769-A05F-5AC0-90B0-1FC717717664",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Good afternoon, Lantern House Story Centre. Our public opening hours are on the recorded message, but I can help with event bookings. Were you hoping to come to a performance, visit the exhibition or arrange a school session? Those use different booking systems, so I want to send you to the right place."
+    },
+    {
+     "id": "7FCF9777-0A50-567B-8A29-49C6A70197A3",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "A performance, please. My sister is visiting with her son next weekend. He understands both English and Spanish, and I saw something about a story told in two languages. I wondered whether that meant two separate performances or whether the languages are used together in one event."
+    },
+    {
+     "id": "3AB31711-3E4E-5ED1-9FC7-03D9D8C6EBE8",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "It's one event. The storyteller uses both languages, with pictures and movement helping everyone follow. Nobody needs to understand every word of Spanish. It is intended as a family performance, not a language lesson, so we don't divide the audience into groups or ask children to translate for other people."
+    },
+    {
+     "id": "508D057D-EBB3-5DE7-B2C0-A90CEE3FDB3E",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "That sounds ideal. My nephew is six. The website seems to say suitable from four, but the poster outside the library says seven. I don't want to book and then discover he is too young to enjoy it."
+    },
+    {
+     "id": "5D451941-1757-552B-B1F9-D727978E8C78",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The poster is for the evening story, which is a different performance. The family event is suitable from four. We ask adults to stay with children throughout. If a child needs a break, you can go into the courtyard and return quietly. There is no requirement to remain seated for the entire event."
+    },
+    {
+     "id": "439BDFA1-58F1-55EE-975B-2DE665B2F2F1",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "I'd like three tickets, then: two adults and one child. Is the price the same for everyone? I saw twelve pounds somewhere, although I couldn't tell whether that was for a family group or one person."
+    },
+    {
+     "id": "60016586-58EA-5886-BF4D-3C08DD363A37",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Adult tickets are twelve pounds each. A child's ticket is seven pounds, so your total will be thirty-one pounds. The price includes entry to the small exhibition afterwards. The drawing activity in the afternoon is separately booked, and you don't have to join it to attend the story."
+    },
+    {
+     "id": "D00985FF-5041-542E-A216-C53800FFC1B7",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "We'll just do the story this time. Is it on Saturday or Sunday? I wrote Sunday in my diary, but my sister thought it was the day before. We can manage either, provided we know soon."
+    },
+    {
+     "id": "55B53B69-08B4-5F3D-B11F-958EE0251841",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The bilingual family performance is Saturday at eleven. Sunday is the puppet show. Please arrive by ten forty-five so we can check tickets without delaying the start. The café opens at ten, if you'd like to arrive earlier, but refreshments aren't part of the ticket."
+    },
+    {
+     "id": "039699E5-E62C-5F9C-B1EC-C798185889C9",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "Saturday at eleven, arriving by ten forty-five. Could I book in the name of Martin Valehurst? That's V-A-L-E-H-U-R-S-T. Do you need the child's name as well, or just mine?"
+    },
+    {
+     "id": "204BFDA6-7400-5C60-9DEE-EA76D6C8B1CB",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Just the booking name and a contact email. We don't need children's names for this event. When you pay online, you'll receive a reference number. You can show that on your phone; there's no need to print the whole email. If you prefer a paper record, write the reference clearly so we can find the booking."
+    },
+    {
+     "id": "597F07C8-76DA-584C-9631-359BD9BAC66F",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "My sister sometimes finds crowded rooms uncomfortable. Is there an area where we can sit near an exit? We don't need a special seat, just a bit of flexibility if one of us wants to step out."
+    },
+    {
+     "id": "95DAE70B-E40A-569D-BB40-501A7502A088",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "I'll note that you would prefer the aisle. We don't allocate individual seat numbers, but the steward can help you choose when you arrive. The performance is in the garden hall. Enter through the blue gate, not the main shop door. That brings you directly to the performance entrance without going through the exhibition."
+    },
+    {
+     "id": "0A224D08-FECD-5A6E-903F-85F58F08603E",
+     "speaker": "Parent",
+     "accent": "en-US",
+     "text": "That's helpful. Is there anything my nephew should bring? Some events ask children to bring a toy or a cushion, and I don't want him to feel he has missed something everyone else knows about."
+    },
+    {
+     "id": "61811586-AE76-56DC-AD5C-574C789A077F",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Nothing is required. We provide floor cushions and chairs. At the end, children can take home a picture card connected with the story, but they don't have to complete a worksheet to receive it. We want them to enjoy listening and joining in at their own pace. I'll send the booking link now, and it will remain active until tomorrow evening."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam78-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Languages used: English and __________.",
+     "explanation": "Both languages are used in the same family event.",
+     "evidenceQuote": "understands both English and Spanish",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Spanish"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Minimum recommended age: __________.",
+     "explanation": "Seven refers to the separate evening performance.",
+     "evidenceQuote": "suitable from four",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "four",
+      "4"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Total for two adults and one child: £__________.",
+     "explanation": "The total is £12 + £12 + £7.",
+     "evidenceQuote": "your total will be thirty-one pounds",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "31"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Event day: __________.",
+     "explanation": "Sunday is a puppet show.",
+     "evidenceQuote": "The bilingual family performance is Saturday",
+     "skillTag": "note_completion",
+     "distractorNote": "Sunday belongs to a different event.",
+     "options": [],
+     "acceptedAnswers": [
+      "Saturday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Requested arrival time: __________ a.m.",
+     "explanation": "The performance itself starts at eleven.",
+     "evidenceQuote": "Please arrive by ten forty-five",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "10.45",
+      "10:45"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Booking surname: Martin __________.",
+     "explanation": "Valehurst is spelled by the caller.",
+     "evidenceQuote": "Martin Valehurst? That's V-A-L-E-H-U-R-S-T.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Valehurst"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "For entry to the storytelling performance, display the booking __________.",
+     "explanation": "The booking reference can be shown on a phone or written on paper.",
+     "evidenceQuote": "you'll receive a reference number. You can show that on your phone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reference"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Preferred seating: near the __________.",
+     "explanation": "An aisle position supports stepping out.",
+     "evidenceQuote": "you would prefer the aisle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aisle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Enter through the __________ gate.",
+     "explanation": "The shop door is not the performance entrance.",
+     "evidenceQuote": "Enter through the blue gate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Children receive a picture __________ afterwards.",
+     "explanation": "No worksheet is required to receive the card.",
+     "evidenceQuote": "take home a picture card",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "card"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam78-lp2",
+   "partNumber": 2,
+   "title": "Orientation at the neighbourhood language festival",
+   "contextDescription": "A festival host explains the day’s rooms and activities.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "231B5A77-2453-5DB8-A7ED-CACE4878AFAF",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "Welcome to the neighbourhood language festival. You can take part whether you speak several languages or only one. The programme is about encountering how people use language, not measuring anyone's fluency. Please ask participants how they pronounce their names rather than assuming that a printed label tells you everything. Our volunteers will help you find activities, and nobody is expected to act as an unpaid interpreter simply because they know a language."
+    },
+    {
+     "id": "FFD1ADAA-CFBC-58D8-B8EF-E7489E5E3AC0",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "The reading room has short texts in several languages with English versions beside them. You may notice differences in layout or length. That doesn't necessarily mean one version has omitted something; languages and translators can express an idea in different ways. A volunteer will read selected passages aloud every hour. Between readings, the room is kept quiet enough for visitors to look at the books and talk softly."
+    },
+    {
+     "id": "39803746-F294-515E-9912-A383DE822AB3",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "In the craft room, you can explore scripts by making a decorative card. This is not a course in handwriting, and we ask you not to present a copied phrase as if you can read a language you haven't learned. The facilitators will explain what each sample says and show where writing begins. We provide all the materials. Children can join with an adult, and there are larger tools for people who find small pens difficult to hold."
+    },
+    {
+     "id": "EC8D9FEC-6BCE-5452-ABAA-D96E30CC51C4",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "The courtyard is for short games and everyday expressions. You can try a greeting, a counting game or a word puzzle. There is no stage and no audience waiting for a perfect performance. If you prefer to watch first, stand where you can see without blocking the entrance. The games repeat during the day, so missing the beginning doesn't prevent you from joining later."
+    },
+    {
+     "id": "105FEB3C-2119-5DB0-8584-4871F0B7993E",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "The upstairs room hosts longer conversations about translating stories. Those sessions require a free ticket because the room is small. Pick one up at reception. A ticket reserves a place, but it does not entitle you to ask a speaker to translate personal documents after the session. This is a cultural event, not a professional translation service. We have a separate information sheet explaining where people can find appropriate services."
+    },
+    {
+     "id": "66A20473-A62E-57A8-8083-CCF10768E8AC",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "For accessibility, the reading room and craft room are both on the ground floor. There is a lift to the upstairs room, and a volunteer can show you the route. The printed programme uses a staircase symbol to locate the room, but that does not mean stairs are the only way to reach it. Please tell us if any sign is confusing so we can help and note the problem for a future event."
+    },
+    {
+     "id": "A384C8BA-4AB8-552B-BC8A-A41B9896A831",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "Food is available in the side garden. Stallholders have ingredient information at their tables, so ask them directly about a dish rather than guessing from its name or appearance. The indoor rooms are kept free of food to protect the books and materials. Water bottles can be refilled beside the kitchen. Bring used cups back to the collection table; do not leave them among the display objects, where volunteers may not see them."
+    },
+    {
+     "id": "50A92910-C5A6-54B8-86BD-A4ED0D7E5513",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "Photography is permitted in the main hall, but ask before taking an identifiable photograph of another visitor. Some storytellers have asked not to be recorded during their performances. A notice beside each activity states the arrangement, and the host will repeat it at the start. Enjoying a performance doesn't give us permission to circulate it online. If you want a reminder, you can take a printed programme home."
+    },
+    {
+     "id": "AE3799C9-CADB-59DC-A98A-196D3F604497",
+     "speaker": "Host",
+     "accent": "en-IE",
+     "text": "At the end of the day, we welcome comments about what helped you participate and what made it difficult. The feedback cards are beside the exit. You can answer in any language; we will arrange help reading them later. We don't ask you to rate the languages themselves. We want to improve the way the festival creates opportunities to encounter them."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam78-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Listening to hourly passages read aloud",
+     "explanation": "The reading room hosts readings.",
+     "evidenceQuote": "A volunteer will read selected passages aloud every hour.",
+     "skillTag": "matching",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Reading room",
+      "Reading room"
+     ]
+    },
+    {
+     "id": "exam78-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Making a card while learning about scripts",
+     "explanation": "Cards and scripts are explored in the craft room.",
+     "evidenceQuote": "In the craft room",
+     "skillTag": "matching",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Craft room",
+      "Craft room"
+     ]
+    },
+    {
+     "id": "exam78-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Trying informal counting games",
+     "explanation": "Courtyard games include counting.",
+     "evidenceQuote": "The courtyard is for short games",
+     "skillTag": "matching",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Courtyard",
+      "Courtyard"
+     ]
+    },
+    {
+     "id": "exam78-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "A ticketed discussion about story translation",
+     "explanation": "The upstairs sessions require tickets.",
+     "evidenceQuote": "The upstairs room hosts longer conversations",
+     "skillTag": "matching",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Upstairs room",
+      "Upstairs room"
+     ]
+    },
+    {
+     "id": "exam78-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Buying something to eat",
+     "explanation": "Food stalls are outside in the side garden.",
+     "evidenceQuote": "Food is available in the side garden.",
+     "skillTag": "matching",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Side garden",
+      "Side garden"
+     ]
+    },
+    {
+     "id": "exam78-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "What does the host say about texts of different lengths in translation?",
+     "explanation": "Length differences do not establish omission.",
+     "evidenceQuote": "That doesn't necessarily mean one version has omitted something",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The shorter version is always incomplete.",
+      "B. Different lengths can still express the same idea.",
+      "C. The longer version is always the original."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Different lengths can still express the same idea.",
+      "Different lengths can still express the same idea."
+     ]
+    },
+    {
+     "id": "exam78-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "Why are tickets needed for upstairs discussions?",
+     "explanation": "The room’s capacity is limited.",
+     "evidenceQuote": "because the room is small",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The room has limited space.",
+      "B. Speakers offer paid document translation.",
+      "C. Only multilingual visitors may attend."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The room has limited space.",
+      "The room has limited space."
+     ]
+    },
+    {
+     "id": "exam78-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What kind of feedback does the festival request?",
+     "explanation": "The feedback concerns participation arrangements.",
+     "evidenceQuote": "what helped you participate and what made it difficult",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Which language is most useful worldwide.",
+      "B. Whether storytellers should learn English.",
+      "C. What supported or obstructed participation."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. What supported or obstructed participation.",
+      "What supported or obstructed participation."
+     ]
+    },
+    {
+     "id": "exam78-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "An alternative to stairs is the __________.",
+     "explanation": "The staircase symbol does not mean stairs are compulsory.",
+     "evidenceQuote": "There is a lift",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lift"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Water refills are available beside the __________.",
+     "explanation": "The kitchen area provides water refills.",
+     "evidenceQuote": "refilled beside the kitchen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "kitchen"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Match each activity with its location, A–E. You may use any letter more than once.",
+     "options": [
+      "A. Craft room",
+      "B. Upstairs room",
+      "C. Reading room",
+      "D. Side garden",
+      "E. Courtyard"
+     ]
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "instruction": "Questions 16–18. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "instruction": "Questions 19–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam78-lp3",
+   "partNumber": 3,
+   "title": "Comparing dictionary entries for a language assignment",
+   "contextDescription": "Two students discuss a project on how dictionaries present a word with several meanings.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "24EB4584-69D5-5233-A8EA-54C04996AFB7",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "I've chosen the word 'light' for our dictionary project. It can refer to illumination, a low weight and several other things, so there should be enough to discuss. But if we try to cover every dictionary and every meaning, we'll end up with a list rather than an argument."
+    },
+    {
+     "id": "93D98110-2137-5DB0-AFB7-8D703031FF9E",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "Let's compare two dictionaries intended for different readers. One could be a learner's dictionary and the other a historical dictionary. The point wouldn't be to decide which is better overall, but to see how their purposes affect the way they organise the same word."
+    },
+    {
+     "id": "DD14B337-CB4D-5F42-A207-315E702042CC",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "That would work. We need to read each dictionary's guide before interpreting the numbering. I used to assume the first meaning was always the most common current one, but some dictionaries arrange senses historically. We can't compare the order without knowing what the order is intended to show."
+    },
+    {
+     "id": "BB02C6C5-3250-541C-85EF-2D9C328598A8",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "And we should distinguish separate entries from separate senses inside one entry. The printed word can look the same while the dictionary treats uses as having different histories or grammatical functions. If we count every number as another word, our table will be confusing."
+    },
+    {
+     "id": "0199C8CC-A632-5B39-98D0-C8B8A68EA026",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "For examples, shall we use sentences from the dictionaries? We can quote a short example where necessary, but I don't want half the report to be copied material. We could write our own sentences to show the contrast, clearly labelling them as illustrations rather than quotations from actual sources."
+    },
+    {
+     "id": "2E7672AE-FFF8-56C7-B6B5-B74EAEE1619E",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "Yes. For instance, an illustration about a light suitcase would show one use, and switching on a light would show another. We should check that our examples actually match the sense we're discussing. An ambiguous sentence might make the difference less clear instead of helping."
+    },
+    {
+     "id": "0049D757-1387-50E3-AD97-FD4A9DD4D941",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "The tutor also asked us to consider what a reader might do with the entry. We could choose one practical task, such as finding the meaning of the word in a short passage. Then we can explain which features help with that task: grammatical labels, examples or a guide to related phrases."
+    },
+    {
+     "id": "CA29A2F2-0287-512E-B510-F6BC2136BF37",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "We shouldn't pretend to conduct a user study unless we actually recruit people and prepare a procedure. We can analyse the task ourselves and describe it as an analysis. If we ask two friends to comment informally, that doesn't turn it into evidence about all dictionary users."
+    },
+    {
+     "id": "39B4A2F9-CF55-5F5A-A599-9C10F8043D37",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "Agreed. The report should also mention the edition or the date we accessed an online entry. Dictionaries change, and a reader needs to know which version we compared. I'll save the reference details now rather than try to reconstruct them after we have finished writing."
+    },
+    {
+     "id": "6C8FFFE8-A59E-5A36-9F9E-3688ABE14C3B",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "For dividing the work, you could examine the learner's dictionary and I could examine the historical one. But let's agree on categories first. Otherwise, you might record pronunciation information while I focus on word origins, and our two accounts wouldn't answer the same questions."
+    },
+    {
+     "id": "5DC7FFF8-3087-5A53-8CEA-6C55B7488F56",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "Let's use purpose, division of meanings, order, examples and labels as the main categories. We can add a note for a feature that doesn't fit. If we force everything into identical boxes, we might hide exactly what is distinctive about one dictionary."
+    },
+    {
+     "id": "D05DAD65-F485-5179-8BB7-7E4530962CFC",
+     "speaker": "Tom",
+     "accent": "en-AU",
+     "text": "Then we'll exchange our notes and check whether the comparison is fair. We should avoid saying a feature is missing just because it appears somewhere else on the website. For example, a general pronunciation guide may apply to many entries rather than being repeated beside every word."
+    },
+    {
+     "id": "35E793B7-B73F-553D-BB87-4738C1FDEF5C",
+     "speaker": "Hana",
+     "accent": "en-GB",
+     "text": "That gives us a clear plan. We'll end by explaining what our comparison reveals about different dictionary purposes, not recommending that every reader use the same one. The interesting result may be that the best choice depends on the question the reader is trying to answer."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam78-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why do the students limit their comparison to two dictionaries?",
+     "explanation": "A narrower scope permits an analytical comparison.",
+     "evidenceQuote": "we'll end up with a list rather than an argument",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. An unlimited scope would encourage listing rather than analysis.",
+      "B. Only two dictionaries contain the chosen word.",
+      "C. The tutor forbids historical dictionaries."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. An unlimited scope would encourage listing rather than analysis.",
+      "An unlimited scope would encourage listing rather than analysis."
+     ]
+    },
+    {
+     "id": "exam78-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What mistaken assumption did Hana previously make about sense order?",
+     "explanation": "Some dictionaries use historical rather than frequency order.",
+     "evidenceQuote": "the first meaning was always the most common current one",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every number indicates a separate language.",
+      "B. The final sense is always the oldest.",
+      "C. The first sense must be the most frequent modern one."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The first sense must be the most frequent modern one.",
+      "The first sense must be the most frequent modern one."
+     ]
+    },
+    {
+     "id": "exam78-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "How will their own example sentences be identified?",
+     "explanation": "Original examples must not be passed off as citations.",
+     "evidenceQuote": "clearly labelling them as illustrations",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. As quotations from published research.",
+      "B. As illustrations written for the assignment.",
+      "C. As evidence of changing national usage."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. As illustrations written for the assignment.",
+      "As illustrations written for the assignment."
+     ]
+    },
+    {
+     "id": "exam78-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why will they agree on categories before dividing the work?",
+     "explanation": "Common categories make the comparison coherent.",
+     "evidenceQuote": "our two accounts wouldn't answer the same questions",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To ensure both accounts address comparable questions.",
+      "B. To prevent either student reading the guide.",
+      "C. To make the two dictionaries appear identical."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. To ensure both accounts address comparable questions.",
+      "To ensure both accounts address comparable questions."
+     ]
+    },
+    {
+     "id": "exam78-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What will they check before declaring a feature absent?",
+     "explanation": "Information can be supplied at a general rather than entry-specific level.",
+     "evidenceQuote": "it appears somewhere else on the website",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Whether a friend likes the dictionary.",
+      "B. Whether the word has several pronunciations.",
+      "C. Whether the information is provided elsewhere."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Whether the information is provided elsewhere.",
+      "Whether the information is provided elsewhere."
+     ]
+    },
+    {
+     "id": "exam78-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Read the dictionary’s __________ before interpreting numbering.",
+     "explanation": "The guide explains its conventions.",
+     "evidenceQuote": "each dictionary's guide",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "guide"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Distinguish separate entries from individual __________.",
+     "explanation": "Entry and sense divisions are different.",
+     "evidenceQuote": "separate senses inside one entry",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "senses"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "An illustration may be unhelpful if its sentence is __________.",
+     "explanation": "An unclear example can obscure the contrast.",
+     "evidenceQuote": "An ambiguous sentence",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ambiguous"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "For a printed dictionary, identify the __________.",
+     "explanation": "The version compared should be identifiable.",
+     "evidenceQuote": "mention the edition",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "edition"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "One agreed category concerns grammatical or usage __________.",
+     "explanation": "Labels are among the features compared.",
+     "evidenceQuote": "examples and labels",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "labels"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam78-lp4",
+   "partNumber": 4,
+   "title": "How stage translation is encountered",
+   "contextDescription": "A lecturer describes practical decisions involved in providing translated text for a live performance.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "EBF41974-E009-5E07-BFE4-E3599866C5E6",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A translated theatre text can be encountered in several forms. An audience might read a programme summary before the performance, hear an interpreter at selected moments or follow short translated lines displayed near the stage. These forms do different jobs. A summary establishes the broad situation, while displayed text attempts to accompany speech as it happens. Neither should be judged simply by whether it contains every word from the original script."
+    },
+    {
+     "id": "B9581B86-55CE-559C-BE6F-3381B31D58F5",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Displayed translations are often called surtitles. Their position matters because the spectator divides attention between words and action. A display above the stage may be easy to locate but require looking away from a performer. A display to one side can be nearer some seats and less convenient for others. The translation team therefore needs to consider the room as well as the language. A clear text in an unreadable location is not an effective solution."
+    },
+    {
+     "id": "D61F25F9-8ED2-5494-B798-1D3A49B782AF",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Length is another practical issue. Spoken dialogue continues while a spectator reads, so a long written sentence can remain unfinished when the next line appears. The translator may need to condense wording while retaining the point relevant to the scene. This is not an invitation to remove whatever seems difficult. A repeated phrase, for example, might carry a joke or reveal a relationship, even though it appears unnecessary when considered only as information."
+    },
+    {
+     "id": "E6DDC72D-71FA-5B30-ACB0-20A10B52BB79",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Timing connects the translation to performance. A line revealed too early can disclose a surprise before the actor reaches it. Revealed too late, it can make the audience react after the scene has moved on. In a live event, delivery may vary from one evening to another. The person operating the display follows the performance rather than treating the text as a film with an entirely fixed sequence of timings."
+    },
+    {
+     "id": "83F7E7A3-ABE3-52B7-9535-02097AEBFCD3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A rehearsal gives the team a chance to test these relationships. Someone can sit in different parts of the room and check the size and contrast of the words. The team can also notice whether reading a line causes an important gesture to be missed. A computer preview is useful for editing, but it doesn't reproduce the experience of dividing attention in an actual seat. Technical and artistic decisions meet in that practical test."
+    },
+    {
+     "id": "E04FD0BB-49D8-569F-AB3C-168FCC02FA09",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Names, wordplay and culturally specific references create further choices. A short explanation might help a reader understand a reference but be too long to follow during fast dialogue. Alternatively, a programme note can provide background before the scene begins. The best arrangement depends on what the audience needs at that moment. Translators should not assume that every spectator has the same cultural knowledge, but neither can every reference be turned into a lesson without changing the rhythm of the performance."
+    },
+    {
+     "id": "2FC2CA66-1FCB-5C27-B210-3C42B7729112",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The actors and director should know how the translated text works. Otherwise, a change in a speech may leave a display that no longer corresponds to what happens on stage. Keeping the translation connected to revisions is part of production, not merely a final administrative check. A version date helps the team identify which script and display file belong together. It cannot, by itself, guarantee that every alteration has been included."
+    },
+    {
+     "id": "AB8AD85A-9D92-505A-9E71-770CCB52BDC1",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, translated text is one part of access, not a universal substitute for every other arrangement. Different audience members may need different forms of support. The production should explain what is offered so people can decide whether it suits them. For example, information about the position of the display and the languages provided should be available before someone chooses a seat or purchases a ticket. A successful translation does more than reproduce sentences in another language. It enables an encounter with a live event, balancing reading, listening, timing and the changing attention of the audience."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam78-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "A programme __________ can establish the broad situation.",
+     "explanation": "A summary and real-time translation serve different purposes.",
+     "evidenceQuote": "A summary establishes the broad situation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "summary"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Displayed stage translations are often termed __________.",
+     "explanation": "Surtitles are translated text displayed for an audience.",
+     "evidenceQuote": "often called surtitles",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "surtitles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Spectators divide attention between text and __________.",
+     "explanation": "Display placement affects attention to the stage.",
+     "evidenceQuote": "between words and action",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "action"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The translator may need to __________ the wording.",
+     "explanation": "Reading time can require shorter phrasing.",
+     "evidenceQuote": "condense wording",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "condense"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Showing a line too soon may reveal a __________.",
+     "explanation": "Timing can affect dramatic effects.",
+     "evidenceQuote": "disclose a surprise",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "surprise"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Test the display during a __________.",
+     "explanation": "The actual room provides information a preview cannot.",
+     "evidenceQuote": "A rehearsal gives the team",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rehearsal"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Check both text size and __________.",
+     "explanation": "Both influence readability.",
+     "evidenceQuote": "the size and contrast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "contrast"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "A programme note may supply cultural __________.",
+     "explanation": "Background can be offered before fast dialogue.",
+     "evidenceQuote": "provide background",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "background"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "A version __________ helps link the correct files.",
+     "explanation": "A date helps coordinate revisions.",
+     "evidenceQuote": "A version date",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "date"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Explain the __________ offered so audiences can decide if it suits them.",
+     "explanation": "Translated text is not a complete replacement for every access need.",
+     "evidenceQuote": "forms of support",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "support"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam78-rp1",
+   "passageNumber": 1,
+   "title": "A writing system designed for fingertips",
+   "discipline": "Literacy and Design History",
+   "paragraphs": [
+    "Louis Braille's name is attached to a tactile writing system, but understanding its significance requires more than remembering an inventor. Earlier attempts to make writing available through touch often adapted the shapes of printed letters. Braille took a different direction: a compact arrangement of raised dots could be recognised by a fingertip without tracing a large visual outline. The contrast concerns the reader's physical encounter with information. A system that resembles ordinary print may reassure a sighted observer while remaining less convenient for a person who has to identify it by touch.",
+    "Born in Coupvray, France, in 1809, Louis Braille lost his sight after a childhood injury. He later attended the school for blind young people in Paris. There he encountered the raised-point work associated with Charles Barbier. Barbier's arrangement used a larger cell than the one Braille eventually developed. The younger student worked on a more compact alternative during the 1820s, and published an account of his method in 1829. His work grew from an existing attempt at tactile communication, but the reduction and organisation of the cell made it a distinctive system rather than a simple copy.",
+    "The familiar basic cell has six possible dot positions, organised as two vertical columns with three positions in each. A position can be raised or left unraised. Mathematically, six such choices allow sixty-four combinations, including the completely blank cell. Excluding that blank leaves sixty-three raised-dot patterns. The numbering used to describe the positions is a practical convention, enabling a teacher or transcriber to specify a pattern without drawing it. It is the arrangement, not the visual resemblance of a mark to a printed letter, that carries the distinction a reader needs to recognise.",
+    "Braille can represent more than alphabetic letters. Punctuation, numbers and specialised notation can also be expressed through agreed patterns and combinations. Louis Braille's early publication included a way of writing music, and later work developed further uses. The physical cell does not mean that one isolated sign must always stand for the same thing in every context. A system needs conventions that tell a reader how to interpret a sequence. This is familiar in print too: a character or mark can perform a different role depending on its surroundings and the kind of notation being used.",
+    "Another distinction is between uncontracted and contracted forms. In English, contracted braille adds signs for common words or groups of letters to the letters and punctuation used in uncontracted braille. Such conventions can reduce the amount of space a text occupies. They also mean that learning the alphabet alone is not the whole task of reading every braille text. This is not a reason to regard contractions as arbitrary obstacles. It shows how a writing system can balance economy with the need for shared rules that readers and producers both understand.",
+    "The spread of braille was not an instantaneous replacement of every competing approach. Histories of education for blind people describe periods when different systems of raised writing coexisted. A reader might encounter books produced in more than one system. This matters because access depends on both a usable code and material available in that code. An excellent method cannot by itself place a particular book in someone's hands. Printing, teaching, distribution and decisions by institutions all affect whether a writing system becomes a practical part of everyday reading and study.",
+    "Production has changed with technology. Alongside manual tools, braille can be generated using computer-assisted processes and read on refreshable displays. These developments do not turn the system into spoken language: the reader still encounters written structure through touch. Nor does automatic conversion remove the need for checking. Layout, symbols and the conventions of the code require knowledgeable attention. The distinction between producing a pattern of dots and producing an accurate usable text is as important as the distinction between printing visible characters and publishing a readable page.",
+    "The history consequently illustrates a wider design lesson without reducing the achievement to a slogan. Braille addressed a particular way of reading, and its continuing usefulness depends on education, agreed conventions and access to material. It is neither merely an old object preserved for admiration nor a promise that one format suits every individual need. Its importance lies in enabling direct engagement with written language. A reader can examine spelling, return to a passage or study notation through a system designed around tactile recognition rather than a borrowed visual shape."
+   ],
+   "questions": [
+    {
+     "id": "exam78-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Some earlier tactile systems imitated the shapes of printed letters.",
+     "explanation": "Earlier approaches sometimes used raised print-like shapes.",
+     "evidenceQuote": "adapted the shapes of printed letters",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam78-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Braille published an account of his method before encountering Barbier’s work.",
+     "explanation": "The encounter preceded the development and 1829 publication described.",
+     "evidenceQuote": "There he encountered the raised-point work",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam78-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The basic six-position cell has sixty-four combinations when the blank is included.",
+     "explanation": "The distinction between all combinations and nonblank patterns is explicit.",
+     "evidenceQuote": "sixty-four combinations, including the completely blank cell",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam78-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Each braille sign has an identical meaning regardless of its context.",
+     "explanation": "Conventions and context affect interpretation.",
+     "evidenceQuote": "does not mean that one isolated sign must always stand for the same thing",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam78-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Contracted English braille was introduced to make books more decorative.",
+     "explanation": "The stated purpose concerns economy, not decoration.",
+     "evidenceQuote": "reduce the amount of space a text occupies",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam78-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Paris school initially printed two hundred copies of Braille’s account.",
+     "explanation": "No edition size is supplied.",
+     "evidenceQuote": "published an account of his method in 1829",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam78-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Refreshable displays have become more common than paper braille worldwide.",
+     "explanation": "The passage mentions the technology but gives no comparative prevalence.",
+     "evidenceQuote": "read on refreshable displays",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam78-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Braille’s compact patterns can be recognised by a __________.",
+     "explanation": "The cell suits tactile recognition.",
+     "evidenceQuote": "recognised by a fingertip",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fingertip"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "Louis Braille was born in __________.",
+     "explanation": "Coupvray is the stated birthplace.",
+     "evidenceQuote": "Born in Coupvray",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Coupvray"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "The six positions form two vertical __________.",
+     "explanation": "Each column contains three positions.",
+     "evidenceQuote": "two vertical columns",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "columns"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "The 1829 publication included notation for __________.",
+     "explanation": "Braille could support notation beyond ordinary letters.",
+     "evidenceQuote": "a way of writing music",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "music"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "The spread of a code also depends on teaching and __________.",
+     "explanation": "Availability of material is necessary for practical use.",
+     "evidenceQuote": "Printing, teaching, distribution",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "distribution"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Automatic production still requires knowledgeable __________.",
+     "explanation": "Conversion does not eliminate expert checking.",
+     "evidenceQuote": "knowledgeable attention",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "attention"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 736,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam78-rp2",
+   "passageNumber": 2,
+   "title": "Inside a word with several meanings",
+   "discipline": "Lexicography",
+   "paragraphs": [
+    "Looking up a word is not always a search for one interchangeable definition. A familiar form may lead to a long entry divided into senses, examples and grammatical information. The arrangement represents decisions about how uses relate to one another and what a particular dictionary is intended to provide. A learner seeking the meaning of a sentence, a historian tracing an earlier use and a translator choosing an expression may approach the same entry with different questions. Understanding its conventions is part of using the resource, rather than an optional technical interest reserved for its editors.",
+    "Consider the ordinary English word 'light'. In a sentence about lifting a suitcase, it can concern weight. In a sentence about a lamp, it can concern illumination. These original examples do not require a claim that the two uses share one simple meaning. They illustrate why selecting the first available definition may fail. The sentence supplies grammatical and practical context that helps a reader choose among possibilities. A dictionary entry must make those possibilities navigable without pretending that a short list can replace all the knowledge readers bring to interpreting language in use.",
+    "The visual divisions have meanings too. Merriam-Webster explains that its numbered senses and lettered subdivisions organise meanings and their relationships, rather than ranking them by importance. Its explanatory notes describe a historical ordering of senses. A reader should therefore not assume that the first numbered sense is necessarily the most frequent current one. Another dictionary may make different editorial choices for a different audience. Before comparing two entries, the user needs to know what each publication says its ordering and labels represent, instead of treating every numbering system as if it followed one universal rule.",
+    "Definitions are only part of an entry. A grammatical label can distinguish a noun from a verb, while a usage label can limit a meaning to a particular kind of context. Such information may apply to the whole entry or only to a specified sense. Ignoring its scope can create a mistake even when the reader has copied a definition accurately. In an original example, knowing an expression's meaning would not by itself establish that it suited a formal application. Information about the kind of situation in which an expression is used can matter as much as a paraphrase of its content.",
+    "Editors also need examples of actual usage. Merriam-Webster describes collecting words with their surrounding context and source details, then examining that material when deciding whether to add or revise an entry. A word's repeated appearance alone does not settle every question about its meaning. Context has to reveal enough for an editor to interpret the use. A string copied across many publications may look plentiful without offering many independent ways of understanding it. The editorial task involves reading examples, not simply counting how often a sequence of letters appears.",
+    "The size and purpose of a dictionary affect selection. A compact general work cannot include every specialised meaning, while a larger publication may have room for less common uses. An absent sense is therefore not proof that nobody uses it. Nor does the inclusion of an expression mean that every speaker should choose it in every setting. A dictionary can describe usage while distinguishing contexts and histories. Its authority is connected to the quality and scope of that description, not to the idea that publication creates the language it records.",
+    "For a translator, the entry can begin a decision rather than complete it. Suppose an English sentence describes a room as light. The surrounding passage may indicate brightness, colour or a contrast with something heavy in a specialised context. A target language might require different words for these possibilities. The translator has to identify the intended sense before choosing an equivalent, then consider how that equivalent behaves in the new sentence. A bilingual word pair written in isolation cannot do all of this work, however useful it may be as an initial guide.",
+    "A good lookup consequently involves moving between entry and context. The user identifies a possible sense, checks the grammar and examples, and returns to the sentence to see whether the interpretation fits. This is not a demand to read every dictionary from beginning to end. It is a reminder that a dictionary is an organised account with conventions, not a machine producing one answer independently of a question. Once those conventions are understood, the divisions and labels become tools for making distinctions rather than obstacles between the reader and the meaning they need."
+   ],
+   "questions": [
+    {
+     "id": "exam78-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B uses original examples to show the need to select a sense.",
+     "evidenceQuote": "the ordinary English word 'light'",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. One word form in contrasting situations",
+      "One word form in contrasting situations"
+     ]
+    },
+    {
+     "id": "exam78-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C explains ordering and numbered divisions.",
+     "evidenceQuote": "The visual divisions have meanings too.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Interpreting the order and divisions",
+      "Interpreting the order and divisions"
+     ]
+    },
+    {
+     "id": "exam78-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D concerns labels and their scope.",
+     "evidenceQuote": "Definitions are only part of an entry.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Information beyond the definition itself",
+      "Information beyond the definition itself"
+     ]
+    },
+    {
+     "id": "exam78-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E examines how contextual evidence supports editorial work.",
+     "evidenceQuote": "examples of actual usage",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. The importance of evidence in context",
+      "The importance of evidence in context"
+     ]
+    },
+    {
+     "id": "exam78-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F discusses why different works include different material.",
+     "evidenceQuote": "The size and purpose of a dictionary affect selection.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. How scope affects what is included",
+      "How scope affects what is included"
+     ]
+    },
+    {
+     "id": "exam78-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G examines translation beyond isolated equivalents.",
+     "evidenceQuote": "For a translator, the entry can begin a decision",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. From a possible sense to a translated sentence",
+      "From a possible sense to a translated sentence"
+     ]
+    },
+    {
+     "id": "exam78-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H describes a practical lookup process.",
+     "evidenceQuote": "moving between entry and context",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Using the entry alongside the original sentence",
+      "Using the entry alongside the original sentence"
+     ]
+    },
+    {
+     "id": "exam78-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What assumption about a first numbered sense does the passage challenge?",
+     "explanation": "Ordering can be historical rather than frequency-based.",
+     "evidenceQuote": "not assume that the first numbered sense is necessarily the most frequent current one",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It can have grammatical information.",
+      "B. It belongs to the same entry as later senses.",
+      "C. Its order can reflect editorial policy.",
+      "D. It must be the most common modern meaning."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It must be the most common modern meaning.",
+      "It must be the most common modern meaning."
+     ]
+    },
+    {
+     "id": "exam78-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why can copying a definition still lead to an inappropriate expression?",
+     "explanation": "A contextual label may apply to that particular sense.",
+     "evidenceQuote": "Ignoring its scope",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Definitions are never based on usage.",
+      "B. Relevant usage information may have been ignored.",
+      "C. Every expression is appropriate in a formal application.",
+      "D. The copied spelling necessarily changes its history."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Relevant usage information may have been ignored.",
+      "Relevant usage information may have been ignored."
+     ]
+    },
+    {
+     "id": "exam78-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does absence from a compact dictionary establish?",
+     "explanation": "Selection limits do not establish non-use.",
+     "evidenceQuote": "not proof that nobody uses it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Only that the sense is not included in that work.",
+      "B. That the sense has never existed.",
+      "C. That translators are forbidden to use it.",
+      "D. That every larger dictionary excludes it too."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Only that the sense is not included in that work.",
+      "Only that the sense is not included in that work."
+     ]
+    },
+    {
+     "id": "exam78-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "A usage label may apply only to one specified __________.",
+     "explanation": "Scope must be checked.",
+     "evidenceQuote": "only to a specified sense",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sense"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Editorial evidence includes surrounding context and source __________.",
+     "explanation": "Source information accompanies examples.",
+     "evidenceQuote": "source details",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "details"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "An isolated bilingual word pair can be an initial __________.",
+     "explanation": "It does not replace interpretation of a whole sentence.",
+     "evidenceQuote": "an initial guide",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "guide"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 751,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. Interpreting the order and divisions",
+      "ii. From a possible sense to a translated sentence",
+      "iii. Why every dictionary should contain all specialist terms",
+      "iv. The importance of evidence in context",
+      "v. How scope affects what is included",
+      "vi. One word form in contrasting situations",
+      "vii. Using the entry alongside the original sentence",
+      "viii. Information beyond the definition itself",
+      "ix. The disappearance of editorial conventions"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam78-rp3",
+   "passageNumber": 3,
+   "title": "Languages on the stage",
+   "discipline": "Cultural Participation",
+   "paragraphs": [
+    "A performance in an unfamiliar language can be presented as a barrier to overcome or as an invitation to encounter something beyond habitual experience. Neither description settles what an audience needs. Some spectators want to follow every turn of the plot; others value the sound and movement even when individual words escape them. In my view, theatres should take these differences seriously without treating incomplete verbal comprehension as either a failure of the audience or a special virtue that makes practical support unnecessary. Access and artistic encounter are not opposing aims that must always be traded against each other.",
+    "The organiser has several possible tools. A programme editor can offer a concise account of the situation before the performance begins. A surtitler can provide short translated lines as speech unfolds. An interpreter working at a discussion after the event can make questions and answers available across languages. A workshop facilitator may introduce key expressions through participation, while a performer can use gesture, pace and repeated actions within the production itself. These roles do not all replace one another. Each affects a different part of the audience's encounter, and choosing among them requires attention to the event rather than a single rule about translation.",
+    "I would not require every production to use every possible form of support. Resources and artistic methods differ, and an overcrowded set of competing signals can itself become difficult to follow. However, a theatre should explain clearly what is offered before people book. A visitor should not discover only after arriving that a promised translation is a short summary rather than a line-by-line display. Clear description allows people to judge suitability, including whether the arrangement matches their reading, listening or access needs. It also prevents a modest but useful provision from being advertised as something it is not.",
+    "The quality of a translation cannot be judged only by how many words it contains. A surtitled line has to be read while events continue, so a concise version may serve an audience better than an exhaustive one that disappears before it can be finished. Yet shortening is an artistic and linguistic decision, not merely deleting difficult material. A repeated phrase can establish a character's manner or prepare a later joke. In my view, decisions about what to retain should be connected to the experience of the scene rather than to an abstract demand that every line be equally brief.",
+    "There is also a question of cultural framing. A programme note may help with a reference unfamiliar to some visitors, but it can become patronising if it assumes that every audience member lacks the same knowledge. Nor should a production be required to explain every difference as if it were a problem. A useful approach offers relevant context without announcing that one group's experience is normal and another's must be translated into it. The possibility of encountering something not entirely familiar is part of cultural participation, alongside the right to reliable information about what kind of encounter is being offered.",
+    "Audience response can guide improvement, provided it is read with care. Someone who enjoyed a show may still have struggled to see the display. Someone who disliked the artistic choices may nevertheless report that the language support worked well. Asking only whether visitors liked the performance combines these different matters. I believe evaluation should allow them to describe specific aspects, such as visibility, timing and the usefulness of advance information. It should also seek the experience of people who chose not to attend because the arrangements did not meet their needs, rather than treating ticket sales as a complete account of access.",
+    "Participation after the performance matters too. A discussion can deepen an encounter, but only if the arrangements allow people to ask and hear questions. Announcing that the show is translated while leaving the discussion in a single language may create an unexpected boundary. The theatre cannot always provide every form of participation at every event, but it can distinguish what is available. Honest limits are more useful than an inclusive promise that becomes inaccurate at the moment a visitor tries to take part. Cultural openness has an organisational dimension as well as a statement of intention.",
+    "The strongest case for language support is therefore practical and artistic at once. It can widen the opportunity to participate without promising that every experience will become identical. In my view, the aim is not to remove all uncertainty from a performance or to turn theatre into a comprehension examination. It is to create conditions in which people can choose to encounter the work and understand the support on which they may rely. Different languages can remain audible and meaningful while the institution takes responsibility for the clarity and usability of the arrangements it offers."
+   ],
+   "questions": [
+    {
+     "id": "exam78-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "provides a concise explanation before the event begins",
+     "explanation": "The programme editor supplies advance context.",
+     "evidenceQuote": "A programme editor can offer a concise account",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Programme editor",
+      "Programme editor"
+     ]
+    },
+    {
+     "id": "exam78-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "supplies short translated lines during speech",
+     "explanation": "The surtitler supports real-time comprehension.",
+     "evidenceQuote": "A surtitler can provide short translated lines",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Surtitler",
+      "Surtitler"
+     ]
+    },
+    {
+     "id": "exam78-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "makes an after-show exchange accessible across languages",
+     "explanation": "The interpreter supports the discussion.",
+     "evidenceQuote": "An interpreter working at a discussion",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Discussion interpreter",
+      "Discussion interpreter"
+     ]
+    },
+    {
+     "id": "exam78-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "introduces expressions through an activity",
+     "explanation": "The workshop facilitator uses participation.",
+     "evidenceQuote": "A workshop facilitator may introduce key expressions through participation",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Workshop facilitator",
+      "Workshop facilitator"
+     ]
+    },
+    {
+     "id": "exam78-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "communicates within the work through movement and pace",
+     "explanation": "The performer uses embodied means inside the production.",
+     "evidenceQuote": "a performer can use gesture, pace",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Performer",
+      "Performer"
+     ]
+    },
+    {
+     "id": "exam78-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Every production should provide every possible type of language support.",
+     "explanation": "The writer recognises resources and artistic differences.",
+     "evidenceQuote": "not require every production to use every possible form",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam78-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Audiences should know what kind of translation is offered before booking.",
+     "explanation": "Accurate advance description enables informed choice.",
+     "evidenceQuote": "explain clearly what is offered before people book",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam78-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "A shorter surtitled version can be more useful than an unreadably long one.",
+     "explanation": "Reading time matters to usefulness.",
+     "evidenceQuote": "a concise version may serve an audience better",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam78-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "A central national board should approve all programme notes before publication.",
+     "explanation": "No approval body or publication procedure is proposed.",
+     "evidenceQuote": "A programme note may help",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam78-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Ticket sales provide a complete measure of whether an event is accessible.",
+     "explanation": "Non-attendance and specific barriers also matter.",
+     "evidenceQuote": "rather than treating ticket sales as a complete account of access",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam78-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Advance descriptions should help visitors judge __________.",
+     "explanation": "Visitors need to know whether arrangements meet their needs.",
+     "evidenceQuote": "judge suitability",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "suitability"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Shortening text can affect a character’s manner or a later __________.",
+     "explanation": "Repetition may have an artistic function.",
+     "evidenceQuote": "prepare a later joke",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "joke"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Feedback should distinguish language support from artistic __________.",
+     "explanation": "Enjoyment and accessibility are different aspects.",
+     "evidenceQuote": "the artistic choices",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "choices"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam78-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Leaving a post-show discussion untranslated can create a new __________.",
+     "explanation": "Access arrangements may differ between parts of an event.",
+     "evidenceQuote": "an unexpected boundary",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boundary"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 794,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Match each contribution with the role, A–E.",
+     "options": [
+      "A. Programme editor",
+      "B. Surtitler",
+      "C. Discussion interpreter",
+      "D. Workshop facilitator",
+      "E. Performer"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam78-w1",
+  "title": "Formats borrowed from an accessible reading service",
+  "visualType": "Table",
+  "instructions": "The table shows the numbers of loans in three formats from a fictional accessible reading service in 2016, 2020 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "47CC992D-B6B5-5C3F-8421-5E7471E68985",
+    "series": "Audio downloads",
+    "category": "2016",
+    "value": 4200.0,
+    "unit": "loans"
+   },
+   {
+    "id": "926C6E07-A7C4-590C-AB32-C09CAF0357FF",
+    "series": "Audio downloads",
+    "category": "2020",
+    "value": 7800.0,
+    "unit": "loans"
+   },
+   {
+    "id": "6556132A-EA3E-5586-BEF7-EB2F77DADC43",
+    "series": "Audio downloads",
+    "category": "2024",
+    "value": 12600.0,
+    "unit": "loans"
+   },
+   {
+    "id": "5F070FD2-02C8-5079-B47B-01D00055C6ED",
+    "series": "Large print",
+    "category": "2016",
+    "value": 3600.0,
+    "unit": "loans"
+   },
+   {
+    "id": "719030E6-86D0-5209-94C1-ED9916B1EA24",
+    "series": "Large print",
+    "category": "2020",
+    "value": 3900.0,
+    "unit": "loans"
+   },
+   {
+    "id": "04F3CF17-6AF2-5845-9511-957825E940F5",
+    "series": "Large print",
+    "category": "2024",
+    "value": 4100.0,
+    "unit": "loans"
+   },
+   {
+    "id": "DBAEB38D-4881-5760-870F-C1EF4915BBEB",
+    "series": "Braille",
+    "category": "2016",
+    "value": 1800.0,
+    "unit": "loans"
+   },
+   {
+    "id": "CB6E6710-F0FF-5787-838F-80B5B0CAE144",
+    "series": "Braille",
+    "category": "2020",
+    "value": 2100.0,
+    "unit": "loans"
+   },
+   {
+    "id": "E5F01F0A-6F9B-5739-B70F-453970647A9C",
+    "series": "Braille",
+    "category": "2024",
+    "value": 2700.0,
+    "unit": "loans"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Loans rose in every format, with audio downloads showing by far the largest absolute increase.",
+   "Audio downloads were the largest category throughout, while braille remained the smallest."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam78-w2",
+  "title": "Translation at cultural events",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Culture and Language",
+  "promptText": "Some cultural organisations provide translations so audiences can attend events in languages they do not understand. Do the advantages of this practice outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam78-spk",
+  "theme": "Encountering different languages",
+  "part1Questions": [
+   "What languages do you hear in your local area?",
+   "Do you enjoy learning how a name is pronounced?",
+   "When do you use a dictionary?",
+   "Do you watch programmes in languages you are learning?",
+   "What kind of language event would interest you?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an occasion when you enjoyed an event even though you did not understand every word.",
+   "bulletPoints": [
+    "what the event was",
+    "who you were with",
+    "what helped you follow or enjoy it",
+    "and explain what you remember about the experience"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How can cultural events welcome people who speak different languages?",
+   "What are the limits of translating a live performance?",
+   "Should public information always be available in several formats?",
+   "Why might a dictionary offer several meanings for one word?",
+   "How can communities encourage interest in languages without putting pressure on individual speakers?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored IELTS-style material",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening organisations and events are fictional. Reading 1 facts checked against RNIB, Library of Congress, American Foundation for the Blind and Perkins School primary educational histories. Reading 2 editorial facts checked against Merriam-Webster explanatory notes; illustrative language examples are original. Writing figures are fictional examination data.",
+   "References: https://www.rnib.org.uk/living-with-sight-loss/education-and-learning/braille-tactile-codes/braille-through-the-years-past-present-and-future/ ; https://www.loc.gov/nls/services-and-resources/informational-publications/about-braille/ ; https://afb.org/about-afb/history/online-museums/life-and-legacy-louis-braille/braille-nvents-his-code ; https://www.perkins.org/history-of-braille/ ; https://www.rnib.org.uk/living-with-sight-loss/education-and-learning/braille-tactile-codes/contracted-grade-2-braille-explained/ ; https://www.merriam-webster.com/help/faq-words-into-dictionary ; https://www.merriam-webster.com/help/explanatory-notes/dict-definitions",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

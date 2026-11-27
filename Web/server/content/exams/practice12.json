@@ -1,0 +1,2141 @@
+{
+ "id": "practice12",
+ "examNumber": 12,
+ "pool": "practice",
+ "title": "Practice Test 12: Space Travel & Exploring the Solar System",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Space Travel & Exploring the Solar System",
+ "listeningParts": [
+  {
+   "id": "practice12-lp1",
+   "partNumber": 1,
+   "title": "Booking a school visit to a space centre",
+   "contextDescription": "A teacher phones a space science centre to book a visit for her class.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "16DB2842-73E3-5E81-9E32-1C15BD60AD47",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Good morning, Northgate Space Centre, bookings desk. This is Oliver speaking. How can I help?"
+    },
+    {
+     "id": "F2AC5727-72CB-5642-BBC6-AD6669D4E796",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Hi, good morning. I'm a teacher at a primary school, and I'd like to book a visit for my class next term. We're studying the solar system, and I've heard your centre is excellent for children."
+    },
+    {
+     "id": "0E129493-0FF6-51A6-862C-1E23955AFDE8",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thank you, that's lovely to hear. I can certainly help with that. How many children would be coming?"
+    },
+    {
+     "id": "853216E1-AFEF-5EC5-A626-1006003799CD",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "There are thirty-two in the class, but two of them will be away on that week, so it'll be thirty pupils."
+    },
+    {
+     "id": "D1D038BC-8608-5F48-981C-DB1AA2FD8E1B",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thirty pupils. And how old are they?"
+    },
+    {
+     "id": "7FDCFD70-B8B3-572D-8783-939DE622718D",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "They're nine and ten years old."
+    },
+    {
+     "id": "61AE6E2A-7214-5C61-B946-C3DCBBA1734F",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Perfect. For that age group, we recommend our Explorer Day. It includes a show in the planetarium, a guided tour of the main galleries and one workshop. Did you have a date in mind?"
+    },
+    {
+     "id": "F425F1DE-32DB-52CB-8383-8A980B560681",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "We were hoping for a Thursday in May. Would the fifteenth be possible?"
+    },
+    {
+     "id": "0177EAD4-87C4-584A-8566-73B52418417D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Let me check. I'm afraid the fifteenth is already fully booked, but we have space on Thursday the twenty-second."
+    },
+    {
+     "id": "F255CB4C-9FFB-578C-84EB-48AF2FDC3B72",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "The twenty-second would be fine. That's still before the half-term holiday."
+    },
+    {
+     "id": "1591AF0E-B7EA-5C43-9273-784F28EABB59",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Great. Now, for the workshop, there are three choices. The first is Rocket Science, where the children build and launch small rockets powered by water and air. The second is Life on the Space Station, where they find out how astronauts eat, sleep and exercise. And the third is Mission to Mars, where they work in teams to design a vehicle that could drive on the surface of Mars."
+    },
+    {
+     "id": "61F150A8-0459-5603-89C4-21A93E94EA1D",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Hmm. They'd all love the rockets, but I think the Mars one fits best with our topic, because we're going to look at the planets in detail."
+    },
+    {
+     "id": "C9BAA583-0708-569F-9575-30BB69AD4794",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Mission to Mars it is, then. It's very popular, and the children get to test their designs on our model Martian landscape at the end."
+    },
+    {
+     "id": "0E0CCA66-2469-51DA-B6F1-084F84B1AD26",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Wonderful. What time does the day start?"
+    },
+    {
+     "id": "430F50C1-869B-5B23-B3C7-784E669581F1",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "We ask groups to arrive by half past nine. The planetarium show begins at a quarter to ten, and the day finishes at half past two, so that you can get back to school before the end of the day."
+    },
+    {
+     "id": "04DC9271-B8A7-5F56-834C-E7F8ABE814EA",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "That works. And what about lunch? We'll bring packed lunches."
+    },
+    {
+     "id": "9093B364-6E59-5B7A-BF7D-9D07658EF834",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "That's what most schools do. We have a lunch room for school groups on the ground floor, next to the shop. You'll have it from twelve until half past twelve. You can also leave bags and coats there during the morning."
+    },
+    {
+     "id": "A746D495-36A7-52D4-A93F-8E96B420DA8E",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Good. And how much does it cost?"
+    },
+    {
+     "id": "1E415243-8312-5045-86D5-A77694F3D89D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The Explorer Day is eight pounds fifty per child. Adults are free, as long as there's at least one adult for every ten children. Any extra adults pay six pounds."
+    },
+    {
+     "id": "A30ADE25-B048-5CD9-8770-D4E45E74539A",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "So with thirty children, we need three adults. I'll probably bring four, with myself and three parents. Is that a problem?"
+    },
+    {
+     "id": "2149F799-877C-5086-9566-F09C7D3C1354",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Not at all. The fourth adult would just pay the six pounds. Now, can I take some details? What's the name of your school?"
+    },
+    {
+     "id": "069BDAFE-61E5-52AE-81B4-134AF63508A9",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "It's Hollybank Primary School."
+    },
+    {
+     "id": "336876CC-9188-501F-9100-C3EA4EFD941D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "And your name?"
+    },
+    {
+     "id": "0538738B-2933-5E34-9DD9-C56F526CF4E0",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Mrs Karen Lindqvist. That's L-I-N-D-Q-V-I-S-T."
+    },
+    {
+     "id": "47BD98A4-4505-5B71-AADA-7BE7EA4536E9",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thank you. Will you be coming by coach?"
+    },
+    {
+     "id": "A4114086-51A5-518A-93A9-3465B3073AEC",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Yes, we will."
+    },
+    {
+     "id": "2692E9FE-533D-5E7A-BA6B-360E37834A35",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Then please tell the driver to use the entrance on Mill Lane, not the main entrance, because coaches can drop off and park there. And one more thing: please let us know at least a week before your visit if any children need extra support, or use a wheelchair, so that we can make sure everything is ready."
+    },
+    {
+     "id": "7B5E7A07-B843-59B8-9ABC-D253C1CF1CD2",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "One of the boys does use a wheelchair, actually."
+    },
+    {
+     "id": "E03ED37B-77E6-54D1-B43B-DE9D87B0893A",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "That's no problem at all. The whole building is accessible, and I'll make a note on the booking. We'll send you a confirmation by email, along with a worksheet that the children can complete during the gallery tour."
+    },
+    {
+     "id": "F88DDB83-4425-5930-9F06-09EA230E7C05",
+     "speaker": "Teacher",
+     "accent": "en-CA",
+     "text": "Lovely. Thanks so much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice12-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Number of pupils: __________",
+     "explanation": "Thirty pupils will come.",
+     "evidenceQuote": "so it'll be thirty pupils",
+     "skillTag": "numbers",
+     "distractorNote": "There are 32 in the class, but two will be away.",
+     "options": [],
+     "acceptedAnswers": [
+      "30",
+      "thirty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Date of visit: Thursday __________ May",
+     "explanation": "The visit is on the 22nd.",
+     "evidenceQuote": "we have space on Thursday the twenty-second",
+     "skillTag": "dates",
+     "distractorNote": "The 15th is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "twenty-second",
+      "22nd",
+      "22"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Workshop: Mission to __________",
+     "explanation": "She chooses Mission to Mars.",
+     "evidenceQuote": "Mission to Mars it is, then.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Mars"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Children test designs on a model Martian __________",
+     "explanation": "They use a model landscape.",
+     "evidenceQuote": "test their designs on our model Martian landscape",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "landscape"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Arrival time: by __________ a.m.",
+     "explanation": "Groups arrive by 9.30.",
+     "evidenceQuote": "We ask groups to arrive by half past nine.",
+     "skillTag": "numbers",
+     "distractorNote": "9.45 is when the planetarium show starts.",
+     "options": [],
+     "acceptedAnswers": [
+      "9.30",
+      "9:30",
+      "half past nine"
+     ],
+     "maxWordCount": 3
+    },
+    {
+     "id": "practice12-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Lunch room: ground floor, next to the __________",
+     "explanation": "It is next to the shop.",
+     "evidenceQuote": "on the ground floor, next to the shop",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "shop"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Cost per child: £__________",
+     "explanation": "It costs £8.50.",
+     "evidenceQuote": "eight pounds fifty per child",
+     "skillTag": "numbers",
+     "distractorNote": "£6 is for extra adults.",
+     "options": [],
+     "acceptedAnswers": [
+      "8.50",
+      "8.5"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "School: __________ Primary School",
+     "explanation": "The school is Hollybank.",
+     "evidenceQuote": "It's Hollybank Primary School.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Hollybank"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Teacher's surname: __________",
+     "explanation": "She spells Lindqvist.",
+     "evidenceQuote": "Mrs Karen Lindqvist. That's L-I-N-D-Q-V-I-S-T.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Lindqvist"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Coach entrance: on Mill __________",
+     "explanation": "Coaches use Mill Lane.",
+     "evidenceQuote": "use the entrance on Mill Lane",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Lane"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "planetarium",
+    "workshop",
+    "group booking",
+    "packed lunch",
+    "supervisor"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice12-lp2",
+   "partNumber": 2,
+   "title": "A summer space camp",
+   "contextDescription": "The organiser of a week-long summer space camp for teenagers speaks to parents at an information evening.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "8AE4071B-22B8-536D-944E-C068F05B2993",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Good evening, everyone, and thank you for coming. My name is Rachel Torres, and I'm the director of Orbit Space Camp. Tonight I'd like to tell you what your children will be doing during the week, and answer some of the questions that parents usually ask."
+    },
+    {
+     "id": "F4FFE038-3AFB-50A5-ADCC-38B2CFA5F32F",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "First, a bit about us. Orbit Space Camp started eleven years ago, with just twenty students in a borrowed school hall. Today we welcome around two hundred young people every summer, aged between twelve and sixteen, and we're based here at the university, which means we can use the science labs, the sports hall and the observatory on the roof. Most of our staff are science teachers or university students studying physics or engineering, and every group of eight campers has its own team leader."
+    },
+    {
+     "id": "94B07AB0-3BF9-5FB8-B02D-3791ACAE036E",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Now, the programme. The week is built around a single big challenge: each team has to plan and carry out an imaginary mission to the Moon. Everything they do during the week helps them prepare for that."
+    },
+    {
+     "id": "4E53611D-8F47-5688-910D-119967B4FEF8",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "On Monday, after the welcome session, the teams are formed and each one chooses a name and designs a mission badge. In the afternoon, there's a talk about the history of space travel, and we're very lucky this year, because the talk will be given by a retired engineer who worked on satellite design for over thirty years."
+    },
+    {
+     "id": "DD2C3A22-A0B3-5759-814F-F5199AEFA08E",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "On Tuesday, the focus is on rockets. Campers learn the basic science of how rockets work, and then they build their own model rockets, which are launched on the sports field. It's always one of the favourite days, although it can get a little muddy if it rains, so please pack an old pair of shoes."
+    },
+    {
+     "id": "3CE0A39A-DF76-5344-951C-E02BAD1C662B",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Wednesday is all about living in space. The campers try some of the food that astronauts eat, which, I should warn you, not all of them enjoy. They also find out how astronauts keep fit, and they try our simulator, which gives them an idea of how difficult it is to move around without gravity."
+    },
+    {
+     "id": "C509280A-6182-5D1E-9F31-B3DE217A5F61",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "On Thursday, the teams finish planning their missions, and in the evening, if the sky is clear, we hold our stargazing session at the observatory. That means a late finish, at about eleven o'clock, so you'll need to collect your children later that day, or they can stay overnight in the university accommodation for a small extra charge. If it's cloudy, we'll show a film in the lecture theatre instead."
+    },
+    {
+     "id": "322D9DD3-2C45-53FB-AD9F-90ADCB134A0A",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "And finally, on Friday, the teams carry out their missions. One room becomes mission control, and the teams have to deal with unexpected problems that we give them, just like real flight controllers. In the afternoon, parents are invited to a presentation, where each team explains its mission, and everyone receives a certificate."
+    },
+    {
+     "id": "B6E50DC0-E60B-538B-B10F-2B2339573B5A",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Now, a few practical matters. The camp runs from nine in the morning until four in the afternoon, apart from Thursday. Lunch is provided every day in the university canteen, and we can cater for all special diets, as long as you tell us on the registration form. Please don't send your children with large amounts of money; there's nothing to buy apart from snacks and a small shop that sells camp T-shirts."
+    },
+    {
+     "id": "B27DC590-658A-58CB-90EA-F9CAC7216226",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Mobile phones are allowed, but they must be switched off during activities. We find that the campers are usually far too busy to miss them. And if you need to contact your child during the day, please call the camp office rather than their mobile."
+    },
+    {
+     "id": "79D0FA71-F6B0-578C-97AD-ECC67450830D",
+     "speaker": "Organiser",
+     "accent": "en-US",
+     "text": "Finally, a question I'm always asked: do children need to be good at science? The answer is no. Many of our campers simply have an interest in space, and some of our most creative mission plans have come from students who say they don't like science at school. Right, I'm happy to take your questions now."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice12-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How has Orbit Space Camp changed since it began?",
+     "explanation": "It started small and now has 200 campers.",
+     "evidenceQuote": "started eleven years ago, with just twenty students in a borrowed school hall",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It has grown from twenty to about two hundred campers.",
+      "B. It has moved from the university to a school.",
+      "C. It now accepts younger children."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It has grown from twenty to about two hundred campers.",
+      "It has grown from twenty to about two hundred campers."
+     ]
+    },
+    {
+     "id": "practice12-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Who are most of the camp staff?",
+     "explanation": "Most are teachers or students.",
+     "evidenceQuote": "Most of our staff are science teachers or university students",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. retired engineers",
+      "B. parents of former campers",
+      "C. teachers and university students"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. teachers and university students",
+      "teachers and university students"
+     ]
+    },
+    {
+     "id": "practice12-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What is the main challenge that each team works towards during the week?",
+     "explanation": "They plan a Moon mission.",
+     "evidenceQuote": "each team has to plan and carry out an imaginary mission to the Moon",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. building a working satellite",
+      "B. planning a pretend Moon mission",
+      "C. winning a rocket competition"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. planning a pretend Moon mission",
+      "planning a pretend Moon mission"
+     ]
+    },
+    {
+     "id": "practice12-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What happens on Thursday evening if the weather is cloudy?",
+     "explanation": "A film is shown.",
+     "evidenceQuote": "If it's cloudy, we'll show a film in the lecture theatre instead.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The campers go home early.",
+      "B. The session moves to Friday.",
+      "C. A film is shown indoors."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. A film is shown indoors.",
+      "A film is shown indoors."
+     ]
+    },
+    {
+     "id": "practice12-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Rachel say about campers who dislike science at school?",
+     "explanation": "They often produce creative plans.",
+     "evidenceQuote": "some of our most creative mission plans have come from students who say they don't like science at school",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They have produced some very creative plans.",
+      "B. They usually change their minds by Friday.",
+      "C. They are given extra help by team leaders."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They have produced some very creative plans.",
+      "They have produced some very creative plans."
+     ]
+    },
+    {
+     "id": "practice12-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "try food eaten by astronauts",
+     "explanation": "This happens on Wednesday.",
+     "evidenceQuote": "The campers try some of the food that astronauts eat",
+     "skillTag": "matching",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Wednesday",
+      "Wednesday"
+     ]
+    },
+    {
+     "id": "practice12-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "create a design for a badge",
+     "explanation": "This happens on Monday.",
+     "evidenceQuote": "each one chooses a name and designs a mission badge",
+     "skillTag": "matching",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Monday",
+      "Monday"
+     ]
+    },
+    {
+     "id": "practice12-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "respond to unexpected problems",
+     "explanation": "This happens on Friday.",
+     "evidenceQuote": "the teams have to deal with unexpected problems that we give them",
+     "skillTag": "matching",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Friday",
+      "Friday"
+     ]
+    },
+    {
+     "id": "practice12-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "launch rockets outdoors",
+     "explanation": "This happens on Tuesday.",
+     "evidenceQuote": "which are launched on the sports field",
+     "skillTag": "matching",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Tuesday",
+      "Tuesday"
+     ]
+    },
+    {
+     "id": "practice12-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "look at the night sky",
+     "explanation": "This happens on Thursday.",
+     "evidenceQuote": "we hold our stargazing session at the observatory",
+     "skillTag": "matching",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Thursday",
+      "Thursday"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "simulator",
+    "mission control",
+    "telescope",
+    "certificate",
+    "team leader"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. On which day will campers do each of the following? Choose the correct letter, A–E.",
+     "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Thursday",
+      "E. Friday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice12-lp3",
+   "partNumber": 3,
+   "title": "A presentation on the Voyager missions",
+   "contextDescription": "Two astronomy students, Lena and Sam, discuss their presentation on the Voyager space probes with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "39575443-70EE-57AB-8FDE-F9C315BB1C02",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hi, Lena, Sam. So you've chosen the Voyager missions for your presentation. Tell me how you're planning to organise it."
+    },
+    {
+     "id": "881B0BD6-AD98-5D31-8BD9-75AA9C64B5D0",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "Well, we want to start with the background, explaining why the two probes were launched when they were. Then we'll look at what they discovered at the planets, and finish with where they are now."
+    },
+    {
+     "id": "4B4536AB-0CB2-5A9C-9663-0F0C069BF059",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That sounds logical. So why were they launched in 1977?"
+    },
+    {
+     "id": "87A1AC6E-35A1-52BB-8EC3-0035009060FC",
+     "speaker": "Sam",
+     "accent": "en-US",
+     "text": "Because of a rare arrangement of the outer planets. In the late nineteen-seventies, Jupiter, Saturn, Uranus and Neptune were lined up in a way that only happens about once every hundred and seventy-five years. That meant a spacecraft could use the gravity of one planet to speed it up and bend its path towards the next one. It's called a gravity assist."
+    },
+    {
+     "id": "5E9699D4-E1B5-5E57-9A11-13522998415A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And without that, the journey would have taken far longer?"
+    },
+    {
+     "id": "D8CA0BED-6490-5D8B-91D6-004A55637B1C",
+     "speaker": "Sam",
+     "accent": "en-US",
+     "text": "Much longer, decades longer for Neptune. One thing that confuses people is that Voyager 2 was actually launched first, in August 1977, and Voyager 1 about two weeks later, in September. But Voyager 1 was on a faster route, so it overtook its twin and reached Jupiter first."
+    },
+    {
+     "id": "F792B926-ACB4-5B91-BC0B-65840845719B",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "We thought we'd use a timeline to show that, because it's easier to follow than just saying the dates."
+    },
+    {
+     "id": "DBD484B7-9B1B-5147-93B9-56E8E6800DD7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good idea. Now, the discoveries. There's a huge amount you could say, so you'll have to be selective."
+    },
+    {
+     "id": "5387E2FC-C9D5-525C-89D5-BD21802B50BD",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "We know. We've decided to choose one discovery for each planet. For Jupiter, it's the volcanoes on its moon Io. Nobody expected to find active volcanoes anywhere except Earth, so that was a real surprise. For Saturn, we're going to talk about the structure of the rings, which turned out to be made of thousands of narrow rings rather than a few wide ones."
+    },
+    {
+     "id": "4F03817E-3585-5DA1-AF88-99C64D1FF4FC",
+     "speaker": "Sam",
+     "accent": "en-US",
+     "text": "And then for Uranus and Neptune, it's important to say that Voyager 2 is still the only spacecraft that has ever visited them. It flew past Uranus in 1986 and Neptune in 1989. At Neptune, it found a huge storm, which was called the Great Dark Spot."
+    },
+    {
+     "id": "9600068A-8566-5730-A17A-AE7A39C5F415",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. And will you mention the Golden Record?"
+    },
+    {
+     "id": "5B7538BB-2014-50BD-881D-EE4F90FD8C4A",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "Definitely. Both probes carry a gold-plated record with sounds and images from Earth, including greetings in fifty-five languages and different kinds of music. The committee that chose the contents was led by the astronomer Carl Sagan. We'd like to play a short clip from it during the presentation."
+    },
+    {
+     "id": "0E6CD38D-E1B1-5E82-835F-36B28D236D8A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That'll certainly keep the audience's attention. Just check that the clip isn't too long; you only have fifteen minutes in total."
+    },
+    {
+     "id": "AC8B52CD-2665-58B7-83E5-873304FCB337",
+     "speaker": "Sam",
+     "accent": "en-US",
+     "text": "We'll keep it under thirty seconds. Then, for the last part, we want to talk about the famous photograph called the Pale Blue Dot, which Voyager 1 took in 1990, looking back at Earth from about six billion kilometres away. Earth is just a tiny point of light in it."
+    },
+    {
+     "id": "E5406412-0FF8-5DD9-A33D-EFB660B5EAE4",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a powerful image to show. And where are the probes now?"
+    },
+    {
+     "id": "27400953-816F-51B2-932A-EDC858F008DD",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "Both of them have left the bubble of particles from the Sun and entered interstellar space: Voyager 1 in 2012 and Voyager 2 in 2018. They're the most distant human-made objects ever. Radio signals from Voyager 1 now take nearly a day to reach Earth."
+    },
+    {
+     "id": "43ADD77E-D5E5-51BD-A935-97CC56998EE4",
+     "speaker": "Sam",
+     "accent": "en-US",
+     "text": "The problem is power. They run on a nuclear power source that produces a little less electricity every year, so the engineers have been switching off instruments one by one to save energy. At some point in the next few years, they won't have enough power to send signals at all."
+    },
+    {
+     "id": "E3FF6906-23DD-5890-BD32-755B4CFDC8C2",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And what do you think the main message of your presentation is?"
+    },
+    {
+     "id": "8E7091F2-C8F3-5529-857A-FD086F4907EF",
+     "speaker": "Lena",
+     "accent": "en-AU",
+     "text": "I suppose that a mission planned to last about five years has been working for nearly half a century, and that's partly thanks to the engineers, who've solved problems from billions of kilometres away."
+    },
+    {
+     "id": "F7B49E56-2544-585C-800B-A9BFAB8E1A94",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a good way to end. One piece of advice: for the slides, use fewer words and bigger pictures. The images from Voyager are so striking that they'll do a lot of the work for you."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice12-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why were the Voyager probes launched in 1977?",
+     "explanation": "The planets were in a rare alignment.",
+     "evidenceQuote": "Because of a rare arrangement of the outer planets.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. New rockets had just become available.",
+      "B. The outer planets were positioned unusually well.",
+      "C. The Sun was less active that year."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The outer planets were positioned unusually well.",
+      "The outer planets were positioned unusually well."
+     ]
+    },
+    {
+     "id": "practice12-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What point do the students want to make clear with a timeline?",
+     "explanation": "Voyager 2 launched first but Voyager 1 arrived first.",
+     "evidenceQuote": "But Voyager 1 was on a faster route, so it overtook its twin and reached Jupiter first.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. how long each probe took to reach Neptune",
+      "B. which probe carried more instruments",
+      "C. that the second probe launched reached Jupiter before the first"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. that the second probe launched reached Jupiter before the first",
+      "that the second probe launched reached Jupiter before the first"
+     ]
+    },
+    {
+     "id": "practice12-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why was the discovery on Io surprising?",
+     "explanation": "Volcanoes were only expected on Earth.",
+     "evidenceQuote": "Nobody expected to find active volcanoes anywhere except Earth",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Active volcanoes had only been known on Earth.",
+      "B. Io was thought to be made of ice.",
+      "C. Io was much larger than expected."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Active volcanoes had only been known on Earth.",
+      "Active volcanoes had only been known on Earth."
+     ]
+    },
+    {
+     "id": "practice12-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What did Voyager discover about Saturn's rings?",
+     "explanation": "The rings are many narrow rings.",
+     "evidenceQuote": "made of thousands of narrow rings rather than a few wide ones",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are getting smaller.",
+      "B. They are made mainly of dust.",
+      "C. They consist of thousands of thin rings."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They consist of thousands of thin rings.",
+      "They consist of thousands of thin rings."
+     ]
+    },
+    {
+     "id": "practice12-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor warn the students about the Golden Record clip?",
+     "explanation": "The clip must be short.",
+     "evidenceQuote": "Just check that the clip isn't too long",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It may be difficult to hear.",
+      "B. It must not take up too much time.",
+      "C. It may not be allowed for copyright reasons."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It must not take up too much time.",
+      "It must not take up too much time."
+     ]
+    },
+    {
+     "id": "practice12-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What advice does the tutor give about the slides?",
+     "explanation": "Fewer words, bigger pictures.",
+     "evidenceQuote": "use fewer words and bigger pictures",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Reduce the text and enlarge the images.",
+      "B. Add more scientific detail.",
+      "C. Use the same colour on every slide."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Reduce the text and enlarge the images.",
+      "Reduce the text and enlarge the images."
+     ]
+    },
+    {
+     "id": "practice12-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Voyager 2 found a large storm on Neptune: the Great Dark __________",
+     "explanation": "It was the Great Dark Spot.",
+     "evidenceQuote": "which was called the Great Dark Spot",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Spot"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Golden Record includes greetings in __________ languages",
+     "explanation": "There are 55 languages.",
+     "evidenceQuote": "including greetings in fifty-five languages",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "55",
+      "fifty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Voyager 2 entered interstellar space in __________",
+     "explanation": "Voyager 2 entered in 2018.",
+     "evidenceQuote": "Voyager 1 in 2012 and Voyager 2 in 2018",
+     "skillTag": "numbers",
+     "distractorNote": "2012 is Voyager 1.",
+     "options": [],
+     "acceptedAnswers": [
+      "2018"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Engineers are switching off instruments to save __________",
+     "explanation": "They save energy.",
+     "evidenceQuote": "switching off instruments one by one to save energy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "energy"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "space probe",
+    "gravity assist",
+    "flyby",
+    "interstellar space",
+    "transmitter"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice12-lp4",
+   "partNumber": 4,
+   "title": "The human body in space",
+   "contextDescription": "A lecture in a human physiology course on how long periods in space affect astronauts' bodies.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "C6F79A06-CFB0-5E68-80F4-74503387532B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning. Today we're going to look at what happens to the human body when it spends a long time in space. This isn't just an interesting question. If people are ever going to travel to Mars, a journey that would take several months in each direction, we need to understand these effects and find ways to reduce them."
+    },
+    {
+     "id": "AD916D9E-3FFE-5C0F-8B2E-3EF54A69B3BC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Most of what we know comes from astronauts who have lived on space stations in orbit around the Earth, especially the International Space Station, where crews usually stay for about six months. The longest single stay in space was by the Russian doctor Valeri Polyakov, who spent four hundred and thirty-seven days on the Mir space station in the mid nineteen-nineties."
+    },
+    {
+     "id": "AF347457-5FA7-5745-B14B-30080364FE00",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Let's start with the most obvious difference: the lack of gravity, or more accurately, microgravity. On Earth, our bones and muscles are constantly working against gravity, even when we're just standing still. In space, they no longer have to do this, and the body responds by losing what it doesn't need. Astronauts can lose around one to one and a half per cent of the mass of their weight-bearing bones, such as the hips and legs, every month. That's similar to the amount an elderly person on Earth might lose in a whole year. Muscles also become weaker, particularly in the legs and back."
+    },
+    {
+     "id": "791E14FD-51B4-5BE1-A600-F28A8DA650B7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "To reduce these effects, astronauts on the space station exercise for about two hours every day. They use a treadmill, with straps that hold them down so they don't float away, an exercise bike, and a machine that allows them to lift weights by using pressure instead of heavy objects. This has made a big difference, although it doesn't completely prevent bone loss."
+    },
+    {
+     "id": "C10D0395-F824-574B-ABCD-D63DC38BB858",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A second effect concerns the body's fluids. On Earth, gravity pulls blood and other fluids down towards our feet. In space, these fluids move up towards the head. As a result, astronauts' faces look puffy and their legs become thinner, which some astronauts jokingly call 'bird legs'. This movement of fluid may also be connected to changes in vision. Some astronauts find that their eyesight becomes worse during long missions, because of changes to the shape of the eye, and in some cases the changes last after they return."
+    },
+    {
+     "id": "5F0BFF46-31D2-5BE3-880B-4759C44A561F",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Interestingly, astronauts also grow taller in space, by up to about five centimetres, because the spine is no longer being pressed together by gravity. Unfortunately, this often causes back pain, and they return to their normal height soon after landing."
+    },
+    {
+     "id": "0806E6A0-294A-57EC-ABED-FE1B5E5EBC58",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Many astronauts also suffer from space sickness during their first few days, because the balance system in the inner ear becomes confused. And sleep can be difficult. Because the space station travels around the Earth about every ninety minutes, astronauts see around sixteen sunrises a day, which can disturb the body's natural daily rhythms. They usually sleep in small cabins, in sleeping bags attached to the wall."
+    },
+    {
+     "id": "2937E474-0790-5166-B4FC-A880D63FCEE7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A more serious long-term concern is radiation. On Earth, and even on the space station, we're partly protected by the Earth's magnetic field. On a journey to Mars, astronauts would be outside this protection for much longer, and exposed to higher levels of radiation, which could increase the risk of cancer. Designing better shielding for spacecraft is one of the main challenges for future missions."
+    },
+    {
+     "id": "A89F11FD-AAD5-5867-8FF1-E86A60B93CD3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, an unusual experiment. In 2015, the American astronaut Scott Kelly spent almost a year on the space station, while his identical twin brother, Mark, who is also a former astronaut, stayed on Earth. Because they have the same genes, scientists could compare the two men to see how spaceflight had changed Scott's body. They found a number of changes, for example in his immune system and in the way some of his genes were working, but most of them returned to normal within a few months of his return. That's encouraging news for those planning longer missions. Next week, we'll look at the psychological effects of living in a small space, far from home."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice12-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Longest single stay: Valeri Polyakov, on the __________ space station",
+     "explanation": "He stayed on Mir.",
+     "evidenceQuote": "spent four hundred and thirty-seven days on the Mir space station",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Mir"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Bone loss each month in weight-bearing bones, e.g. the hips and __________",
+     "explanation": "Hips and legs lose bone.",
+     "evidenceQuote": "such as the hips and legs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "legs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "On the treadmill, astronauts are held down by __________",
+     "explanation": "Straps hold them down.",
+     "evidenceQuote": "with straps that hold them down",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "straps"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Weight machine uses __________ instead of heavy objects",
+     "explanation": "It uses pressure.",
+     "evidenceQuote": "lift weights by using pressure instead of heavy objects",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Fluids move towards the head, so astronauts' faces look __________",
+     "explanation": "Faces look puffy.",
+     "evidenceQuote": "astronauts' faces look puffy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "puffy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Changes to the shape of the eye can affect __________",
+     "explanation": "Eyesight gets worse.",
+     "evidenceQuote": "their eyesight becomes worse during long missions",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eyesight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Growing taller often causes pain in the __________",
+     "explanation": "It causes back pain.",
+     "evidenceQuote": "this often causes back pain",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "back"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Space sickness happens because the balance system in the inner __________ is confused",
+     "explanation": "The inner ear is confused.",
+     "evidenceQuote": "the balance system in the inner ear becomes confused",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ear"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "On the way to Mars, astronauts would need better protection from __________",
+     "explanation": "Radiation is a risk.",
+     "evidenceQuote": "exposed to higher levels of radiation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "radiation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Twin study: changes were found in Scott Kelly's __________ system",
+     "explanation": "His immune system changed.",
+     "evidenceQuote": "for example in his immune system",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "immune"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "microgravity",
+    "bone density",
+    "muscle",
+    "radiation",
+    "orbit"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice12-rp1",
+   "passageNumber": 1,
+   "title": "One giant leap: the road to the Moon",
+   "discipline": "History of Science & Technology",
+   "paragraphs": [
+    "On 4 October 1957, the Soviet Union launched Sputnik 1, the first artificial satellite. It was a metal ball about the size of a beach ball, and all it did was send out a simple radio signal as it circled the Earth. Yet its effect in the United States was enormous. Many Americans were shocked that their great rival had beaten them into space, and they feared that the same rockets could be used to carry nuclear weapons. The event marked the beginning of what became known as the Space Race.",
+    "The Soviet Union continued to lead for several years. On 12 April 1961, Yuri Gagarin became the first person in space, completing a single orbit of the Earth in a flight that lasted 108 minutes. Less than a month later, Alan Shepard became the first American in space, but his flight lasted only about fifteen minutes and did not go into orbit. The United States needed a goal that would be so ambitious that neither country would have an advantage at the start.",
+    "That goal was announced by President John F. Kennedy on 25 May 1961. Speaking to Congress, he said that the nation should commit itself to landing a man on the Moon and returning him safely to the Earth before the end of the decade. At the time, the United States had a total of just fifteen minutes of experience of human spaceflight, and many of the technologies that would be needed had not yet been invented. Over the following years, the space agency NASA grew rapidly, and in the mid-1960s its budget reached more than four per cent of all federal government spending.",
+    "Getting to the Moon required a series of steps. In the Gemini programme of 1965 and 1966, two-person crews practised the skills that would be needed later, such as spending up to two weeks in space, working outside the spacecraft and joining two spacecraft together in orbit. Meanwhile, engineers developed the Saturn V, a rocket around 110 metres tall that remains one of the most powerful ever flown. The programme also suffered a terrible setback. In January 1967, during a test on the launch pad, a fire broke out inside the Apollo 1 spacecraft, and its three astronauts were killed. The design of the spacecraft was changed significantly as a result.",
+    "In December 1968, the Apollo 8 mission carried three astronauts around the Moon for the first time. As they came out from behind the Moon, they saw the Earth rising above its grey horizon, and one of them, Bill Anders, took a photograph that became known as Earthrise. The picture of a small, colourful planet surrounded by the darkness of space was later credited with helping to inspire the environmental movement.",
+    "Apollo 11 was launched on 16 July 1969, carrying Neil Armstrong, Buzz Aldrin and Michael Collins. Four days later, while Collins remained in orbit, Armstrong and Aldrin landed the lunar module, called Eagle, on a flat area known as the Sea of Tranquility. The landing was more dangerous than many people realised. The computer was giving alarms, and the planned landing area was full of large rocks, so Armstrong took manual control and flew on to find a safer place. When the module touched down, there was very little fuel left.",
+    "Some hours later, Armstrong climbed down the ladder and stepped onto the surface, saying the famous words, 'That's one small step for man, one giant leap for mankind.' Hundreds of millions of people around the world watched the black-and-white television pictures. The two astronauts spent about two and a half hours walking outside, setting up scientific experiments, planting a flag and collecting samples of rock and soil, before returning to orbit and travelling back to Earth. They landed safely in the Pacific Ocean on 24 July.",
+    "There were five more successful landings, and in total twelve men walked on the Moon. The last, Apollo 17, took place in December 1972. The rocks they brought back, weighing almost 400 kilograms in total, are still being studied today and have helped scientists to understand how the Moon was formed. Since then, no human has travelled further than a few hundred kilometres from the Earth. Several countries now have plans to send people back to the Moon, more than half a century after the last footprints were left there."
+   ],
+   "questions": [
+    {
+     "id": "practice12-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Sputnik 1 carried scientific instruments to study the atmosphere.",
+     "explanation": "It only sent a radio signal.",
+     "evidenceQuote": "all it did was send out a simple radio signal",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice12-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Alan Shepard's flight was shorter than Yuri Gagarin's.",
+     "explanation": "Fifteen minutes is shorter than 108 minutes.",
+     "evidenceQuote": "his flight lasted only about fifteen minutes and did not go into orbit",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice12-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Kennedy's Moon goal was strongly opposed by many members of Congress.",
+     "explanation": "Congress's reaction is not described.",
+     "evidenceQuote": "Speaking to Congress, he said that the nation should commit itself",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice12-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "All the technology needed for a Moon landing already existed in 1961.",
+     "explanation": "Much of it had not been invented.",
+     "evidenceQuote": "many of the technologies that would be needed had not yet been invented",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice12-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The Apollo 1 fire happened during a flight in space.",
+     "explanation": "It happened on the launch pad.",
+     "evidenceQuote": "during a test on the launch pad, a fire broke out",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice12-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Bill Anders had trained as a professional photographer.",
+     "explanation": "His training is not mentioned.",
+     "evidenceQuote": "Bill Anders, took a photograph that became known as Earthrise",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice12-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Armstrong had to fly the lunar module himself to avoid an area of rocks.",
+     "explanation": "He took manual control.",
+     "evidenceQuote": "so Armstrong took manual control and flew on to find a safer place",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice12-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Gemini crews practised working outside the spacecraft and joining spacecraft in __________.",
+     "explanation": "They joined spacecraft in orbit.",
+     "evidenceQuote": "joining two spacecraft together in orbit",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "orbit"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The Saturn V was about 110 metres in __________.",
+     "explanation": "It was 110 metres tall.",
+     "evidenceQuote": "a rocket around 110 metres tall",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tall"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "The Earthrise photograph is said to have inspired the __________ movement.",
+     "explanation": "It inspired environmentalism.",
+     "evidenceQuote": "helping to inspire the environmental movement",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "environmental"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "The Apollo 11 lunar module was called __________.",
+     "explanation": "It was called Eagle.",
+     "evidenceQuote": "the lunar module, called Eagle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Eagle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "When Eagle landed, it had very little __________ remaining.",
+     "explanation": "Fuel was low.",
+     "evidenceQuote": "there was very little fuel left",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fuel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Apollo 11 returned to Earth in the __________ Ocean.",
+     "explanation": "They landed in the Pacific.",
+     "evidenceQuote": "They landed safely in the Pacific Ocean on 24 July.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Pacific"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 726,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice12-rp2",
+   "passageNumber": 2,
+   "title": "Robots on the red planet",
+   "discipline": "Planetary Science & Engineering",
+   "paragraphs": [
+    "Mars is the most explored planet in the solar system apart from our own, yet no human has ever set foot on it. Everything we know about its surface has been learned by robots. Over the past six decades, more than a dozen spacecraft have successfully orbited or landed on Mars, and their story is one of remarkable engineering, painful failures and some unexpectedly long lives.",
+    "The first successful mission was NASA's Mariner 4, which flew past Mars in July 1965 and sent back around twenty images. Before then, some people had imagined that Mars might have canals or forests. The photographs showed instead a dry surface covered in craters, more like the Moon than the Earth. In 1976, two American Viking landers became the first spacecraft to operate successfully on the surface for a long period, sending back the first colour pictures and measuring the weather for several years.",
+    "Landing on Mars is extremely difficult, and many missions have failed during the final minutes. The planet's atmosphere is thick enough to heat a spacecraft dangerously as it enters, but too thin, at less than one per cent of the pressure on Earth, to slow it down using parachutes alone. Engineers have tried several solutions. In 1997, the Mars Pathfinder mission bounced onto the surface surrounded by giant airbags, and released a small rover called Sojourner, about the size of a microwave oven, which explored the area around the landing site for nearly three months.",
+    "In January 2004, two much larger rovers, Spirit and Opportunity, landed on opposite sides of the planet. They were designed to work for about ninety Martian days, but both lasted far longer. Engineers had worried that dust would cover their solar panels and reduce their power, but from time to time, gusts of wind cleaned the panels, giving the rovers new energy. Spirit became stuck in soft ground in 2009 and stopped communicating the following year, while Opportunity kept going until a huge dust storm in 2018. By then, it had travelled more than 45 kilometres, further than a marathon.",
+    "Driving a rover on Mars is very different from steering a remote-controlled car. Depending on where the two planets are in their orbits, a radio signal takes between about three and twenty-two minutes to travel from Earth to Mars. A driver cannot react quickly to a rock or a hole in the ground. Instead, teams on Earth plan each day's activities in advance and send a set of instructions, and modern rovers use cameras and software to find a safe route by themselves. Because a Martian day is about forty minutes longer than an Earth day, team members have sometimes lived on 'Mars time', starting work later every day.",
+    "The next generation of rovers was much heavier. Curiosity, which landed in August 2012, is about the size of a small car and weighs almost a tonne, too much for airbags. It was lowered to the ground on cables from a hovering platform powered by rockets, a method called the sky crane. Instead of solar panels, Curiosity uses a nuclear power source, which allows it to work through dust storms and the Martian winter. Its instruments have shown that its landing site, Gale Crater, once contained a lake.",
+    "In February 2021, Perseverance used the same landing method to reach Jezero Crater, the site of another ancient lake. Its main task is to collect samples of rock and store them in sealed tubes, which a future mission may bring back to Earth for detailed study. Perseverance also carried a small helicopter called Ingenuity. In April 2021, it made the first powered, controlled flight on another planet. It had been expected to make no more than five flights, but it eventually completed seventy-two before damage to its blades ended the mission in 2024.",
+    "Mars exploration is no longer limited to the United States. In 2021, China's Zhurong rover landed successfully, making China only the second country to operate a rover on the planet. Several space agencies now hope to send astronauts to Mars in the coming decades. If they succeed, the first human visitors will owe a great deal to the robots that went before them, which have mapped the ground, studied the weather and tested the technology that people will one day depend on."
+   ],
+   "questions": [
+    {
+     "id": "practice12-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes how early missions changed ideas about Mars.",
+     "evidenceQuote": "The photographs showed instead a dry surface covered in craters",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. First close views end old beliefs",
+      "First close views end old beliefs"
+     ]
+    },
+    {
+     "id": "practice12-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains the difficulty of landing.",
+     "evidenceQuote": "Landing on Mars is extremely difficult",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. The problem of slowing down",
+      "The problem of slowing down"
+     ]
+    },
+    {
+     "id": "practice12-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D is about rovers lasting much longer than planned.",
+     "evidenceQuote": "They were designed to work for about ninety Martian days, but both lasted far longer.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Machines that outlived their expected lifetimes",
+      "Machines that outlived their expected lifetimes"
+     ]
+    },
+    {
+     "id": "practice12-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains why rovers cannot be driven directly.",
+     "evidenceQuote": "A driver cannot react quickly to a rock or a hole in the ground.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Why rovers cannot be steered in real time",
+      "Why rovers cannot be steered in real time"
+     ]
+    },
+    {
+     "id": "practice12-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes a new landing method for a heavier rover.",
+     "evidenceQuote": "too much for airbags",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A heavier vehicle needs a new way down",
+      "A heavier vehicle needs a new way down"
+     ]
+    },
+    {
+     "id": "practice12-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G covers samples and the first flight.",
+     "evidenceQuote": "the first powered, controlled flight on another planet",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Collecting rocks and taking to the air",
+      "Collecting rocks and taking to the air"
+     ]
+    },
+    {
+     "id": "practice12-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H looks at new countries and future human missions.",
+     "evidenceQuote": "Mars exploration is no longer limited to the United States.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. New explorers and the path to human visits",
+      "New explorers and the path to human visits"
+     ]
+    },
+    {
+     "id": "practice12-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why do parachutes alone not work for landing on Mars?",
+     "explanation": "The atmosphere is too thin.",
+     "evidenceQuote": "too thin, at less than one per cent of the pressure on Earth, to slow it down using parachutes alone",
+     "skillTag": "detail",
+     "options": [
+      "A. The winds are too strong.",
+      "B. The atmosphere is too thin.",
+      "C. The surface is too rocky.",
+      "D. The gravity is too weak."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The atmosphere is too thin.",
+      "The atmosphere is too thin."
+     ]
+    },
+    {
+     "id": "practice12-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What helped Spirit and Opportunity to keep working?",
+     "explanation": "Wind cleaned their solar panels.",
+     "evidenceQuote": "gusts of wind cleaned the panels, giving the rovers new energy",
+     "skillTag": "detail",
+     "options": [
+      "A. Engineers sent them new software.",
+      "B. They were moved to sunnier areas.",
+      "C. They used nuclear power in winter.",
+      "D. Wind removed dust from their solar panels."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Wind removed dust from their solar panels.",
+      "Wind removed dust from their solar panels."
+     ]
+    },
+    {
+     "id": "practice12-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What advantage does Curiosity's power source give it?",
+     "explanation": "It can work in dust storms and winter.",
+     "evidenceQuote": "which allows it to work through dust storms and the Martian winter",
+     "skillTag": "detail",
+     "options": [
+      "A. It can operate during dust storms and winter.",
+      "B. It makes the rover lighter.",
+      "C. It allows the rover to travel faster.",
+      "D. It can be repaired from Earth."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It can operate during dust storms and winter.",
+      "It can operate during dust storms and winter."
+     ]
+    },
+    {
+     "id": "practice12-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Sojourner was roughly as big as a __________.",
+     "explanation": "It was the size of a microwave oven.",
+     "evidenceQuote": "about the size of a microwave oven",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "microwave oven"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice12-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Curiosity was lowered onto the surface using a method called the __________.",
+     "explanation": "It used the sky crane.",
+     "evidenceQuote": "a method called the sky crane",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sky crane"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice12-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Perseverance stores rock samples in __________ so that they may be returned to Earth.",
+     "explanation": "Samples go in sealed tubes.",
+     "evidenceQuote": "store them in sealed tubes",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sealed tubes"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 717,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Machines that outlived their expected lifetimes",
+      "ii. New explorers and the path to human visits",
+      "iii. A heavier vehicle needs a new way down",
+      "iv. First close views end old beliefs",
+      "v. The search for water under the ice",
+      "vi. Collecting rocks and taking to the air",
+      "vii. The problem of slowing down",
+      "viii. The high cost of failed missions",
+      "ix. Why rovers cannot be steered in real time"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice12-rp3",
+   "passageNumber": 3,
+   "title": "Holidays beyond the sky",
+   "discipline": "Space Policy & Tourism",
+   "paragraphs": [
+    "For most of the history of spaceflight, going into space was something only governments could arrange. Astronauts were highly trained pilots, scientists or engineers, chosen from thousands of applicants and paid by the state. Today, that is changing. Private companies are now selling seats on rockets to anyone who can afford them, and space tourism, once a subject for science fiction, has become a real, if very expensive, industry. Whether it deserves our enthusiasm is another matter.",
+    "The idea of ordinary people travelling into space is not new. The Russian schoolteacher Konstantin Tsiolkovsky, who worked out many of the basic principles of rocket science in the late nineteenth and early twentieth centuries, famously wrote that the Earth is the cradle of humanity, but that one cannot live in the cradle forever. For him, leaving the planet was a natural step in human development rather than an adventure for a few wealthy individuals.",
+    "The first paying space tourist was the American businessman Dennis Tito, who in 2001 travelled to the International Space Station on a Russian Soyuz spacecraft. He reportedly paid around twenty million dollars for the trip, which lasted about a week. Some officials at NASA were unhappy about his visit, arguing that the space station was a place for serious work rather than sightseeing. A small number of other wealthy individuals followed him over the next few years. Each of them had to spend months training in Russia before the flight, learning how to live and work safely in a cramped spacecraft and how to respond in an emergency.",
+    "The real turning point came in July 2021, when two billionaires flew on rockets built by their own companies within nine days of each other. On 11 July, Richard Branson flew with Virgin Galactic to a height of about 86 kilometres, aboard a spaceplane launched from beneath a large aircraft. Nine days later, Jeff Bezos travelled with Blue Origin on a short flight that passed 100 kilometres, the boundary of space that is accepted by most international organisations. His crew included Wally Funk, who had trained for spaceflight in the early 1960s but had never been allowed to fly. At 82, she became, for a short time, the oldest person ever to go into space.",
+    "Experiences like these can be powerful. The writer Frank White used the term 'the overview effect' to describe the change in thinking that many astronauts report after seeing the Earth from space, often a deep sense of the planet's fragility and of the unity of humankind. Not every reaction is joyful. When the actor William Shatner flew with Blue Origin in October 2021, at the age of ninety, he later wrote that, instead of excitement, he had felt an overwhelming sadness at the contrast between the cold darkness of space and the warm, living Earth below.",
+    "Supporters of space tourism argue that it brings real benefits. The money paid by wealthy customers, they say, helps companies to develop reusable rockets and other technology, which will eventually make spaceflight cheaper for everyone, including scientists. I find this argument partly convincing. The cost of launching satellites has already fallen considerably as private companies have entered the market, and there is no reason why tourism could not contribute to the same process. It is also worth remembering that many technologies first developed for space, from improved weather forecasting to satellite navigation, are now part of everyday life on Earth, and a larger, more competitive industry may speed up such developments.",
+    "There are, however, serious concerns. With tickets on suborbital flights costing hundreds of thousands of dollars, space tourism is currently available only to a tiny number of very rich people. Some atmospheric scientists have also warned that rockets release soot directly into the upper atmosphere, where it may remain far longer than pollution released near the ground. In my view, these environmental questions have not received nearly enough attention, and they should be studied carefully before the number of flights increases.",
+    "Will space tourism ever become an ordinary holiday? It seems unlikely in the near future. But aviation also began as a dangerous and expensive activity for a privileged few, and within a few decades millions of people were flying every year. What matters, I would argue, is not whether the first space tourists are rich, but whether the industry is properly regulated, so that the benefits of new technology are widely shared and the costs to the planet are not ignored. If that happens, Tsiolkovsky's dream may yet come true."
+   ],
+   "questions": [
+    {
+     "id": "practice12-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "had prepared for spaceflight decades earlier without getting the chance to go",
+     "explanation": "Wally Funk trained in the 1960s.",
+     "evidenceQuote": "who had trained for spaceflight in the early 1960s but had never been allowed to fly",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Wally Funk",
+      "Wally Funk"
+     ]
+    },
+    {
+     "id": "practice12-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "saw leaving the Earth as a normal stage in the progress of humanity",
+     "explanation": "Tsiolkovsky held this view.",
+     "evidenceQuote": "leaving the planet was a natural step in human development",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Konstantin Tsiolkovsky",
+      "Konstantin Tsiolkovsky"
+     ]
+    },
+    {
+     "id": "practice12-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "experienced unexpected feelings of sorrow during a flight",
+     "explanation": "Shatner felt sadness.",
+     "evidenceQuote": "he had felt an overwhelming sadness",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. William Shatner",
+      "William Shatner"
+     ]
+    },
+    {
+     "id": "practice12-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "introduced a phrase for the way seeing the Earth from space changes people",
+     "explanation": "Frank White introduced the term.",
+     "evidenceQuote": "used the term 'the overview effect'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Frank White",
+      "Frank White"
+     ]
+    },
+    {
+     "id": "practice12-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "visited the space station despite objections from some officials",
+     "explanation": "Dennis Tito faced objections.",
+     "evidenceQuote": "Some officials at NASA were unhappy about his visit",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Dennis Tito",
+      "Dennis Tito"
+     ]
+    },
+    {
+     "id": "practice12-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The claim that tourism will help to reduce the cost of spaceflight has some truth in it.",
+     "explanation": "The writer finds it partly convincing.",
+     "evidenceQuote": "I find this argument partly convincing.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice12-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The environmental effects of rocket launches have already been studied in enough detail.",
+     "explanation": "The writer says they need more attention.",
+     "evidenceQuote": "these environmental questions have not received nearly enough attention",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice12-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Space tourism companies should pay higher taxes than airlines.",
+     "explanation": "Taxes are not mentioned.",
+     "evidenceQuote": "whether the industry is properly regulated",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice12-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Space travel is likely to become a common type of holiday quite soon.",
+     "explanation": "The writer thinks it is unlikely soon.",
+     "evidenceQuote": "It seems unlikely in the near future.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice12-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The wealth of the first space tourists is less important than how the industry is controlled.",
+     "explanation": "Regulation matters more to the writer.",
+     "evidenceQuote": "not whether the first space tourists are rich, but whether the industry is properly regulated",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice12-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Dennis Tito travelled to the space station on a Russian __________ spacecraft.",
+     "explanation": "He flew on a Soyuz.",
+     "evidenceQuote": "on a Russian Soyuz spacecraft",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Soyuz"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Richard Branson's spaceplane was launched from underneath a large __________.",
+     "explanation": "It was launched from an aircraft.",
+     "evidenceQuote": "aboard a spaceplane launched from beneath a large aircraft",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aircraft"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Supporters say tourists' money helps companies develop __________ rockets.",
+     "explanation": "They develop reusable rockets.",
+     "evidenceQuote": "helps companies to develop reusable rockets",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reusable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice12-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Scientists have warned that rockets release __________ into the upper atmosphere.",
+     "explanation": "Rockets release soot.",
+     "evidenceQuote": "rockets release soot directly into the upper atmosphere",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "soot"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 753,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people below. Match each statement with the correct person, A–F.",
+     "options": [
+      "A. Konstantin Tsiolkovsky",
+      "B. Dennis Tito",
+      "C. Richard Branson",
+      "D. Wally Funk",
+      "E. William Shatner",
+      "F. Frank White"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice12-w1",
+  "title": "Launching a satellite into orbit",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows the main stages in launching a communications satellite into orbit using a two-stage rocket. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Satellite is tested and fitted inside the nose cone of the rocket",
+   "Rocket is moved to the launch pad and filled with fuel",
+   "First-stage engines ignite and the rocket lifts off",
+   "First stage runs out of fuel and separates, falling back to Earth",
+   "Second-stage engine ignites and carries the rocket higher",
+   "Nose cone opens and falls away above the atmosphere",
+   "Satellite separates from the second stage",
+   "Satellite opens its solar panels and begins sending signals to Earth"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, from preparing the satellite on the ground to its operation in orbit.",
+   "Parts of the rocket are released one after another as it climbs, until only the satellite remains."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice12-w2",
+  "title": "Private companies in space",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Science & Technology",
+  "promptText": "Private companies are now playing a larger role in space exploration than governments did in the past. Do the advantages of this development outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice12-spk",
+  "theme": "Space and exploration",
+  "part1Questions": [
+   "Did you enjoy learning about the planets as a child?",
+   "Do you ever watch films or documentaries about space?",
+   "Can you see many stars at night where you live?",
+   "Would you like to travel into space one day?",
+   "Do you think it is important to explore new places?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a scientific discovery or achievement that you find impressive.",
+   "bulletPoints": [
+    "what the discovery or achievement was",
+    "when and how you learned about it",
+    "who was involved in it",
+    "and explain why you find it impressive"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think people are so interested in space?",
+   "Should governments spend money on space exploration or on problems on Earth?",
+   "How might space tourism affect the environment?",
+   "What can children learn from studying science at school?",
+   "Do you think humans will live on another planet in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Dates and mission details are checked against standard reference sources such as NASA mission histories.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

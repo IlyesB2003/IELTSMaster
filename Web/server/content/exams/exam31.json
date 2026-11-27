@@ -1,0 +1,2251 @@
+{
+ "id": "exam31",
+ "examNumber": 31,
+ "pool": "mock",
+ "title": "Mock Exam 31: Railways, Aviation & the History of Travel",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Railways, Aviation & the History of Travel",
+ "listeningParts": [
+  {
+   "id": "exam31-lp1",
+   "partNumber": 1,
+   "title": "Booking a steam railway trip",
+   "contextDescription": "A woman phones a heritage steam railway to book a day trip for her family.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B6211F49-2AB2-5999-B019-A037F25AA156",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Good morning, Moorvale Steam Railway, booking office. Gemma speaking. How can I help?"
+    },
+    {
+     "id": "C31D55D0-359B-5415-8698-1185AE1955BA",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hi. I'm hoping to book a trip on one of your steam trains for my family. We're staying in the area for a couple of weeks."
+    },
+    {
+     "id": "6D0B76BA-18AE-5FD2-8B40-6BB6181E9425",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Lovely. Are you thinking of our standard return journey, or one of our special events?"
+    },
+    {
+     "id": "C69D5AB4-175D-59F8-9DAF-6FDE3A342668",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "What's the difference?"
+    },
+    {
+     "id": "416FB564-6632-5997-9E63-500634F82CF5",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "The standard service runs from Moorvale station up the valley to Highcross, at the top of the line, and then back again. The round trip takes around three hours, including a stop of forty minutes at Highcross, where there's a small museum about the history of the line. On certain days we also run special trains, like the Fish and Chip Express in the evening, or the Driver Experience, where you spend an hour on the footplate with the driver."
+    },
+    {
+     "id": "EA2F8F21-184E-5770-9491-933B990ED672",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "The standard one sounds right. We've got three children, and I think an evening trip would be too late for the youngest."
+    },
+    {
+     "id": "53E3032C-DC71-5E43-9829-B5543A32907C",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "How old are the children?"
+    },
+    {
+     "id": "2A4BD7B6-8BA3-5325-BC4F-8520EC50A287",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Twelve, nine and four."
+    },
+    {
+     "id": "DF4A9E8B-DDB1-559C-BE22-77921F4A655F",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Children under five travel free, so you'd only pay for two of them. Which day were you thinking of?"
+    },
+    {
+     "id": "7E49D650-998C-5E8F-9A80-F189DB1C7463",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Friday the fourteenth, if possible."
+    },
+    {
+     "id": "67BF8C5B-142C-596C-9859-DA91D97C8998",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Let me have a look. I'm sorry, Friday is fully booked, because there's a large school group travelling that day. But I've got plenty of space on Saturday the fifteenth."
+    },
+    {
+     "id": "10410CDD-BBED-5E18-99DD-DC4DF7B8DA8D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Saturday is fine. We're flexible."
+    },
+    {
+     "id": "44916D13-445D-50EB-BA4E-CCBEE0228CF0",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "There are three departures from Moorvale on Saturdays: ten fifteen, twelve thirty and half past two. The ten fifteen is pulled by our oldest locomotive, which was built in 1912, so it's very popular with enthusiasts."
+    },
+    {
+     "id": "AA8F9CD4-D390-5FB5-BA34-B2595BAA2CE3",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "My husband would love that. We'll take the ten fifteen."
+    },
+    {
+     "id": "FF38822C-B931-554E-A139-977F74DB5A73",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Good choice. Now, for two adults and two children, the best option is our family ticket, which is fifty-eight pounds. If you bought the tickets separately, it would come to sixty-four, so you save a little."
+    },
+    {
+     "id": "4E32DB62-62A6-59D1-822C-7058165985E4",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Great. Can we choose where we sit?"
+    },
+    {
+     "id": "2E363233-048B-5142-9342-4FD9D2AE7D81",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "You can. Most of the train is made up of carriages from the 1950s, but we also have an observation carriage at the back, with large windows at the end, so you can watch the track disappearing behind you. It's an extra three pounds per person, but children usually love it."
+    },
+    {
+     "id": "2E2B1E58-3F3F-572B-AFBC-8D03362B6F43",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Let's do that, then. And is there any food on board?"
+    },
+    {
+     "id": "262DE4D6-32BB-5720-8EFB-0BC68659E45B",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "There's a buffet car serving hot drinks, sandwiches and cakes. Or you're welcome to bring your own picnic. There are picnic tables at Highcross, beside the river, and it's a lovely spot if the weather's good."
+    },
+    {
+     "id": "7F431DE9-6F69-5181-848B-B1561ADBCAD5",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Perfect. We'll probably bring our own."
+    },
+    {
+     "id": "9F31BAEA-0A95-5ED9-ADDC-A8C50C7C83D7",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Could I have your name, please?"
+    },
+    {
+     "id": "77C4F330-602D-50A6-A371-813F4429C1D7",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, it's Rachel Hollingworth. That's H-O-L-L-I-N-G-W-O-R-T-H."
+    },
+    {
+     "id": "91DAE325-3BB7-546D-801D-99F5E9D27D31",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Thank you. And a contact number?"
+    },
+    {
+     "id": "1F0892AA-80FE-573F-80E2-C2256C31775F",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "My mobile is 0412 556 803. It's an Australian number, I'm afraid."
+    },
+    {
+     "id": "F24B4FE0-5174-52A6-BB63-9BC3C4447100",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "That's no problem. We'll only use it if there's a change to the service. Occasionally, in very dry weather, we have to replace the steam engine with a diesel, because sparks from the chimney can start fires in the fields beside the line. If that happens, we'll send you a text and offer you a discount or a refund."
+    },
+    {
+     "id": "59514D24-9F5E-5188-AD05-BFC66815953D",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I hadn't thought of that. And how do we get our tickets?"
+    },
+    {
+     "id": "E6BC14FB-F5C2-56F2-AB2F-94F454B26CEE",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "I'll email you a booking confirmation, and you collect the actual tickets from the booking office at Moorvale on the day. Please arrive at least twenty minutes before departure, as the queue can be quite long on Saturdays."
+    },
+    {
+     "id": "E4DBB094-C93C-54AB-AB40-0D6E3E8B0C63",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Is there parking at the station?"
+    },
+    {
+     "id": "1D382951-5DF5-5ADC-92D9-287108D37FAA",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "Yes, there's a car park right next to it. It costs four pounds for the day, and the machine only takes coins, so make sure you bring some change with you."
+    },
+    {
+     "id": "C871BC39-5882-5FAB-A276-0A122A3B375E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Good to know. Oh, one more thing. My father is coming to stay next month, and he's mad about trains. Do you sell gift vouchers?"
+    },
+    {
+     "id": "5E967D77-FC5D-5C21-8185-C5AEAC19E444",
+     "speaker": "Clerk",
+     "accent": "en-GB",
+     "text": "We do. They're available in any amount from ten pounds, and they're valid for a year. You can buy them online or in our shop at the station."
+    },
+    {
+     "id": "D6CBC308-36BB-5F91-B30F-87721B432249",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Wonderful. Thanks so much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam31-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Length of the stop at Highcross: __________ minutes",
+     "explanation": "The train stops for forty minutes.",
+     "evidenceQuote": "including a stop of forty minutes at Highcross",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "40",
+      "forty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "At Highcross there is a small __________ about the line",
+     "explanation": "There is a museum at Highcross.",
+     "evidenceQuote": "where there's a small museum about the history of the line",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "museum"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Date of trip: Saturday the __________",
+     "explanation": "They travel on the fifteenth.",
+     "evidenceQuote": "I've got plenty of space on Saturday the fifteenth",
+     "skillTag": "dates",
+     "distractorNote": "Friday the fourteenth is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "fifteenth",
+      "15th",
+      "15"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Departure time from Moorvale: __________",
+     "explanation": "They take the 10.15 train.",
+     "evidenceQuote": "We'll take the ten fifteen.",
+     "skillTag": "numbers",
+     "distractorNote": "12.30 and 2.30 are the other departures.",
+     "options": [],
+     "acceptedAnswers": [
+      "10.15",
+      "10:15"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "The locomotive was built in __________",
+     "explanation": "The oldest locomotive dates from 1912.",
+     "evidenceQuote": "which was built in 1912",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "1912"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Family ticket: £__________",
+     "explanation": "The family ticket costs £58.",
+     "evidenceQuote": "our family ticket, which is fifty-eight pounds",
+     "skillTag": "numbers",
+     "distractorNote": "£64 is the price of separate tickets.",
+     "options": [],
+     "acceptedAnswers": [
+      "58",
+      "fifty-eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Seats: in the __________ carriage (extra £3 each)",
+     "explanation": "They choose the observation carriage.",
+     "evidenceQuote": "we also have an observation carriage at the back",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "observation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Picnic tables at Highcross are next to the __________",
+     "explanation": "The tables are beside the river.",
+     "evidenceQuote": "There are picnic tables at Highcross, beside the river",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "river"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Hollingworth.",
+     "evidenceQuote": "it's Rachel Hollingworth. That's H-O-L-L-I-N-G-W-O-R-T-H.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Hollingworth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "The car park machine accepts only __________",
+     "explanation": "The machine only takes coins.",
+     "evidenceQuote": "the machine only takes coins",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "coins"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "heritage railway",
+    "locomotive",
+    "observation carriage",
+    "buffet car",
+    "gift voucher"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam31-lp2",
+   "partNumber": 2,
+   "title": "A visit to an air museum",
+   "contextDescription": "A guide welcomes a group of visitors to an aviation museum and explains its layout.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "5AFE4F06-148A-56F9-8FFE-4FE8C3F21FE1",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Good morning, everyone, and welcome to the Northfield Air Museum. My name's Dave, and I'll be your guide for the first part of your visit. Before we set off, I'll give you a bit of background and explain how the museum is laid out, so that you can explore on your own later."
+    },
+    {
+     "id": "519C5367-016A-51EF-8C85-C19CB76A8BE8",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "The museum is built on the site of a real airfield, which opened in 1938 as a training base for pilots. After the war it was used by a flying club for many years, and when the club moved to a larger airport in the 1990s, a group of local residents campaigned to persuade the council to turn the site into a museum rather than sell it for housing. Today we have over sixty aircraft, and more than half of the people who work here are still volunteers, many of them retired engineers and pilots, so if you have a question, please ask them. They love to talk."
+    },
+    {
+     "id": "E61B3CFA-6192-57F9-A129-E8C6BE28963C",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Now, a few practical points. Photography is allowed everywhere, but please don't use a flash in Hangar Two, because some of the fabric-covered aircraft there are very old, and strong light can damage the materials over time. You're welcome to touch any aircraft that has a green sticker next to it, but please don't climb on anything unless a member of staff is with you."
+    },
+    {
+     "id": "E3F10358-31DE-5477-B73F-7B84F8583501",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Let me explain the layout. We're standing in the entrance hall, and the first building you come to is Hangar One. This tells the story of the early days of flight, from the first balloons in the eighteenth century to the aircraft of the First World War. One of the most popular exhibits here is a full-size copy of a balloon basket, which children can climb into. You'll also find a set of display cases about women in aviation, including pilots who set long-distance records in the 1930s."
+    },
+    {
+     "id": "5D6852A7-D95B-5A4C-8C7B-84BA1CAFBD17",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Hangar Two is our largest building, and it covers the golden age of passenger air travel, from the 1950s onwards. The highlight is the front section of a jumbo jet, which you can walk through, from the cockpit to the first-class cabin. It gives you a good idea of how luxurious flying used to be, and how much the seats have changed. In the same hangar, there's a collection of airline uniforms and a whole wall of old posters advertising holidays abroad, which many of our older visitors find quite nostalgic."
+    },
+    {
+     "id": "65A11831-C42C-59F5-8F3B-BAA97D802595",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "If you'd like to see how air traffic was managed, head to the original control tower, at the far end of the site. It's been restored to look exactly as it did in the 1960s, with the original radio equipment. On the top floor, there's a viewing gallery, and on clear days you can watch planes landing at the international airport about twenty kilometres away. There's also a flight simulator up there, which you can book for fifteen-minute sessions at the information desk. It's very realistic, and I'll warn you now: most first-time pilots crash."
+    },
+    {
+     "id": "FD9A8DAA-71D1-5784-BFD1-6E278CB3A414",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Finally, there's the outdoor airfield, where we keep the larger military and cargo aircraft that won't fit inside. On the first Sunday of each month, we start the engines of some of our historic planes, and occasionally one of them actually takes off, weather permitting. That's also where you'll find our picnic area and the children's playground, which is designed to look like a small airport."
+    },
+    {
+     "id": "9D2FB18D-07C6-52DC-8C2A-88DCC510D283",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "As for food, the café is next to the shop in the entrance hall. It's run by volunteers, and all the money it makes goes towards restoring aircraft. Our current project is a small passenger plane from the 1950s, which was found in very poor condition in a farmer's field. The restoration has already taken four years, and we hope to finish it next summer. You can watch the volunteers at work through a glass window in the workshop behind Hangar One."
+    },
+    {
+     "id": "EE8E6C7D-37A5-51C2-9C54-9214802DDB31",
+     "speaker": "Guide",
+     "accent": "en-US",
+     "text": "Right, I think that's everything. We'll start in Hangar One, and this part of the tour will take about forty-five minutes. Please stay together, and follow me."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam31-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How did the old airfield come to be turned into a museum?",
+     "explanation": "Residents campaigned to stop it being sold for housing.",
+     "evidenceQuote": "a group of local residents campaigned to persuade the council to turn the site into a museum rather than sell it for housing",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The flying club decided to keep it.",
+      "B. Local people campaigned against selling it.",
+      "C. The council wanted a new tourist attraction."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Local people campaigned against selling it.",
+      "Local people campaigned against selling it."
+     ]
+    },
+    {
+     "id": "exam31-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What does Dave say about many of the museum volunteers?",
+     "explanation": "Many used to be engineers or pilots.",
+     "evidenceQuote": "many of them retired engineers and pilots",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are students of engineering.",
+      "B. They used to work in aviation.",
+      "C. They lead all the guided tours."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They used to work in aviation.",
+      "They used to work in aviation."
+     ]
+    },
+    {
+     "id": "exam31-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why are visitors asked not to use a flash in Hangar Two?",
+     "explanation": "Light can damage the old fabric aircraft.",
+     "evidenceQuote": "strong light can damage the materials over time",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It disturbs other visitors.",
+      "B. It affects the quality of the photos.",
+      "C. It may harm old aircraft."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It may harm old aircraft.",
+      "It may harm old aircraft."
+     ]
+    },
+    {
+     "id": "exam31-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What can visitors book at the information desk?",
+     "explanation": "The flight simulator is booked at the desk.",
+     "evidenceQuote": "which you can book for fifteen-minute sessions at the information desk",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a session on a flight simulator",
+      "B. a tour of the control tower",
+      "C. a seat on a historic aircraft"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a session on a flight simulator",
+      "a session on a flight simulator"
+     ]
+    },
+    {
+     "id": "exam31-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What happens to the money that the café makes?",
+     "explanation": "It pays for restoring aircraft.",
+     "evidenceQuote": "all the money it makes goes towards restoring aircraft",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It pays the staff.",
+      "B. It is spent on restoring aircraft.",
+      "C. It is used to buy new exhibits."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It is spent on restoring aircraft.",
+      "It is spent on restoring aircraft."
+     ]
+    },
+    {
+     "id": "exam31-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "a walk-through section of a large airliner",
+     "explanation": "The jumbo jet section is in Hangar Two.",
+     "evidenceQuote": "The highlight is the front section of a jumbo jet, which you can walk through",
+     "skillTag": "matching",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Hangar Two",
+      "Hangar Two"
+     ]
+    },
+    {
+     "id": "exam31-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "a view of planes at a modern airport",
+     "explanation": "The viewing gallery is in the control tower.",
+     "evidenceQuote": "on clear days you can watch planes landing at the international airport",
+     "skillTag": "matching",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the control tower",
+      "the control tower"
+     ]
+    },
+    {
+     "id": "exam31-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "information about record-breaking female pilots",
+     "explanation": "These displays are in Hangar One.",
+     "evidenceQuote": "including pilots who set long-distance records in the 1930s",
+     "skillTag": "matching",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Hangar One",
+      "Hangar One"
+     ]
+    },
+    {
+     "id": "exam31-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "a play area for children",
+     "explanation": "The playground is on the outdoor airfield.",
+     "evidenceQuote": "the children's playground, which is designed to look like a small airport",
+     "skillTag": "matching",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the outdoor airfield",
+      "the outdoor airfield"
+     ]
+    },
+    {
+     "id": "exam31-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "old advertisements for foreign holidays",
+     "explanation": "The posters are in Hangar Two.",
+     "evidenceQuote": "a whole wall of old posters advertising holidays abroad",
+     "skillTag": "matching",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Hangar Two",
+      "Hangar Two"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "airfield",
+    "hangar",
+    "cockpit",
+    "flight simulator",
+    "restoration"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Where in the museum can visitors find each of the following? Choose the correct answer and write the correct letter, A–D.",
+     "options": [
+      "A. Hangar One",
+      "B. Hangar Two",
+      "C. the control tower",
+      "D. the outdoor airfield"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam31-lp3",
+   "partNumber": 3,
+   "title": "Can trains replace short flights?",
+   "contextDescription": "Two transport studies students, Maya and Tom, discuss their report on high-speed rail with their tutor.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "12036228-6AF7-5752-97B4-4CA62F8AC830",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Hi, Maya, hi, Tom. Come and sit down. So you're about halfway through your report on high-speed rail and short-haul flights. How's it going?"
+    },
+    {
+     "id": "6671C747-CF87-588D-B98C-9A19BD0E1A72",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "Pretty well, I think. We've done most of the reading, and we've started looking at some case studies of routes where a fast rail line has opened alongside an existing air route."
+    },
+    {
+     "id": "CF365AC6-18F2-5382-87E1-ED3950F90A31",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Remind me what your main question is."
+    },
+    {
+     "id": "2A8DA3CE-C706-52D8-97F2-8A6FC32DC43B",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Basically, whether high-speed trains can take passengers away from planes on journeys of up to about a thousand kilometres, and what factors make the difference."
+    },
+    {
+     "id": "483378DA-0EFF-5692-B026-C3FF368EEB78",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "And what have you found so far?"
+    },
+    {
+     "id": "11B53BE8-1A72-5A74-A9DD-62B6A5C591CB",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "The clearest finding is that journey time is the most important factor, but it's the total journey time that matters, not just the time spent on the train or in the air. With a flight, you have to get out to the airport, which is often a long way from the city centre, arrive early for security checks, and then travel into the city at the other end. Stations are usually right in the centre."
+    },
+    {
+     "id": "26C0C36A-5158-5B0A-904F-ADF8F1E0D1AD",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "So several studies suggest that if the train takes less than about three hours, most people choose the train. Once it's more than four or five hours, flying usually wins."
+    },
+    {
+     "id": "65ADBA4B-C569-5239-99A3-A2CEE9A62F6D",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That's consistent with what I've read. Which case studies are you using?"
+    },
+    {
+     "id": "D314E550-A9C2-5ECB-A40D-37E440AABBC7",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The first one is Japan. The original Shinkansen line between Tokyo and Osaka opened in 1964, just before the Tokyo Olympics, and it's still one of the busiest high-speed lines in the world. What impressed me most wasn't the speed, though, it was the reliability. The average delay is measured in seconds rather than minutes."
+    },
+    {
+     "id": "49B9C942-0953-5867-B987-980317A687F6",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "Our second case study is France. The first TGV line, between Paris and Lyon, opened in 1981, and air traffic between the two cities fell sharply afterwards. More recently, France has banned some domestic flights on routes where there's a train alternative of less than two and a half hours."
+    },
+    {
+     "id": "0C0B3412-2E1D-5694-A9E8-7922E88FE9B0",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That ban got a lot of attention. Did you find out how much difference it actually made?"
+    },
+    {
+     "id": "0A6FEEF7-90FB-5335-819A-12123B5EDE54",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Not a huge amount, to be honest. Only a few routes were affected, partly because there are exceptions for passengers who are connecting to other flights. And many people on those routes had already switched to the train anyway. So critics say it was more symbolic than practical."
+    },
+    {
+     "id": "BAED1FC2-BFE8-5D3B-8E9E-2F40EB75B269",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That's an important point to make. A policy can matter symbolically even if its direct effect is small. What about cost?"
+    },
+    {
+     "id": "C2DAEFFE-797D-5C67-8D1B-11BA7C0BDBA8",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "That was the most surprising part for us. We expected trains to be cheaper, but on many routes in Europe, budget airlines charge less than the train, especially if you book early. Part of the reason is tax. In many countries there's no tax on aviation fuel, whereas rail companies have to pay for electricity and for access to the track."
+    },
+    {
+     "id": "C3F0B718-0F79-50E9-836C-224A5CA8BBED",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "And the cost of building the lines?"
+    },
+    {
+     "id": "C21DF66C-B66C-576F-9B7C-7484B61D22D1",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "It's enormous. High-speed lines need very gentle curves and slopes, so they often require long tunnels and bridges, and in crowded countries buying the land is extremely expensive. That's why some people argue the money would be better spent improving existing railways."
+    },
+    {
+     "id": "E340499B-FDD0-5585-AC21-0C820440AD0D",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Good. Now, I'd like you to think about the environmental argument a bit more critically. It's often assumed that trains are always the greener choice."
+    },
+    {
+     "id": "AB2AAC43-8DEC-53D9-B681-53577DB4F8E9",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "We were going to say that electric trains produce far lower emissions per passenger than planes, especially where the electricity comes from renewable sources."
+    },
+    {
+     "id": "1B2052F0-F61C-58E9-9FFD-6B162D6E41CE",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "That's true once the trains are running. But building a new line produces a great deal of emissions, from all the concrete and steel. So the overall benefit depends on how many passengers use the line over its lifetime. A line with very few passengers might take decades to make up for its construction emissions."
+    },
+    {
+     "id": "1D57CEF7-493A-5424-89BE-0B8CFC74E974",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We hadn't really thought about that. We could add a section on it."
+    },
+    {
+     "id": "BBA1EB63-4195-54CC-A5AF-EB6D509C4F35",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "Please do. And for your presentation next month, I'd suggest a map comparing the networks in Japan and France. Visuals help a lot."
+    },
+    {
+     "id": "AA7760A5-C5DE-5288-BDF1-7BF979B506F3",
+     "speaker": "Maya",
+     "accent": "en-CA",
+     "text": "Okay. Should we collect any data of our own?"
+    },
+    {
+     "id": "4BCCDD11-44B0-5637-A772-B2EA19723B22",
+     "speaker": "Tutor",
+     "accent": "en-IE",
+     "text": "A short survey of students about how they travel home at the end of term would be a nice addition. Keep it to ten questions at most, or people won't finish it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam31-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to Maya, which aspect of journey time matters most to travellers?",
+     "explanation": "The total door-to-door time matters most.",
+     "evidenceQuote": "it's the total journey time that matters, not just the time spent on the train or in the air",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the time for the whole journey",
+      "B. the time spent on board",
+      "C. the time needed for security checks"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the time for the whole journey",
+      "the time for the whole journey"
+     ]
+    },
+    {
+     "id": "exam31-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Studies suggest most people choose the train if the rail journey takes less than",
+     "explanation": "Under about three hours, the train wins.",
+     "evidenceQuote": "if the train takes less than about three hours, most people choose the train",
+     "skillTag": "numbers",
+     "options": [
+      "A. two hours.",
+      "B. three hours.",
+      "C. five hours."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. three hours.",
+      "three hours."
+     ]
+    },
+    {
+     "id": "exam31-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What impressed Tom most about the Shinkansen?",
+     "explanation": "He was most impressed by its reliability.",
+     "evidenceQuote": "What impressed me most wasn't the speed, though, it was the reliability.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. its speed",
+      "B. its passenger numbers",
+      "C. its reliability"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. its reliability",
+      "its reliability"
+     ]
+    },
+    {
+     "id": "exam31-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What is said about the French ban on some domestic flights?",
+     "explanation": "Its practical effect was limited.",
+     "evidenceQuote": "So critics say it was more symbolic than practical.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It greatly reduced emissions.",
+      "B. Its practical effect was limited.",
+      "C. It was unpopular with passengers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Its practical effect was limited.",
+      "Its practical effect was limited."
+     ]
+    },
+    {
+     "id": "exam31-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What surprised the students about fares in Europe?",
+     "explanation": "Flights are often cheaper than trains.",
+     "evidenceQuote": "budget airlines charge less than the train",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Flights are often cheaper than trains.",
+      "B. Rail fares rose after the ban.",
+      "C. Train tickets cannot be booked early."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Flights are often cheaper than trains.",
+      "Flights are often cheaper than trains."
+     ]
+    },
+    {
+     "id": "exam31-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the environmental benefit of a new rail line?",
+     "explanation": "It depends on long-term passenger numbers.",
+     "evidenceQuote": "the overall benefit depends on how many passengers use the line over its lifetime",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is exaggerated by rail companies.",
+      "B. It is greater than for any other transport.",
+      "C. It depends on how much the line is used."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It depends on how much the line is used.",
+      "It depends on how much the line is used."
+     ]
+    },
+    {
+     "id": "exam31-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Tokyo–Osaka Shinkansen opened in __________",
+     "explanation": "It opened in 1964.",
+     "evidenceQuote": "The original Shinkansen line between Tokyo and Osaka opened in 1964",
+     "skillTag": "numbers",
+     "distractorNote": "1981 is the date of the first TGV line.",
+     "options": [],
+     "acceptedAnswers": [
+      "1964"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "First TGV line: Paris to __________",
+     "explanation": "The line ran to Lyon.",
+     "evidenceQuote": "The first TGV line, between Paris and Lyon, opened in 1981",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Lyon"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Many countries charge no tax on aviation __________",
+     "explanation": "Aviation fuel is often untaxed.",
+     "evidenceQuote": "In many countries there's no tax on aviation fuel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fuel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Student survey: no more than __________ questions",
+     "explanation": "The survey should have ten questions at most.",
+     "evidenceQuote": "Keep it to ten questions at most",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "ten",
+      "10"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "short-haul",
+    "high-speed rail",
+    "door-to-door",
+    "case study",
+    "construction emissions"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam31-lp4",
+   "partNumber": 4,
+   "title": "From the Grand Tour to the package holiday",
+   "contextDescription": "A lecture in a tourism history course on how travel for pleasure developed in Europe.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "5E30B050-3ED4-5EB3-9724-14470FC01026",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Good afternoon. In this lecture, I want to look at one of the most important chapters in the history of travel: the Grand Tour, and how it eventually gave way to something we would recognise today as modern tourism."
+    },
+    {
+     "id": "0E9BC549-6BC4-5FDA-833C-8B93E069B333",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "For most of history, people travelled because they had to. Merchants travelled to trade, soldiers to fight, and pilgrims to visit holy places. The idea of travelling mainly for education and pleasure is much more recent. From around the middle of the seventeenth century until the early nineteenth century, it became fashionable for wealthy young men, particularly from Britain, to spend a long period travelling around continental Europe. This was known as the Grand Tour. The term was popularised by an English priest, Richard Lassels, in a guide to Italy published in 1670."
+    },
+    {
+     "id": "280DF6D2-CBAB-5A3B-A678-DC4129D0F9B6",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "The typical Grand Tourist was a young man from an aristocratic family, often in his early twenties, who had just finished his studies at Oxford or Cambridge. He would usually be accompanied by a tutor, whose job was to supervise his education and, ideally, his behaviour. These tutors were sometimes jokingly called 'bear-leaders', because they were said to lead their wild young students around like performing bears. The tour could last anything from a few months to several years."
+    },
+    {
+     "id": "F82FC159-BF19-56A3-94A7-061AF7B83884",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "The main purpose was education. Young men were expected to improve their knowledge of languages, especially French and Italian, to study art and architecture, and to learn the manners of polite society. The most important destination was Italy, and above all Rome, where travellers could see the remains of the classical world they had read about at school in Latin and Greek texts. Florence, Venice and Naples were also essential stops."
+    },
+    {
+     "id": "38E0D945-B304-5877-B26C-47B484609874",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Getting there was far from easy. Travelling through France meant long days in horse-drawn carriages on poor roads. To reach Italy, many travellers crossed the Alps by the Mont Cenis pass. Carriages could not be driven over the pass, so they were taken apart and carried by mules, while the travellers themselves were carried up and down the mountain in chairs by local porters. Many wrote home describing how terrified they had been."
+    },
+    {
+     "id": "21CE7B66-86D9-56DF-B6F1-FA392C2C6B71",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "Grand Tourists were also enthusiastic collectors. They brought home paintings, sculptures, books and antiquities, many of which can still be seen in the great country houses of Britain. Views of Venice by the painter Canaletto were especially popular, and in Rome many visitors had their portraits painted by Pompeo Batoni, often posing in front of famous ancient ruins. The excavations at Herculaneum and Pompeii, which began in the 1730s and 1740s, added a new attraction, as travellers could watch buried Roman towns being uncovered."
+    },
+    {
+     "id": "B079CF37-C66A-509E-8D8C-F7C2F68E211D",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "During the eighteenth century, the Grand Tour gradually became less exclusive, and growing numbers of middle-class travellers and women took part. But it was badly interrupted by the French Revolution and the wars that followed, which made travel across much of Europe dangerous until 1815."
+    },
+    {
+     "id": "F20A58BE-1FF6-56D6-A48A-94876D448C21",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "The real transformation came with the railways. In 1841, Thomas Cook, a Baptist preacher who campaigned against alcohol, organised a special train to take around five hundred people from Leicester to a temperance meeting in Loughborough. The ticket cost one shilling, and the price included food. This trip is often described as the beginning of the package tour, because one person arranged the transport, the meals and the activities for a whole group. Cook went on to organise tours to Scotland, and later to continental Europe and beyond."
+    },
+    {
+     "id": "C8347E11-256D-56F4-B6CC-9C280EA89E18",
+     "speaker": "Lecturer",
+     "accent": "en-AU",
+     "text": "At around the same time, new guidebooks began to appear, such as those published by John Murray in Britain and Karl Baedeker in Germany, which gave practical information about routes, prices and hotels. Together, the railways, the guidebooks and the organised tour made travel for pleasure possible for millions of ordinary people. Next week, we'll look at how cheap air travel in the twentieth century transformed tourism all over again."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam31-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Earlier travellers included merchants, soldiers and __________",
+     "explanation": "Pilgrims travelled to holy places.",
+     "evidenceQuote": "and pilgrims to visit holy places",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pilgrims"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Richard Lassels popularised the term in a 1670 guide to __________",
+     "explanation": "His guide was about Italy.",
+     "evidenceQuote": "in a guide to Italy published in 1670",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Italy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "A young Grand Tourist was usually accompanied by a __________",
+     "explanation": "A tutor went with him.",
+     "evidenceQuote": "He would usually be accompanied by a tutor",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tutor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Languages studied: mainly French and __________",
+     "explanation": "French and Italian were the main languages.",
+     "evidenceQuote": "especially French and Italian",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Italian"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "In Rome, travellers saw remains of the __________ world",
+     "explanation": "Rome had remains of the classical world.",
+     "evidenceQuote": "the remains of the classical world",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "classical"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "At Mont Cenis, dismantled carriages were carried by __________",
+     "explanation": "Mules carried the carriages.",
+     "evidenceQuote": "they were taken apart and carried by mules",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mules"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Batoni painted __________ of many visitors to Rome",
+     "explanation": "Batoni painted portraits.",
+     "evidenceQuote": "many visitors had their portraits painted by Pompeo Batoni",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "portraits"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Travel was disrupted by the French __________ and later wars",
+     "explanation": "The French Revolution interrupted the tour.",
+     "evidenceQuote": "it was badly interrupted by the French Revolution",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Revolution"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Cook's 1841 train took people to a __________ meeting",
+     "explanation": "It was a temperance meeting.",
+     "evidenceQuote": "to a temperance meeting in Loughborough",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "temperance"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Murray and Baedeker published practical __________",
+     "explanation": "They published guidebooks.",
+     "evidenceQuote": "new guidebooks began to appear",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "guidebooks"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "Grand Tour",
+    "aristocrat",
+    "antiquities",
+    "excavation",
+    "package tour"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam31-rp1",
+   "passageNumber": 1,
+   "title": "Lighter than air: the first balloon flights",
+   "discipline": "History of Science & Technology",
+   "paragraphs": [
+    "On 4 June 1783, a crowd gathered in the market square of Annonay, a small town in south-eastern France, to watch an unusual experiment. Two brothers, Joseph-Michel and Jacques-Étienne Montgolfier, lit a fire beneath an enormous bag made of cloth lined with paper. As it filled with hot smoke, the bag swelled, strained against the ropes holding it down and, when released, rose high into the sky. It stayed in the air for around ten minutes and came down a couple of kilometres away. The age of human flight had begun, not with wings, but with a bag of hot air.",
+    "The Montgolfiers were not scientists by training. They came from a family of paper manufacturers, and their knowledge of paper and fabric was essential to their success. According to a popular story, Joseph got the idea while watching clothes drying over a fire billow upwards, although this may be a later invention. What is certain is that the brothers did not fully understand why their balloons rose. They believed that burning produced a special gas, sometimes called 'Montgolfier gas', and they burned damp straw and wool to create as much thick smoke as possible. In fact, the explanation is simpler: hot air is less dense than the cooler air around it, and so it rises.",
+    "News of the Annonay experiment reached Paris quickly, and it inspired a rival. The physicist Jacques Charles knew that hydrogen, a gas that had been identified by the English scientist Henry Cavendish in 1766, was far lighter than air. Working with two brothers, Anne-Jean and Nicolas-Louis Robert, he built a small balloon of silk coated with rubber to keep the gas from escaping. On 27 August 1783 it was launched from the Champ de Mars in Paris. It flew for about forty-five minutes before coming down near the village of Gonesse, where frightened villagers, who had never seen anything like it, attacked it with pitchforks and knives.",
+    "The Montgolfiers, meanwhile, had been invited to demonstrate their invention at the royal palace of Versailles. On 19 September 1783, in front of King Louis XVI and Queen Marie Antoinette, they sent up a balloon carrying a basket containing a sheep, a duck and a rooster. Nobody knew whether living creatures could survive in the upper air, and the animals served as the first test passengers. The flight lasted around eight minutes, and the balloon landed safely about three kilometres away. All three animals survived, which encouraged the brothers to attempt a flight with people on board.",
+    "That flight took place on 21 November 1783, from the gardens of the Château de la Muette, on the western edge of Paris. The passengers were Jean-François Pilâtre de Rozier, a young science teacher, and the Marquis d'Arlandes, an army officer. It is often said that the king had suggested sending condemned prisoners instead, since the risks were unknown, but that Pilâtre de Rozier objected that such an honour should not go to criminals. The two men stayed aloft for about twenty-five minutes and travelled roughly nine kilometres across the city. They had to keep feeding the fire with straw, and d'Arlandes later described using wet sponges to put out small fires that broke out in the fabric.",
+    "Only ten days later, on 1 December, Charles and Nicolas-Louis Robert made the first manned flight in a hydrogen balloon, rising from the Tuileries Garden in front of an enormous crowd. They flew for around two hours and landed more than thirty kilometres away. Charles then went up again alone and climbed to around three thousand metres, where he suffered from intense cold and pain in his ears. He never flew again. His balloon, however, included features such as a valve for releasing gas, bags of sand used as ballast and a basket hanging from a net, and this design remained the basic pattern for gas balloons for more than a century.",
+    "The flights caused a sensation. Balloons appeared on fans, plates, clocks and furniture, and huge crowds gathered wherever a launch was announced. The American statesman Benjamin Franklin, who was living in Paris at the time, watched the early flights with great interest. When a sceptical observer asked him what use a balloon could possibly be, Franklin is said to have replied, 'What is the use of a newborn baby?' Practical uses did soon appear: scientists took instruments into the air to study the atmosphere, and in 1794 the French army used a balloon for observation at the Battle of Fleurus.",
+    "Ballooning was also dangerous. In January 1785, Jean-Pierre Blanchard and the American doctor John Jeffries became the first people to cross the English Channel by air, though they had to throw almost everything overboard, including some of their clothing, to stay up. Later that year, Pilâtre de Rozier tried to cross in the opposite direction in a balloon that combined hydrogen and hot air. It came down soon after take-off, and he and his companion became the first known victims of an air crash. Hot-air ballooning then declined for many years, until engineers developed modern balloons heated by propane burners around 1960, creating the popular sport we know today."
+   ],
+   "questions": [
+    {
+     "id": "exam31-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Montgolfier family business was the production of paper.",
+     "explanation": "The family made paper.",
+     "evidenceQuote": "They came from a family of paper manufacturers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam31-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The Montgolfier brothers had a correct scientific explanation for the rise of their balloons.",
+     "explanation": "They wrongly believed a special gas was produced.",
+     "evidenceQuote": "the brothers did not fully understand why their balloons rose",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam31-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Jacques Charles was the first person to identify hydrogen.",
+     "explanation": "Cavendish identified hydrogen.",
+     "evidenceQuote": "a gas that had been identified by the English scientist Henry Cavendish in 1766",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam31-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The villagers of Gonesse were punished for damaging the hydrogen balloon.",
+     "explanation": "No punishment is mentioned.",
+     "evidenceQuote": "attacked it with pitchforks and knives",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam31-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "None of the animals sent up at Versailles was killed by the flight.",
+     "explanation": "All three animals survived.",
+     "evidenceQuote": "All three animals survived",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam31-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Charles continued to make balloon flights for many years after December 1783.",
+     "explanation": "He never flew again.",
+     "evidenceQuote": "He never flew again.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam31-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The Battle of Fleurus was won because of information gathered from a balloon.",
+     "explanation": "The result of the battle is not linked to the balloon.",
+     "evidenceQuote": "in 1794 the French army used a balloon for observation at the Battle of Fleurus",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam31-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "To make smoke, the Montgolfiers burned damp straw and __________",
+     "explanation": "They burned straw and wool.",
+     "evidenceQuote": "they burned damp straw and wool",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wool"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Charles's first balloon: silk coated with __________",
+     "explanation": "The silk was coated with rubber.",
+     "evidenceQuote": "a small balloon of silk coated with rubber",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rubber"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Versailles flight with animals: lasted about __________ minutes",
+     "explanation": "It lasted about eight minutes.",
+     "evidenceQuote": "The flight lasted around eight minutes",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "eight",
+      "8"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "First manned flight: fires in the fabric put out with wet __________",
+     "explanation": "Wet sponges were used.",
+     "evidenceQuote": "using wet sponges to put out small fires",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sponges"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Charles's design included a valve, a net and sand used as __________",
+     "explanation": "Sand served as ballast.",
+     "evidenceQuote": "bags of sand used as ballast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ballast"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Modern hot-air balloons are heated by __________ burners",
+     "explanation": "They use propane burners.",
+     "evidenceQuote": "modern balloons heated by propane burners",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "propane"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 859,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam31-rp2",
+   "passageNumber": 2,
+   "title": "The railway that changed the world",
+   "discipline": "History of Engineering",
+   "paragraphs": [
+    "On 15 September 1830, the Liverpool and Manchester Railway opened to the public. It was not the world's first railway: wagons had run on wooden or iron rails for centuries, and the Stockton and Darlington Railway, opened in 1825, had already used steam locomotives to haul coal. But the Liverpool and Manchester was something new. It was the first railway to link two major cities, the first to rely on steam locomotives for all its regular services, and the first to run passenger trains according to a timetable. In many ways, it was the model for every main-line railway that followed.",
+    "The railway was built to solve a business problem. In the early nineteenth century, Manchester was the centre of the world's cotton industry, but the raw cotton its mills needed arrived by ship at the port of Liverpool, around fifty kilometres away. Goods travelled between the two cities by canal and river, which was slow and, according to the merchants, unreasonably expensive, since the canal companies faced little competition and could set their own charges. In winter, the canals sometimes froze, and in dry summers the water could run low. A group of Liverpool merchants concluded that a railway would be faster, cheaper and more reliable.",
+    "Not everyone agreed. The canal owners, naturally, saw the railway as a threat to their profits, and powerful landowners objected to a line crossing their estates. Opponents spread alarming claims that the smoke would kill birds, that sparks would set fire to crops and that cows would stop giving milk. The first attempt to obtain permission from Parliament, in 1825, failed after the engineer George Stephenson was questioned by lawyers for the opponents and was unable to defend serious errors in the survey of the route. A second application, based on a new route that avoided some of the most difficult estates, was approved in 1826.",
+    "Building the line was a major engineering achievement. The most famous obstacle was Chat Moss, a large area of bog so soft that a person could barely walk across it. Experts had declared that no railway could be built there. Stephenson's solution was to lay the track on hurdles of heather and brushwood, so that it effectively floated on the surface, and huge quantities of material disappeared into the bog before the line was stable. Elsewhere, workers cut a deep passage through solid rock at Olive Mount, dug a tunnel beneath Liverpool to reach the docks and built a viaduct of nine arches across the Sankey valley, where, ironically, the railway crossed over a canal.",
+    "Even as construction continued, the company's directors had not decided how the trains would be pulled. Some favoured horses, which were familiar and reliable. Others proposed stationary steam engines placed along the route, which would haul trains with long cables. To settle the question, the directors organised a public competition at Rainhill in October 1829, offering a prize of five hundred pounds for the best locomotive. Several machines took part, and one, called Novelty, was a favourite with the crowds because of its speed, but it broke down repeatedly. The winner was Rocket, built by George Stephenson and his son Robert, the only locomotive to complete the trials. Its design, which included a boiler with many small tubes to heat the water more efficiently, influenced locomotives for decades.",
+    "The opening day was meant to be a triumph, and the Prime Minister, the Duke of Wellington, travelled on the first train. But it was overshadowed by tragedy. During a stop to take on water, several passengers stepped down onto the line, among them William Huskisson, a Member of Parliament for Liverpool and a strong supporter of the railway. As he crossed the track to speak to the Duke, he was struck by Rocket, which was approaching on the other line. His leg was badly crushed, and he died that evening. His death was reported across the country and made him one of the first widely publicised victims of a railway accident.",
+    "Despite this sad beginning, the railway was a remarkable success. Its promoters had expected freight, especially cotton, to provide most of its business, but the number of people wanting to travel far exceeded their predictions. A journey that had taken several hours by stagecoach could now be completed in under two. Investors and engineers came from across Britain and abroad to study the line, and within a few years railways were being planned between all the major cities of Britain. By the 1840s, the country was in the grip of a 'railway mania', with hundreds of new lines proposed.",
+    "The influence of the Liverpool and Manchester can still be felt today. Stephenson built it to a gauge, or distance between the rails, of four feet eight and a half inches, a measurement he had used on earlier colliery lines. Because so many early railways were built by Stephenson and his followers, this became known as standard gauge, and it is now used by the majority of the world's railways. Much of the original route is still in use, and the Manchester terminus at Liverpool Road, often described as the world's oldest surviving passenger station, is now part of a museum of science and industry."
+   ],
+   "questions": [
+    {
+     "id": "exam31-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the problems with canal transport.",
+     "evidenceQuote": "The railway was built to solve a business problem.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. The weaknesses of the existing transport",
+      "The weaknesses of the existing transport"
+     ]
+    },
+    {
+     "id": "exam31-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers opposition from landowners and in Parliament.",
+     "evidenceQuote": "Not everyone agreed.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Resistance to the scheme",
+      "Resistance to the scheme"
+     ]
+    },
+    {
+     "id": "exam31-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D describes building across bog, rock and valleys.",
+     "evidenceQuote": "The most famous obstacle was Chat Moss",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Overcoming difficult terrain",
+      "Overcoming difficult terrain"
+     ]
+    },
+    {
+     "id": "exam31-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E compares horses, cables and locomotives.",
+     "evidenceQuote": "the company's directors had not decided how the trains would be pulled",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Choosing a source of power",
+      "Choosing a source of power"
+     ]
+    },
+    {
+     "id": "exam31-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes the death on opening day.",
+     "evidenceQuote": "But it was overshadowed by tragedy.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. A celebration spoiled",
+      "A celebration spoiled"
+     ]
+    },
+    {
+     "id": "exam31-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes unexpected success.",
+     "evidenceQuote": "the number of people wanting to travel far exceeded their predictions",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Results that surprised everyone",
+      "Results that surprised everyone"
+     ]
+    },
+    {
+     "id": "exam31-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H explains the lasting gauge standard.",
+     "evidenceQuote": "this became known as standard gauge",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A measurement adopted worldwide",
+      "A measurement adopted worldwide"
+     ]
+    },
+    {
+     "id": "exam31-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did opponents of the railway claim would happen to cattle?",
+     "explanation": "They claimed cows would stop giving milk.",
+     "evidenceQuote": "cows would stop giving milk",
+     "skillTag": "detail",
+     "options": [
+      "A. They would be frightened onto the line.",
+      "B. They would be killed by the smoke.",
+      "C. They would no longer produce milk.",
+      "D. They would lose their grazing land."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They would no longer produce milk.",
+      "They would no longer produce milk."
+     ]
+    },
+    {
+     "id": "exam31-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why was the first application to Parliament rejected?",
+     "explanation": "Errors in the survey could not be defended.",
+     "evidenceQuote": "was unable to defend serious errors in the survey of the route",
+     "skillTag": "detail",
+     "options": [
+      "A. Mistakes in the planned route were exposed.",
+      "B. The canal owners offered lower charges.",
+      "C. Stephenson refused to answer questions.",
+      "D. The line was too expensive to build."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Mistakes in the planned route were exposed.",
+      "Mistakes in the planned route were exposed."
+     ]
+    },
+    {
+     "id": "exam31-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why did Rocket win the competition at Rainhill?",
+     "explanation": "It was the only engine to finish.",
+     "evidenceQuote": "the only locomotive to complete the trials",
+     "skillTag": "detail",
+     "options": [
+      "A. It was the fastest machine.",
+      "B. It was the most popular with spectators.",
+      "C. It was the cheapest to build.",
+      "D. It was the only one to finish the tests."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. It was the only one to finish the tests.",
+      "It was the only one to finish the tests."
+     ]
+    },
+    {
+     "id": "exam31-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Across Chat Moss, the track rested on __________ made of heather and brushwood.",
+     "explanation": "The track was laid on hurdles.",
+     "evidenceQuote": "to lay the track on hurdles of heather and brushwood",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hurdles"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam31-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Before the railway, a trip between the two cities by __________ took several hours.",
+     "explanation": "The stagecoach took several hours.",
+     "evidenceQuote": "A journey that had taken several hours by stagecoach",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stagecoach"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam31-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Stephenson had first used his gauge on railways serving __________.",
+     "explanation": "He had used it on colliery lines.",
+     "evidenceQuote": "a measurement he had used on earlier colliery lines",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "colliery lines",
+      "collieries"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 872,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Choosing a source of power",
+      "ii. A measurement adopted worldwide",
+      "iii. The weaknesses of the existing transport",
+      "iv. A celebration spoiled",
+      "v. Overcoming difficult terrain",
+      "vi. Resistance to the scheme",
+      "vii. Results that surprised everyone",
+      "viii. Fares that ordinary people could afford",
+      "ix. A line built only for coal"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam31-rp3",
+   "passageNumber": 3,
+   "title": "Should we fly less?",
+   "discipline": "Environmental Policy & Transport",
+   "paragraphs": [
+    "Within a single lifetime, flying has changed from a luxury enjoyed by a wealthy few into a routine part of modern life. Before the COVID-19 pandemic, airlines carried more than four billion passengers a year, and the industry expected that number to keep rising. Yet over the same period, concern about the climate has grown, and aviation has become a symbol of the conflict between personal freedom and environmental responsibility. In Sweden, a new word, flygskam, or 'flight shame', spread around 2018, as some people began to feel uncomfortable about the emissions caused by their travel. The climate campaigner Greta Thunberg, who refuses to fly, made the issue internationally famous when she crossed the Atlantic by sailing boat in 2019.",
+    "How large is the problem? Aviation is responsible for roughly two and a half per cent of global carbon dioxide emissions. That may seem modest, but it is not the whole story. Aircraft also release nitrogen oxides and water vapour at high altitude, and under certain conditions they create contrails, the long white lines of ice crystals that can trap heat in the atmosphere. When these effects are included, scientists estimate that aviation's share of human-caused warming is considerably larger. Moreover, while other sectors such as electricity generation are steadily reducing their emissions, aviation is one of the hardest to clean up, so its share is likely to grow.",
+    "The emissions are also very unevenly distributed. Most of the world's population has never taken a flight, while a small minority flies many times a year. One widely cited estimate suggests that around one per cent of the world's people are responsible for roughly half of the emissions from passenger flights. For this reason, some campaigners have proposed a frequent-flyer levy, a tax that would be low or even zero for a person's first flight each year but would rise steeply with every additional journey. Supporters argue that this would protect the annual family holiday while discouraging the habits of the most frequent travellers.",
+    "The aviation industry, unsurprisingly, prefers technological solutions. The most promising in the short term is sustainable aviation fuel, which can be made from waste materials such as used cooking oil, animal fats and agricultural leftovers, and which can be mixed with ordinary jet fuel without changes to engines. Over their whole life cycle, such fuels can produce far lower emissions than fossil fuels. However, at present they make up only a tiny fraction of the fuel used by airlines, they cost considerably more, and the supply of suitable waste is limited.",
+    "Electric aircraft are another possibility, and several small prototypes have already flown. The difficulty is weight. Even the best modern batteries store many times less energy per kilogram than jet fuel, so a battery-powered airliner capable of crossing an ocean is not realistic with current technology. Electric planes are therefore likely to be used first for small aircraft on short routes, such as those connecting islands. Aircraft powered by hydrogen have also been proposed, but they would require new aircraft designs and new infrastructure at airports, and are unlikely to be common for many years.",
+    "In the meantime, many airlines invite passengers to offset their emissions by paying a little extra for projects elsewhere, such as planting trees or protecting forests. Offsetting has been heavily criticised. It is often difficult to check whether a project really removes the carbon it claims, or whether the forest would have been protected anyway, and trees that are planted may later be cut down or destroyed by fire. Critics argue that offsets allow people to feel that they have solved the problem without changing their behaviour.",
+    "For shorter journeys, the alternative of the train is increasingly attractive. High-speed rail already competes successfully with air travel on many routes in Europe and Asia, and France has gone as far as banning some domestic flights where a train journey of less than two and a half hours is available. In Europe, night trains, many of which were cut in the early twenty-first century because they were losing money, have been making a comeback, allowing passengers to cover long distances while they sleep and to arrive in a city centre in the morning.",
+    "In my view, campaigns that rely on making individuals feel guilty are unlikely to achieve much on their own. Most people will continue to fly if flying remains cheap and convenient, and it is unfair to place the burden on the occasional traveller visiting family abroad. Greater responsibility, I believe, should fall on those who fly most often, which is why a frequent-flyer levy seems to me a fair idea. Nor should we forget that flying brings real benefits: it connects families separated by migration, and tourism by air supports jobs in many poorer countries. The aim should not be to end flying, but to make sure that its true environmental cost is reflected in its price."
+   ],
+   "questions": [
+    {
+     "id": "exam31-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "can be produced from used cooking oil",
+     "explanation": "Sustainable aviation fuel uses waste oil.",
+     "evidenceQuote": "which can be made from waste materials such as used cooking oil",
+     "skillTag": "matching_features",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. sustainable aviation fuel",
+      "sustainable aviation fuel"
+     ]
+    },
+    {
+     "id": "exam31-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "is held back by the weight of its energy source",
+     "explanation": "Batteries are too heavy for long flights.",
+     "evidenceQuote": "The difficulty is weight.",
+     "skillTag": "matching_features",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. electric aircraft",
+      "electric aircraft"
+     ]
+    },
+    {
+     "id": "exam31-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "would become more expensive with each extra trip a person takes",
+     "explanation": "The levy rises with each flight.",
+     "evidenceQuote": "but would rise steeply with every additional journey",
+     "skillTag": "matching_features",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. a frequent-flyer levy",
+      "a frequent-flyer levy"
+     ]
+    },
+    {
+     "id": "exam31-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "pays for projects whose results can be hard to verify",
+     "explanation": "Offset projects are hard to check.",
+     "evidenceQuote": "It is often difficult to check whether a project really removes the carbon it claims",
+     "skillTag": "matching_features",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. carbon offsetting",
+      "carbon offsetting"
+     ]
+    },
+    {
+     "id": "exam31-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "allows travellers to cover long distances while sleeping",
+     "explanation": "Night trains allow travel while sleeping.",
+     "evidenceQuote": "allowing passengers to cover long distances while they sleep",
+     "skillTag": "matching_features",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. night trains",
+      "night trains"
+     ]
+    },
+    {
+     "id": "exam31-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Encouraging people to feel guilty is the most effective way to reduce flying.",
+     "explanation": "The writer thinks guilt alone achieves little.",
+     "evidenceQuote": "campaigns that rely on making individuals feel guilty are unlikely to achieve much on their own",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam31-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Cutting emissions from aviation is easier than cutting those from electricity generation.",
+     "explanation": "Aviation is one of the hardest sectors.",
+     "evidenceQuote": "aviation is one of the hardest to clean up",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam31-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Sustainable aviation fuel will become cheaper than ordinary jet fuel within a decade.",
+     "explanation": "Only the current cost is mentioned; no prediction is made.",
+     "evidenceQuote": "they cost considerably more",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam31-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "People who fly most often should carry a larger share of the responsibility.",
+     "explanation": "The writer says frequent flyers should bear more responsibility.",
+     "evidenceQuote": "Greater responsibility, I believe, should fall on those who fly most often",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam31-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Air travel brings economic advantages to some less wealthy nations.",
+     "explanation": "Tourism supports jobs in poorer countries.",
+     "evidenceQuote": "tourism by air supports jobs in many poorer countries",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam31-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "The Swedish word flygskam refers to a feeling of flight __________.",
+     "explanation": "It means flight shame.",
+     "evidenceQuote": "flygskam, or 'flight shame'",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shame"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "As well as carbon dioxide, aircraft can create __________, which may trap heat.",
+     "explanation": "Contrails can trap heat.",
+     "evidenceQuote": "they create contrails",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "contrails"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Electric planes are expected to serve small aircraft on __________ routes at first.",
+     "explanation": "They will first be used on short routes.",
+     "evidenceQuote": "for small aircraft on short routes",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "short"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam31-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Hydrogen aircraft would need new designs and new __________ at airports.",
+     "explanation": "Airports would need new infrastructure.",
+     "evidenceQuote": "new infrastructure at airports",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "infrastructure"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 817,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of possible solutions below. Match each statement with the correct solution, A–F.",
+     "options": [
+      "A. high-speed rail",
+      "B. night trains",
+      "C. sustainable aviation fuel",
+      "D. electric aircraft",
+      "E. carbon offsetting",
+      "F. a frequent-flyer levy"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam31-w1",
+  "title": "Journeys between two cities by mode of transport",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows the number of journeys made between two cities by air, rail and coach from 1995 to 2015. A high-speed rail line between the cities opened in 2005. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "0AD2D55F-AEBD-500C-8D05-6937D0F02DF4",
+    "series": "Air",
+    "category": "1995",
+    "value": 4.2,
+    "unit": "million journeys"
+   },
+   {
+    "id": "B557A86F-F9A0-5054-AAEB-D0CF45B3517A",
+    "series": "Rail",
+    "category": "1995",
+    "value": 2.1,
+    "unit": "million journeys"
+   },
+   {
+    "id": "83DA47F5-DD24-556F-B874-6A56290B6BE5",
+    "series": "Coach",
+    "category": "1995",
+    "value": 1.0,
+    "unit": "million journeys"
+   },
+   {
+    "id": "E18D2E56-8A5A-5A18-BC83-0E1AD18B82F8",
+    "series": "Air",
+    "category": "2000",
+    "value": 4.8,
+    "unit": "million journeys"
+   },
+   {
+    "id": "3D132910-0F83-5679-BF6C-C689F3D0BC01",
+    "series": "Rail",
+    "category": "2000",
+    "value": 2.0,
+    "unit": "million journeys"
+   },
+   {
+    "id": "D79E4023-81F0-500E-BEA6-88742200E8F8",
+    "series": "Coach",
+    "category": "2000",
+    "value": 1.1,
+    "unit": "million journeys"
+   },
+   {
+    "id": "55D2DD51-0F19-5446-BB54-8CC6266B4D52",
+    "series": "Air",
+    "category": "2005",
+    "value": 5.1,
+    "unit": "million journeys"
+   },
+   {
+    "id": "880D4137-8D19-537D-A134-F68B695D0159",
+    "series": "Rail",
+    "category": "2005",
+    "value": 2.4,
+    "unit": "million journeys"
+   },
+   {
+    "id": "942CDFD5-D92C-5103-9A94-1DD38BF968C4",
+    "series": "Coach",
+    "category": "2005",
+    "value": 1.2,
+    "unit": "million journeys"
+   },
+   {
+    "id": "B64D35AF-C9BB-52AB-9245-4683B743E097",
+    "series": "Air",
+    "category": "2010",
+    "value": 3.2,
+    "unit": "million journeys"
+   },
+   {
+    "id": "DCA532F0-B203-5D72-90B3-7486E5DE1192",
+    "series": "Rail",
+    "category": "2010",
+    "value": 5.6,
+    "unit": "million journeys"
+   },
+   {
+    "id": "ED0C7EFF-2AE5-5CD7-8C90-B990FC5312FB",
+    "series": "Coach",
+    "category": "2010",
+    "value": 0.9,
+    "unit": "million journeys"
+   },
+   {
+    "id": "A1AB0687-0A90-54CD-AD6A-8CAA8EA3F0BA",
+    "series": "Air",
+    "category": "2015",
+    "value": 2.6,
+    "unit": "million journeys"
+   },
+   {
+    "id": "21DA5BD4-908C-56F8-A1CB-6E2BDC110006",
+    "series": "Rail",
+    "category": "2015",
+    "value": 6.8,
+    "unit": "million journeys"
+   },
+   {
+    "id": "98EA4A15-1CE8-5C95-B6A2-73EBC0051B03",
+    "series": "Coach",
+    "category": "2015",
+    "value": 0.8,
+    "unit": "million journeys"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Air travel was the most popular mode until the high-speed line opened, after which rail overtook it.",
+   "Coach journeys remained much lower than the other two modes throughout and fell slightly after 2005."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam31-w2",
+  "title": "Making flying more expensive",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Transport & Environment",
+  "promptText": "Some people believe that governments should make air travel more expensive in order to protect the environment. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam31-spk",
+  "theme": "Trains, planes and journeys",
+  "part1Questions": [
+   "How do you usually travel when you go on a long journey?",
+   "Do you prefer travelling by train or by plane? Why?",
+   "Did you enjoy travelling when you were a child?",
+   "What do you usually do to pass the time on a long journey?",
+   "Is public transport good in the area where you live?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a memorable journey you have made.",
+   "bulletPoints": [
+    "where you went and how you travelled",
+    "who you were with",
+    "what happened during the journey",
+    "and explain why this journey was memorable for you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people find travelling stressful?",
+   "How has the way people travel changed in your country in recent decades?",
+   "Should governments spend more on railways than on roads and airports?",
+   "Do you think people will travel less in the future because of environmental concerns?",
+   "What are the benefits of travelling to other countries when you are young?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are checked against standard reference sources.",
+   "Writing Task 1 data are invented for practice purposes.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

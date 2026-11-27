@@ -1,0 +1,2202 @@
+{
+ "id": "practice03",
+ "examNumber": 3,
+ "pool": "practice",
+ "title": "Practice Test 3: Travel, Leisure & Culture",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Travel, Leisure & Culture",
+ "listeningParts": [
+  {
+   "id": "practice03-lp1",
+   "partNumber": 1,
+   "title": "Booking a guided city tour",
+   "contextDescription": "A tourist phones a tour company to book a walking tour.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "CA37B70A-2C7A-516B-BA22-07B261DCC7A7",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Good morning, City Walks, this is Maria. How can I help you?"
+    },
+    {
+     "id": "74F74332-090F-5F43-8B49-67BAA88FDCCC",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Hello. I'd like to book a walking tour for this weekend, please. I'm visiting with my family."
+    },
+    {
+     "id": "897B2D1D-78AC-5430-86D0-B4EAD759EDBC",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Wonderful. We have three tours at the weekend. The History Walk, the Food Tour and the Night Walk. Which one interests you?"
+    },
+    {
+     "id": "9FC7B220-E2A4-5B21-A7E2-AE67C02EA8F9",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "What's the difference between them?"
+    },
+    {
+     "id": "4E4E850E-EA53-5129-B59B-0FC72A1EEA61",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "The History Walk visits the old town, the cathedral and the castle. It takes about two hours. The Food Tour goes to the market and five small restaurants where you can taste local dishes. That one lasts three hours. And the Night Walk is about ghosts and old stories. It starts at nine o'clock in the evening."
+    },
+    {
+     "id": "BEB58827-31A9-5BCB-9540-370CA49D8B0E",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "My children are eight and ten, so I don't think the Night Walk is a good idea. They'd be too tired, and maybe scared."
+    },
+    {
+     "id": "9D5B59EA-E6A0-501B-A92F-0D9CF5E50C05",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "That's true. Children under twelve aren't allowed on the Night Walk anyway."
+    },
+    {
+     "id": "4E8E475C-F1FE-5BC5-BBA7-E8676FFC7FB3",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "I think the History Walk sounds best. My son loves castles."
+    },
+    {
+     "id": "5DF973EF-7BF8-5C82-A94C-D2781A5DBED9",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Great choice. On Saturday it starts at ten in the morning, and on Sunday at eleven."
+    },
+    {
+     "id": "FEB27135-5E43-5155-B0B6-AE1324A14FD1",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Saturday morning, please. On Sunday we're taking the train to the coast."
+    },
+    {
+     "id": "EDB6D138-8AF7-5844-B1A4-64F2E692FA00",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "No problem. How many people?"
+    },
+    {
+     "id": "28E7F93C-CE15-5C0C-A1C7-23FD7B087BF5",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Two adults and two children."
+    },
+    {
+     "id": "3DCC1891-C63A-5D13-B667-7433657077A4",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Adult tickets are eighteen dollars and children's tickets are nine dollars. But we have a family ticket for two adults and two children, which costs forty-five dollars. That saves you nine dollars."
+    },
+    {
+     "id": "E5B71147-7C04-515A-B2A0-6A2DBB107380",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Perfect, the family ticket then."
+    },
+    {
+     "id": "ACE102FA-D39F-58B3-AE3E-49D818E627E0",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "And can I have your name, please?"
+    },
+    {
+     "id": "267D311B-3F83-5959-8554-485287E8F268",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Yes, it's Helen Bradshaw. B-R-A-D-S-H-A-W."
+    },
+    {
+     "id": "EEFEFDE8-F80C-51A2-82A2-1DD7417F2E4A",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Thank you. And a mobile number, in case we need to contact you?"
+    },
+    {
+     "id": "86967959-8BE3-5CB2-BFF5-6F6B05EE6813",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "It's 0-7-8-8-4, 5-1-6, 2-3-9."
+    },
+    {
+     "id": "8A2BD791-9322-5985-816A-083DDE64EC62",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Thanks. So, the tour starts outside the main entrance of the Central Library. Do you know where that is?"
+    },
+    {
+     "id": "DC134B8E-F412-53CB-9F71-4A58E07D2F76",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Is that near the train station?"
+    },
+    {
+     "id": "9E1C22E1-1B47-59F7-AEDE-A5FABC7752BA",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Not exactly. It's in Market Square, opposite the big fountain. Look for a guide holding a yellow umbrella. That's how you'll find us."
+    },
+    {
+     "id": "3FF552F4-A356-52D8-8218-5971F215A72D",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "A yellow umbrella. Okay. What should we bring?"
+    },
+    {
+     "id": "56850762-8B13-5F37-B241-4138B1670FEA",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Comfortable shoes, because the streets in the old town are very uneven. And bring some water. There's a short break in the middle of the tour at a café near the castle, if anyone wants to buy a snack."
+    },
+    {
+     "id": "0A20B1C7-1CBD-5D7B-AE9D-B296BD411747",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "What happens if it rains?"
+    },
+    {
+     "id": "D7CBB7BE-12ED-5256-BEA0-3FA8C6FD2A9B",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "The tour goes ahead in the rain, so bring a coat. Only if the weather is really dangerous, for example in a storm, do we cancel, and then you get your money back."
+    },
+    {
+     "id": "E23D493D-0DF6-5B84-8653-2CCDFB4CBA25",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "And is the tour suitable for children?"
+    },
+    {
+     "id": "4F5C9A52-1F6F-5D21-BB19-317CAEBF8CBF",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "Yes, very. The guide gives every child a small activity book with questions to answer during the tour. They usually love it."
+    },
+    {
+     "id": "0FE3FDF4-A002-55FE-9076-29C67042657A",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "That sounds great. How do I pay?"
+    },
+    {
+     "id": "7FD52847-A2B3-5260-83A0-ED44FB4A5658",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "You can pay now by card, and I'll email you a booking reference. Just show it to the guide on Saturday, on your phone or on paper."
+    },
+    {
+     "id": "434A98EA-FADA-526D-AE4C-6BCE61D5E8E2",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Lovely. Can we go inside the castle during the tour?"
+    },
+    {
+     "id": "2CB10922-9024-5526-A192-CEA1B7C6C16E",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "The tour stops outside the castle, and the guide tells you its history. If you want to go inside, you need a separate ticket, but you get ten per cent off if you show your tour booking."
+    },
+    {
+     "id": "AA40572B-C24C-5FA4-A4D9-F9178D29E7E4",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Brilliant. One more question. Is the tour in English only?"
+    },
+    {
+     "id": "F5B87EF9-55A3-5EE7-82A1-D186B9DA6627",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "The Saturday morning tour is in English, but we also have tours in Spanish and French on other days. And the guide speaks slowly and clearly, so it's easy to follow, even for children."
+    },
+    {
+     "id": "02248BC4-ED74-52AD-AC17-2A3519A568F0",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Good. And how many people are usually in a group?"
+    },
+    {
+     "id": "1CCBBE4E-7A6B-5162-A2A4-431A626345DB",
+     "speaker": "Agent",
+     "accent": "en-US",
+     "text": "We never have more than twenty people, so everyone can hear the guide and ask questions. Saturday is usually quite busy, though, so I'm glad you're booking now. There are only six places left."
+    },
+    {
+     "id": "9D851C49-AAB3-56C6-8F72-6390718B3536",
+     "speaker": "Tourist",
+     "accent": "en-GB",
+     "text": "Then I'm glad I called today. Thank you very much, Maria."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice03-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Tour chosen: the __________ Walk",
+     "explanation": "She chooses the History Walk because her son loves castles.",
+     "evidenceQuote": "I think the History Walk sounds best.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "History"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Length of tour: about __________ hours",
+     "explanation": "The History Walk takes about two hours.",
+     "evidenceQuote": "It takes about two hours.",
+     "skillTag": "numbers",
+     "distractorNote": "The Food Tour lasts three hours.",
+     "options": [],
+     "acceptedAnswers": [
+      "2",
+      "two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Day: __________ at 10 a.m.",
+     "explanation": "She chooses Saturday; on Sunday they go to the coast.",
+     "evidenceQuote": "Saturday morning, please.",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Saturday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Family ticket: $__________",
+     "explanation": "The family ticket is $45.",
+     "evidenceQuote": "which costs forty-five dollars",
+     "skillTag": "numbers",
+     "distractorNote": "$18 and $9 are single ticket prices; $9 is the saving.",
+     "options": [],
+     "acceptedAnswers": [
+      "45",
+      "forty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells her surname.",
+     "evidenceQuote": "it's Helen Bradshaw. B-R-A-D-S-H-A-W.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Bradshaw"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Meeting point: outside the Central __________",
+     "explanation": "They meet outside the Central Library.",
+     "evidenceQuote": "the tour starts outside the main entrance of the Central Library",
+     "skillTag": "distractor_correction",
+     "distractorNote": "It is not near the train station.",
+     "options": [],
+     "acceptedAnswers": [
+      "Library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Look for a guide with a yellow __________",
+     "explanation": "The guide holds a yellow umbrella.",
+     "evidenceQuote": "Look for a guide holding a yellow umbrella.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "umbrella"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Bring: comfortable shoes and __________",
+     "explanation": "They should bring comfortable shoes and water.",
+     "evidenceQuote": "And bring some water.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "water"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Children receive an activity __________",
+     "explanation": "Each child gets an activity book.",
+     "evidenceQuote": "gives every child a small activity book",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "book"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Castle ticket: __________ % discount with tour booking",
+     "explanation": "There is 10% off the castle ticket.",
+     "evidenceQuote": "you get ten per cent off if you show your tour booking",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "walking tour",
+    "meeting point",
+    "discount",
+    "booking reference",
+    "guide"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice03-lp2",
+   "partNumber": 2,
+   "title": "Welcome to the summer arts festival",
+   "contextDescription": "A festival organiser speaks on local radio about this year's summer arts festival.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "A080DA2E-6212-5842-A5DE-4EBD0A8B1350",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Hello, and thank you for inviting me. I'm Paul Grant, the director of the Riverside Summer Festival, and I'm delighted to tell your listeners about this year's programme. The festival runs for ten days, from Friday the eighteenth of July to Sunday the twenty-seventh, and this is our twentieth year, so we've planned something special."
+    },
+    {
+     "id": "CFD5EB78-C164-5B3E-BE28-F1143718053D",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "The festival has always been about bringing all kinds of art to everyone in the town, and that's still our aim. This year we have more than a hundred and fifty events, including music, theatre, dance, comedy and film, and about a third of them are completely free."
+    },
+    {
+     "id": "0382059C-E176-5F70-B554-9C5C9AD92326",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Let me tell you about some of the highlights. The opening concert on the first Friday will take place in Riverside Park. It's free, and we're expecting around five thousand people, so do come early. The music starts at seven, but the gates open at five, and there'll be food stalls selling dishes from around the world."
+    },
+    {
+     "id": "61CF27B4-156F-589D-A3D9-511B521BD13C",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "For theatre lovers, the main event is a new play written by a local writer, Anna Price, about the history of the town's old factory. It will be performed in the Old Mill, which was once part of that factory, so the setting is perfect. Tickets are twelve pounds, and there are eight performances."
+    },
+    {
+     "id": "CE15AEAA-3F00-5BE0-9E60-F542AD292FD9",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Families are very important to us. Every day there will be activities for children in the Library Gardens, including storytelling, face painting and music workshops. These are all free, and you don't need to book. On the middle Saturday, we also have a children's parade, and children are invited to make costumes at workshops during the first week of the festival."
+    },
+    {
+     "id": "9824EC87-0AF3-5368-AC4A-38C309B92399",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "This year, for the first time, we're also holding an outdoor film festival. Every evening at nine thirty, we'll show a film on a big screen by the river. Bring a blanket or a chair. The films are free, but there are only five hundred places, so you need to get a ticket from the box office first."
+    },
+    {
+     "id": "789D9911-2869-5680-8436-E39CD52C5BE0",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "For people who want to try something themselves, there are lots of workshops. You can learn to paint, to make pottery or to dance the tango. Most workshops cost five pounds, and all the money goes to help young artists in the town."
+    },
+    {
+     "id": "DD5261A8-B450-58E5-B978-56DD2ACB399E",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "And for comedy fans, there are comedy nights every Friday and Saturday in the back room of the Swan Hotel. Some of the comedians are famous, and some are performing for the very first time. These shows are only for adults, and tickets cost eight pounds. Last year they sold out very quickly, so please book early."
+    },
+    {
+     "id": "F0AAA649-DFEA-5BB3-B643-8CC75A082E7C",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Some practical information now. The festival box office is in the Town Hall, and it's open from nine until six every day. You can also buy tickets online on our website, which is the easiest way, especially for popular events. Many events are in the town centre, so we suggest leaving your car at home. There will be extra buses in the evenings, and the last bus leaves the town centre at midnight."
+    },
+    {
+     "id": "6CC4E83A-A788-5611-A4BB-54C9534AF733",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "We also need help! Every year we rely on around two hundred volunteers. They do all kinds of jobs, from selling programmes to helping artists. Volunteers get a festival T-shirt and free tickets to two events of their choice. If you're interested, please come to a meeting on Monday the seventh of July at the Town Hall."
+    },
+    {
+     "id": "AAF4E4C9-E28C-5A33-9EA9-7A4099680307",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Finally, the closing event. On the last night, there will be a fireworks display over the river at ten o'clock. It's the biggest fireworks display in the region and it's completely free. We hope to see you all there."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice03-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How long does the festival last?",
+     "explanation": "The festival runs for ten days.",
+     "evidenceQuote": "The festival runs for ten days",
+     "skillTag": "multiple_choice",
+     "distractorNote": "It is the twentieth year, not twenty days.",
+     "options": [
+      "A. one week",
+      "B. twenty days",
+      "C. ten days"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. ten days",
+      "ten days"
+     ]
+    },
+    {
+     "id": "practice03-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What fraction of the events are free?",
+     "explanation": "About a third of events are free.",
+     "evidenceQuote": "about a third of them are completely free",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. about a quarter",
+      "B. about a third",
+      "C. about half"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. about a third",
+      "about a third"
+     ]
+    },
+    {
+     "id": "practice03-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What time do the gates open for the opening concert?",
+     "explanation": "Gates open at five; music starts at seven.",
+     "evidenceQuote": "the gates open at five",
+     "skillTag": "numbers",
+     "options": [
+      "A. 5 p.m.",
+      "B. 7 p.m.",
+      "C. 9 p.m."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. 5 p.m.",
+      "5 p.m."
+     ]
+    },
+    {
+     "id": "practice03-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why is the Old Mill a good place for the new play?",
+     "explanation": "The play is about the factory, and the mill was part of it.",
+     "evidenceQuote": "which was once part of that factory, so the setting is perfect",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is the largest theatre in town.",
+      "B. It is close to the river.",
+      "C. It is connected to the subject of the play."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It is connected to the subject of the play.",
+      "It is connected to the subject of the play."
+     ]
+    },
+    {
+     "id": "practice03-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "To see the outdoor films, people must",
+     "explanation": "A free ticket from the box office is needed.",
+     "evidenceQuote": "you need to get a ticket from the box office first",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. pay for a ticket online.",
+      "B. collect a free ticket in advance.",
+      "C. bring their own chair."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. collect a free ticket in advance.",
+      "collect a free ticket in advance."
+     ]
+    },
+    {
+     "id": "practice03-L16",
+     "number": 16,
+     "format": "Sentence Completion",
+     "prompt": "Children's activities take place every day in the Library __________.",
+     "explanation": "Children's activities are in the Library Gardens.",
+     "evidenceQuote": "activities for children in the Library Gardens",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Gardens"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "Money from workshops helps young __________ in the town.",
+     "explanation": "Workshop money helps young artists.",
+     "evidenceQuote": "all the money goes to help young artists in the town",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "artists"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "The box office is in the Town __________.",
+     "explanation": "The box office is in the Town Hall.",
+     "evidenceQuote": "The festival box office is in the Town Hall",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Hall"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "Volunteers receive a T-shirt and free tickets to __________ events.",
+     "explanation": "Volunteers get two free event tickets.",
+     "evidenceQuote": "free tickets to two events of their choice",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "2",
+      "two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "The festival ends with __________ over the river.",
+     "explanation": "It ends with fireworks.",
+     "evidenceQuote": "there will be a fireworks display over the river",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fireworks"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "programme",
+    "venue",
+    "workshop",
+    "free event",
+    "box office"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice03-lp3",
+   "partNumber": 3,
+   "title": "Choosing a topic for a tourism project",
+   "contextDescription": "Two tourism students, Sam and Lina, discuss ideas for a group project.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "E3075F1A-1AD7-5754-854C-4EB4E11453D0",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Hi Lina. So, we need to choose a topic for our tourism project by Friday. Have you had any ideas?"
+    },
+    {
+     "id": "D33F41F5-EF34-5AF9-88F8-6CAD42F03BAC",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "A few. I was thinking about ecotourism, you know, holidays that try to protect the environment. It's very popular at the moment."
+    },
+    {
+     "id": "E1BB5EC1-9104-51C8-915F-B7CFEE4E030B",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "It is, but I think lots of other groups will choose it. Our lecturer said she's already read about twenty projects on ecotourism. We might find it hard to say something new."
+    },
+    {
+     "id": "A7E98DB4-FA95-5415-850B-66042C540DA2",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "That's a good point. What about you? Any ideas?"
+    },
+    {
+     "id": "AC649E68-31C6-5096-9D90-0EF08A5AF23F",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "I was thinking about tourism in our own town. Lots of people visit the castle and the old town in summer, but almost nobody comes in winter. We could look at how the town could attract visitors all year."
+    },
+    {
+     "id": "500ADEE5-5AED-54A4-BB63-CEC4C6AAA89C",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Oh, I like that. And it's local, so we can do our own research. We could talk to people who work in hotels and shops."
+    },
+    {
+     "id": "0A1ACDD3-EA33-5F85-8A86-926219F0F028",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Exactly. And the tourist information office might give us some numbers on visitors."
+    },
+    {
+     "id": "E5FE32CE-F717-5D73-B0E5-4D5F61DEAFAC",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Okay, let's choose that. How should we collect information? I think a questionnaire for tourists would be good."
+    },
+    {
+     "id": "E4B3B109-69F7-557B-8272-C881F4A32494",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "In winter there won't be many tourists to ask, though. Maybe we should interview people in local businesses instead. Hotel managers would know a lot about the busy and quiet seasons."
+    },
+    {
+     "id": "1ADECACF-96DD-5DFB-B552-522C42EA075F",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "True. But a questionnaire could still work if we put it online. We could ask people who visited last summer why they didn't come in winter."
+    },
+    {
+     "id": "226E690F-026B-5793-B1B7-3E185A491509",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Okay, let's do both, then. I'll organise the interviews, because I know the manager of the Castle Hotel. My aunt works there."
+    },
+    {
+     "id": "E36CD844-24CE-5CED-B37B-E72103C47F26",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Great. And I'll write the questionnaire. I did one last term for another course, so I know how to make it short and clear."
+    },
+    {
+     "id": "362AD381-B155-540E-8883-7C7770CEF32A",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "What about examples from other places? It would be good to see what other towns have done."
+    },
+    {
+     "id": "FFE391DD-8EDB-529E-B49A-2172ECF4C520",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Yes. I read about a town in Austria that started a winter food festival. Now it's one of their busiest times of year. That could be a good case study."
+    },
+    {
+     "id": "5058923B-73F3-5317-8BC4-F02EFD16213E",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "And there's that town in Scotland that has a winter light festival, where they light up old buildings at night. It's a bit like our castle."
+    },
+    {
+     "id": "8F447191-4A0C-51A4-99CB-6E486BA949E7",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Oh, I've seen photos of that. It looks beautiful. Do you think our town could do something similar?"
+    },
+    {
+     "id": "4E0B7970-787A-567D-BE0D-4223763CBCE4",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Maybe. The castle would look amazing with lights on it. But we'd need to find out how much it would cost, and who would pay. That could be a question for our interviews."
+    },
+    {
+     "id": "6363B4EA-4C9C-5779-941B-5C2F54A7B6D0",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Good idea. We could ask the hotel managers if they'd be willing to help pay for an event that brings more visitors in winter. After all, they would get more customers."
+    },
+    {
+     "id": "23A03CC9-67F8-53F4-B398-4FD99D08F0D6",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Exactly. Let's write that down so we don't forget it. And we could also ask the people at the tourist information office what they think about the idea, because they talk to visitors every day."
+    },
+    {
+     "id": "5DA8C3B3-E17D-5394-9849-52E18B3E0408",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Perfect. Two case studies should be enough. Now, how long does the report need to be?"
+    },
+    {
+     "id": "BBAC8753-6CB3-50CF-A187-FF4F54C5C2A8",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Three thousand words, plus a ten-minute presentation to the class."
+    },
+    {
+     "id": "0180BF34-F043-56C2-8BFA-BD3B0B4EF3D5",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "When's the deadline?"
+    },
+    {
+     "id": "84ECAFE2-2134-5450-A5B4-AD52B902937F",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "The report is due on the fifteenth of December, and the presentations are the week after."
+    },
+    {
+     "id": "F33A5909-E7A0-5426-A91B-111A9D9045C6",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "That doesn't give us much time. We should start the interviews next week."
+    },
+    {
+     "id": "761EA5D2-C3FC-5E04-9045-1AF0846D7884",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Agreed. Shall we meet every Wednesday to check our progress?"
+    },
+    {
+     "id": "AA58D147-5E8B-51AA-8F3C-CD7D26AC49D3",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Wednesday is difficult for me, I have a long lecture in the afternoon. Can we do Thursday?"
+    },
+    {
+     "id": "84D69394-3E26-5F65-B8F8-66B4DD128C22",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Thursday's fine. Let's say Thursdays at twelve, in the library café."
+    },
+    {
+     "id": "33E34D6F-E100-5917-8EF7-45CF07BAC86A",
+     "speaker": "Lina",
+     "accent": "en-GB",
+     "text": "Okay. And one more thing. Let's share all our documents online so we can both edit them. That way we won't lose anything."
+    },
+    {
+     "id": "4D52F82A-9FE9-5173-B6BF-F0F985709AEC",
+     "speaker": "Sam",
+     "accent": "en-AU",
+     "text": "Good idea. I'll set it up tonight and send you the link."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice03-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why does Sam not want to study ecotourism?",
+     "explanation": "Many other groups will choose ecotourism.",
+     "evidenceQuote": "I think lots of other groups will choose it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Many other students will choose it.",
+      "B. It is not popular any more.",
+      "C. There is not enough information about it."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Many other students will choose it.",
+      "Many other students will choose it."
+     ]
+    },
+    {
+     "id": "practice03-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What problem does Sam want to study in their town?",
+     "explanation": "Few tourists visit in winter.",
+     "evidenceQuote": "almost nobody comes in winter",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There are too many tourists in summer.",
+      "B. Few tourists visit in winter.",
+      "C. Hotels are too expensive."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Few tourists visit in winter.",
+      "Few tourists visit in winter."
+     ]
+    },
+    {
+     "id": "practice03-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why does Sam suggest interviewing local businesses?",
+     "explanation": "There will be few tourists to ask in winter.",
+     "evidenceQuote": "In winter there won't be many tourists to ask",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Business owners are easier to contact.",
+      "B. Tourists do not like questionnaires.",
+      "C. There will not be many tourists to ask."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. There will not be many tourists to ask.",
+      "There will not be many tourists to ask."
+     ]
+    },
+    {
+     "id": "practice03-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why will Lina write the questionnaire?",
+     "explanation": "She has written a questionnaire before.",
+     "evidenceQuote": "I did one last term for another course",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. She has done it before.",
+      "B. She knows the hotel manager.",
+      "C. She has more time than Sam."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. She has done it before.",
+      "She has done it before."
+     ]
+    },
+    {
+     "id": "practice03-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What happened in the Austrian town?",
+     "explanation": "Its winter food festival became one of the busiest times.",
+     "evidenceQuote": "Now it's one of their busiest times of year",
+     "skillTag": "multiple_choice",
+     "distractorNote": "The light festival was in Scotland.",
+     "options": [
+      "A. It built a new castle museum.",
+      "B. A winter festival brought more visitors.",
+      "C. It started a light festival."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A winter festival brought more visitors.",
+      "A winter festival brought more visitors."
+     ]
+    },
+    {
+     "id": "practice03-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Sam will interview the manager of the Castle __________",
+     "explanation": "Sam knows the Castle Hotel manager.",
+     "evidenceQuote": "I know the manager of the Castle Hotel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Hotel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Report length: __________ words",
+     "explanation": "The report is 3,000 words.",
+     "evidenceQuote": "Three thousand words, plus a ten-minute presentation",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "3000",
+      "3,000",
+      "three thousand"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Report deadline: __________ December",
+     "explanation": "The deadline is 15 December.",
+     "evidenceQuote": "The report is due on the fifteenth of December",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "15",
+      "15th",
+      "fifteenth",
+      "the fifteenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Weekly meeting: __________ at 12",
+     "explanation": "They meet on Thursdays; Wednesday is difficult for Lina.",
+     "evidenceQuote": "Thursday's fine. Let's say Thursdays at twelve",
+     "skillTag": "distractor_correction",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday",
+      "Thursdays"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Meeting place: the library __________",
+     "explanation": "They meet in the library café.",
+     "evidenceQuote": "in the library café",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "café"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "ecotourism",
+    "case study",
+    "questionnaire",
+    "interview",
+    "deadline"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice03-lp4",
+   "partNumber": 4,
+   "title": "The history of the bicycle",
+   "contextDescription": "A talk at a transport museum about how the bicycle developed.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "F350822B-64F9-506C-8886-A4708860B238",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Good afternoon, everyone. Today I'm going to tell you the story of one of the simplest and most useful machines ever invented: the bicycle. There are more than a billion bicycles in the world today, but the bicycle as we know it is only about a hundred and forty years old."
+    },
+    {
+     "id": "432B26CF-CEB5-5323-9511-351980D2686E",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "The first machine that looked something like a bicycle was invented in Germany in 1817 by a man called Karl Drais. It had two wheels and a wooden frame, but no pedals. The rider sat on the seat and pushed along the ground with his feet, a bit like a child's balance bike today. People called it a running machine. One reason Drais was interested in it was that, at the time, horses were very expensive to feed after a series of bad harvests."
+    },
+    {
+     "id": "D2FA53DF-87FC-5EEC-A6C0-B6485C42583D",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "The next important step came in France in the 1860s, when pedals were added to the front wheel. These machines were popular, but they were very uncomfortable. The wheels were made of wood with iron around the outside, and on the stone roads of the time, the ride was extremely bumpy. In fact, people gave them the nickname 'boneshakers'."
+    },
+    {
+     "id": "C03500DB-7F46-5073-88D1-5689FD28F4EE",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "In the 1870s, a new design appeared that you've probably seen in old photographs: the penny-farthing. It had a huge front wheel and a tiny back wheel. Why such a big wheel? Because the pedals were attached directly to the front wheel, a bigger wheel meant the bicycle travelled further with each turn of the pedals, so riders could go faster. But it was also dangerous. The rider sat very high up, and if the wheel hit a stone, he could easily fall forward over the handlebars. Penny-farthings were mostly ridden by young men who enjoyed the excitement."
+    },
+    {
+     "id": "BB617A8A-B5D6-5552-A949-995E9F6AF1F4",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "The real breakthrough came in 1885, when an Englishman, John Kemp Starley, produced what he called the 'safety bicycle'. It had two wheels of the same size and a chain that connected the pedals to the back wheel. Because of the chain, the wheels didn't need to be large, so the rider sat closer to the ground. It was much safer and easier to ride, and its basic shape is the same as almost every bicycle today."
+    },
+    {
+     "id": "5921C0F0-0B01-55CF-8F85-A036F2969C55",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "A few years later, another important invention made cycling much more comfortable: the air-filled rubber tyre. It was developed by John Dunlop, a vet in Belfast, who wanted to make his young son's tricycle more comfortable to ride. Air-filled tyres made the ride smoother and faster, and soon all bicycles had them."
+    },
+    {
+     "id": "D38E823B-B7E1-5B06-B258-37B7F696F15C",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "In the 1890s, there was a bicycle boom. For the first time, ordinary people could travel easily beyond their own town or village, and cycling clubs became very popular. The bicycle was particularly important for women. It gave them a new kind of freedom to travel on their own, and it even changed fashion, because long, heavy skirts were difficult to ride in, so women began to wear shorter skirts and looser clothes."
+    },
+    {
+     "id": "4702BA16-E18B-5F84-8C42-EBFF11207384",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "In the twentieth century, the car became more popular in many countries, and cycling declined. But today, the bicycle is having a comeback. Many cities are building cycle lanes, and electric bicycles are making cycling possible for older people and in hilly places. In the Netherlands, there are actually more bicycles than people, and around a quarter of all journeys are made by bike. Cycling is also very good for your health, and it doesn't cause pollution, which is why many governments now want to encourage it."
+    },
+    {
+     "id": "82E9E25D-3F18-5C7A-948F-F343A8D4BB63",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Now, if you'd like to follow me into the next room, you can see some of these early bicycles for yourselves, including a real boneshaker. And if you're brave, you can even try sitting on our penny-farthing."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice03-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Drais's machine (1817): two wheels, wooden frame, no __________",
+     "explanation": "The running machine had no pedals.",
+     "evidenceQuote": "It had two wheels and a wooden frame, but no pedals.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pedals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Horses were expensive to feed after bad __________",
+     "explanation": "Bad harvests made horses costly.",
+     "evidenceQuote": "horses were very expensive to feed after a series of bad harvests",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "harvests"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "1860s France: pedals added to the __________ wheel",
+     "explanation": "Pedals went on the front wheel.",
+     "evidenceQuote": "pedals were added to the front wheel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "front"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Nickname for these early machines: \"__________\"",
+     "explanation": "They were called boneshakers.",
+     "evidenceQuote": "people gave them the nickname 'boneshakers'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boneshakers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Penny-farthing: with a bigger front wheel, riders could go __________",
+     "explanation": "A bigger wheel travelled further per turn, so riders went faster.",
+     "evidenceQuote": "so riders could go faster",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "faster"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Danger: riders could fall over the __________",
+     "explanation": "Riders could fall over the handlebars.",
+     "evidenceQuote": "he could easily fall forward over the handlebars",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "handlebars"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Safety bicycle (1885): a __________ connected the pedals to the back wheel",
+     "explanation": "A chain linked pedals and back wheel.",
+     "evidenceQuote": "a chain that connected the pedals to the back wheel",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chain"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Dunlop was a __________ in Belfast",
+     "explanation": "Dunlop was a vet.",
+     "evidenceQuote": "John Dunlop, a vet in Belfast",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Cycling changed women's __________",
+     "explanation": "Cycling changed women's fashion.",
+     "evidenceQuote": "it even changed fashion",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fashion"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Today, electric bikes help older people and those in __________ places",
+     "explanation": "E-bikes help in hilly places.",
+     "evidenceQuote": "and in hilly places",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "hilly"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "frame",
+    "pedal",
+    "tyre",
+    "chain",
+    "gear"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice03-rp1",
+   "passageNumber": 1,
+   "title": "The world's first public museums",
+   "discipline": "Cultural History",
+   "paragraphs": [
+    "Today, museums are among the most popular places to visit anywhere in the world. Every year, millions of people visit famous museums such as the Louvre in Paris or the British Museum in London, and almost every town has a museum of some kind. But the idea of a public museum, open to everyone, is surprisingly recent. For most of history, collections of art and interesting objects belonged to rich and powerful people, and only their friends and important visitors were allowed to see them.",
+    "In Europe in the sixteenth and seventeenth centuries, wealthy people often created what were called 'cabinets of curiosities'. These were rooms filled with all kinds of unusual objects: shells, rocks, stuffed animals, ancient coins, scientific instruments and works of art. There was often little order to these collections. A crocodile might hang from the ceiling above a painting, with a piece of coral next to a clock. Some objects were not even real: collectors sometimes paid large sums for the horns of unicorns, which were in fact the long teeth of a sea animal called the narwhal. Although these collections were not very scientific, they encouraged an interest in the natural world, and some of them later became the basis of important museums. The aim was to amaze visitors and to show how rich and well-travelled the owner was.",
+    "One of the first museums to open its doors to the public was the Ashmolean Museum in Oxford, England, which opened in 1683. It was based on the collection of a man called Elias Ashmole, who gave his objects to the University of Oxford. Visitors had to pay to enter, and at first the museum was mainly used by students and scholars. The building also contained a laboratory where scientists carried out chemical experiments, so the museum was a place for research as well as for looking at objects. However, it was an important step, because the collection now belonged to an institution rather than a private person.",
+    "The British Museum, which opened in 1759, was one of the first national museums. It was created after a doctor and collector, Sir Hans Sloane, left his huge collection of more than seventy thousand objects to the nation when he died. Entry was free, but it was not easy to get in. Visitors had to apply in writing for a ticket, and they were taken round in small groups by a guide who often hurried them through the rooms. In the early years, only about ten thousand people visited each year.",
+    "The French Revolution changed the idea of the museum. In 1793, the revolutionary government opened the Louvre, which had been a royal palace, as a public museum. The paintings and sculptures that had belonged to the king now belonged to the people, and the museum was open to everyone, free of charge, on certain days of the week. Ordinary working people could now see great works of art for the first time. Artists were also allowed in on special days to study and copy the paintings, which helped to train a new generation of painters. Many other countries followed this example in the nineteenth century.",
+    "During the nineteenth century, museums also began to organise their collections more carefully. Instead of mixing everything together like the old cabinets of curiosities, they divided objects into groups, such as natural history, archaeology and art, and arranged them in a logical order, often with written labels. Museums were seen as places where people could learn, and governments hoped they would help educate the working classes. Some museums even opened in the evening, so that people could visit after work.",
+    "Today, museums continue to change. Many now use digital technology, such as touch screens, audio guides on visitors' phones and virtual reality, and some allow people to explore their collections online from home. There are also important debates about who should own certain objects. Some objects in European museums were taken from other countries during periods of war or colonial rule, and those countries have asked for them to be returned. How museums respond to these requests is likely to be one of the biggest questions they face in the coming years."
+   ],
+   "questions": [
+    {
+     "id": "practice03-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "In the past, art collections were usually owned by wealthy people.",
+     "explanation": "Collections belonged to rich and powerful people.",
+     "evidenceQuote": "collections of art and interesting objects belonged to rich and powerful people",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice03-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Objects in cabinets of curiosities were arranged in a careful order.",
+     "explanation": "There was often little order.",
+     "evidenceQuote": "There was often little order to these collections.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice03-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Entry to the Ashmolean Museum was free when it first opened.",
+     "explanation": "Visitors had to pay.",
+     "evidenceQuote": "Visitors had to pay to enter",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice03-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Sir Hans Sloane was a doctor.",
+     "explanation": "Sloane was a doctor and collector.",
+     "evidenceQuote": "a doctor and collector, Sir Hans Sloane",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice03-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Early visitors to the British Museum could walk around on their own.",
+     "explanation": "Visitors were taken round in groups by a guide.",
+     "evidenceQuote": "they were taken round in small groups by a guide",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice03-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Louvre was the most visited museum in Europe in the nineteenth century.",
+     "explanation": "Visitor numbers in the nineteenth century are not given.",
+     "evidenceQuote": "Many other countries followed this example in the nineteenth century.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice03-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Some nineteenth-century museums stayed open in the evening.",
+     "explanation": "Some opened in the evening for workers.",
+     "evidenceQuote": "Some museums even opened in the evening",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice03-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "The main purpose of a cabinet of curiosities was to __________ visitors.",
+     "explanation": "They were meant to amaze visitors.",
+     "evidenceQuote": "The aim was to amaze visitors",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "amaze"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "Elias Ashmole gave his collection to a __________.",
+     "explanation": "He gave it to the University of Oxford.",
+     "evidenceQuote": "who gave his objects to the University of Oxford",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "university"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "To visit the early British Museum, people had to apply for a __________.",
+     "explanation": "Visitors applied in writing for a ticket.",
+     "evidenceQuote": "Visitors had to apply in writing for a ticket",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ticket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Before 1793, the Louvre was a royal __________.",
+     "explanation": "The Louvre had been a royal palace.",
+     "evidenceQuote": "which had been a royal palace",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "palace"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Nineteenth-century museums often used written __________.",
+     "explanation": "Objects had written labels.",
+     "evidenceQuote": "often with written labels",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "labels"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Some countries want objects taken during war or colonial rule to be __________.",
+     "explanation": "They have asked for objects to be returned.",
+     "evidenceQuote": "those countries have asked for them to be returned",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "returned"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice03-rp2",
+   "passageNumber": 2,
+   "title": "Why we love to travel",
+   "discipline": "Tourism Studies",
+   "paragraphs": [
+    "Tourism is one of the largest industries in the world. Before the pandemic in 2020, there were around one and a half billion international trips every year, and tourism provided jobs for about one in ten workers worldwide. But why do people travel? It is not always for the reasons we might expect. Researchers who study tourism have found that people's motivations are often more complicated than simply wanting to relax or see famous places.",
+    "One of the best-known explanations was developed by the tourism researcher Graham Dann in the 1970s. Dann suggested that travel is influenced by two kinds of factors, which he called 'push' and 'pull' factors. Push factors are the reasons people want to leave home, such as stress at work, boredom or the desire for adventure. Pull factors are the things that attract people to a particular place, such as beaches, history, good weather or famous food. In other words, push factors explain why people want to travel, and pull factors explain where they choose to go.",
+    "Another researcher, Philip Pearce, argued that people's reasons for travelling change as they gain more experience. He described this as a 'travel career'. According to Pearce, inexperienced travellers often want comfort, safety and relaxation. As people travel more, they become more interested in learning about other cultures, meeting local people and developing themselves. Not all researchers agree with this idea, but many tourism companies use it when they design holidays for different groups of customers. For example, a company might offer simple beach holidays with everything included for first-time travellers, and more adventurous trips, such as staying with local families or volunteering on a farm, for people who have travelled widely. Some travellers, of course, never follow this pattern and are happy to return to the same beach hotel every year.",
+    "In recent years, a new kind of motivation has become important: the wish to share experiences on social media. A survey of young British travellers found that about forty per cent chose their holiday destination partly because it would look good in photos online. Some places have become extremely popular because of photographs shared on the internet. A quiet lake, a colourful street or a small café can suddenly attract thousands of visitors after a famous person posts a picture of it. Local businesses may be happy at first, but the sudden crowds can be difficult to manage. This has brought money to some small towns, but it has also caused problems, as huge numbers of visitors arrive at places that are not prepared for them.",
+    "This problem, known as overtourism, is now a serious concern in many popular destinations. In Venice, for example, the number of tourists is far greater than the number of people who live there, and many local residents have moved away because of high rents and crowded streets. In Barcelona, which receives tens of millions of visitors a year, some residents have protested against tourists, and the city has limited the building of new hotels in the centre. Some popular natural places, such as beaches and mountains, have also been damaged by too many visitors.",
+    "Cities and countries are trying different ways to manage this problem. Some, like Venice, now charge an entry fee to day visitors at busy times. Others encourage tourists to visit at less busy times of the year, or to explore less famous areas. Amsterdam has stopped advertising itself to certain types of visitors, such as large groups who come mainly for parties. Bhutan, a small country in the Himalayas, has long followed a policy of 'high value, low impact' tourism, charging visitors a daily fee that is used to protect the environment and culture.",
+    "Tourism therefore brings both benefits and costs. It can create jobs, protect historic buildings and help people understand other cultures. But it can also damage the environment and make life difficult for local people. Many experts believe the solution is 'sustainable tourism', which means travelling in a way that respects local people and nature, and makes sure that the money from tourism helps the communities that receive visitors. As more people around the world are able to travel, finding this balance will become even more important."
+   ],
+   "questions": [
+    {
+     "id": "practice03-R14",
+     "number": 14,
+     "format": "Matching Features",
+     "prompt": "divided reasons for travel into two kinds",
+     "explanation": "Dann described push and pull factors.",
+     "evidenceQuote": "two kinds of factors, which he called 'push' and 'pull' factors",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Graham Dann",
+      "Graham Dann"
+     ]
+    },
+    {
+     "id": "practice03-R15",
+     "number": 15,
+     "format": "Matching Features",
+     "prompt": "suggested that travellers' motivations develop with experience",
+     "explanation": "Pearce described a travel career.",
+     "evidenceQuote": "people's reasons for travelling change as they gain more experience",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Philip Pearce",
+      "Philip Pearce"
+     ]
+    },
+    {
+     "id": "practice03-R16",
+     "number": 16,
+     "format": "Matching Features",
+     "prompt": "charges visitors a fee to protect nature and culture",
+     "explanation": "Bhutan charges a daily fee.",
+     "evidenceQuote": "charging visitors a daily fee that is used to protect the environment and culture",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Bhutan",
+      "Bhutan"
+     ]
+    },
+    {
+     "id": "practice03-R17",
+     "number": 17,
+     "format": "Matching Features",
+     "prompt": "has restricted the building of new hotels",
+     "explanation": "Barcelona has limited new hotels.",
+     "evidenceQuote": "the city has limited the building of new hotels in the centre",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Barcelona",
+      "Barcelona"
+     ]
+    },
+    {
+     "id": "practice03-R18",
+     "number": 18,
+     "format": "Matching Features",
+     "prompt": "has more tourists than residents",
+     "explanation": "Venice has far more tourists than residents.",
+     "evidenceQuote": "the number of tourists is far greater than the number of people who live there",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Venice",
+      "Venice"
+     ]
+    },
+    {
+     "id": "practice03-R19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "Which of these is an example of a push factor?",
+     "explanation": "Stress at work is a push factor.",
+     "evidenceQuote": "such as stress at work, boredom or the desire for adventure",
+     "skillTag": "detail",
+     "options": [
+      "A. good weather",
+      "B. famous food",
+      "C. stress at work",
+      "D. beautiful beaches"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. stress at work",
+      "stress at work"
+     ]
+    },
+    {
+     "id": "practice03-R20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "According to Pearce, inexperienced travellers usually want",
+     "explanation": "They want comfort, safety and relaxation.",
+     "evidenceQuote": "inexperienced travellers often want comfort, safety and relaxation",
+     "skillTag": "detail",
+     "options": [
+      "A. comfort and safety.",
+      "B. to meet local people.",
+      "C. to learn new skills.",
+      "D. adventure and excitement."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. comfort and safety.",
+      "comfort and safety."
+     ]
+    },
+    {
+     "id": "practice03-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What did the survey of young British travellers find?",
+     "explanation": "Many chose destinations partly for online photos.",
+     "evidenceQuote": "chose their holiday destination partly because it would look good in photos online",
+     "skillTag": "detail",
+     "options": [
+      "A. Most of them travelled alone.",
+      "B. Many chose places that would look good online.",
+      "C. They preferred to visit small towns.",
+      "D. They spent less money than older travellers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many chose places that would look good online.",
+      "Many chose places that would look good online."
+     ]
+    },
+    {
+     "id": "practice03-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why have many residents left Venice?",
+     "explanation": "High rents and crowded streets drove them away.",
+     "evidenceQuote": "many local residents have moved away because of high rents and crowded streets",
+     "skillTag": "detail",
+     "options": [
+      "A. There are not enough jobs.",
+      "B. The city is too cold in winter.",
+      "C. They protested against the city government.",
+      "D. Rents are high and the streets are crowded."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Rents are high and the streets are crowded.",
+      "Rents are high and the streets are crowded."
+     ]
+    },
+    {
+     "id": "practice03-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "To reduce crowds, Venice charges an entry fee to day __________ at busy times.",
+     "explanation": "Venice charges day visitors.",
+     "evidenceQuote": "charge an entry fee to day visitors at busy times",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "visitors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "Some places encourage tourists to explore less __________ areas.",
+     "explanation": "Tourists are sent to less famous areas.",
+     "evidenceQuote": "to explore less famous areas",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "famous"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "Amsterdam has stopped __________ itself to some groups.",
+     "explanation": "Amsterdam stopped advertising to some groups.",
+     "evidenceQuote": "Amsterdam has stopped advertising itself",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "advertising"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice03-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "Sustainable tourism means the money from tourism should help local __________.",
+     "explanation": "Money should help local communities.",
+     "evidenceQuote": "helps the communities that receive visitors",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "communities"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 702,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Look at the following ideas and the list of people and places below. Match each idea with the correct person or place, A–E.",
+     "options": [
+      "A. Graham Dann",
+      "B. Philip Pearce",
+      "C. Venice",
+      "D. Barcelona",
+      "E. Bhutan"
+     ]
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice03-rp3",
+   "passageNumber": 3,
+   "title": "Learning to play: the benefits of music lessons",
+   "discipline": "Education",
+   "paragraphs": [
+    "Many parents send their children to music lessons, hoping that learning to play an instrument will help them do better at school. It is often said that music makes children cleverer, and there are many books and websites that claim music lessons improve memory, concentration and even mathematics. But what does the research actually show? The answer is more complicated, and in some ways more interesting, than these popular claims suggest.",
+    "The idea that music can make people more intelligent became very popular in the 1990s after a small study suggested that listening to music by Mozart for ten minutes improved students' performance on a test of spatial skills. Newspapers reported the result as the 'Mozart effect', and some parents began playing classical music to their babies. However, later studies found that the effect was very small and lasted only a few minutes. Listening to any music that people enjoyed seemed to have a similar effect, probably because it made them feel more alert and in a better mood.",
+    "Learning to play an instrument is very different from simply listening. It requires many hours of practice, and it involves reading music, coordinating the hands, listening carefully and remembering long pieces. Because of this, many researchers expected that music lessons would improve other skills too. Some studies have found that children who take music lessons do better at school than children who do not. But this does not necessarily mean that the lessons cause the improvement.",
+    "The problem is that children who take music lessons are often different from other children in important ways. Their families may have more money, since lessons and instruments can be expensive. Their parents may be more interested in education. And the children themselves may be more patient or hardworking, which is why they continue with lessons in the first place. Any of these things could explain why they do better at school, even without the music. Researchers call this a problem of cause and effect. If two things happen together, it does not always mean that one causes the other. For example, children who eat breakfast may get better marks, but this might be because their families are more organised, not because of the breakfast itself. The same problem makes it difficult to know whether music lessons really make a difference.",
+    "To solve this problem, researchers need to carry out experiments in which children are chosen at random to receive music lessons or not. In one well-known study in Canada, six-year-old children were randomly given a year of keyboard lessons, singing lessons, drama lessons or no lessons. At the end of the year, the children who had music lessons showed a small improvement in IQ compared with the others. However, other experiments have found little or no effect, and a large review of many studies in 2017 concluded that music lessons have no clear effect on general intelligence or school results.",
+    "Does this mean music lessons are a waste of time? Not at all. Even if music does not make children cleverer in general, it has many other benefits. Learning an instrument can teach children, even very young ones, to set goals and work towards them, to deal with mistakes and to perform in front of other people. Playing in a band, orchestra or choir helps children to cooperate and make friends. And there is good evidence that music training improves children's ability to hear differences in sounds, which may help them learn languages. Many adults who stopped music lessons as children say they wish they had continued, and research suggests that playing music can be a source of enjoyment and relaxation throughout life, even in old age.",
+    "Perhaps the most important reason to learn music, however, is simply that music itself is truly valuable. For thousands of years, people in every culture in the world have sung, danced and played instruments together. Music can bring great pleasure and help people express their feelings. Many experts argue that we should not have to prove that music improves mathematics before we give children the chance to learn it. Instead, music should be part of every child's education because it is an important part of human life."
+   ],
+   "questions": [
+    {
+     "id": "practice03-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Popular claims about the benefits of music are fully supported by research.",
+     "explanation": "The writer says the truth is more complicated than the claims.",
+     "evidenceQuote": "The answer is more complicated, and in some ways more interesting, than these popular claims suggest.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice03-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "The Mozart effect lasted for several weeks.",
+     "explanation": "It lasted only a few minutes.",
+     "evidenceQuote": "lasted only a few minutes",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice03-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Children who take music lessons may already be different from other children.",
+     "explanation": "They are often different in important ways.",
+     "evidenceQuote": "children who take music lessons are often different from other children in important ways",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice03-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Keyboard lessons are more useful than singing lessons.",
+     "explanation": "The two are not compared.",
+     "evidenceQuote": "keyboard lessons, singing lessons, drama lessons or no lessons",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice03-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "Music lessons are a waste of time.",
+     "explanation": "The writer says they are not.",
+     "evidenceQuote": "Does this mean music lessons are a waste of time? Not at all.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice03-R32",
+     "number": 32,
+     "format": "Multiple Choice",
+     "prompt": "Why did listening to music improve test results for a short time?",
+     "explanation": "It made people more alert and happier.",
+     "evidenceQuote": "probably because it made them feel more alert and in a better mood",
+     "skillTag": "detail",
+     "options": [
+      "A. Mozart's music is especially complex.",
+      "B. It made people feel more awake and happy.",
+      "C. It taught them spatial skills.",
+      "D. They had practised the test before."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It made people feel more awake and happy.",
+      "It made people feel more awake and happy."
+     ]
+    },
+    {
+     "id": "practice03-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph C, playing an instrument involves",
+     "explanation": "It involves several skills at once.",
+     "evidenceQuote": "it involves reading music, coordinating the hands, listening carefully and remembering long pieces",
+     "skillTag": "detail",
+     "options": [
+      "A. very little practice.",
+      "B. listening to recordings.",
+      "C. learning several instruments.",
+      "D. a combination of different skills."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. a combination of different skills.",
+      "a combination of different skills."
+     ]
+    },
+    {
+     "id": "practice03-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "Why do researchers randomly choose children for music lessons?",
+     "explanation": "Random choice removes family and personality differences.",
+     "evidenceQuote": "researchers need to carry out experiments in which children are chosen at random",
+     "skillTag": "inference",
+     "options": [
+      "A. to remove the influence of other differences between children",
+      "B. to save money",
+      "C. because parents refuse to take part",
+      "D. to include more children"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to remove the influence of other differences between children",
+      "to remove the influence of other differences between children"
+     ]
+    },
+    {
+     "id": "practice03-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What did the 2017 review conclude?",
+     "explanation": "There was no clear effect on intelligence or school results.",
+     "evidenceQuote": "music lessons have no clear effect on general intelligence or school results",
+     "skillTag": "detail",
+     "options": [
+      "A. Music lessons greatly improve IQ.",
+      "B. Only singing lessons are useful.",
+      "C. Music lessons have no clear effect on intelligence.",
+      "D. More research is not needed."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Music lessons have no clear effect on intelligence.",
+      "Music lessons have no clear effect on intelligence."
+     ]
+    },
+    {
+     "id": "practice03-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer's main argument in the final paragraph?",
+     "explanation": "Music is valuable in itself.",
+     "evidenceQuote": "music should be part of every child's education because it is an important part of human life",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Music should replace mathematics in schools.",
+      "B. Music is worth learning for its own sake.",
+      "C. Only talented children should learn music.",
+      "D. Music is less important than language."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Music is worth learning for its own sake.",
+      "Music is worth learning for its own sake."
+     ]
+    },
+    {
+     "id": "practice03-R37",
+     "number": 37,
+     "format": "Sentence Completion",
+     "prompt": "Some parents played __________ to their babies because of the Mozart effect.",
+     "explanation": "Parents played classical music.",
+     "evidenceQuote": "some parents began playing classical music to their babies",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "classical music"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice03-R38",
+     "number": 38,
+     "format": "Sentence Completion",
+     "prompt": "Lessons and __________ can be expensive for families.",
+     "explanation": "Lessons and instruments are expensive.",
+     "evidenceQuote": "since lessons and instruments can be expensive",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "instruments"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice03-R39",
+     "number": 39,
+     "format": "Sentence Completion",
+     "prompt": "Playing in a group helps children to cooperate and make __________.",
+     "explanation": "Group playing helps make friends.",
+     "evidenceQuote": "helps children to cooperate and make friends",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "friends"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice03-R40",
+     "number": 40,
+     "format": "Sentence Completion",
+     "prompt": "Music training may help children learn __________.",
+     "explanation": "Hearing sound differences may help with languages.",
+     "evidenceQuote": "which may help them learn languages",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "languages"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice03-w1",
+  "title": "International tourist arrivals in four countries",
+  "visualType": "Bar Chart",
+  "instructions": "The bar chart below shows the number of international tourists who visited four countries in 2000, 2010 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "19BEB56E-6020-56CA-877F-46B9866281D6",
+    "series": "2000",
+    "category": "Morocco",
+    "value": 4.3,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "A7E56D74-FB67-506E-8262-88C259D0B60F",
+    "series": "2010",
+    "category": "Morocco",
+    "value": 9.3,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "791C836D-63FE-54E2-981C-80ED5894EE9E",
+    "series": "2019",
+    "category": "Morocco",
+    "value": 12.9,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "844A495E-4B05-50A5-B9BB-0128EC4A5E9D",
+    "series": "2000",
+    "category": "Thailand",
+    "value": 9.6,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "FAE6E9D4-D58F-5DF0-A926-062B14DF05D2",
+    "series": "2010",
+    "category": "Thailand",
+    "value": 15.9,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "EDD640EA-BB9E-5DD9-93C3-364F53EC9398",
+    "series": "2019",
+    "category": "Thailand",
+    "value": 39.8,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "EBEA179B-4B12-556B-8D5D-FD60CEA4F08E",
+    "series": "2000",
+    "category": "Greece",
+    "value": 13.1,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "188E5F4C-9293-5B55-8341-A11B102A9547",
+    "series": "2010",
+    "category": "Greece",
+    "value": 15.0,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "57957D20-A338-55D7-8B74-FA265CF32C53",
+    "series": "2019",
+    "category": "Greece",
+    "value": 31.3,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "DCC0BAE0-F359-56A2-982E-C71BA68C6291",
+    "series": "2000",
+    "category": "Mexico",
+    "value": 20.6,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "2981520F-42EF-5021-B953-58E1D7C0C3A5",
+    "series": "2010",
+    "category": "Mexico",
+    "value": 23.3,
+    "unit": "millions of visitors"
+   },
+   {
+    "id": "D3D4BB61-D2D7-5C30-8A5F-C5286689C5C1",
+    "series": "2019",
+    "category": "Mexico",
+    "value": 45.0,
+    "unit": "millions of visitors"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Tourist numbers rose in all four countries over the period.",
+   "Thailand saw the most dramatic growth, while Mexico received the most visitors throughout."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice03-w2",
+  "title": "Tourism and local people",
+  "essayType": "Advantages & Disadvantages",
+  "topicDomain": "Travel & Tourism",
+  "promptText": "Tourism is growing rapidly in many parts of the world. Do the advantages of tourism for local people outweigh the disadvantages?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice03-spk",
+  "theme": "Holidays and free time",
+  "part1Questions": [
+   "Where did you go on your last holiday?",
+   "Do you prefer holidays by the sea or in the city?",
+   "Do you like going to museums?",
+   "What do you usually do at the weekend?",
+   "Did you learn to ride a bicycle as a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a festival or special event you enjoyed.",
+   "bulletPoints": [
+    "what the event was",
+    "where and when it took place",
+    "who you went with",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do people like going to festivals?",
+   "What are the advantages of tourism for a town?",
+   "Should museums be free for everyone?",
+   "How have people's holidays changed in your country?",
+   "Do you think people will travel more or less in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Written at a Foundation level (around Band 5.0–6.0) with clearer signposting and more familiar vocabulary.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

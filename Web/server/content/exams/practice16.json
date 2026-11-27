@@ -1,0 +1,2163 @@
+{
+ "id": "practice16",
+ "examNumber": 16,
+ "pool": "practice",
+ "title": "Practice Test 16: Fashion, Textiles & Design",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Fashion, Textiles & Design",
+ "listeningParts": [
+  {
+   "id": "practice16-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on a dressmaking course",
+   "contextDescription": "A man phones a community college to enrol on an evening course in dressmaking.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "62BFB591-95AA-5B4A-8546-135771345D81",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Good afternoon, Brookfield Community College, Siobhan speaking. How can I help you?"
+    },
+    {
+     "id": "581F8D13-9D42-550F-8795-BC0B4E43E495",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hi there. I'm calling about the evening classes in dressmaking. I saw a leaflet about them, and I'd like to find out a bit more before I sign up."
+    },
+    {
+     "id": "269347FF-B42B-5A49-8BF3-F7EFD9584410",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Of course. We actually have two dressmaking courses starting this autumn: Introduction to Dressmaking, which is for complete beginners, and Dressmaking Two, for people who already know the basics. Have you done any sewing before?"
+    },
+    {
+     "id": "8E2E2C33-DDE2-563F-9C6A-7D242774BFDC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Only very simple things, like sewing on buttons. I've never used a sewing machine."
+    },
+    {
+     "id": "BA3C39BB-F328-5D4D-92F8-5AF2E568E574",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Then the introduction course is definitely the right one. It runs on two evenings, but the Thursday group is already full, I'm afraid. There are still a few places on Tuesdays, from seven until half past nine."
+    },
+    {
+     "id": "3B67D6E2-FCC0-5EF4-8906-D3F37DFC3083",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Tuesday would actually suit me better anyway. When does it start?"
+    },
+    {
+     "id": "7D2B248F-C7E4-54BF-8F3E-07C18AEF1177",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "The first class is on the twenty-third of September, and it runs for ten weeks, with a break for one week in the middle of October, when the college is closed."
+    },
+    {
+     "id": "8BE19D8B-C74E-5A4E-900A-38E1EE106BB7",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "A break in October? I hadn't realised the college closed then."
+    },
+    {
+     "id": "28974B57-274B-5F6C-B254-06E556D5CAA3",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Yes, it's the mid-term holiday for the schools that share the site, so the whole campus shuts for a week. The course still has ten full sessions, though; the final class just finishes a week later, at the beginning of December. Each class is two and a half hours long, with a short tea break halfway through."
+    },
+    {
+     "id": "60366D70-E1FE-5D44-8909-B8F2FD35DC6B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's fine. Okay. And what does it cost?"
+    },
+    {
+     "id": "30D1A1A2-9F5A-5CCC-AB8E-F2F18EE0F2BE",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "The standard fee is one hundred and eighty-five pounds. If you're a student, over sixty-five or receiving certain benefits, there's a reduced fee of one hundred and fifty pounds, but you'd need to show proof of that when you enrol."
+    },
+    {
+     "id": "972B5B44-7EB0-5034-A7B4-FC934FD0E28D",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "No, I'll be paying the standard fee. Does that include materials?"
+    },
+    {
+     "id": "E1338914-E634-543F-88E5-FF82104600F4",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "It includes the use of the sewing machines, the patterns and thread, but you'll need to buy your own fabric. In the first few weeks, you'll learn how to use the machine safely, how to take measurements and how to read a pattern. Your first project is a simple apron, and by the end of the course most people have made a skirt or a pair of loose trousers that fits them properly."
+    },
+    {
+     "id": "9A298342-A4E5-5EE5-84B3-FBD001D3F118",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That sounds great. Is there anything I need to bring to the first class?"
+    },
+    {
+     "id": "94B7FB4D-7681-5786-9976-2E1980130FC5",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "The tutor asks everyone to bring a good pair of scissors, the kind that are only used for cutting fabric, because ordinary ones aren't sharp enough and they damage the cloth. And a notebook is useful, too. You don't need fabric for the first week."
+    },
+    {
+     "id": "EB94F860-4AE9-5460-8DCC-C175BD4BD678",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Where's the best place to buy fabric? I'm new to the area."
+    },
+    {
+     "id": "A18D32BD-A522-5350-A595-6CB33828E04D",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Most of our students go to a shop called Thread and Bobbin, on Mill Street, near the bus station. They give a ten per cent discount if you show your college card."
+    },
+    {
+     "id": "A95A52F7-AEC0-578A-AA35-01A9A2BADE18",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Thanks. And where exactly are the classes held?"
+    },
+    {
+     "id": "D3F41E25-A165-56ED-9F8E-921D3A96C8C8",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "In the Harland Building, which is the new building behind the main car park. It's room fourteen, on the ground floor. There's a lift, but you won't need it."
+    },
+    {
+     "id": "7EF26A40-2BED-5A68-8544-7AFF6D90A3B9",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay. Can I enrol over the phone?"
+    },
+    {
+     "id": "F41AC8D1-505F-5DD5-8BD0-4C639810E276",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Yes, I can take your details now, and then you can pay online. Could I have your full name, please?"
+    },
+    {
+     "id": "2856BDC5-3AED-56B4-8F37-129B85233E8A",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's Daniel Whitcombe. That's W-H-I-T-C-O-M-B-E."
+    },
+    {
+     "id": "B485BFE7-C9E7-5B67-BC5D-75DF1CEB6C52",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Thank you. And a contact phone number?"
+    },
+    {
+     "id": "E2D1D7E0-70B0-5FBD-8C6D-BE5CE669E251",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Yes, it's oh seven seven one two, four eight three, five six oh."
+    },
+    {
+     "id": "9E09E059-CFF3-5546-BD7B-371F56D6DD24",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "Lovely. And just for our records, how did you hear about the course? You mentioned a leaflet."
+    },
+    {
+     "id": "D8854165-6D8E-5099-8927-BE2A6ADFBF75",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That's right. Actually, my neighbour gave it to me. She did the course last year and loved it, so she recommended it to me."
+    },
+    {
+     "id": "818CB233-F787-5394-A3F8-3FF54479D5BA",
+     "speaker": "Receptionist",
+     "accent": "en-IE",
+     "text": "That's good to hear. I'll put down a personal recommendation, then. One last thing: if you need to miss a class, please let the tutor know in advance, because she'll sometimes give you some practice to do at home so you don't fall behind."
+    },
+    {
+     "id": "02FA1A58-800B-5AF4-ADC9-1CFAE324D975",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Will do. Thanks very much for your help."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice16-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Class day for the beginners' dressmaking group: __________",
+     "explanation": "Tuesdays still have places.",
+     "evidenceQuote": "There are still a few places on Tuesdays",
+     "skillTag": "dates",
+     "distractorNote": "The Thursday group is full.",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "First class: __________ September",
+     "explanation": "It starts on 23 September.",
+     "evidenceQuote": "The first class is on the twenty-third of September",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "twenty-third",
+      "23rd",
+      "23"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Length of the introductory course: __________ weeks",
+     "explanation": "It lasts ten weeks.",
+     "evidenceQuote": "it runs for ten weeks",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Fee Daniel will pay: £__________",
+     "explanation": "He pays the standard fee.",
+     "evidenceQuote": "The standard fee is one hundred and eighty-five pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£150 is the reduced fee, which he does not qualify for.",
+     "options": [],
+     "acceptedAnswers": [
+      "185"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Students must buy their own __________",
+     "explanation": "Fabric is not included.",
+     "evidenceQuote": "you'll need to buy your own fabric",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "fabric"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "First item students make: an __________",
+     "explanation": "They make an apron first.",
+     "evidenceQuote": "Your first project is a simple apron",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "apron"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Bring to the first class: sharp __________ and a notebook",
+     "explanation": "Scissors are needed.",
+     "evidenceQuote": "bring a good pair of scissors",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "scissors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Fabric shop: Thread and Bobbin, __________ Street",
+     "explanation": "The shop is on Mill Street.",
+     "evidenceQuote": "on Mill Street, near the bus station",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Mill"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Student's surname: __________",
+     "explanation": "He spells Whitcombe.",
+     "evidenceQuote": "It's Daniel Whitcombe. That's W-H-I-T-C-O-M-B-E.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Whitcombe"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Heard about the course from: his __________",
+     "explanation": "His neighbour recommended it.",
+     "evidenceQuote": "my neighbour gave it to me",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "neighbour"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "enrol",
+    "pattern",
+    "hem",
+    "concession",
+    "sewing machine"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice16-lp2",
+   "partNumber": 2,
+   "title": "A sustainable fashion festival",
+   "contextDescription": "An organiser talks on local radio about a week-long festival on repairing and reusing clothes.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "6562A5B3-EC2F-5A24-8F8D-A524488AC677",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And now, joining me in the studio is Kirsty Doyle, who's organising next month's Wear It Again festival. Kirsty, welcome."
+    },
+    {
+     "id": "F1891893-941C-5A0E-9B9D-43FE82E24A54",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "Thanks for having me. Wear It Again is a week of events about making our clothes last longer, through repairing them, swapping them and redesigning them. It's the third year we've held it, and it's grown a lot. In the first year we had about four hundred visitors, and last year we had nearly two thousand."
+    },
+    {
+     "id": "4565BE9D-7A78-5E08-A716-D7A534245A97",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "Why do you think it's become so popular?"
+    },
+    {
+     "id": "62DFA689-3036-5E3E-BC88-88794F841AC9",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "I think people are increasingly uncomfortable about how many clothes are thrown away. But honestly, the main reason people tell us they come is the cost. Prices have gone up so much that learning to repair a favourite jacket, instead of replacing it, makes a real difference to their budget. The environmental side often comes second."
+    },
+    {
+     "id": "A4D75498-39F9-5D26-83C0-C81C6733A18A",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "So what's on the programme this year?"
+    },
+    {
+     "id": "E9915577-281A-5709-ABAA-7EAD59C627F0",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "The week opens on Monday with the Repair Café in the town library. Volunteers with sewing skills will be there all day to help you fix things like broken zips, torn pockets and holes in jumpers. It's not a service where you leave your clothes and pick them up later, though. The idea is that the volunteers show you how to do the repair yourself, so that next time you won't need them."
+    },
+    {
+     "id": "5476A463-D3F9-5969-AA63-496B9C5FD5AB",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "On Tuesday evening, we have a talk at the arts centre by a textile historian, about how people looked after their clothes in the past, when clothing was so expensive that a coat might be passed down through several generations. That's free, but places are limited, so you'll need to reserve a seat on our website."
+    },
+    {
+     "id": "C9B685E6-FB4C-565F-9A41-2C5F80BFE479",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "Wednesday is our clothes swap, which is always the busiest event. It's very simple: you bring up to five items of clothing that are clean and in good condition, and you receive a token for each one, which you can exchange for something someone else has brought. Anything that's left at the end goes to a local charity."
+    },
+    {
+     "id": "6DE2C6A8-E69F-57F6-9085-017868F38F36",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "On Thursday there's an upcycling workshop for teenagers, run by students from the college's fashion department. Upcycling means turning old clothes into something new and better, so for example cutting up old jeans to make a bag. That workshop's for thirteen to eighteen-year-olds only, and there's a small charge of five pounds to cover the materials."
+    },
+    {
+     "id": "5562DE95-FD8D-5B72-8F00-983069D70D8B",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "Then on Friday we're trying something new: a session with a professional tailor, who'll explain what kinds of alterations are worth paying for and which aren't. For example, shortening trousers or taking in a waist is usually straightforward, but changing the shoulders of a jacket is very difficult and often costs more than the jacket itself."
+    },
+    {
+     "id": "B7F2AEF5-9540-5013-8EA5-951AF6E096FB",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "And we finish on Saturday with a fashion show in the town square, where all the outfits are second-hand or made from old clothes. Children are very welcome at that, and there'll be face painting and music as well."
+    },
+    {
+     "id": "3A2CD764-7672-5D5C-937E-E40EBBC8D701",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "It sounds like a full week. Is there anything people should do to prepare?"
+    },
+    {
+     "id": "C946A1C0-65D0-55B5-8D16-F2849506A691",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "For the Repair Café, please bring your own thread if you can, in a colour that matches the item, because we can't possibly have every colour. And for the swap, please wash everything before you bring it. We do check, and we have to turn away a surprising number of things every year."
+    },
+    {
+     "id": "529C1E58-0816-55B2-9D54-61C93762DB03",
+     "speaker": "Presenter",
+     "accent": "en-GB",
+     "text": "And if people want to get involved as volunteers?"
+    },
+    {
+     "id": "E06A787F-5DAA-5ABA-9486-BA6FBAFF4E49",
+     "speaker": "Kirsty",
+     "accent": "en-AU",
+     "text": "We'd love that. We especially need people on Wednesday to help sort the clothes into sizes before the doors open. You don't need any special skills for that, just a bit of patience. There's a form on the website, or you can come to our planning meeting next Thursday at the library."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice16-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "How many people attended the festival last year?",
+     "explanation": "Nearly two thousand came last year.",
+     "evidenceQuote": "last year we had nearly two thousand",
+     "skillTag": "numbers",
+     "options": [
+      "A. about four hundred",
+      "B. about one thousand",
+      "C. almost two thousand"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. almost two thousand",
+      "almost two thousand"
+     ]
+    },
+    {
+     "id": "practice16-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "According to Kirsty, what is the main reason people attend?",
+     "explanation": "Saving money is the main reason.",
+     "evidenceQuote": "the main reason people tell us they come is the cost",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to save money",
+      "B. to protect the environment",
+      "C. to meet other people"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to save money",
+      "to save money"
+     ]
+    },
+    {
+     "id": "practice16-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "What is special about the Repair Café?",
+     "explanation": "Visitors learn to repair items themselves.",
+     "evidenceQuote": "the volunteers show you how to do the repair yourself",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Items are repaired free of charge overnight.",
+      "B. Visitors are taught to do repairs themselves.",
+      "C. Only woollen items can be repaired."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Visitors are taught to do repairs themselves.",
+      "Visitors are taught to do repairs themselves."
+     ]
+    },
+    {
+     "id": "practice16-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What does Kirsty say happens to clothes left after the swap?",
+     "explanation": "They go to charity.",
+     "evidenceQuote": "Anything that's left at the end goes to a local charity.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They are sold to raise money.",
+      "B. They are used in the upcycling workshop.",
+      "C. They are given to a charity."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They are given to a charity.",
+      "They are given to a charity."
+     ]
+    },
+    {
+     "id": "practice16-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Repair Café (Monday)",
+     "explanation": "Visitors should bring thread.",
+     "evidenceQuote": "please bring your own thread if you can",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. participants should bring their own materials",
+      "participants should bring their own materials"
+     ]
+    },
+    {
+     "id": "practice16-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "History talk (Tuesday)",
+     "explanation": "Seats must be reserved.",
+     "evidenceQuote": "you'll need to reserve a seat on our website",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. must be booked in advance",
+      "must be booked in advance"
+     ]
+    },
+    {
+     "id": "practice16-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "Clothes swap (Wednesday)",
+     "explanation": "Items must be clean.",
+     "evidenceQuote": "please wash everything before you bring it",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. items must be washed beforehand",
+      "items must be washed beforehand"
+     ]
+    },
+    {
+     "id": "practice16-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Upcycling workshop (Thursday)",
+     "explanation": "There is a five-pound charge.",
+     "evidenceQuote": "there's a small charge of five pounds to cover the materials",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. participants must pay a fee",
+      "participants must pay a fee"
+     ]
+    },
+    {
+     "id": "practice16-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Tailoring session (Friday)",
+     "explanation": "It gives advice on paying for alterations.",
+     "evidenceQuote": "what kinds of alterations are worth paying for and which aren't",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "H",
+      "H. advice on whether a service is good value",
+      "advice on whether a service is good value"
+     ]
+    },
+    {
+     "id": "practice16-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Fashion show (Saturday)",
+     "explanation": "It suits families with children.",
+     "evidenceQuote": "Children are very welcome at that",
+     "skillTag": "matching",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. suitable for families with young children",
+      "suitable for families with young children"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "swap",
+    "alteration",
+    "upcycling",
+    "workshop",
+    "donation"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 15,
+     "to": 20,
+     "instruction": "Questions 15–20. What information is given about each event? Choose SIX answers from the box and write the correct letter, A–H.",
+     "options": [
+      "A. must be booked in advance",
+      "B. takes place in the college",
+      "C. suitable for families with young children",
+      "D. participants should bring their own materials",
+      "E. participants must pay a fee",
+      "F. volunteers are needed to run it",
+      "G. items must be washed beforehand",
+      "H. advice on whether a service is good value"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice16-lp3",
+   "partNumber": 3,
+   "title": "Designing a sustainable school uniform",
+   "contextDescription": "Two design students, Priya and Tom, discuss their project with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "D4778593-F2A2-5FD1-9615-37C7C28D35EC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So, Priya, Tom, your project is to redesign the uniform for a local secondary school so that it's more sustainable. Where have you got to?"
+    },
+    {
+     "id": "D38E5F3C-07FF-5667-8322-2BBECB7AB964",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "We've finished the research stage. We started by surveying parents at the school, and we had nearly three hundred replies, which was far more than we expected."
+    },
+    {
+     "id": "BCC6B5E2-295A-5C8F-B4A2-2729B05978AF",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Excellent. What did they say?"
+    },
+    {
+     "id": "4BB6830F-59DF-58B4-95F6-8A6DC6ADCD7E",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "The thing that came up again and again was durability. Parents said that the school jumpers, in particular, wear out at the elbows within a few months, and that the trousers lose their colour after being washed a lot. Price was mentioned too, of course, but less often than we'd assumed."
+    },
+    {
+     "id": "1402B650-B6F8-5ECE-8C59-28BD7FBC3EFD",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "And quite a few parents complained that the uniform can only be bought from one shop, which is expensive. That's not really a design issue, but we've mentioned it in our report."
+    },
+    {
+     "id": "39947CE7-C52E-52A3-BAEC-055D58CD49BE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. Now, what about materials? That's the heart of the project."
+    },
+    {
+     "id": "FE7BD34A-F73A-533F-BA0A-7042AAF9822A",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We compared four main fibres. The current uniform is mostly a polyester and cotton blend. Polyester is cheap and very hard-wearing, and it dries quickly, which parents like. But it's made from oil, and every time it's washed, it releases tiny plastic fibres that end up in rivers and the sea."
+    },
+    {
+     "id": "651905A9-0192-54D3-AB35-DB04547308B8",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "The other problem with blends is recycling. Because the two fibres are mixed together in the same thread, it's very difficult to separate them at the end of the garment's life, so most blended clothing can't be recycled into new fabric."
+    },
+    {
+     "id": "5028B134-F290-54B0-8FDF-DBC567DAA9D8",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important point, and one that a lot of people miss. What about cotton on its own?"
+    },
+    {
+     "id": "C21DB9A2-240E-5FC1-A3DD-BAC1C4569A67",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Cotton is comfortable and breathable, but conventional cotton needs a great deal of water and often a lot of pesticides. Organic cotton avoids the pesticides, but it's more expensive, and on its own it's not as hard-wearing as a blend."
+    },
+    {
+     "id": "0C512B9F-3E61-57CB-A35F-AF9344D81BB7",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "We were quite interested in wool for the jumpers. It's naturally resistant to smells, so it doesn't need washing as often, and it lasts a long time if it's looked after. The disadvantage is that it can shrink if it's washed at the wrong temperature, and some children find it itchy."
+    },
+    {
+     "id": "6A6280DD-DA5B-5BAD-9BC3-58DC8BE33D0A",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "And the fourth?"
+    },
+    {
+     "id": "3D913A4B-9205-57D0-B511-7ACCD2194684",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Lyocell, which is made from wood pulp. The chemicals used to dissolve the wood are recovered and reused in what's called a closed-loop process, so it has a much lower impact than most other fibres made from wood. It's soft and strong, but we couldn't find much information on how well it survives years of school use."
+    },
+    {
+     "id": "80E6AE35-F1CF-5016-8A5F-04B80A67A6F5",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So what have you decided?"
+    },
+    {
+     "id": "39EB8416-3D67-5A4A-A250-72823D261051",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "For the shirts, organic cotton. For the trousers and skirts, we're suggesting a fabric made from recycled polyester, because durability matters most there, and at least that reuses plastic that already exists. And for the jumpers, wool, with patches on the elbows built into the design from the start."
+    },
+    {
+     "id": "9F7A42BD-F475-5BE8-886C-E7CACB5ED3EC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "I like the idea of the elbow patches. It turns a weakness into a feature. But I'd question the recycled polyester. It still sheds microfibres, doesn't it?"
+    },
+    {
+     "id": "DA05D401-DE54-575D-AFE1-6C60DD79BFAF",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "It does. We've suggested that the school could give families a special washing bag that catches the fibres, but we know it isn't a perfect solution."
+    },
+    {
+     "id": "5F1168D2-BCE2-5266-A388-E2BAD71F005C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then say that clearly in your evaluation. Examiners respect honesty about limitations. What's the next step?"
+    },
+    {
+     "id": "FCFB5C90-A42A-5939-BCA9-B7B3A5FF7B57",
+     "speaker": "Priya",
+     "accent": "en-US",
+     "text": "We're making prototypes. We'd like to test them by asking a few pupils to wear them for a month, but we're not sure whether that's allowed."
+    },
+    {
+     "id": "F91EC5AE-A533-5968-A015-B181C2D0AE61",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "You'll need permission from the school, and from the parents, as the pupils are under eighteen. Speak to the head teacher first. In the meantime, you could test the fabrics in the lab here; we have a machine that rubs fabric repeatedly to measure how quickly it wears."
+    },
+    {
+     "id": "50ED14DE-F50E-5EB8-91C1-886DE4CCB61C",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "That would be really useful. Thanks."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice16-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What was the most frequent concern raised by parents in the survey?",
+     "explanation": "Durability was mentioned most.",
+     "evidenceQuote": "The thing that came up again and again was durability.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. how long the clothes last",
+      "B. how much the uniform costs",
+      "C. how comfortable the uniform is"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. how long the clothes last",
+      "how long the clothes last"
+     ]
+    },
+    {
+     "id": "practice16-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why is blended fabric difficult to recycle?",
+     "explanation": "The fibres cannot easily be separated.",
+     "evidenceQuote": "it's very difficult to separate them at the end of the garment's life",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It contains chemicals from dyeing.",
+      "B. It wears out too quickly.",
+      "C. The fibres in it cannot easily be separated."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The fibres in it cannot easily be separated.",
+      "The fibres in it cannot easily be separated."
+     ]
+    },
+    {
+     "id": "practice16-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What advantage of wool do the students mention?",
+     "explanation": "Wool needs washing less often.",
+     "evidenceQuote": "It's naturally resistant to smells, so it doesn't need washing as often",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is cheaper than cotton.",
+      "B. It needs to be washed less frequently.",
+      "C. It never shrinks."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. It needs to be washed less frequently.",
+      "It needs to be washed less frequently."
+     ]
+    },
+    {
+     "id": "practice16-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What concern do the students have about lyocell?",
+     "explanation": "Its long-term durability is unknown.",
+     "evidenceQuote": "we couldn't find much information on how well it survives years of school use",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There is little evidence about its long-term durability.",
+      "B. The process used to make it is harmful.",
+      "C. It is uncomfortable to wear."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. There is little evidence about its long-term durability.",
+      "There is little evidence about its long-term durability."
+     ]
+    },
+    {
+     "id": "practice16-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor think about the elbow patches?",
+     "explanation": "He thinks they turn a weakness into a feature.",
+     "evidenceQuote": "It turns a weakness into a feature.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They will make the jumpers too expensive.",
+      "B. They are a clever response to a known problem.",
+      "C. They should be offered as an option only."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They are a clever response to a known problem.",
+      "They are a clever response to a known problem."
+     ]
+    },
+    {
+     "id": "practice16-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "How should Priya and Tom deal with the shedding problem of recycled polyester in their report?",
+     "explanation": "Acknowledge the limitation clearly.",
+     "evidenceQuote": "Then say that clearly in your evaluation.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Choose a different fabric for the trousers.",
+      "B. Carry out more research into washing bags.",
+      "C. Admit the problem openly in their evaluation."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Admit the problem openly in their evaluation.",
+      "Admit the problem openly in their evaluation."
+     ]
+    },
+    {
+     "id": "practice16-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Polyester advantages: cheap, hard-wearing and __________ quickly",
+     "explanation": "Polyester dries quickly.",
+     "evidenceQuote": "it dries quickly, which parents like",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dries"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Conventional cotton uses a lot of water and __________",
+     "explanation": "It uses pesticides.",
+     "evidenceQuote": "often a lot of pesticides",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pesticides"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Lyocell is produced from wood __________",
+     "explanation": "It is made from wood pulp.",
+     "evidenceQuote": "which is made from wood pulp",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pulp"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Before testing prototypes on pupils, contact the head __________",
+     "explanation": "They must speak to the head teacher.",
+     "evidenceQuote": "Speak to the head teacher first.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "teacher"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "fibre",
+    "blend",
+    "durability",
+    "microfibres",
+    "life-cycle"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice16-lp4",
+   "partNumber": 4,
+   "title": "The invention of synthetic fibres",
+   "contextDescription": "A lecture in a design history course on how artificial and synthetic fibres were developed.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E2071EA8-B2A8-50E3-B86F-4222F75C11AB",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning. Last week we looked at the natural fibres that people have used for thousands of years: cotton, linen, wool and silk. Today we're going to look at what happened when chemists began to make fibres in the laboratory, a development that has completely transformed the clothes we wear. Today, in fact, synthetic fibres account for considerably more than half of all the fibre produced in the world."
+    },
+    {
+     "id": "C79D620A-0726-5B5A-92DD-93061C3E3ECA",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The story begins with silk. For centuries, silk was the most desirable fabric in Europe, but it was extremely expensive, and in the nineteenth century European silk production was badly damaged by diseases affecting silkworms. Several inventors therefore tried to create an artificial silk. The first to succeed commercially was a French aristocrat, Count Hilaire de Chardonnet, who made fibres from cellulose, the substance that forms the walls of plant cells. He displayed his fabric at the Paris Exhibition of 1889, where it attracted a great deal of attention. Unfortunately, the chemical process he used made the material dangerously flammable, and it was some time before safer methods were developed."
+    },
+    {
+     "id": "1CFC8D78-E25D-53B6-BE8A-5A18E0564165",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "One of these safer methods was the viscose process, patented in 1892 by three British chemists. In this process, cellulose, usually from wood pulp, is dissolved and then forced through tiny holes to form threads. The fibre it produced became known in the 1920s as rayon, and it was widely used for dresses, linings and underwear. It's important to understand that rayon isn't fully synthetic. It's sometimes called semi-synthetic, because it's made from a natural material that has been chemically processed."
+    },
+    {
+     "id": "A798E1F7-FBCB-5C43-BE1E-E3DDBF06E994",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The first truly synthetic fibre, made entirely from chemicals, came from the American company DuPont. In the late 1920s, DuPont hired a young chemist named Wallace Carothers to carry out basic research into polymers, which are very long chain-like molecules. In 1935, his team produced a polymer that could be drawn out into strong, elastic threads. This was nylon. Interestingly, the first product made from it was not clothing at all, but toothbrush bristles, which went on sale in 1938."
+    },
+    {
+     "id": "BA22003D-39C2-5042-A643-741F2888104E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Nylon's great success, however, came with women's stockings. Until then, stockings had been made of silk, which was expensive and ran easily. When nylon stockings went on sale across the United States in 1940, they sold out almost immediately. But soon after the United States entered the Second World War, nylon production was redirected to military uses, especially parachutes, which had previously been made of silk, as well as ropes and tents. Nylon stockings became so scarce that some women drew a line down the back of their legs to imitate the seam."
+    },
+    {
+     "id": "16D3789E-161B-5F6B-841C-6826724169C7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Meanwhile, in Britain, two chemists working for a textile company in Manchester, John Whinfield and James Dickson, developed polyester in 1941. Polyester became enormously popular after the war, because it's strong, cheap and resistant to creasing, which meant clothes didn't need ironing. Today it's by far the most widely used fibre in the world. A further important development came in 1958, when another DuPont chemist, Joseph Shivers, invented elastane, a fibre that can stretch to several times its own length and then return to its original shape. It's better known by its brand name, Lycra, and it made possible the close-fitting sportswear that we now take for granted."
+    },
+    {
+     "id": "9AFE276F-94AB-55B6-A09F-87C3F43173A5",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "These fibres brought enormous benefits. Clothing became cheaper, easier to care for and more varied than ever before. But they also brought problems that their inventors couldn't have foreseen. Most synthetic fibres are made from oil, and they don't break down naturally, so discarded clothes can remain in landfill for centuries. And researchers have found that synthetic garments shed tiny fibres every time they're washed, which pass through water treatment plants and end up in rivers and oceans. Next week, we'll look at some of the new materials that designers are developing in response."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice16-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "In the 19th century, European silk production suffered from __________ affecting silkworms",
+     "explanation": "Diseases damaged silk production.",
+     "evidenceQuote": "badly damaged by diseases affecting silkworms",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diseases"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Chardonnet made his artificial silk from __________",
+     "explanation": "He used cellulose.",
+     "evidenceQuote": "who made fibres from cellulose",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cellulose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Chardonnet's material was dangerously __________",
+     "explanation": "It caught fire easily.",
+     "evidenceQuote": "made the material dangerously flammable",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "flammable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Viscose: dissolved cellulose is forced through tiny __________",
+     "explanation": "It passes through holes.",
+     "evidenceQuote": "forced through tiny holes to form threads",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "holes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Carothers researched __________, long chain-like molecules",
+     "explanation": "He studied polymers.",
+     "evidenceQuote": "basic research into polymers",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "polymers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "First nylon product: __________ bristles",
+     "explanation": "Toothbrush bristles came first.",
+     "evidenceQuote": "but toothbrush bristles, which went on sale in 1938",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "toothbrush"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "In wartime, nylon was used mainly for __________",
+     "explanation": "Nylon went into parachutes.",
+     "evidenceQuote": "especially parachutes, which had previously been made of silk",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parachutes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Polyester was developed by chemists working in __________",
+     "explanation": "They worked in Manchester.",
+     "evidenceQuote": "working for a textile company in Manchester",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Manchester"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Polyester is popular because it resists __________",
+     "explanation": "It resists creasing.",
+     "evidenceQuote": "strong, cheap and resistant to creasing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "creasing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Elastane is better known by the brand name __________",
+     "explanation": "Its brand name is Lycra.",
+     "evidenceQuote": "It's better known by its brand name, Lycra",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Lycra"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "cellulose",
+    "polymer",
+    "synthetic",
+    "elastane",
+    "microfibre"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice16-rp1",
+   "passageNumber": 1,
+   "title": "The story of indigo",
+   "discipline": "History of Textiles & Chemistry",
+   "paragraphs": [
+    "Of all the colours that people have used to dye cloth, few have such a long and dramatic history as indigo, the deep blue now most familiar from the denim of jeans. The dye has been used on every inhabited continent, and its trade has made fortunes, caused rebellions and helped to launch the modern chemical industry. Remarkably, the blue of a pair of jeans bought today is chemically identical to the blue that was being produced thousands of years ago, although the way it is made has changed completely.",
+    "Indigo can be obtained from a number of different plants, but the most important has been Indigofera tinctoria, a shrub that grows in tropical regions and was cultivated especially in India, from which the dye takes its name. In Europe, a similar blue was obtained from woad, a plant of the cabbage family that grows well in cooler climates, though it contains much less of the colouring substance. The oldest known indigo-dyed fabric, however, comes from neither region: in 2016, researchers reported that fragments of cotton cloth found at Huaca Prieta in Peru had been dyed with indigo around six thousand years ago.",
+    "Indigo is unlike most natural dyes, because the colouring substance cannot simply be extracted by boiling the plant in water. The leaves do not even look blue. Instead, they are soaked and allowed to ferment, a process that releases a colourless compound which reacts with oxygen to form solid indigo. This is then dried into cakes for transport. Because indigo does not dissolve in water, the dyer must convert it back into a soluble form in a vat. Cloth dipped into this liquid comes out yellowish-green, and only turns blue as it is exposed to the air. Darker shades are produced by dipping the cloth many times.",
+    "When Portuguese and Dutch merchants began importing large quantities of Indian indigo into Europe by sea in the sixteenth and seventeenth centuries, the woad growers of France and Germany, whose industry had made some regions extremely wealthy, faced ruin. They campaigned against the foreign dye, claiming that it was harmful and that it damaged cloth, and several governments introduced laws to restrict or even ban its use. In the end, however, indigo was simply too good to resist. It produced stronger colours more cheaply, and by the end of the seventeenth century the woad industry had largely collapsed.",
+    "European powers soon began producing indigo in their colonies. In the 1740s, a young woman named Eliza Lucas, who was managing her family's plantations in South Carolina, experimented with growing indigo, and within a few years it had become one of the colony's most valuable exports. This prosperity, however, depended on the labour of enslaved Africans. In India, British planters in Bengal forced local farmers to grow indigo instead of food crops, often on very unfair terms. In 1859, thousands of farmers refused to continue, in a protest that became known as the Indigo Revolt and that eventually led the authorities to investigate the planters' methods.",
+    "The end of the natural indigo trade came not from protest but from chemistry. In the nineteenth century, chemists in Europe, and especially in Germany, were learning how to manufacture dyes from substances found in coal tar. The German chemist Adolf von Baeyer succeeded in making indigo in the laboratory in 1880, and he worked out its chemical structure a few years later. Developing a process that was cheap enough for industrial use took much longer, but in 1897 the German company BASF began selling synthetic indigo. Within a few decades, natural indigo had almost disappeared from world markets, with disastrous consequences for growers in India.",
+    "Meanwhile, indigo had found a new use. In 1873, a tailor named Jacob Davis and a merchant named Levi Strauss received a patent in the United States for work trousers strengthened with metal rivets, and these were made from tough cotton cloth dyed with indigo. One feature of indigo explains the character of denim. The dye attaches mainly to the surface of the cotton threads rather than penetrating to their centre, so as jeans are worn and washed, the colour gradually rubs away, revealing the white core of the thread. The faded look that once showed long years of hard work later became highly fashionable.",
+    "Today, almost all indigo is synthetic and made from chemicals derived from oil. Producing it, and especially converting it into a soluble form for dyeing, involves chemicals that can pollute rivers if waste water is not properly treated, and some textile regions have suffered serious environmental damage as a result. Researchers are now exploring cleaner methods, including the use of bacteria to produce the dye, while a small number of farmers and craft dyers have returned to growing indigo plants. It seems that the long story of this ancient blue is still far from over."
+   ],
+   "questions": [
+    {
+     "id": "practice16-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Modern denim is coloured with a substance that is chemically the same as ancient indigo.",
+     "explanation": "It is chemically identical.",
+     "evidenceQuote": "is chemically identical to the blue that was being produced thousands of years ago",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice16-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Woad contains more colouring substance than the indigo plant grown in India.",
+     "explanation": "Woad contains much less.",
+     "evidenceQuote": "though it contains much less of the colouring substance",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice16-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The Peruvian cloth found at Huaca Prieta was made from wool.",
+     "explanation": "The cloth was cotton.",
+     "evidenceQuote": "fragments of cotton cloth found at Huaca Prieta in Peru",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice16-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Fresh indigo leaves have a deep blue colour.",
+     "explanation": "The leaves do not look blue.",
+     "evidenceQuote": "The leaves do not even look blue.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice16-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Some European governments passed laws against imported indigo.",
+     "explanation": "Laws restricted or banned it.",
+     "evidenceQuote": "several governments introduced laws to restrict or even ban its use",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice16-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Eliza Lucas later wrote a book about indigo cultivation.",
+     "explanation": "No book is mentioned.",
+     "evidenceQuote": "experimented with growing indigo",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice16-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Baeyer discovered the structure of indigo before he first made it in the laboratory.",
+     "explanation": "The structure came later.",
+     "evidenceQuote": "he worked out its chemical structure a few years later",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice16-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "To obtain indigo, the leaves of the plant are soaked and left to __________.",
+     "explanation": "The leaves ferment.",
+     "evidenceQuote": "they are soaked and allowed to ferment",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ferment"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "For transport, indigo is dried and formed into __________.",
+     "explanation": "It is dried into cakes.",
+     "evidenceQuote": "This is then dried into cakes for transport.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cakes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Cloth taken out of the dye vat only becomes blue when it meets the __________.",
+     "explanation": "Air turns it blue.",
+     "evidenceQuote": "only turns blue as it is exposed to the air",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "air"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Farmers in Bengal were made to grow indigo rather than __________ crops.",
+     "explanation": "They could not grow food crops.",
+     "evidenceQuote": "forced local farmers to grow indigo instead of food crops",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "food"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "Early synthetic dyes were made from substances found in coal __________.",
+     "explanation": "Coal tar was the source.",
+     "evidenceQuote": "substances found in coal tar",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "The trousers patented by Davis and Strauss were strengthened with metal __________.",
+     "explanation": "Rivets strengthened them.",
+     "evidenceQuote": "strengthened with metal rivets",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rivets"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 810,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice16-rp2",
+   "passageNumber": 2,
+   "title": "The true cost of cheap clothes",
+   "discipline": "Environmental Economics & Design",
+   "paragraphs": [
+    "For most of human history, clothes were valuable possessions. Fabric was spun and woven by hand, garments were repaired again and again, and good clothing was often left to relatives in wills. Even in the mid-twentieth century, many families in wealthy countries bought only a few new items each year. Today the situation is very different. It has been estimated that global clothing production roughly doubled in the first fifteen years of this century, while the average number of times a garment is worn before being thrown away fell considerably over the same period.",
+    "This change is largely the result of a business model known as fast fashion. Traditional fashion companies planned their collections many months in advance and released them in two main seasons each year. Fast-fashion retailers, by contrast, design, manufacture and deliver new styles in a matter of weeks, responding quickly to trends seen on catwalks, in celebrity photographs or, increasingly, on social media. Their shops receive new stock constantly, which encourages customers to visit often and to buy before a style disappears. Prices are kept low by producing in very large quantities in countries where wages are low.",
+    "The environmental costs of this model begin with raw materials. Cotton is one of the world's most water-intensive crops: one widely quoted estimate suggests that around 2,700 litres of water are needed to produce the cotton for a single T-shirt. Irrigation for cotton growing contributed to one of the worst environmental disasters of the twentieth century, the shrinking of the Aral Sea in Central Asia. Synthetic fibres, which now make up the majority of the fibre used in clothing, avoid this problem, but they are made from oil, and dyeing and finishing fabric of all kinds uses large amounts of energy and chemicals.",
+    "The problems continue long after clothes are sold. A report published in 2017 by the Ellen MacArthur Foundation calculated that the equivalent of one rubbish truck full of textiles is sent to landfill or burned every second, and that less than one per cent of the material used to make clothing is recycled into new clothing. Much of what is donated to charity in wealthy countries is exported, and some ends up in markets in countries such as Ghana, where traders say that a growing share of the bales they buy is of such poor quality that it cannot be sold and must be thrown away.",
+    "There are human costs as well. The low prices of fast fashion depend on low wages in countries such as Bangladesh, Cambodia and Vietnam, and working conditions in some factories are poor or dangerous. In April 2013, the Rana Plaza building near Dhaka in Bangladesh, which housed several garment factories, collapsed, killing more than eleven hundred people. Workers had been ordered to return to the building the day after cracks had appeared in its walls. The disaster led many international brands to sign an agreement to fund independent safety inspections of the factories that supplied them.",
+    "Faced with growing criticism, the fashion industry has begun to respond. Many companies now offer clothes made from organic cotton or recycled polyester, and some run schemes in which customers can return old clothes to shops. Critics argue, however, that such initiatives are small compared with the volume of new clothing being produced, and that recycling is of limited value while the technology for turning old garments back into fibre of good quality remains in its early stages. Some describe these efforts as 'greenwashing': presenting a business as more environmentally friendly than it really is.",
+    "Governments have also begun to act. In France, a law passed in 2020 made it illegal for companies to destroy unsold clothing and other non-food products, requiring them instead to donate or recycle them. Other proposals include making producers financially responsible for collecting and processing their products at the end of their life, and requiring labels that show the environmental impact of a garment. Such measures aim to change the behaviour of companies, but many experts believe that lasting change will also depend on consumers.",
+    "There are signs that attitudes are shifting. The market for second-hand clothing has grown rapidly, helped by websites and apps that make buying and selling used items easy, and clothing rental services have appeared for special occasions. Repair is also enjoying a revival. Nevertheless, the simplest solution may be the least fashionable one: buying fewer clothes of better quality and wearing them for longer. One study after another suggests that extending the life of a garment is among the most effective ways of reducing its environmental impact."
+   ],
+   "questions": [
+    {
+     "id": "practice16-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B explains how fast fashion works.",
+     "evidenceQuote": "This change is largely the result of a business model known as fast fashion.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Speed as a business strategy",
+      "Speed as a business strategy"
+     ]
+    },
+    {
+     "id": "practice16-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C covers the costs of producing fibres.",
+     "evidenceQuote": "The environmental costs of this model begin with raw materials.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. The price paid by nature for fibres",
+      "The price paid by nature for fibres"
+     ]
+    },
+    {
+     "id": "practice16-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D covers what happens to discarded clothes.",
+     "evidenceQuote": "The problems continue long after clothes are sold.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. The afterlife of unwanted garments",
+      "The afterlife of unwanted garments"
+     ]
+    },
+    {
+     "id": "practice16-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes the people who make clothes.",
+     "evidenceQuote": "There are human costs as well.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. The workers behind the label",
+      "The workers behind the label"
+     ]
+    },
+    {
+     "id": "practice16-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes doubts about industry efforts.",
+     "evidenceQuote": "Some describe these efforts as 'greenwashing'",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Industry responses and their critics",
+      "Industry responses and their critics"
+     ]
+    },
+    {
+     "id": "practice16-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes new laws and proposals.",
+     "evidenceQuote": "Governments have also begun to act.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Legal measures to change the industry",
+      "Legal measures to change the industry"
+     ]
+    },
+    {
+     "id": "practice16-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes changes in consumer behaviour.",
+     "evidenceQuote": "There are signs that attitudes are shifting.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Changing habits among shoppers",
+      "Changing habits among shoppers"
+     ]
+    },
+    {
+     "id": "practice16-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph B, how do fast-fashion shops encourage frequent visits?",
+     "explanation": "Constant new stock encourages visits.",
+     "evidenceQuote": "Their shops receive new stock constantly, which encourages customers to visit often",
+     "skillTag": "detail",
+     "options": [
+      "A. by offering large discounts",
+      "B. by advertising on social media",
+      "C. by constantly introducing new items",
+      "D. by holding two seasonal sales"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. by constantly introducing new items",
+      "by constantly introducing new items"
+     ]
+    },
+    {
+     "id": "practice16-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What do traders in Ghana say about the second-hand clothing they buy?",
+     "explanation": "More of it cannot be sold.",
+     "evidenceQuote": "a growing share of the bales they buy is of such poor quality that it cannot be sold",
+     "skillTag": "detail",
+     "options": [
+      "A. More of it is too poor to sell.",
+      "B. It is mainly made from cotton.",
+      "C. Its price has risen sharply.",
+      "D. It is more fashionable than before."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. More of it is too poor to sell.",
+      "More of it is too poor to sell."
+     ]
+    },
+    {
+     "id": "practice16-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why do critics doubt the value of clothing recycling at present?",
+     "explanation": "The technology is still immature.",
+     "evidenceQuote": "the technology for turning old garments back into fibre of good quality remains in its early stages",
+     "skillTag": "detail",
+     "options": [
+      "A. Customers rarely return their old clothes.",
+      "B. Recycled fabric is more expensive.",
+      "C. Recycling uses too much energy.",
+      "D. The necessary technology is not yet well developed."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. The necessary technology is not yet well developed.",
+      "The necessary technology is not yet well developed."
+     ]
+    },
+    {
+     "id": "practice16-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Irrigation for growing cotton contributed to the shrinking of the __________.",
+     "explanation": "The Aral Sea shrank.",
+     "evidenceQuote": "the shrinking of the Aral Sea in Central Asia",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Aral Sea"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice16-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "After Rana Plaza, brands agreed to pay for independent safety __________.",
+     "explanation": "They funded inspections.",
+     "evidenceQuote": "to fund independent safety inspections",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "inspections"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice16-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "A French law requires companies to donate or recycle __________ products.",
+     "explanation": "Unsold products cannot be destroyed.",
+     "evidenceQuote": "illegal for companies to destroy unsold clothing",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "unsold"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 764,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Changing habits among shoppers",
+      "ii. The afterlife of unwanted garments",
+      "iii. Legal measures to change the industry",
+      "iv. Why designers prefer natural fibres",
+      "v. Speed as a business strategy",
+      "vi. The workers behind the label",
+      "vii. The rise of luxury brands",
+      "viii. The price paid by nature for fibres",
+      "ix. Industry responses and their critics"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice16-rp3",
+   "passageNumber": 3,
+   "title": "Should fashion designs be protected from copying?",
+   "discipline": "Law & Design",
+   "paragraphs": [
+    "Within days of a new collection appearing on the catwalk, cheaper versions of its most striking pieces often appear in high-street shops. To the designers concerned, this can feel like theft. A novelist whose book is copied, or a musician whose song is reproduced without permission, can usually take legal action. Yet in many countries, a designer whose dress is copied has surprisingly little protection. Whether that situation is unfair, or whether it is actually good for fashion, is a question that has divided lawyers, economists and designers themselves.",
+    "The legal position varies considerably from one country to another. In the United States, copyright law has traditionally treated clothing as a 'useful article', meaning that its practical function prevents it from being protected in the way that a painting or a sculpture would be. Brand names and logos can be registered as trademarks, and a small number of genuinely new technical features can be patented, but the overall shape and cut of a garment are generally free for anyone to copy. Several bills that would have created special protection for fashion designs were introduced in the US Congress from 2006 onwards, but none of them became law.",
+    "There has been one notable change. In 2017, in a case about cheerleading uniforms, the US Supreme Court ruled that decorative elements of a garment, in that case a pattern of stripes and chevrons, could be protected by copyright if they could be imagined as a work of art separately from the garment itself. The decision was welcomed by many designers, but legal experts disagree about how far it extends, and it does not protect the basic design of clothes.",
+    "Europe takes a different approach. Under European Union law, a design that is new and has individual character is automatically protected against copying for three years from the date it is first made public, without any need for registration. Designers who want longer protection can register their designs, which may then be protected for up to twenty-five years. Some European countries go further: France, for instance, has long allowed clothing designs to be protected in a similar way to works of art. Despite this, copying remains widespread in Europe too, partly because legal action is slow and expensive.",
+    "Perhaps surprisingly, some researchers argue that weak protection benefits the fashion industry. In an influential article published in 2006, the American law professors Kal Raustiala and Christopher Sprigman described what they called the 'piracy paradox'. They pointed out that the American fashion industry is highly creative and commercially successful despite, or perhaps because of, the freedom to copy. In their view, copying spreads new styles quickly, so that they soon become too common to be exclusive. Fashionable consumers then look for something new, and designers must keep innovating. Copying, in other words, speeds up the cycle of fashion.",
+    "Not everyone accepts this argument. Critics point out that it may describe the position of large, established fashion houses well, since they have famous brand names that protect their sales even when their designs are copied. Independent designers are in a much weaker position. A young designer who produces an original garment may see a copy on sale at a fraction of the price before she has had a chance to sell her own, and she is unlikely to have the money to fight a legal battle against a large retailer. For such designers, copying can mean the difference between building a business and abandoning it.",
+    "In my view, the critics have the stronger case, although the piracy paradox contains an important truth. Fashion has always depended on borrowing and imitation, and a law that allowed designers to claim ownership of every new sleeve or neckline would be both unworkable and harmful to creativity. But there is a significant difference between being inspired by a trend and producing an almost exact copy of a particular garment within weeks. The current system in countries such as the United States effectively rewards the companies that are best at copying, rather than those that are best at designing.",
+    "The European model, which offers short but automatic protection, seems to me a reasonable compromise. Three years is long enough for a designer to benefit from an original idea, but short enough not to prevent the natural spread of styles. What is needed, I believe, is not stronger laws so much as cheaper and quicker ways of enforcing them, so that the protection that exists on paper is available to small designers as well as large ones. Without that, the debate about copying will continue to be decided by those who can afford the best lawyers."
+   ],
+   "questions": [
+    {
+     "id": "practice16-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "argued that copying makes fashions change more quickly",
+     "explanation": "Raustiala and Sprigman argued this.",
+     "evidenceQuote": "Copying, in other words, speeds up the cycle of fashion.",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Raustiala and Sprigman",
+      "Raustiala and Sprigman"
+     ]
+    },
+    {
+     "id": "practice16-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "decided that patterns on a garment could sometimes be protected",
+     "explanation": "The Supreme Court ruled on decorative elements.",
+     "evidenceQuote": "the US Supreme Court ruled that decorative elements of a garment",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the US Supreme Court",
+      "the US Supreme Court"
+     ]
+    },
+    {
+     "id": "practice16-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "considered proposals for fashion protection that were never adopted",
+     "explanation": "Congress did not pass the bills.",
+     "evidenceQuote": "were introduced in the US Congress from 2006 onwards, but none of them became law",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the US Congress",
+      "the US Congress"
+     ]
+    },
+    {
+     "id": "practice16-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "protects new designs for a limited period without registration",
+     "explanation": "EU law gives three years automatically.",
+     "evidenceQuote": "automatically protected against copying for three years from the date it is first made public",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the European Union",
+      "the European Union"
+     ]
+    },
+    {
+     "id": "practice16-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "may lack the money to take legal action against copying",
+     "explanation": "Independent designers often cannot afford to sue.",
+     "evidenceQuote": "she is unlikely to have the money to fight a legal battle against a large retailer",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. independent designers",
+      "independent designers"
+     ]
+    },
+    {
+     "id": "practice16-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The piracy paradox is completely mistaken.",
+     "explanation": "The writer sees some truth in it.",
+     "evidenceQuote": "although the piracy paradox contains an important truth",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice16-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Designers should be able to own every new detail they create, such as a sleeve.",
+     "explanation": "The writer rejects this.",
+     "evidenceQuote": "would be both unworkable and harmful to creativity",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice16-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "The American system tends to favour skilled copiers over skilled designers.",
+     "explanation": "The writer says copying is rewarded.",
+     "evidenceQuote": "effectively rewards the companies that are best at copying, rather than those that are best at designing",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice16-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Fashion students should be taught more about intellectual property law.",
+     "explanation": "Education is not discussed.",
+     "evidenceQuote": "What is needed, I believe, is not stronger laws so much as cheaper and quicker ways of enforcing them",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice16-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Making existing protection easier to enforce matters more than strengthening the law.",
+     "explanation": "Enforcement matters more.",
+     "evidenceQuote": "not stronger laws so much as cheaper and quicker ways of enforcing them",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice16-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In the US, clothing has been treated as a useful __________, which limits copyright protection.",
+     "explanation": "Clothing is a useful article.",
+     "evidenceQuote": "treated clothing as a 'useful article'",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "article"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Logos and brand names can be protected as __________.",
+     "explanation": "They are trademarks.",
+     "evidenceQuote": "Brand names and logos can be registered as trademarks",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trademarks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "The 2017 court case concerned uniforms worn for __________.",
+     "explanation": "It concerned cheerleading uniforms.",
+     "evidenceQuote": "in a case about cheerleading uniforms",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cheerleading"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice16-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Registered designs in the EU may be protected for up to twenty-five __________.",
+     "explanation": "Protection lasts up to 25 years.",
+     "evidenceQuote": "may then be protected for up to twenty-five years",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "years"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 774,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people and organisations below. Match each statement with the correct person or organisation, A–F.",
+     "options": [
+      "A. Raustiala and Sprigman",
+      "B. the US Supreme Court",
+      "C. the US Congress",
+      "D. the European Union",
+      "E. independent designers",
+      "F. large fashion houses"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice16-w1",
+  "title": "Making fabric from plastic bottles",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how used plastic bottles are recycled to make polyester fabric for clothing. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Used plastic bottles are collected from recycling bins",
+   "Bottles are sorted by colour and labels and caps are removed",
+   "Bottles are washed and shredded into small flakes",
+   "Flakes are melted and formed into small pellets",
+   "Pellets are melted again and pushed through tiny holes to form fibres",
+   "Fibres are stretched, cooled and spun into yarn",
+   "Yarn is woven or knitted into polyester fabric",
+   "Fabric is dyed and cut to make clothing"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, beginning with the collection of used bottles and ending with finished clothing.",
+   "The plastic is melted twice, first to make pellets and then to produce fibres that are spun into yarn."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice16-w2",
+  "title": "Throwaway clothing",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Consumer Society & Environment",
+  "promptText": "Many people now buy inexpensive clothes and throw them away after wearing them only a few times. What problems does this cause, and what measures could be taken to solve them?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice16-spk",
+  "theme": "Clothes and fashion",
+  "part1Questions": [
+   "What kind of clothes do you usually wear at weekends?",
+   "Do you enjoy shopping for clothes?",
+   "Have you ever worn a uniform for school or work?",
+   "Do you prefer comfortable clothes or fashionable ones?",
+   "Has your taste in clothes changed since you were a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a piece of clothing that is special to you.",
+   "bulletPoints": [
+    "what it looks like",
+    "where you got it",
+    "how often you wear it",
+    "and explain why it is special to you"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people spend a lot of money on designer brands?",
+   "How does traditional dress in your country differ from everyday clothing today?",
+   "Should schools require students to wear uniforms?",
+   "Do you think social media has made people buy more clothes?",
+   "Who should be responsible for reducing waste in the fashion industry, companies or consumers?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are rounded and checked against standard reference sources; Writing Task 1 is a generalised process.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

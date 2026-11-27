@@ -1,0 +1,1994 @@
+{
+ "id": "exam52",
+ "examNumber": 52,
+ "pool": "mock",
+ "title": "Mock Exam 52: The Architecture of Soil",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "The Architecture of Soil",
+ "listeningParts": [
+  {
+   "id": "exam52-lp1",
+   "partNumber": 1,
+   "title": "Joining a practical soil workshop",
+   "contextDescription": "A caller books a place on a community gardening workshop.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "3599BC1C-AD3B-55CF-AC6C-1982BC9F7188",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Good morning, Garden Gate Learning, this is Ruth. Are you calling about the weekend workshop programme? We have practical sessions for beginners as well as longer courses, so I can help you choose something appropriate before you complete a booking."
+    },
+    {
+     "id": "E959E450-9F60-56D3-BA4A-7F0390CE7D01",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, please. I've recently started looking after a small garden, and I'd like to understand the soil rather than just buy bags of different products. I saw a workshop called Soil Basics. Is it suitable for someone who doesn't know any scientific terms?"
+    },
+    {
+     "id": "E227DD03-1332-52B5-BDD2-28C9A91A2747",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Absolutely. The tutor begins with things you can see and feel, then explains the terms. You won't need to identify minerals or use a microscope. The aim is to help you ask sensible questions about your garden, not provide a complete laboratory analysis of it."
+    },
+    {
+     "id": "3113FC96-1BDA-588F-9D1D-CAEA39278528",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds useful. My niece is interested in coming too. She's thirteen. Would she be allowed to attend with me, or is it an adults-only group? She has helped me plant vegetables, but she hasn't done anything like a formal gardening course."
+    },
+    {
+     "id": "E365D3A6-82D3-5B53-9A42-3F49118E7102",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "The minimum age is twelve if an adult attends with the young person, so she would be welcome. We don't offer separate supervision for children. Both of you would need a place, because the room and practical stations have limited capacity."
+    },
+    {
+     "id": "63B92C7E-1C1C-5603-B599-CCDA3C9EEC72",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Fine. I had written down Saturday the sixth, but the latest email seems to mention Sunday. Have I looked at two different workshops, or has the date changed? We can manage either day as long as we know in advance."
+    },
+    {
+     "id": "A6CE9D24-7CBA-5F93-AF73-2ADE25D8BF44",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "The workshop has moved to Sunday the seventh. The tutor is unavailable on Saturday. Your place wouldn't be confirmed for the old date. We start at ten, but please arrive at a quarter to ten so we can check names and explain where to leave your belongings."
+    },
+    {
+     "id": "A65F1A4A-2F72-5823-8203-DD9459639AB5",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Sunday the seventh, arriving at nine forty-five. Where exactly is it? The address on the leaflet is quite a large site. I know the café at the entrance, but I haven't visited the buildings further back and don't want to turn up at the wrong door."
+    },
+    {
+     "id": "6C4F603A-C9C8-54F8-A66C-269F95B47418",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "The group meets in the greenhouse classroom. Follow the signs from the café, past the tool store, and you'll see the greenhouse on your left. Don't go to the barn, which is being used by another class. The classroom is covered, but part of the morning will be outdoors."
+    },
+    {
+     "id": "97CAB6C2-1E9E-5CFF-9ABB-C7ABB58F79C1",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Then I imagine we need suitable shoes. Would walking boots be best? And should we bring samples of our own soil? I've heard people say they need several different samples, which sounds a bit complicated for a first session."
+    },
+    {
+     "id": "EC29D6C7-19DE-56B4-938F-6BCD3C0B89C6",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Boots are ideal. Please don't bring soil from home this time. The tutor has prepared teaching samples so everyone can compare the same materials. We provide gloves, trays and hand lenses. Bring a notebook if you'd like to keep your own observations; the printed handout covers the main ideas but won't include everything you notice."
+    },
+    {
+     "id": "434C9E79-0E3C-577D-96A4-9C518A623425",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "What does it cost for two people? The leaflet mentions thirty pounds, but there's also a reduced rate on the booking page. I couldn't tell whether that was for members or for young people."
+    },
+    {
+     "id": "F9ECB565-79E8-5800-9454-9B6A905A56EE",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "The normal price was thirty pounds, but this month's community rate is twenty-seven pounds per person for everyone. So your total would be fifty-four pounds. That includes a simple lunch of soup and bread. Tell us any dietary requirements on the form rather than leaving it until the day."
+    },
+    {
+     "id": "D7488FA9-E6D9-55B2-B94F-4BC9CA541A5E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Could you put the booking under my surname, Ellery? That's E-L-L-E-R-Y. I'll fill in the form and pay later today. Do I need to print the confirmation, or can I just show it on my phone when we arrive?"
+    },
+    {
+     "id": "D978EDD9-AA86-559E-8171-D49CC67FDD47",
+     "speaker": "Organiser",
+     "accent": "en-GB",
+     "text": "Either is fine. Keep the confirmation until after the workshop, because it also contains the link to the follow-up reading. If bad weather prevents the outdoor demonstration, the tutor will use prepared indoor examples instead. We'll contact you if the whole event has to be cancelled, but a little rain won't automatically stop it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam52-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Minimum age when accompanied by an adult: __________.",
+     "explanation": "A thirteen-year-old can attend with an adult.",
+     "evidenceQuote": "The minimum age is twelve",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "twelve",
+      "12"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Revised date: Sunday the __________.",
+     "explanation": "The date has moved from Saturday the sixth.",
+     "evidenceQuote": "Sunday the seventh",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "seventh",
+      "7",
+      "7th"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Arrival time: __________ a.m.",
+     "explanation": "The workshop starts at ten, but arrival is earlier.",
+     "evidenceQuote": "arrive at a quarter to ten",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "9.45",
+      "9:45"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Meeting location: the __________ classroom.",
+     "explanation": "The barn hosts a different class.",
+     "evidenceQuote": "the greenhouse classroom",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "greenhouse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Recommended footwear: __________.",
+     "explanation": "The session includes outdoor practical work.",
+     "evidenceQuote": "Boots are ideal.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Boots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Optional item for personal observations: a __________.",
+     "explanation": "The handout will not include each participant’s observations.",
+     "evidenceQuote": "Bring a notebook",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "notebook"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Community price per person: £__________.",
+     "explanation": "The previous normal price was £30.",
+     "evidenceQuote": "twenty-seven pounds per person",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "27",
+      "twenty-seven"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Lunch consists of bread and __________.",
+     "explanation": "Soup and bread are included.",
+     "evidenceQuote": "soup and bread",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "soup"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname for booking: __________.",
+     "explanation": "Ellery is stated and spelled.",
+     "evidenceQuote": "Ellery? That's E-L-L-E-R-Y.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Ellery"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "The confirmation contains a link to follow-up __________.",
+     "explanation": "The confirmation is useful after the workshop too.",
+     "evidenceQuote": "the link to the follow-up reading",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reading"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam52-lp2",
+   "partNumber": 2,
+   "title": "An introduction to the soil discovery garden",
+   "contextDescription": "A guide explains four learning stations at a garden open day.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "54F93648-508D-561F-96FC-BC038A65B003",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Welcome to the soil discovery garden. Today's stations are intended to make an often overlooked part of a garden visible. You don't need to complete them in a particular order, and none is a test. We encourage you to compare what you notice with another visitor, because two people can look at the same sample and initially pay attention to quite different features."
+    },
+    {
+     "id": "AB81241D-B24D-566A-96A7-2C268A15B4FF",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The first station is called Between the Grains. There are enlarged models of sand, silt and clay particles, followed by real samples in covered trays. The models are not all drawn to one scale, and the label explains why. Their purpose is to make differences visible, not suggest that every grain has the shape of the model beside it. Please use the hand lenses provided rather than opening the display containers. A volunteer can help if the labels are difficult to read."
+    },
+    {
+     "id": "6721B0DB-CA44-5CFD-B5D5-123437D2B382",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "At the second station, named More Than a Heap, you can examine pieces of structured soil. Notice how particles form groups, with spaces within and between them. Some visitors expect healthy soil to look like a perfectly smooth powder, but that is not the message of this display. We want you to look at the arrangement as well as the ingredients. The photographs show examples at different magnifications, so read the captions before comparing their apparent sizes."
+    },
+    {
+     "id": "BC1FA2E2-4D36-5AE0-A1F5-99C1B8453A1E",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The third station is the Water Path. A volunteer will demonstrate water entering two prepared containers. This is a teaching comparison, not proof that every soil of one colour behaves better than every soil of another. The containers differ in their preparation, and the information card states what was changed. Please don't pour extra water into either one. The volunteer needs to keep the amount consistent during the demonstration, and additional water would make it harder for the next group to see the intended comparison."
+    },
+    {
+     "id": "0905457F-64B4-5BE3-955C-AFF4912CF2EF",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The fourth station is Under Our Feet. Here a clear-sided box lets you see a root system and some of the spaces associated with it. The plants were grown for the display, so their arrangement should not be taken as a complete picture of roots in an open field. The exhibit introduces the idea that soil is an inhabited environment. There are no live animals for visitors to handle, and we ask you not to bring organisms from the garden into the box."
+    },
+    {
+     "id": "AC6F2FFA-9E77-58F7-BAA5-F844199C1DC7",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Short talks begin beside the potting shed at eleven and two. We originally advertised a talk at one, but the speaker's travel arrangements changed. The content will be the same at both times, so you only need to attend one. Seats are available, although the talks will also be audible from the path. Please leave the central route clear for people moving between stations rather than gathering directly across it."
+    },
+    {
+     "id": "F5C93027-D0D1-52F0-A0E3-DA1CB172C38A",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Families are welcome to use the drawing table. Paper is supplied, but return the coloured pencils to their tray afterwards. The café can refill drinking-water bottles. Toilets are behind the office, not inside the greenhouse as the old site plan shows. If you have borrowed a large-print guide, please return it at reception before leaving. The ordinary leaflet is yours to keep, including the list of reliable places to read more about soil."
+    },
+    {
+     "id": "DEE22D73-73DE-593C-935E-C2EC5C3D8E9B",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, the advice desk is for general questions about the displays. We cannot diagnose the condition of a whole garden from a photograph or recommend a product without understanding the site. If you need detailed advice, the staff can explain what kind of information a specialist might ask for. We would rather be clear about those limits than give a quick answer that sounds useful but does not fit your circumstances. Enjoy exploring, and tell us if a demonstration raises a question that the labels don't address."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam52-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Between the Grains",
+     "explanation": "The station concerns primary mineral particles.",
+     "evidenceQuote": "models of sand, silt and clay particles",
+     "skillTag": "matching",
+     "options": [
+      "A. Comparing entry of water in prepared samples",
+      "B. Identifying all organisms in a field",
+      "C. Examining different mineral particle sizes",
+      "D. Choosing the most expensive soil treatment",
+      "E. Considering soil as a living environment",
+      "F. Looking at how particles are arranged"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Examining different mineral particle sizes",
+      "Examining different mineral particle sizes"
+     ]
+    },
+    {
+     "id": "exam52-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "More Than a Heap",
+     "explanation": "The station introduces soil structure.",
+     "evidenceQuote": "look at the arrangement as well as the ingredients",
+     "skillTag": "matching",
+     "options": [
+      "A. Comparing entry of water in prepared samples",
+      "B. Identifying all organisms in a field",
+      "C. Examining different mineral particle sizes",
+      "D. Choosing the most expensive soil treatment",
+      "E. Considering soil as a living environment",
+      "F. Looking at how particles are arranged"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Looking at how particles are arranged",
+      "Looking at how particles are arranged"
+     ]
+    },
+    {
+     "id": "exam52-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Water Path",
+     "explanation": "The demonstration compares water entry under stated conditions.",
+     "evidenceQuote": "water entering two prepared containers",
+     "skillTag": "matching",
+     "options": [
+      "A. Comparing entry of water in prepared samples",
+      "B. Identifying all organisms in a field",
+      "C. Examining different mineral particle sizes",
+      "D. Choosing the most expensive soil treatment",
+      "E. Considering soil as a living environment",
+      "F. Looking at how particles are arranged"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Comparing entry of water in prepared samples",
+      "Comparing entry of water in prepared samples"
+     ]
+    },
+    {
+     "id": "exam52-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Under Our Feet",
+     "explanation": "The display relates roots and spaces to soil as a habitat.",
+     "evidenceQuote": "soil is an inhabited environment",
+     "skillTag": "matching",
+     "options": [
+      "A. Comparing entry of water in prepared samples",
+      "B. Identifying all organisms in a field",
+      "C. Examining different mineral particle sizes",
+      "D. Choosing the most expensive soil treatment",
+      "E. Considering soil as a living environment",
+      "F. Looking at how particles are arranged"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Considering soil as a living environment",
+      "Considering soil as a living environment"
+     ]
+    },
+    {
+     "id": "exam52-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why should visitors read captions before comparing photographs?",
+     "explanation": "Photographic size is affected by magnification.",
+     "evidenceQuote": "different magnifications",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The photographs show the same scene in different seasons.",
+      "B. The images use different magnifications.",
+      "C. The captions contain a competition answer."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The images use different magnifications.",
+      "The images use different magnifications."
+     ]
+    },
+    {
+     "id": "exam52-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why must visitors avoid adding water at the Water Path station?",
+     "explanation": "Additional water would change the demonstration conditions.",
+     "evidenceQuote": "keep the amount consistent",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The comparison depends on a consistent amount.",
+      "B. Water is not allowed anywhere in the garden.",
+      "C. The samples are being sold after the event."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The comparison depends on a consistent amount.",
+      "The comparison depends on a consistent amount."
+     ]
+    },
+    {
+     "id": "exam52-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "What does the guide say about detailed garden diagnosis?",
+     "explanation": "A photograph alone does not justify site-specific diagnosis.",
+     "evidenceQuote": "cannot diagnose the condition of a whole garden from a photograph",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is guaranteed with every entry ticket.",
+      "B. It requires choosing a product at the shop first.",
+      "C. It needs more information than a photograph alone."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It needs more information than a photograph alone.",
+      "It needs more information than a photograph alone."
+     ]
+    },
+    {
+     "id": "exam52-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Short talks take place beside the potting __________.",
+     "explanation": "The shed is the talk location.",
+     "evidenceQuote": "beside the potting shed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shed"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Toilets are behind the __________.",
+     "explanation": "The old greenhouse location is incorrect.",
+     "evidenceQuote": "Toilets are behind the office",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "office"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Return the large-print __________ before leaving.",
+     "explanation": "Ordinary leaflets can be kept.",
+     "evidenceQuote": "borrowed a large-print guide",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "guide"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 14,
+     "instruction": "Questions 11–14. Match each station with its main focus. Choose A–F.",
+     "options": [
+      "A. Comparing entry of water in prepared samples",
+      "B. Identifying all organisms in a field",
+      "C. Examining different mineral particle sizes",
+      "D. Choosing the most expensive soil treatment",
+      "E. Considering soil as a living environment",
+      "F. Looking at how particles are arranged"
+     ]
+    },
+    {
+     "from": 15,
+     "to": 17,
+     "instruction": "Questions 15–17. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 18,
+     "to": 20,
+     "instruction": "Questions 18–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam52-lp3",
+   "partNumber": 3,
+   "title": "Explaining the difference between soil texture and structure",
+   "contextDescription": "Two students prepare an academic presentation about soil properties.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "0F0B1E93-8527-5742-8882-998EF17148DB",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "I've drafted the opening slide, but I think I've mixed up texture and structure. I wrote that adding organic material changes a clay soil into a sandy soil. That doesn't sound right now that I say it aloud. We need to explain what can change without suggesting that the mineral particles simply turn into another size."
+    },
+    {
+     "id": "47837307-7750-5631-8CB7-CCF91FA1F8E7",
+     "speaker": "Ben",
+     "accent": "en-US",
+     "text": "Yes. Texture concerns the proportions of sand, silt and clay, while structure concerns how particles are arranged into aggregates. Organic material and biological activity can influence the arrangement. That doesn't mean they convert clay particles into sand. We should make that distinction before showing the garden photographs, or the pictures could reinforce the wrong idea."
+    },
+    {
+     "id": "18164F6A-D0DD-55DB-9486-50A912AD1B89",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "For an illustration, could we use two trays containing the same basic material but arranged differently? One could have intact aggregates, and the other could be prepared to show a more compacted arrangement. We'd have to label exactly what we did, so it doesn't look like a natural comparison between two whole fields."
+    },
+    {
+     "id": "71FA83BF-EDBF-5B12-9B3D-363A2EAA0CE0",
+     "speaker": "Ben",
+     "accent": "en-US",
+     "text": "That could work, but let's ask the tutor about the preparation. We shouldn't create an exaggerated contrast just because it looks dramatic. The audience needs to understand that pore space matters, including whether the spaces connect. A container with visible holes isn't automatically a complete model of how water moves through soil."
+    },
+    {
+     "id": "450529F0-C8FB-57F9-A665-1A4CD658BAB9",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "I'd like to include roots too. People often imagine roots pushing through an entirely solid block, whereas existing channels and the arrangement of particles influence the routes available. We can use the cross-section in the course pack rather than dig up a plant at the last minute. It already has a scale and an explanation of what is shown."
+    },
+    {
+     "id": "550EA075-9233-51F5-9E5D-F1BA773540D0",
+     "speaker": "Ben",
+     "accent": "en-US",
+     "text": "Good. We also need to be careful with the word air. If we say soil has air spaces, someone may assume those spaces are always empty of water. Their contents can change. Perhaps we should show a simple diagram in which some pores contain water and others air, then explain that the picture represents one set of conditions rather than a permanent division."
+    },
+    {
+     "id": "8822A09C-B4CF-5064-BB15-37D61BA94E2C",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "What should we say about compaction? It would be easy to describe it as making soil heavier, but that's vague. The important point for our slide is that pressure can reduce pore space and affect movement through the material. We don't need to provide a universal number for how much damage a particular machine will cause."
+    },
+    {
+     "id": "33068B58-EB6A-54A7-AA7E-64019ECB861F",
+     "speaker": "Ben",
+     "accent": "en-US",
+     "text": "Exactly. The effect depends on conditions, including moisture and the pressure applied. Let's avoid a recipe telling everyone to use the same treatment. The assignment is to explain the physical ideas, not prescribe a management plan for any site. We can end with questions a gardener or farmer would need to investigate."
+    },
+    {
+     "id": "2F37EC0F-7A40-5D34-9D53-7E2E5ECE48E2",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "For the water demonstration, I was going to time only how quickly the surface becomes dry. But that might confuse infiltration with evaporation. We should describe what we're actually observing: water entering the sample, not water disappearing by every possible route. The tutor's diagram will help us keep those processes separate."
+    },
+    {
+     "id": "1D490EEF-A063-5BDA-8C33-1F8A45A4AA9B",
+     "speaker": "Ben",
+     "accent": "en-US",
+     "text": "And we should show the limitations of the trays. The base and sides affect where water can go, while a field has a much larger connected profile. A clear demonstration can introduce a concept without pretending to reproduce every feature of the landscape. We can say that explicitly in the caption."
+    },
+    {
+     "id": "FB0FBDEB-9AA7-5730-80CE-D2502C62A858",
+     "speaker": "Sana",
+     "accent": "en-GB",
+     "text": "Let's use the final two minutes for a question comparing texture and structure, rather than add another set of slides. If the audience can explain why rearranging particles is different from changing their size distribution, we'll know the central message has come across. We can ask for their reasoning, not just a choice between two labels."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam52-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What error does Sana identify in her opening slide?",
+     "explanation": "She has confused structural change with a change in mineral texture.",
+     "evidenceQuote": "changes a clay soil into a sandy soil",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It suggests clay particles become sand through adding organic material.",
+      "B. It claims soil contains no mineral particles.",
+      "C. It gives the wrong name for a laboratory."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It suggests clay particles become sand through adding organic material.",
+      "It suggests clay particles become sand through adding organic material."
+     ]
+    },
+    {
+     "id": "exam52-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why will the students label the preparation of their trays?",
+     "explanation": "The teaching manipulation should not be mistaken for a field comparison.",
+     "evidenceQuote": "so it doesn't look like a natural comparison between two whole fields",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To advertise the containers for sale.",
+      "B. To hide differences in the preparation.",
+      "C. To show that they are constructed demonstrations."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. To show that they are constructed demonstrations.",
+      "To show that they are constructed demonstrations."
+     ]
+    },
+    {
+     "id": "exam52-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why will they use the course cross-section rather than dig up a plant?",
+     "explanation": "The prepared figure has essential interpretive information.",
+     "evidenceQuote": "It already has a scale and an explanation",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Roots cannot grow in their local area.",
+      "B. The figure includes a scale and explanatory context.",
+      "C. The tutor has banned all photographs."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The figure includes a scale and explanatory context.",
+      "The figure includes a scale and explanatory context."
+     ]
+    },
+    {
+     "id": "exam52-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What do they say about air in soil pores?",
+     "explanation": "A pore may contain different proportions of air and water under different conditions.",
+     "evidenceQuote": "Their contents can change.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The contents can vary with conditions.",
+      "B. Air and water must always occupy separate permanent compartments.",
+      "C. Every visible opening is permanently dry."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The contents can vary with conditions.",
+      "The contents can vary with conditions."
+     ]
+    },
+    {
+     "id": "exam52-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What will the final audience question check?",
+     "explanation": "The central distinction is texture versus structure.",
+     "evidenceQuote": "rearranging particles is different from changing their size distribution",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Whether the audience can remember a machine’s price.",
+      "B. Whether the audience prefers trays to photographs.",
+      "C. Whether the main conceptual distinction is understood."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Whether the main conceptual distinction is understood.",
+      "Whether the main conceptual distinction is understood."
+     ]
+    },
+    {
+     "id": "exam52-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Particle groups are called __________.",
+     "explanation": "Aggregates are structural groupings.",
+     "evidenceQuote": "arranged into aggregates",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aggregates"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "The connectedness of __________ is important for movement.",
+     "explanation": "Pore connections affect movement through soil.",
+     "evidenceQuote": "whether the spaces connect",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "spaces"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "The effect of pressure depends partly on soil __________.",
+     "explanation": "Moisture is one relevant condition.",
+     "evidenceQuote": "including moisture and the pressure applied",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "moisture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Do not confuse water entry with __________.",
+     "explanation": "Surface drying alone does not isolate infiltration.",
+     "evidenceQuote": "confuse infiltration with evaporation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "evaporation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "A field has a larger connected __________ than a tray.",
+     "explanation": "Container boundaries limit the demonstration.",
+     "evidenceQuote": "a much larger connected profile",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "profile"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam52-lp4",
+   "partNumber": 4,
+   "title": "Compaction and the spaces in soil",
+   "contextDescription": "A lecturer explains the physical effects and context of soil compaction.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "37C69223-6C5C-51EA-A69A-A57B5EF4A148",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Compaction is a useful example of why soil cannot be understood as a collection of solid ingredients alone. When pressure packs material more closely, the arrangement of spaces can change. Those spaces matter to water, air, roots and organisms. The word compaction is sometimes used loosely to mean any hard soil, but hardness by itself does not explain the process or establish what management response is appropriate."
+    },
+    {
+     "id": "E47D82EB-B98A-562E-A6D4-304F21AA8B23",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Consider the distinction between texture and structure. Texture describes the relative proportions of mineral particles in size categories. Structure describes their arrangement into aggregates and the spaces associated with them. Pressure can alter the arrangement without changing a clay particle into a sand grain. This is why a structural problem cannot simply be described as the soil having acquired a new texture. The material may have a similar mineral composition while functioning differently because its pore network has changed."
+    },
+    {
+     "id": "8D4F5A5C-BCF0-5A33-8682-3073FAA570BF",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Large connected pores can provide routes for water entering and moving through soil. They also contribute to the exchange of gases. When these routes are reduced or disrupted, infiltration and aeration may be affected. The consequences depend on the material and the conditions; not every compacted layer behaves identically. A picture showing fewer visible openings introduces the mechanism, but it does not establish a complete prediction for every field or garden."
+    },
+    {
+     "id": "D87F3CB5-3BC0-50A3-9AD0-5CE1DA44F452",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Roots are affected by the physical routes available to them. They may encounter increased resistance or make use of existing channels. Biological activity can also contribute to structure. Growing roots help create pathways, and channels may remain after roots die. These relationships make the soil a changing environment rather than a fixed container into which a plant is placed. The presence of one visible channel does not describe the whole network, but it can help students understand why arrangement matters."
+    },
+    {
+     "id": "93EA4764-5468-5DFF-BA72-A34AAF432F55",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Moisture is important when considering the effect of pressure. The condition of the soil influences how it responds to traffic or handling. This is one reason why the same activity can have different effects at different times. Advice about avoiding unnecessary traffic on vulnerable wet ground is concerned with that interaction, not a claim that soil should never be touched. A practical decision needs attention to the site and the purpose of the work."
+    },
+    {
+     "id": "DF9D6962-2D7B-55A5-B850-F833D715FCFB",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Compaction is not undesirable in every human use. In construction, a stable compacted base may be an intended result. In a growing area, the same general process can conflict with the need for water movement and root development. The judgement therefore depends on function. Describing the desired function explicitly is more useful than attaching a universal good or bad label to a physical process. Engineering a path and maintaining a planting bed are different tasks, even when they use material from the same landscape."
+    },
+    {
+     "id": "6F05DF36-70DD-5431-BD47-D69E87540ED6",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Investigating a suspected problem requires more than seeing water on the surface. Ponding can have several explanations, including conditions below the visible layer. An observation should prompt questions about the profile, moisture and recent management. A single quick test may be useful as an indicator, but it should not be treated as a complete diagnosis. Nor should a treatment be recommended solely because it made a dramatic difference in a small classroom container."
+    },
+    {
+     "id": "92D89CA1-2385-53B1-8FF8-4233BB5A33FB",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The wider lesson is that soil function emerges from relationships between particles, pores, organisms and water. A sound explanation links a proposed action to the process it is expected to influence. It also recognises that rebuilding a favourable arrangement may require sustained management rather than a single intervention. When you examine a soil sample, ask not only what it contains but how its parts are connected. That question often reveals why two samples with similar ingredients can behave differently."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam52-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Compaction involves closer packing under __________.",
+     "explanation": "Pressure can alter pore arrangement.",
+     "evidenceQuote": "pressure packs material more closely",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Texture concerns mineral particles grouped by __________.",
+     "explanation": "Texture is about particle-size proportions.",
+     "evidenceQuote": "particles in size categories",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "size"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Structural change can affect the pore __________.",
+     "explanation": "Connections among pores matter.",
+     "evidenceQuote": "its pore network has changed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "network"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Reduced pore routes can affect infiltration and __________.",
+     "explanation": "Water entry and gas exchange may change.",
+     "evidenceQuote": "infiltration and aeration may be affected",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aeration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Roots may use existing __________.",
+     "explanation": "Existing openings can provide root routes.",
+     "evidenceQuote": "make use of existing channels",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "channels"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Response to traffic depends partly on __________.",
+     "explanation": "Soil moisture influences its response to pressure.",
+     "evidenceQuote": "Moisture is important",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Moisture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "A compacted base can be an intended outcome in __________.",
+     "explanation": "The desired function changes the judgement.",
+     "evidenceQuote": "In construction, a stable compacted base",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "construction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Surface __________ alone does not establish the cause of a problem.",
+     "explanation": "Visible water has multiple possible explanations.",
+     "evidenceQuote": "Ponding can have several explanations",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Ponding"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "A quick indicator should not be treated as a complete __________.",
+     "explanation": "A site-specific assessment needs more evidence.",
+     "evidenceQuote": "a complete diagnosis",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diagnosis"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Recovery may need sustained __________.",
+     "explanation": "Structural improvement may require continuing care.",
+     "evidenceQuote": "sustained management",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "management"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam52-rp1",
+   "passageNumber": 1,
+   "title": "Soil is arranged, not merely mixed",
+   "discipline": "Soil Science",
+   "paragraphs": [
+    "A handful of soil is often described by its ingredients: mineral particles, organic material, water and air. This is a useful beginning, but it leaves out the arrangement of those ingredients. Two samples with broadly similar mineral composition can behave differently if their particles and spaces are organised differently. Soil structure is the arrangement of primary particles into larger units called aggregates. The spaces within and between these units contribute to the conditions experienced by roots and other organisms. Understanding the material therefore requires attention to architecture as well as composition.",
+    "Texture is a different property. It concerns the relative proportions of sand, silt and clay, which are particle-size categories. A description of texture does not automatically describe how particles are grouped at a particular moment. Adding organic material may influence aggregation, but it does not simply turn clay-sized mineral particles into sand-sized ones. Confusing the two properties can lead to an incorrect explanation of change. An improvement in how a soil handles water may reflect a structural change even though its basic mineral particle-size distribution remains broadly similar.",
+    "Aggregates are not identical to loose piles of grains. Physical processes and biological activity help bring particles together, while organic substances can contribute to the bonds between them. Roots and soil organisms also influence the arrangement. The resulting units vary in shape, size and stability. There is no single appearance that can be imposed on every soil as an ideal. A useful description identifies the actual form present and relates it to the function being considered, rather than judging the sample only by whether it looks neat, dark or finely powdered.",
+    "The pore system is as important as the solid units. Larger connected openings can provide routes for water movement and gas exchange, while smaller spaces contribute to water retention. These functions depend on the sizes and connections of spaces, not merely on the total amount of empty volume. Some pores may contain water and others air under a particular set of conditions. Their contents can change. A diagram dividing a sample permanently into fixed air compartments and water compartments would therefore misrepresent a system that responds to wetting, drainage and biological activity.",
+    "Roots participate in this changing arrangement. They grow through accessible routes and can contribute to the creation of channels. After roots die, some pathways may remain available for movement or subsequent growth. Other organisms also form openings and modify their surroundings. The soil is thus both a physical medium and a habitat. This does not mean that every visible hole has the same origin or that a single channel establishes the condition of an entire profile. It means that biological and physical descriptions cannot always be separated without losing part of the explanation.",
+    "Pressure can change the arrangement by packing material more closely and reducing some pore spaces. The effect is influenced by conditions, including moisture and the material's existing structure. Compaction may restrict processes important to plant growth, but its practical meaning depends on the intended use. A firm base for a path and a favourable rooting environment are not identical objectives. An assessment should therefore state what function is required. Calling a soil hard without identifying the relevant process does not establish either the cause of the condition or the action that would improve it.",
+    "Structure is not permanently fixed in the way a casual description may suggest. Management, weather and biological processes can alter it, sometimes in interacting ways. This creates opportunities for improvement but also makes universal prescriptions unreliable. A treatment that helps one condition may be unnecessary or unsuitable in another. Observations of aggregates, pores, roots and water behaviour can guide an investigation. They should be interpreted together with the site's history and present use rather than converted immediately into a product recommendation based on one attractive photograph of a successful garden.",
+    "The distinction between texture and structure is therefore more than a vocabulary exercise. It allows a clearer explanation of what has changed and what has not. Soil can retain much of its mineral identity while its arrangement becomes more or less suitable for a particular task. A careful observer asks how particles are grouped, whether spaces connect and what occupies those spaces at the time of observation. This view replaces the image of soil as an inert powder with an account of a material whose internal relationships help determine what it can do."
+   ],
+   "questions": [
+    {
+     "id": "exam52-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Similar mineral composition can coexist with different physical behaviour.",
+     "explanation": "Arrangement can influence function independently of broad composition.",
+     "evidenceQuote": "broadly similar mineral composition can behave differently",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam52-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Texture and structure describe exactly the same soil property.",
+     "explanation": "Texture concerns size distribution; structure concerns arrangement.",
+     "evidenceQuote": "Texture is a different property.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam52-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Clay-sized particles are more abundant in every subsoil than in its surface layer.",
+     "explanation": "The passage does not compare particle proportions by depth.",
+     "evidenceQuote": "relative proportions of sand, silt and clay",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam52-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Organic substances can help bind particles into aggregates.",
+     "explanation": "Organic substances can influence aggregation.",
+     "evidenceQuote": "organic substances can contribute to the bonds",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam52-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The contents of each pore remain permanently either air or water.",
+     "explanation": "Pore contents respond to conditions.",
+     "evidenceQuote": "Their contents can change.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam52-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Channels left by dead roots persist longer than channels made by soil animals.",
+     "explanation": "No comparison of channel persistence by origin is supplied.",
+     "evidenceQuote": "After roots die, some pathways may remain",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam52-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The intended function matters when assessing a compacted material.",
+     "explanation": "A path base and growing medium have different requirements.",
+     "evidenceQuote": "depends on the intended use",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam52-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "Larger structural units of primary particles are called __________.",
+     "explanation": "Aggregates are particle groupings.",
+     "evidenceQuote": "larger units called aggregates",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aggregates"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "Soil description needs architecture as well as __________.",
+     "explanation": "Ingredients alone do not describe arrangement.",
+     "evidenceQuote": "architecture as well as composition",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "composition"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Smaller pore spaces contribute to water __________.",
+     "explanation": "Different pore sizes have different functions.",
+     "evidenceQuote": "contribute to water retention",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "retention"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "The material is both a physical medium and a __________.",
+     "explanation": "Organisms influence and inhabit soil.",
+     "evidenceQuote": "a physical medium and a habitat",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "habitat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "The effect of pressure is influenced partly by __________.",
+     "explanation": "Wetness is relevant to the response.",
+     "evidenceQuote": "including moisture",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "moisture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "An investigation should consider the site’s __________ and current use.",
+     "explanation": "Previous management can help interpret current observations.",
+     "evidenceQuote": "the site's history and present use",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "history"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 732,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam52-rp2",
+   "passageNumber": 2,
+   "title": "When the surface becomes a barrier",
+   "discipline": "Soil and Water Processes",
+   "paragraphs": [
+    "Water arriving at a soil surface does not necessarily enter it at the same rate throughout a storm. Entry into soil is called infiltration, and the condition of the uppermost layer can influence that process. A thin altered surface may affect what happens beneath it, even when deeper material contains pores through which water could move. This is one reason that the appearance of a broad landscape can conceal an important process occurring within a very shallow layer. To understand surface water movement, the entrance to the soil matters as well as its interior.",
+    "On exposed soil, raindrops strike with energy. Where aggregates are insufficiently stable, impact and wetting can break them apart. Smaller particles can be rearranged at the surface and help block pore openings. As the altered layer dries, a crust may develop. This is not a description of every soil under every rain shower. Susceptibility depends on properties and conditions, including aggregation and the protection present. The mechanism nevertheless explains why a surface that was loose before rain can later become a more continuous barrier to entry and emergence.",
+    "The effect on water can create a feedback. If infiltration is reduced, more incoming water may remain at the surface or move downslope as runoff. That moving water can carry detached material. The relationship depends on rainfall, slope and other conditions, so a crust should not be used as the sole explanation of every runoff event. But a small change in the entry layer can alter the distribution between water entering the soil and water travelling across it. What seems like a minor surface feature can therefore influence processes at a larger scale.",
+    "Plant establishment may be affected too. A germinating seedling has to reach the surface, and a resistant crust can create an obstacle. The consequence depends on the crop, the strength of the layer and conditions as the seedling emerges. It would be misleading to describe every crust as an identical barrier or assume that every seedling responds in the same way. The relevant idea is mechanical resistance at a critical stage, not a universal rule that a visible crust guarantees the complete failure of a planting.",
+    "Protective cover changes the interaction between rain and soil. Plant cover or suitable surface residues can intercept some of the impact that would otherwise reach exposed aggregates. Organic matter and biological activity can also contribute to aggregation. These effects help explain why soil management considers both the surface and the material beneath it. Cover is not simply decoration laid over an otherwise independent medium. Its relationship with rainfall, particle stability and water entry is part of the functioning system. The appropriate arrangement still depends on the purpose and conditions of the site.",
+    "Compaction and crusting should not be treated as interchangeable words. They can both affect pore space and water entry, but their causes and locations need investigation. A dense layer deeper in the profile may limit movement even when the immediate surface appears open. Conversely, a surface seal can restrict entry despite more favourable conditions beneath it. This distinction matters when interpreting a demonstration. Watching water remain on top tells the observer that entry or movement is limited under those conditions; it does not alone identify the particular layer or process responsible.",
+    "A useful examination therefore combines observations. The surface, the profile, the moisture condition and recent management may all be relevant. A small infiltration test can provide information, but it represents the place and conditions tested. Comparing two samples requires attention to how they were prepared and how much water was applied. If the comparison changes several features at once, a clear visual difference cannot automatically be attributed to one selected cause. The demonstration is most valuable when it links an observable result to a well-defined question about the process.",
+    "Surface crusting illustrates the broader significance of interfaces in environmental systems. A layer that looks negligible compared with the depth of the soil can influence exchange between atmosphere and ground, the path of rainfall and the emergence of plants. Its importance comes from its position and properties, not simply its thickness. Recognising this does not supply one remedy for every field or garden. It provides a better explanation of why surface condition deserves attention and why an apparently simple observation of wet ground can require a more careful investigation of what is happening below and around it."
+   ],
+   "questions": [
+    {
+     "id": "exam52-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B explains how an altered surface develops.",
+     "evidenceQuote": "impact and wetting can break them apart",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. How an exposed surface can become sealed",
+      "How an exposed surface can become sealed"
+     ]
+    },
+    {
+     "id": "exam52-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C explains consequences for runoff.",
+     "evidenceQuote": "more incoming water may remain at the surface or move downslope",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Consequences for water moving over the land",
+      "Consequences for water moving over the land"
+     ]
+    },
+    {
+     "id": "exam52-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D discusses resistance to seedling emergence.",
+     "evidenceQuote": "a germinating seedling has to reach the surface",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. An obstacle to young plants",
+      "An obstacle to young plants"
+     ]
+    },
+    {
+     "id": "exam52-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E describes cover and aggregation mechanisms.",
+     "evidenceQuote": "Protective cover changes the interaction",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. How cover affects the rain–soil interaction",
+      "How cover affects the rain–soil interaction"
+     ]
+    },
+    {
+     "id": "exam52-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F distinguishes possible causes and layers.",
+     "evidenceQuote": "Compaction and crusting should not be treated as interchangeable words.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Different processes that may look similar from above",
+      "Different processes that may look similar from above"
+     ]
+    },
+    {
+     "id": "exam52-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G discusses interpreting observations and demonstrations.",
+     "evidenceQuote": "A useful examination therefore combines observations.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Combining evidence before assigning a cause",
+      "Combining evidence before assigning a cause"
+     ]
+    },
+    {
+     "id": "exam52-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H explains the importance of a thin boundary layer.",
+     "evidenceQuote": "the broader significance of interfaces",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A thin interface with wider consequences",
+      "A thin interface with wider consequences"
+     ]
+    },
+    {
+     "id": "exam52-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What may happen when unstable aggregates are exposed to rainfall?",
+     "explanation": "Breakdown and rearrangement can close entry routes.",
+     "evidenceQuote": "Smaller particles can be rearranged at the surface",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They necessarily become larger sand grains.",
+      "B. They prevent any water from moving downhill.",
+      "C. Their fragments can help block pore openings.",
+      "D. They guarantee an increase in seedling emergence."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their fragments can help block pore openings.",
+      "Their fragments can help block pore openings."
+     ]
+    },
+    {
+     "id": "exam52-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer distinguish crusting from deeper compaction?",
+     "explanation": "Similar surface observations can have different underlying causes.",
+     "evidenceQuote": "their causes and locations need investigation",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Similar visible effects may arise in different layers or processes.",
+      "B. Only crusting can ever affect water movement.",
+      "C. Compaction occurs only in indoor containers.",
+      "D. The two terms must always be used as synonyms."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Similar visible effects may arise in different layers or processes.",
+      "Similar visible effects may arise in different layers or processes."
+     ]
+    },
+    {
+     "id": "exam52-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What makes a small infiltration demonstration most useful?",
+     "explanation": "A defined process question gives the observation interpretive value.",
+     "evidenceQuote": "a well-defined question about the process",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Changing as many features as possible at once.",
+      "B. Assuming that the most dramatic result is universal.",
+      "C. Ignoring how samples were prepared.",
+      "D. Linking its observation to a clearly defined process question."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Linking its observation to a clearly defined process question.",
+      "Linking its observation to a clearly defined process question."
+     ]
+    },
+    {
+     "id": "exam52-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Entry of water into soil is termed __________.",
+     "explanation": "Infiltration differs from runoff.",
+     "evidenceQuote": "Entry into soil is called infiltration",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "infiltration"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Water moving downslope may carry detached __________.",
+     "explanation": "Runoff can transport particles.",
+     "evidenceQuote": "carry detached material",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "material"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The importance of a boundary layer depends on position and __________.",
+     "explanation": "Thickness alone does not determine importance.",
+     "evidenceQuote": "its position and properties",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "properties"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 730,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. How cover affects the rain–soil interaction",
+      "ii. Consequences for water moving over the land",
+      "iii. A guarantee that every planting will fail",
+      "iv. Combining evidence before assigning a cause",
+      "v. How an exposed surface can become sealed",
+      "vi. Different processes that may look similar from above",
+      "vii. Why all surface layers have identical properties",
+      "viii. An obstacle to young plants",
+      "ix. A thin interface with wider consequences"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam52-rp3",
+   "passageNumber": 3,
+   "title": "Should a field be judged by its harvest alone?",
+   "discipline": "Agricultural Policy",
+   "paragraphs": [
+    "A harvest provides a visible result of farming, so it is understandable that crop output receives attention. Yet a field also has a future. Decisions made during one season can influence the conditions in which later crops will grow. In my view, a judgement of agricultural success should include the soil's capacity to keep functioning, not merely the weight of produce removed this year. This is not an invitation to disregard food production. It is a recognition that production depends on a resource whose condition is partly shaped by the way it is used.",
+    "One difficulty is that output is comparatively easy to record, while structural change can be less obvious. A farmer may see a harvest total immediately but need repeated observation to understand a developing restriction to water movement or root growth. The difference in visibility can favour decisions that reward the present and postpone their costs. I would not assume that an attractive single-season result demonstrates that a management approach is suitable indefinitely. Equally, a lower harvest in one difficult year does not by itself prove that an approach has damaged the soil.",
+    "Practical constraints deserve serious attention. A farm must operate within weather windows, available labour, equipment and financial commitments. Advice to change every practice immediately can ignore those conditions. In my view, recommendations become more useful when they explain priorities and feasible steps, rather than simply contrast an ideal system with an imperfect one. Recognising constraints is not the same as declaring that change is impossible. It provides a basis for deciding which pressures can be reduced first and what support might make a more substantial change achievable.",
+    "The intended function of an area also matters. A permanent access track and a crop-growing bed have different requirements. Concentrating traffic on a planned route may protect another area from repeated disturbance, but the arrangement needs to fit the actual operation. A label such as low-impact management is not sufficient by itself. The relevant question is which impacts are reduced, where they are shifted and whether the new arrangement creates other difficulties. I believe plans should make these relationships explicit instead of using an attractive description as a substitute for an explanation.",
+    "Public support can help where benefits extend beyond an individual business. Better management of soil and water may have consequences for neighbouring land or shared waterways. However, support programmes need credible criteria. Rewarding a named action without considering whether it fits the site can encourage compliance on paper rather than meaningful improvement. I would favour programmes that combine clear commitments with appropriate evidence of implementation and an honest account of what the evidence can establish. No single visible practice should automatically be treated as proof that every relevant soil function has improved.",
+    "Monitoring should remain proportionate. A programme demanding a large number of costly measurements may exclude smaller operators or divert effort from the work it intends to support. This does not justify replacing evidence with an unsupported promise. It means selecting observations that answer the important questions and can be maintained reliably. Farmers' experience can help identify practical patterns, while specialist assessment may be needed for particular problems. These contributions should inform one another rather than be presented as competing forms of knowledge that cannot be discussed together.",
+    "Time is another challenge. Some effects become visible within a season, while others need longer consideration. A fair assessment should distinguish early signs, longer-term outcomes and claims that remain uncertain. It should also recognise that weather can influence the result of a practice without being controlled by the farmer. In my view, evaluation should explain those conditions rather than attribute every good result to management and every poor one to failure. The purpose is to improve decisions, not create a simple story in which success and blame are assigned from one isolated number.",
+    "A broader judgement of farming therefore connects present production with the capacity to continue producing. Harvest figures remain important, but they belong alongside information about the resource and the pressures placed upon it. The strongest approach makes its trade-offs visible, supports workable improvement and remains willing to revise a conclusion when better evidence appears. I would judge a field neither by an impressive crop alone nor by a pleasing label attached to its management. The question is whether the relationship between output, soil condition and practical responsibility can be sustained over time."
+   ],
+   "questions": [
+    {
+     "id": "exam52-R27",
+     "number": 27,
+     "format": "Matching Information",
+     "prompt": "a contrast between immediately visible output and less obvious structural change",
+     "explanation": "B contrasts harvest records with developing structural problems.",
+     "evidenceQuote": "output is comparatively easy to record",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam52-R28",
+     "number": 28,
+     "format": "Matching Information",
+     "prompt": "a warning that advice may overlook operational limits",
+     "explanation": "C explains weather, labour, equipment and financial constraints.",
+     "evidenceQuote": "ignore those conditions",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam52-R29",
+     "number": 29,
+     "format": "Matching Information",
+     "prompt": "an example of allocating different parts of land to different functions",
+     "explanation": "D distinguishes access and production areas.",
+     "evidenceQuote": "A permanent access track and a crop-growing bed",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam52-R30",
+     "number": 30,
+     "format": "Matching Information",
+     "prompt": "a concern that expensive evidence requirements may disadvantage smaller businesses",
+     "explanation": "F discusses proportionate monitoring.",
+     "evidenceQuote": "exclude smaller operators",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "exam52-R31",
+     "number": 31,
+     "format": "Matching Information",
+     "prompt": "a recommendation to separate early indications from longer-term results",
+     "explanation": "G addresses timing in evaluation.",
+     "evidenceQuote": "distinguish early signs, longer-term outcomes",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "exam52-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "Harvest weight should be the only measure of agricultural success.",
+     "explanation": "Soil’s continuing function matters too.",
+     "evidenceQuote": "not merely the weight of produce removed this year",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam52-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Recognising practical constraints can make improvement plans more useful.",
+     "explanation": "Understanding constraints helps identify feasible steps.",
+     "evidenceQuote": "a basis for deciding which pressures can be reduced first",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam52-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "The writer regards root-depth measurements as more informative than infiltration measurements in all crops.",
+     "explanation": "No universal ranking of these measurement types is supplied.",
+     "evidenceQuote": "selecting observations that answer the important questions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam52-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "A single named practice proves improvement in every soil function.",
+     "explanation": "Evidence must fit the particular function and site.",
+     "evidenceQuote": "No single visible practice should automatically be treated as proof",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam52-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Assessment should take relevant weather conditions into account.",
+     "explanation": "Weather should not disappear from causal interpretation.",
+     "evidenceQuote": "evaluation should explain those conditions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam52-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "A field’s future depends partly on the condition of its __________.",
+     "explanation": "Soil function supports continued production.",
+     "evidenceQuote": "the soil's capacity to keep functioning",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "soil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "A traffic arrangement should explain where impacts are __________.",
+     "explanation": "Reducing pressure in one area may relocate it.",
+     "evidenceQuote": "where they are shifted",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shifted"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Public programmes need credible __________.",
+     "explanation": "Criteria connect support to meaningful commitments.",
+     "evidenceQuote": "support programmes need credible criteria",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "criteria"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam52-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Long-term judgement considers whether the relationship can be __________.",
+     "explanation": "The conclusion emphasises continuing capacity.",
+     "evidenceQuote": "can be sustained over time",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sustained"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 729,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Which paragraph contains the following information? Write the correct letter, A–H."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam52-w1",
+  "title": "Use of land at a teaching farm",
+  "visualType": "Table",
+  "instructions": "The table shows the area allocated to five uses at a teaching farm in 2012 and 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "5B6DA4D9-5A91-5131-8ACC-06037F819298",
+    "series": "2012",
+    "category": "Annual crops",
+    "value": 48.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "CF8EA4D4-E621-5FE6-A0EC-255BD38E2813",
+    "series": "2012",
+    "category": "Grassland",
+    "value": 30.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "E08784D4-6A8C-5246-B6EE-BA7EA35525EA",
+    "series": "2012",
+    "category": "Orchard",
+    "value": 12.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "974DBE84-DC87-5B70-82F6-3A562CC9BDDC",
+    "series": "2012",
+    "category": "Woodland",
+    "value": 6.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "BBB7D7BA-93B5-5A02-B6BA-F1029CA1F563",
+    "series": "2012",
+    "category": "Paths and buildings",
+    "value": 4.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "E440BA79-86BB-5C13-8A9A-61A8E91DF487",
+    "series": "2026",
+    "category": "Annual crops",
+    "value": 36.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "A445ABB4-7D3B-564B-A692-6AE077D3B87C",
+    "series": "2026",
+    "category": "Grassland",
+    "value": 28.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "203C7585-AA62-5D1A-B877-E1364740364A",
+    "series": "2026",
+    "category": "Orchard",
+    "value": 18.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "8D3D8748-A98B-52B3-A847-2FF801FA59E2",
+    "series": "2026",
+    "category": "Woodland",
+    "value": 12.0,
+    "unit": "hectares"
+   },
+   {
+    "id": "7BA05269-1F79-5629-8207-E0C81D0AFFFB",
+    "series": "2026",
+    "category": "Paths and buildings",
+    "value": 6.0,
+    "unit": "hectares"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Annual crops remained the largest use but declined by twelve hectares.",
+   "Orchard, woodland and built/access areas expanded, while grassland declined slightly; total area stayed at one hundred hectares."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam52-w2",
+  "title": "Rewarding long-term soil care",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Agriculture and Public Policy",
+  "promptText": "Governments should give farmers financial support for protecting the long-term condition of their soil, even if this does not immediately increase food production. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam52-spk",
+  "theme": "Learning about growing things",
+  "part1Questions": [
+   "Have you ever grown something in a pot?",
+   "Do you like activities that involve working with your hands?",
+   "What plants do you see near your home?",
+   "Did you learn about gardens at school?",
+   "Would you prefer a practical lesson indoors or outdoors?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a practical activity that helped you understand how something grows.",
+   "bulletPoints": [
+    "what the activity was",
+    "where you did it",
+    "what you observed",
+    "and explain what it helped you understand"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why can practical activities help people understand natural processes?",
+   "Should schools provide opportunities to grow plants?",
+   "How can reliable gardening advice reach beginners?",
+   "Why might short-term results be a poor guide to long-term decisions?",
+   "What responsibilities do people have when using land shared with others?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening people, venues and arrangements are fictional. Writing figures are an original illustrative dataset. Scientific background checked against USDA NRCS https://www.nrcs.usda.gov/sites/default/files/2022-10/Soil%20Structure%20and%20Macropores.pdf , https://www.nrcs.usda.gov/sites/default/files/2022-10/Infiltration.pdf , https://www.nrcs.usda.gov/sites/default/files/2022-12/Rangeland_Soil_Quality_Compaction_0.pdf and FAO https://www.fao.org/4/r4082e/r4082e03.htm . No invented experiments or researchers are cited.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

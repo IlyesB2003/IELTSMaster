@@ -1,0 +1,2013 @@
+{
+ "id": "exam26",
+ "examNumber": 26,
+ "pool": "mock",
+ "title": "Mock Exam 26: Clocks, Precision and Public Time",
+ "difficulty": "Advanced Academic (Band 8.0 to 9.0)",
+ "theme": "Clocks, Precision and Public Time",
+ "listeningParts": [
+  {
+   "id": "exam26-lp1",
+   "partNumber": 1,
+   "title": "Booking a clock assessment",
+   "contextDescription": "A resident calls a specialist workshop to arrange an assessment of a family clock.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "F175DE16-F49E-5C88-BC3D-ADFF01F71DEE",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Good morning, Eastbridge Clock Workshop. This is Ruth. If you'd like to bring something for assessment, we arrange appointments rather than ask people to leave objects without speaking to us. That way we can allow enough time to hear what you know about the clock."
+    },
+    {
+     "id": "E3941E23-108A-5844-9FAC-AE67C894A0AA",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "That's exactly why I'm calling. I've inherited a small clock that used to stand on my aunt's mantelpiece. It isn't running, but I don't know whether it simply needs winding or whether something is wrong. I haven't tried forcing anything because I don't know what I'm doing."
+    },
+    {
+     "id": "4E9403F7-53AA-5D48-A8B8-0B7B6C50303C",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thank you for leaving it as it is. We can assess it here, but please don't assume that an assessment means we'll immediately start a repair. We first look at its condition and discuss what you want. Some owners want a clock to run every day; others mainly want it preserved as a family object."
+    },
+    {
+     "id": "82EBDFF0-BC11-5A55-9636-97428A17D29A",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "I'd like to understand the options before deciding. I saw an assessment charge of twenty pounds on an old leaflet. Is that still correct? Also, would the charge be taken off a later repair bill? I need an idea of what the first visit commits me to."
+    },
+    {
+     "id": "29BF238B-AC59-5104-947A-65022ECE4F15",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "The assessment fee is now twenty-eight pounds. If you commission the agreed repair within three months, that fee is deducted from the bill. But you are not obliged to proceed. A repair estimate is provided after the assessment, and we ask for your approval before beginning any work."
+    },
+    {
+     "id": "0C63DC49-821F-50B6-B9A6-0695CE6ABC12",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "That's clear. Could I come on Monday afternoon? I can leave work early that day, but I'd need enough time to get across town. The clock is too awkward to carry on the bus, so my neighbour has offered to drive me."
+    },
+    {
+     "id": "ABA4D7F0-1F07-5991-ACA3-8032B1567400",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Monday is fully booked. We have a place on Tuesday at four fifteen, or on Thursday at ten. The Tuesday appointment lasts forty-five minutes. You should arrive just before the appointment rather than much earlier, as our waiting area is quite small."
+    },
+    {
+     "id": "F2DC4B8D-5060-5A2F-ADB3-5E4B11854E37",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "Tuesday at four fifteen would be better. Where can my neighbour stop? I remember a car park beside the workshop, but when I walked past last week there seemed to be building materials across its entrance."
+    },
+    {
+     "id": "DF73953E-204E-567D-8F71-7152A205B168",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "That car park is closed during the roof repairs. Use the loading space opposite the pharmacy for dropping off, then your neighbour can park in the public car park behind the library. Please don't leave the vehicle in the loading space during the appointment, because other businesses use it too."
+    },
+    {
+     "id": "FCAA9305-2000-5E0E-B496-8B8AEC66CF14",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "I'll explain that. What should I bring apart from the clock? There is a key in the drawer beneath it and a note that my aunt wrote years ago, although the note doesn't say who made the clock."
+    },
+    {
+     "id": "D3B69753-F5B8-50A1-BA92-E426E3A87449",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Bring the key and any documents that belong with it. Don't wind the clock beforehand. If there are loose pieces, keep them in an envelope rather than trying to fit them back. A photograph of how it stood in your aunt's home could also be useful, but it isn't essential for the appointment."
+    },
+    {
+     "id": "B4F76638-62AA-5F2E-B28C-9A7B500423BC",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "My surname is Darlington. That's D-A-R-L-I-N-G-T-O-N. Would you send me the appointment details by email? My neighbour will want the address and the information about where to stop, and I can forward the message to her."
+    },
+    {
+     "id": "8F3CCAA0-6CD6-52AF-BD19-CEE0AF304543",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Certainly. We'll include a booking number. When you arrive, use the side door beside the blue gate. The front door opens into the shop, and the assessment room is in the workshop behind it. There is a level entrance at the side, which is easier when you're carrying something."
+    },
+    {
+     "id": "54AF3A76-61EF-5EF7-97CE-AD3E86646682",
+     "speaker": "Resident",
+     "accent": "en-AU",
+     "text": "Thank you. If I agree to a repair, how long might it take? I don't need it for a special occasion, but I would rather know whether we're talking about a few weeks or several months."
+    },
+    {
+     "id": "DC0FC7A0-F1D3-5FBE-9646-0E3B3363CE1E",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "We can't give a reliable completion date before assessing the work. Availability of suitable parts and the condition of the mechanism both matter. We'll discuss the likely timescale in the estimate, and tell you if it changes. For now, the appointment is an opportunity to decide what is appropriate, not a promise that every clock can be made to run immediately."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam26-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Clock previously stood on a __________.",
+     "explanation": "The resident identifies its former position.",
+     "evidenceQuote": "stand on my aunt's mantelpiece",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mantelpiece"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Current assessment fee: £__________.",
+     "explanation": "The old leaflet’s £20 is no longer current.",
+     "evidenceQuote": "The assessment fee is now twenty-eight pounds.",
+     "skillTag": "note_completion",
+     "distractorNote": "Twenty pounds was the former fee.",
+     "options": [],
+     "acceptedAnswers": [
+      "28"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Repair must be commissioned within __________ months for a deduction.",
+     "explanation": "The assessment charge is deducted under this condition.",
+     "evidenceQuote": "within three months",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "three",
+      "3"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Chosen appointment day: __________.",
+     "explanation": "Monday is full; the resident accepts Tuesday.",
+     "evidenceQuote": "Tuesday at four fifteen would be better.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Drop-off space is opposite the __________.",
+     "explanation": "The workshop car park is closed.",
+     "evidenceQuote": "loading space opposite the pharmacy",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pharmacy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Bring the clock’s __________ and relevant documents.",
+     "explanation": "The key should accompany the clock.",
+     "evidenceQuote": "Bring the key and any documents",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "key"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Place loose pieces in an __________.",
+     "explanation": "They should not be refitted by the owner.",
+     "evidenceQuote": "keep them in an envelope",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "envelope"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Resident’s surname: __________.",
+     "explanation": "The surname is stated and spelled.",
+     "evidenceQuote": "My surname is Darlington. That's D-A-R-L-I-N-G-T-O-N.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Darlington"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Use the side door beside the blue __________.",
+     "explanation": "The side entrance leads to the workshop.",
+     "evidenceQuote": "the side door beside the blue gate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gate"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Likely repair timescale will appear in the __________.",
+     "explanation": "The timescale follows assessment.",
+     "evidenceQuote": "discuss the likely timescale in the estimate",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "estimate"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam26-lp2",
+   "partNumber": 2,
+   "title": "Exploring a timekeeping exhibition",
+   "contextDescription": "A museum educator explains the activities in a fictional clock exhibition.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "603B25C0-4941-5321-9FC7-0E72CF793F2A",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "Welcome to A Day in Time. Our exhibition looks at different ways people have organised and measured parts of a day. You can follow the rooms in any order, but I will describe them so you can choose where to spend your time. There are hands-on models as well as original objects. Please check the labels, because being able to touch a model does not mean the original beside it can also be handled."
+    },
+    {
+     "id": "DF36074E-7625-51C8-BE48-FA7E99F76BB1",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "In the courtyard, the shadow station uses a model to explore how the position of a shadow changes. It is an observation activity rather than a promise that the display will behave identically in every kind of weather. If cloud makes the shadow difficult to see, the volunteer has a sequence of photographs for comparison. Don't move the marker to make its shadow fit a time you expect; the point is to observe what the arrangement actually shows."
+    },
+    {
+     "id": "5019E98B-B33A-5302-B4A0-5E4E2553C505",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "The first indoor room is called Beats and Counts. Large working models separate the part that provides a repeated movement from the part that counts it. You can turn the handle on one model and see gears move the display. The model is deliberately large so its relationships are visible. It isn't an example of how much space an ordinary modern clock needs, and it hasn't been designed to keep accurate time while hundreds of people operate it."
+    },
+    {
+     "id": "D3E6755D-7364-5421-8AC0-A7C5BC84C138",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "The second room, Carrying Time, concentrates on portable objects. The cases contain watches and travel clocks, while a wall display asks what changes when a timekeeper is moved away from a stable room. You will see examples of protective boxes and carrying arrangements. For anyone interested in the decorated cases, there is a separate picture guide showing details that are difficult to see through the glass. You can borrow the guide and return it at the room's exit."
+    },
+    {
+     "id": "1AE7AA55-88C0-5C45-A118-8A199F3A3FCF",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "In Shared Time, the focus moves from an individual object to coordination. A simple activity asks several groups to begin a task using clocks that disagree. Afterwards, the educator asks what made the arrangement confusing. It is a discussion about agreeing on a reference, not a competition to find the fastest participant. School groups can book the activity in advance, and families can join the public session at two o'clock if places remain."
+    },
+    {
+     "id": "CECFADE2-BA55-58B5-BEC3-BF4F84F677DA",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "The final room is the workshop window. Here you can watch a conservator working on a selected object on certain days. Today the conservator is preparing documentation rather than taking a mechanism apart. That may look less dramatic, but recording condition is an important part of the work. The live camera shows the workbench on a screen, so there is no need for everyone to crowd against the glass."
+    },
+    {
+     "id": "212E93E3-7A08-5141-978E-335FE36DB38A",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "Two arrangements have changed since the leaflet was printed. The family making session will take place in the classroom, not the café extension. Also, the short film now begins every half hour rather than every twenty minutes. Check the time above the cinema entrance. The film lasts twelve minutes, and the gap between screenings allows people to enter and leave without interrupting it."
+    },
+    {
+     "id": "5B4C765B-C2B9-5876-AAF1-E4810AAB0E78",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "If you have a clock at home and want advice, please don't bring it directly to the conservator at the window. Our information desk has details of the monthly advice session, which requires an appointment. The educator on duty can discuss the exhibition, but cannot diagnose an object from a quick description. For photographs, normal visitor photography is allowed where the camera sign appears; flash and tripods are not permitted in the object rooms."
+    },
+    {
+     "id": "3485872B-B012-5720-8E32-C35A13C5E51B",
+     "speaker": "Educator",
+     "accent": "en-IE",
+     "text": "Finally, the quiet reading area is beside Shared Time. You can sit there without joining an activity, and large-print versions of the main labels are available on the table. Return those copies to the basket when you finish. We hope the exhibition helps you look at an ordinary clock differently: not only as a face showing numbers, but as an object connected with movement, skilled work and the practical need to do things together."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam26-L11",
+     "number": 11,
+     "format": "Matching",
+     "prompt": "Shadow station",
+     "explanation": "This activity observes changes in shadow position.",
+     "evidenceQuote": "how the position of a shadow changes",
+     "skillTag": "matching",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Observing a changing shadow",
+      "Observing a changing shadow"
+     ]
+    },
+    {
+     "id": "exam26-L12",
+     "number": 12,
+     "format": "Matching",
+     "prompt": "Beats and Counts",
+     "explanation": "The models show relationships between components.",
+     "evidenceQuote": "separate the part that provides a repeated movement from the part that counts it",
+     "skillTag": "matching",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Seeing how clock components interact",
+      "Seeing how clock components interact"
+     ]
+    },
+    {
+     "id": "exam26-L13",
+     "number": 13,
+     "format": "Matching",
+     "prompt": "Carrying Time",
+     "explanation": "The area concerns timekeepers used while travelling.",
+     "evidenceQuote": "concentrates on portable objects",
+     "skillTag": "matching",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. Examining portable timekeepers",
+      "Examining portable timekeepers"
+     ]
+    },
+    {
+     "id": "exam26-L14",
+     "number": 14,
+     "format": "Matching",
+     "prompt": "Shared Time",
+     "explanation": "The activity concerns agreement between groups.",
+     "evidenceQuote": "the focus moves from an individual object to coordination",
+     "skillTag": "matching",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Coordinating activities between groups",
+      "Coordinating activities between groups"
+     ]
+    },
+    {
+     "id": "exam26-L15",
+     "number": 15,
+     "format": "Matching",
+     "prompt": "Workshop window",
+     "explanation": "This area shows conservation work.",
+     "evidenceQuote": "watch a conservator working",
+     "skillTag": "matching",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Watching conservation work",
+      "Watching conservation work"
+     ]
+    },
+    {
+     "id": "exam26-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why are the working models in Beats and Counts large?",
+     "explanation": "Their size makes the mechanism understandable.",
+     "evidenceQuote": "so its relationships are visible",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Modern clocks require that much space.",
+      "B. They are intended to replace the museum’s time service.",
+      "C. Their component relationships can be seen."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Their component relationships can be seen.",
+      "Their component relationships can be seen."
+     ]
+    },
+    {
+     "id": "exam26-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "What is the conservator doing today?",
+     "explanation": "Today’s work focuses on records.",
+     "evidenceQuote": "preparing documentation rather than taking a mechanism apart",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Dismantling every clock in the collection.",
+      "B. Preparing documentation for an object.",
+      "C. Giving immediate repair diagnoses to visitors."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Preparing documentation for an object.",
+      "Preparing documentation for an object."
+     ]
+    },
+    {
+     "id": "exam26-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "How can visitors obtain advice about a clock they own?",
+     "explanation": "Personal object advice has a separate booking arrangement.",
+     "evidenceQuote": "monthly advice session, which requires an appointment",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Arrange an appointment for the advice session.",
+      "B. Interrupt the conservator through the workshop window.",
+      "C. Leave it beside the exhibition models."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Arrange an appointment for the advice session.",
+      "Arrange an appointment for the advice session."
+     ]
+    },
+    {
+     "id": "exam26-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "The family making session has moved to the __________.",
+     "explanation": "It is no longer in the café extension.",
+     "evidenceQuote": "will take place in the classroom",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "classroom"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Return large-print labels to the __________.",
+     "explanation": "The basket holds the shared copies.",
+     "evidenceQuote": "Return those copies to the basket",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "basket"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Match each exhibition area with its focus. Choose A–G.",
+     "options": [
+      "A. Coordinating activities between groups",
+      "B. Seeing how clock components interact",
+      "C. Buying replacement clock parts",
+      "D. Watching conservation work",
+      "E. Observing a changing shadow",
+      "F. Comparing museum admission prices",
+      "G. Examining portable timekeepers"
+     ]
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "instruction": "Questions 16–18. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "instruction": "Questions 19–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam26-lp3",
+   "partNumber": 3,
+   "title": "Preparing a presentation about a public clock",
+   "contextDescription": "Two history students discuss an assignment about a town-hall clock and its records.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "92F8C331-F2E3-5173-BA0C-F74E4D7A37FF",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "I've found more material for our town-hall clock presentation than I expected. There are building accounts, a few photographs and some newspaper notices. But we need a clear story. If we try to mention every payment in the accounts, the audience won't understand why the clock mattered."
+    },
+    {
+     "id": "D509732E-240C-59DC-9419-111FE44034F2",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "What about organising it around the people who depended on it? We could discuss the maker, the caretaker and residents using the square. That would connect the machinery to everyday life. We have to be careful not to invent what residents thought, though. The photographs show people in the square, not whether they looked at the clock."
+    },
+    {
+     "id": "66F58B9E-2BAF-55ED-B71D-771EBA139723",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "Exactly. The building accounts identify a payment for installing the clock, but I initially read that as the cost of the clock itself. Looking more closely, the entry includes work on the supporting frame. We should explain that distinction instead of presenting the total as a simple purchase price."
+    },
+    {
+     "id": "A1FFF0B1-F595-51FD-8614-3266C97EFFB3",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "And the caretaker's notebook is interesting because it records routine attention, not just the installation. There's an entry about arranging access to the clock room. We could use that to show that a public clock needed an organisation behind it, rather than implying someone installed it and then everyone forgot about it."
+    },
+    {
+     "id": "441AE818-1062-5E61-9C07-E49D3F2C522C",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "The notebook is handwritten, so I want to check a few words before quoting it. One name looks like Palmer, but it might be Parker. The archivist said we can compare it with the same writer's letters elsewhere on the page. If it remains unclear, we should show that uncertainty in the transcript."
+    },
+    {
+     "id": "31A5A72D-115A-504F-BC64-1CD571E58F89",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "For the photographs, I've got one taken before the clock face was replaced and one after. We shouldn't call the first one the original face unless we know there wasn't an earlier replacement. At the moment, the evidence only tells us it is an earlier version than the one in the second photograph."
+    },
+    {
+     "id": "ED716FD3-4BBE-5BC9-B239-B93FE157BFE4",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "I can make a timeline with different symbols for documented events and approximate dates. The replacement photograph has a date on the back, but we haven't established whether that is when the picture was taken or when someone added it to the collection. We should ask the archivist about its catalogue record."
+    },
+    {
+     "id": "9F26ABC0-CFD2-51D8-BCC3-77B31C5762C1",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "That would also give us something to explain about historical evidence without making the whole presentation a lecture on archives. We can show one example where the document answers a question and another where it leaves a gap. The audience can then see why our account doesn't give an exact date for every change."
+    },
+    {
+     "id": "64B555BD-3D01-5EF4-94E1-0422DC6A868A",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "For the opening, maybe play a recording of the clock striking. I found one online, but I don't know who made it or whether we can use it. It may be simpler to begin with a close photograph of the face and ask the audience what information a public clock provides."
+    },
+    {
+     "id": "30FB37F5-42CE-5369-87F3-4CD71289EA1D",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "Let's use the photograph. We can keep the presentation independent of an unverified recording. We should also avoid saying the clock was always accurate. The notebook has maintenance entries, but that doesn't tell us its error on every day. Our argument is about the effort to provide public time, not a claim that the mechanism never varied."
+    },
+    {
+     "id": "D5180F72-96DE-5A3F-BEB2-92A2A9B24F36",
+     "speaker": "Sophie",
+     "accent": "en-GB",
+     "text": "Then we'll finish with the question of what should be preserved today: the appearance, the working mechanism or the records of its use. We can introduce those as different concerns rather than announce that our short project settles the conservation decision. That should make the conclusion more interesting than just a list of dates."
+    },
+    {
+     "id": "72C9779F-D1C6-5771-9EFD-7B1517FB49FF",
+     "speaker": "Malik",
+     "accent": "en-AU",
+     "text": "Agreed. I'll prepare the two photographs and the quotation from the accounts. Could you check the notebook transcription and the catalogue date? Once we have those, we can rehearse the presentation and see whether the audience can follow the distinction between a dated event and an uncertain interpretation."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam26-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How do the students propose organising their presentation?",
+     "explanation": "They connect the clock to different people’s roles.",
+     "evidenceQuote": "around the people who depended on it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. By reading every payment in chronological order.",
+      "B. Around people associated with the clock.",
+      "C. By ranking modern clock manufacturers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Around people associated with the clock.",
+      "Around people associated with the clock."
+     ]
+    },
+    {
+     "id": "exam26-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did Sophie initially misunderstand about the installation payment?",
+     "explanation": "The total covered more than the mechanism itself.",
+     "evidenceQuote": "the entry includes work on the supporting frame",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It included work beyond buying the clock.",
+      "B. It referred to a different town hall.",
+      "C. It was paid to several residents in the square."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It included work beyond buying the clock.",
+      "It included work beyond buying the clock."
+     ]
+    },
+    {
+     "id": "exam26-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why will they avoid calling the first photographed face “original”?",
+     "explanation": "An earlier photograph does not prove an original component.",
+     "evidenceQuote": "unless we know there wasn't an earlier replacement",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The second photograph has no clock face.",
+      "B. The face is impossible to see.",
+      "C. It may itself have replaced an earlier face."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It may itself have replaced an earlier face.",
+      "It may itself have replaced an earlier face."
+     ]
+    },
+    {
+     "id": "exam26-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why do they choose a photograph rather than the online recording?",
+     "explanation": "The recording’s source and permission are unverified.",
+     "evidenceQuote": "independent of an unverified recording",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The recording’s source and use are uncertain.",
+      "B. Every recording would make the presentation too long.",
+      "C. The photograph proves the clock never needed repair."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The recording’s source and use are uncertain.",
+      "The recording’s source and use are uncertain."
+     ]
+    },
+    {
+     "id": "exam26-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What claim will their presentation avoid making?",
+     "explanation": "Maintenance records do not prove constant accuracy.",
+     "evidenceQuote": "avoid saying the clock was always accurate",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People made efforts to maintain public time.",
+      "B. The clock kept accurate time on every day.",
+      "C. The clock had more than one appearance."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The clock kept accurate time on every day.",
+      "The clock kept accurate time on every day."
+     ]
+    },
+    {
+     "id": "exam26-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "The caretaker’s notebook refers to access to the clock __________.",
+     "explanation": "The notebook records an operational concern.",
+     "evidenceQuote": "access to the clock room",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "room"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Compare unclear handwriting with the writer’s other __________.",
+     "explanation": "Repeated letter forms may clarify a word.",
+     "evidenceQuote": "the same writer's letters elsewhere on the page",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "letters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Use different __________ for certain and approximate timeline dates.",
+     "explanation": "The visual distinction shows differing certainty.",
+     "evidenceQuote": "different symbols for documented events and approximate dates",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "symbols"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Ask about the photograph’s __________ record.",
+     "explanation": "The record may clarify the meaning of the date.",
+     "evidenceQuote": "ask the archivist about its catalogue record",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "catalogue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Malik will prepare photographs and a quotation from the __________.",
+     "explanation": "Malik takes responsibility for the accounts quotation.",
+     "evidenceQuote": "the quotation from the accounts",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "accounts"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam26-lp4",
+   "partNumber": 4,
+   "title": "Planning the care of a public clock",
+   "contextDescription": "A lecturer uses a fictional town-clock project to explain maintenance responsibilities.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "8CA3756D-4467-5CD3-B6A9-A078A9B2BE4B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "A public clock is often noticed most when it stops, but keeping it available involves work long before a visible fault appears. Let us consider a fictional town that has restored a clock above its market hall. The council has paid for the restoration and celebrated the reopening. The next challenge is less spectacular: deciding who will look after the system, how they will obtain access and what will happen when specialist attention is required."
+    },
+    {
+     "id": "19587099-DE22-533D-8A39-6E5BA66337A2",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Begin with responsibility. A general statement that the building team will look after it may be inadequate if no role is identified. Staff change, contractors finish and informal knowledge can disappear. The maintenance agreement should name a responsible role and explain what that role is authorised to do. This is not an invitation for an untrained caretaker to adjust machinery. It is a way to make sure that the right specialist can be contacted and that agreed routine tasks are not assumed to belong to somebody else."
+    },
+    {
+     "id": "5465CC38-1486-5EB7-8EF4-14CF69AB354E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Access must be planned as part of the work. In our example, the clock room is reached through space used by an unrelated tenant. A visit therefore needs coordination, not simply a key held somewhere in a council office. Arrangements should cover ordinary appointments and the reporting of an unexpected fault. If the route becomes unavailable during building work, the effect on maintenance should be considered before the work begins. A mechanism cannot be cared for reliably if access exists only on an old drawing."
+    },
+    {
+     "id": "D15452C4-2FCB-5913-A250-4A972E56AC48",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Documentation provides continuity. Keep a log of inspections, reported problems and work carried out. The log should distinguish what someone observed from the action later taken. A report that the hands appeared to disagree is not the same event as a specialist confirming a particular fault. Recording both helps future staff understand why an intervention occurred. It also prevents an uncertain first impression from becoming an unquestioned technical diagnosis as the story passes from one person to another."
+    },
+    {
+     "id": "D38D9448-CEDE-50E0-9426-EC1CBBE416A0",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Parts and alterations need clear records. When a component is replaced, the reason and the treatment of the removed part should be documented. A historic object may have layers of earlier work, and a future specialist needs to know which arrangement is currently present. This does not mean every public label must become a technical catalogue. The detailed maintenance record and the visitor explanation serve different audiences, though their central factual claims should not contradict one another."
+    },
+    {
+     "id": "89E372E8-E6B2-5E12-8C9E-0A58A3943366",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The public also needs useful information during an interruption. A face showing a plausible but incorrect time can mislead people more than an obvious notice that the clock is temporarily unavailable. The appropriate response depends on the site and professional advice, but communication should be included in the plan. Decide who can arrange a notice, who supplies updates and how the notice will be removed when the service resumes. Otherwise, even a successful repair can leave outdated information behind."
+    },
+    {
+     "id": "08340CD1-B385-58AF-9533-22ACA10FD1B7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Budgeting should include continuing care rather than treat the restoration payment as the final cost. Some tasks may occur regularly, while others depend on condition or an unexpected event. A reserve for specialist work can make it easier to respond without abandoning the responsibilities already agreed. The point is not to predict every future repair precisely. It is to recognise that an operational object has continuing requirements and to decide how those requirements will be considered when money and staff time are allocated."
+    },
+    {
+     "id": "0C1483D5-678A-5412-A93A-3222EFB3C1D7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, review the arrangement after it has been used. Ask whether faults were reported clearly, whether access worked and whether the log supported the specialist's visit. Maintenance planning is not complete merely because a document exists. It succeeds when people can carry out the responsibilities it describes. In our fictional town, the restored clock becomes a sustainable public service only when the visible face is supported by a less visible network of people, records and practical agreements."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam26-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Name a responsible __________ rather than relying on an informal understanding.",
+     "explanation": "The role remains identifiable when staff change.",
+     "evidenceQuote": "name a responsible role",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "role"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Clock-room access requires __________ with another tenant.",
+     "explanation": "The access route passes through another tenant’s space.",
+     "evidenceQuote": "A visit therefore needs coordination",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "coordination"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Keep a __________ covering observations and work.",
+     "explanation": "The log preserves continuity.",
+     "evidenceQuote": "Keep a log of inspections",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "log"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "An initial report is not necessarily a technical __________.",
+     "explanation": "An observation should not become an unsupported diagnosis.",
+     "evidenceQuote": "an unquestioned technical diagnosis",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "diagnosis"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Record the reason when a __________ is replaced.",
+     "explanation": "Replacement history matters to later specialists.",
+     "evidenceQuote": "When a component is replaced",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "component"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Technical records and visitor explanations have different __________.",
+     "explanation": "They need different detail while remaining consistent.",
+     "evidenceQuote": "serve different audiences",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "audiences"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Include public __________ in plans for an interruption.",
+     "explanation": "The public needs useful information during outages.",
+     "evidenceQuote": "communication should be included in the plan",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "communication"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "An outdated __________ should be removed when service resumes.",
+     "explanation": "Old outage information should not remain.",
+     "evidenceQuote": "how the notice will be removed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "notice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Set aside a __________ for specialist work.",
+     "explanation": "Future specialist attention requires resources.",
+     "evidenceQuote": "A reserve for specialist work",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reserve"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Review whether the maintenance __________ works in practice.",
+     "explanation": "The plan needs practical evaluation after use.",
+     "evidenceQuote": "review the arrangement",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "arrangement"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam26-rp1",
+   "passageNumber": 1,
+   "title": "Finding a steadier second",
+   "discipline": "Measurement Science",
+   "paragraphs": [
+    "A clock does not need a familiar face or a pair of hands to be a clock. At its simplest, it combines a repeating process with a way of counting repetitions. A pendulum supplies repeated swings; an electronic circuit can count vibrations of a quartz crystal. The display translates those counts into units people recognise. This separation helps explain why the development of timekeeping is not merely a history of more elaborate dials. An important part of the story concerns the reference that provides the repetitions and how steadily that reference behaves.",
+    "Mechanical clocks made increasingly small divisions of the day visible. Spring-driven mechanisms allowed more portable timepieces, while pendulum clocks offered a more regular reference for clocks kept in suitable conditions. Yet mechanical devices remained sensitive to influences such as temperature and friction. A second hand could indicate a small division without proving that every indicated second had precisely the intended duration. The appearance of precision and the quality of the underlying time interval are therefore different matters. Better timekeeping required attention to the process behind the hand as well as the markings on the face.",
+    "Quartz clocks moved the repeating process into an electrical system. A prepared crystal vibrates at a characteristic frequency when used in an appropriate circuit. Many ordinary quartz watches use a frequency of 32,768 vibrations per second, which the electronics divide to produce a slower signal for counting seconds. The mechanism can thus work with a rapid regular process while displaying time at a human scale. Quartz technology greatly improved practical timekeeping, but a manufactured crystal is not an invariant universal reference: individual devices and their behaviour still need to be considered.",
+    "Atomic timekeeping takes a different route to a reference. Atoms of a given type share characteristic transitions between energy states. Radiation at the appropriate frequency can cause a transition, and a clock system can use the atoms' response to control the frequency it generates. The atoms are not tiny gears turning a miniature clock face. They provide a natural reference against which an oscillator is adjusted. Counting the resulting cycles then connects that controlled frequency to a time interval, just as counting a repeating process remains central to other kinds of clock.",
+    "The idea developed long before the necessary equipment existed. In the nineteenth century, James Clerk Maxwell and Lord Kelvin considered the possibility of using atomic properties as natural standards. Much later, techniques for controlling and observing atoms and molecules made practical devices possible. The first atomic clock, demonstrated by the American National Bureau of Standards in 1949, used ammonia molecules. It was an important demonstration, even though it did not immediately outperform the best existing electronic clocks. A new principle can be historically important before its first implementation offers the strongest practical performance.",
+    "Cesium subsequently became central to the international definition of the second. In 1967, the second was defined using 9,192,631,770 periods of radiation associated with a specified transition in cesium-133. The definition gives laboratories a common physical basis rather than requiring them to preserve one particular manufactured clock forever. Realising that definition still calls for sophisticated equipment and careful control. The natural reference does not make the surrounding apparatus unnecessary; it changes what the apparatus is trying to reproduce and how its output can be related to a shared unit.",
+    "Accurate timing also matters far beyond the act of reading a wristwatch. Communication systems need coordination, and navigation systems depend on carefully related time measurements. An error too small to matter when deciding whether lunch has begun can be significant in a system using rapidly travelling signals. This difference in application explains why scientific work continues after ordinary clocks seem entirely satisfactory. There is no contradiction between a household having enough accuracy for daily life and a laboratory needing to investigate much smaller differences for a specialised purpose.",
+    "The progression from mechanical motion to quartz and atomic references is therefore a change in what supplies a reliable rhythm, not an escape from counting. Every system must connect a repeating process to an interpretable interval. The modern second offers a particularly reproducible foundation for that connection. It also reveals why a simple digital display can conceal an extensive scientific achievement. What appears to be an effortless stream of numbers rests on generations of work separating a convenient indication from a stable, comparable and carefully defined unit of time."
+   ],
+   "questions": [
+    {
+     "id": "exam26-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The presence of a second hand alone proves the accuracy of its intervals.",
+     "explanation": "Visible divisions do not establish accurate duration.",
+     "evidenceQuote": "could indicate a small division without proving",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam26-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Many quartz watches use a frequency that is divided electronically.",
+     "explanation": "The high crystal frequency is divided to a seconds signal.",
+     "evidenceQuote": "the electronics divide",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam26-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "All quartz watches described in the passage contain crystals of the same physical size.",
+     "explanation": "Frequency is given, but crystal size is not.",
+     "evidenceQuote": "Many ordinary quartz watches use a frequency",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam26-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Atoms in an atomic clock function as miniature gears.",
+     "explanation": "Their transitions provide a frequency reference.",
+     "evidenceQuote": "not tiny gears",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam26-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Ideas about natural atomic standards preceded practical atomic clocks.",
+     "explanation": "The conceptual proposal came before practical equipment.",
+     "evidenceQuote": "long before the necessary equipment existed",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam26-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The 1949 atomic clock immediately surpassed the best electronic clocks.",
+     "explanation": "The first implementation was not immediately superior.",
+     "evidenceQuote": "did not immediately outperform",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam26-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The passage states how often an ordinary quartz watch battery must be replaced.",
+     "explanation": "No battery-replacement interval is provided.",
+     "evidenceQuote": "ordinary quartz watches",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam26-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "A simple clock counts __________ of a process.",
+     "explanation": "Repeated events underpin timekeeping.",
+     "evidenceQuote": "counting repetitions",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "repetitions"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "Mechanical behaviour can be influenced by temperature and __________.",
+     "explanation": "These influences can affect mechanical timing.",
+     "evidenceQuote": "temperature and friction",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "friction"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "The first atomic clock used __________ molecules.",
+     "explanation": "The 1949 device used ammonia.",
+     "evidenceQuote": "used ammonia molecules",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ammonia"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "The atomic reference is used to adjust an __________.",
+     "explanation": "The apparatus controls an oscillator against the atomic response.",
+     "evidenceQuote": "an oscillator is adjusted",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oscillator"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "The 1967 definition uses a transition in __________.",
+     "explanation": "The isotope is specified in the definition.",
+     "evidenceQuote": "in cesium-133",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cesium-133"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Very small timing errors may matter in __________ systems.",
+     "explanation": "Timing has specialised practical applications.",
+     "evidenceQuote": "navigation systems depend",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "navigation"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 729,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam26-rp2",
+   "passageNumber": 2,
+   "title": "Harrison’s changing answer to longitude",
+   "discipline": "History of Engineering",
+   "paragraphs": [
+    "The eighteenth-century search for a reliable way to find longitude at sea produced an extraordinary sequence of timekeepers by John Harrison. A carpenter who taught himself clockmaking, Harrison did not arrive at his best-known solution in one leap. His surviving machines show substantial changes in size and construction. The British Longitude Act of 1714 offered financial rewards for solving the navigation problem, providing a context in which an independent maker could seek support. The resulting story concerns not only an ingenious mechanism, but a long process of mechanical development, voyages, assessment and disagreement.",
+    "Harrison's first marine timekeeper, now called H1, was made between 1730 and 1735. It used two linked swinging balances rather than depending on a conventional pendulum moving freely in a stationary room. The arrangement addressed the challenge of carrying a clock on a moving ship. The instrument also incorporated measures to deal with temperature changes and friction. Its physical presence was very different from that of a later pocket watch: a viewer could see a substantial assembly of parts rather than a small movement hidden inside a case worn on the body.",
+    "H1 travelled to Lisbon in 1736 for a trial at sea. The outward voyage was difficult, but the return produced more encouraging results. The trial helped Harrison obtain further support, and in 1737 the Commissioners of Longitude agreed to provide money towards an improved instrument. This matters because the successful aspects of H1 did not end the project. A promising demonstration could justify continued development without establishing that the existing machine was already the final practical answer. Harrison himself went on to change the design rather than simply reproduce the first instrument.",
+    "H2, made between 1737 and 1739, was a larger and more solidly constructed development. It included a remontoire, intended to make the drive supplied to the balances more uniform. Nevertheless, Harrison identified a fault in the balance arrangement and did not allow H2 to undergo a sea trial. The object therefore records a different stage from H1: substantial work had produced a machine its own maker was unwilling to present as ready for that test. Its survival allows this less triumphant part of the development to remain visible beside the better-known successful timekeepers.",
+    "Work on H3 began in 1740 and occupied Harrison for nearly nineteen years. Its large circular balances did not give the accuracy he wanted, yet the machine incorporated important devices, including a bimetallic strip and a caged roller bearing. These features make it misleading to describe the whole instrument as simply a wasted attempt. A mechanism can fail to satisfy its main purpose while containing developments of wider engineering significance. In Harrison's sequence, the value of an object cannot be read only from whether it delivered the eventual winning form of the longitude solution.",
+    "A smaller direction emerged alongside the larger machines. A watch made to Harrison's design by John Jefferys in 1753 encouraged him to pursue a watch-sized solution. He began H4 in 1755 and completed it in 1759. Although it resembled a large pocket watch, its stable, rapidly beating balance distinguished it from an ordinary timepiece of similar appearance. The contrast with H1 to H3 is striking: the engineering answer did not simply become a more elaborate version of the original large machine, but changed the scale and form in which the problem was addressed.",
+    "Harrison's son William took H4 on a voyage to Jamaica in 1761. Further testing and disputes followed, including a trial connected with Barbados. The Commissioners wanted evidence not only about one instrument's performance but about whether the principles could be demonstrated and similar timekeepers made by others. Harrison and his supporters disagreed with the conditions attached to payment. The practical and institutional questions were therefore intertwined. A mechanism could perform impressively while arguments continued over what that performance entitled its maker to receive and what further demonstration was necessary.",
+    "The sequence remains compelling because it resists the image of invention as one sudden moment followed by immediate acceptance. H1, H2, H3 and H4 embody distinct decisions and different kinds of achievement. Their dates overlap with continuing work, trials and changes in direction. Looking at them together makes the miniature form of H4 more, not less, remarkable: it was a departure reached through sustained mechanical experience. Harrison's contribution can be appreciated without erasing the instruments that did not become the final solution or simplifying the difficult route by which a successful timekeeper became a practical proposition."
+   ],
+   "questions": [
+    {
+     "id": "exam26-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B describes the construction and purpose of H1.",
+     "evidenceQuote": "two linked swinging balances",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. The construction of the first marine timekeeper",
+      "The construction of the first marine timekeeper"
+     ]
+    },
+    {
+     "id": "exam26-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C explains the sea trial and resulting support.",
+     "evidenceQuote": "H1 travelled to Lisbon in 1736",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. A voyage that encouraged further development",
+      "A voyage that encouraged further development"
+     ]
+    },
+    {
+     "id": "exam26-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D concerns a developed machine withheld from testing.",
+     "evidenceQuote": "did not allow H2 to undergo a sea trial",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. An instrument its maker withheld from sea testing",
+      "An instrument its maker withheld from sea testing"
+     ]
+    },
+    {
+     "id": "exam26-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E recognises engineering value within H3’s limited overall success.",
+     "evidenceQuote": "important devices",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "Important mechanisms within an unsuccessful overall design"
+     ]
+    },
+    {
+     "id": "exam26-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F explains the shift towards H4’s watch-sized form.",
+     "evidenceQuote": "A smaller direction emerged",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. A smaller form offers a different route",
+      "A smaller form offers a different route"
+     ]
+    },
+    {
+     "id": "exam26-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "G discusses trials and contested conditions for recognition.",
+     "evidenceQuote": "Further testing and disputes followed",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Performance, reproducibility and disputed recognition",
+      "Performance, reproducibility and disputed recognition"
+     ]
+    },
+    {
+     "id": "exam26-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "H concludes that development was sustained and non-linear.",
+     "evidenceQuote": "invention as one sudden moment",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. Understanding invention as an extended process",
+      "Understanding invention as an extended process"
+     ]
+    },
+    {
+     "id": "exam26-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What does the passage say about the promising H1 trial?",
+     "explanation": "The trial supported further development rather than concluding it.",
+     "evidenceQuote": "did not end the project",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It proved that every future clock should copy H1.",
+      "B. It immediately resolved all financial disagreements.",
+      "C. It encouraged further work rather than ending development.",
+      "D. It prevented Harrison receiving support."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It encouraged further work rather than ending development.",
+      "It encouraged further work rather than ending development."
+     ]
+    },
+    {
+     "id": "exam26-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why should H3 not be described simply as wasted work?",
+     "explanation": "It contained mechanisms of broader importance.",
+     "evidenceQuote": "developments of wider engineering significance",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It included valuable engineering developments.",
+      "B. It was the first timekeeper sent to Jamaica.",
+      "C. It already had the same small form as H4.",
+      "D. Its main balances achieved every desired target."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It included valuable engineering developments.",
+      "It included valuable engineering developments."
+     ]
+    },
+    {
+     "id": "exam26-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did the Commissioners want beyond one machine’s performance?",
+     "explanation": "They wanted the principles demonstrated and reproducibility established.",
+     "evidenceQuote": "similar timekeepers made by others",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Proof that Harrison had never used a watch.",
+      "B. A ban on manufacturing any further timekeepers.",
+      "C. Destruction of all earlier instruments.",
+      "D. Evidence that other makers could produce similar instruments."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Evidence that other makers could produce similar instruments.",
+      "Evidence that other makers could produce similar instruments."
+     ]
+    },
+    {
+     "id": "exam26-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "H2 used a __________ to make its drive more uniform.",
+     "explanation": "The remontoire was a refinement in H2.",
+     "evidenceQuote": "included a remontoire",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "remontoire"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "H3 incorporated a caged roller __________.",
+     "explanation": "The bearing is one important device in H3.",
+     "evidenceQuote": "a caged roller bearing",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bearing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "The Jefferys watch encouraged a solution on a smaller __________.",
+     "explanation": "H4 changed the scale of the proposed answer.",
+     "evidenceQuote": "changed the scale and form",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scale"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 742,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Choose the correct heading for paragraphs B–H.",
+     "options": [
+      "i. A smaller form offers a different route",
+      "ii. An instrument its maker withheld from sea testing",
+      "iii. Understanding invention as an extended process",
+      "iv. The construction of the first marine timekeeper",
+      "v. A solution based only on decorative appearance",
+      "vi. Important mechanisms within an unsuccessful overall design",
+      "vii. Why all earlier machines were destroyed",
+      "viii. A voyage that encouraged further development",
+      "ix. Performance, reproducibility and disputed recognition"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam26-rp3",
+   "passageNumber": 3,
+   "title": "Should an old public clock keep running?",
+   "discipline": "Heritage Policy",
+   "paragraphs": [
+    "An old public clock can be valued as a machine, a familiar landmark and a source of useful information. These roles overlap, but they do not always lead to the same decision about its care. A town may want the hands to show reliable time, while a conservator wants to avoid unnecessary alteration to a historic mechanism. In my view, disagreement is not evidence that one side has failed to appreciate the clock. It may reflect different things people are trying to preserve, and those things should be identified before a proposal is presented as the obvious solution.",
+    "Keeping a mechanism in motion can reveal relationships that are difficult to understand from a still object. The movement of parts, the sound of operation and the connection between a drive and a display may contribute to public understanding. I would not dismiss these benefits as mere entertainment. Yet operation also requires resources and appropriate professional judgement. A demonstration that is meaningful and supportable differs from running an object simply because movement attracts attention. The value of the experience should be discussed alongside what is required to provide it responsibly.",
+    "Nor does stopping a historic mechanism necessarily mean abandoning the public face. A proposal might separate the way the hands are driven from the preservation of the original machinery. Whether that is acceptable depends on the particular object, the change involved and the explanation offered to visitors. I believe such an arrangement must be described honestly. If a modern system drives a historic face, the public should not be encouraged to believe that it is watching the original mechanism perform a task it no longer carries out.",
+    "The opposite concern is that an insistence on regular operation can lead to alterations that gradually remove important evidence. A part replaced for good operational reasons may still tell a story about an earlier form of making. This does not mean no part should ever be replaced. It means that the reason, the process and the treatment of removed material deserve attention. In my view, a responsible decision recognises that preserving a service and preserving physical evidence can create a trade-off rather than pretending that one intervention necessarily achieves both without cost.",
+    "Local attachment also matters. Residents may associate the clock with meeting friends, returning home or hearing a familiar strike. These experiences are not the same as a specialist account of its mechanism, but they belong in the discussion. Consultation should allow people to explain what they value rather than require them to choose between technical proposals they cannot reasonably assess. At the same time, the popularity of one preference should not be used to override relevant professional responsibilities. Public involvement is most useful when it clarifies values and practical priorities instead of substituting a vote for every kind of judgement.",
+    "Funding is part of the choice, not an inconvenient question to postpone until after a restoration celebration. A restored working clock needs an arrangement for continuing care. An attractive proposal that assumes a volunteer will always be available may depend on support nobody has agreed to provide. I would favour an achievable commitment over an ambitious display of goodwill. This is not a recommendation to do the cheapest thing in every case. It is a requirement to connect the chosen purpose with people, access and resources capable of sustaining it.",
+    "Documentation can preserve information even where a physical change is judged appropriate. Records of the previous arrangement, the reasons for intervention and the work completed can help later specialists understand the object. But documentation is not a universal excuse for removal. A photograph and a replaced component do not automatically have equivalent value. The question remains what matters about the particular clock and which evidence the intervention affects. In my view, recording a decision makes it accountable; it does not free the decision-maker from the need to justify it.",
+    "There is therefore no useful rule that every old public clock must run continuously or that every historic mechanism must remain motionless. The decision requires a clear account of the roles the clock is expected to fulfil. A defensible arrangement can explain what is preserved, what changes, what the public will experience and how the work will continue. It should also be capable of review as circumstances change. The aim is not to remove every disagreement, but to replace a false choice between affection and expertise with an informed discussion of a specific object and its future."
+   ],
+   "questions": [
+    {
+     "id": "exam26-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "People can disagree about a clock because they value different aspects of it.",
+     "explanation": "The writer recognises different legitimate purposes.",
+     "evidenceQuote": "different things people are trying to preserve",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam26-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Operating an old mechanism has no educational value.",
+     "explanation": "Movement can help explain how the machine works.",
+     "evidenceQuote": "contribute to public understanding",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam26-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "A modern drive should be concealed from visitors if the clock face is historic.",
+     "explanation": "Visitors should not be misled about the arrangement.",
+     "evidenceQuote": "must be described honestly",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam26-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Replacing a clock component always preserves the working service and all physical evidence equally.",
+     "explanation": "The writer recognises a trade-off between service and evidence.",
+     "evidenceQuote": "can create a trade-off",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam26-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "The passage specifies a maximum proportion of the budget that may fund documentation.",
+     "explanation": "No budget percentage is specified.",
+     "evidenceQuote": "Funding is part of the choice",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam26-R32",
+     "number": 32,
+     "format": "Multiple Choice",
+     "prompt": "What should be identified before a repair proposal is treated as obvious?",
+     "explanation": "The valued roles and purposes need clarification first.",
+     "evidenceQuote": "those things should be identified",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The most popular modern watch brand.",
+      "B. The exact number of daily photographs.",
+      "C. A universal rule requiring every clock to run.",
+      "D. The aspects of the clock people want to preserve."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. The aspects of the clock people want to preserve.",
+      "The aspects of the clock people want to preserve."
+     ]
+    },
+    {
+     "id": "exam26-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "How should residents contribute to consultation?",
+     "explanation": "Residents can clarify experiences and values.",
+     "evidenceQuote": "explain what they value",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Select technical treatments without advice.",
+      "B. Describe what matters to them about the clock.",
+      "C. Replace all professional judgement with a vote.",
+      "D. Promise funds before hearing any proposal."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Describe what matters to them about the clock.",
+      "Describe what matters to them about the clock."
+     ]
+    },
+    {
+     "id": "exam26-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "What concern does the writer raise about relying on a future volunteer?",
+     "explanation": "A plan can depend on support not actually committed.",
+     "evidenceQuote": "support nobody has agreed to provide",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Volunteers are never able to learn practical tasks.",
+      "B. Volunteers must own the historic mechanism.",
+      "C. The assumed support may not have been agreed.",
+      "D. All care should stop until a volunteer appears."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The assumed support may not have been agreed.",
+      "The assumed support may not have been agreed."
+     ]
+    },
+    {
+     "id": "exam26-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What is the writer’s view of documentation before a change?",
+     "explanation": "Records support accountability but do not automatically justify removal.",
+     "evidenceQuote": "does not free the decision-maker from the need to justify it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It does not replace the need to justify the change.",
+      "B. It makes every physical removal acceptable.",
+      "C. It is useful only when the clock keeps running.",
+      "D. It proves a photograph equals the original component."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It does not replace the need to justify the change.",
+      "It does not replace the need to justify the change."
+     ]
+    },
+    {
+     "id": "exam26-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "Which general approach does the writer support?",
+     "explanation": "The decision should be specific, informed and reviewable.",
+     "evidenceQuote": "an informed discussion of a specific object and its future",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Always choosing continuous operation.",
+      "B. Always preventing all movement.",
+      "C. Ignoring local attachment to avoid disagreement.",
+      "D. Considering the particular clock’s roles and future support."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Considering the particular clock’s roles and future support.",
+      "Considering the particular clock’s roles and future support."
+     ]
+    },
+    {
+     "id": "exam26-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Keeping a mechanism moving needs resources and professional __________.",
+     "explanation": "Operation is a professional as well as a public decision.",
+     "evidenceQuote": "appropriate professional judgement",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "judgement"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "The clock may have a place in residents’ everyday __________.",
+     "explanation": "Memories and daily experiences matter alongside mechanism details.",
+     "evidenceQuote": "These experiences",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "experiences"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "A chosen purpose must have resources to __________ it.",
+     "explanation": "An arrangement needs continuing support.",
+     "evidenceQuote": "capable of sustaining it",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sustain"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam26-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Decisions should remain open to __________ as circumstances change.",
+     "explanation": "The concluding paragraph supports review.",
+     "evidenceQuote": "capable of review",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "review"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 743,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam26-w1",
+  "title": "Income supporting a town-clock restoration fund",
+  "visualType": "Line Chart",
+  "instructions": "The line graph shows annual income from donations and events for a fictional town-clock restoration fund between 2020 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "FC335890-7C05-51D4-AD6A-6E1B3852FE51",
+    "series": "Donations",
+    "category": "2020",
+    "value": 18.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "3CD4CACE-2497-5228-AA33-473D81386A6C",
+    "series": "Donations",
+    "category": "2021",
+    "value": 24.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "7C2CFEC2-9C7A-5862-80E8-D5895B08792D",
+    "series": "Donations",
+    "category": "2022",
+    "value": 38.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "D5D1F259-DDE2-5B73-A0A0-91765DC30B06",
+    "series": "Donations",
+    "category": "2023",
+    "value": 31.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "92119910-0D01-5EEB-BA02-5FAD73E04E43",
+    "series": "Donations",
+    "category": "2024",
+    "value": 26.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "1739C86B-6B47-57A2-A77B-2E97322F0D51",
+    "series": "Donations",
+    "category": "2025",
+    "value": 22.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "B9FBE3F2-611F-517A-8866-3CD4125B58B6",
+    "series": "Events",
+    "category": "2020",
+    "value": 8.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "5203C6B3-87F9-5DC9-B39B-4A30BF84DBE6",
+    "series": "Events",
+    "category": "2021",
+    "value": 10.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "7FA21F89-D385-51B8-9873-090A6E8BD12D",
+    "series": "Events",
+    "category": "2022",
+    "value": 17.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "6D785AE8-F5D4-5949-B39E-CA6B15F4D8F3",
+    "series": "Events",
+    "category": "2023",
+    "value": 24.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "94359CA3-F4A8-5B01-8D87-3DAF5D8E333F",
+    "series": "Events",
+    "category": "2024",
+    "value": 29.0,
+    "unit": "£ thousands"
+   },
+   {
+    "id": "730DF738-ED9D-5522-8C7C-179DFA9121D0",
+    "series": "Events",
+    "category": "2025",
+    "value": 34.0,
+    "unit": "£ thousands"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Donations rose to a 2022 peak and then declined, while event income increased throughout.",
+   "Events overtook donations in 2024 and ended as the larger income source."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam26-w2",
+  "title": "Maintaining local landmarks",
+  "essayType": "Two-Part Question",
+  "topicDomain": "Culture and Public Spending",
+  "promptText": "Some towns spend substantial amounts of money restoring local landmarks such as clock towers. Why do communities value these structures? What factors should authorities consider before deciding to restore one?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam26-spk",
+  "theme": "Time and familiar landmarks",
+  "part1Questions": [
+   "Do you usually wear a watch?",
+   "Where do you look when you want to know the time?",
+   "Do you notice public clocks in your area?",
+   "Are you usually early for appointments?",
+   "Has the way you organise your day changed recently?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a familiar landmark that helps you recognise a place.",
+   "bulletPoints": [
+    "what the landmark is",
+    "where it is located",
+    "when you usually see it",
+    "and explain why it helps you recognise the place"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some objects become symbols of a town?",
+   "Should public landmarks always remain in their original form?",
+   "How can communities take part in decisions about historic structures?",
+   "What responsibilities follow a restoration project?",
+   "How can exhibitions explain machinery to people without specialist knowledge?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored content",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening institutions and their procedures are fictional. Factual background was checked against NIST timekeeping explanations and Royal Museums Greenwich collection records; passages are original prose, not extracts. Writing figures are fictional.",
+   "Background: https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work ; https://www.nist.gov/atomic-clocks/brief-history-atomic-time ; https://www.nist.gov/pml/time-and-frequency-division/timekeeping-and-clocks-faqs ; https://www.nist.gov/si-redefinition/second/second-past ; https://www.nist.gov/how-do-you-measure-it/how-do-you-measure-second",
+   "Harrison background: https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem ; https://www.rmg.co.uk/collections/objects/rmgc-object-79139 ; https://www.rmg.co.uk/collections/objects/rmgc-object-79140 ; https://www.rmg.co.uk/collections/objects/rmgc-object-79141 ; https://www.rmg.co.uk/collections/objects/rmgc-object-79142",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

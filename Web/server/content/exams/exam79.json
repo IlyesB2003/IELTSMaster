@@ -1,0 +1,1893 @@
+{
+ "id": "exam79",
+ "examNumber": 79,
+ "pool": "mock",
+ "title": "Mock Exam 79: Opening Institutions to New Learners",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Opening Institutions to New Learners",
+ "listeningParts": [
+  {
+   "id": "exam79-lp1",
+   "partNumber": 1,
+   "title": "Asking about a return-to-study programme",
+   "contextDescription": "An adult learner phones a college to discuss an introductory study programme.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "8702D8CA-5447-5E7C-8625-CC5E685074CF",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Northfield Adult College, admissions advice. My name's Jo. We deal with enquiries about the preparation programme here, but applications for individual subject courses go to their own departments. Are you considering returning to study, or have you already chosen a qualification?"
+    },
+    {
+     "id": "7C873746-36EF-59E4-887C-FBCE82CD779B",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "I'm thinking about returning, but haven't decided on a subject. I left school quite a long time ago and now work in a shop. I'd like to find out whether I could manage studying alongside work before committing to something expensive or very specialised."
+    },
+    {
+     "id": "F7C31B10-665A-5A27-AFF6-60A70FC66540",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Our introductory programme is intended for that situation. It is called Study Start. It doesn't lead to a separate qualification, but gives you a chance to practise reading, discussion and organising written work. There is also a session on comparing courses, so you can investigate a next step rather than choose one before you understand the options."
+    },
+    {
+     "id": "88A9B21F-9CAC-597C-AE61-FD205121EF1D",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "That sounds more suitable than the computer course I first looked at. I saw that Study Start used to be on Friday mornings. Unfortunately, Friday is one of my busiest days at work. Do you have an evening version?"
+    },
+    {
+     "id": "9C55D0F5-FA3A-5D7A-A48E-C5D7FB49A3E7",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "This term the daytime group has moved to Thursday. There is also a Tuesday evening group, beginning at six. It runs until eight thirty, with a break in the middle. Both groups follow the same programme. You shouldn't choose the evening one because you think it's a more advanced level; the difference is the time, not the content."
+    },
+    {
+     "id": "BAE4692D-C6B8-5E72-A21B-1E41901CC022",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Tuesday would be best. How many weeks does it last, and will there be a lot to do between meetings? I can set aside some time, but I'd prefer an honest idea of what I would be taking on."
+    },
+    {
+     "id": "8C0AB30D-5B1A-5A3D-8649-FD456D854B75",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "It lasts eight weeks. We suggest allowing about two hours between sessions for reading or a short task. Some people take longer, especially if they haven't studied recently, but we can discuss ways of managing the work. There isn't a final examination. Instead, you keep a folder of tasks and discuss your progress with a tutor."
+    },
+    {
+     "id": "EACB8436-3E6D-5AE3-B254-BFBDB9753700",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "And what is the fee? I found a sixty-pound course on your website, but it might have been the one about using office software. I don't want to confuse the two."
+    },
+    {
+     "id": "1888E0F2-91DF-534D-AAA6-CEB9C6DFFEB2",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Study Start is thirty-five pounds for the whole programme. That includes printed materials. The software course is sixty. If you later register for a longer college course, the Study Start fee is deducted from that course's fee, provided the conditions in the information sheet apply. We'll send the details so you don't have to rely on a quick telephone explanation."
+    },
+    {
+     "id": "11C762F7-E13D-528B-9B3A-DA416EE66A79",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Could you send that to me? My name is Rebecca Marden. That's M-A-R-D-E-N. I'd like a paper copy as well as an email if possible, because I find it easier to compare information when I can lay the pages out."
+    },
+    {
+     "id": "C5469761-4DD3-5C36-B597-CCFEA80F0086",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "Certainly. The first thing to arrange is an advice appointment. It isn't a selection interview. We talk about your aims, any practical support you need and whether the programme matches them. Bring something with your address on it for registration, but you don't need to search for old school certificates before the appointment."
+    },
+    {
+     "id": "4933173E-0A04-5DB7-BB20-74CD065C7655",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Would next Wednesday afternoon be possible? I'm free after two. And where should I go? I've only visited the main building once, for an event in the hall."
+    },
+    {
+     "id": "D3A7F328-87EC-5E93-A9AE-B60B8B308AB7",
+     "speaker": "Adviser",
+     "accent": "en-GB",
+     "text": "We have an appointment at three on Wednesday. Come to the annex, rather than the main building. The entrance is beside the pharmacy. There is a reception desk inside, and the adviser will meet you there. The appointment should take about twenty minutes, although you can tell us if you need more time to go through the information."
+    },
+    {
+     "id": "D5A60DF1-D27B-59B7-8E18-5AED63E8A0CC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Wednesday at three in the annex, beside the pharmacy. Thank you. It helps to know that I don't have to choose a subject immediately or prove I remember everything from school before I can start asking questions."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam79-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Programme name: Study __________.",
+     "explanation": "The caller wants the introductory preparation programme.",
+     "evidenceQuote": "It is called Study Start.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Start"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Preferred group meets on __________ evenings.",
+     "explanation": "The daytime group is on Thursday, not Friday.",
+     "evidenceQuote": "a Tuesday evening group",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Evening starting time: __________ p.m.",
+     "explanation": "Eight thirty is the finishing time.",
+     "evidenceQuote": "beginning at six",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "six",
+      "6",
+      "6.00",
+      "6:00"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Programme duration: __________ weeks.",
+     "explanation": "The programme lasts eight weeks.",
+     "evidenceQuote": "It lasts eight weeks.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "eight",
+      "8"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Keep completed tasks in a __________.",
+     "explanation": "There is no final examination.",
+     "evidenceQuote": "you keep a folder of tasks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "folder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Total fee: £__________.",
+     "explanation": "Sixty pounds belongs to the software course.",
+     "evidenceQuote": "thirty-five pounds for the whole programme",
+     "skillTag": "note_completion",
+     "distractorNote": "The £60 fee is for a different course.",
+     "options": [],
+     "acceptedAnswers": [
+      "35"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Caller’s surname: Rebecca __________.",
+     "explanation": "The surname is Marden.",
+     "evidenceQuote": "My name is Rebecca Marden. That's M-A-R-D-E-N.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Marden"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Bring a document showing the caller’s __________.",
+     "explanation": "Old certificates are not needed at this appointment.",
+     "evidenceQuote": "Bring something with your address on it",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "address"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Appointment building: the __________.",
+     "explanation": "The adviser is not in the main building.",
+     "evidenceQuote": "Come to the annex",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "annex"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Entrance landmark: the __________.",
+     "explanation": "The pharmacy identifies the entrance.",
+     "evidenceQuote": "The entrance is beside the pharmacy.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pharmacy"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam79-lp2",
+   "partNumber": 2,
+   "title": "Starting a home-library delivery round",
+   "contextDescription": "A library coordinator briefs new volunteers who will deliver books to readers unable to visit regularly.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "E01D7748-0862-54B3-B26C-4CEF199E208D",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Thank you for volunteering for the home-library round. The service is for readers who cannot readily reach a branch, whether that is a long-term situation or a temporary difficulty. Your role is to deliver selected library materials and bring back returns. It is not to assess a person's circumstances or decide whether their reasons for using the service are good enough. Library staff have already discussed the arrangement with each reader."
+    },
+    {
+     "id": "CAEB17B7-F4E6-5431-AB14-37D5018538F8",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "We prepare the bags here on Monday, and volunteers collect them on Tuesday morning. A reader may have requested particular titles or asked the librarian to choose from their interests. You don't need to share their taste in books. Please don't replace an unfamiliar title because you think a different one would be more suitable. If a reader wants their choices changed, make a note and pass it to the librarian for the next delivery."
+    },
+    {
+     "id": "FE9586D2-9E16-5D51-B752-584812113DAD",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Each bag contains a delivery sheet with the reader's reference number, the materials and any practical instructions relevant to the visit. Keep that sheet with the bag, and return it to us afterwards. It may contain private contact details, so do not leave it on a car seat where someone else can read it. You should use the information only for the delivery, not to contact readers about unrelated activities."
+    },
+    {
+     "id": "A18C785E-8214-5A40-9041-A3AE9E06FBD3",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Check the reference on the bag before carrying it to each door. Several bags have the same colour, and it is easy to confuse them if you rely on appearance alone. Keeping the correct sheet with its bag prevents an avoidable exchange of one reader's choices with another's."
+    },
+    {
+     "id": "CEF46271-42FB-5EC2-B480-1043CE416634",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "Before setting out, check the route with the coordinator on duty. The order of visits may change if someone has an appointment or has asked us to avoid a particular time. We do not expect you to work out a new arrangement directly with several readers while driving. If a visit cannot go ahead, ring the library from a safe stopping place and we will explain what to do."
+    },
+    {
+     "id": "2BD0E1D5-5324-5995-8EEE-BD0120211B53",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "At a reader's door, show your volunteer card. They have been told to expect someone, but they may not know you personally. Ask where they would like the bag placed, rather than assuming you should go into a particular room. Some readers enjoy a short conversation about books; others prefer a quick exchange. Follow their lead within the agreed visit time, and do not interpret a quiet greeting as unfriendliness."
+    },
+    {
+     "id": "43C09C9F-144E-5284-A96B-0475314080A3",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "If nobody answers, do not leave the bag outside or with a neighbour unless the delivery sheet specifically authorises that arrangement. Bring it back and tell us. A reader may be out unexpectedly, or they may have contacted the library after your route was prepared. We need to check, rather than assume that the books are no longer wanted. You are not expected to investigate the situation yourself."
+    },
+    {
+     "id": "1D50A971-E947-5D58-9E03-FBA61085877C",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "For returns, put items in the separate canvas sack. This keeps them distinct from materials still to be delivered. Do not try to calculate overdue charges at the door. The librarian deals with loan records and any questions about them. If a reader says that a book was already returned, record the title and let staff check the system. A disagreement about a record should not become an argument during a visit."
+    },
+    {
+     "id": "5EAA0065-5CE9-533B-A578-29291D2BF939",
+     "speaker": "Coordinator",
+     "accent": "en-IE",
+     "text": "When you get back, give the sheets and any messages to the staffed desk. We also ask you to report a damaged bag or a heavy load that was difficult to handle, so we can adjust the packing. The service relies on readers being able to express preferences and volunteers knowing the limits of their role. You are providing an important connection to the library, while library staff remain responsible for choosing materials, maintaining records and arranging changes to the service."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam79-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What is outside the volunteer’s role?",
+     "explanation": "Eligibility arrangements are handled by staff.",
+     "evidenceQuote": "not to assess a person's circumstances",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Bringing books back to the library.",
+      "B. Delivering materials selected for a reader.",
+      "C. Judging whether a reader deserves the service."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Judging whether a reader deserves the service.",
+      "Judging whether a reader deserves the service."
+     ]
+    },
+    {
+     "id": "exam79-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What should a volunteer do if a chosen title seems unfamiliar?",
+     "explanation": "The reader’s choices should be respected.",
+     "evidenceQuote": "don't replace an unfamiliar title",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Replace it with a personal favourite.",
+      "B. Deliver the selected title as arranged.",
+      "C. Ask a neighbour to choose another book."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Deliver the selected title as arranged.",
+      "Deliver the selected title as arranged."
+     ]
+    },
+    {
+     "id": "exam79-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why must the delivery sheet be handled carefully?",
+     "explanation": "The sheet includes information that must be kept private.",
+     "evidenceQuote": "It may contain private contact details",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It can contain confidential information.",
+      "B. It is the only copy of the book catalogue.",
+      "C. It must be displayed in the vehicle window."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It can contain confidential information.",
+      "It can contain confidential information."
+     ]
+    },
+    {
+     "id": "exam79-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "What should happen if no reader answers the door?",
+     "explanation": "Unauthorised unattended delivery is not allowed.",
+     "evidenceQuote": "Bring it back and tell us.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Leave the bag outside every time.",
+      "B. Return the bag and report the situation.",
+      "C. Investigate by entering the building."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Return the bag and report the situation.",
+      "Return the bag and report the situation."
+     ]
+    },
+    {
+     "id": "exam79-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "How should a disputed return record be handled?",
+     "explanation": "Staff investigate records; volunteers do not argue at the door.",
+     "evidenceQuote": "let staff check the system",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Calculate a charge immediately.",
+      "B. Refuse all future deliveries.",
+      "C. Record the issue for library staff."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Record the issue for library staff.",
+      "Record the issue for library staff."
+     ]
+    },
+    {
+     "id": "exam79-L16",
+     "number": 16,
+     "format": "Note Completion",
+     "prompt": "Bags are collected by volunteers on __________.",
+     "explanation": "Preparation is Monday; collection is Tuesday.",
+     "evidenceQuote": "collect them on Tuesday morning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "Check the __________ with the duty coordinator.",
+     "explanation": "Visit order may be adjusted.",
+     "evidenceQuote": "check the route",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "route"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "At the door, show a volunteer __________.",
+     "explanation": "The card identifies the volunteer.",
+     "evidenceQuote": "show your volunteer card",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "card"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "Returned items go in a canvas __________.",
+     "explanation": "Returns must remain separate from undelivered items.",
+     "evidenceQuote": "the separate canvas sack",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sack"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Hand messages to the staffed __________.",
+     "explanation": "Staff receive messages after the round.",
+     "evidenceQuote": "to the staffed desk",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "desk"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam79-lp3",
+   "partNumber": 3,
+   "title": "Choosing sources for an educational-history presentation",
+   "contextDescription": "Two students plan a presentation about early distance education.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "31F64B36-B83E-5F29-A477-F86624143F01",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "Our presentation is only twelve minutes, so we need a clear focus. The history of every kind of distance education would be far too broad. I suggest we use the early Open University as a case, and ask how different teaching materials worked together rather than give a complete biography of the institution."
+    },
+    {
+     "id": "8AC62EEF-ED88-5FD9-85C0-063EF901439D",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "That would let us include a broadcast clip and a printed unit. People often remember the television programmes, but if we show only a clip they may think the whole course consisted of watching television. We need something that makes the relationship between broadcasting and other study visible."
+    },
+    {
+     "id": "3C0C09C2-43C9-5BFA-BB40-1D2B4D6BCC04",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "The university's archive has descriptions of study materials as well as programmes. We must check which items are actually available to view, though. A catalogue record can tell us that something exists without giving us access to the complete item. We shouldn't put a source on the slide just because its title looks useful."
+    },
+    {
+     "id": "B90777A1-3C47-5395-B6EC-3607F9904047",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "Let's choose a short programme extract that introduces an idea, then a page that asks the learner to work with it. We could show how a diagram, an explanation and a question create a different activity from simply hearing a presenter. We should identify the course and year for both items, not imply that any two historical examples belonged together."
+    },
+    {
+     "id": "FECD850E-41BA-5C2B-8FDE-1C54B2C6392C",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "Exactly. We also need to distinguish a later recollection from a document produced at the time. An interview with a former student could explain how studying fitted into daily life, but it wouldn't automatically tell us what every student experienced. The personal account is valuable precisely as a particular experience."
+    },
+    {
+     "id": "D667683F-0A92-56B9-891F-848C1544084C",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "For the historical introduction, we can use the Royal Charter date and the year the first students began. That's enough to establish the sequence. We don't need a long list of enrolment figures unless the numbers support our argument. Otherwise, we would spend most of the time reading statistics aloud."
+    },
+    {
+     "id": "70689121-B198-58CE-838F-41A775D419B0",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "Do we have permission to play the clip in the assessed class presentation? The archive may state conditions, and our tutor can advise on the teaching context. We should check before building the whole opening around it. If we cannot use the video, we can describe the relevant feature with a properly referenced still or another permitted format."
+    },
+    {
+     "id": "145F6948-B1E6-5A3B-B35F-D3E8A5656C8A",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "I'll check the item information and ask the tutor. Meanwhile, you can examine the printed unit. Let's each write a short note explaining what a learner is being asked to do. That will keep the analysis focused on activity instead of judging whether the presentation style looks old-fashioned."
+    },
+    {
+     "id": "C980DB2C-3AC2-5ED3-A243-504A2CBE3332",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "For the audience, perhaps we could invite them to try one short question from the unit. But it needs to be brief enough not to turn into a test. We could ask what information they would need to answer it, rather than expect them to solve a specialist problem with no preparation."
+    },
+    {
+     "id": "84ABC578-2500-52C8-AC19-BF3CB539658D",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "I like that. We can leave a minute for them to think, then discuss the kinds of support visible on the page. It would help us explain that independent study doesn't necessarily mean the learner has been left to invent the whole method alone."
+    },
+    {
+     "id": "C2A97355-F834-5453-880E-E33F547686E5",
+     "speaker": "Ravi",
+     "accent": "en-GB",
+     "text": "Our conclusion should be careful about the present. Showing an early printed unit and a broadcast doesn't establish whether online learning today is better or worse. We can say that combining media was already part of the design, rather than treating every new device as the first time education moved beyond a classroom."
+    },
+    {
+     "id": "DD66538A-42B3-5947-9279-E4D5136C4BDD",
+     "speaker": "Nell",
+     "accent": "en-AU",
+     "text": "Then our remaining task is to rehearse the timing. We should practise with the clip included, because it takes part of our twelve minutes. I'll prepare the source list as we go, and we'll check that every image has an explanation of what it contributes rather than just making the slides look historical."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam79-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What focus do Ravi and Nell choose?",
+     "explanation": "They focus on the combination of media.",
+     "evidenceQuote": "how different teaching materials worked together",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The relationship between different teaching materials.",
+      "B. A biography of every early lecturer.",
+      "C. A comparison of all distance-education systems."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The relationship between different teaching materials.",
+      "The relationship between different teaching materials."
+     ]
+    },
+    {
+     "id": "exam79-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What risk arises from showing only a television extract?",
+     "explanation": "The audience might misunderstand the complete study design.",
+     "evidenceQuote": "the whole course consisted of watching television",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The extract would contain no presenter.",
+      "B. The audience would know the printed unit too well.",
+      "C. Broadcasting could appear to be the whole course."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Broadcasting could appear to be the whole course.",
+      "Broadcasting could appear to be the whole course."
+     ]
+    },
+    {
+     "id": "exam79-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why must they examine archive item availability?",
+     "explanation": "A record does not necessarily provide the source itself.",
+     "evidenceQuote": "without giving us access to the complete item",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. All catalogue dates are inaccurate.",
+      "B. A description may exist without accessible full content.",
+      "C. Printed units were never kept in archives."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. A description may exist without accessible full content.",
+      "A description may exist without accessible full content."
+     ]
+    },
+    {
+     "id": "exam79-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "How will a former student’s recollection be used?",
+     "explanation": "A personal account is valuable but not universal.",
+     "evidenceQuote": "as a particular experience",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. As an account of one person’s experience.",
+      "B. As proof of what every student experienced.",
+      "C. As a replacement for all contemporary documents."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. As an account of one person’s experience.",
+      "As an account of one person’s experience."
+     ]
+    },
+    {
+     "id": "exam79-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What will the short audience activity ask people to consider?",
+     "explanation": "The activity concerns the support needed, not an unprepared test.",
+     "evidenceQuote": "what information they would need to answer it",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Whether they deserve a university place.",
+      "B. How quickly they can solve a specialist problem.",
+      "C. What information would be needed for a task."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. What information would be needed for a task.",
+      "What information would be needed for a task."
+     ]
+    },
+    {
+     "id": "exam79-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Identify each item’s course and __________.",
+     "explanation": "The examples should be historically situated.",
+     "evidenceQuote": "the course and year",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "year"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Check archive __________ before relying on a video clip.",
+     "explanation": "Use conditions should be checked.",
+     "evidenceQuote": "The archive may state conditions",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "conditions"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Analyse learner activity, not merely an old-fashioned presentation __________.",
+     "explanation": "The analysis should not stop at appearance.",
+     "evidenceQuote": "the presentation style",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "style"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Leave one __________ for audience thought.",
+     "explanation": "The activity remains short.",
+     "evidenceQuote": "leave a minute",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "minute"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Rehearse with the clip to check __________.",
+     "explanation": "Playback time forms part of the presentation.",
+     "evidenceQuote": "rehearse the timing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "timing"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam79-lp4",
+   "partNumber": 4,
+   "title": "Constructing a reading anthology",
+   "contextDescription": "A lecturer explains the editorial process behind a themed collection of readings.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "34B52F4D-D82C-50E3-9204-70F24CFAA47C",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "An anthology brings separate texts together under an editorial purpose. It can introduce a period, explore a theme or make a range of voices available in one place. The process begins before a list of attractive extracts is assembled. An editor needs to decide what the collection is for and who will read it. A selection useful to an experienced researcher may not provide the same support as one intended for somebody encountering the subject for the first time."
+    },
+    {
+     "id": "CA1198C7-5DF8-5DB5-8A9D-354B8FA6729E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The first practical stage is defining the scope. Suppose the theme is work. That could include paid employment, unpaid care, practical skill or the language of occupations. A collection cannot cover every possibility simply by calling itself comprehensive. State the boundary clearly, then choose texts that make the selected question interesting. A narrow scope can still allow varied forms, such as a letter, an account of a task and a short fictional passage."
+    },
+    {
+     "id": "AAD56345-DB6A-5E45-AA5A-4303FCA77B69",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Next comes selection. A famous extract may deserve a place, but reputation alone does not explain what it contributes. Ask how each item relates to the others. Does it offer a contrasting perspective, develop an earlier idea or complicate an easy distinction? Repeating the same point in several celebrated voices can make a collection look impressive while leaving its range surprisingly limited. Selection requires attention to the relationship between items as well as to their individual quality."
+    },
+    {
+     "id": "FAB9E602-A18F-54DB-980E-EC111BD856B9",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Length matters because an extract is not identical to the complete work. Cutting a passage can remove a qualification or a change of speaker that affects its meaning. Make the limits visible and preserve enough context for a reader to understand what kind of text they are encountering. A short introduction can identify the work, its date and the location of the extract without telling the reader in advance what every sentence must mean."
+    },
+    {
+     "id": "15BD9311-1445-5E6B-A54C-9AC9DF383FDD",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Arrangement creates another layer of interpretation. Chronological order can make change over time easy to follow, while thematic groupings can place distant periods in conversation. Neither is neutral in the sense of having no effect. An editor should choose deliberately and explain the organising principle. A contents page then becomes more than a convenient list: it shows the reader a possible route through the subject while allowing them to read individual items in another order."
+    },
+    {
+     "id": "FDBBBA73-301F-57A6-B526-5692ED005D49",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Annotations should solve particular problems. A note may explain an unfamiliar reference, identify an allusion or distinguish a historical use of a word from a current one. Notes that merely repeat the extract in longer language can interrupt reading without adding much. The editor needs to judge what the intended audience can reasonably understand and where assistance is useful. That judgement may be tested by asking someone new to the material which details prevented them from following it."
+    },
+    {
+     "id": "87EB5EB9-267D-549E-AE6F-13F252DB9E2B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The production process includes checking quotations against the source and keeping accurate references. If the text is translated, identify the translator and the version used. If spelling or punctuation has been modernised, state that policy rather than leaving the reader to assume the reproduction is exact. Permissions and publication arrangements must also be settled through the appropriate process. Editorial enthusiasm does not itself establish that an extract can be reproduced in whatever form the editor prefers."
+    },
+    {
+     "id": "63393C61-11BC-5E79-9178-FB86D2F742D0",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, review the collection as a whole. An item may be excellent but duplicate a role already performed by another. An important perspective may be mentioned in the introduction yet absent from the actual readings. The anthology should deliver the encounter it promises, while acknowledging its limits. It is not merely a container filled with texts. Through selection, framing, sequence and notes, it becomes an argument about what is worth bringing into relation and what a reader might discover by moving between the parts."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam79-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "An anthology serves an editorial __________.",
+     "explanation": "The purpose should guide the selection.",
+     "evidenceQuote": "under an editorial purpose",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "purpose"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "First define the collection’s __________.",
+     "explanation": "Boundaries should be explicit.",
+     "evidenceQuote": "defining the scope",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scope"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "An extract’s __________ alone does not justify inclusion.",
+     "explanation": "Selection should consider what an item contributes.",
+     "evidenceQuote": "reputation alone",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "reputation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "An extract needs sufficient __________.",
+     "explanation": "Cutting should not distort understanding.",
+     "evidenceQuote": "preserve enough context",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "context"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "State the organising __________.",
+     "explanation": "Readers should understand the chosen arrangement.",
+     "evidenceQuote": "the organising principle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "principle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "A contents page can offer a __________ through the subject.",
+     "explanation": "The sequence shapes the encounter.",
+     "evidenceQuote": "a possible route",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "route"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "An annotation may explain a historical word __________.",
+     "explanation": "Notes should solve a particular difficulty.",
+     "evidenceQuote": "a historical use of a word",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "use"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "For translated texts, identify the __________.",
+     "explanation": "Translation attribution is part of the record.",
+     "evidenceQuote": "identify the translator",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "translator"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "State any policy of modernising spelling or __________.",
+     "explanation": "Changes to the source should be declared.",
+     "evidenceQuote": "spelling or punctuation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "punctuation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Review whether any important __________ is absent.",
+     "explanation": "The selection should fulfil its promise.",
+     "evidenceQuote": "An important perspective",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "perspective"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam79-rp1",
+   "passageNumber": 1,
+   "title": "A university beyond the lecture hall",
+   "discipline": "Educational History",
+   "paragraphs": [
+    "In 1969, the United Kingdom's Open University received its Royal Charter. Its first students began studying in 1971. Those dates mark the establishment of an institution, but the more interesting change concerned the relationship between university study and place. A learner did not have to spend every working day on a conventional campus to participate. The university was designed to bring structured higher education into lives that might include paid employment, domestic responsibilities or distance from a university town. Teaching had to be organised around that possibility rather than assuming the familiar timetable of a full-time residential student.",
+    "Broadcasting was a conspicuous part of the plan. The idea of a university reaching people through television and radio had a strong public identity, and BBC programmes made the institution visible to viewers who were not registered students. Yet the broadcast was not the entire course. Official plans in 1969 described a combination that included correspondence tuition and tutorials at local study centres. The printed material, the work expected from students and the arrangements for support were integral, not optional additions to an otherwise complete television education. A screen could bring a demonstration into a home without performing every function of a university.",
+    "The preparation of those materials involved several forms of expertise. Academic content had to become a sequence a learner could work through, with explanations, diagrams and activities serving identifiable purposes. The Open University's historical accounts describe course teams rather than an isolated lecturer simply placing spoken lectures on paper. This distinction matters. A text written for independent study has to anticipate moments when the author is not present to answer a question, while still giving the learner a meaningful activity rather than an unbroken stream of information to absorb.",
+    "Science presented a particularly concrete challenge. If study happened at home, how could a learner encounter practical work rather than only read about it? The early university sent home experiment kits as part of its teaching arrangements. These did not make a kitchen identical to a professional laboratory, but they show that distance education was not understood merely as passive listening. The question was how different kinds of activity could be organised across places. A broadcast could show a process, a text could prepare a task, and materials could make an appropriate practical attempt possible within the design of a course.",
+    "The institution also had an administrative and production home. Staff moved to Walton Hall in Milton Keynes in 1969, while the broadcasting partnership required places and people to make programmes. It is therefore misleading to imagine that a university without daily student residence had no physical infrastructure. Distance for the learner could depend on substantial organisation elsewhere. The visible moment of a presenter speaking on television rested on preparation, editing, distribution and support. Understanding the model requires attention to that system rather than treating the absence of one familiar campus routine as the absence of institutional work.",
+    "Demand was substantial before teaching began. The university's historical record gives 42,821 applications for 25,000 available first-year places by the August 1970 closing date. The figures show interest in the opportunity, not a guarantee that every applicant would have an identical experience or complete the same path. Part-time study could be fitted around other commitments, but those commitments did not disappear. The possibility of learning at another location changed access while leaving practical questions about time, space and support for individuals and households to negotiate.",
+    "The surviving archive makes parts of this history available through course texts, broadcasts and other records. Such material allows later observers to examine the design rather than rely only on the distinctive appearance of old television programmes. A programme can reveal what was presented, while a study unit can show what a learner was asked to do. Personal recollections can add how the arrangement fitted a particular life. These are related perspectives, not interchangeable sources. Together they make the early model more substantial than a nostalgic image of an academic addressing an empty studio.",
+    "The historical achievement was consequently not the discovery of one device that could replace every classroom activity. It was the creation of an institution around a combination of media, support and expectations. New technologies have altered the available methods, but the early example remains instructive because it separates access from simple transmission. Sending content to a distant person is one part of education. Designing a coherent route through it, with purposeful activity and opportunities for response, is another. The Open University's early years made that organisational problem visible on an unusually large public stage."
+   ],
+   "questions": [
+    {
+     "id": "exam79-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Open University received its charter before its first students began studying.",
+     "explanation": "The charter dates to 1969; teaching began in 1971.",
+     "evidenceQuote": "In 1969",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam79-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The original model required every student to live on a university campus.",
+     "explanation": "The institution was designed for study beyond residential arrangements.",
+     "evidenceQuote": "did not have to spend every working day on a conventional campus",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam79-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Television programmes alone constituted the complete early course.",
+     "explanation": "Print, tasks and support were integral.",
+     "evidenceQuote": "the broadcast was not the entire course",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam79-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Home experiment kits formed part of early science teaching.",
+     "explanation": "Practical activity was included.",
+     "evidenceQuote": "sent home experiment kits",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam79-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Walton Hall housed exactly half the university’s staff in 1969.",
+     "explanation": "The proportion of staff is not stated.",
+     "evidenceQuote": "Staff moved to Walton Hall",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam79-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Applications exceeded available first-year places in August 1970.",
+     "explanation": "The application figure is greater than the number of places.",
+     "evidenceQuote": "42,821 applications for 25,000 available first-year places",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam79-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Students who watched broadcasts completed courses faster than those using printed texts.",
+     "explanation": "The passage reports no comparison of completion speeds.",
+     "evidenceQuote": "a combination of media",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam79-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "The university gained its Royal __________ in 1969.",
+     "explanation": "The charter established the institution.",
+     "evidenceQuote": "Royal Charter",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Charter"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "The BBC partnership made teaching visible through __________.",
+     "explanation": "Programmes were part of the publicly visible model.",
+     "evidenceQuote": "BBC programmes",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "programmes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Official plans also included local study-centre __________.",
+     "explanation": "Face-to-face support formed part of the planned combination.",
+     "evidenceQuote": "tutorials at local study centres",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tutorials"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "Course preparation involved __________ rather than only isolated lecturers.",
+     "explanation": "Several forms of expertise contributed.",
+     "evidenceQuote": "course teams",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "teams"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "A distant learner could rely on physical __________ elsewhere.",
+     "explanation": "Distance learning still required institutional facilities.",
+     "evidenceQuote": "physical infrastructure",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "infrastructure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Personal __________ can illuminate how study fitted one life.",
+     "explanation": "Individual memories add a distinct historical perspective.",
+     "evidenceQuote": "Personal recollections",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "recollections"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 761,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the statements agree with the information in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  },
+  {
+   "id": "exam79-rp2",
+   "passageNumber": 2,
+   "title": "Collecting the published record",
+   "discipline": "Library Institutions",
+   "paragraphs": [
+    "A library collection can be shaped by what readers request, what staff select and what publishers supply through a legal-deposit system. These are not identical routes into a collection. Legal deposit aims to preserve a published record for future use, including works whose later significance is not yet apparent. In the United Kingdom, a long-standing print tradition was reaffirmed by the Legal Deposit Libraries Act 2003. Regulations made in 2013 extended the framework to specified non-print publications. The distinction between preserving a record and predicting demand helps explain why this form of collecting differs from buying only the books expected to be borrowed most often.",
+    "The six libraries named in the UK arrangements include the British Library, the national libraries of Scotland and Wales, the Bodleian Libraries, Cambridge University Library and Trinity College Library Dublin. The historical arrangements are therefore not simply a store in one capital city. The 2013 government guidance described print copies going to the British Library and, on request, to the other five. This distribution has an institutional purpose: the published record becomes part of enduring research collections rather than depending solely on whether a publisher continues to keep a commercial title available for sale.",
+    "The print categories in the 2003 Act are wider than a shelf of hardback books. They include pamphlets, magazines, newspapers, sheets of music and maps, among other specified forms. That breadth matters to future enquiry. A modest pamphlet may record a local debate; a map may reveal how a place was represented; a periodical may preserve routine language and concerns. These are possible research uses, not predictions that every deposited item will become famous. A preservation system can retain material before anyone knows which questions a later reader will bring to it.",
+    "Digital publication changed the material problem. An electronic journal or website can carry a published work without producing a paper copy that can simply be put on a shelf. The 2013 regulations addressed specified online and offline non-print works. Their scope was not the same as collecting every private digital file. The regulations excluded, for example, personal data made available only to a restricted group, and works consisting solely of sound recordings or film. The published framework therefore drew boundaries around what counted for this purpose, rather than equating everything stored on a computer with a publication to be deposited.",
+    "Collecting a digital work does not, by itself, make it permanently usable. Files need information and processes that allow them to be identified and opened as technology changes. The preservation problem can involve the relationship between content and the software or structure through which it was presented. A website is not always equivalent to a loose set of printed pages, because links and changing components can affect the encounter. The institutional task is consequently more than moving storage from a building to a hard drive. It requires sustained attention to the form in which the record can remain intelligible.",
+    "Access is another separate question. The framework for non-print deposit established controlled access rather than automatic unrestricted distribution over the internet. A catalogue visible from home can describe an item without granting remote reading of the deposited content. This distinction can surprise a reader who assumes that a digital object must be freely downloadable wherever its record can be found. Preservation and public availability are related aims, but they operate within different arrangements. Service availability can also change, so an institutional description of the framework is not a promise that every item is accessible at every moment.",
+    "The value of such a collection often appears through combinations. A later researcher may compare publications from different years, trace a small organisation or examine a form of expression that received little attention when it first appeared. Selecting only what seems important now would shape that future enquiry in advance. This does not eliminate the practical limits of collecting, describing and preserving material. It gives a reason for treating the published record as more than a list of current bestsellers. The apparent ordinariness of an item can be part of its later interest.",
+    "Legal deposit thus connects publishing with a responsibility to the future, while leaving libraries substantial work to do. Receipt, preservation, description and access are stages with different requirements. The historical move into non-print collecting did not abolish those distinctions; it made some of them more visible. Understanding the institution requires keeping its purpose separate from an assumption that every deposit will be read immediately or distributed without restriction. A collection can serve public knowledge over time precisely because it is not limited to the demands and judgements of the moment in which each work appears."
+   ],
+   "questions": [
+    {
+     "id": "exam79-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "B describes the institutional distribution of the arrangement.",
+     "evidenceQuote": "The six libraries named",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A collection distributed among institutions",
+      "A collection distributed among institutions"
+     ]
+    },
+    {
+     "id": "exam79-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "C examines the breadth of print forms and possible later uses.",
+     "evidenceQuote": "wider than a shelf of hardback books",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. The range of print beyond conventional books",
+      "The range of print beyond conventional books"
+     ]
+    },
+    {
+     "id": "exam79-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "D describes the extension to specified digital works and its limits.",
+     "evidenceQuote": "Digital publication changed the material problem.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Defining the reach of digital collecting",
+      "Defining the reach of digital collecting"
+     ]
+    },
+    {
+     "id": "exam79-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "E concerns maintaining digital intelligibility.",
+     "evidenceQuote": "does not, by itself, make it permanently usable",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Keeping electronic material usable",
+      "Keeping electronic material usable"
+     ]
+    },
+    {
+     "id": "exam79-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "F distinguishes preserving content from unrestricted access.",
+     "evidenceQuote": "Access is another separate question.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Why a digital record does not guarantee remote access",
+      "Why a digital record does not guarantee remote access"
+     ]
+    },
+    {
+     "id": "exam79-R19",
+     "number": 19,
+     "format": "Matching Information",
+     "prompt": "a distinction between collecting for preservation and purchasing according to demand",
+     "explanation": "A explains the different purpose of legal deposit.",
+     "evidenceQuote": "predicting demand",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A",
+      "A"
+     ]
+    },
+    {
+     "id": "exam79-R20",
+     "number": 20,
+     "format": "Matching Information",
+     "prompt": "examples of the research value of modest printed forms",
+     "explanation": "C gives possible uses of pamphlets, maps and periodicals.",
+     "evidenceQuote": "A modest pamphlet may record a local debate",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam79-R21",
+     "number": 21,
+     "format": "Matching Information",
+     "prompt": "a reason to retain apparently ordinary publications",
+     "explanation": "G considers future questions not apparent at publication.",
+     "evidenceQuote": "The apparent ordinariness of an item can be part of its later interest.",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "exam79-R22",
+     "number": 22,
+     "format": "Matching Information",
+     "prompt": "a summary of distinct stages following the act of publication",
+     "explanation": "H lists different institutional tasks.",
+     "evidenceQuote": "Receipt, preservation, description and access",
+     "skillTag": "matching_information",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "H",
+      "H. H",
+      "H"
+     ]
+    },
+    {
+     "id": "exam79-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What did the 2013 regulations do in the account given?",
+     "explanation": "They extended collecting within specified categories.",
+     "evidenceQuote": "extended the framework to specified non-print publications",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Abolished legal deposit of print.",
+      "B. Extended the framework to specified non-print works.",
+      "C. Required every private computer file to be collected.",
+      "D. Made all deposited works freely downloadable."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Extended the framework to specified non-print works.",
+      "Extended the framework to specified non-print works."
+     ]
+    },
+    {
+     "id": "exam79-R24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why does the passage mention pamphlets and maps?",
+     "explanation": "They illustrate the range of covered printed material.",
+     "evidenceQuote": "wider than a shelf of hardback books",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. To show that fiction is always excluded.",
+      "B. To recommend replacing book collections.",
+      "C. To identify the most profitable publications.",
+      "D. To demonstrate the breadth of printed forms."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. To demonstrate the breadth of printed forms.",
+      "To demonstrate the breadth of printed forms."
+     ]
+    },
+    {
+     "id": "exam79-R25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does a remotely visible catalogue record necessarily provide?",
+     "explanation": "The description and the right to read content are distinct.",
+     "evidenceQuote": "describe an item without granting remote reading",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Information describing the item.",
+      "B. Permission to download all content.",
+      "C. A guarantee of continuous availability.",
+      "D. The software needed to reproduce the website."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Information describing the item.",
+      "Information describing the item."
+     ]
+    },
+    {
+     "id": "exam79-R26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What risk follows from collecting only works considered important now?",
+     "explanation": "Present judgements would restrict future research possibilities.",
+     "evidenceQuote": "shape that future enquiry in advance",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every item would become a bestseller.",
+      "B. No library would need descriptions.",
+      "C. Future research would be limited by present judgements.",
+      "D. Readers would no longer ask questions about the past."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Future research would be limited by present judgements.",
+      "Future research would be limited by present judgements."
+     ]
+    }
+   ],
+   "estimatedWordCount": 775,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Choose the correct heading for paragraphs B–F.",
+     "options": [
+      "i. Defining the reach of digital collecting",
+      "ii. Choosing only commercially successful titles",
+      "iii. A collection distributed among institutions",
+      "iv. Why a digital record does not guarantee remote access",
+      "v. Replacing every printed item with an audio file",
+      "vi. The range of print beyond conventional books",
+      "vii. Keeping electronic material usable"
+     ]
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Which paragraph contains the following information? Write A–H. You may use a letter more than once."
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  },
+  {
+   "id": "exam79-rp3",
+   "passageNumber": 3,
+   "title": "Must adult study mean studying alone?",
+   "discipline": "Adult Education",
+   "paragraphs": [
+    "The phrase independent learning can carry two different expectations. It may mean that an adult has a meaningful role in planning and judging their study, or it may mean that they should manage without help. These meanings should not be confused. In my view, the aim of adult education is not to prove that a learner can remain isolated. It is to support increasing agency while recognising that a person can make responsible choices, ask questions and use shared resources at the same time. Independence concerns the relationship to assistance, not the total absence of it.",
+    "An adult returning to formal study may possess substantial knowledge from work, care, practical activity or community life. That experience does not automatically include familiarity with academic conventions. Asking for clarification about a reference style or an assignment brief is not evidence that the person lacks ideas. Nor should a provider assume that every returning learner has the same difficulty. A useful opening conversation can distinguish what the learner already brings from the particular practices they want or need to develop. Treating all adults as either experts in everything or beginners in everything is equally unhelpful.",
+    "Choice has value when it is informed. Offering a long list of courses without explaining their demands may create the appearance of freedom while leaving a prospective student unable to judge feasibility. In my view, providers should describe likely workloads, available support and the nature of assessment clearly. This does not require predicting exactly how every individual will experience the course. It requires giving people enough information to compare the commitment with their circumstances and ask further questions. A decision to postpone study after receiving accurate information can be a reasonable exercise of agency rather than a failure to participate.",
+    "Structure can support that agency. A sequence of smaller tasks may help a learner approach a large assignment, while clear milestones can make a long period of study manageable. The structure becomes restrictive when it is treated as the only acceptable way of organising every person's time. Where possible, the distinction should be between requirements essential to the learning goal and arrangements adopted for administrative convenience. I would not remove every deadline, but neither would I assume that a fixed schedule is educationally necessary merely because an institution has always used it.",
+    "Peer contact is another resource. A study group can provide opportunities to explain an idea, compare interpretations and realise that a question is shared. It can also create pressure if participation requires revealing private circumstances or if one confident member defines the group's understanding. The answer is not compulsory sociability or complete isolation. It is to organise opportunities with clear purposes and reasonable boundaries. In my view, a learner should know why an activity is collaborative and how they can seek help if the arrangement prevents rather than supports their participation.",
+    "Technology does not settle these questions by itself. A recorded explanation can be revisited at a convenient time, but the learner may still need a way to ask about a difficulty. A live online meeting can enable discussion while excluding someone whose connection or schedule makes attendance unreliable. Describing a course as flexible therefore needs more detail than naming the device through which it is delivered. Flexibility is experienced through arrangements: when tasks are available, how questions are answered and what alternatives exist when the usual route does not work.",
+    "There should also be room for changing needs. Someone may require close guidance when learning an unfamiliar convention and later use it independently. Another may know the convention but need an adjustment to access the material. Neither pattern justifies a permanent label of dependent or independent learner. Support should be discussed in relation to the task and the circumstances, with opportunities for review. I believe an institution demonstrates respect when it can provide assistance without turning the request into a judgement about the person's general ability or motivation.",
+    "Adult learning is consequently a negotiated practice, not a test of self-sufficiency detached from real life. Learners have responsibilities to engage, communicate difficulties where they can and examine feedback. Providers have responsibilities to make expectations clear and assistance usable. In my view, independence develops through this relationship when people gain a stronger capacity to choose, act and reflect. A person who can identify the right question and seek appropriate help may be exercising more judgement than someone who silently follows an unsuitable plan simply to appear capable of coping alone."
+   ],
+   "questions": [
+    {
+     "id": "exam79-R27",
+     "number": 27,
+     "format": "Yes / No / Not Given",
+     "prompt": "Independent learning should be understood as avoiding all assistance.",
+     "explanation": "Agency can coexist with appropriate help.",
+     "evidenceQuote": "not to prove that a learner can remain isolated",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam79-R28",
+     "number": 28,
+     "format": "Yes / No / Not Given",
+     "prompt": "Practical experience guarantees knowledge of academic conventions.",
+     "explanation": "The two kinds of knowledge should not be conflated.",
+     "evidenceQuote": "does not automatically include familiarity with academic conventions",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam79-R29",
+     "number": 29,
+     "format": "Yes / No / Not Given",
+     "prompt": "Postponing a course can be a sensible response to accurate workload information.",
+     "explanation": "Non-enrolment can be an informed choice.",
+     "evidenceQuote": "a reasonable exercise of agency",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam79-R30",
+     "number": 30,
+     "format": "Yes / No / Not Given",
+     "prompt": "Every adult course should use the same reference style.",
+     "explanation": "The writer discusses asking for clarification, not a universal referencing system.",
+     "evidenceQuote": "clarification about a reference style",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam79-R31",
+     "number": 31,
+     "format": "Yes / No / Not Given",
+     "prompt": "A fixed schedule is necessarily justified because an institution has always used it.",
+     "explanation": "Habit alone does not demonstrate educational necessity.",
+     "evidenceQuote": "merely because an institution has always used it",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam79-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The need for assistance can change with the task and circumstances.",
+     "explanation": "The writer favours reviewing needs rather than fixed labels.",
+     "evidenceQuote": "in relation to the task and the circumstances",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam79-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer identify as an unhelpful view of returning adults?",
+     "explanation": "Both blanket assumptions ignore particular experience and needs.",
+     "evidenceQuote": "either experts in everything or beginners in everything",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They may have community experience.",
+      "B. They can ask about an assignment.",
+      "C. They must be uniformly expert or uniformly inexperienced.",
+      "D. Their knowledge can differ between areas."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They must be uniformly expert or uniformly inexperienced.",
+      "They must be uniformly expert or uniformly inexperienced."
+     ]
+    },
+    {
+     "id": "exam79-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "What makes a list of course options insufficient for informed choice?",
+     "explanation": "Feasibility requires knowing what the options involve.",
+     "evidenceQuote": "without explaining their demands",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The demands may not be explained.",
+      "B. All lists necessarily contain false titles.",
+      "C. Adults never want more than one option.",
+      "D. A provider must predict every result exactly."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The demands may not be explained.",
+      "The demands may not be explained."
+     ]
+    },
+    {
+     "id": "exam79-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "What concern is raised about peer groups?",
+     "explanation": "Group arrangements can create pressure and dominance.",
+     "evidenceQuote": "one confident member defines the group's understanding",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They cannot allow ideas to be explained.",
+      "B. They always require a specialist device.",
+      "C. They remove every opportunity to ask questions.",
+      "D. A dominant participant may limit the exchange."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. A dominant participant may limit the exchange.",
+      "A dominant participant may limit the exchange."
+     ]
+    },
+    {
+     "id": "exam79-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer mean by technological flexibility?",
+     "explanation": "Devices alone do not determine flexible access.",
+     "evidenceQuote": "Flexibility is experienced through arrangements",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Every online meeting is equally accessible.",
+      "B. Practical arrangements matter beyond the device used.",
+      "C. A recording eliminates all need for questions.",
+      "D. Students should organise institutional systems themselves."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Practical arrangements matter beyond the device used.",
+      "Practical arrangements matter beyond the device used."
+     ]
+    },
+    {
+     "id": "exam79-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "Independent study should increase the learner’s __________.",
+     "explanation": "Agency concerns meaningful choice and judgement.",
+     "evidenceQuote": "support increasing agency",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "agency"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Smaller tasks and clear __________ may make a long assignment manageable.",
+     "explanation": "Structure can support progress.",
+     "evidenceQuote": "clear milestones",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "milestones"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Support needs should be open to __________.",
+     "explanation": "Needs should not become permanent labels.",
+     "evidenceQuote": "opportunities for review",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "review"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam79-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Appropriate help can show sound __________ rather than inability.",
+     "explanation": "Choosing useful help can demonstrate independent reasoning.",
+     "evidenceQuote": "exercising more judgement",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "judgement"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 743,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Do the statements agree with the writer’s views? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary. Choose ONE WORD ONLY from the passage."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam79-w1",
+  "title": "Joining an adult learning programme",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram shows the procedure used by a fictional college to enrol an adult learner on a preparation programme. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Learner sends an expression of interest",
+   "College provides a programme information sheet",
+   "Learner attends an advice appointment",
+   "Suitable schedule and support arrangements are agreed",
+   "Learner submits a registration form",
+   "College confirms a place and issues a student number",
+   "Learner receives introductory resources",
+   "Learner attends the first teaching session"
+  ],
+  "keyOverviewPoints": [
+   "The process begins with an enquiry and ends with attendance at the first session.",
+   "Information and advice precede formal registration, and resources are issued after a place is confirmed."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam79-w2",
+  "title": "Support for adults returning to education",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Education",
+  "promptText": "Some adults would like to return to formal education but find it difficult to begin or continue a course. What problems can prevent them from studying, and what measures could education providers take to help?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam79-spk",
+  "theme": "Returning to an interest",
+  "part1Questions": [
+   "Is there a subject you would like to study again?",
+   "Do you prefer printed study materials or digital ones?",
+   "Where can adults learn new things in your area?",
+   "What helps you organise time for an interest?",
+   "Do you enjoy discussing what you have learned?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an interest you returned to after not pursuing it for some time.",
+   "bulletPoints": [
+    "what the interest was",
+    "why you had stopped",
+    "what helped you return",
+    "and explain what the experience was like"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people return to education later in life?",
+   "How can institutions recognise learning outside school?",
+   "What makes a course flexible in practice?",
+   "Should adult learners have different support from younger students?",
+   "How might a community benefit when more adults have opportunities to study?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "OpenAI Codex — original authored IELTS-style material",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Listening institutions, courses and people are fictional. Reading 1 historical facts checked against Open University archives and official historical publications. Reading 2 describes the historical purpose and 2003/2013 UK legal-deposit framework, not legal advice or a promise of current service availability. Task 1 is a fictional admissions process.",
+   "References: https://about.open.ac.uk/sites/about.open.ac.uk/files/files/about-annual-report-2009.pdf ; https://www.open.ac.uk/library/digital-archive/exhibition/301/theme/2/page/2 ; https://www.open.ac.uk/library/digital-archive/collections ; https://api.parliament.uk/historic-hansard/commons/1969/jan/27/open-university-report ; https://www.open.edu/openlearn/course/view.php?id=9632 ; https://www.gov.uk/government/publications/guidance-on-the-legal-deposit-libraries-non-print-works-regulations-2013 ; https://www.legislation.gov.uk/ukpga/2003/28/section/1 ; https://www.legislation.gov.uk/uksi/2013/777/regulation/13/made ; https://www.nls.uk/about-us/who-and-what/legal-deposit/legal-deposit-explained/",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

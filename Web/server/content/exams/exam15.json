@@ -1,0 +1,2320 @@
+{
+ "id": "exam15",
+ "examNumber": 15,
+ "pool": "mock",
+ "title": "Mock Exam 15: Marketing, Advertising & Consumer Behaviour",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Marketing, Advertising & Consumer Behaviour",
+ "listeningParts": [
+  {
+   "id": "exam15-lp1",
+   "partNumber": 1,
+   "title": "Joining a product-testing panel",
+   "contextDescription": "A man phones a market research company to sign up as a product tester.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "201F99FE-9F39-5C03-801E-5901A75E29C8",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good morning, Brightside Research, Sophie speaking. How can I help?"
+    },
+    {
+     "id": "C51FC116-8969-5C5E-8631-AB4BA2513FBE",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hello. I heard an advert on the radio about joining a consumer panel and testing new products. Is that you?"
+    },
+    {
+     "id": "8914D723-C11C-5882-9170-6A5DFDA26EE5",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Yes, that's us. We run tasting and testing sessions for food and household companies who want feedback on new products before they go on sale. I can explain how it works and take a few details, if you like."
+    },
+    {
+     "id": "F7C54DF9-12BC-5E42-B657-D5514909FA80",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That would be great."
+    },
+    {
+     "id": "676AD112-4A36-5647-A09F-86AF2F7C01E6",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "So, there are two ways of taking part. The first is online surveys, which you can do at home whenever you like. Those take about twenty minutes and pay fifteen pounds each. The second is our in-person sessions, where you come to our testing centre and try products while our researchers observe. Those last around ninety minutes, and they pay twenty-five pounds."
+    },
+    {
+     "id": "69B5E5B0-CA94-5C39-8828-BC5C0B8FE31E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I think I'd be more interested in the in-person ones. How is the money paid?"
+    },
+    {
+     "id": "E9CE0A46-7432-5139-8B27-44053860FCA4",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "We don't pay cash, I'm afraid. Everyone receives shopping vouchers, which you can use in most high street stores. They're emailed to you within a week of the session."
+    },
+    {
+     "id": "485922D4-1211-5584-AA0C-C5DC247FAA8B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's fine. And where's the testing centre?"
+    },
+    {
+     "id": "8671F169-C3E7-508C-863B-4CCBD264583B",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "We're on the second floor of Carlton House, which is the tall glass building opposite the cathedral. There's no parking at the building itself, but there's a multi-storey car park about two minutes' walk away."
+    },
+    {
+     "id": "73F009F3-D94F-57C1-BC8D-1DC3E5CEDA13",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Okay, I know where that is. How many people are there in each session?"
+    },
+    {
+     "id": "436516EF-B332-5441-B286-B14A6CE8A04D",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Usually between eight and twelve, but you each have your own small booth, so you don't talk to each other during the test. That way, nobody's opinion is influenced by anyone else's. Shall I take your details now?"
+    },
+    {
+     "id": "E486C610-E05B-524C-A0FF-3FAC6C1F1EBF",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, please."
+    },
+    {
+     "id": "87F6284F-0102-554D-A2DC-AB3A45C9B00E",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Lovely. Could I have your full name?"
+    },
+    {
+     "id": "B174696F-E161-5FB7-A065-D5E0606FA186",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Marcus Whitlow. That's W-H-I-T-L-O-W."
+    },
+    {
+     "id": "1DC6E9AE-A83C-5766-B462-8D526DDE660A",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you. And your age, Mr Whitlow? We ask because many companies want feedback from particular age groups."
+    },
+    {
+     "id": "E02D69F4-EE3D-56BC-BB97-EE8F495761DF",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'm thirty-four. My wife's thirty-one, actually, and she might want to join too, but she can ring you herself."
+    },
+    {
+     "id": "1AA5892E-81ED-56A1-8DF8-DD16390F3106",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Of course. And what's your address?"
+    },
+    {
+     "id": "18232543-A216-5E0C-8DD0-726673F3F6AC",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Twenty-seven Elmwood Road, in Ashford. Elmwood is spelt as it sounds, E-L-M-W-O-O-D."
+    },
+    {
+     "id": "467AF859-D840-51D8-9073-77DD90914D0B",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thank you. And what do you do for a living?"
+    },
+    {
+     "id": "0F3E5DA9-0FF8-51AF-985B-6A8AD1677D3B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'm a nurse at the general hospital, so I work shifts."
+    },
+    {
+     "id": "A9720F90-D2FD-57A4-BCEF-2C3258DF712F",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "That's useful to know, because sessions run at different times of day. Which days are usually best for you?"
+    },
+    {
+     "id": "DBA33697-86A4-5DDB-A716-9CA67922B2E3",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "My shifts change every month, but I'm almost never working on Thursdays, so Thursday would be the safest choice."
+    },
+    {
+     "id": "7A2B6C72-6401-5C64-878B-3EE58FFB0353",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Thursday, then. Now, we have several categories of product. Are there any you'd particularly like to test?"
+    },
+    {
+     "id": "0FDF009D-47E6-587D-88B5-813243FD211C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "What sort of things are there?"
+    },
+    {
+     "id": "DCB8495C-880A-5648-8573-69538DCE0998",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "At the moment, we're doing a lot of work on breakfast cereals, soft drinks, cleaning products and pet food. Don't worry, you don't have to taste the pet food! For that one, we just ask people to look at the packaging and tell us what they think."
+    },
+    {
+     "id": "B2695B45-4006-5B2E-AE52-A32FD0BA5CAC",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Ha! I think I'd go for cereals. I eat them every morning, so I'd have plenty to say."
+    },
+    {
+     "id": "7EE5A291-D064-56DD-94CA-23B3BA9A3A97",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Perfect, cereals it is. Do you have any food allergies or follow a special diet?"
+    },
+    {
+     "id": "AC7060EE-0508-5D15-A052-74EB7BC7B6F5",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "No, nothing like that."
+    },
+    {
+     "id": "DAF4E07B-4D33-55DB-9F5A-8956714EAD35",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Good. Just one more thing about the sessions themselves. Because many of the tests involve tasting and smelling, we ask people not to smoke or drink coffee for an hour beforehand. And please don't wear perfume or aftershave on the day, as strong smells can affect other people's results too."
+    },
+    {
+     "id": "9FF01723-0793-5DE2-A09E-28BEFB951EDF",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Right, no aftershave. That's no problem."
+    },
+    {
+     "id": "0CB92060-1A5C-5FB8-84E0-6569FCE69DC6",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "And finally, you said you heard about us on the radio?"
+    },
+    {
+     "id": "317D9EC0-4F0A-56D9-9860-E9232294CD2B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, on the local station, during the traffic news on my way to work."
+    },
+    {
+     "id": "6F73D5FF-D2E8-559F-AD1D-66BAC75B4B65",
+     "speaker": "Agent",
+     "accent": "en-GB",
+     "text": "Great. I'll email you a short questionnaire about your shopping habits this afternoon, and once you've completed it, we'll invite you to your first session, probably within the next three weeks."
+    },
+    {
+     "id": "B68A4D86-E94B-5FDB-A9B1-476D7354BC86",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Thanks very much. I'm looking forward to it."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam15-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Payment for each in-person session: £__________",
+     "explanation": "In-person sessions pay £25.",
+     "evidenceQuote": "Those last around ninety minutes, and they pay twenty-five pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£15 is the payment for an online survey.",
+     "options": [],
+     "acceptedAnswers": [
+      "25",
+      "twenty-five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Payment is made in shopping __________",
+     "explanation": "Testers receive shopping vouchers.",
+     "evidenceQuote": "Everyone receives shopping vouchers",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "vouchers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Testing centre: Carlton House, opposite the __________",
+     "explanation": "Carlton House is opposite the cathedral.",
+     "evidenceQuote": "the tall glass building opposite the cathedral",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "cathedral"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Whitlow.",
+     "evidenceQuote": "It's Marcus Whitlow. That's W-H-I-T-L-O-W.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Whitlow"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Age: __________",
+     "explanation": "He is 34.",
+     "evidenceQuote": "I'm thirty-four.",
+     "skillTag": "numbers",
+     "distractorNote": "31 is his wife's age.",
+     "options": [],
+     "acceptedAnswers": [
+      "34",
+      "thirty-four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Address: 27 __________ Road, Ashford",
+     "explanation": "He lives on Elmwood Road.",
+     "evidenceQuote": "Twenty-seven Elmwood Road, in Ashford.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Elmwood"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Occupation: __________",
+     "explanation": "He is a nurse.",
+     "evidenceQuote": "I'm a nurse at the general hospital",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "nurse"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Most convenient day: __________",
+     "explanation": "He is rarely working on Thursdays.",
+     "evidenceQuote": "so Thursday would be the safest choice",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Thursday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Product category chosen: breakfast __________",
+     "explanation": "He chooses cereals.",
+     "evidenceQuote": "I think I'd go for cereals.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "cereals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "On the day, do not wear perfume or __________",
+     "explanation": "Aftershave is not allowed.",
+     "evidenceQuote": "please don't wear perfume or aftershave on the day",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "aftershave"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "consumer panel",
+    "questionnaire",
+    "voucher",
+    "testing centre",
+    "feedback"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam15-lp2",
+   "partNumber": 2,
+   "title": "Marketing advice for market traders",
+   "contextDescription": "The manager of a food and craft market gives a talk to new stallholders.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "5205F6CC-4705-55BE-A4D9-7ABEEEE00EE5",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Good evening, everyone, and welcome. I'm Rachel Doyle, the manager here at Riverside Market, and I'm delighted that so many new traders are joining us this season. Tonight, I'd like to share some advice about marketing your stall, because, as our experienced traders will tell you, good products alone aren't enough. You need people to notice you, to stop, and then to come back."
+    },
+    {
+     "id": "33FF1ABC-600F-5B00-8310-9938D655D3A3",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "First, a little about our customers. Last year, we carried out a survey of around nine hundred visitors. The market attracts about six thousand people on a typical Saturday, but only around half that number on Sundays. What surprised us was that more than sixty per cent of visitors said they hadn't planned to buy anything in particular. They came for the atmosphere, to meet friends or to have lunch. In other words, most of your sales will come from people who simply notice something as they walk past. So the way your stall looks really matters."
+    },
+    {
+     "id": "7002C987-882B-53B9-843A-AA136D3E422C",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Shoppers make up their minds very quickly, and you've got only a few seconds to catch their eye. My first piece of advice is to think about height. A table with everything laid flat is very hard to see from a distance, especially when the market is crowded. Use boxes, shelves or baskets to raise some of your products to eye level. And keep your display full. A half-empty table suggests that the best things have already gone, or that business isn't going well."
+    },
+    {
+     "id": "62980DF9-E69A-5E47-8D2F-527B0461E7AF",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Second, show your prices clearly. Many new traders don't like doing this, because they worry that people will be put off. In fact, our survey found the opposite: a lot of shoppers, particularly younger ones, said they would rather walk away than ask how much something cost, because they found asking embarrassing."
+    },
+    {
+     "id": "47DD4665-F872-5686-BD59-15D1CDE002C6",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Third, if you sell food, let people taste it. Free samples are one of the most effective ways of turning a passer-by into a customer. But keep the pieces small, and always have someone standing behind the samples to chat to people. Samples left on a plate with nobody there don't sell nearly as well."
+    },
+    {
+     "id": "DB566E57-12FB-5D78-AFEF-050D13FB4631",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Now let me say a few words about different ways of promoting yourselves. Lots of you have asked about social media. It costs nothing except time, and it's excellent for keeping in touch with regular customers, for example by posting what you'll be bringing that weekend. However, don't expect it to bring in large numbers of new people quickly. It usually takes months to build up a real following."
+    },
+    {
+     "id": "A4B82D94-C13F-5AEC-9D06-68097DC4E42A",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Loyalty cards, where customers get a stamp each time they buy something and a free item after, say, eight purchases, work very well for coffee and bakery stalls, where people buy often. They're much less useful if you sell things people only buy once or twice a year, like furniture or rugs."
+    },
+    {
+     "id": "E63C5CB9-21DE-53A0-8BEB-433BF49E5785",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Leaflets are something I'd generally advise against. They're expensive to print, and most of them end up in the recycling bin within minutes. Business cards are a much better idea, especially if you take orders for special items like birthday cakes."
+    },
+    {
+     "id": "8881F2C6-9E3A-5B01-820E-95FC351E4C8E",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Then there's the market's own newsletter, which goes out by email every Thursday to about four thousand subscribers. Every trader can be featured once a season, free of charge, but places are limited, so you'll need to book a slot with my assistant, Owen, well in advance."
+    },
+    {
+     "id": "368BA0D2-AEF3-5885-B55A-24D42C54DD85",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Finally, there are our special events. Each month, we hold a themed weekend, such as the chilli festival in August or the children's craft day in October. Taking part does involve extra work beforehand, since you may need to create special products or stay later than usual, but traders tell us these weekends are often their busiest of the whole year."
+    },
+    {
+     "id": "D0415E00-F736-531A-A953-9B0D7349DC0D",
+     "speaker": "Manager",
+     "accent": "en-IE",
+     "text": "Right, that's enough from me. There's tea and coffee at the back of the hall, and I'll be around for the next hour to answer any questions you have."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam15-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What did the market's visitor survey show?",
+     "explanation": "Most visitors had nothing particular in mind to buy.",
+     "evidenceQuote": "more than sixty per cent of visitors said they hadn't planned to buy anything in particular",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. More people visit on Sundays than on Saturdays.",
+      "B. Most visitors arrive without a particular purchase in mind.",
+      "C. Most visitors come mainly to have lunch."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Most visitors arrive without a particular purchase in mind.",
+      "Most visitors arrive without a particular purchase in mind."
+     ]
+    },
+    {
+     "id": "exam15-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why does Rachel advise traders to raise some products to eye level?",
+     "explanation": "Flat displays are hard to see from far away.",
+     "evidenceQuote": "A table with everything laid flat is very hard to see from a distance",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Flat displays are difficult to see from far away.",
+      "B. It protects products from damage.",
+      "C. It allows traders to show more products."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Flat displays are difficult to see from far away.",
+      "Flat displays are difficult to see from far away."
+     ]
+    },
+    {
+     "id": "exam15-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "According to Rachel, a half-empty table gives the impression that",
+     "explanation": "It suggests the best items have gone or trade is poor.",
+     "evidenceQuote": "A half-empty table suggests that the best things have already gone, or that business isn't going well.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the trader is about to leave.",
+      "B. the prices are too high.",
+      "C. the best goods have been sold or trade is poor."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the best goods have been sold or trade is poor.",
+      "the best goods have been sold or trade is poor."
+     ]
+    },
+    {
+     "id": "exam15-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Why does Rachel recommend displaying prices clearly?",
+     "explanation": "Some shoppers are too embarrassed to ask.",
+     "evidenceQuote": "they would rather walk away than ask how much something cost, because they found asking embarrassing",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Market rules require it.",
+      "B. Some shoppers feel uncomfortable asking.",
+      "C. It makes products seem cheaper."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Some shoppers feel uncomfortable asking.",
+      "Some shoppers feel uncomfortable asking."
+     ]
+    },
+    {
+     "id": "exam15-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Rachel say about free samples?",
+     "explanation": "Someone should be there to talk to people.",
+     "evidenceQuote": "always have someone standing behind the samples to chat to people",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Someone should be present to talk to shoppers.",
+      "B. Pieces should be generous in size.",
+      "C. They work best at the end of the day."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Someone should be present to talk to shoppers.",
+      "Someone should be present to talk to shoppers."
+     ]
+    },
+    {
+     "id": "exam15-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "social media",
+     "explanation": "It takes months to attract new followers.",
+     "evidenceQuote": "don't expect it to bring in large numbers of new people quickly",
+     "skillTag": "matching",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. takes a long time to attract new customers",
+      "takes a long time to attract new customers"
+     ]
+    },
+    {
+     "id": "exam15-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "loyalty cards",
+     "explanation": "They suit products bought often.",
+     "evidenceQuote": "work very well for coffee and bakery stalls, where people buy often",
+     "skillTag": "matching",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. suits products that people buy frequently",
+      "suits products that people buy frequently"
+     ]
+    },
+    {
+     "id": "exam15-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "leaflets",
+     "explanation": "They are expensive and quickly thrown away.",
+     "evidenceQuote": "They're expensive to print, and most of them end up in the recycling bin within minutes.",
+     "skillTag": "matching",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. is usually a waste of money",
+      "is usually a waste of money"
+     ]
+    },
+    {
+     "id": "exam15-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "the market newsletter",
+     "explanation": "Slots must be booked early.",
+     "evidenceQuote": "you'll need to book a slot with my assistant, Owen, well in advance",
+     "skillTag": "matching",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. must be arranged early",
+      "must be arranged early"
+     ]
+    },
+    {
+     "id": "exam15-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "themed weekends",
+     "explanation": "They need extra preparation.",
+     "evidenceQuote": "Taking part does involve extra work beforehand",
+     "skillTag": "matching",
+     "distractorNote": "They are busy, but nothing is said about younger shoppers.",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. requires additional preparation",
+      "requires additional preparation"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "stallholder",
+    "display",
+    "free sample",
+    "loyalty card",
+    "newsletter"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does Rachel say about each of the following ways of promoting a stall? Choose FIVE answers from the box and write the correct letter, A–F, next to Questions 16–20.",
+     "options": [
+      "A. takes a long time to attract new customers",
+      "B. suits products that people buy frequently",
+      "C. is usually a waste of money",
+      "D. must be arranged early",
+      "E. requires additional preparation",
+      "F. is most popular with younger shoppers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam15-lp3",
+   "partNumber": 3,
+   "title": "An experiment on packaging",
+   "contextDescription": "Two business students, Amira and Josh, discuss their packaging experiment with their tutor.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "F607DDCA-9B08-5D49-9A37-5A43DD4B67EB",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "So, Amira, Josh, you've finished collecting the data for your packaging experiment. Tell me how it went."
+    },
+    {
+     "id": "69D76BB9-00F5-5104-8FD1-E26737A84CBE",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "It went quite well. Just to remind you, we wanted to find out whether the design of a package changes how people judge the product inside, even when the product itself is exactly the same."
+    },
+    {
+     "id": "6578EAF5-EBCA-5694-BF0A-9976E6C3E628",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "We bought one brand of plain chocolate biscuits and put them into two different packets that we designed ourselves. One was plain white with black writing, and the other was bright red and gold, with a photo of the biscuits and the words 'luxury recipe'."
+    },
+    {
+     "id": "58F238B6-7693-5A95-B8DB-979B0B28FCE2",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "And how many participants did you have?"
+    },
+    {
+     "id": "9513A793-564D-588D-A91F-714312700B36",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Sixty in the end. We'd hoped for eighty, but it was exam season, and quite a lot of students who'd signed up didn't turn up."
+    },
+    {
+     "id": "82CC3FC6-9DAF-5291-9117-CF902296078B",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Sixty is acceptable for a project of this size, although you should mention the smaller sample as a limitation. How did you find your volunteers in the first place?"
+    },
+    {
+     "id": "041BB26C-5A37-5B80-973C-965E9471C751",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "We put up posters in the library and the student union, and we offered everyone a free coffee voucher for taking part. That worked quite well, but it does mean that almost all of our participants were students between eighteen and twenty-five."
+    },
+    {
+     "id": "2054EC48-2252-5F2E-8A06-4EFDBADDFD0F",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "That's worth noting too, since students may not shop in the same way as older consumers. How did you organise the tasting itself?"
+    },
+    {
+     "id": "AADF415D-D808-5ED3-BE2E-3ECF4C5A238F",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "Half the participants tasted biscuits from the white packet and half from the red one. They didn't know there was another version. Then they rated the biscuits on a scale from one to ten for taste and quality, and told us how much they'd be willing to pay for a packet."
+    },
+    {
+     "id": "06AD1E68-1EE6-5A61-A3EC-084A913647F0",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "And the results?"
+    },
+    {
+     "id": "4B8544DE-8D88-513F-B9B8-041C4FCA0A86",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "The red and gold packet did better on every measure. The average taste score was 7.2, compared with 5.9 for the white packet. But the biggest difference was in the price people would pay. On average, they said they'd pay almost forty per cent more for the biscuits in the luxury packet."
+    },
+    {
+     "id": "8145C1FE-0162-5195-8C90-E5E7FCB38E4E",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "That's a striking result. Were you surprised?"
+    },
+    {
+     "id": "7405A092-0B10-5273-95B8-AA22D0B1F6BA",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "Not by the direction, because previous research has found similar effects, but we were surprised by how large the difference was. Several people in the white-packet group even described the biscuits as dry, which nobody said about the others."
+    },
+    {
+     "id": "A8CF464E-F107-52FA-B6F1-D6C540C80CB8",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Did you check whether the colour itself mattered, or was it the photograph and the words?"
+    },
+    {
+     "id": "97B9F0A6-6D44-561F-8727-7D8B20616697",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "That's the main weakness, I think. We changed three things at once: the colour, the image and the description. So we can't say which of them caused the difference."
+    },
+    {
+     "id": "11DB4F44-3F6B-54A1-A7D1-275F2F17A3FA",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Exactly. In a follow-up study, you'd need to change one feature at a time. That's something to put in your discussion section. What else did you find?"
+    },
+    {
+     "id": "C3D4890E-2452-5471-993F-90749F3CB705",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "At the end, we asked people whether they thought the packaging had influenced their ratings. Almost everyone said no. They believed they were judging only the taste."
+    },
+    {
+     "id": "A2BF2805-BBDE-55F2-BC87-8C270B1E1AAB",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Which fits a lot of research on consumer behaviour. People are often unaware of what influences their choices. Did you collect any information about the participants themselves?"
+    },
+    {
+     "id": "143B1F14-2E33-5378-8B0E-E82A5E284920",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Just age and gender, and how often they buy biscuits. We'd planned to compare men and women, but the groups were too small to show anything meaningful."
+    },
+    {
+     "id": "53AA1277-5005-5122-AEFB-680882724D2C",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Then I'd leave that out, or mention it only briefly. Now, how are you going to present the results?"
+    },
+    {
+     "id": "FE0B407E-0469-5890-BE62-797B36F22688",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "We thought a bar chart would be clearest, with the two packets side by side for each measure."
+    },
+    {
+     "id": "AD4F2E05-768F-5230-AF3E-C78D0733EFB3",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Good. And make sure you include the standard deviations, not just the averages, so that readers can see how much the ratings varied. Also, think about the ethics. Did you tell participants afterwards what the study was really about?"
+    },
+    {
+     "id": "14A705F1-1136-52E8-B890-6B5790C60C61",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Yes, we explained it to everyone once they'd finished, and gave them the chance to withdraw their data. Nobody did."
+    },
+    {
+     "id": "961757B8-5B8A-5395-8EC9-01A423CC782B",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Good. You should describe that procedure clearly in your methods section, because the examiners will look for it. Have you started reading for the literature review yet?"
+    },
+    {
+     "id": "EDE86FFD-CF76-58D4-8C89-AC03A1130497",
+     "speaker": "Amira",
+     "accent": "en-GB",
+     "text": "Yes, we've found several studies on colour and taste, mostly with drinks rather than food. We're planning to include about fifteen sources."
+    },
+    {
+     "id": "85D7BE0B-80EB-5B30-9C63-CC4EE7D6A047",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "That sounds about right. When's your presentation?"
+    },
+    {
+     "id": "83F98400-AA2C-536D-90F6-E92300044436",
+     "speaker": "Josh",
+     "accent": "en-US",
+     "text": "On the fourteenth of next month."
+    },
+    {
+     "id": "D75FAFAF-8CB1-5E5E-BB68-B764D0967CC7",
+     "speaker": "Tutor",
+     "accent": "en-CA",
+     "text": "Then please send me a draft of your slides a week before, and we can go through them together."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam15-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What was the purpose of the students' biscuit experiment?",
+     "explanation": "They tested whether packaging affects judgments of an identical product.",
+     "evidenceQuote": "whether the design of a package changes how people judge the product inside",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to see if packaging affects opinions of an identical product",
+      "B. to compare two brands of biscuit",
+      "C. to find the most popular packet colour"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to see if packaging affects opinions of an identical product",
+      "to see if packaging affects opinions of an identical product"
+     ]
+    },
+    {
+     "id": "exam15-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did fewer participants take part than the students had hoped?",
+     "explanation": "Many did not turn up during exams.",
+     "evidenceQuote": "it was exam season, and quite a lot of students who'd signed up didn't turn up",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The biscuits ran out.",
+      "B. Many volunteers did not attend because of exams.",
+      "C. The tutor limited the numbers."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Many volunteers did not attend because of exams.",
+      "Many volunteers did not attend because of exams."
+     ]
+    },
+    {
+     "id": "exam15-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Which measure showed the largest difference between the two packets?",
+     "explanation": "The price people would pay differed most.",
+     "evidenceQuote": "the biggest difference was in the price people would pay",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. taste",
+      "B. quality",
+      "C. the price people would pay"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the price people would pay",
+      "the price people would pay"
+     ]
+    },
+    {
+     "id": "exam15-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What do the students consider the main weakness of their study?",
+     "explanation": "They changed several features together.",
+     "evidenceQuote": "We changed three things at once",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Several features of the packets were changed together.",
+      "B. The participants were all students.",
+      "C. The rating scale was too simple."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Several features of the packets were changed together.",
+      "Several features of the packets were changed together."
+     ]
+    },
+    {
+     "id": "exam15-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "When asked about the packaging, most participants said that",
+     "explanation": "They believed it had not influenced them.",
+     "evidenceQuote": "Almost everyone said no.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. they preferred the white packet.",
+      "B. it had not affected their ratings.",
+      "C. they had guessed the purpose of the study."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. it had not affected their ratings.",
+      "it had not affected their ratings."
+     ]
+    },
+    {
+     "id": "exam15-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Number of participants: __________",
+     "explanation": "Sixty took part.",
+     "evidenceQuote": "Sixty in the end.",
+     "skillTag": "numbers",
+     "distractorNote": "Eighty was the number they had hoped for.",
+     "options": [],
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Luxury packet: red and __________, with a photo",
+     "explanation": "The packet was red and gold.",
+     "evidenceQuote": "the other was bright red and gold",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gold"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Average taste score for the luxury packet: __________",
+     "explanation": "It scored 7.2.",
+     "evidenceQuote": "The average taste score was 7.2, compared with 5.9 for the white packet.",
+     "skillTag": "numbers",
+     "distractorNote": "5.9 was the score for the white packet.",
+     "options": [],
+     "acceptedAnswers": [
+      "7.2"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Some tasters of the white packet called the biscuits __________",
+     "explanation": "They called them dry.",
+     "evidenceQuote": "even described the biscuits as dry",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dry"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Results to be presented in a bar __________",
+     "explanation": "They will use a bar chart.",
+     "evidenceQuote": "We thought a bar chart would be clearest",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chart"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "participant",
+    "rating scale",
+    "variable",
+    "willingness to pay",
+    "debrief"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam15-lp4",
+   "partNumber": 4,
+   "title": "The origins of branding and advertising",
+   "contextDescription": "A lecture in a history of marketing course on how branding and advertising developed before the age of television.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5ACDC872-42C8-5C4A-8F3A-779C41355533",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good afternoon. Today, in our course on the history of marketing, I want to go back to the very beginnings of branding and advertising, and trace how they developed up to the arrival of television. Many people assume that advertising is a modern invention, but as we'll see, its roots go back a very long way."
+    },
+    {
+     "id": "2D0C1421-BD88-59C1-B468-245BDC5CE820",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Let's start with the word brand itself. It comes from an Old Norse word meaning 'to burn', and it originally referred to the practice of marking cattle with a hot iron to show who owned them. The idea of a mark that identifies the owner or maker of something is, of course, the basic idea behind branding today. Craftspeople in the ancient world did something similar. Potters in the Roman Empire, for example, often stamped their names on the bottom of oil lamps and other goods, and archaeologists have found products carrying the same maker's mark across large parts of the empire."
+    },
+    {
+     "id": "E1BB7272-83C1-5035-8435-6BE272A09B46",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Advertising, too, existed in the ancient world. In the Roman town of Pompeii, which was buried by the eruption of Vesuvius in 79 AD, archaeologists found painted notices on walls, announcing everything from gladiator shows to political candidates and rooms to rent."
+    },
+    {
+     "id": "F3823A23-4713-57D4-A5AE-4ACA9F8A3359",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In medieval Europe, most people couldn't read, so shopkeepers and innkeepers relied on pictures rather than words. A shoemaker might hang up a sign showing a boot, and an inn might use the image of an animal, which is one reason why so many British pubs still have names like the Red Lion or the White Horse."
+    },
+    {
+     "id": "B05CCDEB-D74A-54B4-BC7E-E064BF175A32",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The real turning point came with the printing press, which Johannes Gutenberg introduced to Europe in the fifteenth century. Printing made it possible to produce handbills and posters cheaply and in large numbers, and by the seventeenth century, newspapers in England were carrying advertisements for products such as coffee, tea and books."
+    },
+    {
+     "id": "9DF3B91E-8213-552A-86EB-54C261A43F5D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the eighteenth century, one of the most inventive marketers was the English potter Josiah Wedgwood. When Queen Charlotte ordered a tea set from him, he was allowed to call his cream-coloured pottery Queen's Ware, and he used this royal connection to attract wealthy customers. He also opened elegant showrooms in London, where people could see his products beautifully displayed, and he produced illustrated catalogues, so that customers far away could order by post."
+    },
+    {
+     "id": "8176BCD3-610B-5CE4-B134-E2750C144B23",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "The nineteenth century brought industrialisation and mass production. For the first time, identical goods could be made in huge quantities and transported by rail across whole countries. Manufacturers needed a way to persuade shoppers to choose their product rather than an almost identical one made by a competitor, and so the modern brand was born. Packaging played a key role. Instead of buying flour or soap loose, weighed out by a shopkeeper, customers began to buy goods in sealed, branded packets, which promised the same quality every time."
+    },
+    {
+     "id": "36410338-F536-5BE2-B3E0-BCAF3A98BEF4",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Legal protection followed. In Britain, the Trade Marks Registration Act came into force in 1876, and the first mark to be registered was the red triangle of the Bass brewery, which is still in use today."
+    },
+    {
+     "id": "2491DB5A-568E-50C8-AA7D-358385B632EF",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "At the same time, advertising was becoming more sophisticated. The soap company Pears, under Thomas Barratt, is often described as a pioneer. Barratt bought a painting by the famous artist John Everett Millais, showing a little boy blowing bubbles, and used it in advertisements for the soap. Millais was reportedly unhappy that his work was being used to sell a product, but the campaign was enormously successful, and it blurred the line between art and advertising."
+    },
+    {
+     "id": "1E4954EA-EB3E-5CFB-B10A-04BD2A4850D7",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the twentieth century, new technologies opened up new possibilities. Radio spread rapidly in the 1920s and 1930s, and in the United States, companies sponsored entire programmes. Daytime dramas aimed at women listening at home were frequently sponsored by manufacturers of soap and washing powder, which is why they became known as soap operas, a name that has stayed with us."
+    },
+    {
+     "id": "5066E28A-7162-5DC6-BAED-9485A047768A",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Then came television. The first official television commercial in the United States was broadcast in New York in 1941. It was for Bulova watches, it was shown just before a baseball game, and it lasted only a few seconds. In Britain, television advertising began in 1955, with the launch of the commercial channel ITV, and the first advertisement shown was for a brand of toothpaste."
+    },
+    {
+     "id": "582841F9-E015-52C3-A183-6318FC5572E4",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "What's striking is that many of the techniques used in these early campaigns, such as royal or celebrity endorsement, attractive packaging and linking a product with a desirable lifestyle, are still at the heart of advertising today. Next week, we'll look at how the internet has changed things, and whether it has really changed them as much as people think."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam15-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "The word \"brand\" first referred to marking __________ with a hot iron",
+     "explanation": "Cattle were branded.",
+     "evidenceQuote": "the practice of marking cattle with a hot iron",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cattle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Roman potters stamped their names on oil __________",
+     "explanation": "Names were stamped on oil lamps.",
+     "evidenceQuote": "stamped their names on the bottom of oil lamps",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lamps"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "In Pompeii, painted notices were found on __________",
+     "explanation": "The notices were on walls.",
+     "evidenceQuote": "archaeologists found painted notices on walls",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "walls"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Medieval traders used __________ because most people could not read",
+     "explanation": "They relied on pictures.",
+     "evidenceQuote": "relied on pictures rather than words",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pictures"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Printing allowed handbills and __________ to be produced cheaply",
+     "explanation": "Posters could be printed cheaply.",
+     "evidenceQuote": "produce handbills and posters cheaply",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "posters"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Wedgwood displayed his products in London __________",
+     "explanation": "He opened showrooms.",
+     "evidenceQuote": "He also opened elegant showrooms in London",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "showrooms"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Wedgwood's illustrated __________ allowed customers to order by post",
+     "explanation": "Catalogues allowed postal orders.",
+     "evidenceQuote": "he produced illustrated catalogues",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "catalogues"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "First registered UK trademark: the Bass red __________",
+     "explanation": "It was a red triangle.",
+     "evidenceQuote": "the red triangle of the Bass brewery",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "triangle"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Pears used a __________ by Millais in its advertisements",
+     "explanation": "Pears used a Millais painting.",
+     "evidenceQuote": "Barratt bought a painting by the famous artist John Everett Millais",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "painting"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The first British TV advertisement promoted __________",
+     "explanation": "It was for toothpaste.",
+     "evidenceQuote": "the first advertisement shown was for a brand of toothpaste",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "toothpaste"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "trademark",
+    "maker's mark",
+    "handbill",
+    "endorsement",
+    "sponsorship"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam15-rp1",
+   "passageNumber": 1,
+   "title": "The self-service revolution",
+   "discipline": "Retail History",
+   "paragraphs": [
+    "Walk into almost any supermarket in the world today and the routine is the same. Shoppers take a trolley or a basket, wander along aisles lined with thousands of products, choose what they want and pay at a checkout on the way out. It all seems so natural that it is easy to forget how recent this way of shopping is. For most of history, buying food involved a conversation with a shopkeeper, and the idea of customers simply helping themselves would have seemed strange, and possibly even risky.",
+    "In a typical grocery store of the late nineteenth century, goods were kept behind a long counter. Customers waited their turn, then told an assistant what they needed or handed over a written list. The assistant fetched each item from the shelves, weighed out loose goods such as sugar, flour and tea, and wrapped them in paper. Many stores also allowed regular customers to buy on credit and pay at the end of the week or month, and some delivered orders to people's homes. The system was personal, but it was also slow and required a large number of staff, which meant that prices were often higher than they needed to be.",
+    "The man usually credited with changing this was Clarence Saunders, a grocer from Memphis, Tennessee. In 1916, he opened a store called Piggly Wiggly, in which customers collected a basket at the entrance and followed a set route past shelves of goods, picking out what they wanted themselves. Every item had its price clearly marked, and customers paid at a cashier's desk by the exit. Because the store needed far fewer employees, Saunders could sell at lower prices than his rivals. He patented the design of his store in 1917, and Piggly Wiggly expanded rapidly, with hundreds of branches opening across the United States within a few years. Saunders never gave a clear explanation of the unusual name; when asked, he is said to have replied only that it would make people ask exactly that question.",
+    "Self-service changed not only how stores operated but also how products were sold. In a traditional shop, the assistant could recommend one brand rather than another, and many customers relied on that advice. Once shoppers were choosing for themselves, the package on the shelf had to do that job instead. Manufacturers responded by investing in eye-catching designs and memorable brand names, and by advertising heavily so that shoppers would already know what they were looking for when they entered the store. Packaging came to be described as a 'silent salesman', and it has remained one of the most important tools of marketing ever since.",
+    "The next development was size. Early self-service stores were relatively small, but in 1930, during the Great Depression, a former grocery manager named Michael Cullen opened King Kullen in the New York borough of Queens. It was far larger than an ordinary grocery, sold a wide range of food under one roof, offered car parking and kept its prices low by buying in very large quantities. Many historians regard it as the first true supermarket. The model suited a population that increasingly owned cars and refrigerators, which allowed families to drive to a store once a week and buy a large amount of food at a time.",
+    "Larger shops created a new problem: customers could buy only as much as they could carry in a basket. In 1937, Sylvan Goldman, who owned a chain of supermarkets in Oklahoma City, came up with a solution after watching shoppers struggle with heavy baskets. He attached wheels and two baskets to the frame of a folding chair, creating the first shopping trolley. At first, shoppers were reluctant to use it. Many men felt that pushing a cart made them look weak, while many women said that it reminded them of pushing a pram. Goldman reportedly hired models to push trolleys around his stores until the idea caught on, and within a few years trolleys were common across the country.",
+    "Outside the United States, self-service spread more slowly. In Britain, the change came mainly after the Second World War, and it was held back for several years by food rationing, which did not end completely until 1954. Many shoppers were suspicious at first, and some shopkeepers feared that customers would steal goods if they were allowed to handle them freely. By the 1960s, however, supermarkets were opening in towns across the country, and many small independent grocers were beginning to disappear.",
+    "Technology has continued to reshape the experience. On 26 June 1974, a packet of chewing gum became the first product to be sold using a barcode scanner, at a supermarket in Troy, Ohio. Barcodes made checkouts faster and gave stores detailed information about which products were selling and when. Today, self-checkout machines and online ordering mean that some customers can complete their entire weekly shop without speaking to a single member of staff. In a sense, this is the logical conclusion of the idea that Saunders introduced more than a century ago, when he first invited customers to help themselves."
+   ],
+   "questions": [
+    {
+     "id": "exam15-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "In some late-nineteenth-century grocery stores, regular customers could delay paying for their food.",
+     "explanation": "They could buy on credit.",
+     "evidenceQuote": "allowed regular customers to buy on credit and pay at the end of the week or month",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam15-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Piggly Wiggly charged higher prices than competing grocery stores.",
+     "explanation": "Its prices were lower.",
+     "evidenceQuote": "Saunders could sell at lower prices than his rivals",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam15-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Saunders named his store after a popular song of the time.",
+     "explanation": "The origin of the name is not explained.",
+     "evidenceQuote": "Saunders never gave a clear explanation of the unusual name",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam15-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Self-service made the appearance of packaging more important to manufacturers.",
+     "explanation": "Packaging had to replace the assistant's advice.",
+     "evidenceQuote": "the package on the shelf had to do that job instead",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam15-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Michael Cullen had worked in the grocery business before opening King Kullen.",
+     "explanation": "He was a former grocery manager.",
+     "evidenceQuote": "a former grocery manager named Michael Cullen",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam15-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Goldman's shopping trolley was welcomed by shoppers as soon as it appeared.",
+     "explanation": "Shoppers were reluctant at first.",
+     "evidenceQuote": "At first, shoppers were reluctant to use it.",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam15-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The barcode scanner used in 1974 had been designed by a supermarket employee.",
+     "explanation": "The scanner's designer is not mentioned.",
+     "evidenceQuote": "a packet of chewing gum became the first product to be sold using a barcode scanner",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam15-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Before self-service: assistants weighed loose goods and wrapped them in __________",
+     "explanation": "Goods were wrapped in paper.",
+     "evidenceQuote": "and wrapped them in paper",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "paper"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Piggly Wiggly: shoppers picked up a __________ when they came in",
+     "explanation": "They collected a basket.",
+     "evidenceQuote": "customers collected a basket at the entrance",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "basket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Packaging became known as a \"silent __________\"",
+     "explanation": "It was called a silent salesman.",
+     "evidenceQuote": "Packaging came to be described as a 'silent salesman'",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "salesman"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Owning cars and __________ made weekly shopping trips possible",
+     "explanation": "Refrigerators allowed food to be stored.",
+     "evidenceQuote": "increasingly owned cars and refrigerators",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "refrigerators"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "The first trolley was built on the frame of a folding __________",
+     "explanation": "It used a folding chair frame.",
+     "evidenceQuote": "to the frame of a folding chair",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chair"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "In Britain, the spread of self-service was slowed by food __________",
+     "explanation": "Rationing delayed it.",
+     "evidenceQuote": "it was held back for several years by food rationing",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rationing"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 848,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam15-rp2",
+   "passageNumber": 2,
+   "title": "Hidden in plain sight: product placement",
+   "discipline": "Marketing & Media",
+   "paragraphs": [
+    "When a character in a film drinks a particular brand of cola, drives a recognisable car or checks the time on a famous make of watch, the choice is often not accidental. Product placement, the practice of including branded products in films, television programmes and other entertainment in exchange for money or other benefits, has become a significant part of the marketing industry. Unlike traditional advertisements, which interrupt a programme and are clearly identified as advertising, placed products appear within the story itself, where viewers may barely notice them.",
+    "The practice is far from new. In the early decades of cinema and radio, manufacturers frequently supplied products to producers or sponsored entire programmes, and the boundary between entertainment and promotion was often unclear. For much of the twentieth century, however, product placement in films was arranged informally, usually through personal contacts between studios and companies, and it attracted relatively little public attention or academic study.",
+    "That changed in 1982 with Steven Spielberg's film E.T. the Extra-Terrestrial. In one well-known scene, a boy uses a trail of sweets to lure the alien into his house. The film-makers had reportedly approached the makers of M&M's first, but the company turned down the opportunity, and the sweets that appeared on screen were Reese's Pieces, made by Hershey. After the film was released, sales of Reese's Pieces rose dramatically. The case convinced many companies that appearing in a successful film could be worth far more than a conventional advertising campaign, and specialist agencies soon appeared to match brands with suitable films. Product placement had become a recognised business rather than an informal favour.",
+    "The arrangements involved are not always simple cash payments. In many cases, a company supplies products free of charge, such as cars, clothes or computers, which reduces the cost of making a film. In others, the brand agrees to spend money promoting the film in its own advertising, so that both partners benefit from the publicity. Major film series, such as the James Bond films, have attracted agreements reportedly worth tens of millions of dollars, which can cover a considerable share of the production budget. For the film-makers, such deals reduce financial risk; for the brands, they offer an association with characters whom audiences already admire.",
+    "Why does product placement work? One explanation lies in what psychologists call the mere exposure effect: people tend to develop a preference for things simply because they are familiar with them. Seeing a brand repeatedly, even without paying much attention to it, may make it feel more trustworthy when shoppers later come across it in a store. Placement may also benefit from association. When a product is used by an admired character in an exciting or glamorous situation, some of that character's appeal may transfer to the brand itself.",
+    "However, the effects are not always positive. Several studies have found that placements which are very prominent, for example when a character mentions a brand by name and praises it, are remembered better by viewers but may also be disliked, particularly by those who feel that a programme they enjoy is being used to sell to them. Subtle placements, by contrast, are less likely to be noticed but also less likely to cause irritation. For marketers, finding the right balance between being seen and being resented is a constant challenge.",
+    "Because viewers may not realise that they are being influenced, product placement has long concerned regulators. In the United Kingdom, paid product placement was not permitted on television until 2011. Under the rules introduced then, programmes containing paid placement must display a small 'P' symbol, placement is not allowed in news or children's programmes, and certain products, such as cigarettes and prescription medicines, may not be placed at all. Some critics argue that such rules do little to help viewers, since many people are unaware of what the symbol means.",
+    "New technology is now changing the practice once again. With the rise of streaming services, many of which carry no advertisements, and with viewers increasingly able to skip commercials, placement offers brands a way to reach audiences who avoid traditional advertising. Digital techniques also make it possible to insert products into scenes after filming has finished, so that a bottle on a kitchen table, or a poster on a wall, can show different brands to viewers in different countries, or be updated years after a programme was first broadcast. For audiences, the line between story and advertisement may become even harder to see, and the question of how clearly such placements should be identified is likely to become more pressing."
+   ],
+   "questions": [
+    {
+     "id": "exam15-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes a long history that attracted little attention.",
+     "evidenceQuote": "For much of the twentieth century, however, product placement in films was arranged informally",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A long but low-profile history",
+      "A long but low-profile history"
+     ]
+    },
+    {
+     "id": "exam15-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes the E.T. case that changed attitudes.",
+     "evidenceQuote": "The case convinced many companies that appearing in a successful film could be worth far more",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. A film that changed industry attitudes",
+      "A film that changed industry attitudes"
+     ]
+    },
+    {
+     "id": "exam15-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains non-cash deals.",
+     "evidenceQuote": "The arrangements involved are not always simple cash payments.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. More than just a payment",
+      "More than just a payment"
+     ]
+    },
+    {
+     "id": "exam15-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E explains why familiarity creates preference.",
+     "evidenceQuote": "people tend to develop a preference for things simply because they are familiar with them",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Why familiar things seem better",
+      "Why familiar things seem better"
+     ]
+    },
+    {
+     "id": "exam15-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F explains how prominent placements can backfire.",
+     "evidenceQuote": "However, the effects are not always positive.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. The danger of being too obvious",
+      "The danger of being too obvious"
+     ]
+    },
+    {
+     "id": "exam15-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes rules to protect viewers.",
+     "evidenceQuote": "product placement has long concerned regulators",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Attempts to protect the audience",
+      "Attempts to protect the audience"
+     ]
+    },
+    {
+     "id": "exam15-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H describes products added after filming.",
+     "evidenceQuote": "Digital techniques also make it possible to insert products into scenes after filming has finished",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Products that can be swapped after filming",
+      "Products that can be swapped after filming"
+     ]
+    },
+    {
+     "id": "exam15-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to paragraph A, how does product placement differ from ordinary advertisements?",
+     "explanation": "Placed products are part of the story.",
+     "evidenceQuote": "placed products appear within the story itself",
+     "skillTag": "detail",
+     "options": [
+      "A. It is more expensive.",
+      "B. It is clearly labelled.",
+      "C. It forms part of the programme's story.",
+      "D. It is aimed mainly at children."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It forms part of the programme's story.",
+      "It forms part of the programme's story."
+     ]
+    },
+    {
+     "id": "exam15-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What was one consequence of the success of Reese's Pieces in E.T.?",
+     "explanation": "Agencies began matching brands with films.",
+     "evidenceQuote": "specialist agencies soon appeared to match brands with suitable films",
+     "skillTag": "detail",
+     "options": [
+      "A. Hershey began producing its own films.",
+      "B. Agencies were set up to connect brands and films.",
+      "C. M&M's were withdrawn from sale.",
+      "D. Film studios stopped accepting payment."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Agencies were set up to connect brands and films.",
+      "Agencies were set up to connect brands and films."
+     ]
+    },
+    {
+     "id": "exam15-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer say about very prominent placements?",
+     "explanation": "They are memorable but can annoy.",
+     "evidenceQuote": "are remembered better by viewers but may also be disliked",
+     "skillTag": "detail",
+     "options": [
+      "A. They are rarely noticed.",
+      "B. They are banned in most countries.",
+      "C. They are cheaper than subtle placements.",
+      "D. They are memorable but may cause irritation."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They are memorable but may cause irritation.",
+      "They are memorable but may cause irritation."
+     ]
+    },
+    {
+     "id": "exam15-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Instead of paying cash, a brand may promote a film in its own __________.",
+     "explanation": "The brand promotes the film in its advertising.",
+     "evidenceQuote": "the brand agrees to spend money promoting the film in its own advertising",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "advertising"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam15-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "The tendency to prefer what is familiar is known as the mere __________ effect.",
+     "explanation": "It is the mere exposure effect.",
+     "evidenceQuote": "what psychologists call the mere exposure effect",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "exposure"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam15-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Placement is attractive to brands partly because many __________ show no advertisements.",
+     "explanation": "Many streaming services carry no adverts.",
+     "evidenceQuote": "With the rise of streaming services, many of which carry no advertisements",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "streaming services",
+      "streaming"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 764,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. The danger of being too obvious",
+      "ii. A long but low-profile history",
+      "iii. The rising cost of making films",
+      "iv. Attempts to protect the audience",
+      "v. A film that changed industry attitudes",
+      "vi. Why familiar things seem better",
+      "vii. Famous brands that refused to take part",
+      "viii. Products that can be swapped after filming",
+      "ix. More than just a payment"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam15-rp3",
+   "passageNumber": 3,
+   "title": "Should advertising to children be restricted?",
+   "discipline": "Marketing Ethics & Public Policy",
+   "paragraphs": [
+    "Children have always been a target for marketers, but the scale of the advertising aimed at them has grown enormously. Today's children encounter commercial messages not only on television but also in games, videos, apps and social media, often in forms that are difficult to distinguish from entertainment. Governments around the world have responded in very different ways, and the debate over whether, and how, children should be protected from advertising shows no sign of being settled. At its heart lies a question about whether children can be treated as consumers in the same way as adults.",
+    "The central argument for restriction rests on research into how children understand advertising. Young children can recognise an advertisement from an early age, but recognising an advertisement is not the same as understanding its purpose. A report published by the American Psychological Association in 2004 concluded that children under about eight years old generally do not understand that advertisements are designed to persuade them, and tend to accept advertisers' claims as true. If this is correct, then advertising to young children is, its critics argue, fundamentally unfair.",
+    "Some places have acted on this argument. In the Canadian province of Quebec, the Consumer Protection Act has banned commercial advertising directed at children under thirteen since 1980. Sweden went further than most of Europe in 1991, banning television advertisements aimed at children under twelve. However, the Swedish ban was partly undermined by satellite channels broadcasting into Sweden from other countries, which were not bound by Swedish law. This illustrates a recurring difficulty: national rules are hard to enforce in a global media environment.",
+    "In the United States, attempts at regulation have been less successful. In the late 1970s, the Federal Trade Commission proposed restricting television advertising to young children, but the plan was abandoned after strong opposition from the advertising and food industries and from members of Congress. Instead, the country has relied largely on self-regulation. The Children's Advertising Review Unit, established by the advertising industry in 1974, sets voluntary guidelines, but critics question how effective a system run by the industry itself can be.",
+    "Much recent attention has focused on food. Rising rates of childhood obesity have led many governments to examine the marketing of products high in sugar, salt and fat. In the United Kingdom, advertisements for such foods were banned around children's television programmes from 2007. Chile introduced one of the world's strictest laws in 2016, requiring black warning labels on unhealthy foods and banning their marketing to children under fourteen. Cartoon characters were removed from cereal packets, and toys could no longer be sold with sweets. Studies since then have found significant falls in purchases of sugary drinks, although it is difficult to separate the effect of the marketing rules from that of the warning labels.",
+    "Opponents of restrictions raise several objections. Advertisers argue that they have a right to promote legal products, and that responsibility for what children watch and eat lies with their parents. Broadcasters point out that advertising revenue pays for children's programmes, and warn that bans could reduce the quality and quantity of content made for young audiences. Others note that obesity has many causes, including a lack of exercise and family eating habits, and that advertising is only one factor among many. Some also argue that children need to learn to deal with advertising, and that keeping them away from it entirely may leave them less prepared as adults.",
+    "In my view, the argument that parents alone should be responsible is not convincing. Parents cannot be present every time a child picks up a tablet, and much of today's marketing is designed precisely to reach children directly, without passing through their parents at all. Nor do I accept that the loss of advertising revenue is a decisive objection; public broadcasters in several countries make excellent children's programmes without any advertising whatsoever. Nevertheless, I recognise that complete bans are a blunt instrument, and that the evidence for their effect on children's health is still developing.",
+    "What seems clear is that rules designed for television are no longer sufficient. Online, advertisements can be tailored to individual children using data about their behaviour, and influencers who are paid to promote products may appear to their young followers simply as friends. Any effective approach will need to cover these new forms of marketing as well as the old ones. Ultimately, I believe that a society which accepts that children need protection from many other forms of exploitation should be willing to extend that protection to the commercial pressures they face every day."
+   ],
+   "questions": [
+    {
+     "id": "exam15-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "has depended mainly on voluntary rules set by the advertising industry",
+     "explanation": "The United States relies on self-regulation.",
+     "evidenceQuote": "the country has relied largely on self-regulation",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the United States",
+      "the United States"
+     ]
+    },
+    {
+     "id": "exam15-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "found that its rules were weakened by broadcasts from abroad",
+     "explanation": "Foreign satellite channels weakened Sweden's ban.",
+     "evidenceQuote": "the Swedish ban was partly undermined by satellite channels broadcasting into Sweden from other countries",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Sweden",
+      "Sweden"
+     ]
+    },
+    {
+     "id": "exam15-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "removed cartoon characters from food packaging",
+     "explanation": "This happened in Chile.",
+     "evidenceQuote": "Cartoon characters were removed from cereal packets",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Chile",
+      "Chile"
+     ]
+    },
+    {
+     "id": "exam15-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "has prohibited advertising aimed at under-thirteens for several decades",
+     "explanation": "Quebec has done so since 1980.",
+     "evidenceQuote": "has banned commercial advertising directed at children under thirteen since 1980",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Quebec",
+      "Quebec"
+     ]
+    },
+    {
+     "id": "exam15-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "stopped unhealthy food advertisements around children's programmes in 2007",
+     "explanation": "This was the United Kingdom.",
+     "evidenceQuote": "advertisements for such foods were banned around children's television programmes from 2007",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. the United Kingdom",
+      "the United Kingdom"
+     ]
+    },
+    {
+     "id": "exam15-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "A child who can recognise an advertisement also understands what it is for.",
+     "explanation": "Recognition is not the same as understanding.",
+     "evidenceQuote": "recognising an advertisement is not the same as understanding its purpose",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam15-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Parents should carry sole responsibility for protecting children from advertising.",
+     "explanation": "The writer rejects this argument.",
+     "evidenceQuote": "the argument that parents alone should be responsible is not convincing",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam15-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "High-quality children's television can be made without advertising income.",
+     "explanation": "The writer gives public broadcasters as proof.",
+     "evidenceQuote": "public broadcasters in several countries make excellent children's programmes without any advertising whatsoever",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam15-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Influencers are more persuasive to children than television advertisements are.",
+     "explanation": "The writer does not compare their persuasiveness.",
+     "evidenceQuote": "influencers who are paid to promote products may appear to their young followers simply as friends",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam15-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "Society should protect children from commercial pressure as it does from other kinds of exploitation.",
+     "explanation": "The writer believes protection should be extended.",
+     "evidenceQuote": "should be willing to extend that protection to the commercial pressures they face every day",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam15-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "According to a 2004 report, young children tend to believe advertisers' __________.",
+     "explanation": "They accept the claims as true.",
+     "evidenceQuote": "tend to accept advertisers' claims as true",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "claims"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Because media is global, national rules are difficult to __________.",
+     "explanation": "They are hard to enforce.",
+     "evidenceQuote": "national rules are hard to enforce in a global media environment",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "enforce"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Broadcasters say that advertising __________ funds programmes for children.",
+     "explanation": "Advertising revenue pays for them.",
+     "evidenceQuote": "advertising revenue pays for children's programmes",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "revenue"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam15-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Online advertisements can be personalised using __________ about how children behave.",
+     "explanation": "Data about behaviour is used.",
+     "evidenceQuote": "using data about their behaviour",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "data"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 762,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of places below. Match each statement with the correct place, A–E.",
+     "options": [
+      "A. Quebec",
+      "B. Sweden",
+      "C. the United States",
+      "D. the United Kingdom",
+      "E. Chile"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam15-w1",
+  "title": "Advertising spending by medium",
+  "visualType": "Bar Chart",
+  "instructions": "The chart below shows how much money was spent on advertising in five different media in one country in 2010, 2017 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "50E3B6D9-5810-5AF8-B665-CA361396ECE9",
+    "series": "Television",
+    "category": "2010",
+    "value": 18.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "9D7AAC12-85AD-5AA1-9E96-5B3D0EA919F4",
+    "series": "Newspapers and magazines",
+    "category": "2010",
+    "value": 12.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "D1D14C00-6127-564A-9BA5-21320CB85E47",
+    "series": "Online",
+    "category": "2010",
+    "value": 8.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "2EECDA10-7A2F-5D4C-A39C-5275F41A203B",
+    "series": "Outdoor",
+    "category": "2010",
+    "value": 4.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "B23D1643-1418-5E22-85FB-CD4AD796A26A",
+    "series": "Radio",
+    "category": "2010",
+    "value": 3.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "C16FD5FE-55FF-51DB-9568-E6E8EF37A572",
+    "series": "Television",
+    "category": "2017",
+    "value": 17.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "BA866F09-12D1-581F-90FC-276E5E030A81",
+    "series": "Newspapers and magazines",
+    "category": "2017",
+    "value": 6.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "55BB88FE-CD43-5672-BEF3-6E61390293BB",
+    "series": "Online",
+    "category": "2017",
+    "value": 22.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "BBDCD0A1-F3BA-52DF-8D89-5402BC820128",
+    "series": "Outdoor",
+    "category": "2017",
+    "value": 5.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "03261735-4FD4-5410-9A3A-725923FDD8A9",
+    "series": "Radio",
+    "category": "2017",
+    "value": 3.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "499FBE08-F646-52CB-988D-62B1E57D5CFE",
+    "series": "Television",
+    "category": "2024",
+    "value": 14.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "40D2CC5E-86A6-50E4-B9AB-CB35AE7C6429",
+    "series": "Newspapers and magazines",
+    "category": "2024",
+    "value": 3.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "5A2B12CA-A560-57DC-B27F-E3DC5626AFCB",
+    "series": "Online",
+    "category": "2024",
+    "value": 41.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "73013C0D-4D2F-5956-A907-F7A15B86C724",
+    "series": "Outdoor",
+    "category": "2024",
+    "value": 5.0,
+    "unit": "billion dollars"
+   },
+   {
+    "id": "DC5B171F-108E-5155-8469-0DF285F67679",
+    "series": "Radio",
+    "category": "2024",
+    "value": 2.0,
+    "unit": "billion dollars"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Online advertising grew dramatically, overtaking television to become by far the largest medium.",
+   "Spending on print fell sharply, while outdoor and radio advertising changed little."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam15-w2",
+  "title": "Controlling advertising",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Business & Society",
+  "promptText": "Some people believe that advertising encourages people to buy things they do not really need, and that it should therefore be much more strictly controlled. To what extent do you agree or disagree?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam15-spk",
+  "theme": "Advertising and shopping",
+  "part1Questions": [
+   "Do you enjoy going shopping? Why or why not?",
+   "Do you prefer shopping online or in shops?",
+   "Do you often notice advertisements when you are out?",
+   "Is there an advertisement you remember from your childhood?",
+   "Do you usually buy the same brands?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe an advertisement that persuaded you to buy something.",
+   "bulletPoints": [
+    "what the product was",
+    "where you saw the advertisement",
+    "what was special about it",
+    "and explain whether you were happy with what you bought"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do companies spend so much money on advertising?",
+   "Should celebrities be paid to promote products?",
+   "How has the internet changed the way products are advertised?",
+   "Should advertisements for unhealthy food be banned?",
+   "Are people today more influenced by advertising than in the past?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are checked against standard reference sources; Task 1 data are illustrative.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

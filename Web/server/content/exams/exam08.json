@@ -1,0 +1,2293 @@
+{
+ "id": "exam08",
+ "examNumber": 8,
+ "pool": "mock",
+ "title": "Mock Exam 8: Sport, Fitness & Everyday Life",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Sport, Fitness & Everyday Life",
+ "listeningParts": [
+  {
+   "id": "exam08-lp1",
+   "partNumber": 1,
+   "title": "Joining a running club",
+   "contextDescription": "A woman phones a local running club to ask about joining.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "B6B1993C-E254-5BF8-B583-78EA03E0BEFC",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Hello, Riverside Runners, this is Dave."
+    },
+    {
+     "id": "B5D7ADA4-D039-574B-B52D-41A735B1B623",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hi. I found your number on a poster in the library. I'm interested in joining a running club, but I'm a complete beginner. Is your club suitable for someone like me?"
+    },
+    {
+     "id": "D7E186E8-D6DC-5518-A14E-39008F25AA46",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Absolutely. We welcome runners of all levels. In fact, we have a special group for beginners called Couch to 5K. It's a nine-week programme that takes you from not running at all to running five kilometres without stopping."
+    },
+    {
+     "id": "CB9D8AA9-AAC4-5EA0-AEAB-6C41F447F179",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Five kilometres sounds like a lot right now."
+    },
+    {
+     "id": "F904E3BB-BBA0-52F9-983A-9E5B443761D7",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Everyone says that at the start. But the programme is very gradual. In the first week, you run for just one minute, then walk for ninety seconds, and repeat that eight times. Each week the running parts get a bit longer."
+    },
+    {
+     "id": "2C09A600-A0AC-5F19-BD3D-368C0CC713B8",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds possible. When do the sessions take place?"
+    },
+    {
+     "id": "2542B1FC-0124-5933-B285-CFAC2370D5C1",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "The beginners' group meets twice a week: on Tuesday evenings at seven and on Saturday mornings at nine. You should try to come to both, but if you miss one, you can do the session on your own."
+    },
+    {
+     "id": "DA864790-5DCB-5C73-A62B-D1EEAC6C0497",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Tuesday evenings are fine. Saturday might be difficult sometimes because I work every other weekend."
+    },
+    {
+     "id": "25AB2861-FB72-5DDF-9DE1-C04A71D332EB",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "That's no problem. Lots of people have the same situation."
+    },
+    {
+     "id": "DC4D378C-E3FE-5212-A741-82D9DAB9EAE0",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Where do you meet?"
+    },
+    {
+     "id": "AA241E24-EFBC-54F3-8163-DA1B8D177BE6",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "We meet outside the sports centre in Victoria Park. Not the main entrance on Park Road, but the side entrance next to the tennis courts. There's a big green door, and you'll see us there."
+    },
+    {
+     "id": "6A20A87A-24A9-571F-ABE5-4C8E0F22149B",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Next to the tennis courts. Okay. How much does it cost?"
+    },
+    {
+     "id": "78AF4871-46BE-547E-9B37-AC770E6C7F01",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "The Couch to 5K programme costs thirty pounds for the whole nine weeks. After that, if you want to stay with the club, the yearly membership is forty-five pounds. That gives you access to all our sessions, and discounts at a local sports shop."
+    },
+    {
+     "id": "11F03995-D01A-5DBD-B823-2F9D2D761235",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's very reasonable. What do I need to bring?"
+    },
+    {
+     "id": "F2C8B10F-D51B-57DE-BFFF-A4993B98DF09",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "The most important thing is a good pair of running shoes. You don't need anything expensive, but please don't run in old shoes or fashion trainers, as that can cause injuries. The sports shop on the high street will check how you run and help you choose the right ones. Apart from that, comfortable clothes and a bottle of water."
+    },
+    {
+     "id": "C9F5F715-E199-5B13-97DA-AD71C0C39047",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "And in winter, when it's dark at seven?"
+    },
+    {
+     "id": "AE7F92BB-6F53-540E-AA8F-D1DA906ADB9E",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Good question. In winter, everyone must wear something bright or reflective, like a yellow vest, so drivers can see us. The club can sell you one for five pounds if you don't have one."
+    },
+    {
+     "id": "89A48005-38CB-5555-AA80-2C2186F30A0C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Do I need to be fit already? I haven't done any exercise for years."
+    },
+    {
+     "id": "A7FE44A2-A530-5CA8-AD6C-7665A5659FBF",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Not at all. Most people in the beginners' group haven't run since they were at school. We go at the speed of the slowest runner, and one of our coaches always stays at the back of the group, so nobody is ever left behind. If you find a session too hard, you can repeat a week before moving on."
+    },
+    {
+     "id": "10DC6EB9-385A-53ED-A5DC-2C33FADFB31F",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That's good to hear. Is there anything else I should know?"
+    },
+    {
+     "id": "667378C3-BE38-557C-9D4F-D36C986B8A69",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Each session starts with a ten-minute warm-up and finishes with some stretching. And after the Saturday session, many members go for coffee at the park café, which is a nice way to get to know people."
+    },
+    {
+     "id": "925BA304-7775-5C51-89A3-B08669C86DC7",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds lovely. When does the next programme start?"
+    },
+    {
+     "id": "1D70E6A0-92AD-5F8E-BB41-6C62441D9D68",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "The next one starts on Tuesday the fourth of March. It would be good if you could register before then, so we know how many people to expect."
+    },
+    {
+     "id": "A19F06FB-74A0-50D2-B0A0-A6B3619A481A",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Can I register now?"
+    },
+    {
+     "id": "D516ECCF-797B-5F6B-A75C-935BB0DFF99F",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Of course. What's your name?"
+    },
+    {
+     "id": "FAAFA71B-E317-5A13-BEB0-2A2A7C9C4ED1",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Jessica Thornton. That's T-H-O-R-N-T-O-N."
+    },
+    {
+     "id": "FA6FB2A5-32FA-51CF-A836-11EE242FBA98",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "And your phone number?"
+    },
+    {
+     "id": "9E0FEA16-FF0E-574A-A7C8-871CA3A44786",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's 07762 418 905."
+    },
+    {
+     "id": "85678DF5-8B23-5870-AE99-98CCD735404F",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "Thanks, Jessica. And do you have any health problems I should know about?"
+    },
+    {
+     "id": "AD000DB8-5F68-535B-AD4A-FBE18C306853",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I have asthma, but it's not serious. I just carry an inhaler."
+    },
+    {
+     "id": "A5462935-042A-5812-9535-D42A022466EE",
+     "speaker": "Coach",
+     "accent": "en-GB",
+     "text": "That's fine. Many runners have asthma. Just bring your inhaler to every session, and tell the coach if you feel unwell. We'll see you on the fourth of March!"
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam08-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Beginners' programme lasts __________ weeks",
+     "explanation": "The programme lasts nine weeks.",
+     "evidenceQuote": "It's a nine-week programme",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "9",
+      "nine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Week 1: run for one minute, then walk for __________ seconds",
+     "explanation": "Walk for ninety seconds after each minute.",
+     "evidenceQuote": "then walk for ninety seconds",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "90",
+      "ninety"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Evening session: __________ at 7 p.m.",
+     "explanation": "The evening session is on Tuesdays.",
+     "evidenceQuote": "on Tuesday evenings at seven",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Meeting place: side entrance next to the __________ courts",
+     "explanation": "They meet by the tennis courts.",
+     "evidenceQuote": "the side entrance next to the tennis courts",
+     "skillTag": "distractor_correction",
+     "distractorNote": "Not the main entrance on Park Road.",
+     "options": [],
+     "acceptedAnswers": [
+      "tennis"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Cost of programme: £__________",
+     "explanation": "The programme costs £30.",
+     "evidenceQuote": "The Couch to 5K programme costs thirty pounds",
+     "skillTag": "numbers",
+     "distractorNote": "£45 is the yearly membership; £5 is a vest.",
+     "options": [],
+     "acceptedAnswers": [
+      "30",
+      "thirty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Most important item: good running __________",
+     "explanation": "Good running shoes are most important.",
+     "evidenceQuote": "a good pair of running shoes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shoes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "In winter: wear a bright or reflective __________",
+     "explanation": "A reflective vest is required.",
+     "evidenceQuote": "like a yellow vest",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vest"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Each session ends with __________",
+     "explanation": "Sessions end with stretching.",
+     "evidenceQuote": "finishes with some stretching",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stretching"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "She spells Thornton.",
+     "evidenceQuote": "Jessica Thornton. That's T-H-O-R-N-T-O-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Thornton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Health: has __________",
+     "explanation": "She has asthma.",
+     "evidenceQuote": "I have asthma",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "asthma"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "beginner",
+    "session",
+    "membership fee",
+    "warm-up",
+    "route"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam08-lp2",
+   "partNumber": 2,
+   "title": "The new community sports centre",
+   "contextDescription": "A manager gives a tour introduction for the opening of a new community sports centre.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "433931B1-B853-5D67-9221-C0140BC62279",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Good morning, everyone, and welcome to the brand-new Oakfield Community Sports Centre. My name's Lisa Moreno, and I'm the manager here. Thank you all for coming to our opening day. I'm going to tell you about the facilities, show you where everything is on the plan, and explain how to join."
+    },
+    {
+     "id": "81CD4497-780D-5E3D-A7E2-D11E287A3389",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "First, a little background. The old sports hall on this site was over sixty years old and in very poor condition. After a long campaign by local residents, the council agreed to build a new centre, and it was finished last month. It cost twelve million dollars, and a large part of the money came from a national sports fund."
+    },
+    {
+     "id": "67C16246-F013-59AA-8FD1-341B9F283562",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Now, please look at the plan on the screen. We're standing in the reception area, here at the bottom of the plan in the middle. The café is directly behind me. On your left as you look at the plan, there's the swimming pool, which takes up the whole left side of the building. It has six lanes, and there's a separate small pool for children and beginners."
+    },
+    {
+     "id": "909C8DB3-50E0-5E82-91C5-78E6019F6D76",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "On the right side of reception, you'll find the changing rooms. We've designed them so that families can change together if they wish, and there are also private cubicles."
+    },
+    {
+     "id": "78E25B98-5339-5299-A9D4-60DD00294111",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "If you walk straight on past the café, you come to the main sports hall, in the middle of the building. It's big enough for basketball, volleyball, badminton or five-a-side football. The hall can also be divided into two with a curtain, so two groups can use it at the same time."
+    },
+    {
+     "id": "76DD3EE4-3A81-5BC0-A614-28B2439F4B2A",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "In the top right-hand corner of the building is the gym, with the latest equipment for cardio and weight training. And next to the gym, in the top left-hand corner, is our climbing wall, which is eight metres high. It's very popular with teenagers, and we run climbing courses for complete beginners every Saturday."
+    },
+    {
+     "id": "8DCDB6AB-9224-5782-A902-FD0005CF9C3B",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Outside, at the back of the building, there are also two new tennis courts and an outdoor fitness area with exercise machines that anyone can use for free, even if they're not members. We hope this will encourage more people in the neighbourhood to be active, especially older residents and families who may not feel comfortable in a gym."
+    },
+    {
+     "id": "126335CA-707C-596C-A221-7ECADF8942E5",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Finally, upstairs, there's a studio for exercise classes like yoga, dance and spinning. You can reach it by the stairs next to reception, or there's a lift beside the changing rooms."
+    },
+    {
+     "id": "BE7D37E4-7AC9-5499-8A30-FAE8C47BAF10",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Now, how do you join? There are two options. You can pay as you go, which means paying each time you visit. A swim costs four dollars fifty, for example. Or you can buy a monthly membership for thirty-five dollars, which gives you unlimited use of the pool, gym and classes. Students and people over sixty-five pay twenty-five dollars a month."
+    },
+    {
+     "id": "66CD9C2A-C331-51A3-BDEB-6A018B5C63AF",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "To become a member, you'll need to fill in a form at reception and have your photo taken for your membership card. And everyone who joins today gets their first month free."
+    },
+    {
+     "id": "01F29E15-6E21-5EC6-AA84-67A72B5FD3CE",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "A few rules to remember. Children under eight must be with an adult in the pool at all times. You must have an induction before you use the gym for the first time; it's free and takes about forty minutes. And you need to book classes in advance, either at reception or on our app."
+    },
+    {
+     "id": "A58EF321-3B64-5160-9E3D-835EF77C2547",
+     "speaker": "Manager",
+     "accent": "en-US",
+     "text": "Today, all activities are free, and there are taster sessions all day. The first climbing session starts at eleven, and there's a family swim at two. Please enjoy yourselves, try as many activities as you like, and if you have any questions, ask any member of staff in a blue T-shirt."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam08-L11",
+     "number": 11,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Swimming pool",
+     "explanation": "The pool is on the whole left side.",
+     "evidenceQuote": "there's the swimming pool, which takes up the whole left side of the building",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "exam08-L12",
+     "number": 12,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Changing rooms",
+     "explanation": "Changing rooms are to the right of reception.",
+     "evidenceQuote": "On the right side of reception, you'll find the changing rooms",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "exam08-L13",
+     "number": 13,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Main sports hall",
+     "explanation": "The sports hall is in the middle.",
+     "evidenceQuote": "the main sports hall, in the middle of the building",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam08-L14",
+     "number": 14,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Gym",
+     "explanation": "The gym is top right.",
+     "evidenceQuote": "In the top right-hand corner of the building is the gym",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam08-L15",
+     "number": 15,
+     "format": "Map / Diagram Labeling",
+     "prompt": "Climbing wall",
+     "explanation": "The climbing wall is top left.",
+     "evidenceQuote": "in the top left-hand corner, is our climbing wall",
+     "skillTag": "map_labelling",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. A",
+      "A"
+     ]
+    },
+    {
+     "id": "exam08-L16",
+     "number": 16,
+     "format": "Multiple Choice",
+     "prompt": "Why was a new sports centre built?",
+     "explanation": "The old hall was in very poor condition.",
+     "evidenceQuote": "The old sports hall on this site was over sixty years old and in very poor condition",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The population of the area grew.",
+      "B. The old building was in bad condition.",
+      "C. A national sports fund asked the council to."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The old building was in bad condition.",
+      "The old building was in bad condition."
+     ]
+    },
+    {
+     "id": "exam08-L17",
+     "number": 17,
+     "format": "Multiple Choice",
+     "prompt": "How much does a monthly membership cost for an adult under 65?",
+     "explanation": "Adults pay $35 a month.",
+     "evidenceQuote": "a monthly membership for thirty-five dollars",
+     "skillTag": "numbers",
+     "distractorNote": "$25 is for students and over-65s.",
+     "options": [
+      "A. $4.50",
+      "B. $25",
+      "C. $35"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. $35",
+      "$35"
+     ]
+    },
+    {
+     "id": "exam08-L18",
+     "number": 18,
+     "format": "Multiple Choice",
+     "prompt": "What do people who join today receive?",
+     "explanation": "Their first month is free.",
+     "evidenceQuote": "everyone who joins today gets their first month free",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. a free month",
+      "B. a free swimming lesson",
+      "C. a free T-shirt"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. a free month",
+      "a free month"
+     ]
+    },
+    {
+     "id": "exam08-L19",
+     "number": 19,
+     "format": "Multiple Choice",
+     "prompt": "Before using the gym for the first time, members must",
+     "explanation": "An induction is required.",
+     "evidenceQuote": "You must have an induction before you use the gym for the first time",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. book online.",
+      "B. pay an extra fee.",
+      "C. have an induction."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. have an induction.",
+      "have an induction."
+     ]
+    },
+    {
+     "id": "exam08-L20",
+     "number": 20,
+     "format": "Multiple Choice",
+     "prompt": "What time does the family swim start today?",
+     "explanation": "The family swim is at two.",
+     "evidenceQuote": "there's a family swim at two",
+     "skillTag": "numbers",
+     "options": [
+      "A. 11 a.m.",
+      "B. 2 p.m.",
+      "C. 4 p.m."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. 2 p.m.",
+      "2 p.m."
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "facilities",
+    "changing rooms",
+    "studio",
+    "climbing wall",
+    "membership card"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Label the plan below. Write the correct letter, A–G, next to Questions 11–15.",
+     "map": {
+      "cols": 3,
+      "rows": 4,
+      "cells": [
+       [
+        0,
+        0,
+        1,
+        1,
+        "A"
+       ],
+       [
+        1,
+        0,
+        1,
+        1,
+        "G"
+       ],
+       [
+        2,
+        0,
+        1,
+        1,
+        "C"
+       ],
+       [
+        0,
+        1,
+        1,
+        2,
+        "D"
+       ],
+       [
+        1,
+        1,
+        1,
+        1,
+        "B"
+       ],
+       [
+        2,
+        1,
+        1,
+        1,
+        "E"
+       ],
+       [
+        1,
+        2,
+        1,
+        1,
+        "Café"
+       ],
+       [
+        2,
+        2,
+        1,
+        1,
+        "F"
+       ],
+       [
+        0,
+        3,
+        1,
+        1,
+        "Car park"
+       ],
+       [
+        1,
+        3,
+        1,
+        1,
+        "Reception"
+       ],
+       [
+        2,
+        3,
+        1,
+        1,
+        "Bike racks"
+       ]
+      ],
+      "note": "Reception is at the bottom of the plan."
+     }
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Choose the correct letter, A, B or C."
+    }
+   ]
+  },
+  {
+   "id": "exam08-lp3",
+   "partNumber": 3,
+   "title": "Planning a survey about exercise habits",
+   "contextDescription": "Two sports science students, Tom and Aisha, plan a survey about students' exercise habits.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "E599D7CC-063F-5E08-B21A-37AB37AED779",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Okay, Tom. We need to plan our survey for the sports science project. Our topic is why some students exercise regularly and others don't."
+    },
+    {
+     "id": "6F731FD1-E680-5202-8819-8B43B313C9BE",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Right. I think first we should decide how many people to ask. Our tutor said at least fifty."
+    },
+    {
+     "id": "B63364F4-C4A4-530E-84FF-4F75504B2831",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Fifty is the minimum. I'd like to aim for a hundred, so we can compare different groups, like first-year and final-year students, or men and women."
+    },
+    {
+     "id": "8B635A0A-DE3F-550D-A25D-D96C89E21850",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "A hundred is a lot, though. How would we find that many people?"
+    },
+    {
+     "id": "6865BA67-051A-5DA0-A477-4AC936B1EEA0",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "I think an online survey would be easiest. We could share the link on the student union's social media page. Lots of students follow it."
+    },
+    {
+     "id": "246CEF07-C926-5F97-9BD8-028D5755A40D",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Good idea. But if we only use social media, we'll mainly get people who are already interested in that page. Maybe we should also stand outside the library and ask people to fill it in on a tablet."
+    },
+    {
+     "id": "F914DD1D-4E15-5D81-8E30-26D4E59216A2",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Okay, let's do both. Now, what questions should we ask? First, how often they exercise each week."
+    },
+    {
+     "id": "23DFA1A9-0BF5-545A-9EB1-69DFE5476E23",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Yes, and what kind of exercise. Like going to the gym, team sports, running, cycling, or walking."
+    },
+    {
+     "id": "1572A4CC-2831-509C-84C8-EC555F3117FF",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Should walking count as exercise? Everyone walks a bit."
+    },
+    {
+     "id": "7DF625A3-26FF-5333-93F1-F86F09B76523",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Let's say walking counts only if it's at least thirty minutes at a fast speed. Otherwise almost everyone will say they exercise."
+    },
+    {
+     "id": "543184E6-1891-5393-8C15-B23A4E70A44F",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Good point. Then the most important part: the reasons. For people who don't exercise much, we want to know why not."
+    },
+    {
+     "id": "4F9C3617-28B7-5873-9390-E3691EB38739",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "I think we should give them a list of possible reasons to choose from, like lack of time, cost, not enjoying it, or feeling embarrassed at the gym. And then an 'other' box where they can write their own reason."
+    },
+    {
+     "id": "6854FBED-D3D8-5BFC-910F-00E8841337D8",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Yes, a list is easier to analyse than open answers. I read an article which said that for students, lack of time is the most common reason people give, but often the real reason is that they don't have a friend to go with."
+    },
+    {
+     "id": "59B3FA00-C7ED-5772-A041-AB9E66E606C0",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Interesting. We could ask a question about that, like 'Would you exercise more if you had someone to exercise with?'"
+    },
+    {
+     "id": "31CE3D37-0F21-54EC-81F5-C06845229015",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "I like that. And we should ask about cost too. The university gym is quite expensive, about twenty pounds a month."
+    },
+    {
+     "id": "C2EA621D-33E0-56A7-8ED2-B80F397BD32B",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "We could also ask about the time of day they prefer to exercise. If most students say evenings, but the gym classes are mostly in the morning, that might be part of the problem."
+    },
+    {
+     "id": "7AEB81F2-B72B-5F03-BA0D-FFABEBB82EAA",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Good idea. The university might find our results useful if we show that. Maybe we could send them a summary at the end."
+    },
+    {
+     "id": "664472AF-334D-58F2-B0E7-2009D371E659",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Okay. How long should the survey be? I hate long surveys. I usually stop halfway."
+    },
+    {
+     "id": "50C27999-8A8E-552A-BDC7-7856787E5170",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Me too. Let's keep it to ten questions maximum, so it takes about five minutes."
+    },
+    {
+     "id": "AFC02891-531A-5F86-8380-BBCD02C5F3B1",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Perfect. Before we send it to everyone, we should test it on a few friends to make sure the questions are clear."
+    },
+    {
+     "id": "E0446431-FFC0-54CF-AED6-2F496A98AF96",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Definitely. Let's test it on five people this week. Then we can change anything that's confusing."
+    },
+    {
+     "id": "92CB5C81-6280-52DF-99E4-DFF811A4DFA4",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "And how will we present the results?"
+    },
+    {
+     "id": "28929401-7EAA-56FE-8183-4067B03AC02A",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Mainly with charts. A bar chart would be good for comparing reasons, and a pie chart could show the types of exercise. And we need to write a short report of about two thousand words."
+    },
+    {
+     "id": "C9B3259E-D48E-586B-944E-F05D6D42F380",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "When is it due?"
+    },
+    {
+     "id": "DF7F78BA-D4A9-5EC6-A565-8F33BD19517F",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "The twentieth of April. So we should send out the survey by the end of this month at the latest."
+    },
+    {
+     "id": "E70DB535-9119-57A9-B778-EE7D12381D11",
+     "speaker": "Tom",
+     "accent": "en-US",
+     "text": "Okay. I'll write the first draft of the questions tonight and send them to you."
+    },
+    {
+     "id": "6C26FADD-808A-5098-AA8C-4D82AEC541FA",
+     "speaker": "Aisha",
+     "accent": "en-GB",
+     "text": "Great. And I'll speak to the student union about sharing the link. I know one of the officers there, so it shouldn't be a problem. Let's meet again on Friday to check the questions together before we test them."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam08-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "How many people does Aisha want to survey?",
+     "explanation": "Aisha wants to aim for a hundred.",
+     "evidenceQuote": "I'd like to aim for a hundred",
+     "skillTag": "numbers",
+     "distractorNote": "Fifty is the minimum.",
+     "options": [
+      "A. fifty",
+      "B. seventy-five",
+      "C. one hundred"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. one hundred",
+      "one hundred"
+     ]
+    },
+    {
+     "id": "exam08-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why does Tom want to ask people outside the library?",
+     "explanation": "Using only social media would give a limited group.",
+     "evidenceQuote": "we'll mainly get people who are already interested in that page",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is quicker than an online survey.",
+      "B. Social media alone would give a limited group.",
+      "C. Their tutor told them to."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Social media alone would give a limited group.",
+      "Social media alone would give a limited group."
+     ]
+    },
+    {
+     "id": "exam08-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "When will walking count as exercise?",
+     "explanation": "Thirty minutes of fast walking counts.",
+     "evidenceQuote": "walking counts only if it's at least thirty minutes at a fast speed",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. if it is fast and at least 30 minutes",
+      "B. if it is part of the journey to university",
+      "C. never"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. if it is fast and at least 30 minutes",
+      "if it is fast and at least 30 minutes"
+     ]
+    },
+    {
+     "id": "exam08-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "According to the article Aisha read, the real reason many students do not exercise is",
+     "explanation": "They have no friend to go with.",
+     "evidenceQuote": "often the real reason is that they don't have a friend to go with",
+     "skillTag": "multiple_choice",
+     "distractorNote": "Lack of time is the reason people give, not the real reason.",
+     "options": [
+      "A. lack of time.",
+      "B. the cost of the gym.",
+      "C. not having a friend to go with."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. not having a friend to go with.",
+      "not having a friend to go with."
+     ]
+    },
+    {
+     "id": "exam08-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why do they want to test the survey first?",
+     "explanation": "Testing checks the questions are clear.",
+     "evidenceQuote": "to make sure the questions are clear",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to see how long it takes",
+      "B. to check the questions are clear",
+      "C. to get more participants"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. to check the questions are clear",
+      "to check the questions are clear"
+     ]
+    },
+    {
+     "id": "exam08-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Link will be shared on the student union's social __________ page",
+     "explanation": "They will use the social media page.",
+     "evidenceQuote": "the student union's social media page",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "media"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Cost of university gym: £__________ a month",
+     "explanation": "The gym costs about £20 a month.",
+     "evidenceQuote": "about twenty pounds a month",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Maximum number of questions: __________",
+     "explanation": "Ten questions maximum.",
+     "evidenceQuote": "Let's keep it to ten questions maximum",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Types of exercise shown in a __________ chart",
+     "explanation": "A pie chart will show types of exercise.",
+     "evidenceQuote": "a pie chart could show the types of exercise",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pie"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Report deadline: __________ April",
+     "explanation": "The report is due on 20 April.",
+     "evidenceQuote": "The twentieth of April.",
+     "skillTag": "dates",
+     "options": [],
+     "acceptedAnswers": [
+      "20",
+      "20th",
+      "twentieth",
+      "the twentieth"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "survey",
+    "participant",
+    "question",
+    "results",
+    "percentage"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam08-lp4",
+   "partNumber": 4,
+   "title": "The history of the Olympic Games",
+   "contextDescription": "A talk at a sports museum about the ancient and modern Olympic Games.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "199B75F7-0657-50B7-8159-6BF467F90BF7",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Good afternoon, and welcome to the sports museum. Today I'm going to talk about the history of the Olympic Games, from ancient Greece to the present day."
+    },
+    {
+     "id": "9EAD582B-ECE9-500F-9050-EDCBE2B44281",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "The first Olympic Games that we know about took place in 776 BC, at a place called Olympia in southern Greece. Olympia was not a city, but a religious site dedicated to the god Zeus. The Games were held every four years, and this four-year period was called an Olympiad. The Greeks even used Olympiads to measure time, a bit like we use years."
+    },
+    {
+     "id": "EC8D4736-4753-5D59-9111-F68CEBEEEB20",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "At first, there was only one event: a running race of about one hundred and ninety metres, the length of the stadium. Over time, more events were added, including longer races, wrestling, boxing, horse racing and chariot racing. There was also the pentathlon, which had five events: running, jumping, throwing the discus, throwing the javelin and wrestling."
+    },
+    {
+     "id": "A48C8E8A-CD16-5D66-9549-9DDDC04971B4",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Only free men who spoke Greek could compete. Women were not allowed to take part, and married women were not even allowed to watch. Interestingly, the athletes competed without any clothes. Winners did not receive medals. Instead, they were given a crown made of olive leaves. But when they returned home, they were treated as heroes, and some cities gave them free meals for the rest of their lives."
+    },
+    {
+     "id": "6583379F-D012-553C-A729-F00F0CF36B27",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "During the Games, there was a special truce. This meant that wars between Greek cities were stopped so that athletes and visitors could travel safely to Olympia. The ancient Games continued for more than a thousand years, until they were stopped in the year 393 by the Roman emperor Theodosius, who was a Christian and did not like events connected with the old Greek gods."
+    },
+    {
+     "id": "068757FF-8E05-5F55-97F5-28A3993B6ED7",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "The modern Olympic Games were the idea of a Frenchman, Pierre de Coubertin. He believed that sport could help to build character and bring people from different countries together in peace. The first modern Games were held in Athens in 1896, as a way of connecting them with ancient Greece. About two hundred and fifty athletes from fourteen countries took part, all of them men."
+    },
+    {
+     "id": "A3AF9EDD-AC08-5583-97C3-E5200BD6CAED",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Women competed for the first time at the next Games, in Paris in 1900, in sports such as tennis and golf. Since then, the number of women athletes has grown steadily, and at the Paris Games in 2024, for the first time, there were equal numbers of male and female athletes."
+    },
+    {
+     "id": "10EA7879-8B36-548F-940C-864FB27B7C81",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Several famous traditions were added later. The five rings, which represent the five continents joined together, were designed by Coubertin in 1913. The Olympic flame was first lit at the Amsterdam Games in 1928, and the torch relay, in which runners carry the flame from Olympia to the host city, began in 1936. The Winter Olympics, for sports on snow and ice, started in 1924 in France. And the Paralympic Games, for athletes with disabilities, were first held in Rome in 1960. Today they take place in the same city as the Olympics, a few weeks later, and they have become one of the largest sporting events in the world."
+    },
+    {
+     "id": "32079EB9-2BEA-5CBF-9DAD-036C36FBFBF4",
+     "speaker": "Speaker",
+     "accent": "en-IE",
+     "text": "Today, the Olympics is the biggest sporting event in the world, and the opening ceremony is watched by hundreds of millions of people. More than ten thousand athletes from over two hundred countries take part in the Summer Games. However, hosting the Games is extremely expensive, and some cities have decided not to bid because they worry about the cost and about building stadiums that will not be used afterwards. Now, if there are no questions, please follow me to the next room, where you can see some Olympic torches from different Games."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam08-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Olympia was a religious site for the god __________",
+     "explanation": "Olympia was dedicated to Zeus.",
+     "evidenceQuote": "a religious site dedicated to the god Zeus",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Zeus"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "First event: a running race the length of the __________",
+     "explanation": "The race was the length of the stadium.",
+     "evidenceQuote": "the length of the stadium",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stadium"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "The pentathlon had __________ events",
+     "explanation": "The pentathlon had five events.",
+     "evidenceQuote": "which had five events",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Winners received a crown made of __________ leaves",
+     "explanation": "Winners got an olive crown.",
+     "evidenceQuote": "a crown made of olive leaves",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "olive"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Some cities gave winners free __________ for life",
+     "explanation": "Winners got free meals.",
+     "evidenceQuote": "some cities gave them free meals for the rest of their lives",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "A truce stopped __________ so people could travel safely",
+     "explanation": "Wars were stopped during the Games.",
+     "evidenceQuote": "wars between Greek cities were stopped",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wars"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Coubertin believed sport could build __________",
+     "explanation": "Sport builds character.",
+     "evidenceQuote": "sport could help to build character",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "character"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "First modern Games: held in __________ in 1896",
+     "explanation": "They were in Athens.",
+     "evidenceQuote": "The first modern Games were held in Athens in 1896",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Athens"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "The five rings represent the five __________",
+     "explanation": "The rings represent the continents.",
+     "evidenceQuote": "which represent the five continents joined together",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "continents"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Some cities do not bid because of worries about the __________",
+     "explanation": "Cost worries stop some bids.",
+     "evidenceQuote": "because they worry about the cost",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cost"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "athlete",
+    "competition",
+    "medal",
+    "host city",
+    "tradition"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam08-rp1",
+   "passageNumber": 1,
+   "title": "The story of football",
+   "discipline": "Sport & History",
+   "paragraphs": [
+    "Football, known as soccer in some countries, is the most popular sport in the world. It is played by around two hundred and fifty million people, and billions watch the World Cup on television. In many countries, football clubs are an important part of local identity, and families support the same team for generations. Part of its popularity comes from its simplicity: all you need is a ball and some open space, and the basic rules are easy to understand. But the game we know today developed over many centuries, and its early history was much less organised than the modern sport.",
+    "Games that involve kicking a ball have been played in many parts of the world for thousands of years. In China, a game called cuju was played more than two thousand years ago, in which players tried to kick a leather ball through an opening in a net. It was used to train soldiers and was later popular at the emperor's court. In ancient Greece and Rome, there were also ball games, although players were allowed to use their hands as well as their feet.",
+    "In medieval England, a very rough form of football was played, especially on holidays. These games were often played between whole villages, with no limit on the number of players and very few rules. The goals might be several kilometres apart, and the games could last all day. Players were often injured, and windows and shops were damaged. Sometimes the ball was not even a real ball, but an animal's bladder filled with air and covered in leather. Several English kings tried to ban football, partly because it was so violent and partly because they wanted young men to practise archery instead, which was more useful in war.",
+    "The modern game began to take shape in English schools in the nineteenth century. Different schools had different rules: at some, players could pick up the ball and run with it, while at others, handling the ball was not allowed. When former students went to university, they found it difficult to play together because of these different rules. In 1848, a group of students at Cambridge University wrote one of the first sets of common rules, known as the Cambridge Rules.",
+    "The most important moment came in 1863, when representatives of several London clubs met in a pub called the Freemasons' Tavern and formed the Football Association. They agreed on a single set of rules, which banned carrying the ball and kicking other players. Some clubs disagreed, because they preferred a game in which players could run with the ball. These clubs went on to develop their own sport, rugby, which still has its own separate rules today.",
+    "Football spread very quickly in Britain during the late nineteenth century, especially among working people in the industrial cities of the north of England and Scotland. In 1885, the Football Association allowed clubs to pay players, and three years later, the first professional league was formed. British sailors, workers and teachers took the game to other countries, and by the early twentieth century, it was being played across Europe and South America. The international organisation FIFA, which still organises the World Cup today, was founded in Paris in 1904, and the first World Cup was held in Uruguay in 1930.",
+    "Women have played football for well over a century. In England, women's matches were very popular during the First World War, when many men were away fighting. One famous team, the Dick, Kerr Ladies, played in front of more than fifty thousand people in 1920. However, in 1921, the Football Association banned women's teams from playing on the grounds of its member clubs, saying the game was unsuitable for women. The ban lasted for fifty years. Today, women's football is growing rapidly, and crowds at major women's tournaments have broken records.",
+    "Modern football has also been changed by technology. Since 2018, many major competitions have used a video assistant referee, known as VAR, to check important decisions such as goals and penalties. Some fans welcome this because it makes decisions fairer, but others feel it slows the game down and reduces the excitement of celebrating a goal."
+   ],
+   "questions": [
+    {
+     "id": "exam08-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Cuju was used to train soldiers.",
+     "explanation": "Cuju was used for military training.",
+     "evidenceQuote": "It was used to train soldiers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam08-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "In ancient Rome, players could only use their feet.",
+     "explanation": "They could use hands too.",
+     "evidenceQuote": "players were allowed to use their hands as well as their feet",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam08-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Medieval football games had a fixed number of players.",
+     "explanation": "There was no limit.",
+     "evidenceQuote": "with no limit on the number of players",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam08-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "English kings wanted young men to practise archery.",
+     "explanation": "Kings preferred archery practice.",
+     "evidenceQuote": "they wanted young men to practise archery instead",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam08-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The Cambridge Rules were used in every English school.",
+     "explanation": "Their use in schools is not described.",
+     "evidenceQuote": "known as the Cambridge Rules",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam08-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "All clubs at the 1863 meeting agreed with the new rules.",
+     "explanation": "Some clubs disagreed and developed rugby.",
+     "evidenceQuote": "Some clubs disagreed",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam08-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The first World Cup took place in South America.",
+     "explanation": "Uruguay is in South America.",
+     "evidenceQuote": "the first World Cup was held in Uruguay in 1930",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam08-R8",
+     "number": 8,
+     "format": "Sentence Completion",
+     "prompt": "In medieval games, the __________ could be several kilometres apart.",
+     "explanation": "Goals could be kilometres apart.",
+     "evidenceQuote": "The goals might be several kilometres apart",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "goals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R9",
+     "number": 9,
+     "format": "Sentence Completion",
+     "prompt": "The Football Association was formed in a __________ in London.",
+     "explanation": "It was formed in a pub.",
+     "evidenceQuote": "met in a pub called the Freemasons' Tavern",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pub"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R10",
+     "number": 10,
+     "format": "Sentence Completion",
+     "prompt": "Clubs that wanted to run with the ball developed __________.",
+     "explanation": "They developed rugby.",
+     "evidenceQuote": "These clubs went on to develop their own sport, rugby",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rugby"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R11",
+     "number": 11,
+     "format": "Sentence Completion",
+     "prompt": "From 1885, clubs were allowed to __________ players.",
+     "explanation": "Clubs could pay players.",
+     "evidenceQuote": "the Football Association allowed clubs to pay players",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pay"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R12",
+     "number": 12,
+     "format": "Sentence Completion",
+     "prompt": "The ban on women's teams lasted for __________ years.",
+     "explanation": "The ban lasted fifty years.",
+     "evidenceQuote": "The ban lasted for fifty years.",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fifty",
+      "50"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R13",
+     "number": 13,
+     "format": "Sentence Completion",
+     "prompt": "Some fans think VAR makes decisions __________.",
+     "explanation": "Supporters say VAR is fairer.",
+     "evidenceQuote": "because it makes decisions fairer",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fairer"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam08-rp2",
+   "passageNumber": 2,
+   "title": "How exercise helps the brain",
+   "discipline": "Health Science",
+   "paragraphs": [
+    "Most people know that regular exercise is good for the body. It strengthens the heart and muscles, helps control weight and reduces the risk of many diseases, including diabetes and some types of cancer. In recent years, however, scientists have discovered that exercise is also very good for the brain. Research shows that physical activity can improve memory, help people concentrate and reduce the risk of depression. Some scientists now say that exercise is one of the best things we can do for our mental health, and doctors in some countries now recommend physical activity to patients alongside, or even instead of, medicine.",
+    "One of the clearest effects of exercise is on mood. Many people say they feel happier and more relaxed after a run, a swim or a game of football. This is partly because exercise causes the brain to release chemicals called endorphins, which reduce pain and create a feeling of well-being. Exercise also reduces levels of stress hormones in the body. Several studies have found that, for people with mild or moderate depression, regular exercise can be as effective as some medicines, although people with serious depression should always talk to a doctor.",
+    "Exercise also seems to help memory and learning. In one study in the United States, older adults were divided into two groups. One group walked for forty minutes three times a week, while the other group did only stretching exercises. After a year, scientists used brain scans to measure a part of the brain called the hippocampus, which is important for memory. In the walking group, the hippocampus had grown by about two per cent, while in the stretching group it had become slightly smaller, as normally happens with age.",
+    "Why does this happen? When we exercise, our heart beats faster and pumps more blood to the brain, bringing it more oxygen and nutrients. Exercise also increases the production of a protein that helps brain cells to grow and to make new connections with each other. Some scientists call this protein 'fertiliser for the brain'. In addition, exercise usually improves sleep, and good sleep is very important for memory. Exercising outdoors may bring extra benefits, because daylight helps to regulate the body clock, and spending time in green spaces such as parks has been linked with lower levels of stress.",
+    "Exercise may be especially useful for children. Studies have found that children who are physically active tend to concentrate better in class and get better results in tests. Some schools have started giving pupils short exercise breaks during lessons, for example a few minutes of running on the spot or dancing, and teachers report that pupils are calmer and more focused afterwards. In Finland, schools encourage children to be active for at least an hour a day, and many children walk or cycle to school.",
+    "How much exercise do we need? The World Health Organization recommends that adults do at least one hundred and fifty minutes of moderate activity every week, such as fast walking or cycling, or seventy-five minutes of more intense activity, such as running. That is about thirty minutes a day, five days a week. The good news is that even small amounts of exercise can help. One study found that people who walked for just ten minutes felt happier and had more energy than people who sat still for the same time.",
+    "Unfortunately, many people around the world do not get enough exercise. Modern life often involves sitting for long periods, at a desk, in a car or in front of a screen. The World Health Organization estimates that about a quarter of adults are not active enough. Experts suggest that the best type of exercise is the one you enjoy, because you are more likely to continue doing it. Dancing, gardening, playing with children or walking with friends can all be just as good as going to the gym.",
+    "Finally, it is never too late to start. Studies show that people who begin exercising in middle age or even later still gain important benefits for both body and brain. As one researcher put it, if exercise were a pill, it would be the most widely prescribed medicine in the world."
+   ],
+   "questions": [
+    {
+     "id": "exam08-R14",
+     "number": 14,
+     "format": "Matching Information",
+     "prompt": "the amount of exercise that adults should do",
+     "explanation": "Paragraph F gives the WHO recommendations.",
+     "evidenceQuote": "recommends that adults do at least one hundred and fifty minutes of moderate activity every week",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "exam08-R15",
+     "number": 15,
+     "format": "Matching Information",
+     "prompt": "an experiment comparing two groups of older people",
+     "explanation": "Paragraph C describes the walking experiment.",
+     "evidenceQuote": "older adults were divided into two groups",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "exam08-R16",
+     "number": 16,
+     "format": "Matching Information",
+     "prompt": "a reason why exercise makes people feel good",
+     "explanation": "Paragraph B explains endorphins.",
+     "evidenceQuote": "exercise causes the brain to release chemicals called endorphins",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. B",
+      "B"
+     ]
+    },
+    {
+     "id": "exam08-R17",
+     "number": 17,
+     "format": "Matching Information",
+     "prompt": "an example of a country that encourages active children",
+     "explanation": "Paragraph E mentions Finland.",
+     "evidenceQuote": "In Finland, schools encourage children to be active",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "exam08-R18",
+     "number": 18,
+     "format": "Matching Information",
+     "prompt": "the idea that older people can still benefit from starting exercise",
+     "explanation": "Paragraph H says it is never too late.",
+     "evidenceQuote": "people who begin exercising in middle age or even later still gain important benefits",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "H",
+      "H. H",
+      "H"
+     ]
+    },
+    {
+     "id": "exam08-R19",
+     "number": 19,
+     "format": "Matching Information",
+     "prompt": "the proportion of adults who do not exercise enough",
+     "explanation": "Paragraph G gives the proportion.",
+     "evidenceQuote": "about a quarter of adults are not active enough",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G",
+      "H. H"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "exam08-R20",
+     "number": 20,
+     "format": "Summary Completion",
+     "prompt": "Exercise reduces levels of __________ hormones.",
+     "explanation": "Exercise lowers stress hormones.",
+     "evidenceQuote": "Exercise also reduces levels of stress hormones in the body",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stress"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R21",
+     "number": 21,
+     "format": "Summary Completion",
+     "prompt": "The hippocampus is important for __________.",
+     "explanation": "The hippocampus is important for memory.",
+     "evidenceQuote": "which is important for memory",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "memory"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R22",
+     "number": 22,
+     "format": "Summary Completion",
+     "prompt": "During exercise, the heart pumps more __________ to the brain.",
+     "explanation": "More blood reaches the brain.",
+     "evidenceQuote": "pumps more blood to the brain",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "blood"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R23",
+     "number": 23,
+     "format": "Summary Completion",
+     "prompt": "A protein produced during exercise is called \"__________ for the brain\".",
+     "explanation": "It is called fertiliser for the brain.",
+     "evidenceQuote": "'fertiliser for the brain'",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fertiliser"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R24",
+     "number": 24,
+     "format": "Summary Completion",
+     "prompt": "Exercise usually improves __________, which helps memory.",
+     "explanation": "Exercise improves sleep.",
+     "evidenceQuote": "exercise usually improves sleep",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sleep"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R25",
+     "number": 25,
+     "format": "Summary Completion",
+     "prompt": "Teachers say pupils are calmer and more __________ after exercise breaks.",
+     "explanation": "Pupils are more focused.",
+     "evidenceQuote": "pupils are calmer and more focused afterwards",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "focused"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam08-R26",
+     "number": 26,
+     "format": "Summary Completion",
+     "prompt": "Experts say the best exercise is one that you __________.",
+     "explanation": "Choose exercise you enjoy.",
+     "evidenceQuote": "the best type of exercise is the one you enjoy",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "enjoy"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 701,
+   "groups": [
+    {
+     "from": 14,
+     "to": 19,
+     "instruction": "Questions 14–19. Reading Passage 2 has eight paragraphs, A–H. Which paragraph contains the following information? Write the correct letter, A–H."
+    },
+    {
+     "from": 20,
+     "to": 26,
+     "instruction": "Questions 20–26. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam08-rp3",
+   "passageNumber": 3,
+   "title": "Should children play competitive sport?",
+   "discipline": "Education & Psychology",
+   "paragraphs": [
+    "In many schools around the world, sports days and competitive games are an important part of school life. Children run races, play team games and compete for medals and trophies. But in recent years, some parents and teachers have questioned whether competition is good for children. A few schools have even stopped giving prizes to winners, or have organised sports days where everyone gets a medal. This has led to a lively debate about the role of competition in children's sport. Newspapers have reported on it, and many parents have strong opinions on both sides.",
+    "Those who support competitive sport argue that it teaches children important lessons for life. Through competition, children learn how to win without boasting and how to lose without giving up. They learn that hard work and practice lead to improvement, and they discover how to cope with disappointment. Supporters say that adult life is full of competition, in education, in jobs and in business, so it is better for children to learn to deal with it at a young age, when the consequences are small.",
+    "Competition can also be highly motivating. Many children enjoy the excitement of trying to win, and the chance to compete may encourage them to train harder and improve their skills. Team sports, in particular, teach children to work together, to support their teammates and to put the success of the group before their own success. Some research suggests that children who play team sports have better social skills and higher self-esteem than those who do not. Competitive sport can also give children a sense of belonging, as they become part of a club or a school team, and many adults remember the friendships they made through sport for the rest of their lives.",
+    "However, critics point out that competition can have negative effects, especially when the pressure to win becomes too strong. Children who are less talented may feel embarrassed or useless if they always lose, and some may give up sport completely. Surveys in several countries have found that many children stop playing organised sport around the age of thirteen, and one of the main reasons they give is that it is no longer fun. Too much focus on winning, critics say, can take away the enjoyment that should be at the heart of children's sport.",
+    "Parents can also make the problem worse. Most parents simply want their children to enjoy themselves and stay healthy, but some put a great deal of pressure on them, shouting from the side of the field or criticising them after a game. In one study, children said that the worst moment of playing sport was the car journey home, when parents discussed their performance. Some sports organisations now have codes of conduct asking parents to stay positive and to let coaches do the coaching.",
+    "Another concern is that very young children may not be ready for competition. Experts in child development explain that children under the age of about seven often find it difficult to understand the idea of winning and losing, and they may become very upset. For this reason, some sports have changed their rules for young children, with the aim of keeping the game fun. In some countries, for example, children's football matches for under-sevens do not record the score, and children play in small teams so that everyone gets plenty of time with the ball.",
+    "Perhaps the answer is not to choose between competition and no competition, but to find the right balance. Many experts believe that competition can be healthy if it is combined with an emphasis on effort, improvement and enjoyment, rather than only on winning. Coaches and teachers, for example, can praise children for trying hard and for improving their personal best, not only for coming first. Schools can also offer a wide range of activities at lunchtime and after school, including non-competitive ones like dance or walking, so that every child can find something they enjoy.",
+    "The goal of children's sport, most parents and teachers agree, should be to help children develop a lifelong love of physical activity. If competition helps to achieve that, it is valuable. If it makes children give up sport, it is not."
+   ],
+   "questions": [
+    {
+     "id": "exam08-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "Competition prepares children for adult life.",
+     "explanation": "Supporters say competition prepares children for adulthood.",
+     "evidenceQuote": "it is better for children to learn to deal with it at a young age",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. supporters of competitive sport",
+      "supporters of competitive sport"
+     ]
+    },
+    {
+     "id": "exam08-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "Too much pressure to win can make children stop playing.",
+     "explanation": "Critics say pressure to win spoils enjoyment.",
+     "evidenceQuote": "Too much focus on winning, critics say, can take away the enjoyment",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. critics of competitive sport",
+      "critics of competitive sport"
+     ]
+    },
+    {
+     "id": "exam08-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "The car journey home was the worst part of playing sport.",
+     "explanation": "Children in one study said this.",
+     "evidenceQuote": "children said that the worst moment of playing sport was the car journey home",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. children in a study",
+      "children in a study"
+     ]
+    },
+    {
+     "id": "exam08-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "Very young children may not understand winning and losing.",
+     "explanation": "Child development experts say this.",
+     "evidenceQuote": "children under the age of about seven often find it difficult to understand the idea of winning and losing",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. experts in child development",
+      "experts in child development"
+     ]
+    },
+    {
+     "id": "exam08-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "Competition teaches children to cope with disappointment.",
+     "explanation": "Supporters say this.",
+     "evidenceQuote": "they discover how to cope with disappointment",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. supporters of competitive sport",
+      "supporters of competitive sport"
+     ]
+    },
+    {
+     "id": "exam08-R32",
+     "number": 32,
+     "format": "Matching Features",
+     "prompt": "Less talented children may feel embarrassed.",
+     "explanation": "Critics say this.",
+     "evidenceQuote": "Children who are less talented may feel embarrassed",
+     "skillTag": "matching_features",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. critics of competitive sport",
+      "critics of competitive sport"
+     ]
+    },
+    {
+     "id": "exam08-R33",
+     "number": 33,
+     "format": "Multiple Choice",
+     "prompt": "What have some schools done recently?",
+     "explanation": "Some schools give everyone a medal.",
+     "evidenceQuote": "have organised sports days where everyone gets a medal",
+     "skillTag": "detail",
+     "options": [
+      "A. stopped all sports lessons",
+      "B. given medals to all children on sports day",
+      "C. made sports days compulsory",
+      "D. introduced new team sports"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. given medals to all children on sports day",
+      "given medals to all children on sports day"
+     ]
+    },
+    {
+     "id": "exam08-R34",
+     "number": 34,
+     "format": "Multiple Choice",
+     "prompt": "At what age do many children stop playing organised sport?",
+     "explanation": "Many stop around thirteen.",
+     "evidenceQuote": "many children stop playing organised sport around the age of thirteen",
+     "skillTag": "detail",
+     "options": [
+      "A. seven",
+      "B. ten",
+      "C. thirteen",
+      "D. sixteen"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. thirteen",
+      "thirteen"
+     ]
+    },
+    {
+     "id": "exam08-R35",
+     "number": 35,
+     "format": "Multiple Choice",
+     "prompt": "Why do some under-seven football matches not record the score?",
+     "explanation": "Young children find winning and losing hard to understand.",
+     "evidenceQuote": "often find it difficult to understand the idea of winning and losing",
+     "skillTag": "inference",
+     "options": [
+      "A. Young children may become upset about losing.",
+      "B. The teams are too large.",
+      "C. Parents asked for this change.",
+      "D. There are not enough referees."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Young children may become upset about losing.",
+      "Young children may become upset about losing."
+     ]
+    },
+    {
+     "id": "exam08-R36",
+     "number": 36,
+     "format": "Multiple Choice",
+     "prompt": "What does the writer suggest in paragraph G?",
+     "explanation": "The writer suggests finding a balance.",
+     "evidenceQuote": "Perhaps the answer is not to choose between competition and no competition, but to find the right balance",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. All competition should be stopped.",
+      "B. Only talented children should compete.",
+      "C. Schools should offer only team sports.",
+      "D. A balance between competition and enjoyment is best."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. A balance between competition and enjoyment is best.",
+      "A balance between competition and enjoyment is best."
+     ]
+    },
+    {
+     "id": "exam08-R37",
+     "number": 37,
+     "format": "Sentence Completion",
+     "prompt": "Team sports teach children to support their __________.",
+     "explanation": "They learn to support teammates.",
+     "evidenceQuote": "to support their teammates",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "teammates"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam08-R38",
+     "number": 38,
+     "format": "Sentence Completion",
+     "prompt": "Some sports organisations ask parents to follow codes of __________.",
+     "explanation": "There are codes of conduct for parents.",
+     "evidenceQuote": "Some sports organisations now have codes of conduct",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "conduct"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam08-R39",
+     "number": 39,
+     "format": "Sentence Completion",
+     "prompt": "Coaches can praise children for improving their __________.",
+     "explanation": "Praise for improving their personal best.",
+     "evidenceQuote": "for improving their personal best",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "personal best"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam08-R40",
+     "number": 40,
+     "format": "Sentence Completion",
+     "prompt": "The goal of children's sport should be a lifelong love of __________.",
+     "explanation": "A lifelong love of physical activity.",
+     "evidenceQuote": "a lifelong love of physical activity",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "physical activity"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 702,
+   "groups": [
+    {
+     "from": 27,
+     "to": 32,
+     "instruction": "Questions 27–32. Look at the following statements and the list of groups below. Match each statement with the correct group, A–D.",
+     "options": [
+      "A. supporters of competitive sport",
+      "B. critics of competitive sport",
+      "C. children in a study",
+      "D. experts in child development"
+     ]
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "instruction": "Questions 33–36. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam08-w1",
+  "title": "Most popular sports among young people",
+  "visualType": "Bar Chart",
+  "instructions": "The bar chart below shows the percentage of boys and girls aged 11–16 in one country who took part in five sports in 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "2299F152-AB3F-5173-B275-23F4A181E9E1",
+    "series": "Boys",
+    "category": "Football",
+    "value": 58.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "1CC1E1AD-4528-591C-8A2D-41938898AF30",
+    "series": "Girls",
+    "category": "Football",
+    "value": 22.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "575EA081-EE72-540B-8852-41CE72485705",
+    "series": "Boys",
+    "category": "Swimming",
+    "value": 34.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "F9D54D73-B252-500E-A4DC-EEA045DAC323",
+    "series": "Girls",
+    "category": "Swimming",
+    "value": 41.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "98D98E1A-DBB7-5AA3-B69D-9F4BC123919C",
+    "series": "Boys",
+    "category": "Running",
+    "value": 29.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "12112B3F-67EB-5E31-A4DC-0658E481B35E",
+    "series": "Girls",
+    "category": "Running",
+    "value": 31.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "957EE886-447F-5E32-B6C4-F64C0BC035A8",
+    "series": "Boys",
+    "category": "Dance",
+    "value": 6.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "C3686245-9F96-5EF9-BB4C-CB60487E2E59",
+    "series": "Girls",
+    "category": "Dance",
+    "value": 38.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "DBF8B7FF-DD8F-54EE-8B2D-334C5AA02398",
+    "series": "Boys",
+    "category": "Basketball",
+    "value": 27.0,
+    "unit": "% of young people taking part"
+   },
+   {
+    "id": "A590FD1B-62AE-5000-87CC-4D9A9E21AE74",
+    "series": "Girls",
+    "category": "Basketball",
+    "value": 14.0,
+    "unit": "% of young people taking part"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Football was by far the most popular sport for boys, while swimming was most popular for girls.",
+   "Running was equally popular among both; dance was much more popular with girls."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam08-w2",
+  "title": "Sport at school",
+  "essayType": "Opinion (Agree / Disagree)",
+  "topicDomain": "Sport & Education",
+  "promptText": "Some people think that physical education should be a compulsory subject every day for all school students, while others think it is a waste of valuable study time. To what extent do you agree that schools should offer daily physical education?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam08-spk",
+  "theme": "Sport and keeping fit",
+  "part1Questions": [
+   "Do you like doing sport?",
+   "What sports are popular in your country?",
+   "Did you play sports at school?",
+   "Do you prefer exercising alone or with other people?",
+   "Do you like watching sport on TV?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a sport or physical activity you enjoy.",
+   "bulletPoints": [
+    "what it is",
+    "when and where you do it",
+    "who you do it with",
+    "and explain why you enjoy it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do some people not like doing exercise?",
+   "Should professional sports players earn so much money?",
+   "How can governments encourage people to be more active?",
+   "Are big sporting events like the Olympics good for a country?",
+   "Do you think children today are less active than in the past?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Written at a Foundation level (around Band 5.0–6.0) with clear signposting and familiar vocabulary.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

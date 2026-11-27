@@ -1,0 +1,2137 @@
+{
+ "id": "practice07",
+ "examNumber": 7,
+ "pool": "practice",
+ "title": "Practice Test 7: Water, Weather & Climate",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Water, Weather & Climate",
+ "listeningParts": [
+  {
+   "id": "practice07-lp1",
+   "partNumber": 1,
+   "title": "Booking a boat trip to see whales",
+   "contextDescription": "A man phones a company that runs whale-watching boat trips.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "814D6B96-39EC-5211-ADDA-2E79C5BEC33D",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Good morning, Ocean Spirit Tours, this is Kylie speaking."
+    },
+    {
+     "id": "DE28AEDA-92EC-5C5B-9666-8D29EA05BB70",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Hi, Kylie. I'm visiting the area next week with my family, and I'd like to book a whale-watching trip."
+    },
+    {
+     "id": "5A6150A0-6991-5F35-9A92-CB012BCB54E1",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Lovely. You've picked a great time of year. The humpback whales are migrating north at the moment, so we're seeing them on almost every trip. How many people are in your group?"
+    },
+    {
+     "id": "F645BB78-22BB-5EA3-98D6-EAADF612D2FE",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "There are four of us: me, my wife and our two children, who are twelve and seven."
+    },
+    {
+     "id": "14253D22-6295-5249-8104-A393FAB66168",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Great. We have two types of trip. The first is our Classic Cruise on our large catamaran, which takes up to a hundred and twenty people. It lasts three hours, and there's an indoor area with a café, so it's very comfortable. The second is our Adventure Trip on a smaller, faster boat that takes twelve people. You get much closer to the whales, but it can be quite bumpy, and children must be at least ten years old."
+    },
+    {
+     "id": "9C814285-CB86-59AC-BCE2-AE72D68984FA",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Then it'll have to be the Classic Cruise, because of my youngest."
+    },
+    {
+     "id": "EEAF009B-7129-5A46-954B-AE1A827341BF",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Sure. The Classic Cruise departs twice a day, at nine thirty in the morning and at one thirty in the afternoon."
+    },
+    {
+     "id": "279230CC-F58A-5A54-A575-AE8A56957407",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Which would you recommend?"
+    },
+    {
+     "id": "745699A7-1379-5A04-AC0A-F854B53A74E7",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "The morning is usually calmer, because the wind tends to pick up in the afternoon. If anyone in your family gets seasick, I'd definitely go for the morning."
+    },
+    {
+     "id": "EEF2FA62-0D7D-52EE-92D8-598727AA22F5",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "My wife does sometimes, so the morning, please. Could we do Tuesday?"
+    },
+    {
+     "id": "402E83A4-B1A1-548F-8507-B5AE8EEB7B0D",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Let me check. Tuesday morning is fully booked, I'm afraid, but Wednesday morning has plenty of space."
+    },
+    {
+     "id": "362DBD7C-7197-50F5-BF4F-E3A0CE9B5B63",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Wednesday is fine."
+    },
+    {
+     "id": "EFEC8CF3-B857-5A81-BB95-0C59152E8080",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Okay. Adult tickets are seventy-five dollars and children's are forty-five. So for two adults and two children, that's two hundred and forty dollars. But if you book a family ticket, it's two hundred and ten, which includes a free photo of your family on the boat."
+    },
+    {
+     "id": "961FCACE-39A6-5E77-A747-6678BC793BBA",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "The family ticket sounds good."
+    },
+    {
+     "id": "C210FC1A-9703-56B0-86D1-64F68162C23D",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Great. And can I take your name?"
+    },
+    {
+     "id": "42C1FE31-27BF-512F-B180-37AEE1EC5656",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "It's Andrew Pemberton. P-E-M-B-E-R-T-O-N."
+    },
+    {
+     "id": "B43DAED9-EDF5-5B27-B6B5-AE15DA594F42",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Thanks, Andrew. And a mobile number, in case the weather changes?"
+    },
+    {
+     "id": "529CD16B-2C5C-54EB-B6E9-E382422B09D3",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "07923 641 078."
+    },
+    {
+     "id": "DFA62F11-5DBA-512E-A0C8-64B0F6ED00E5",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Lovely. Now, where we leave from. Please don't go to our office on the main street, because the boats leave from the marina. Go to Pier Four, and check in at our kiosk at least thirty minutes before departure."
+    },
+    {
+     "id": "F228446D-F74A-5F87-93FD-A3D0A4F214DF",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Pier Four, thirty minutes early. Got it. What should we bring?"
+    },
+    {
+     "id": "C840CFB4-7435-560F-838A-78C98BCDB7C0",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Even on sunny days, it can get cold out on the water, so bring a warm jacket. Sunglasses and a hat are a good idea too, and of course a camera. If you think you might get seasick, take a tablet about an hour before the trip; you can buy them at the pharmacy, or at our kiosk."
+    },
+    {
+     "id": "F1FD8044-21DE-5F94-838F-DA30CB8AAD3F",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Is there food on board, or should we bring our own?"
+    },
+    {
+     "id": "F1A9D7CB-7D0E-568A-A252-F3BDFECAE027",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "The café on the boat sells sandwiches, snacks and hot drinks, so you don't need to bring anything. But you're welcome to bring your own food if you prefer. We just ask that you take any rubbish home with you, because we don't want anything blowing into the sea."
+    },
+    {
+     "id": "CED98A1F-488E-5268-9021-190750C9D56A",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Of course. And what happens if we don't see any whales?"
+    },
+    {
+     "id": "DCC08696-8C71-5BF8-B47A-BFC1E3FFA797",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "That's very rare at this time of year, but if it happens, you can come on another trip for free, any time in the next twelve months. And if the trip is cancelled because of bad weather, we'll give you a full refund or move you to another day."
+    },
+    {
+     "id": "FC0072A1-F4B0-593F-9C78-0D9A096D93D1",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "That's very fair. Is there anything for the children to do on board?"
+    },
+    {
+     "id": "D2D0BA2F-F069-5B5F-A1FF-B5F9BE50CC90",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Yes, we have a marine biologist on every trip who gives a talk about the whales, and there's a quiz for children, with a small prize. Kids usually love it."
+    },
+    {
+     "id": "DDC016F2-225E-57EC-88A7-899945681B72",
+     "speaker": "Caller",
+     "accent": "en-GB",
+     "text": "Brilliant. Can I pay by card now?"
+    },
+    {
+     "id": "8F7D628D-2E69-596D-895C-5264B0CEC83A",
+     "speaker": "Agent",
+     "accent": "en-AU",
+     "text": "Of course. I'll send a confirmation email with your booking number once the payment goes through."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice07-L1",
+     "number": 1,
+     "format": "Note Completion",
+     "prompt": "Type of whale being seen: __________",
+     "explanation": "Humpback whales are migrating.",
+     "evidenceQuote": "The humpback whales are migrating north",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "humpback"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L2",
+     "number": 2,
+     "format": "Note Completion",
+     "prompt": "Classic Cruise lasts __________ hours",
+     "explanation": "The cruise lasts three hours.",
+     "evidenceQuote": "It lasts three hours",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L3",
+     "number": 3,
+     "format": "Note Completion",
+     "prompt": "Adventure Trip: minimum age __________",
+     "explanation": "Children must be at least ten.",
+     "evidenceQuote": "children must be at least ten years old",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L4",
+     "number": 4,
+     "format": "Note Completion",
+     "prompt": "Morning trips are recommended because the sea is usually __________",
+     "explanation": "Mornings are calmer.",
+     "evidenceQuote": "The morning is usually calmer",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "calmer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L5",
+     "number": 5,
+     "format": "Note Completion",
+     "prompt": "Day booked: __________",
+     "explanation": "Tuesday is full, so they book Wednesday.",
+     "evidenceQuote": "Wednesday morning has plenty of space",
+     "skillTag": "distractor_correction",
+     "distractorNote": "Tuesday morning is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "Wednesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L6",
+     "number": 6,
+     "format": "Note Completion",
+     "prompt": "Family ticket: $__________ (includes a free photo)",
+     "explanation": "The family ticket is $210.",
+     "evidenceQuote": "it's two hundred and ten",
+     "skillTag": "numbers",
+     "distractorNote": "$240 is the price for separate tickets.",
+     "options": [],
+     "acceptedAnswers": [
+      "210",
+      "two hundred and ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Pemberton.",
+     "evidenceQuote": "It's Andrew Pemberton. P-E-M-B-E-R-T-O-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Pemberton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Departure point: Pier __________ at the marina",
+     "explanation": "Boats leave from Pier Four.",
+     "evidenceQuote": "Go to Pier Four",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "Bring a warm __________",
+     "explanation": "A warm jacket is needed.",
+     "evidenceQuote": "so bring a warm jacket",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "jacket"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Children can take part in a __________ with a small prize",
+     "explanation": "There is a quiz.",
+     "evidenceQuote": "there's a quiz for children, with a small prize",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "quiz"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "whale-watching",
+    "seasickness",
+    "life jacket",
+    "departure",
+    "refund"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice07-lp2",
+   "partNumber": 2,
+   "title": "A talk on saving water at home",
+   "contextDescription": "A representative of a water company gives a talk to residents about saving water.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "6B61310C-85F4-56C1-944E-17DA9D8A2EAC",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "Good evening, everyone, and thank you for coming. My name is Joanna Price, and I work for Eastern Water. As you'll probably know, after two very dry summers, the water levels in our reservoirs are lower than they have been for thirty years. Tonight I want to explain why that matters and share some simple ways you can save water at home."
+    },
+    {
+     "id": "3477FF37-64FA-51D2-9724-322D8AF895FE",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "Some people are surprised that a country with a reputation for rain could ever be short of water. But our region is actually one of the driest in the country, with less rainfall each year than some parts of the Mediterranean. At the same time, the population is growing, and climate change is making summers hotter and drier. The average person here uses around a hundred and forty litres of water every day, and our aim is to bring that down to a hundred and ten by 2030."
+    },
+    {
+     "id": "2141E079-D231-52F4-B4AA-1C2D448171D6",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "So where does all that water go? The biggest use in most homes is showers and baths, which account for about a third of the total. Next comes toilet flushing, at around a quarter. Then washing clothes and dishes, and finally drinking, cooking and the garden."
+    },
+    {
+     "id": "354F0045-5E7F-557B-A14B-2904FB8D8370",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "Let's start with the bathroom. Simply reducing your shower time to four minutes can save a large amount. We're giving away free shower timers tonight, which you can stick to the wall. You can also fit a water-saving shower head, which mixes air with the water, so it feels just as powerful but uses about half the amount. And of course, a shower generally uses much less water than a bath."
+    },
+    {
+     "id": "10A53EC7-2F8B-5659-9155-F3D7B3A6B206",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "Older toilets can use up to thirteen litres every time you flush. If you have an old toilet, you can put a small bag in the cistern, the tank behind it, which reduces the amount of water used each time. Again, we have these free tonight. Modern toilets have a dual-flush button, where the smaller button uses much less water."
+    },
+    {
+     "id": "3C68B837-C7E6-5474-8AB9-481A83FBC42F",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "One of the most important things you can do is check for leaks. A dripping tap might not seem like much, but it can waste over five thousand litres a year. And a leaking toilet can waste even more, often without anyone noticing. Here's a simple test: put a few drops of food colouring in the cistern and wait fifteen minutes without flushing. If the colour appears in the bowl, you have a leak."
+    },
+    {
+     "id": "85D562BE-1896-5B02-B56D-2A9A355D33CC",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "In the kitchen, only run the washing machine and dishwasher when they're full. Interestingly, a modern dishwasher actually uses less water than washing the same dishes by hand, as long as you don't rinse them under the tap first."
+    },
+    {
+     "id": "1C180CD2-E792-5006-AD1B-2EB468A026F3",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "In the garden, the best time to water plants is early in the morning or in the evening, when less water is lost to evaporation. Use a watering can rather than a hose, and consider installing a water butt, a large container that collects rainwater from your roof. Plants actually prefer rainwater to tap water. And don't worry if your lawn turns brown in summer; grass is very good at recovering once the rain returns."
+    },
+    {
+     "id": "E4FF089A-6CCE-5FE5-8676-316E4BB87C72",
+     "speaker": "Speaker",
+     "accent": "en-GB",
+     "text": "Finally, I'd encourage everyone who doesn't already have one to get a water meter. At the moment, around a third of homes in our area still pay a fixed charge, however much water they use. With a meter, you pay only for what you use, and most households who switch save money, and they typically use about fifteen per cent less water. Installation is completely free, and it usually takes less than an hour. You can apply on our website, or speak to one of my colleagues at the table by the door."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice07-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why are water levels in local reservoirs low?",
+     "explanation": "Two dry summers have lowered levels.",
+     "evidenceQuote": "after two very dry summers",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There have been two dry summers.",
+      "B. A reservoir has been damaged.",
+      "C. Water is being sent to other regions."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. There have been two dry summers.",
+      "There have been two dry summers."
+     ]
+    },
+    {
+     "id": "practice07-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "What is the target for daily water use per person by 2030?",
+     "explanation": "The target is 110 litres.",
+     "evidenceQuote": "our aim is to bring that down to a hundred and ten by 2030",
+     "skillTag": "numbers",
+     "distractorNote": "140 litres is current use.",
+     "options": [
+      "A. 100 litres",
+      "B. 110 litres",
+      "C. 140 litres"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. 110 litres",
+      "110 litres"
+     ]
+    },
+    {
+     "id": "practice07-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Which activity uses the most water in most homes?",
+     "explanation": "Showers and baths use most.",
+     "evidenceQuote": "The biggest use in most homes is showers and baths",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. toilet flushing",
+      "B. washing clothes",
+      "C. showers and baths"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. showers and baths",
+      "showers and baths"
+     ]
+    },
+    {
+     "id": "practice07-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "How does a water-saving shower head work?",
+     "explanation": "It mixes air with the water.",
+     "evidenceQuote": "which mixes air with the water",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It mixes air with the water.",
+      "B. It turns off automatically.",
+      "C. It reduces the water temperature."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It mixes air with the water.",
+      "It mixes air with the water."
+     ]
+    },
+    {
+     "id": "practice07-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Joanna say about dishwashers?",
+     "explanation": "Dishwashers use less water than hand washing.",
+     "evidenceQuote": "a modern dishwasher actually uses less water than washing the same dishes by hand",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They should be used every day.",
+      "B. They waste more water than washing by hand.",
+      "C. They can use less water than washing by hand."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They can use less water than washing by hand.",
+      "They can use less water than washing by hand."
+     ]
+    },
+    {
+     "id": "practice07-L16",
+     "number": 16,
+     "format": "Note Completion",
+     "prompt": "Free shower __________ are available tonight",
+     "explanation": "Free shower timers are offered.",
+     "evidenceQuote": "We're giving away free shower timers tonight",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "timers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L17",
+     "number": 17,
+     "format": "Note Completion",
+     "prompt": "Leak test: put food __________ in the cistern",
+     "explanation": "Use food colouring.",
+     "evidenceQuote": "put a few drops of food colouring in the cistern",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "colouring"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L18",
+     "number": 18,
+     "format": "Note Completion",
+     "prompt": "Water plants early in the morning to reduce __________",
+     "explanation": "Less water is lost to evaporation.",
+     "evidenceQuote": "when less water is lost to evaporation",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "evaporation"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L19",
+     "number": 19,
+     "format": "Note Completion",
+     "prompt": "A water butt collects __________ from the roof",
+     "explanation": "It collects rainwater.",
+     "evidenceQuote": "a large container that collects rainwater from your roof",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rainwater"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L20",
+     "number": 20,
+     "format": "Note Completion",
+     "prompt": "Homes with a meter typically use __________ % less water",
+     "explanation": "Metered homes use 15% less.",
+     "evidenceQuote": "they typically use about fifteen per cent less water",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "15",
+      "fifteen"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "drought",
+    "reservoir",
+    "leak",
+    "water meter",
+    "rainwater"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice07-lp3",
+   "partNumber": 3,
+   "title": "A geography field trip to a river",
+   "contextDescription": "Two geography students, Zara and Ben, discuss their field trip to study a river with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "269E5C80-A2FA-555A-AC44-048EF0A90464",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hello, Zara, Ben. So, you went on the river field trip last week. How did it go?"
+    },
+    {
+     "id": "7EC6254A-6839-5135-AE3B-746FCD81DE68",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "Really well, thanks. We were lucky with the weather, because it had been raining heavily the week before, so the river was quite high, which made the measurements more interesting."
+    },
+    {
+     "id": "A326AABC-BD33-588E-8639-FD588205B133",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "Although it also made it harder to get into the water safely at one of the sites. We had to change our plans a bit."
+    },
+    {
+     "id": "C99D0FFA-636A-560C-AB52-E4EC681387D5",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Tell me about that. What were you measuring?"
+    },
+    {
+     "id": "9678C66F-7081-503B-A5F6-1B89CBECB675",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We were looking at how the river changes from its source in the hills to where it reaches the town. We measured the width, depth and speed of the water at five sites along the river."
+    },
+    {
+     "id": "97F792DD-0EE5-50EA-B202-E5D6B0AC3B6E",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "We measured the speed by timing how long it took a float to travel ten metres. We used an orange, actually, because it floats just below the surface and isn't blown about by the wind as much as something lighter would be."
+    },
+    {
+     "id": "63BF50F1-1DE8-5F94-8FFC-8EB78BB1DE50",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a classic technique. What did you find?"
+    },
+    {
+     "id": "00147B47-72B9-5856-A717-AF3D84EDFDC6",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "Mostly what we expected: the river got wider and deeper as it went downstream. But the speed was more surprising. We assumed the water would be fastest in the hills, where it's steep, but actually it was fastest at the site nearest the town."
+    },
+    {
+     "id": "DA824065-1894-5D5D-94F6-F7045B8ADDA7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why do you think that was?"
+    },
+    {
+     "id": "D079CE7E-64ED-5071-B42D-FAACC60509A5",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We read that in the upper sections, the river bed is full of large rocks, which create a lot of friction and slow the water down, even though the slope is steep. Further downstream, the channel is smoother and deeper, so there's less friction."
+    },
+    {
+     "id": "69D6B107-5628-50AA-884B-6E60ED3C0EC6",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly right. That's a common misconception, so make sure you explain it clearly in your report. What about the site where you had problems?"
+    },
+    {
+     "id": "284EEFF6-4C48-56A3-A312-53570DC2E90C",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "That was site three, by a footbridge. The water was too deep and fast to stand in safely, so we couldn't measure the depth across the whole width. We only managed to measure near the banks."
+    },
+    {
+     "id": "DA945744-DF87-53CE-B480-0CA68E6491AC",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So what will you do about that in your analysis?"
+    },
+    {
+     "id": "56A75579-49DF-5A25-A016-4B461E25A4D8",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We thought we could estimate it using data from the Environment Agency, which has a monitoring station near there. They publish river levels online."
+    },
+    {
+     "id": "AB9B7335-6DE5-5CD9-BC79-8B90C31C40BE",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a sensible approach, but you must state clearly that you've done that, and explain why. Don't present it as your own measurement."
+    },
+    {
+     "id": "21846B54-3F4D-5277-9E9E-428F92A92A90",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "Of course. We'll put it in the limitations section."
+    },
+    {
+     "id": "D89AC419-5C66-59AA-B23A-790C707926E3",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We also took photos of the river level marker at the footbridge, so we can compare our observations with the official readings for the same day."
+    },
+    {
+     "id": "420E5A81-1865-5661-81BF-72FDE8753642",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good thinking. That will make your estimate more convincing. Did you look at anything else?"
+    },
+    {
+     "id": "FCEAAFE5-95F2-50F1-895C-74FAAB4DBA68",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "We also collected stones from the river bed at each site and measured their size and roundness. We found that the stones became smaller and rounder downstream, because they're worn down as they're carried along by the water."
+    },
+    {
+     "id": "DF8875C6-B818-5F3B-B5CD-4D7BBE6BEF3C",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "And at the last site, we noticed that new houses had been built on the flood plain, quite close to the river. We'd like to include a short section about flood risk, because we saw signs that the river had flooded there in the past."
+    },
+    {
+     "id": "28AE20EC-657F-58AE-AF0D-9392583B0358",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That would make a good discussion point, but keep it brief, since it's not the main focus of the assignment. How are you going to present your data?"
+    },
+    {
+     "id": "BEE47BF9-5DC5-5F7C-AA38-3F5B2A69DA32",
+     "speaker": "Ben",
+     "accent": "en-IE",
+     "text": "We thought line graphs to show how width, depth and speed change with distance from the source."
+    },
+    {
+     "id": "C13B4206-A6DE-5F65-AF1F-ACA943CD6B9B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And for the stone data, perhaps a scatter graph. Make sure you include photos of each site too, with a map showing where they are."
+    },
+    {
+     "id": "AC9FFC1A-43A5-57D6-926D-1C69F8B14E5F",
+     "speaker": "Zara",
+     "accent": "en-GB",
+     "text": "Okay. When is the report due?"
+    },
+    {
+     "id": "B351F3D6-CF17-5BEE-AA83-D95C1FB822DB",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "The end of the month. Come and see me if you have any questions before then."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice07-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why was the river high during the field trip?",
+     "explanation": "Heavy rain the week before raised the river.",
+     "evidenceQuote": "it had been raining heavily the week before",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Snow had melted in the hills.",
+      "B. There had been heavy rain recently.",
+      "C. A dam had been opened."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. There had been heavy rain recently.",
+      "There had been heavy rain recently."
+     ]
+    },
+    {
+     "id": "practice07-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students use an orange to measure speed?",
+     "explanation": "The orange is less affected by wind.",
+     "evidenceQuote": "isn't blown about by the wind as much as something lighter would be",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is easy to see.",
+      "B. It is cheap.",
+      "C. It is less affected by the wind."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It is less affected by the wind.",
+      "It is less affected by the wind."
+     ]
+    },
+    {
+     "id": "practice07-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Where did the students find the water moving fastest?",
+     "explanation": "The fastest site was near the town.",
+     "evidenceQuote": "it was fastest at the site nearest the town",
+     "skillTag": "multiple_choice",
+     "distractorNote": "They expected the hills to be fastest.",
+     "options": [
+      "A. near the town",
+      "B. in the hills",
+      "C. by the footbridge"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. near the town",
+      "near the town"
+     ]
+    },
+    {
+     "id": "practice07-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why is water slower in the upper sections of the river?",
+     "explanation": "Large rocks create friction.",
+     "evidenceQuote": "large rocks, which create a lot of friction",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The slope is gentle.",
+      "B. Rocks on the river bed cause friction.",
+      "C. There is less water."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Rocks on the river bed cause friction.",
+      "Rocks on the river bed cause friction."
+     ]
+    },
+    {
+     "id": "practice07-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What problem did the students have at site three?",
+     "explanation": "It was too deep and fast to measure safely.",
+     "evidenceQuote": "The water was too deep and fast to stand in safely",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They could not find the footbridge.",
+      "B. Their equipment was damaged.",
+      "C. The water was too dangerous to stand in."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The water was too dangerous to stand in.",
+      "The water was too dangerous to stand in."
+     ]
+    },
+    {
+     "id": "practice07-L26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about the section on flood risk?",
+     "explanation": "It should be kept brief.",
+     "evidenceQuote": "keep it brief, since it's not the main focus",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It should be short.",
+      "B. It should be the main focus.",
+      "C. It should be removed."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It should be short.",
+      "It should be short."
+     ]
+    },
+    {
+     "id": "practice07-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Missing depth data: estimated using data from the Environment __________",
+     "explanation": "They used Environment Agency data.",
+     "evidenceQuote": "using data from the Environment Agency",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Agency"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "This must be explained in the __________ section",
+     "explanation": "It goes in the limitations section.",
+     "evidenceQuote": "We'll put it in the limitations section",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "limitations"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Downstream, stones became smaller and __________",
+     "explanation": "Stones became rounder.",
+     "evidenceQuote": "the stones became smaller and rounder downstream",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "rounder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Stone data: present in a __________ graph",
+     "explanation": "A scatter graph is suggested.",
+     "evidenceQuote": "perhaps a scatter graph",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "scatter"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "erosion",
+    "sediment",
+    "meander",
+    "flow rate",
+    "flood plain"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 26,
+     "instruction": "Questions 21–26. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 27,
+     "to": 30,
+     "instruction": "Questions 27–30. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice07-lp4",
+   "partNumber": 4,
+   "title": "How weather forecasting works",
+   "contextDescription": "A lecture in an introductory meteorology course on the history and science of weather forecasting.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "CF177071-D09B-5F27-940C-FEC248CFBF3A",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good morning, everyone. Today I want to talk about weather forecasting: how it developed, how it works today, and why, despite enormous advances, forecasts are still sometimes wrong."
+    },
+    {
+     "id": "8401CE75-C6D2-5B88-9939-CCA46A16A211",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "For most of human history, people predicted the weather by observing nature: the colour of the sky, the behaviour of animals, or the shape of clouds. Some of these traditional sayings have a scientific basis. The saying 'red sky at night, shepherd's delight' reflects the fact that in many places, weather systems move from west to east, so a clear sky in the west at sunset often means fine weather is coming."
+    },
+    {
+     "id": "BD7438C8-DA7D-5206-9F05-CF03531C3188",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Scientific forecasting became possible with the invention of instruments. The thermometer and the barometer, which measures air pressure, were developed in Italy in the seventeenth century. Scientists noticed that falling pressure was often followed by storms, while rising pressure usually brought settled weather. But a single barometer could only tell you what was happening in one place."
+    },
+    {
+     "id": "99493374-8B21-5012-B426-24B6309EE005",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The real breakthrough came with the electric telegraph in the nineteenth century, which allowed weather observations from many places to be sent to a central office almost instantly. In Britain, a naval officer named Robert FitzRoy set up a network of weather stations and began publishing forecasts in newspapers in 1861. In fact, he invented the word 'forecast'. His forecasts were often inaccurate, and he was widely criticised, but his storm warnings for ships are credited with saving many lives."
+    },
+    {
+     "id": "9D2D397D-53C4-5B7C-AA50-FCE3F3798457",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "In the early twentieth century, scientists realised that the atmosphere follows the laws of physics, so in theory, its future state could be calculated using mathematical equations. A British mathematician, Lewis Fry Richardson, attempted to do this by hand during the First World War. It took him around six weeks to calculate a forecast for just six hours ahead, and the result was completely wrong. He imagined a huge hall filled with sixty-four thousand people doing calculations together to keep up with the weather."
+    },
+    {
+     "id": "36583CD6-8F8D-588B-8349-B9302E571087",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Richardson's dream became reality with computers. The first computer weather forecast was made in 1950, and today, weather services use some of the most powerful supercomputers in the world. These computers divide the atmosphere into a three-dimensional grid of boxes and calculate how temperature, pressure, wind and moisture will change in each one. The starting data comes from thousands of weather stations, as well as weather balloons, ships, aircraft and, most importantly, satellites, which provide information about areas where there are no other observations, such as the oceans."
+    },
+    {
+     "id": "0059F231-2BC0-5E11-AFAC-9BC07A7A321F",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "So why are forecasts still sometimes wrong? The main reason is that the atmosphere is what scientists call a chaotic system. In the 1960s, the meteorologist Edward Lorenz discovered that tiny differences in the starting data could lead to completely different forecasts after a few days. This is often called the butterfly effect, from the idea that the flap of a butterfly's wings could, in theory, influence the development of a storm on the other side of the world. Because our observations can never be perfect, there is a limit to how far ahead we can forecast. At present, forecasts are generally reliable for about a week."
+    },
+    {
+     "id": "BD150FD7-3D9F-5B8B-AC63-D783B532A6FD",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "To deal with this uncertainty, modern weather services run what's called an ensemble forecast. Instead of running the computer model once, they run it many times, each with slightly different starting conditions. If most of the runs agree, forecasters can be confident. If they disagree, the forecast is less certain. That's why forecasts often give a probability, such as a seventy per cent chance of rain."
+    },
+    {
+     "id": "8F8D6AF6-860A-53CB-B37B-9A22C1DE52AD",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Despite these limits, forecasts have improved remarkably. A five-day forecast today is about as accurate as a one-day forecast was in the 1980s. Next week, we'll look at how climate models differ from weather forecasts."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice07-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Traditional forecasting: observing the sky, clouds and the behaviour of __________",
+     "explanation": "People observed animal behaviour.",
+     "evidenceQuote": "the behaviour of animals",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "animals"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "A barometer measures air __________",
+     "explanation": "Barometers measure pressure.",
+     "evidenceQuote": "the barometer, which measures air pressure",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Falling pressure was often followed by __________",
+     "explanation": "Storms followed falling pressure.",
+     "evidenceQuote": "falling pressure was often followed by storms",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "storms"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "The __________ allowed observations to be sent to a central office",
+     "explanation": "The telegraph enabled this.",
+     "evidenceQuote": "The real breakthrough came with the electric telegraph",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "telegraph"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "FitzRoy's storm warnings for __________ saved many lives",
+     "explanation": "His warnings for ships saved lives.",
+     "evidenceQuote": "his storm warnings for ships are credited with saving many lives",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ships"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Richardson took about six __________ to calculate a six-hour forecast",
+     "explanation": "It took six weeks.",
+     "evidenceQuote": "It took him around six weeks",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "weeks"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Computers divide the atmosphere into a three-dimensional __________",
+     "explanation": "The atmosphere is divided into a grid.",
+     "evidenceQuote": "divide the atmosphere into a three-dimensional grid of boxes",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "grid"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Satellites provide data about areas such as the __________",
+     "explanation": "Satellites cover the oceans.",
+     "evidenceQuote": "such as the oceans",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oceans"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Lorenz: the atmosphere is a __________ system",
+     "explanation": "It is a chaotic system.",
+     "evidenceQuote": "the atmosphere is what scientists call a chaotic system",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "chaotic"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Ensemble forecasts often give a __________, e.g. 70% chance of rain",
+     "explanation": "Forecasts give a probability.",
+     "evidenceQuote": "That's why forecasts often give a probability",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "probability"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "atmosphere",
+    "barometer",
+    "satellite",
+    "supercomputer",
+    "probability"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice07-rp1",
+   "passageNumber": 1,
+   "title": "The ancient art of finding water",
+   "discipline": "History of Engineering",
+   "paragraphs": [
+    "In many of the world's driest regions, people have always faced the same fundamental problem: how to obtain a reliable supply of water in a landscape where rain is scarce and rivers may disappear for much of the year. Over thousands of years, communities developed remarkably sophisticated solutions, many of which are still in use today. These methods were not only ingenious but also sustainable, since they were designed to use water without exhausting the supply on which future generations would depend. One of the most impressive is the qanat, an underground channel that carries water from beneath hills or mountains to settlements and fields sometimes many kilometres away.",
+    "Qanats are believed to have been developed in ancient Persia, in what is now Iran, around three thousand years ago. The principle is simple, but building one requires considerable skill. Builders first dig a vertical shaft, known as a mother well, at the foot of a hill to reach the water table, the level below which the ground is saturated with water. They then dig a gently sloping tunnel from the point where the water is needed, back towards the mother well. Because the tunnel slopes downwards very slightly, water flows along it by gravity alone, without the need for pumps. Getting the slope right is critical: if it is too steep, the fast-flowing water will erode the tunnel and may cause it to collapse; if it is too gentle, the water will not flow at all. Builders traditionally used simple tools, such as lamps and plumb lines, to keep the tunnel straight and level underground.",
+    "Along the length of the tunnel, a series of vertical shafts is dug at regular intervals, often every twenty to fifty metres. These shafts allow workers to remove the soil as the tunnel is dug, provide fresh air, and give access for cleaning and repairs. From the air, a qanat appears as a line of round mounds stretching across the desert, each one marking the top of a shaft. The longest qanats are more than seventy kilometres long, and some tunnels lie over a hundred metres below the surface at their deepest point.",
+    "The advantages of the qanat are considerable. Because the water travels underground, very little is lost to evaporation, which is an enormous benefit in hot, dry climates. The flow is steady throughout the year, as it depends on groundwater rather than on seasonal rainfall. And because qanats do not use pumps, they cannot extract water faster than it is naturally replaced, so they do not exhaust the underground supply. In this sense, they are a model of sustainable water management.",
+    "Qanats also shaped the societies that depended on them. Building and maintaining a qanat required the cooperation of the whole community, and complex systems developed to share the water fairly. In some places, each family's share was measured in units of time: a family might be entitled to the full flow of the qanat for a certain number of hours every few days. Specialist diggers, known in Iran as muqannis, passed their skills down from father to son, and their work was highly respected, although it was also dangerous, as tunnels could collapse.",
+    "The technology spread far beyond Persia. Similar systems are found across the Middle East and North Africa, where they are known as foggaras in Algeria and khettaras in Morocco, as well as in Central Asia, China and even Spain, where Arab engineers introduced them. In the oasis towns of the Algerian Sahara, foggaras have supported date palm gardens for centuries, and some are still maintained by local communities today.",
+    "In the twentieth century, however, many qanats fell into disuse. The introduction of diesel and electric pumps made it possible to extract groundwater from deep wells much more quickly and cheaply. But pumping has often lowered the water table so much that qanats have run dry, and in some regions, groundwater is being used far faster than it can be replaced. In response, there is growing interest in restoring traditional systems. In 2016, eleven Iranian qanats were added to the UNESCO World Heritage List, and several countries have launched projects to repair old channels and train a new generation of diggers."
+   ],
+   "questions": [
+    {
+     "id": "practice07-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Qanats were first developed in North Africa.",
+     "explanation": "They began in Persia.",
+     "evidenceQuote": "Qanats are believed to have been developed in ancient Persia",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice07-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Water in a qanat flows without the use of pumps.",
+     "explanation": "Gravity moves the water.",
+     "evidenceQuote": "water flows along it by gravity alone, without the need for pumps",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The shafts along a qanat are always exactly the same distance apart.",
+     "explanation": "The spacing varies from twenty to fifty metres.",
+     "evidenceQuote": "often every twenty to fifty metres",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice07-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "Qanats lose little water through evaporation.",
+     "explanation": "Underground channels limit evaporation.",
+     "evidenceQuote": "very little is lost to evaporation",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Muqannis were well paid for their work.",
+     "explanation": "Respect is mentioned, but not pay.",
+     "evidenceQuote": "their work was highly respected",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice07-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Qanat technology was taken to Spain by Arab engineers.",
+     "explanation": "Arab engineers introduced them to Spain.",
+     "evidenceQuote": "Spain, where Arab engineers introduced them",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R7",
+     "number": 7,
+     "format": "Note Completion",
+     "prompt": "The first shaft, dug at the foot of a hill, is called the __________ well",
+     "explanation": "It is the mother well.",
+     "evidenceQuote": "known as a mother well",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mother"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "It reaches the water __________",
+     "explanation": "It reaches the water table.",
+     "evidenceQuote": "to reach the water table",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "table"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "From the air, a qanat looks like a line of round __________",
+     "explanation": "Mounds mark the shafts.",
+     "evidenceQuote": "a line of round mounds stretching across the desert",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mounds"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "Flow is steady because it depends on __________, not rainfall",
+     "explanation": "Flow depends on groundwater.",
+     "evidenceQuote": "it depends on groundwater rather than on seasonal rainfall",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "groundwater"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Water shares were sometimes measured in units of __________",
+     "explanation": "Shares were measured in time.",
+     "evidenceQuote": "each family's share was measured in units of time",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "time"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "In Algeria, foggaras have supported __________ palm gardens",
+     "explanation": "Foggaras support date palms.",
+     "evidenceQuote": "foggaras have supported date palm gardens for centuries",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "date"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Pumping has lowered the water table so that many qanats have run __________",
+     "explanation": "Qanats have run dry.",
+     "evidenceQuote": "qanats have run dry",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "dry"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 701,
+   "groups": [
+    {
+     "from": 1,
+     "to": 6,
+     "instruction": "Questions 1–6. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 7,
+     "to": 13,
+     "instruction": "Questions 7–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice07-rp2",
+   "passageNumber": 2,
+   "title": "Cloud seeding: can we make it rain?",
+   "discipline": "Atmospheric Science",
+   "paragraphs": [
+    "For as long as people have depended on rain, they have tried to influence it, through prayers, rituals and ceremonies. In the twentieth century, scientists began to wonder whether technology could succeed where these methods had failed. The result was cloud seeding, a technique that attempts to increase rainfall or snowfall by adding tiny particles to clouds. Today, more than fifty countries have carried out cloud seeding programmes, and some, such as China and the United Arab Emirates, spend large sums on it every year. Yet after more than seventy years of research and many millions of dollars of investment, scientists still disagree about how well it works.",
+    "The basic science behind the technique is well understood. Clouds are made of tiny water droplets, far too small and light to fall as rain. For rain to form, these droplets must grow much larger. In many clouds, especially in cooler regions, this happens when ice crystals form; the crystals grow by attracting moisture from the surrounding droplets, become heavy, and fall, often melting into rain on the way down. However, ice crystals need something to form around, a tiny particle such as dust. In some clouds, there are not enough such particles, so the water remains as liquid droplets even at temperatures well below freezing.",
+    "In 1946, scientists working for the General Electric company in the United States discovered that adding particles could trigger this process. One of them, Vincent Schaefer, found that dropping dry ice, which is frozen carbon dioxide, into a cold cloud in the laboratory produced a sudden shower of ice crystals. Shortly afterwards, his colleague Bernard Vonnegut discovered that silver iodide, a chemical whose crystal structure is similar to that of ice, was even more effective. Silver iodide remains the most commonly used seeding material today, released from aircraft or from generators on the ground.",
+    "A second approach, used mainly in warm regions, involves seeding clouds with salt particles. These attract water and help droplets to grow by colliding and merging with each other. The United Arab Emirates, one of the driest countries in the world, has invested heavily in this method and has also funded research into new materials, including particles coated with a thin layer of titanium dioxide, which researchers claim are more effective at attracting water.",
+    "The difficulty lies in proving that seeding actually makes a difference. Rainfall varies enormously from day to day and from place to place, so if it rains after a cloud has been seeded, it is very hard to know whether it would have rained anyway. To test the effect properly, scientists need to carry out randomised experiments, in which clouds are randomly selected to be seeded or left alone, and the results compared over many years. Such experiments are expensive and time-consuming, often lasting a decade or more, and many early programmes did not follow these methods, so their claims of success are difficult to assess.",
+    "Recent research has provided some clearer evidence. In 2017, a project in the mountains of Idaho in the United States used radar to observe clouds as they were seeded. For the first time, researchers were able to watch the seeding material create ice crystals that grew into snow, and to measure the extra snowfall it produced. However, the amount was relatively modest, and the study showed only that seeding can work under particular conditions, not how much additional water it produces over a whole season. Most reviews conclude that seeding can increase precipitation by perhaps five to fifteen per cent in suitable clouds, but that it cannot create rain from clear skies.",
+    "Cloud seeding also raises questions beyond science. Silver iodide is toxic in large amounts, though the quantities used in seeding are very small, and most studies have found no harmful effects on the environment. More controversial is the question of who owns the rain. If one region seeds clouds and increases its own rainfall, critics ask, could it reduce rain further downwind, in another region or country? There is little evidence that this happens, but the concern has caused tension in some places. As water shortages become more common with climate change, such questions are likely to become more pressing."
+   ],
+   "questions": [
+    {
+     "id": "practice07-R14",
+     "number": 14,
+     "format": "Matching Information",
+     "prompt": "a description of a method used in hot climates",
+     "explanation": "Paragraph D describes salt seeding.",
+     "evidenceQuote": "A second approach, used mainly in warm regions, involves seeding clouds with salt particles",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. D",
+      "D"
+     ]
+    },
+    {
+     "id": "practice07-R15",
+     "number": 15,
+     "format": "Matching Information",
+     "prompt": "an explanation of why it is hard to judge whether seeding works",
+     "explanation": "Paragraph E explains the difficulty.",
+     "evidenceQuote": "it is very hard to know whether it would have rained anyway",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. E",
+      "E"
+     ]
+    },
+    {
+     "id": "practice07-R16",
+     "number": 16,
+     "format": "Matching Information",
+     "prompt": "a concern that seeding might affect rainfall in other places",
+     "explanation": "Paragraph G raises this concern.",
+     "evidenceQuote": "could it reduce rain further downwind",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. G",
+      "G"
+     ]
+    },
+    {
+     "id": "practice07-R17",
+     "number": 17,
+     "format": "Matching Information",
+     "prompt": "an account of how seeding was first discovered",
+     "explanation": "Paragraph C describes the discovery.",
+     "evidenceQuote": "In 1946, scientists working for the General Electric company",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. C",
+      "C"
+     ]
+    },
+    {
+     "id": "practice07-R18",
+     "number": 18,
+     "format": "Matching Information",
+     "prompt": "a study in which seeding was observed directly",
+     "explanation": "Paragraph F describes the Idaho study.",
+     "evidenceQuote": "used radar to observe clouds as they were seeded",
+     "skillTag": "scanning",
+     "options": [
+      "A. A",
+      "B. B",
+      "C. C",
+      "D. D",
+      "E. E",
+      "F. F",
+      "G. G"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. F",
+      "F"
+     ]
+    },
+    {
+     "id": "practice07-R19",
+     "number": 19,
+     "format": "Matching Features",
+     "prompt": "Dry ice could produce ice crystals in a cold cloud.",
+     "explanation": "Schaefer discovered the dry ice effect.",
+     "evidenceQuote": "Vincent Schaefer, found that dropping dry ice",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Vincent Schaefer",
+      "B. Bernard Vonnegut"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Vincent Schaefer",
+      "Vincent Schaefer"
+     ]
+    },
+    {
+     "id": "practice07-R20",
+     "number": 20,
+     "format": "Matching Features",
+     "prompt": "Silver iodide was an effective seeding material.",
+     "explanation": "Vonnegut discovered silver iodide.",
+     "evidenceQuote": "Bernard Vonnegut discovered that silver iodide",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Vincent Schaefer",
+      "B. Bernard Vonnegut"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Bernard Vonnegut",
+      "Bernard Vonnegut"
+     ]
+    },
+    {
+     "id": "practice07-R21",
+     "number": 21,
+     "format": "Matching Features",
+     "prompt": "A chemical with a crystal structure like ice works better than dry ice.",
+     "explanation": "Vonnegut found silver iodide more effective.",
+     "evidenceQuote": "a chemical whose crystal structure is similar to that of ice, was even more effective",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Vincent Schaefer",
+      "B. Bernard Vonnegut"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Bernard Vonnegut",
+      "Bernard Vonnegut"
+     ]
+    },
+    {
+     "id": "practice07-R22",
+     "number": 22,
+     "format": "Matching Features",
+     "prompt": "A sudden shower of ice crystals appeared in a laboratory experiment.",
+     "explanation": "Schaefer observed this.",
+     "evidenceQuote": "produced a sudden shower of ice crystals",
+     "skillTag": "matching_features",
+     "options": [
+      "A. Vincent Schaefer",
+      "B. Bernard Vonnegut"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Vincent Schaefer",
+      "Vincent Schaefer"
+     ]
+    },
+    {
+     "id": "practice07-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why do some clouds not produce rain?",
+     "explanation": "They lack particles for ice crystals to form around.",
+     "evidenceQuote": "there are not enough such particles",
+     "skillTag": "detail",
+     "options": [
+      "A. They are too warm.",
+      "B. The droplets are too large.",
+      "C. There are too few particles for ice to form on.",
+      "D. They move too quickly."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. There are too few particles for ice to form on.",
+      "There are too few particles for ice to form on."
+     ]
+    },
+    {
+     "id": "practice07-R24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "Why are many early seeding programmes difficult to assess?",
+     "explanation": "They did not use randomised methods.",
+     "evidenceQuote": "many early programmes did not follow these methods",
+     "skillTag": "detail",
+     "options": [
+      "A. They did not use proper experimental methods.",
+      "B. Their records were lost.",
+      "C. They used dangerous chemicals.",
+      "D. They took place in deserts."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They did not use proper experimental methods.",
+      "They did not use proper experimental methods."
+     ]
+    },
+    {
+     "id": "practice07-R25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What did the Idaho study show?",
+     "explanation": "Seeding can work under particular conditions.",
+     "evidenceQuote": "the study showed only that seeding can work under particular conditions",
+     "skillTag": "detail",
+     "options": [
+      "A. Seeding doubles snowfall.",
+      "B. Seeding works in all weather.",
+      "C. Radar can create snow.",
+      "D. Seeding can work in certain conditions."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Seeding can work in certain conditions.",
+      "Seeding can work in certain conditions."
+     ]
+    },
+    {
+     "id": "practice07-R26",
+     "number": 26,
+     "format": "Multiple Choice",
+     "prompt": "According to most reviews, cloud seeding",
+     "explanation": "It cannot make rain from clear skies.",
+     "evidenceQuote": "it cannot create rain from clear skies",
+     "skillTag": "main_idea",
+     "options": [
+      "A. can solve water shortages completely.",
+      "B. cannot produce rain when there are no clouds.",
+      "C. reduces rainfall in other countries.",
+      "D. has no effect at all."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. cannot produce rain when there are no clouds.",
+      "cannot produce rain when there are no clouds."
+     ]
+    }
+   ],
+   "estimatedWordCount": 700,
+   "groups": [
+    {
+     "from": 14,
+     "to": 18,
+     "instruction": "Questions 14–18. Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G."
+    },
+    {
+     "from": 19,
+     "to": 22,
+     "instruction": "Questions 19–22. Look at the following discoveries and the list of people below. Match each discovery with the correct person, A or B.",
+     "options": [
+      "A. Vincent Schaefer",
+      "B. Bernard Vonnegut"
+     ]
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "instruction": "Questions 23–26. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  },
+  {
+   "id": "practice07-rp3",
+   "passageNumber": 3,
+   "title": "Living with floods",
+   "discipline": "Environmental Planning",
+   "paragraphs": [
+    "For centuries, the dominant approach to flooding in many countries has been to keep water out. Rivers were straightened and confined between high embankments, wetlands were drained for farming and housing, and coastal towns were protected by ever-higher sea walls. This strategy, often described as 'hard engineering', has protected millions of people and allowed cities to grow on land that would otherwise flood regularly. But in recent decades, especially after a series of costly floods in Europe, North America and Asia, a growing number of engineers and planners have argued that it has also created new problems, and that a fundamentally different approach is needed.",
+    "One problem is that hard defences can transfer risk rather than remove it. When a river is confined within embankments, the water that would previously have spread across the floodplain is forced downstream more quickly, increasing the danger for communities further along the river. Defences can also create a false sense of security. Because people believe they are protected, more homes and businesses are built in areas at risk, so that when a defence eventually fails or is overtopped by an extreme flood, the damage is far greater than it would otherwise have been. Engineers call this the 'levee effect'.",
+    "Climate change is adding to the pressure. Warmer air holds more moisture, which means that heavy rainfall events are becoming more intense in many regions, while rising sea levels increase the risk of coastal flooding. Building defences high enough to cope with every possible future flood would be enormously expensive, and in some places, physically impossible. As a result, many experts now argue that the goal should not be to eliminate flooding altogether, but to reduce its harm and make communities more resilient when it occurs.",
+    "The Netherlands, a country where around a quarter of the land lies below sea level, has been at the forefront of this change in thinking. After serious river floods in the 1990s, the Dutch government launched a programme called Room for the River. At more than thirty locations, instead of raising embankments, engineers moved them further back from the river, lowered floodplains, and created side channels that can carry water when river levels are high. In some places, farmers were paid to relocate, and their former land was turned into areas designed to flood safely. The programme was completed in 2015 at a cost of over two billion euros, and it has been widely studied by other countries.",
+    "A related idea is often referred to as 'working with nature'. This includes restoring wetlands, which act like sponges, absorbing water during heavy rain and releasing it slowly; planting trees on hillsides to slow the flow of water into rivers; and allowing rivers to return to more natural, winding courses. In the English town of Pickering, which had flooded repeatedly, a project in the surrounding hills built hundreds of small dams from logs and branches, planted thousands of trees and created areas to store floodwater. The town was not flooded during heavy rains in 2015, although some engineers caution that it is difficult to know how much of this was due to the project.",
+    "Cities around the world are also being redesigned to cope with water. In Copenhagen, after a severe rainstorm in 2011 caused damage worth hundreds of millions of euros, the city developed a 'cloudburst plan', which includes parks and squares designed to fill with water during heavy storms, and streets that channel water towards the harbour. In China, the government has promoted 'sponge cities', in which green roofs, permeable pavements and urban wetlands are used to absorb rainwater rather than directing it into drains. Such approaches can also bring other benefits, such as more green space and cooler temperatures in summer.",
+    "None of this means, however, that hard defences have no place. For dense cities on the coast, such as London or Rotterdam, sea walls and barriers will remain essential. The most effective strategies combine engineering with natural solutions, better planning to avoid building in high-risk areas, and early warning systems that give people time to protect themselves. Accepting that floods will happen, and preparing for them, may ultimately prove more successful than trying to defeat the water entirely."
+   ],
+   "questions": [
+    {
+     "id": "practice07-R27",
+     "number": 27,
+     "format": "True / False / Not Given",
+     "prompt": "Confining a river within embankments can increase flood risk downstream.",
+     "explanation": "Risk increases downstream.",
+     "evidenceQuote": "increasing the danger for communities further along the river",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R28",
+     "number": 28,
+     "format": "True / False / Not Given",
+     "prompt": "The \"levee effect\" refers to defences encouraging building in risky areas.",
+     "explanation": "False security leads to more building.",
+     "evidenceQuote": "more homes and businesses are built in areas at risk",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R29",
+     "number": 29,
+     "format": "True / False / Not Given",
+     "prompt": "The Room for the River programme cost less than expected.",
+     "explanation": "The cost is given but not compared with expectations.",
+     "evidenceQuote": "at a cost of over two billion euros",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice07-R30",
+     "number": 30,
+     "format": "True / False / Not Given",
+     "prompt": "Engineers are certain that the Pickering project prevented flooding in 2015.",
+     "explanation": "Engineers are not certain.",
+     "evidenceQuote": "some engineers caution that it is difficult to know how much of this was due to the project",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice07-R31",
+     "number": 31,
+     "format": "True / False / Not Given",
+     "prompt": "Copenhagen's cloudburst plan was created after a major storm.",
+     "explanation": "It followed the 2011 storm.",
+     "evidenceQuote": "after a severe rainstorm in 2011",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice07-R32",
+     "number": 32,
+     "format": "Summary Completion",
+     "prompt": "Warmer air holds more __________, making heavy rain more intense.",
+     "explanation": "Warmer air holds more moisture.",
+     "evidenceQuote": "Warmer air holds more moisture",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "moisture"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R33",
+     "number": 33,
+     "format": "Summary Completion",
+     "prompt": "In the Netherlands, embankments were moved further back and floodplains were __________.",
+     "explanation": "Floodplains were lowered.",
+     "evidenceQuote": "lowered floodplains",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lowered"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R34",
+     "number": 34,
+     "format": "Summary Completion",
+     "prompt": "Some __________ were paid to move away from the river.",
+     "explanation": "Farmers were paid to relocate.",
+     "evidenceQuote": "farmers were paid to relocate",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "farmers"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R35",
+     "number": 35,
+     "format": "Summary Completion",
+     "prompt": "Wetlands act like __________, absorbing water and releasing it slowly.",
+     "explanation": "Wetlands act like sponges.",
+     "evidenceQuote": "which act like sponges",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "sponges"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R36",
+     "number": 36,
+     "format": "Summary Completion",
+     "prompt": "Sponge cities use green roofs and __________ pavements to absorb rain.",
+     "explanation": "Permeable pavements absorb rain.",
+     "evidenceQuote": "green roofs, permeable pavements and urban wetlands",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "permeable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice07-R37",
+     "number": 37,
+     "format": "Multiple Choice",
+     "prompt": "What is the main idea of paragraph C?",
+     "explanation": "The goal is reducing harm, not eliminating floods.",
+     "evidenceQuote": "the goal should not be to eliminate flooding altogether, but to reduce its harm",
+     "skillTag": "main_idea",
+     "options": [
+      "A. Climate change will end flooding.",
+      "B. Preventing all floods is unrealistic.",
+      "C. Sea levels are falling.",
+      "D. Defences should be made higher."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Preventing all floods is unrealistic.",
+      "Preventing all floods is unrealistic."
+     ]
+    },
+    {
+     "id": "practice07-R38",
+     "number": 38,
+     "format": "Multiple Choice",
+     "prompt": "Why does the writer mention the Netherlands?",
+     "explanation": "It leads the new approach.",
+     "evidenceQuote": "has been at the forefront of this change in thinking",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. as a leading example of the new approach",
+      "B. because it has no flood defences",
+      "C. to show that hard engineering always fails",
+      "D. to compare its weather with England's"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. as a leading example of the new approach",
+      "as a leading example of the new approach"
+     ]
+    },
+    {
+     "id": "practice07-R39",
+     "number": 39,
+     "format": "Multiple Choice",
+     "prompt": "What extra benefits of sponge cities are mentioned?",
+     "explanation": "They bring green space and cooler summers.",
+     "evidenceQuote": "more green space and cooler temperatures in summer",
+     "skillTag": "detail",
+     "options": [
+      "A. cheaper housing",
+      "B. fewer cars",
+      "C. more green space and cooler summers",
+      "D. cleaner drinking water"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. more green space and cooler summers",
+      "more green space and cooler summers"
+     ]
+    },
+    {
+     "id": "practice07-R40",
+     "number": 40,
+     "format": "Multiple Choice",
+     "prompt": "Which statement best summarises the writer's view of flood management?",
+     "explanation": "Combined strategies are most effective.",
+     "evidenceQuote": "The most effective strategies combine engineering with natural solutions",
+     "skillTag": "writer_purpose",
+     "options": [
+      "A. Hard defences should be removed.",
+      "B. Coastal cities should be abandoned.",
+      "C. Natural solutions alone are enough.",
+      "D. A combination of approaches works best."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. A combination of approaches works best.",
+      "A combination of approaches works best."
+     ]
+    }
+   ],
+   "estimatedWordCount": 701,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Do the following statements agree with the information given in Reading Passage 3? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Choose the correct letter, A, B, C or D."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice07-w1",
+  "title": "Average monthly rainfall in two cities",
+  "visualType": "Bar Chart",
+  "instructions": "The bar chart below shows the average monthly rainfall in two cities, Mumbai and London, at different times of the year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "266B75A5-D699-5E7C-94CD-42B76F39D1FE",
+    "series": "Mumbai",
+    "category": "Jan",
+    "value": 1.0,
+    "unit": "mm"
+   },
+   {
+    "id": "045F833A-EC3A-5E53-BF45-5E2E43BD2706",
+    "series": "London",
+    "category": "Jan",
+    "value": 55.0,
+    "unit": "mm"
+   },
+   {
+    "id": "DAC7DB02-E9FE-5FEB-AA59-5E9D663A7B03",
+    "series": "Mumbai",
+    "category": "Mar",
+    "value": 0.0,
+    "unit": "mm"
+   },
+   {
+    "id": "F6E4B9A0-A042-5671-8A15-F99664037A4C",
+    "series": "London",
+    "category": "Mar",
+    "value": 41.0,
+    "unit": "mm"
+   },
+   {
+    "id": "098B2D88-435B-5757-B7D7-8D4994DCB600",
+    "series": "Mumbai",
+    "category": "May",
+    "value": 11.0,
+    "unit": "mm"
+   },
+   {
+    "id": "3C17E70F-B7AF-58F1-A2CE-197910B6FDE2",
+    "series": "London",
+    "category": "May",
+    "value": 49.0,
+    "unit": "mm"
+   },
+   {
+    "id": "585A8030-83BF-5C80-8985-711EA0D18504",
+    "series": "Mumbai",
+    "category": "Jul",
+    "value": 840.0,
+    "unit": "mm"
+   },
+   {
+    "id": "A4B04345-DDF9-5371-9115-3B899F6B696E",
+    "series": "London",
+    "category": "Jul",
+    "value": 45.0,
+    "unit": "mm"
+   },
+   {
+    "id": "127B73DE-4122-5CFC-AC75-1181D7D85886",
+    "series": "Mumbai",
+    "category": "Sep",
+    "value": 330.0,
+    "unit": "mm"
+   },
+   {
+    "id": "8B18D90F-2ADF-573B-9494-B727CA2A0A21",
+    "series": "London",
+    "category": "Sep",
+    "value": 49.0,
+    "unit": "mm"
+   },
+   {
+    "id": "ACE38852-A5C2-52A1-81FD-2E6EA19A2C9D",
+    "series": "Mumbai",
+    "category": "Nov",
+    "value": 10.0,
+    "unit": "mm"
+   },
+   {
+    "id": "A66ED67B-E10C-53F1-A064-FFAF7B9F2A41",
+    "series": "London",
+    "category": "Nov",
+    "value": 64.0,
+    "unit": "mm"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Mumbai has an extremely wet monsoon season in summer and almost no rain for the rest of the year.",
+   "London's rainfall is low and fairly even throughout the year."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice07-w2",
+  "title": "Responding to extreme weather",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment & Climate",
+  "promptText": "Extreme weather events such as floods, droughts and heatwaves are becoming more common in many parts of the world. What problems does this cause, and what can governments and individuals do to reduce its effects?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice07-spk",
+  "theme": "Weather and water",
+  "part1Questions": [
+   "What is the weather like in your country?",
+   "What kind of weather do you like best?",
+   "Do you check the weather forecast every day?",
+   "Do you live near a river, lake or the sea?",
+   "Do you try to save water at home?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a time when the weather affected something you had planned.",
+   "bulletPoints": [
+    "what you had planned",
+    "what the weather was like",
+    "what you did instead",
+    "and explain how you felt about it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "How does climate affect the way people live in different countries?",
+   "Is the weather in your country changing?",
+   "Who should pay to protect towns from flooding?",
+   "Why is water shortage becoming a problem in many places?",
+   "Can technology help us deal with extreme weather?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Climate and weather figures are rounded and simplified for practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

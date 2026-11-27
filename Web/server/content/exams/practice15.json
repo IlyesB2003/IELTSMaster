@@ -1,0 +1,2181 @@
+{
+ "id": "practice15",
+ "examNumber": 15,
+ "pool": "practice",
+ "title": "Practice Test 15: Insects, Pollinators & Tiny Creatures",
+ "difficulty": "Standard Academic (Band 6.0 to 7.0)",
+ "theme": "Insects, Pollinators & Tiny Creatures",
+ "listeningParts": [
+  {
+   "id": "practice15-lp1",
+   "partNumber": 1,
+   "title": "Booking a bug hotel workshop",
+   "contextDescription": "A parent phones a nature centre to book places on a children's workshop.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "5A7F2527-83C6-5F4D-9E8B-5DA663A2745E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Hello, Riverside Nature Centre, Ben speaking. How can I help?"
+    },
+    {
+     "id": "E2AD2257-AB25-5F2E-B924-A730A9FE62C8",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Oh, hello. I saw that you're running a bug hotel workshop for children, and I'd like to book places for my two kids, if there's still room."
+    },
+    {
+     "id": "B8A71860-8402-59A6-97F3-ED42955819F2",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, we've got a few sessions coming up. They're all on Saturday mornings. Which date were you interested in?"
+    },
+    {
+     "id": "B3DE5A2D-AFCA-5E93-9AE2-833B9567FA92",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "I was hoping for the tenth of May."
+    },
+    {
+     "id": "D9672995-080A-5BB2-A5AC-D3C19D00631F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Let me have a look. I'm afraid the tenth is completely full. It's been very popular. But there are still places on the seventeenth. Would that work?"
+    },
+    {
+     "id": "2871DCCB-D577-5AD2-A50E-3BCD5B5045CF",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "The seventeenth. Yes, I think so. We're not doing anything that weekend."
+    },
+    {
+     "id": "A5569B57-1AC5-5DF0-A45F-63E4D34EB7B6",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Great. Can I take your name, please?"
+    },
+    {
+     "id": "083BDE64-D81E-54B1-A13F-6AFE63BE350A",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "It's Joanna Whitcombe. That's W-H-I-T-C-O-M-B-E."
+    },
+    {
+     "id": "36A716C1-3A92-501D-9196-C9A085D87D72",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you. And how old are the children? The workshop is designed for ages six to twelve."
+    },
+    {
+     "id": "9F58CCD4-3EFB-569E-A3F7-EB8E933A0E78",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "That's fine. My daughter's seven and my son is ten."
+    },
+    {
+     "id": "7666F7C2-B595-58E5-BCCB-A35381A9779D",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Perfect. Now, the price. For members of the centre, it's six pounds per child, and for non-members it's eight pounds. Are you members?"
+    },
+    {
+     "id": "DD909681-181F-5127-ADD8-1523C5FDE1D8",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "No, we're not, although we've been meaning to join for ages."
+    },
+    {
+     "id": "683887FD-090E-5A2C-9D22-F01B4186A28A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Well, if you join on the day, we can take the difference off your membership fee. Adults come free, by the way, and you're very welcome to stay and help."
+    },
+    {
+     "id": "9449BAFD-8194-5A00-8D6A-58AAB7A9B771",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Oh, I'd love to. Could you tell me a bit about what they'll actually do?"
+    },
+    {
+     "id": "0B6CDA4E-F561-55CC-BDF5-9A6048540321",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. A bug hotel is a kind of shelter that gives insects and other small creatures somewhere to live, especially over the winter. Each child builds their own small one, using a wooden frame, which we provide. They fill it with natural materials. We use pine cones, dry leaves, pieces of bark and hollow bamboo canes. Solitary bees, for example, like to lay their eggs inside the bamboo tubes, and ladybirds often spend the winter hidden among the pine cones."
+    },
+    {
+     "id": "6B2E20CB-5875-5350-B766-6505152C7313",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "That sounds lovely. Can they bring it home?"
+    },
+    {
+     "id": "9A7A0790-1D3A-598E-9372-A5FF8AAB3479",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, each child takes home their bug hotel, along with a leaflet about garden insects, so they can identify who moves in. We suggest putting it somewhere sheltered, facing the sun, about a metre off the ground."
+    },
+    {
+     "id": "88063C72-058F-5D88-9B3F-F3F1868F8258",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "And where do we meet?"
+    },
+    {
+     "id": "6888E409-3127-5C73-BDDD-CD20614572D8",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The workshop takes place in the wooden barn next to the car park, not in the main visitor centre. It starts at ten and finishes at twelve thirty."
+    },
+    {
+     "id": "8863F58F-5D5B-5EFC-AAE2-3DD705769D88",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Is there somewhere to park? We'll probably drive, because it's quite a long way from our house."
+    },
+    {
+     "id": "69C2733A-AD55-5D66-8FEA-3463E1668913",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, parking is free for visitors, but it does fill up quickly on Saturdays, so I'd suggest arriving by about a quarter to ten. There's also a café in the visitor centre if you'd like a coffee while you wait, and the children get a drink and a biscuit halfway through the session."
+    },
+    {
+     "id": "A2D521AA-933D-5C2A-B5FC-768BCE07C96C",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Is there anything they need to bring?"
+    },
+    {
+     "id": "3127DC84-B7C2-5DEA-9AF6-D5DDB198D1AC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "We provide gloves and all the tools, but they should wear old clothes, because it can get messy. And part of the session is outside collecting materials, so I'd recommend boots, as the ground near the river is often muddy."
+    },
+    {
+     "id": "BA6B9E7E-C75B-59F8-91DD-9AED3831F2FA",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Good to know. Oh, one thing I should mention. My son has quite bad hay fever. He's allergic to grass. Will that be a problem?"
+    },
+    {
+     "id": "51C86283-96FB-5D1B-B2A7-5289CB232256",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thanks for telling me. I'll make a note for the leader. Most of the outdoor part is in the woodland, rather than the meadow, so it shouldn't be too bad, but he might want to bring his medicine just in case."
+    },
+    {
+     "id": "BE272BCD-D701-5B40-8CF7-241A1D46990D",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "I'll make sure he does. And is there anything else happening that day?"
+    },
+    {
+     "id": "83366D68-88A8-515F-B367-A0698A8744B0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "There's an optional pond-dipping session in the afternoon, starting at quarter past two, where children can look at water insects like dragonfly larvae and water boatmen. It's free for anyone who's done the morning workshop."
+    },
+    {
+     "id": "B3C539D7-40EC-58CB-B05A-45A4197EB17A",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "Brilliant, we might stay for that. How do I pay?"
+    },
+    {
+     "id": "BE22FFEE-27DE-5367-B98E-1C2C0AED38DC",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "You can pay on the day. Just one last question for our records: how did you find out about the workshop?"
+    },
+    {
+     "id": "19BB4D11-F048-5C11-91A7-DF3BBC8F72CD",
+     "speaker": "Parent",
+     "accent": "en-IE",
+     "text": "It was in the school newsletter last week."
+    },
+    {
+     "id": "AEED12C0-1384-5239-A7CB-5B4F2B5C0D44",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely, thank you. So that's two places on Saturday the seventeenth. We look forward to seeing you."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice15-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Workshop date: Saturday __________ May",
+     "explanation": "Places are available on the 17th.",
+     "evidenceQuote": "But there are still places on the seventeenth.",
+     "skillTag": "dates",
+     "distractorNote": "The tenth is full.",
+     "options": [],
+     "acceptedAnswers": [
+      "17",
+      "17th",
+      "seventeenth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Parent's surname: __________",
+     "explanation": "She spells Whitcombe.",
+     "evidenceQuote": "It's Joanna Whitcombe. That's W-H-I-T-C-O-M-B-E.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Whitcombe"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Children's ages: 7 and __________",
+     "explanation": "Her son is ten.",
+     "evidenceQuote": "My daughter's seven and my son is ten.",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Price per child (non-members): £__________",
+     "explanation": "They are not members, so it is £8.",
+     "evidenceQuote": "for non-members it's eight pounds",
+     "skillTag": "numbers",
+     "distractorNote": "£6 is the members' price.",
+     "options": [],
+     "acceptedAnswers": [
+      "8",
+      "eight"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Materials include hollow __________ canes",
+     "explanation": "Bamboo canes are used.",
+     "evidenceQuote": "pieces of bark and hollow bamboo canes",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "bamboo"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Each child takes home a bug hotel and a __________",
+     "explanation": "A leaflet is provided.",
+     "evidenceQuote": "along with a leaflet about garden insects",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "leaflet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Meeting place: the wooden __________ next to the car park",
+     "explanation": "They meet in the barn.",
+     "evidenceQuote": "The workshop takes place in the wooden barn next to the car park",
+     "skillTag": "detail",
+     "distractorNote": "It is not in the main visitor centre.",
+     "options": [],
+     "acceptedAnswers": [
+      "barn"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Children should wear old clothes and __________",
+     "explanation": "Boots are recommended.",
+     "evidenceQuote": "I'd recommend boots, as the ground near the river is often muddy",
+     "skillTag": "detail",
+     "distractorNote": "Gloves are provided.",
+     "options": [],
+     "acceptedAnswers": [
+      "boots"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Son is allergic to __________",
+     "explanation": "He is allergic to grass.",
+     "evidenceQuote": "He's allergic to grass.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "grass"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Heard about the workshop in the school __________",
+     "explanation": "She read about it in the newsletter.",
+     "evidenceQuote": "It was in the school newsletter last week.",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "newsletter"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "bug hotel",
+    "workshop",
+    "membership",
+    "pond dipping",
+    "allergy"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice15-lp2",
+   "partNumber": 2,
+   "title": "A meadow for pollinators",
+   "contextDescription": "A park manager talks to local residents about a new wildflower area in a city park.",
+   "primaryAccent": "en-AU",
+   "dialogue": [
+    {
+     "id": "2782863A-8F01-5CA4-BD5C-06D1CFE77ABC",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Good evening, everyone, and thanks for coming. My name's Leah Moretti, and I manage Ashgrove Park for the city council. Tonight I want to explain our plans to turn part of the park into a wildflower area for pollinators, and to answer any questions you have."
+    },
+    {
+     "id": "283510A1-29CC-56C2-B502-C7FCEC7CF191",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "So, first of all, why are we doing this? When people hear the word 'pollinator', they usually think of honeybees. But in fact, a huge range of insects carry pollen from flower to flower, including bumblebees, solitary bees, hoverflies, butterflies, moths and even some beetles. Many of these insects have declined in recent decades, and one of the main reasons is the loss of the flower-rich grasslands they depend on. Parks like ours can't solve that problem on their own, but they can provide important stepping stones for insects moving through the city."
+    },
+    {
+     "id": "80769BCA-889A-5A8D-B581-284F50EEEEA6",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Now, I know that some of you are worried about how this will look. At the moment, the area by the eastern gate is just short grass that we mow every week in summer. Under the new plan, we'll mow that area much less often. Some people have told me they think this will look untidy or neglected. What we're going to do is keep a mown strip, about two metres wide, along the edges and paths. That shows people that the long grass is deliberate, and in our experience, it makes a big difference to how people feel about it."
+    },
+    {
+     "id": "106EAFB1-5F78-5258-8BFA-4F5B5AD27632",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "We'll cut the meadow itself just once a year, in late summer, after the flowers have set seed. And this is important: we'll remove the cuttings rather than leaving them on the ground. That might seem strange, but most wildflowers actually grow best in poor soil. If the cuttings rot down, they add nutrients, and then fast-growing grasses take over and crowd out the flowers."
+    },
+    {
+     "id": "5CE75C7B-03C9-5B88-ADD7-9B2BD230C60E",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "The project is being paid for by a grant from a wildlife charity, so it won't cost residents anything extra. We'll be relying on volunteers, though, especially for planting in the autumn, so if you're interested, please leave your details on the sheet at the back."
+    },
+    {
+     "id": "F84D4975-CF66-562F-B550-6B4860FF5BF5",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "Let me tell you about some of the plants we're including, because each one has a particular job. Near the entrance, we're planting willow. Its catkins appear very early in spring, and they're one of the first sources of pollen for queen bumblebees coming out of hibernation. Along the old wall, we'll let the ivy grow. People often think of ivy as a weed, but it flowers in autumn, when hardly anything else does, so it's a vital source of food for insects late in the year."
+    },
+    {
+     "id": "9A98F19B-6E3D-52D9-9DB2-63931EF28A49",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "In the corner by the compost bins, we're deliberately leaving a patch of stinging nettles. I know they're not very popular with dog walkers! But they're the main food plant for the caterpillars of several butterflies, such as the peacock and the small tortoiseshell. In the main flower bed, we'll have foxgloves. Their flowers are long tubes, so they suit bumblebees with long tongues that can reach the nectar deep inside. And finally, we're planting fennel. Its flat clusters of tiny flowers are very popular with hoverflies, which are excellent pollinators and whose larvae also eat aphids, so they help gardeners too."
+    },
+    {
+     "id": "C9DB3601-3F48-5EA4-B595-EE988B849827",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "We're also being careful about where our seeds come from. Rather than buying a cheap mixture that might include plants from other parts of the world, we're using seed collected from wildflower meadows in this region. Local plants are better suited to our soil and climate, and the insects here are adapted to them. It does cost a little more, but we think it's worth it."
+    },
+    {
+     "id": "61EA7442-C894-5A89-9DAB-219BC37BBCDC",
+     "speaker": "Manager",
+     "accent": "en-AU",
+     "text": "To find out whether the project's working, we'll be running insect counts three times a year, in May, July and September, and anyone can join in. You don't need to be an expert; we'll give you an identification guide and a short training session. The results will be published on the council's website. Right, I'll stop there. Does anyone have any questions?"
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice15-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "According to Leah, a main cause of the decline in pollinating insects is",
+     "explanation": "Flower-rich grassland has been lost.",
+     "evidenceQuote": "the loss of the flower-rich grasslands they depend on",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the disappearance of flower-rich grassland.",
+      "B. competition from honeybees.",
+      "C. the growth of city parks."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the disappearance of flower-rich grassland.",
+      "the disappearance of flower-rich grassland."
+     ]
+    },
+    {
+     "id": "practice15-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why will a strip of short grass be kept along the paths?",
+     "explanation": "It shows the long grass is intentional.",
+     "evidenceQuote": "That shows people that the long grass is deliberate",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to make it easier to walk dogs",
+      "B. to protect the flowers from people",
+      "C. to show that the long grass is planned"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to show that the long grass is planned",
+      "to show that the long grass is planned"
+     ]
+    },
+    {
+     "id": "practice15-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Why will the cuttings be removed after mowing?",
+     "explanation": "Wildflowers need poor soil, and rotting cuttings add nutrients.",
+     "evidenceQuote": "most wildflowers actually grow best in poor soil",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They could spread plant diseases.",
+      "B. They would make the soil too rich.",
+      "C. They make the park look untidy."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They would make the soil too rich.",
+      "They would make the soil too rich."
+     ]
+    },
+    {
+     "id": "practice15-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "How is the project being funded?",
+     "explanation": "A charity grant pays for it.",
+     "evidenceQuote": "The project is being paid for by a grant from a wildlife charity",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. by a charity grant",
+      "B. by an increase in local taxes",
+      "C. by volunteers' donations"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. by a charity grant",
+      "by a charity grant"
+     ]
+    },
+    {
+     "id": "practice15-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What does Leah say about the insect counts?",
+     "explanation": "No expertise is needed.",
+     "evidenceQuote": "You don't need to be an expert",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They will take place every month.",
+      "B. They are only for trained scientists.",
+      "C. Members of the public can take part without experience."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Members of the public can take part without experience.",
+      "Members of the public can take part without experience."
+     ]
+    },
+    {
+     "id": "practice15-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "willow",
+     "explanation": "Willow provides early food.",
+     "evidenceQuote": "one of the first sources of pollen for queen bumblebees",
+     "skillTag": "matching",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. provides food very early in the year",
+      "provides food very early in the year"
+     ]
+    },
+    {
+     "id": "practice15-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "ivy",
+     "explanation": "Ivy flowers late in the year.",
+     "evidenceQuote": "it flowers in autumn, when hardly anything else does",
+     "skillTag": "matching",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. is valuable because it flowers late",
+      "is valuable because it flowers late"
+     ]
+    },
+    {
+     "id": "practice15-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "stinging nettles",
+     "explanation": "Nettles feed caterpillars.",
+     "evidenceQuote": "the main food plant for the caterpillars of several butterflies",
+     "skillTag": "matching",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. feeds young butterflies",
+      "feeds young butterflies"
+     ]
+    },
+    {
+     "id": "practice15-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "foxgloves",
+     "explanation": "Foxgloves suit long-tongued bees.",
+     "evidenceQuote": "they suit bumblebees with long tongues",
+     "skillTag": "matching",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. suits insects that can reach deep into flowers",
+      "suits insects that can reach deep into flowers"
+     ]
+    },
+    {
+     "id": "practice15-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "fennel",
+     "explanation": "Fennel attracts hoverflies.",
+     "evidenceQuote": "very popular with hoverflies",
+     "skillTag": "matching",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. attracts insects that also control pests",
+      "attracts insects that also control pests"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "pollinator",
+    "wildflower meadow",
+    "mowing",
+    "nectar",
+    "caterpillar"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does Leah say about each plant? Choose FIVE answers from the box and write the correct letter, A–G, next to Questions 16–20.",
+     "options": [
+      "A. provides food very early in the year",
+      "B. is valuable because it flowers late",
+      "C. attracts insects that also control pests",
+      "D. feeds young butterflies",
+      "E. suits insects that can reach deep into flowers",
+      "F. needs to be cut back every spring",
+      "G. grows best in wet ground"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "practice15-lp3",
+   "partNumber": 3,
+   "title": "Planning a campus insect survey",
+   "contextDescription": "Two biology students, Megan and Tom, talk to their tutor about an insect survey project.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "959B6126-18DA-5F51-AC57-486F59F3D014",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Hi, Megan, Tom. So, you've decided to do your project on insects on the campus. Tell me what you're planning."
+    },
+    {
+     "id": "91BF5953-1126-5C87-B17B-1005532B0F88",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Well, the basic question is whether different types of habitat on campus support different numbers and types of insects. We've chosen three sites: the short grass on the main lawn, the wildflower strip behind the library, and the small wood near the sports hall."
+    },
+    {
+     "id": "089F6CC3-3E88-5218-BF92-84AFAB7AD56A",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Good, that gives you a nice contrast. What made you choose this topic?"
+    },
+    {
+     "id": "BDEA8D67-7D92-5256-8ACC-9D94805B22AE",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Partly the news stories about insect decline. But mainly, the university's just started managing some areas for wildlife, and the grounds team said they'd like some data to see whether it's making a difference."
+    },
+    {
+     "id": "7AB3CDEF-C5C5-59D7-8057-915B6787BF59",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's excellent, because it means your project could actually be useful. How are you going to collect the insects?"
+    },
+    {
+     "id": "E40CA873-A45E-573D-A38D-2C6B98B2C1CB",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "We're using two methods. For insects on the ground, mainly beetles and spiders, we'll use pitfall traps. They're just plastic cups sunk into the soil so the rim is level with the surface. Anything walking along falls in."
+    },
+    {
+     "id": "E3DB4065-0544-54F4-8B54-502939B4AAB2",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Are you going to put any liquid in them?"
+    },
+    {
+     "id": "89AA04C3-3DB7-500C-B12B-F41F876C719E",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We talked about that. Some studies use a preservative, but that kills everything. We'd rather keep the insects alive, identify them, and release them. So we'll leave the cups dry, and check them every twenty-four hours, because otherwise the predators, like the larger beetles, start eating the other insects."
+    },
+    {
+     "id": "E7899873-FB9F-5969-8638-4287B7959D25",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Sensible. And make sure you put a cover over each one, a little raised above the cup, or they'll fill with water when it rains."
+    },
+    {
+     "id": "A7EF75CC-570C-5E26-B3BA-2152CA6939BF",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Yes, we were going to use small squares of wood for that."
+    },
+    {
+     "id": "DE4517C8-5085-5044-9181-17B4E810C0A7",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "And the second method?"
+    },
+    {
+     "id": "F10EF507-4C3B-5E72-94E6-58CA26E79153",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "A moth trap. It's a box with a bright light on top that attracts moths at night. They fall into the box and settle among egg trays inside, and in the morning we identify and release them. The ecology department has agreed to lend us one."
+    },
+    {
+     "id": "63A6202E-895E-5EAE-B8D5-E6BF3823AE5C",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Have you checked that you're allowed to put traps on university land?"
+    },
+    {
+     "id": "4A59F0F6-AE59-580B-9C84-46B074C28FA1",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Yes, the grounds team were happy for us to go ahead. We just have to mark each trap with a small flag, so that the gardeners don't mow over them or trip on them, and we've filled in a risk assessment form for working outside at night."
+    },
+    {
+     "id": "A22F2A7D-9DC2-58B1-9ED2-78A370B90A2D",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Good. That's exactly the kind of thing examiners like to see mentioned."
+    },
+    {
+     "id": "48AB6AD3-6097-516E-976E-BBFE0A8980A7",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Where will you run it?"
+    },
+    {
+     "id": "0D26650C-2567-5E1E-BCE5-7FE98715CD37",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "That's a problem, actually. We'd planned to put it in all three sites, but the main lawn is next to the student halls, and we were worried the light would disturb people trying to sleep. So we'll only use it in the wood and behind the library."
+    },
+    {
+     "id": "AD80CF5F-FBD3-50DD-B873-CF3660D3CF34",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "That's fine, as long as you explain why in your methods section. It does mean you can't compare all three sites for moths, so be careful about the conclusions you draw. How often are you sampling?"
+    },
+    {
+     "id": "BAEA8D70-B6AE-527C-937B-557C174C9B86",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Once a week for six weeks, in June and early July."
+    },
+    {
+     "id": "6862C4F2-4ED7-50DE-BA61-D1398A859CA7",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "And how will you deal with the weather? Moth numbers can vary enormously depending on temperature."
+    },
+    {
+     "id": "A2606C9D-9B77-5586-85B3-7D55CC9B5C6A",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "We hadn't really thought about that. I suppose we could record the temperature each night?"
+    },
+    {
+     "id": "F7BD6FB9-FEA6-5EE8-9A60-7DCC6FC799D2",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Yes, record the minimum overnight temperature, and also wind and cloud cover, because moths fly much less on clear, cold nights. And try to run the trap on the same nights at both sites, so that the weather is the same for each."
+    },
+    {
+     "id": "E6D5FD5F-0D16-5522-9FD2-4562DE1424D3",
+     "speaker": "Megan",
+     "accent": "en-IE",
+     "text": "Good idea. The other thing we're unsure about is identification. Some of the beetles are really hard to tell apart."
+    },
+    {
+     "id": "29FAB980-B1FD-5428-AC16-EF6644A0BEFC",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Don't try to identify everything to species level. For the difficult groups, it's perfectly acceptable to sort them into families. You'll still be able to compare the sites. And take good photographs, so that an expert can check them later if necessary."
+    },
+    {
+     "id": "6677DD72-B666-5BFA-910E-6C0C010FE8CF",
+     "speaker": "Tom",
+     "accent": "en-GB",
+     "text": "Should we share our results with anyone?"
+    },
+    {
+     "id": "6174EDFA-596B-50E2-882B-AC0A2627A5B3",
+     "speaker": "Tutor",
+     "accent": "en-US",
+     "text": "Definitely. Send a summary to the grounds team, and you could also submit your records to the national recording website, so they become part of the wider scientific data. Right, I'd like to see a draft of your methods section in two weeks."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice15-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students mainly choose this topic?",
+     "explanation": "The grounds team wants data.",
+     "evidenceQuote": "the grounds team said they'd like some data",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They had read news stories about insect decline.",
+      "B. The university staff wanted information.",
+      "C. The tutor suggested it."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. The university staff wanted information.",
+      "The university staff wanted information."
+     ]
+    },
+    {
+     "id": "practice15-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why will the pitfall traps be checked every day?",
+     "explanation": "Predatory insects would eat the others.",
+     "evidenceQuote": "otherwise the predators, like the larger beetles, start eating the other insects",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to stop some insects eating others",
+      "B. to prevent the cups filling with rain",
+      "C. because the preservative evaporates"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. to stop some insects eating others",
+      "to stop some insects eating others"
+     ]
+    },
+    {
+     "id": "practice15-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why will the moth trap not be used on the main lawn?",
+     "explanation": "The light might disturb students.",
+     "evidenceQuote": "we were worried the light would disturb people trying to sleep",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There are too few moths there.",
+      "B. The trap could be stolen.",
+      "C. The light might disturb residents."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The light might disturb residents.",
+      "The light might disturb residents."
+     ]
+    },
+    {
+     "id": "practice15-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor advise about the weather?",
+     "explanation": "Sampling on the same nights keeps conditions equal.",
+     "evidenceQuote": "try to run the trap on the same nights at both sites",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Only run the trap on warm nights.",
+      "B. Sample both sites under the same conditions.",
+      "C. Use data from a weather website."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Sample both sites under the same conditions.",
+      "Sample both sites under the same conditions."
+     ]
+    },
+    {
+     "id": "practice15-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor say about identifying beetles?",
+     "explanation": "Grouping into families is acceptable.",
+     "evidenceQuote": "it's perfectly acceptable to sort them into families",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Sorting them into families is acceptable.",
+      "B. Every beetle must be identified to species.",
+      "C. An expert should identify them all."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Sorting them into families is acceptable.",
+      "Sorting them into families is acceptable."
+     ]
+    },
+    {
+     "id": "practice15-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Site 2: the wildflower strip behind the __________",
+     "explanation": "The second site is behind the library.",
+     "evidenceQuote": "the wildflower strip behind the library",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "library"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Pitfall traps: use small squares of __________ as covers",
+     "explanation": "Wooden squares will cover the traps.",
+     "evidenceQuote": "we were going to use small squares of wood for that",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "wood"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Inside the moth trap, moths settle among egg __________",
+     "explanation": "They rest among egg trays.",
+     "evidenceQuote": "settle among egg trays inside",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "trays"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Sampling: once a week for __________ weeks",
+     "explanation": "They will sample for six weeks.",
+     "evidenceQuote": "Once a week for six weeks",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "6",
+      "six"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Take good __________ so an expert can check identifications",
+     "explanation": "Photographs allow checking.",
+     "evidenceQuote": "take good photographs, so that an expert can check them later",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "photographs"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "pitfall trap",
+    "moth trap",
+    "biodiversity",
+    "habitat",
+    "sample"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice15-lp4",
+   "partNumber": 4,
+   "title": "The science of fireflies",
+   "contextDescription": "A lecture in a biology course about how fireflies produce light and why they are under threat.",
+   "primaryAccent": "en-CA",
+   "dialogue": [
+    {
+     "id": "60839E57-008C-514E-83FE-0FE0656799D2",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Good afternoon, everyone. Today we're looking at one of the most magical sights in the natural world: fireflies. On summer evenings in many parts of the world, fields and forests light up with thousands of tiny flashing lights. But how do these insects produce light, why do they do it, and why are scientists worried about their future?"
+    },
+    {
+     "id": "050824BC-B9A7-57C5-9B45-6B50BE988F18",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Let's start with some basic facts. Despite their name, fireflies aren't flies at all. They're beetles, belonging to a family called the Lampyridae, and there are more than two thousand known species. They're found on every continent except Antarctica, but they're most diverse in warm, humid regions of Asia and the Americas. In some places, people call them lightning bugs."
+    },
+    {
+     "id": "A5501D0A-D501-5586-9F65-A6DF8B4364DB",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "The production of light by living things is called bioluminescence. In fireflies, it takes place in special light organs, usually near the end of the abdomen. Inside these organs, a chemical called luciferin reacts with oxygen. The reaction is made possible by an enzyme called luciferase, and it also requires a molecule called ATP, which is the main energy carrier in living cells. What's remarkable is how efficient this reaction is. An ordinary old-fashioned light bulb loses most of its energy as heat, but almost all the energy from the firefly's reaction is released as light. That's why it's sometimes described as cold light."
+    },
+    {
+     "id": "B4DD3C85-8B97-5F7A-842F-BF54D6C0B873",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "So how does a firefly switch its light on and off? The answer seems to lie in controlling the supply of oxygen to the light organ. Researchers have found evidence that a gas called nitric oxide plays a role in this, allowing oxygen to reach the light-producing cells in short bursts. That's what creates the flash."
+    },
+    {
+     "id": "0C1C0443-BD07-5576-9A2E-41A0A9026C79",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Now, why do they flash? In most species, the main purpose is courtship. Typically, males fly around flashing a particular pattern, and females, waiting on the ground or on plants, respond with their own flash. Each species has its own code, which might differ in the length of the flash, the number of flashes, or the time between them. This allows fireflies to find partners of the right species in the dark."
+    },
+    {
+     "id": "705FD66A-0B55-594E-9CFF-3A674F91B42F",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "But this system can be exploited. Females of some species in a group called Photuris have learned to copy the flash responses of females of other species. When a male of the other species arrives, expecting to find a mate, the Photuris female catches and eats him. Scientists sometimes call them femme fatale fireflies. And by eating these males, they also gain chemicals that help protect them from their own predators, such as spiders."
+    },
+    {
+     "id": "E533B336-7FA7-5EE8-84E5-231BF7564245",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "It's not only adults that glow. Firefly larvae produce light too, and in many species, the glow seems to act as a warning to predators that they taste unpleasant. The larvae live on the ground or in leaf litter, and they're fierce predators themselves. Many feed on snails and slugs, injecting them with digestive chemicals that turn their prey into a liquid."
+    },
+    {
+     "id": "DFA4FCCB-B2D6-50B1-A7AA-FE124CF13B0C",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "One of the most extraordinary displays happens in the Great Smoky Mountains National Park in the United States, where one species flashes in unison. Thousands of males flash together, then go dark together, creating waves of light through the forest. It's become so popular that the park now uses a lottery system to limit the number of visitors. Similar synchronised displays occur in mangrove forests in Southeast Asia."
+    },
+    {
+     "id": "054F7D8E-6DD3-552B-BA16-1AD856FD5360",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Sadly, there's growing evidence that many firefly populations are declining. A major review by firefly experts identified three main threats. The first is the loss of habitat, as wetlands, meadows and forests are cleared for building and agriculture. The second is light pollution. Artificial lights from streets and buildings make it harder for fireflies to see each other's signals, and so they find mates less successfully. The third is the use of pesticides, which can kill both the adults and the larvae."
+    },
+    {
+     "id": "D6758A5F-7B8F-56AE-B918-3C1ED7B92C2A",
+     "speaker": "Lecturer",
+     "accent": "en-CA",
+     "text": "Interestingly, fireflies have also made an important contribution to science. Scientists have learned to insert the gene for luciferase into other organisms, so that cells glow when a particular gene is active. This technique is now widely used in medical research. In the next session, we'll look at other bioluminescent organisms, particularly those in the deep ocean."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice15-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Fireflies are not flies but __________",
+     "explanation": "Fireflies are beetles.",
+     "evidenceQuote": "They're beetles, belonging to a family called the Lampyridae",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "beetles"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "Found on every continent except __________",
+     "explanation": "They are absent only from Antarctica.",
+     "evidenceQuote": "every continent except Antarctica",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Antarctica"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Light organs are usually near the end of the __________",
+     "explanation": "The organs are in the abdomen.",
+     "evidenceQuote": "usually near the end of the abdomen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "abdomen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Luciferin reacts with oxygen, helped by an __________ called luciferase",
+     "explanation": "Luciferase is an enzyme.",
+     "evidenceQuote": "an enzyme called luciferase",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "enzyme"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Firefly light loses very little energy as __________",
+     "explanation": "Unlike a bulb, the reaction produces little heat.",
+     "evidenceQuote": "An ordinary old-fashioned light bulb loses most of its energy as heat, but almost all the energy from the firefly's reaction is released as light",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "heat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Flashing is controlled by the supply of __________",
+     "explanation": "Oxygen supply controls the flash.",
+     "evidenceQuote": "controlling the supply of oxygen to the light organ",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "oxygen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Main purpose of flashing in most species: __________",
+     "explanation": "Flashing is mainly for courtship.",
+     "evidenceQuote": "the main purpose is courtship",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "courtship"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Many larvae feed on snails and __________",
+     "explanation": "Larvae eat snails and slugs.",
+     "evidenceQuote": "Many feed on snails and slugs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "slugs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Great Smoky Mountains: visitors limited by a __________",
+     "explanation": "A lottery limits visitors.",
+     "evidenceQuote": "the park now uses a lottery system",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "lottery"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "Threats: habitat loss, light pollution and __________",
+     "explanation": "Pesticides are the third threat.",
+     "evidenceQuote": "The third is the use of pesticides",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pesticides"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "bioluminescence",
+    "enzyme",
+    "larva",
+    "courtship",
+    "light pollution"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice15-rp1",
+   "passageNumber": 1,
+   "title": "The monarch butterfly's great journey",
+   "discipline": "Entomology",
+   "paragraphs": [
+    "Every autumn, millions of monarch butterflies in eastern North America begin one of the most remarkable journeys in the animal kingdom. Leaving southern Canada and the northern United States, they fly south for more than three thousand kilometres to spend the winter in a small area of mountain forest in central Mexico. No other butterfly is known to make such a long, regular two-way migration, and for many years the question of where these insects actually went was one of the great mysteries of natural history.",
+    "The answer was found through the persistence of a Canadian zoologist, Fred Urquhart, who began studying monarch migration in the late 1930s. From the 1950s onwards, he and his wife Norah organised thousands of volunteers to attach tiny paper labels to the wings of monarchs, each with a request that anyone finding the butterfly should report it. Gradually, the reports pointed towards Mexico. Finally, in January 1975, two of their collaborators, Ken Brugger and Catalina Aguado, found the overwintering sites high in the mountains west of Mexico City. The discovery was announced to the world in National Geographic magazine in 1976.",
+    "The sites are as extraordinary as the journey. The butterflies gather in dense clusters on the trunks and branches of oyamel fir trees, at altitudes of around three thousand metres. So many butterflies may settle on a single tree that branches have been known to break under their weight. The cool mountain climate allows the monarchs to survive the winter in a state of low activity, using up their stored fat slowly, while the forest canopy protects them from the worst of the cold and from rain and snow. The butterflies remain there until the days lengthen and temperatures rise in late winter, when they begin to mate and prepare to leave.",
+    "One of the most surprising facts about the migration is that no single butterfly completes the whole round trip. Monarchs born in early summer live for only a few weeks as adults. The generation that flies south in autumn, however, is different: these butterflies do not breed until the following spring, and they can live for up to eight months. In spring, they fly north to the southern United States, where they lay their eggs and die. It then takes several more generations, each living only a few weeks, to recolonise the north.",
+    "How the butterflies find their way to a place they have never visited remains a subject of research. Experiments have shown that monarchs use the position of the sun as a compass. Because the sun moves across the sky during the day, they must also keep track of time, and scientists have discovered that the internal clocks that allow them to do this are located partly in their antennae. There is also evidence that monarchs can use the Earth's magnetic field to help them navigate, which may be particularly useful on cloudy days.",
+    "Monarchs are closely linked to a single group of plants. Their caterpillars feed only on milkweeds, which contain poisonous chemicals. The caterpillars are not harmed by these chemicals; instead, they store them in their bodies, and the poisons remain in the adult butterflies. This makes monarchs unpleasant to eat, and many birds learn to avoid them after a single attempt. The butterflies' bright orange and black colouring acts as a warning, advertising to predators that they are not worth attacking.",
+    "Unfortunately, the eastern monarch population has declined dramatically. Because the butterflies cluster so tightly together, scientists estimate the population by measuring the area of forest they occupy in winter. In the mid-1990s, the colonies covered around eighteen hectares; in the winter of 2013 to 2014, they covered less than one hectare. Several causes have been identified. The most important is thought to be the loss of milkweed in the United States, much of it due to the increased use of herbicides on farmland. Illegal logging in Mexico and extreme weather events have also played a part.",
+    "Efforts to protect the monarch now involve all three countries along its route. In Mexico, the overwintering area is protected as the Monarch Butterfly Biosphere Reserve, which was declared a UNESCO World Heritage Site in 2008. In the United States and Canada, governments, schools and individual gardeners have been encouraged to plant milkweed and other flowers that provide nectar for adult butterflies. Whether these efforts will be enough to secure the future of this extraordinary migration is not yet clear, but they show how a single insect can inspire cooperation across an entire continent."
+   ],
+   "questions": [
+    {
+     "id": "practice15-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "Several other species of butterfly make a similar two-way migration.",
+     "explanation": "No other butterfly is known to do this.",
+     "evidenceQuote": "No other butterfly is known to make such a long, regular two-way migration",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice15-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Fred Urquhart personally discovered the overwintering sites in Mexico.",
+     "explanation": "His collaborators found them.",
+     "evidenceQuote": "two of their collaborators, Ken Brugger and Catalina Aguado, found the overwintering sites",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice15-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Some of the volunteers who labelled butterflies were schoolchildren.",
+     "explanation": "The volunteers are not described.",
+     "evidenceQuote": "he and his wife Norah organised thousands of volunteers",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice15-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The weight of the butterflies can be enough to break tree branches.",
+     "explanation": "Branches have broken under them.",
+     "evidenceQuote": "branches have been known to break under their weight",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice15-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "The butterflies that migrate south in autumn live longer than those born in early summer.",
+     "explanation": "They live up to eight months, compared with a few weeks.",
+     "evidenceQuote": "they can live for up to eight months",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice15-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Monarchs are unable to navigate when the sky is cloudy.",
+     "explanation": "They may use the magnetic field on cloudy days.",
+     "evidenceQuote": "which may be particularly useful on cloudy days",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice15-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Birds that eat a monarch often become seriously ill.",
+     "explanation": "The effects on birds are not described.",
+     "evidenceQuote": "many birds learn to avoid them after a single attempt",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice15-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Volunteers attached paper __________ to monarchs' wings.",
+     "explanation": "They attached paper labels.",
+     "evidenceQuote": "attach tiny paper labels to the wings of monarchs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "labels"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "In winter, butterflies cluster on oyamel __________ trees.",
+     "explanation": "They gather on fir trees.",
+     "evidenceQuote": "on the trunks and branches of oyamel fir trees",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fir"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "During winter they slowly use up their stored __________.",
+     "explanation": "They live on stored fat.",
+     "evidenceQuote": "using up their stored fat slowly",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Their internal clocks are partly located in their __________.",
+     "explanation": "The clocks are in the antennae.",
+     "evidenceQuote": "are located partly in their antennae",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "antennae"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Caterpillars eat only __________.",
+     "explanation": "They feed on milkweeds.",
+     "evidenceQuote": "Their caterpillars feed only on milkweeds",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "milkweeds"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Milkweed has been lost in the US largely because of __________.",
+     "explanation": "Herbicide use destroyed milkweed.",
+     "evidenceQuote": "due to the increased use of herbicides on farmland",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "herbicides"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 755,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice15-rp2",
+   "passageNumber": 2,
+   "title": "Farmers in miniature",
+   "discipline": "Animal Behaviour & Ecology",
+   "paragraphs": [
+    "Humans began farming around ten thousand years ago, and the change transformed our species. Yet we were not the first farmers on Earth. Tens of millions of years earlier, certain groups of ants had already begun to cultivate their own food. The most famous of these are the leafcutter ants of Central and South America, whose long columns of workers, each carrying a piece of leaf above its head, are a familiar sight in tropical forests. For a long time, people assumed that the ants were simply collecting food to eat. The truth turned out to be far more surprising.",
+    "Leafcutter ants do not eat the leaves they collect. Instead, they carry them back to their underground nests, where smaller workers cut them into tiny pieces, chew them into a pulp and use the pulp to grow a fungus. The ants and their fungus depend completely on each other. The fungus produces small, nutrient-rich swellings that the ants harvest and feed to their larvae, while the fungus relies on the ants to supply it with fresh leaves, to protect it, and to carry it to new places. Neither can survive in the wild without the other.",
+    "A mature leafcutter colony is an enormous enterprise, and it can take several years to reach its full size. In some species, a single nest may contain several million workers and extend several metres below the ground, with hundreds of chambers connected by tunnels. The work is divided according to size. The largest workers defend the colony, medium-sized workers cut and carry leaves, and the smallest care for the fungus gardens. Some tiny workers even ride on the leaf fragments as they are carried home, where they appear to protect the carriers from parasitic flies that try to lay eggs on them.",
+    "Like human farmers, the ants must deal with pests. Their fungus gardens can be attacked by another fungus, called Escovopsis, which can destroy a garden if it is not controlled. In 1999, a team of researchers including Cameron Currie published a discovery that changed the way scientists thought about the ants. They found that the ants carry bacteria on their bodies which produce substances that kill or slow the growth of Escovopsis. In effect, the ants use antibiotics to protect their crops, something humans have only done for less than a century.",
+    "The ants are also careful about hygiene. Waste material from the fungus gardens, which may contain harmful organisms, is carried to special waste chambers or to heaps outside the nest. Studies have shown that the workers who handle this waste are kept separate from the rest of the colony. They rarely enter the fungus gardens, and if they try to, other workers may attack them. This strict division reduces the risk that disease will spread to the precious fungus on which the whole colony depends.",
+    "The beginning of a new colony depends on a single queen. Before she leaves her birth nest on her mating flight, a young queen places a small piece of the fungus in a pouch inside her mouth. After mating, she digs a small chamber in the soil, spits out the fungus and begins a new garden, which she feeds and tends herself until her first workers are old enough to take over. In this way, the same fungus has been passed down through countless generations of queens, rather like seeds saved from one harvest to plant the next.",
+    "Leafcutters are not the only insects that farm. Some termites in Africa and Asia also grow fungus in their mounds, and certain beetles, known as ambrosia beetles, cultivate fungus inside the tunnels they dig in wood. Many other ant species practise a form of animal farming. They tend groups of aphids, small insects that feed on plant sap, and collect the sweet liquid, known as honeydew, that the aphids produce. In return, the ants protect the aphids from predators such as ladybirds, and some even carry them to fresh plants.",
+    "These tiny farmers have much to teach us. Because leafcutter ants have managed to grow essentially a single crop for millions of years without it being wiped out by disease, some biologists believe that studying them may help us understand how to make human agriculture more resilient. Others are investigating the bacteria the ants use, in the hope of discovering new antibiotics. Ironically, in parts of Latin America, the same ants are regarded as serious agricultural pests, because a large colony can strip the leaves from crops and fruit trees in a single night."
+   ],
+   "questions": [
+    {
+     "id": "practice15-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B describes the partnership between ants and fungus.",
+     "evidenceQuote": "The ants and their fungus depend completely on each other.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. A partnership of mutual need",
+      "A partnership of mutual need"
+     ]
+    },
+    {
+     "id": "practice15-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C describes the size and organisation of a colony.",
+     "evidenceQuote": "The work is divided according to size.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A highly organised society",
+      "A highly organised society"
+     ]
+    },
+    {
+     "id": "practice15-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains chemical pest control.",
+     "evidenceQuote": "In effect, the ants use antibiotics to protect their crops",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Using chemical weapons against crop disease",
+      "Using chemical weapons against crop disease"
+     ]
+    },
+    {
+     "id": "practice15-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes waste management.",
+     "evidenceQuote": "The ants are also careful about hygiene.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. Keeping dangerous waste away",
+      "Keeping dangerous waste away"
+     ]
+    },
+    {
+     "id": "practice15-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F describes how queens carry fungus to new nests.",
+     "evidenceQuote": "The beginning of a new colony depends on a single queen.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Carrying a crop to a new home",
+      "Carrying a crop to a new home"
+     ]
+    },
+    {
+     "id": "practice15-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G describes other farming insects.",
+     "evidenceQuote": "Leafcutters are not the only insects that farm.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. Other farmers in the insect world",
+      "Other farmers in the insect world"
+     ]
+    },
+    {
+     "id": "practice15-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H covers lessons for humans.",
+     "evidenceQuote": "These tiny farmers have much to teach us.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ],
+     "acceptedAnswers": [
+      "iv",
+      "iv. Lessons and problems for people",
+      "Lessons and problems for people"
+     ]
+    },
+    {
+     "id": "practice15-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What do leafcutter ants feed to their larvae?",
+     "explanation": "Larvae eat parts of the fungus.",
+     "evidenceQuote": "The fungus produces small, nutrient-rich swellings that the ants harvest and feed to their larvae",
+     "skillTag": "detail",
+     "options": [
+      "A. pieces of fresh leaf",
+      "B. chewed leaf pulp",
+      "C. parts of the fungus",
+      "D. honeydew from aphids"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. parts of the fungus",
+      "parts of the fungus"
+     ]
+    },
+    {
+     "id": "practice15-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What happens to workers who handle waste?",
+     "explanation": "They are kept apart from other workers.",
+     "evidenceQuote": "the workers who handle this waste are kept separate from the rest of the colony",
+     "skillTag": "detail",
+     "options": [
+      "A. They are kept apart from the rest of the colony.",
+      "B. They move between the waste and the gardens.",
+      "C. They are the largest workers in the colony.",
+      "D. They are fed by the queen."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They are kept apart from the rest of the colony.",
+      "They are kept apart from the rest of the colony."
+     ]
+    },
+    {
+     "id": "practice15-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "Why are leafcutter ants considered pests in parts of Latin America?",
+     "explanation": "They can strip crops very quickly.",
+     "evidenceQuote": "a large colony can strip the leaves from crops and fruit trees in a single night",
+     "skillTag": "detail",
+     "options": [
+      "A. They spread fungal diseases to crops.",
+      "B. They damage buildings with their nests.",
+      "C. They eat stored grain.",
+      "D. They can remove the leaves from crops very quickly."
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. They can remove the leaves from crops very quickly.",
+      "They can remove the leaves from crops very quickly."
+     ]
+    },
+    {
+     "id": "practice15-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Very small workers riding on leaves seem to defend the carriers against __________.",
+     "explanation": "They protect against parasitic flies.",
+     "evidenceQuote": "protect the carriers from parasitic flies",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "parasitic flies"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice15-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "A young queen carries fungus in a __________ inside her mouth.",
+     "explanation": "She uses a pouch.",
+     "evidenceQuote": "places a small piece of the fungus in a pouch inside her mouth",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pouch"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice15-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Ants that farm aphids collect a sweet liquid called __________.",
+     "explanation": "Aphids produce honeydew.",
+     "evidenceQuote": "the sweet liquid, known as honeydew",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "honeydew"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 757,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Using chemical weapons against crop disease",
+      "ii. Other farmers in the insect world",
+      "iii. A highly organised society",
+      "iv. Lessons and problems for people",
+      "v. How the ants choose which leaves to cut",
+      "vi. A partnership of mutual need",
+      "vii. The damage caused by parasitic flies",
+      "viii. Keeping dangerous waste away",
+      "ix. Carrying a crop to a new home"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice15-rp3",
+   "passageNumber": 3,
+   "title": "Are the insects disappearing?",
+   "discipline": "Conservation Biology",
+   "paragraphs": [
+    "Many people over a certain age remember long summer drives after which the car windscreen was covered in dead insects. Today, they say, the windscreen stays almost clean. This so-called 'windscreen phenomenon' is only an anecdote, and it could be explained by other factors, such as the more streamlined shape of modern cars. But it reflects a growing fear among scientists and the public alike that insects are disappearing. Since the late 2010s, newspaper headlines have warned of an 'insect apocalypse'. The question is how far the evidence supports such dramatic language, and what, if anything, should be done about it.",
+    "Concern about the effect of human activity on insects is not new. In 1962, the American biologist Rachel Carson published Silent Spring, which described how widespread use of pesticides was harming birds and other wildlife, and which helped to inspire the modern environmental movement. Twenty-five years later, the biologist E. O. Wilson famously described insects and other invertebrates as 'the little things that run the world', arguing that if they were to disappear, ecosystems would collapse, whereas the world would manage quite well without humans.",
+    "The study that brought the issue to wide public attention was published in 2017. For almost three decades, amateur entomologists from a society in the German town of Krefeld had used special tent-like traps to collect flying insects in nature reserves, mainly in western Germany. When the samples were analysed, they showed that the total weight of flying insects caught had fallen by more than three-quarters over twenty-seven years. What made the result so alarming was that the losses had occurred in protected areas, which were supposed to be refuges for wildlife.",
+    "Two years later, a review by the scientists Francisco Sánchez-Bayo and Kris Wyckhuys went further, suggesting that more than forty per cent of insect species could face extinction in the coming decades. This claim was widely reported, but it was also strongly criticised by other researchers. Critics pointed out that the authors had searched for studies using the word 'decline', which may have caused them to overlook studies showing stable or increasing populations, and that most of the data came from Europe and North America.",
+    "A more cautious picture emerged in 2020, when a team led by Roel van Klink combined data from more than 160 long-term studies around the world. They found that the number of land-dwelling insects was falling by around nine per cent per decade, a serious but less catastrophic rate than some headlines had suggested. Surprisingly, insects that live in fresh water, such as mayflies and midges, had increased, which the researchers linked to efforts to clean up rivers and lakes. In my view, this finding is one of the most encouraging in the whole debate, because it shows that environmental policies can work.",
+    "Why should we care? Insects carry out an enormous range of tasks on which humans depend. Around three-quarters of the world's major food crops benefit at least to some extent from animal pollination, most of it carried out by insects. Insects break down dead plants and animals, returning nutrients to the soil, and they are food for countless birds, fish and other animals. Many insects also control pests: ladybirds and hoverfly larvae, for example, eat large numbers of aphids. A serious decline in insects would therefore have consequences far beyond the insects themselves.",
+    "The causes of decline are many, and they interact. The loss of natural habitats to farming and building is generally considered the most important. Pesticides, particularly insecticides, kill insects directly, while herbicides remove the wild plants on which many insects feed. Climate change, light pollution and invasive species add further pressures. In my view, it is a mistake to look for a single cause, as some campaigners do, because this encourages the belief that one simple solution, such as banning one type of chemical, would solve the problem.",
+    "What, then, should we conclude? The phrase 'insect apocalypse' is probably an exaggeration, and it risks damaging the credibility of scientists if the worst predictions do not come true. Yet the evidence that many insect populations are declining, especially in heavily farmed regions, is strong. In my view, the greatest problem is not exaggeration but ignorance: we have reliable long-term data for only a tiny fraction of the world's insects, and almost none for the tropics, where most species live. Monitoring insects properly, with the help of volunteers like those in Krefeld, should be a priority."
+   ],
+   "questions": [
+    {
+     "id": "practice15-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "recorded a large fall in insects within protected areas",
+     "explanation": "The Krefeld society found losses in nature reserves.",
+     "evidenceQuote": "the losses had occurred in protected areas",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the Krefeld entomologists",
+      "the Krefeld entomologists"
+     ]
+    },
+    {
+     "id": "practice15-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "was criticised for the way studies were selected",
+     "explanation": "Sánchez-Bayo and Wyckhuys were criticised for their search method.",
+     "evidenceQuote": "the authors had searched for studies using the word 'decline'",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "Sánchez-Bayo and Wyckhuys"
+     ]
+    },
+    {
+     "id": "practice15-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "drew attention to the effects of pesticides on wildlife",
+     "explanation": "Rachel Carson wrote Silent Spring.",
+     "evidenceQuote": "described how widespread use of pesticides was harming birds and other wildlife",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. Rachel Carson",
+      "Rachel Carson"
+     ]
+    },
+    {
+     "id": "practice15-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "found that some insect groups had increased",
+     "explanation": "Van Klink's team found freshwater insects increasing.",
+     "evidenceQuote": "insects that live in fresh water, such as mayflies and midges, had increased",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. van Klink and colleagues",
+      "van Klink and colleagues"
+     ]
+    },
+    {
+     "id": "practice15-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "argued that ecosystems could not survive without insects",
+     "explanation": "E. O. Wilson made this argument.",
+     "evidenceQuote": "if they were to disappear, ecosystems would collapse",
+     "skillTag": "matching_features",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. Edward O. Wilson",
+      "Edward O. Wilson"
+     ]
+    },
+    {
+     "id": "practice15-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The windscreen phenomenon is reliable scientific evidence of insect decline.",
+     "explanation": "The writer calls it only an anecdote.",
+     "evidenceQuote": "This so-called 'windscreen phenomenon' is only an anecdote",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice15-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The increase in freshwater insects is an encouraging result.",
+     "explanation": "The writer finds it encouraging.",
+     "evidenceQuote": "this finding is one of the most encouraging in the whole debate",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice15-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Searching for one main cause of insect decline is a sensible approach.",
+     "explanation": "The writer says this is a mistake.",
+     "evidenceQuote": "it is a mistake to look for a single cause",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice15-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "Farmers should receive payments for protecting insects on their land.",
+     "explanation": "The writer does not discuss payments to farmers.",
+     "evidenceQuote": "herbicides remove the wild plants on which many insects feed",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice15-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The lack of data about insects is a bigger problem than exaggeration.",
+     "explanation": "The writer says ignorance is the greatest problem.",
+     "evidenceQuote": "the greatest problem is not exaggeration but ignorance",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice15-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "About three-quarters of major food crops benefit to some extent from animal __________.",
+     "explanation": "Crops benefit from pollination.",
+     "evidenceQuote": "benefit at least to some extent from animal pollination",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "pollination"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "Insects return __________ to the soil by breaking down dead material.",
+     "explanation": "They return nutrients.",
+     "evidenceQuote": "returning nutrients to the soil",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "nutrients"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Ladybirds and hoverfly larvae eat large numbers of __________.",
+     "explanation": "They eat aphids.",
+     "evidenceQuote": "eat large numbers of aphids",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aphids"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice15-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "The most important cause of decline is usually considered to be the loss of natural __________.",
+     "explanation": "Habitat loss is the main cause.",
+     "evidenceQuote": "The loss of natural habitats to farming and building is generally considered the most important.",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "habitats"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 743,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of people and groups below. Match each statement with the correct person or group, A–F.",
+     "options": [
+      "A. the Krefeld entomologists",
+      "B. Sánchez-Bayo and Wyckhuys",
+      "C. van Klink and colleagues",
+      "D. Edward O. Wilson",
+      "E. Rachel Carson",
+      "F. newspaper journalists"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice15-w1",
+  "title": "How silk is produced",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows the life cycle of the silkworm and the stages in the production of silk cloth. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Adult silk moth lays eggs",
+   "Eggs hatch into silkworms after about 10 days",
+   "Silkworms feed on mulberry leaves for 4 to 6 weeks",
+   "Silkworm spins a cocoon over 3 to 8 days",
+   "Some cocoons are left to become moths and restart the cycle",
+   "Other cocoons are selected and boiled in water",
+   "Silk thread is unwound from the cocoons",
+   "Thread is dyed and woven into cloth"
+  ],
+  "keyOverviewPoints": [
+   "The diagram shows a natural life cycle combined with a man-made production process.",
+   "Some cocoons continue the cycle while others are processed into thread and then cloth."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice15-w2",
+  "title": "Pesticides and food prices",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Environment & Agriculture",
+  "promptText": "Some people think that governments should ban pesticides that harm insects, even if this makes food more expensive. Others believe that producing cheap food is more important. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice15-spk",
+  "theme": "Insects and small creatures",
+  "part1Questions": [
+   "Are there many insects where you live?",
+   "Do you like butterflies?",
+   "Were you interested in insects when you were a child?",
+   "How do you feel about spiders?",
+   "Do you ever spend time in gardens or parks?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a small creature, such as an insect or a bird, that you find interesting.",
+   "bulletPoints": [
+    "what the creature is",
+    "where you have seen it",
+    "what you know about it",
+    "and explain why you find it interesting"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why are many people afraid of insects?",
+   "Should children learn about insects at school?",
+   "What can ordinary people do to protect wildlife in cities?",
+   "Do you think eating insects will become common in the future?",
+   "Is it more important to protect large animals or small ones?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Scientific figures are rounded for exam practice and checked against standard reference sources.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

@@ -1,0 +1,2268 @@
+{
+ "id": "exam37",
+ "examNumber": 37,
+ "pool": "mock",
+ "title": "Mock Exam 37: Weather Forecasting & the Atmosphere",
+ "difficulty": "Target High Band (Band 7.0 to 8.0)",
+ "theme": "Weather Forecasting & the Atmosphere",
+ "listeningParts": [
+  {
+   "id": "exam37-lp1",
+   "partNumber": 1,
+   "title": "Enrolling on a weather course",
+   "contextDescription": "A recently retired man phones an adult education centre to book a place on a course about weather.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "F8DE5086-E666-5D48-841B-0A0156D784E0",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Good morning, Hilltop Adult Education Centre, Ruth speaking. How can I help?"
+    },
+    {
+     "id": "C6F24BF3-4992-59DE-9AA5-E4F7CBF3772C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Oh, hello. I picked up a leaflet about a weather course you're running this winter, and I'd like to find out a bit more about it, and possibly book a place."
+    },
+    {
+     "id": "C53289B2-EE7C-513C-BA45-BEC3B299DBA2",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Of course. That'll be Reading the Sky, our introductory course on weather and forecasting. It's designed for complete beginners, so you don't need any background in science. Is it for yourself?"
+    },
+    {
+     "id": "2E8EC057-5282-500C-AD30-5981655413C4",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Yes, it is. I've just retired, and I spend a lot of my time sailing now, so I'd like to understand the weather properly. At the moment I just look at an app on my phone and hope for the best."
+    },
+    {
+     "id": "47E2C5B1-8E62-54B1-B14F-CB0856B45E1A",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Well, you'd be in good company. Last year about half the group were sailors or hill walkers. The course runs for eight weeks, and there are two options. There's a daytime class on Tuesday mornings, or an evening class on Thursdays, from seven until nine."
+    },
+    {
+     "id": "708B4583-FD4B-576A-92BF-513C1443BC6F",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Now that I'm not working, the daytime one would suit me better. I'm not at my best in the evenings. What time does it start?"
+    },
+    {
+     "id": "5DC3C9AC-1959-5CB9-BA67-7E189DF79D18",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Half past nine, and it finishes at twelve, with a short break for coffee in the middle. The first session is on the fourteenth of January. The evening group starts a week later, on the twenty-first."
+    },
+    {
+     "id": "815B3BF1-DA46-51D9-80D5-94F984AA1B4C",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "The fourteenth. Right. And where exactly is it held? At your main building on the High Street?"
+    },
+    {
+     "id": "E5B13CC2-9B01-50E8-93A9-F1FEF1A9C1A8",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "No, this course is held at our smaller site, the Ashcombe Building. That's A-S-H-C-O-M-B-E. We use it because it has a flat roof, where the tutor has set up a small weather station. Students take readings from the instruments during every session, so by the end you'll have two months of your own records. It's on Mill Lane, about five minutes' walk from the railway station."
+    },
+    {
+     "id": "3409F33C-CF0C-5B53-8FA3-300715A21A8E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "That sounds great. And what does the course actually cover?"
+    },
+    {
+     "id": "4CC51CAD-7241-5F63-856F-A2875D4AA44F",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "In the first few weeks, you learn to identify the main types of cloud and what they tell you about the weather that's coming. Then you move on to air pressure and wind, and how to read the weather charts you see on television. In the final two weeks, everyone produces their own forecast for the local area, and then compares it with what actually happens. People usually find that part quite humbling."
+    },
+    {
+     "id": "C77A45A0-F20C-55F9-AC0A-290E46E02AF9",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I can imagine. How much does it cost?"
+    },
+    {
+     "id": "862D2C72-440A-5556-AD68-BA41B4854D26",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "The full price is ninety-five pounds for the eight weeks. There's a reduced price for people over sixty, which is seventy pounds, and for students, which is fifty."
+    },
+    {
+     "id": "811ABB48-A91C-553F-91DE-258723860B49",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I turned sixty-two last month, so I think that's me."
+    },
+    {
+     "id": "715F9464-DFFA-5BE1-A240-EF2B0CED17FA",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Then it's seventy pounds. There's also a course book, which costs twelve pounds. You'll need it from the first week, although some people borrow a copy from the library instead."
+    },
+    {
+     "id": "28978A0F-2C29-59F0-AFF2-04ED3B7EDA2F",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'll buy one, I think. I like writing notes in the margins."
+    },
+    {
+     "id": "3B56AE63-1A86-57C1-8731-A8546A2F6092",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Fine. I'll add that to the booking. And you'll need to bring a notebook and a pencil, rather than a pen, because pens don't work very well outside in the rain. Oh, and bring a warm coat. You'll be up on the roof for part of every session, whatever the weather is doing."
+    },
+    {
+     "id": "17A41EF5-5ED4-5E56-A142-5205D819AB1E",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Of course. That's the whole point, I suppose."
+    },
+    {
+     "id": "0571E7F7-9AE2-5CA9-9870-B72F8D52F286",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Exactly. Now, could I take your name, please?"
+    },
+    {
+     "id": "3DBC4F8B-B4FC-58EE-8DF1-5D60975F3078",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "It's Graham Pelling. P-E-L-L-I-N-G."
+    },
+    {
+     "id": "55C37CAD-572A-5FC9-BF83-4AD5EA5AA279",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Pelling. And your address?"
+    },
+    {
+     "id": "4B6DDDAB-D11D-5DD6-B910-D200C02F9C57",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Forty-three Orchard Road, Hilltop."
+    },
+    {
+     "id": "5941369F-4B21-5A92-8E98-5BFDE8813F00",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "And may I ask how you heard about the course? We like to know which kinds of advertising work."
+    },
+    {
+     "id": "7474FD75-C8B1-5CCE-A7AF-FA112E259161",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "As I said, I picked up a leaflet. It was in the café at the sailing club, down by the harbour."
+    },
+    {
+     "id": "ED9D70A0-602E-5CE4-A93F-42843F49E36E",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Lovely, I'll make a note of that. Now, there's a maximum of sixteen students, and at the moment there are only three places left on the Tuesday class, so I'd recommend paying today if you want to be sure of your place."
+    },
+    {
+     "id": "698ECDE0-7B2A-554C-94BA-2FF2954C3D34",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "I'll do that now. Can I pay by card over the phone?"
+    },
+    {
+     "id": "F2977D0B-FAF7-563B-A065-AD1B92985224",
+     "speaker": "Receptionist",
+     "accent": "en-GB",
+     "text": "Yes, that's fine. And one more thing: at the end of the course there's an optional visit to the regional forecasting office near the airport, where you can watch professional forecasters at work. It's on a Saturday, and there's no extra charge, but you have to arrange your own transport."
+    },
+    {
+     "id": "73EFF685-9E67-5572-98CD-CE296F1B90EC",
+     "speaker": "Caller",
+     "accent": "en-AU",
+     "text": "Excellent. I wouldn't miss that for anything."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam37-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Name of course: Reading the __________",
+     "explanation": "The course is called Reading the Sky.",
+     "evidenceQuote": "That'll be Reading the Sky, our introductory course",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Sky"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Class chosen: __________ mornings, 9.30–12.00",
+     "explanation": "He chooses the daytime class on Tuesdays.",
+     "evidenceQuote": "a daytime class on Tuesday mornings",
+     "skillTag": "dates",
+     "distractorNote": "Thursday is the evening class.",
+     "options": [],
+     "acceptedAnswers": [
+      "Tuesday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "First session: __________ January",
+     "explanation": "His class starts on the fourteenth.",
+     "evidenceQuote": "The first session is on the fourteenth of January.",
+     "skillTag": "dates",
+     "distractorNote": "The twenty-first is the start date for the evening group.",
+     "options": [],
+     "acceptedAnswers": [
+      "fourteenth",
+      "14th",
+      "14"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Location: the __________ Building, Mill Lane",
+     "explanation": "The receptionist spells Ashcombe.",
+     "evidenceQuote": "the Ashcombe Building. That's A-S-H-C-O-M-B-E.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Ashcombe"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Final two weeks: each student writes a local __________",
+     "explanation": "Students produce their own forecast.",
+     "evidenceQuote": "everyone produces their own forecast for the local area",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "forecast"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Fee (over-60 rate): £__________",
+     "explanation": "He pays the over-60 price of £70.",
+     "evidenceQuote": "Then it's seventy pounds.",
+     "skillTag": "numbers",
+     "distractorNote": "£95 is the full price and £50 is for students.",
+     "options": [],
+     "acceptedAnswers": [
+      "70",
+      "seventy"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Course book: £__________",
+     "explanation": "The book costs £12.",
+     "evidenceQuote": "a course book, which costs twelve pounds",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "12",
+      "twelve"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Bring: notebook, pencil and a warm __________",
+     "explanation": "He needs a warm coat for the roof.",
+     "evidenceQuote": "bring a warm coat",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "coat"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Surname: __________",
+     "explanation": "He spells Pelling.",
+     "evidenceQuote": "It's Graham Pelling. P-E-L-L-I-N-G.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Pelling"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Heard about course: leaflet in café at the __________ club",
+     "explanation": "He found the leaflet at the sailing club.",
+     "evidenceQuote": "It was in the café at the sailing club",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "sailing"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "beginner",
+    "weather station",
+    "reading",
+    "concession",
+    "course book"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam37-lp2",
+   "partNumber": 2,
+   "title": "A tour of a hilltop weather observatory",
+   "contextDescription": "A guide welcomes a group of visitors to a weather observatory that has been recording the weather for over a century.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "8D8FD410-62F7-54CE-A0E4-FEE9505F900F",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Good morning, everyone, and welcome to Carrick Hill Observatory. My name's Siobhan, and I'll be your guide this morning. Before we go outside, I'll give you a little background and explain what you'll see on the tour."
+    },
+    {
+     "id": "47832947-D40E-5C78-BC69-9C32C7D63593",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "The observatory was founded in 1889 by a group of local doctors and teachers who were interested in the weather. You might wonder why they chose such an exposed spot, a good forty minutes' walk from the town. It wasn't for the view, I'm afraid. In those days the town was full of factories, and the smoke from their chimneys affected the readings from the instruments, especially the ones measuring sunshine. Up here, the air was clean, and that's still true today."
+    },
+    {
+     "id": "94D2F49E-FB02-5FDB-84D7-1E83291E65CE",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Since then, the weather has been recorded here every single day, which makes our records among the longest unbroken series in the country. Scientists studying climate change use them a great deal, because they show how temperatures and rainfall have changed over more than a century in the same place, with the same kind of instruments."
+    },
+    {
+     "id": "8479215B-6DCA-5BDB-A54B-1DB2062EE848",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Nowadays, most of the measurements are taken automatically and sent to the national weather service every minute. But we still have two human observers on duty every day. People sometimes ask why we need them, and the answer is that there are things machines still don't do well. A computer can measure rainfall perfectly, but it isn't very good at recognising different types of cloud, or judging how far you can see through mist. So our observers go outside every hour and record what they see."
+    },
+    {
+     "id": "E225A56B-5B67-5306-9391-B0A7A457E9D5",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Right, let me tell you about the different parts of the site. First, there's the Instrument Garden, which is the fenced area of grass you passed on the way in. That's where the thermometers are kept, inside white wooden boxes that protect them from direct sunlight. You can look over the fence, but please don't go inside, because even the heat from a group of people standing close by can change the readings."
+    },
+    {
+     "id": "E5AAA61A-E636-561F-A7EA-54A3EFCDFF76",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Next to that is the Balloon Shed. Twice a day, at exactly the same times as hundreds of other stations around the world, we release a large balloon filled with gas. It carries a small instrument package that measures temperature, humidity and pressure as it rises, and sends the data back by radio. The balloon expands as the air gets thinner, and eventually it bursts, usually more than twenty kilometres up. The package then falls back to earth on a small parachute. There's a label on each one asking whoever finds it to post it back to us, and you'd be surprised how many people do. The next launch is at a quarter past eleven, so you'll be able to watch it."
+    },
+    {
+     "id": "46169559-DED1-5230-9D5B-B0BB06344891",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "After that, we'll go into the main building. On the ground floor is the Old Library, where you can see the original handwritten record books from the 1880s onwards. They're very fragile, so they're kept in glass cases, but some pages have been scanned, and you can turn them on the touch screens."
+    },
+    {
+     "id": "DFDD63F6-FF4E-5F1B-BC65-1B8D5AD97C6A",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Upstairs is the Forecast Studio. This is the part that children usually love most. We've built a copy of a television weather set, with a green screen, so you can try presenting the forecast yourself and take a video home with you. Do try it. It's much harder than it looks."
+    },
+    {
+     "id": "BFF0BA52-82CA-5492-A0E7-8F26D5AB8422",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Finally, there's the Roof Platform, which has wonderful views across three counties on a clear day. Unfortunately, it's closed this morning, because the wind is too strong. I should mention that the strongest gust ever recorded here was a hundred and sixty-one kilometres an hour, during a storm in January 1974, and the anemometer that measured it is on display in the café."
+    },
+    {
+     "id": "0A57BE73-77C4-53D5-9991-1C6806A59339",
+     "speaker": "Guide",
+     "accent": "en-IE",
+     "text": "Speaking of the café, it's open until four, and the hot soup is excellent after a morning in this wind. Right, any questions before we start? No? Then follow me, and please do keep your hats on."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam37-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "Why was the observatory built on a hill outside the town?",
+     "explanation": "Factory smoke spoiled the readings in town.",
+     "evidenceQuote": "the smoke from their chimneys affected the readings from the instruments",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The founders wanted visitors to enjoy the view.",
+      "B. Land was cheaper away from the town.",
+      "C. Smoke from factories affected measurements."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Smoke from factories affected measurements.",
+      "Smoke from factories affected measurements."
+     ]
+    },
+    {
+     "id": "exam37-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why are the observatory's records especially useful to climate scientists?",
+     "explanation": "The records form a long series from one place.",
+     "evidenceQuote": "they show how temperatures and rainfall have changed over more than a century in the same place",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They cover a long period at a single location.",
+      "B. They were made with modern equipment.",
+      "C. They include data from many countries."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. They cover a long period at a single location.",
+      "They cover a long period at a single location."
+     ]
+    },
+    {
+     "id": "exam37-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "According to Siobhan, the human observers are still needed to",
+     "explanation": "Machines are poor at identifying cloud and visibility.",
+     "evidenceQuote": "it isn't very good at recognising different types of cloud, or judging how far you can see through mist",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. check that the rainfall gauges are working.",
+      "B. identify cloud types and judge visibility.",
+      "C. send the readings to the national weather service."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. identify cloud types and judge visibility.",
+      "identify cloud types and judge visibility."
+     ]
+    },
+    {
+     "id": "exam37-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Visitors must not enter the Instrument Garden because",
+     "explanation": "Body heat could affect the thermometers.",
+     "evidenceQuote": "even the heat from a group of people standing close by can change the readings",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. their body heat could affect the measurements.",
+      "B. the grass has recently been replanted.",
+      "C. the wooden boxes are easily damaged."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. their body heat could affect the measurements.",
+      "their body heat could affect the measurements."
+     ]
+    },
+    {
+     "id": "exam37-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "What happens to the instrument package after the balloon bursts?",
+     "explanation": "It comes down by parachute.",
+     "evidenceQuote": "The package then falls back to earth on a small parachute.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is destroyed by the cold.",
+      "B. It is collected by observatory staff.",
+      "C. It comes down on a parachute."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It comes down on a parachute.",
+      "It comes down on a parachute."
+     ]
+    },
+    {
+     "id": "exam37-L16",
+     "number": 16,
+     "format": "Matching",
+     "prompt": "Balloon Shed",
+     "explanation": "Visitors will see a launch at 11.15.",
+     "evidenceQuote": "The next launch is at a quarter past eleven, so you'll be able to watch it.",
+     "skillTag": "matching",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. will hold an event visitors can watch",
+      "will hold an event visitors can watch"
+     ]
+    },
+    {
+     "id": "exam37-L17",
+     "number": 17,
+     "format": "Matching",
+     "prompt": "Old Library",
+     "explanation": "Scanned pages can be viewed on screens.",
+     "evidenceQuote": "some pages have been scanned, and you can turn them on the touch screens",
+     "skillTag": "matching",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. offers digital copies of old documents",
+      "offers digital copies of old documents"
+     ]
+    },
+    {
+     "id": "exam37-L18",
+     "number": 18,
+     "format": "Matching",
+     "prompt": "Forecast Studio",
+     "explanation": "Visitors can present a forecast on video.",
+     "evidenceQuote": "you can try presenting the forecast yourself and take a video home with you",
+     "skillTag": "matching",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ],
+     "acceptedAnswers": [
+      "G",
+      "G. lets visitors make a recording of themselves",
+      "lets visitors make a recording of themselves"
+     ]
+    },
+    {
+     "id": "exam37-L19",
+     "number": 19,
+     "format": "Matching",
+     "prompt": "Roof Platform",
+     "explanation": "It is closed because of the wind.",
+     "evidenceQuote": "it's closed this morning, because the wind is too strong",
+     "skillTag": "matching",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. cannot be visited today",
+      "cannot be visited today"
+     ]
+    },
+    {
+     "id": "exam37-L20",
+     "number": 20,
+     "format": "Matching",
+     "prompt": "Café",
+     "explanation": "The record-breaking instrument is shown there.",
+     "evidenceQuote": "the anemometer that measured it is on display in the café",
+     "skillTag": "matching",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. displays an instrument linked to a record",
+      "displays an instrument linked to a record"
+     ]
+    }
+   ],
+   "keyVocabulary": [
+    "observatory",
+    "enclosure",
+    "weather balloon",
+    "radiosonde",
+    "gust"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. What does the guide say about each part of the observatory? Choose FIVE answers from the box and write the correct letter, A–G.",
+     "options": [
+      "A. displays an instrument linked to a record",
+      "B. offers digital copies of old documents",
+      "C. is only open to adults",
+      "D. cannot be visited today",
+      "E. will hold an event visitors can watch",
+      "F. has recently been rebuilt",
+      "G. lets visitors make a recording of themselves"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exam37-lp3",
+   "partNumber": 3,
+   "title": "Testing traditional weather sayings",
+   "contextDescription": "Two students, Megan and Daniel, discuss their project on weather folklore with their tutor.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "700C3022-19CE-50EE-86EB-257233E1D75E",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Come in, both of you. So, you've chosen weather sayings for your project. Tell me how it's going."
+    },
+    {
+     "id": "7167BEED-5CBB-50BA-AE5D-2E8DB35009A4",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Quite well, I think. The idea came from my grandfather, actually. He was a farmer, and he had a saying for everything. Whenever we went for a walk he'd look at the sky and tell us what the weather would do the next day, and he was right surprisingly often."
+    },
+    {
+     "id": "665C3D49-7C08-53CB-90FD-4A7D7B78EC03",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "So we wanted to find out two things. First, how well people today still know these sayings, and second, whether any of them actually have a scientific basis."
+    },
+    {
+     "id": "3114DCF3-75C4-5226-9BE7-212919673BB3",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. How did you approach the first question?"
+    },
+    {
+     "id": "689CC6D9-03F8-5905-A824-5D0BAEF8F7E0",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "We wrote a short questionnaire listing ten common sayings, and asked people to tick the ones they'd heard of. We collected a hundred and twenty responses, mostly online, although we also stood outside the library for a couple of afternoons to get some older people."
+    },
+    {
+     "id": "BA3FE2B4-4A16-566A-BC4A-1FBE94BB7975",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That was sensible. Online surveys tend to attract younger people. What did you find?"
+    },
+    {
+     "id": "1863152A-36C1-54A8-A0D1-A8769E7C7121",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "By far the best known was 'Red sky at night, shepherd's delight; red sky in the morning, shepherd's warning'. Almost everyone knew it, whatever their age. But with most of the others, there was a clear pattern. People over sixty knew roughly three times as many sayings as people under thirty."
+    },
+    {
+     "id": "4C8EAB97-A986-5CD5-8DFA-9007BDD8BFC5",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "What surprised us was where people said they'd learned them. We expected the answer to be parents or grandparents, but a lot of the younger people said they'd learned them from books or films."
+    },
+    {
+     "id": "B24DB9E5-89F0-5910-B502-B74FB2145990",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Interesting. And the science?"
+    },
+    {
+     "id": "6BA521BB-B0C8-5DD2-A3B4-D68396D3CF5F",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Well, the red sky one does seem to have some basis, at least in places like Britain. Weather systems here usually move from west to east. If the sky is red at sunset, it means the sunlight is shining through clear air to the west, where the weather is coming from, so the next day is likely to be fine."
+    },
+    {
+     "id": "C8D3324E-F25F-513A-A01C-1FE2872C99AB",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "Whereas a red sky in the morning means the clear air is already in the east, moving away, and cloud may be on its way from the west. It's not perfect, but it's not nonsense either."
+    },
+    {
+     "id": "29B0AADF-0EE4-5AB3-B78E-76EE2E75AA86",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "What about the others?"
+    },
+    {
+     "id": "8E95470F-082C-59A0-8FA1-CAB1290F5F8C",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "The one about cows lying down before rain had almost no evidence to support it. We found one study of cattle, but it suggested they lie down mainly when they're tired or the temperature is low, not because rain is coming."
+    },
+    {
+     "id": "A84DC66F-18F3-5E80-9313-65F586ABDAD8",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "The most fun part was the pine cones. There's an old belief that pine cones close up before wet weather. We kept three cones on a windowsill for a month and photographed them every morning, and they really did close when the air was damp and open when it was dry."
+    },
+    {
+     "id": "8A03C4E2-34AC-5E9F-A174-D3BD92CF3A4D",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "So they respond to humidity rather than predicting rain, strictly speaking."
+    },
+    {
+     "id": "92588FC0-A09F-57CD-8DDB-F581C8C35148",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Exactly. They tell you what the air is like now, which is often a sign that rain is close, but they can't see into the future."
+    },
+    {
+     "id": "F5831C71-4963-5AFE-88DD-84D92468CC36",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's an important distinction, and you should make it clearly in your report. Now, are there any weaknesses in your study that you're aware of?"
+    },
+    {
+     "id": "2F61D15A-D95F-52CB-A2B9-60F128E4F8A0",
+     "speaker": "Daniel",
+     "accent": "en-CA",
+     "text": "The main one is the sample. A hundred and twenty isn't very many, and nearly all of them live in the same city. Sayings probably vary from region to region, especially in farming areas."
+    },
+    {
+     "id": "3E07AD0C-67B0-5E73-9EAC-34DEE83A336C",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Then say so in your conclusion. It doesn't weaken the project as long as you're honest about it. And for the pine cones, you could compare your photos with the humidity readings from the university weather station. That would make your results much more convincing than just saying the air felt damp."
+    },
+    {
+     "id": "C2E1DC36-04C9-56EA-8181-CAEED1990DBB",
+     "speaker": "Megan",
+     "accent": "en-AU",
+     "text": "Good idea. I didn't know the university had a weather station."
+    },
+    {
+     "id": "6283A408-4DBA-5D97-A33D-F8F55835D2A0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "It's on the roof of the geography building, and the data's online. Right, I'd like a full draft in three weeks, please, and keep the introduction short. Don't spend two pages on your grandfather."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam37-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students also collect responses outside the library?",
+     "explanation": "They wanted to include older people.",
+     "evidenceQuote": "to get some older people",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Their online survey had technical problems.",
+      "B. They wanted to include older respondents.",
+      "C. Their tutor asked them to do so."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They wanted to include older respondents.",
+      "They wanted to include older respondents."
+     ]
+    },
+    {
+     "id": "exam37-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What did the students discover about the red sky saying?",
+     "explanation": "It was known by all age groups.",
+     "evidenceQuote": "Almost everyone knew it, whatever their age.",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. People of all ages were familiar with it.",
+      "B. Mainly older people had heard of it.",
+      "C. Few people could remember all of it."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. People of all ages were familiar with it.",
+      "People of all ages were familiar with it."
+     ]
+    },
+    {
+     "id": "exam37-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What surprised the students about younger respondents?",
+     "explanation": "Many learned sayings from books or films.",
+     "evidenceQuote": "a lot of the younger people said they'd learned them from books or films",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. They knew more sayings than older people.",
+      "B. They had learned the sayings from grandparents.",
+      "C. They had learned the sayings from books or films."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. They had learned the sayings from books or films.",
+      "They had learned the sayings from books or films."
+     ]
+    },
+    {
+     "id": "exam37-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "According to the study the students found, cattle lie down mainly because",
+     "explanation": "Tiredness and low temperatures explain it.",
+     "evidenceQuote": "they lie down mainly when they're tired or the temperature is low",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. they sense a change in air pressure.",
+      "B. they are tired or it is cold.",
+      "C. the ground is still dry."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. they are tired or it is cold.",
+      "they are tired or it is cold."
+     ]
+    },
+    {
+     "id": "exam37-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "What does the tutor suggest the students do with their pine cone results?",
+     "explanation": "He suggests comparing them with humidity data.",
+     "evidenceQuote": "compare your photos with the humidity readings from the university weather station",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. compare them with measured humidity data",
+      "B. repeat the experiment for a longer period",
+      "C. test cones from different types of tree"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. compare them with measured humidity data",
+      "compare them with measured humidity data"
+     ]
+    },
+    {
+     "id": "exam37-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Project idea came from Megan's grandfather, a __________",
+     "explanation": "Her grandfather was a farmer.",
+     "evidenceQuote": "He was a farmer",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "farmer"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Number of questionnaire responses: __________",
+     "explanation": "They collected 120 responses.",
+     "evidenceQuote": "We collected a hundred and twenty responses",
+     "skillTag": "numbers",
+     "distractorNote": "Ten is the number of sayings on the list.",
+     "options": [],
+     "acceptedAnswers": [
+      "120",
+      "a hundred and twenty"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "In Britain, weather systems generally travel from the __________",
+     "explanation": "They move from the west.",
+     "evidenceQuote": "Weather systems here usually move from west to east.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "west"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "Pine cones were photographed every __________ for a month",
+     "explanation": "They took photos each morning.",
+     "evidenceQuote": "photographed them every morning",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "morning"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Main weakness: almost all respondents live in one __________",
+     "explanation": "Most respondents live in the same city.",
+     "evidenceQuote": "nearly all of them live in the same city",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "city"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "folklore",
+    "saying",
+    "humidity",
+    "questionnaire",
+    "sample size"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam37-lp4",
+   "partNumber": 4,
+   "title": "The layers of the atmosphere",
+   "contextDescription": "A lecture in an introductory earth science course on the structure of the Earth's atmosphere.",
+   "primaryAccent": "en-US",
+   "dialogue": [
+    {
+     "id": "0DD349B8-8875-5C0B-8ABB-8B40AD5A4C32",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Good afternoon, everyone. Today we're going to look at the structure of the atmosphere, the thin layer of gas that surrounds the Earth and makes life possible. And I do mean thin. If the Earth were the size of an apple, the part of the atmosphere where almost all our weather happens would be no thicker than the apple's skin."
+    },
+    {
+     "id": "C07F08FF-E1B8-55A9-B337-885F1386FADA",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Scientists divide the atmosphere into layers, and the main way they do this is by looking at how the temperature changes as you go up. Within some layers the air gets colder with height, and within others it gets warmer, and the boundaries are where that pattern changes."
+    },
+    {
+     "id": "05FF2081-4EF1-5772-B835-51B3523100E6",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The lowest layer is the troposphere. This is where we live, and it's where nearly all weather happens: clouds, rain, snow and storms. It contains around three quarters of the total mass of the atmosphere, and almost all of its water vapour. In the troposphere, temperature falls steadily as you climb, by about six and a half degrees Celsius for every kilometre. That's why mountain tops are cold, even near the equator. The troposphere isn't the same thickness everywhere. It's only about eight kilometres deep over the poles, but up to around eighteen kilometres over the tropics, because the warm air there rises much higher."
+    },
+    {
+     "id": "D64C1C9A-8428-58FC-BA5A-F14E41D0BD73",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "The top of the troposphere is called the tropopause, and it acts a bit like a lid. Clouds can't easily rise through it, which is why the tops of big thunderstorm clouds often spread out into a flat shape, rather like an anvil. Just below the tropopause, you'll also find the jet streams, which are narrow bands of very fast wind, and which airlines use to save fuel when they fly from west to east."
+    },
+    {
+     "id": "C52EC968-F57F-53FB-B42D-370711CDD579",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Above the tropopause is the stratosphere, which stretches up to about fifty kilometres. Here, something unexpected happens: the temperature starts to rise with height. The reason is ozone. The stratosphere contains the ozone layer, and ozone absorbs ultraviolet radiation from the Sun, which warms the air around it. That absorption is also what protects living things on the surface from much of the Sun's harmful radiation. Because warm air sits on top of cooler air, the stratosphere is very stable, with almost no vertical movement and very little cloud, so passenger jets often cruise in its lower part to avoid turbulence."
+    },
+    {
+     "id": "22EFD9E7-7BDE-5AD5-9E35-8DD627388217",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Above the stratosphere, from about fifty to eighty-five kilometres, is the mesosphere. Here the temperature falls again, and the top of the mesosphere is the coldest place in the whole atmosphere, often below minus ninety degrees Celsius. The mesosphere is also where most meteors burn up. Every day, tons of dust and small rocks from space hit the atmosphere, and the friction heats them until they glow and vaporise. Those are the shooting stars you see on a clear night. Oddly enough, the mesosphere is one of the least studied parts of the atmosphere, because it's too high for aircraft and weather balloons, but too low for satellites to orbit."
+    },
+    {
+     "id": "770975F7-DC23-5443-8AAF-152733D4F6BE",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Above that is the thermosphere, which extends to several hundred kilometres. In the thermosphere, temperatures can reach well over a thousand degrees Celsius, because the few gas molecules there absorb intense radiation from the Sun. But if you were up there, you wouldn't actually feel hot. The air is so thin that there are hardly any molecules to transfer that heat to your body. The thermosphere is where the International Space Station orbits, at around four hundred kilometres, and it's also where the aurora occurs, the spectacular curtains of green and red light seen near the poles, when particles from the Sun collide with gases in the upper atmosphere."
+    },
+    {
+     "id": "E601C89A-EC5C-55F2-BF1A-989573CEB2A8",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Finally, the outermost layer, the exosphere, gradually fades away into space, with no clear upper edge. For legal and practical purposes, though, many organisations treat a height of one hundred kilometres, known as the Kármán line, as the boundary where space begins."
+    },
+    {
+     "id": "EC0B90BB-8725-5EC2-A49D-74C1D69812B2",
+     "speaker": "Lecturer",
+     "accent": "en-US",
+     "text": "Now, why does all this matter to a meteorologist? Well, although weather happens in the troposphere, the layers above it influence what goes on below, for example through the way the stratosphere affects the jet streams. Next week, we'll look at how air moves within the troposphere, and how those movements create the pressure systems you see on weather maps."
+    }
+   ],
+   "questions": [
+    {
+     "id": "exam37-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "Layers are identified mainly by how the __________ changes with height",
+     "explanation": "Layers are defined by temperature changes.",
+     "evidenceQuote": "by looking at how the temperature changes as you go up",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "temperature"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "The troposphere holds almost all of the atmosphere's water __________",
+     "explanation": "It contains nearly all the water vapour.",
+     "evidenceQuote": "almost all of its water vapour",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "vapour"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Falling temperature with height explains why mountain tops are __________, even near the equator",
+     "explanation": "Temperature falls with height.",
+     "evidenceQuote": "That's why mountain tops are cold, even near the equator.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cold"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Thunderstorm clouds flatten at the tropopause into the shape of an __________",
+     "explanation": "The cloud tops form an anvil shape.",
+     "evidenceQuote": "rather like an anvil",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "anvil"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Airlines use the jet streams to save __________ on eastbound flights",
+     "explanation": "Jet streams help save fuel.",
+     "evidenceQuote": "which airlines use to save fuel when they fly from west to east",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fuel"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "Stratosphere warms with height because ozone absorbs __________ radiation",
+     "explanation": "Ozone absorbs ultraviolet radiation.",
+     "evidenceQuote": "ozone absorbs ultraviolet radiation from the Sun",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ultraviolet"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Warm air above cool air makes the stratosphere very __________",
+     "explanation": "The stratosphere is stable.",
+     "evidenceQuote": "the stratosphere is very stable",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "stable"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "Most __________ burn up in the mesosphere",
+     "explanation": "Meteors burn up there.",
+     "evidenceQuote": "The mesosphere is also where most meteors burn up.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meteors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "In the thermosphere you would not feel hot because the air is so __________",
+     "explanation": "The air is too thin to transfer heat.",
+     "evidenceQuote": "The air is so thin that there are hardly any molecules",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "thin"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The __________ appears in the thermosphere when solar particles hit atmospheric gases",
+     "explanation": "The aurora occurs in the thermosphere.",
+     "evidenceQuote": "it's also where the aurora occurs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "aurora"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "troposphere",
+    "stratosphere",
+    "ozone",
+    "mesosphere",
+    "aurora"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "exam37-rp1",
+   "passageNumber": 1,
+   "title": "The man who named the forecast",
+   "discipline": "History of Meteorology",
+   "paragraphs": [
+    "Today it is difficult to imagine a world without weather forecasts. They appear on our phones, on television and in newspapers, and millions of decisions, from whether to carry an umbrella to whether a ship should leave port, depend on them. Yet the first forecasts to be published regularly in a British newspaper appeared only in 1861. They were the work of a naval officer named Robert FitzRoy, whose determination to save lives at sea brought him public fame, bitter criticism and, eventually, a lasting place in the history of science.",
+    "FitzRoy was born in 1805 into an aristocratic family and joined the Royal Navy as a boy. He is best remembered today as the captain of HMS Beagle during its voyage around the world between 1831 and 1836, on which the young Charles Darwin sailed as a naturalist. The voyage made Darwin famous, but it also confirmed FitzRoy's reputation as a skilled surveyor and a careful observer of the weather. Years of commanding ships in dangerous waters had shown him how many sailors lost their lives in storms that, he believed, could have been anticipated. After a short and difficult period as governor of New Zealand in the 1840s, he returned to Britain, where his interest in the weather would shape the rest of his career.",
+    "In 1854, FitzRoy was appointed head of a small new department of the Board of Trade, the government body responsible for commerce and shipping. This department, which later became known as the Met Office, had a limited purpose at first. It was not expected to predict the weather at all, but to collect information about winds and currents at sea, so that voyages could be made faster and safer. FitzRoy supplied the captains of merchant ships with reliable instruments and asked them to keep detailed logs of the conditions they met. These records were then gathered in London and turned into charts.",
+    "A disaster in October 1859 changed the direction of his work. A violent storm swept across Britain, and the Royal Charter, a ship returning from Australia, was wrecked off the coast of Anglesey in north Wales. Hundreds of passengers and crew drowned, and many other vessels were lost around the coast. Studying the reports afterwards, FitzRoy became convinced that the storm's approach could have been detected in advance. What made this possible was a relatively recent invention: the electric telegraph. For the first time, observations of pressure, wind and temperature from places hundreds of kilometres apart could be collected within hours and compared, rather than arriving days later by post.",
+    "In February 1861, FitzRoy began sending storm warnings by telegraph to ports around the British coast. When a warning was received, a large canvas cone was raised on a tall pole where sailors could see it, its position indicating the expected direction of the wind. Later that year, he went further. On 1 August 1861, The Times newspaper printed his first general weather forecasts for different regions of the country. FitzRoy is usually credited with introducing the word 'forecast' in this sense; he wanted a term that sounded like a reasoned scientific judgement rather than a prophecy.",
+    "The forecasts quickly became popular with the public, and fishermen in particular came to depend on the storm warnings. FitzRoy also arranged for barometers to be placed in fishing ports, so that crews could check the pressure themselves before putting to sea, and he explained how to interpret the readings in simple language. In 1863 he published The Weather Book, in which he set out his methods and his conviction that the weather, although complicated, followed patterns that could be understood.",
+    "However, the forecasts also attracted fierce criticism. When they were wrong, as they often were, newspapers mocked them and questions were asked in Parliament. Many scientists argued that FitzRoy's methods relied too heavily on personal judgement and lacked a proper theoretical basis. Some ship owners complained that the warnings kept their vessels in harbour unnecessarily, costing them money. FitzRoy, who was overworked, in poor health and deeply hurt by the attacks, died in 1865. Shortly afterwards, a committee appointed to review the department concluded that the forecasts could not be scientifically justified, and they were stopped in 1866. The storm warnings, however, were restored after protests from coastal communities, and newspaper forecasts eventually returned more than a decade later.",
+    "FitzRoy's reputation has risen steadily since then. Modern forecasting relies on far more data and far more powerful methods than he could have imagined, but the basic idea he championed, that observations gathered quickly from a wide area can be used to warn people of the weather to come, remains at its heart. In 2002, when the sea area called Finisterre in the Shipping Forecast broadcast on BBC radio needed a new name to avoid confusion with a Spanish area of the same name, it was renamed FitzRoy in his honour."
+   ],
+   "questions": [
+    {
+     "id": "exam37-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "FitzRoy took part in the Beagle voyage as its naturalist.",
+     "explanation": "FitzRoy was the captain; Darwin was the naturalist.",
+     "evidenceQuote": "on which the young Charles Darwin sailed as a naturalist",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam37-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "The department FitzRoy headed was created in order to forecast the weather.",
+     "explanation": "Its first purpose was collecting data at sea.",
+     "evidenceQuote": "It was not expected to predict the weather at all",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam37-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "The Royal Charter was carrying a valuable cargo when it sank.",
+     "explanation": "The passage does not mention its cargo.",
+     "evidenceQuote": "the Royal Charter, a ship returning from Australia, was wrecked off the coast of Anglesey",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam37-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "The telegraph allowed weather reports from distant places to be compared quickly.",
+     "explanation": "The telegraph made rapid comparison possible.",
+     "evidenceQuote": "could be collected within hours and compared, rather than arriving days later by post",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam37-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "FitzRoy preferred the word forecast because it suggested a scientific judgement.",
+     "explanation": "He wanted a term that sounded scientific.",
+     "evidenceQuote": "he wanted a term that sounded like a reasoned scientific judgement rather than a prophecy",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "exam37-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "The Weather Book was especially popular among fishermen.",
+     "explanation": "Its readership is not described.",
+     "evidenceQuote": "In 1863 he published The Weather Book",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam37-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "Every part of FitzRoy's warning service was permanently abandoned after his death.",
+     "explanation": "The storm warnings were restored.",
+     "evidenceQuote": "The storm warnings, however, were restored after protests from coastal communities",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "exam37-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "Merchant captains were given instruments and asked to keep detailed __________",
+     "explanation": "Captains kept logs.",
+     "evidenceQuote": "asked them to keep detailed logs",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "logs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The Royal Charter was wrecked off the coast of __________",
+     "explanation": "It was wrecked off Anglesey.",
+     "evidenceQuote": "was wrecked off the coast of Anglesey",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Anglesey"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "A warning at a port was shown by raising a canvas __________",
+     "explanation": "A cone was raised.",
+     "evidenceQuote": "a large canvas cone was raised on a tall pole",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cone"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Barometers were installed in fishing __________ for crews to consult",
+     "explanation": "They were placed in fishing ports.",
+     "evidenceQuote": "barometers to be placed in fishing ports",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ports"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Forecasts were halted in __________ after a critical review",
+     "explanation": "They stopped in 1866.",
+     "evidenceQuote": "they were stopped in 1866",
+     "skillTag": "numbers",
+     "distractorNote": "1865 is the year FitzRoy died.",
+     "options": [],
+     "acceptedAnswers": [
+      "1866"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "The sea area now called FitzRoy was previously known as __________",
+     "explanation": "It was called Finisterre.",
+     "evidenceQuote": "the sea area called Finisterre",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Finisterre"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 817,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam37-rp2",
+   "passageNumber": 2,
+   "title": "Calculating tomorrow",
+   "discipline": "Atmospheric Science & Computing",
+   "paragraphs": [
+    "Every day, the world's major weather services feed millions of observations from satellites, aircraft, ships, balloons and ground stations into some of the most powerful computers on Earth. These machines solve the equations that describe how air moves, warms, cools and condenses, and the result is a picture of the atmosphere hours, days and even weeks ahead. The idea behind this process, known as numerical weather prediction, is more than a century old, but it took decades of failure, ingenuity and technological progress before it became the foundation of modern forecasting.",
+    "The starting point is usually traced to 1904, when the Norwegian scientist Vilhelm Bjerknes argued that forecasting should be treated as a problem in physics. If the present state of the atmosphere were known accurately enough, he reasoned, the laws governing the motion of fluids and the behaviour of heat could be used to calculate its future state. The principle was elegant, but there was an obvious difficulty. The equations involved were far too complex to be solved exactly, and approximate solutions required an enormous amount of arithmetic, at a time when every calculation had to be done by hand.",
+    "The first person to attempt it seriously was the British mathematician Lewis Fry Richardson. During the First World War, while serving as a driver with an ambulance unit in France, he spent his spare time working out, by hand, how the pressure and winds over a small part of central Europe would change over six hours, using observations recorded on a single day in 1910. The task took him many weeks. When he finally finished, his result was spectacularly wrong: he predicted a rise in surface pressure of 145 hectopascals, a change far larger than any ever observed, when in reality the pressure had barely altered. Richardson nevertheless published his method, together with his failed result, in his 1922 book Weather Prediction by Numerical Process.",
+    "Rather than abandoning the idea, Richardson imagined how it might one day work in practice. He described a vast hall, shaped like a theatre, in which 64,000 people, each responsible for one part of the globe, would carry out calculations simultaneously, while a conductor in the centre used beams of light to keep them working at the same pace. This 'forecast factory' was never built, but it anticipated with remarkable accuracy the way modern supercomputers divide the atmosphere into a grid of points and process them in parallel. Much later, researchers who repeated his calculations showed that his method had been largely sound; the error came mainly from problems with the starting data, which contained small unrealistic variations that the equations magnified.",
+    "The arithmetic finally became manageable with the arrival of electronic computers. In 1950, a team in the United States that included the meteorologist Jule Charney and the mathematician John von Neumann used ENIAC, one of the first general-purpose electronic computers, to produce a series of forecasts for North America. The model was greatly simplified, and producing a 24-hour forecast took roughly 24 hours of computing time, so it was of no practical use. But the forecasts were reasonably realistic, and they proved that the approach could work. By the middle of the 1950s, weather services in Sweden and the United States had begun issuing computer-based forecasts routinely.",
+    "Just as the method was proving its worth, a discovery revealed its limits. In 1961, the American meteorologist Edward Lorenz was running a simple weather model on a computer at the Massachusetts Institute of Technology. Wanting to examine one result again, he restarted the run part-way through, typing in a number from a printout, 0.506, instead of the full value of 0.506127 stored in the machine. The tiny difference grew until the new simulation bore no resemblance to the original. Lorenz realised that the atmosphere is chaotic: very small uncertainties in its starting state grow rapidly, so that detailed forecasts eventually become impossible, however good the model. A later talk in which he asked whether the flap of a butterfly's wings in Brazil could set off a tornado in Texas gave the phenomenon its popular name, the butterfly effect.",
+    "Forecasters responded not by giving up but by changing how they work. Since observations can never be perfect, modern weather centres run their models not once but dozens of times, each starting from slightly different conditions that reflect the uncertainty in the data. This technique, called ensemble forecasting, became part of daily operations in the early 1990s. When the different runs produce similar results, forecasters can be confident; when they spread widely, the forecast is uncertain, and that uncertainty can itself be communicated to the public.",
+    "The results of these advances have been striking. Studies suggest that forecasts have gained roughly a day of useful accuracy with each decade, so that a five-day forecast today is about as reliable as a three-day forecast was some twenty years earlier. Most scientists believe, following Lorenz, that the limit for detailed day-to-day forecasts lies at around two weeks. More recently, technology companies and weather centres have developed systems based on machine learning, which are trained on decades of past weather data and can produce forecasts in minutes rather than hours. Whether these will replace traditional models or simply work alongside them is one of the most important questions facing the field."
+   ],
+   "questions": [
+    {
+     "id": "exam37-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Bjerknes's idea was sound but impossible to apply by hand.",
+     "evidenceQuote": "forecasting should be treated as a problem in physics",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. A sound principle that could not yet be applied",
+      "A sound principle that could not yet be applied"
+     ]
+    },
+    {
+     "id": "exam37-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Richardson's attempt produced an absurd result.",
+     "evidenceQuote": "his result was spectacularly wrong",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. A determined attempt with an absurd outcome",
+      "A determined attempt with an absurd outcome"
+     ]
+    },
+    {
+     "id": "exam37-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Richardson imagined a hall of human calculators.",
+     "evidenceQuote": "This 'forecast factory' was never built",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. An imaginary workplace for calculation",
+      "An imaginary workplace for calculation"
+     ]
+    },
+    {
+     "id": "exam37-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Computers took over the calculations.",
+     "evidenceQuote": "The arithmetic finally became manageable with the arrival of electronic computers.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. Machines take over the arithmetic",
+      "Machines take over the arithmetic"
+     ]
+    },
+    {
+     "id": "exam37-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "A small rounding change had huge effects.",
+     "evidenceQuote": "The tiny difference grew until the new simulation bore no resemblance to the original.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A tiny change with enormous consequences",
+      "A tiny change with enormous consequences"
+     ]
+    },
+    {
+     "id": "exam37-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Ensembles use many runs.",
+     "evidenceQuote": "run their models not once but dozens of times",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. Many forecasts instead of one",
+      "Many forecasts instead of one"
+     ]
+    },
+    {
+     "id": "exam37-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Steady improvement and machine-learning competitors.",
+     "evidenceQuote": "forecasts have gained roughly a day of useful accuracy with each decade",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ],
+     "acceptedAnswers": [
+      "vii",
+      "vii. Steady progress and new rivals",
+      "Steady progress and new rivals"
+     ]
+    },
+    {
+     "id": "exam37-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "According to later researchers, what mainly caused the error in Richardson's hand-made forecast?",
+     "explanation": "The starting data contained unrealistic variations.",
+     "evidenceQuote": "the error came mainly from problems with the starting data",
+     "skillTag": "detail",
+     "options": [
+      "A. a basic flaw in his method",
+      "B. mistakes in his arithmetic",
+      "C. the small area of Europe he chose",
+      "D. unrealistic variations in his initial data"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. unrealistic variations in his initial data",
+      "unrealistic variations in his initial data"
+     ]
+    },
+    {
+     "id": "exam37-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why were the ENIAC forecasts of 1950 of no practical use?",
+     "explanation": "They took as long to compute as the period they covered.",
+     "evidenceQuote": "producing a 24-hour forecast took roughly 24 hours of computing time, so it was of no practical use",
+     "skillTag": "detail",
+     "options": [
+      "A. They covered only a very small region.",
+      "B. They took as long to produce as the period they forecast.",
+      "C. Their results were completely unrealistic.",
+      "D. The computer broke down frequently."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. They took as long to produce as the period they forecast.",
+      "They took as long to produce as the period they forecast."
+     ]
+    },
+    {
+     "id": "exam37-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "In ensemble forecasting, what does it mean when the model runs differ greatly from each other?",
+     "explanation": "A wide spread signals uncertainty.",
+     "evidenceQuote": "when they spread widely, the forecast is uncertain",
+     "skillTag": "detail",
+     "options": [
+      "A. The observations contain mistakes.",
+      "B. The model needs to be run again.",
+      "C. Forecasters should be less confident.",
+      "D. Severe weather is likely."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Forecasters should be less confident.",
+      "Forecasters should be less confident."
+     ]
+    },
+    {
+     "id": "exam37-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "Richardson did his calculations while serving with an __________ unit during the war.",
+     "explanation": "He was with an ambulance unit.",
+     "evidenceQuote": "while serving as a driver with an ambulance unit in France",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ambulance"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam37-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "Lorenz restarted his simulation with a rounded number copied from a __________.",
+     "explanation": "He used a number from a printout.",
+     "evidenceQuote": "typing in a number from a printout",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "printout"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "exam37-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Detailed day-to-day forecasts are thought to be impossible beyond about __________.",
+     "explanation": "The limit is about two weeks.",
+     "evidenceQuote": "the limit for detailed day-to-day forecasts lies at around two weeks",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "two weeks",
+      "2 weeks"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 882,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. Machines take over the arithmetic",
+      "ii. A tiny change with enormous consequences",
+      "iii. An imaginary workplace for calculation",
+      "iv. The high cost of modern supercomputers",
+      "v. Many forecasts instead of one",
+      "vi. A sound principle that could not yet be applied",
+      "vii. Steady progress and new rivals",
+      "viii. Forecasting from the behaviour of animals",
+      "ix. A determined attempt with an absurd outcome"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "exam37-rp3",
+   "passageNumber": 3,
+   "title": "A thirty per cent chance of confusion",
+   "discipline": "Risk Communication & Meteorology",
+   "paragraphs": [
+    "Weather forecasts have never been more accurate. Thanks to satellites, supercomputers and decades of research, a forecast for three days ahead is now roughly as reliable as a forecast for the next day was a generation ago. Yet complaints that 'the forecast is always wrong' remain as common as ever. In my view, the main problem with weather forecasting today is not the science, which is remarkably good, but the way its results are communicated to the people who rely on them.",
+    "Consider the familiar 'thirty per cent chance of rain'. In a study published in 2005, the psychologist Gerd Gigerenzer and his colleagues asked people in five cities, Amsterdam, Athens, Berlin, Milan and New York, what such a forecast actually means. The answers varied enormously. Some people thought it meant that it would rain for thirty per cent of the time, while others believed it would rain over thirty per cent of the region. The meaning intended by forecasters, that it will rain on about thirty per cent of days with a forecast like this one, was far from universally understood. Residents of New York, where forecasts of this kind had been broadcast for decades, were the most likely to choose it.",
+    "Confusion is not only the fault of the public. In his 2012 book The Signal and the Noise, the statistician Nate Silver described what forecasters call the 'wet bias'. Examining American forecasts, he found that the national weather service's probabilities of rain were well calibrated, but that many local television forecasters deliberately exaggerated the chance of rain, because viewers who are caught in an unexpected shower are angrier than viewers who stay indoors because of rain that never arrives. I find this understandable, but in my opinion it is self-defeating: an audience that discovers it has been misled, however kindly, has less reason to believe the next warning, which may be one that really matters.",
+    "Graphics can mislead as well as words. Forecasts of hurricanes approaching the United States are often shown with a 'cone of uncertainty', a shape that widens over time to show where the centre of the storm is likely to travel, based on the size of past forecasting errors. The cone is a sensible way of displaying uncertainty, but research has repeatedly found that many people read it as a map of the area that will be affected, and conclude that if they live outside it they are safe. In fact, the cone says nothing about the size of a storm, and dangerous winds and flooding often extend far beyond its edges.",
+    "Some weather services have tried to address such problems by changing what a warning is about. The UK's Met Office, for example, now issues impact-based warnings, coloured yellow, amber or red. The colour depends not only on how likely severe weather is, but on what it is expected to do: whether it is likely to close roads, cut off power or endanger lives. A heavy snowfall that would be a minor inconvenience in a mountain village might therefore lead to a higher warning in a city where it rarely snows. I believe this is exactly the right approach, because people make decisions about what the weather will do to them, not about rainfall totals.",
+    "Another innovation has been less obviously useful. Since 2015, the Met Office and Met Éireann, Ireland's weather service, have given names to major storms, a practice long established for hurricanes. The aim is to raise awareness and make it easier for the media and the public to follow a storm's progress. The names certainly attract attention, and they make headlines easier to write. Whether they actually change how people prepare is, as far as I am aware, much less clear, and I suspect that a memorable name can sometimes make a storm seem like entertainment rather than a threat.",
+    "A more radical argument is that the public simply cannot cope with uncertainty, and should be given clear, simple messages: rain or no rain, safe or unsafe. This view is understandable but, I think, mistaken. Research by the psychologist Susan Joslyn and her colleagues at the University of Washington has found that people who are given probability information alongside a forecast tend to make better decisions, and to trust the forecast more, than people who receive a simple prediction. Uncertainty does not confuse people when it is explained clearly; what confuses them is uncertainty presented in ways they cannot interpret.",
+    "In my view, the next great advance in forecasting will come not from faster computers but from taking communication as seriously as calculation. Forecasters already know a great deal about how much they do not know. The challenge is to share that knowledge honestly, and in a form that helps people decide whether to cancel a journey, move their livestock or leave their homes. That will require meteorologists to work closely with psychologists, designers and the communities they serve."
+   ],
+   "questions": [
+    {
+     "id": "exam37-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "is often wrongly taken to show which places will be hit",
+     "explanation": "People misread the hurricane cone.",
+     "evidenceQuote": "many people read it as a map of the area that will be affected",
+     "skillTag": "matching_features",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. the cone of uncertainty",
+      "the cone of uncertainty"
+     ]
+    },
+    {
+     "id": "exam37-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "was understood in different ways by residents of five cities",
+     "explanation": "People interpreted rain probabilities differently.",
+     "evidenceQuote": "The answers varied enormously.",
+     "skillTag": "matching_features",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. probability-of-rain forecasts",
+      "probability-of-rain forecasts"
+     ]
+    },
+    {
+     "id": "exam37-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "was introduced by the weather services of two neighbouring countries",
+     "explanation": "Britain and Ireland name storms together.",
+     "evidenceQuote": "the Met Office and Met Éireann, Ireland's weather service, have given names to major storms",
+     "skillTag": "matching_features",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. storm naming",
+      "storm naming"
+     ]
+    },
+    {
+     "id": "exam37-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "involves forecasters intentionally overstating a risk",
+     "explanation": "The wet bias exaggerates rain.",
+     "evidenceQuote": "many local television forecasters deliberately exaggerated the chance of rain",
+     "skillTag": "matching_features",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. the wet bias",
+      "the wet bias"
+     ]
+    },
+    {
+     "id": "exam37-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "takes into account the likely consequences of the weather",
+     "explanation": "Impact-based warnings consider effects.",
+     "evidenceQuote": "but on what it is expected to do",
+     "skillTag": "matching_features",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. impact-based warnings",
+      "impact-based warnings"
+     ]
+    },
+    {
+     "id": "exam37-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The greatest weakness of modern forecasting lies in the underlying science.",
+     "explanation": "The writer says the science is good.",
+     "evidenceQuote": "is not the science, which is remarkably good",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam37-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "Exaggerating the chance of rain can make people less willing to trust later warnings.",
+     "explanation": "The writer says it undermines trust.",
+     "evidenceQuote": "has less reason to believe the next warning",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam37-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "Local television forecasters in America are less well trained than government meteorologists.",
+     "explanation": "Training is not discussed.",
+     "evidenceQuote": "the national weather service's probabilities of rain were well calibrated",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "exam37-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "There is clear evidence that naming storms makes people prepare more effectively.",
+     "explanation": "The writer says this is unclear.",
+     "evidenceQuote": "Whether they actually change how people prepare is, as far as I am aware, much less clear",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "exam37-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The public should receive information about probability, not only simple predictions.",
+     "explanation": "The writer rejects the idea of giving only simple messages.",
+     "evidenceQuote": "This view is understandable but, I think, mistaken.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "exam37-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "A thirty per cent forecast means rain on about thirty per cent of __________ with a similar forecast.",
+     "explanation": "It refers to days with such a forecast.",
+     "evidenceQuote": "it will rain on about thirty per cent of days with a forecast like this one",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "days"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "The width of the hurricane cone reflects the size of earlier forecasting __________.",
+     "explanation": "It is based on past errors.",
+     "evidenceQuote": "based on the size of past forecasting errors",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "errors"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Met Office warnings may be yellow, __________ or red.",
+     "explanation": "The middle level is amber.",
+     "evidenceQuote": "coloured yellow, amber or red",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "amber"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "exam37-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Joslyn found that probability information helped people to make better __________.",
+     "explanation": "People made better decisions.",
+     "evidenceQuote": "tend to make better decisions",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "decisions"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 821,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of forecasting practices below. Match each statement with the correct practice, A–F.",
+     "options": [
+      "A. probability-of-rain forecasts",
+      "B. the wet bias",
+      "C. the cone of uncertainty",
+      "D. impact-based warnings",
+      "E. storm naming",
+      "F. simple yes-or-no forecasts"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "exam37-w1",
+  "title": "Accuracy of weather forecasts",
+  "visualType": "Line Chart",
+  "instructions": "The graph below shows the percentage of weather forecasts that proved accurate in one country between 1980 and 2020, for forecasts made three, five, seven and ten days in advance. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [
+   {
+    "id": "EC1D2702-ECDC-56BE-A6F6-7C2F093B353C",
+    "series": "3 days ahead",
+    "category": "1980",
+    "value": 85.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "D67CA249-B5ED-5F86-8150-917D3C69A998",
+    "series": "3 days ahead",
+    "category": "1990",
+    "value": 89.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "A48ED3C2-4C6B-54F3-AB69-BCC5B077FFC3",
+    "series": "3 days ahead",
+    "category": "2000",
+    "value": 93.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "F8B3FB14-897F-55F7-BEB9-97DE424035F0",
+    "series": "3 days ahead",
+    "category": "2010",
+    "value": 95.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "EE729D2F-7A11-54F8-9A13-9FF4A860748F",
+    "series": "3 days ahead",
+    "category": "2020",
+    "value": 97.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "966E2FBA-CA4D-5FDB-8CC5-BA46FB004D07",
+    "series": "5 days ahead",
+    "category": "1980",
+    "value": 70.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "A446A1EB-A652-50B4-BF8F-E8F513E744AD",
+    "series": "5 days ahead",
+    "category": "1990",
+    "value": 77.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "E6048D20-FDC9-5ABC-8797-770B35A412CC",
+    "series": "5 days ahead",
+    "category": "2000",
+    "value": 84.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "9F42394E-91CA-5FB6-8C2C-CAEC5008F295",
+    "series": "5 days ahead",
+    "category": "2010",
+    "value": 89.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "29CEBD3E-A520-5D89-8752-B13A1AC8CEFA",
+    "series": "5 days ahead",
+    "category": "2020",
+    "value": 92.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "43A13666-97A8-5B4E-A406-1396D717E319",
+    "series": "7 days ahead",
+    "category": "1980",
+    "value": 56.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "31526B7F-5C50-540F-BC3E-7FD492932577",
+    "series": "7 days ahead",
+    "category": "1990",
+    "value": 63.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "B2CC5702-D239-5921-98A5-8F62302524DD",
+    "series": "7 days ahead",
+    "category": "2000",
+    "value": 72.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "1F6249F2-5473-5E7B-AD43-7BA59D252C4F",
+    "series": "7 days ahead",
+    "category": "2010",
+    "value": 80.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "F9464F18-5AE9-5A87-814E-094E2FB84444",
+    "series": "7 days ahead",
+    "category": "2020",
+    "value": 86.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "29213ABE-C7C4-58B0-A5A0-F5D860FC35C1",
+    "series": "10 days ahead",
+    "category": "1980",
+    "value": 40.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "83F87274-8323-5E5E-8CE4-1614F4A5BF9D",
+    "series": "10 days ahead",
+    "category": "1990",
+    "value": 45.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "EE5B4F36-7CDB-567C-9310-6DE59AD2227A",
+    "series": "10 days ahead",
+    "category": "2000",
+    "value": 52.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "70319E62-F7B3-5282-ADA5-06DB6A0A7DCB",
+    "series": "10 days ahead",
+    "category": "2010",
+    "value": 60.0,
+    "unit": "% accurate"
+   },
+   {
+    "id": "12E744D2-2C0B-5F23-A7A4-52746CD69601",
+    "series": "10 days ahead",
+    "category": "2020",
+    "value": 68.0,
+    "unit": "% accurate"
+   }
+  ],
+  "processSteps": [],
+  "keyOverviewPoints": [
+   "Accuracy improved steadily for all four forecast ranges.",
+   "Shorter-range forecasts were always more accurate, but the gap narrowed as longer-range forecasts improved faster."
+  ]
+ },
+ "writingTask2": {
+  "id": "exam37-w2",
+  "title": "Who should pay for weather information?",
+  "essayType": "Discussion (Both Views + Opinion)",
+  "topicDomain": "Science & Public Services",
+  "promptText": "Some people believe that weather forecasts and warnings should always be provided free of charge by the government. Others think that private companies should be allowed to sell more detailed weather information to those who want it. Discuss both views and give your own opinion.",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "exam37-spk",
+  "theme": "Weather and forecasts",
+  "part1Questions": [
+   "How often do you check the weather forecast?",
+   "Where do you usually get information about the weather?",
+   "Has a forecast ever been wrong in a way that affected your plans?",
+   "What kind of weather makes you feel most energetic?",
+   "Has the weather in your hometown changed since you were a child?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a day when the weather turned out very differently from what you expected.",
+   "bulletPoints": [
+    "when and where it was",
+    "what weather you had expected",
+    "what the weather was actually like",
+    "and explain how it affected your day"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do you think people often complain that weather forecasts are wrong?",
+   "How important are accurate forecasts for farmers and fishermen?",
+   "Should schools teach children how to understand weather warnings?",
+   "Do you think technology will one day make weather forecasts perfect?",
+   "How should governments warn the public about dangerous weather?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Historical dates and figures are checked against standard reference sources; atmospheric figures are rounded.",
+   "Writing Task 1 figures are illustrative and simplified for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}

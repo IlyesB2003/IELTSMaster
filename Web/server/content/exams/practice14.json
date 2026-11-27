@@ -1,0 +1,2158 @@
+{
+ "id": "practice14",
+ "examNumber": 14,
+ "pool": "practice",
+ "title": "Practice Test 14: Rivers, Lakes & Freshwater",
+ "difficulty": "Foundation (Band 5.0 to 6.0)",
+ "theme": "Rivers, Lakes & Freshwater",
+ "listeningParts": [
+  {
+   "id": "practice14-lp1",
+   "partNumber": 1,
+   "title": "Booking a canoe trip",
+   "contextDescription": "A man phones a canoe hire company to book a river trip for his family.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "9A02BDBB-9773-5DB0-9892-0E5BC2A21895",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Hello, Riverside Canoe Hire, Sophie speaking. How can I help you?"
+    },
+    {
+     "id": "41054277-EE17-52E0-B941-E81EA7316336",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Hi there. I'd like to book a canoe trip for my family, please. We're staying near here for the summer holidays, and we've seen people canoeing on the river every day. It looks like a lot of fun."
+    },
+    {
+     "id": "5EA72605-5F42-5C96-8F55-18DC05460C2A",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "It is. Have any of you been canoeing before?"
+    },
+    {
+     "id": "9605C8AC-17B8-5C09-9232-D51379617997",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "My wife and I went once, a long time ago, but the children have never tried it."
+    },
+    {
+     "id": "49F5D4E0-E16A-5AC0-88A2-E2110AED8571",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "That's no problem. Most of our customers are beginners. Before you set off, one of our instructors gives everyone a short lesson on the bank, so you learn how to hold the paddle, how to steer and what to do if the canoe tips over."
+    },
+    {
+     "id": "1F64CB45-95A0-5994-8DAF-C911ABB9156C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Great. What trips do you offer?"
+    },
+    {
+     "id": "B9F01F68-1E54-5037-901B-7187B0946D90",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "We have two routes. The short one is a half-day trip. You start here at the boathouse, by the old stone bridge, and paddle downstream to Hartley Mill. That's about twelve kilometres, and it usually takes three to four hours, with a stop for a picnic. The long route is a full-day trip of twenty-five kilometres, which goes all the way to the town of Ashbury. For a family with young children, I'd recommend the half day."
+    },
+    {
+     "id": "34C5F5AB-139D-549E-9E21-D49C2D6698A9",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Yes, I think the half day would be enough. How do we get back from Hartley Mill?"
+    },
+    {
+     "id": "F5FAE52E-54E5-5AC7-A0CB-35C939D42E31",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Our minibus collects you and the canoes from the mill and brings you back here. That's included in the price."
+    },
+    {
+     "id": "EA7550B2-9E0C-5BBD-B20E-81C4FEDDE088",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Is there somewhere to stop for lunch on the way?"
+    },
+    {
+     "id": "5C1D002A-58A3-5DDB-AD61-A3062D66158F",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Yes, about halfway there's a small island with a sandy beach, and most families stop there for their picnic. There aren't any shops along the river, so make sure you bring enough food and water with you. There are toilets at Hartley Mill, and there's also a little café there where you can get an ice cream while you wait for the minibus."
+    },
+    {
+     "id": "B7C44DA3-7AE7-5ADB-AEDE-0D18E80F82EA",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Perfect. And how much does it cost?"
+    },
+    {
+     "id": "02BFD92B-70C3-51FC-BDC0-F1F34B03CF63",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "We charge per canoe, not per person. Each canoe takes up to three people. For the half day, it's thirty-eight pounds per canoe. The full day is forty-five. How many people are in your group?"
+    },
+    {
+     "id": "4D2A4F41-5B56-5895-B04F-46FCBF8BA126",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Well, there were going to be six of us, but my brother can't come now, so it's five: me, my wife and our three children."
+    },
+    {
+     "id": "7A919F71-1C7E-5047-812E-FD53446DBE66",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "So five people. You'll need two canoes, then. How old are the children?"
+    },
+    {
+     "id": "6984C449-AD78-5DCC-A48E-589C768D30B0",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "They're fourteen, eleven and eight."
+    },
+    {
+     "id": "4FECB3E0-0C99-55C3-BBB8-08B1E1C90B9C",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "That's fine. The minimum age is seven, but all children must be able to swim. They don't need to be strong swimmers, but they should be able to swim at least twenty-five metres."
+    },
+    {
+     "id": "1919907F-1306-5917-B037-A84C2DC449D8",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "They can all do that. When can we go?"
+    },
+    {
+     "id": "CBD59259-5F43-51ED-B5EC-83563784C356",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "When were you thinking of?"
+    },
+    {
+     "id": "15C05D6E-A6C5-5B16-81D4-CA5C80409E8C",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Is Saturday possible?"
+    },
+    {
+     "id": "A66E4B3E-F60C-553F-8978-DBB467A53CCB",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Let me check. Saturday morning is fully booked, I'm afraid, but there's space on Sunday. Would that be all right?"
+    },
+    {
+     "id": "FF3495D5-298C-5EB1-B8FA-A3A64A98D8F6",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Yes, Sunday's fine."
+    },
+    {
+     "id": "46AA94B8-0E42-5A24-8072-B6CFE44D38D8",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Lovely. Trips leave at ten, but please arrive at half past nine, so there's time to get your life jackets on and have the lesson."
+    },
+    {
+     "id": "A56BBD82-291C-5FE7-8E27-EB4EEE699EC6",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay. Do we need to bring anything?"
+    },
+    {
+     "id": "E4E9BF16-603E-506F-A599-C2FE6FCF1F71",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "We give everyone a life jacket and a paddle, and we provide waterproof bags for phones and car keys. You should wear clothes that can get wet, and old trainers or sandals that stay on your feet. And bring a change of clothes to leave in the car, because most people get wet, even if they don't fall in. Oh, and don't forget sun cream and a hat."
+    },
+    {
+     "id": "4BD14ED5-F979-50C4-8DAE-E47E3039D007",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Can we bring our dog? He loves the water."
+    },
+    {
+     "id": "035F02B5-BDC4-5B27-B5AF-F3401478173D",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "I'm sorry, but dogs aren't allowed in the canoes. They tend to jump around, and that makes the canoe tip over very easily."
+    },
+    {
+     "id": "2D8F84CE-FC14-5282-A76F-12EEA39F0172",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay, he can stay at the cottage. And where can we park?"
+    },
+    {
+     "id": "989D0644-FD0B-557E-9B60-5063273D01D3",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Our car park is very small, so please use the free car park behind the church. It's only a two-minute walk from the boathouse."
+    },
+    {
+     "id": "5F01AFD9-9D76-5DD6-B268-9B32460B5EFC",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Okay, thanks."
+    },
+    {
+     "id": "B60143DC-2948-5BDC-8995-90FF95575A36",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Now, can I have your name, please?"
+    },
+    {
+     "id": "C9ECA490-B275-58FD-B307-37F73243D777",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "Yes, it's Martin Kerrigan. That's K-E-R-R-I-G-A-N."
+    },
+    {
+     "id": "32755880-DCA9-520E-BE68-AB34525AB066",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Thank you, Mr Kerrigan. And a phone number?"
+    },
+    {
+     "id": "498EE92E-2268-5D69-9672-466A48890657",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "It's 07936 221 845."
+    },
+    {
+     "id": "E039DCB5-98DA-5FA4-B6C6-73CACF47B53E",
+     "speaker": "Assistant",
+     "accent": "en-GB",
+     "text": "Great. If the river is too high after heavy rain, we may have to cancel. In that case, we'll call you the evening before and give you your money back. Is there anything else you'd like to know?"
+    },
+    {
+     "id": "0E614F0A-ABB8-5CEC-B461-B88FDDB667F8",
+     "speaker": "Caller",
+     "accent": "en-CA",
+     "text": "No, I think that's everything. Thanks very much."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice14-L1",
+     "number": 1,
+     "format": "Form Completion",
+     "prompt": "Route: from the boathouse to __________ Mill",
+     "explanation": "The short trip ends at Hartley Mill.",
+     "evidenceQuote": "paddle downstream to Hartley Mill",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "Hartley"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L2",
+     "number": 2,
+     "format": "Form Completion",
+     "prompt": "Distance of the half-day trip: __________ km",
+     "explanation": "The trip is about 12 km.",
+     "evidenceQuote": "That's about twelve kilometres",
+     "skillTag": "numbers",
+     "distractorNote": "25 km is the full-day route.",
+     "options": [],
+     "acceptedAnswers": [
+      "12",
+      "twelve"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L3",
+     "number": 3,
+     "format": "Form Completion",
+     "prompt": "Price: £__________ per canoe",
+     "explanation": "The half day costs £38 per canoe.",
+     "evidenceQuote": "it's thirty-eight pounds per canoe",
+     "skillTag": "numbers",
+     "distractorNote": "£45 is the price for the full day.",
+     "options": [],
+     "acceptedAnswers": [
+      "38"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L4",
+     "number": 4,
+     "format": "Form Completion",
+     "prompt": "Number of people: __________",
+     "explanation": "There are five people now.",
+     "evidenceQuote": "so it's five",
+     "skillTag": "numbers",
+     "distractorNote": "There were going to be six, but his brother cannot come.",
+     "options": [],
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L5",
+     "number": 5,
+     "format": "Form Completion",
+     "prompt": "Children must be able to __________ at least 25 metres",
+     "explanation": "Children must be able to swim.",
+     "evidenceQuote": "all children must be able to swim",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "swim"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L6",
+     "number": 6,
+     "format": "Form Completion",
+     "prompt": "Day: __________",
+     "explanation": "Saturday is full, so they go on Sunday.",
+     "evidenceQuote": "Yes, Sunday's fine.",
+     "skillTag": "dates",
+     "distractorNote": "Saturday morning is fully booked.",
+     "options": [],
+     "acceptedAnswers": [
+      "Sunday"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L7",
+     "number": 7,
+     "format": "Form Completion",
+     "prompt": "Arrive at: __________ a.m.",
+     "explanation": "They should arrive at 9.30.",
+     "evidenceQuote": "please arrive at half past nine",
+     "skillTag": "numbers",
+     "distractorNote": "The trip leaves at ten.",
+     "options": [],
+     "acceptedAnswers": [
+      "9.30",
+      "9:30",
+      "half past nine"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L8",
+     "number": 8,
+     "format": "Form Completion",
+     "prompt": "Bring: a change of __________",
+     "explanation": "They need a change of clothes.",
+     "evidenceQuote": "bring a change of clothes to leave in the car",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "clothes"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L9",
+     "number": 9,
+     "format": "Form Completion",
+     "prompt": "Parking: free car park behind the __________",
+     "explanation": "They should park behind the church.",
+     "evidenceQuote": "use the free car park behind the church",
+     "skillTag": "detail",
+     "options": [],
+     "acceptedAnswers": [
+      "church"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L10",
+     "number": 10,
+     "format": "Form Completion",
+     "prompt": "Name: Martin __________",
+     "explanation": "He spells Kerrigan.",
+     "evidenceQuote": "it's Martin Kerrigan. That's K-E-R-R-I-G-A-N.",
+     "skillTag": "spelling",
+     "options": [],
+     "acceptedAnswers": [
+      "Kerrigan"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "canoe",
+    "paddle",
+    "life jacket",
+    "downstream",
+    "minibus"
+   ],
+   "groups": [
+    {
+     "from": 1,
+     "to": 10,
+     "instruction": "Questions 1–10. Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice14-lp2",
+   "partNumber": 2,
+   "title": "Welcome to a lake nature reserve",
+   "contextDescription": "A park ranger speaks to visitors at the start of a day at a lake nature reserve.",
+   "primaryAccent": "en-IE",
+   "dialogue": [
+    {
+     "id": "5C7D8A43-58E5-5769-AB9D-B97DD7B0A8EB",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Good morning, everyone, and welcome to Linmere Lake Nature Reserve. My name's Ciara, and I'm one of the rangers here. I'm going to tell you a little about the lake and the reserve, and give you some information to help you enjoy your visit."
+    },
+    {
+     "id": "5712B65D-004E-5417-88FD-9564B45EE80B",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "First, a bit of history. Many people think Linmere is a natural lake, but in fact it isn't. Until the 1970s, this whole area was a gravel quarry. When the company stopped digging, the large holes they left behind slowly filled with water from the ground and from a small river nearby. Over the years, plants grew around the edges, and birds and fish arrived. In 1995, the land was bought by a wildlife charity, and it became a nature reserve."
+    },
+    {
+     "id": "DC8B2653-E435-5217-9C63-1B445324E000",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Today, the lake is about two kilometres long, and it's an important home for birds, especially in winter. Every year, thousands of ducks and geese fly here from colder countries in the north, because the lake rarely freezes. In summer, you'll see swans with their young, and if you're lucky, you might see a kingfisher. They're small, bright blue birds that dive into the water to catch fish. The best place to see them is near the wooden bridge, where the river enters the lake."
+    },
+    {
+     "id": "453E08FB-A231-5ABB-9EFB-9260BD1CB497",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Now, some information about getting around. There's a path that goes all the way round the lake. It's about five kilometres long and takes most people around two hours. The path is flat, and the first part, from the visitor centre to the bird hide, is suitable for wheelchairs and pushchairs. After that, it can be muddy, so you'll need good shoes or boots."
+    },
+    {
+     "id": "9D4706F9-B02B-586A-8A8C-DB38B61DCAB6",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Along the path, there are three bird hides. These are small wooden huts with windows, where you can sit quietly and watch the birds without frightening them. Please keep your voices down when you're inside, and close the windows when you leave. The largest hide is on the north side of the lake, and it has a telescope that anyone can use."
+    },
+    {
+     "id": "71F4A5E2-7700-5ACD-AD3F-D15685822F9F",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "There are a few rules that I need to tell you about. Dogs are welcome, but they must be kept on a lead at all times, because many birds build their nests on the ground near the water. Swimming in the lake is not allowed. The water is very deep in places, and it's colder than people expect, even in summer. You also can't feed the ducks bread, I'm afraid. It isn't good for them, and the bread that they don't eat makes the water dirty. If you'd like to feed them, you can buy special bird food at the visitor centre."
+    },
+    {
+     "id": "00DD8323-4233-5EEA-8D43-D40FB7031A37",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Fishing is allowed, but only on the east side of the lake, and you need a permit, which you can also get from the visitor centre. Cycling is permitted on the main path, but please go slowly and remember that walkers have priority."
+    },
+    {
+     "id": "48152621-2989-5C22-9C04-215D6EE12C6E",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "If you'd like to learn more, we run lots of activities. Every Sunday afternoon, there's a guided bird walk with one of our rangers. It's free, but you need to book because there are only fifteen places. During the school holidays, we also run pond-dipping sessions for children, where they use nets to catch small water creatures and look at them under a microscope. Those are very popular, so book early."
+    },
+    {
+     "id": "DE374799-B85B-57E1-A056-7D892B356AE6",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "And one more thing. If you find a bird or an animal that seems to be injured, please don't try to pick it up or move it yourself. Make a note of where it is, and tell one of the rangers or the staff at the visitor centre. We work with a local animal hospital, and they know how to handle wild animals safely."
+    },
+    {
+     "id": "28E2AD98-A4B0-5E8A-A43F-63CF4E98878B",
+     "speaker": "Ranger",
+     "accent": "en-IE",
+     "text": "Finally, the visitor centre has a café, toilets and a shop. The café uses vegetables from our own garden, and all the money from the shop goes towards looking after the reserve. The centre closes at five o'clock, and the car park gates are locked at half past five, so please make sure you're back in time. Enjoy your day."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice14-L11",
+     "number": 11,
+     "format": "Multiple Choice",
+     "prompt": "What was the area around Linmere Lake used for before the 1970s?",
+     "explanation": "It was a gravel quarry.",
+     "evidenceQuote": "this whole area was a gravel quarry",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. farming",
+      "B. digging gravel",
+      "C. a fish farm"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. digging gravel",
+      "digging gravel"
+     ]
+    },
+    {
+     "id": "practice14-L12",
+     "number": 12,
+     "format": "Multiple Choice",
+     "prompt": "Why do many ducks and geese come to Linmere in winter?",
+     "explanation": "The lake rarely freezes.",
+     "evidenceQuote": "because the lake rarely freezes",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. There is a lot of food for them.",
+      "B. The rangers protect them from hunters.",
+      "C. The water does not often turn to ice."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. The water does not often turn to ice.",
+      "The water does not often turn to ice."
+     ]
+    },
+    {
+     "id": "practice14-L13",
+     "number": 13,
+     "format": "Multiple Choice",
+     "prompt": "Where is the best place to see kingfishers?",
+     "explanation": "They are seen near the wooden bridge.",
+     "evidenceQuote": "near the wooden bridge, where the river enters the lake",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. near the wooden bridge",
+      "B. outside the visitor centre",
+      "C. from the largest bird hide"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. near the wooden bridge",
+      "near the wooden bridge"
+     ]
+    },
+    {
+     "id": "practice14-L14",
+     "number": 14,
+     "format": "Multiple Choice",
+     "prompt": "Which part of the path is suitable for wheelchairs?",
+     "explanation": "The first part is suitable.",
+     "evidenceQuote": "from the visitor centre to the bird hide, is suitable for wheelchairs",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the section between the visitor centre and the bird hide",
+      "B. the path on the east side of the lake",
+      "C. the whole path around the lake"
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. the section between the visitor centre and the bird hide",
+      "the section between the visitor centre and the bird hide"
+     ]
+    },
+    {
+     "id": "practice14-L15",
+     "number": 15,
+     "format": "Multiple Choice",
+     "prompt": "Why must dogs be kept on a lead?",
+     "explanation": "Birds nest on the ground.",
+     "evidenceQuote": "because many birds build their nests on the ground near the water",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. Some visitors are afraid of dogs.",
+      "B. Birds nest on the ground close to the lake.",
+      "C. The path is too narrow."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Birds nest on the ground close to the lake.",
+      "Birds nest on the ground close to the lake."
+     ]
+    },
+    {
+     "id": "practice14-L16",
+     "number": 16,
+     "format": "Sentence Completion",
+     "prompt": "The largest bird hide has a __________ that visitors can use.",
+     "explanation": "There is a telescope in the largest hide.",
+     "evidenceQuote": "it has a telescope that anyone can use",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "telescope"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L17",
+     "number": 17,
+     "format": "Sentence Completion",
+     "prompt": "Visitors must not give the ducks __________.",
+     "explanation": "Bread is not allowed.",
+     "evidenceQuote": "You also can't feed the ducks bread",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "bread"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L18",
+     "number": 18,
+     "format": "Sentence Completion",
+     "prompt": "People who want to fish need to get a __________.",
+     "explanation": "Fishing needs a permit.",
+     "evidenceQuote": "you need a permit",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "permit"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L19",
+     "number": 19,
+     "format": "Sentence Completion",
+     "prompt": "The Sunday bird walk has only __________ places.",
+     "explanation": "There are fifteen places.",
+     "evidenceQuote": "there are only fifteen places",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "15",
+      "fifteen"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L20",
+     "number": 20,
+     "format": "Sentence Completion",
+     "prompt": "The car park gates are locked at __________ p.m.",
+     "explanation": "The gates close at 5.30.",
+     "evidenceQuote": "the car park gates are locked at half past five",
+     "skillTag": "numbers",
+     "distractorNote": "The visitor centre closes at five.",
+     "options": [],
+     "acceptedAnswers": [
+      "5.30",
+      "5:30",
+      "half past five"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "ranger",
+    "reserve",
+    "bird hide",
+    "trail",
+    "wildlife"
+   ],
+   "groups": [
+    {
+     "from": 11,
+     "to": 15,
+     "instruction": "Questions 11–15. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 16,
+     "to": 20,
+     "instruction": "Questions 16–20. Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice14-lp3",
+   "partNumber": 3,
+   "title": "Testing the water in a river",
+   "contextDescription": "Two geography students, Amy and Ravi, talk to their tutor about their fieldwork on a local river.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "7EB5F6AA-2E4B-50C4-8110-4E8F03C3D429",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Hi, Amy. Hi, Ravi. So, you've finished your fieldwork on the River Lune. How did it go?"
+    },
+    {
+     "id": "34D03BEE-5AB1-50E9-A546-D475F5ED9AB5",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "It went quite well, I think. We wanted to find out whether the water quality changes as the river flows past the town, so we chose three sites: one upstream, above the town, one in the middle of the town, and one downstream, about two kilometres below it."
+    },
+    {
+     "id": "CE49E1FA-EED9-5B50-B8D7-4AF8BD16DA32",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Good. And what did you measure at each site?"
+    },
+    {
+     "id": "840869D0-AE1D-5178-8970-7B8AB7278738",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "We measured the temperature of the water, its pH, and how fast the river was flowing. And we did kick sampling to collect small animals from the river bed."
+    },
+    {
+     "id": "920E1BCE-08F7-54F9-A658-8B2BB4375A69",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "How did you measure the speed of the water?"
+    },
+    {
+     "id": "691789FA-79B8-5EED-8C8A-2AB89B7476E2",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "We used an orange. We measured ten metres along the bank, dropped the orange in the water, and timed how long it took to float that distance. We did it three times at each site and worked out the average. An orange is good because it floats just under the surface, so the wind doesn't push it much."
+    },
+    {
+     "id": "3A682270-17F9-56F0-B68A-69932FBE7C03",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a classic method. And the kick sampling?"
+    },
+    {
+     "id": "7E6645B2-BDC8-5BC2-AEA0-3BAE66B9C690",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "One of us stood in the river and kicked the stones on the bottom for one minute, while the other held a net just downstream to catch whatever was washed out. Then we put everything in a white tray and counted the different creatures."
+    },
+    {
+     "id": "24F71EE0-E025-5306-958D-B5D900907C16",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why is that useful for measuring water quality?"
+    },
+    {
+     "id": "6FA2399D-F4A4-5DD6-BE2E-C0C33EBEC4CE",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "Because some animals can only live in clean water that has lots of oxygen, like mayfly and stonefly larvae. Others, like some kinds of worms, can survive in quite polluted water. So the types of animals you find tell you how clean the river is, not just on one day but over a longer period."
+    },
+    {
+     "id": "DF907C8C-3395-58A7-91C5-B501CB16DCA0",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Exactly. Chemical tests only show you what the water is like at that moment. What about the pH?"
+    },
+    {
+     "id": "BED60981-4416-5A9B-A3ED-C1DECDB2E651",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "We tested it with paper strips. It was between seven and seven and a half at all three sites, so it didn't really change."
+    },
+    {
+     "id": "1729E1D2-ECED-530D-9E78-FE54C9BD392B",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's quite normal for a river like the Lune. It's still worth including, though, because it shows that the differences in the animals weren't caused by the water being more acidic in one place. So, what did you find?"
+    },
+    {
+     "id": "31EFE562-396A-5355-9033-C320F602586A",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "The upstream site was the cleanest. We found lots of mayfly larvae and a few stonefly larvae. In the town, there were far fewer of them, and more worms and snails. We think that's partly because of rubbish and water running off the roads."
+    },
+    {
+     "id": "75236544-9B99-5645-9A0A-D18D5D18DB0D",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "The surprising thing was the downstream site. We expected it to be the most polluted, because there's a water treatment works just above it. But actually, it was nearly as clean as the upstream site."
+    },
+    {
+     "id": "70AA391D-0BDB-53E7-BD1A-27607F604592",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Why do you think that was?"
+    },
+    {
+     "id": "A3C1AEDC-26B4-5242-BE12-92D6BD67759B",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "We're not completely sure. The river is much faster there, because it goes over a lot of small rapids, and fast, rough water takes in more oxygen from the air. That might help the river to recover."
+    },
+    {
+     "id": "6F5E1E3D-09EA-5094-9133-8EE61D5AEEB7",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "That's a good explanation. You could check it by measuring the oxygen in the water directly. The department has an oxygen meter you can borrow."
+    },
+    {
+     "id": "0CD3AF98-47DE-550E-94ED-F1D2941E2260",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "That would be great. We did have one problem, though. On the second day, it rained heavily, and the river rose, so we couldn't safely go into the water at the town site. We had to go back the following week."
+    },
+    {
+     "id": "D2210032-D20F-56A3-BFE6-C962829E5F36",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "You were right not to take risks. But do mention it in your report, because the conditions weren't exactly the same on both days, and that could affect your results."
+    },
+    {
+     "id": "193926AF-1DF0-5E55-96B5-88210990ED84",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "Okay. How should we present the results?"
+    },
+    {
+     "id": "2D6E617A-2B01-563C-9113-C4F930B94708",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "For the animals, I'd use a bar chart for each site, so the reader can compare them easily. And please include a sketch map showing where the three sites are. The report should be about two thousand five hundred words, and I'd like it by the end of next month."
+    },
+    {
+     "id": "433B8B95-EF48-5014-BCEB-7863EB70EFA0",
+     "speaker": "Amy",
+     "accent": "en-AU",
+     "text": "Should we include any photographs?"
+    },
+    {
+     "id": "0955FC0E-BE40-50D0-A585-E846236F9458",
+     "speaker": "Tutor",
+     "accent": "en-GB",
+     "text": "Yes, a few photographs of each site would be useful, especially of the river bed, but keep them small so they don't take up too much space."
+    },
+    {
+     "id": "C1716562-8505-5689-AA95-C0BC6DC5879A",
+     "speaker": "Ravi",
+     "accent": "en-US",
+     "text": "Thanks. We'll book the oxygen meter today."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice14-L21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "What were the students mainly trying to find out with their river fieldwork?",
+     "explanation": "They studied changes in water quality past the town.",
+     "evidenceQuote": "whether the water quality changes as the river flows past the town",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. to count the fish in the river",
+      "B. to compare two different rivers",
+      "C. to see if water quality changes near the town"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. to see if water quality changes near the town",
+      "to see if water quality changes near the town"
+     ]
+    },
+    {
+     "id": "practice14-L22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "Why did the students use an orange to measure the speed of the river?",
+     "explanation": "The orange is not moved much by the wind.",
+     "evidenceQuote": "so the wind doesn't push it much",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It is not affected much by the wind.",
+      "B. It is easy to see from the bank.",
+      "C. It is cheaper than special equipment."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. It is not affected much by the wind.",
+      "It is not affected much by the wind."
+     ]
+    },
+    {
+     "id": "practice14-L23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "According to Amy, the animals in a river show",
+     "explanation": "They show water quality over a longer time.",
+     "evidenceQuote": "not just on one day but over a longer period",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. the temperature of the water.",
+      "B. how clean the water has been over time.",
+      "C. how fast the river flows."
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. how clean the water has been over time.",
+      "how clean the water has been over time."
+     ]
+    },
+    {
+     "id": "practice14-L24",
+     "number": 24,
+     "format": "Multiple Choice",
+     "prompt": "What surprised the students about the downstream site?",
+     "explanation": "It was almost as clean as upstream.",
+     "evidenceQuote": "it was nearly as clean as the upstream site",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. It had the most worms.",
+      "B. It was the slowest site.",
+      "C. It was cleaner than they expected."
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. It was cleaner than they expected.",
+      "It was cleaner than they expected."
+     ]
+    },
+    {
+     "id": "practice14-L25",
+     "number": 25,
+     "format": "Multiple Choice",
+     "prompt": "Why does the tutor want the students to mention the heavy rain?",
+     "explanation": "Conditions were different.",
+     "evidenceQuote": "because the conditions weren't exactly the same on both days",
+     "skillTag": "multiple_choice",
+     "options": [
+      "A. The conditions were different on the two days.",
+      "B. They should not have gone into the river.",
+      "C. The rain washed away their equipment."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. The conditions were different on the two days.",
+      "The conditions were different on the two days."
+     ]
+    },
+    {
+     "id": "practice14-L26",
+     "number": 26,
+     "format": "Note Completion",
+     "prompt": "Sites: upstream, in the town, and __________ km downstream",
+     "explanation": "The last site is 2 km downstream.",
+     "evidenceQuote": "about two kilometres below it",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "2",
+      "two"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L27",
+     "number": 27,
+     "format": "Note Completion",
+     "prompt": "Kick sampling: kick the stones for one __________",
+     "explanation": "They kicked for one minute.",
+     "evidenceQuote": "kicked the stones on the bottom for one minute",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "minute"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L28",
+     "number": 28,
+     "format": "Note Completion",
+     "prompt": "Creatures were counted in a white __________",
+     "explanation": "They used a white tray.",
+     "evidenceQuote": "we put everything in a white tray",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tray"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L29",
+     "number": 29,
+     "format": "Note Completion",
+     "prompt": "In the town: more worms and __________",
+     "explanation": "There were more worms and snails.",
+     "evidenceQuote": "more worms and snails",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "snails"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L30",
+     "number": 30,
+     "format": "Note Completion",
+     "prompt": "Report length: about __________ words",
+     "explanation": "The report is about 2,500 words.",
+     "evidenceQuote": "about two thousand five hundred words",
+     "skillTag": "numbers",
+     "options": [],
+     "acceptedAnswers": [
+      "2500",
+      "2,500",
+      "two thousand five hundred"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "fieldwork",
+    "invertebrates",
+    "larvae",
+    "pollution",
+    "oxygen"
+   ],
+   "groups": [
+    {
+     "from": 21,
+     "to": 25,
+     "instruction": "Questions 21–25. Choose the correct letter, A, B or C."
+    },
+    {
+     "from": 26,
+     "to": 30,
+     "instruction": "Questions 26–30. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice14-lp4",
+   "partNumber": 4,
+   "title": "How rivers shape the land",
+   "contextDescription": "A lecture in an introductory geography course about how rivers change as they flow from their source to the sea.",
+   "primaryAccent": "en-GB",
+   "dialogue": [
+    {
+     "id": "3B70FC84-0D44-5A89-BA26-95CD349BE00B",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Good morning, everyone. Today we're going to follow a river on its journey from the mountains to the sea, and look at how it shapes the land along the way. Rivers might seem gentle, but over thousands of years, they can cut deep valleys and build completely new land."
+    },
+    {
+     "id": "FF1A5635-D6AB-5CA2-8213-0E6D2DB9D760",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Let's start with some basic words. The place where a river begins is called its source. Often, this is a spring, where water comes out of the ground, or a lake, or melting ice high in the mountains. The place where a river ends, usually at the sea or a lake, is called its mouth. Smaller rivers that join a bigger one are called tributaries, and the whole area of land that drains into one river is known as its drainage basin."
+    },
+    {
+     "id": "C9B0F442-EE6F-59C4-B089-5725FE35D21D",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Geographers usually divide a river into three parts: the upper course, the middle course and the lower course. In the upper course, near the source, the land is steep, and the river is usually narrow and shallow. The water flows quickly over rocks and stones. Here, the main process is erosion, which means wearing away the land. The river carries stones and rocks, and as these hit the bottom of the river, they cut downwards. Over a very long time, this creates a deep valley with steep sides, which is shaped like the letter V."
+    },
+    {
+     "id": "2C9DB61B-3FA0-5651-AA81-A5BD80976EBE",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Waterfalls are also common in the upper course. They often form where a band of hard rock lies on top of softer rock. The river wears away the soft rock more quickly, so a step forms, and the water falls over it. Slowly, the water cuts back into the cliff, so the waterfall moves upstream over time, leaving a narrow valley called a gorge."
+    },
+    {
+     "id": "C8E61C39-E089-546C-9C44-22AEDEF8D1DC",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the middle course, the land becomes flatter, and the river becomes wider and deeper, because tributaries have added more water. Here, the river starts to bend from side to side. These large bends are called meanders. On the outside of each bend, the water flows faster, so it wears away the bank. On the inside of the bend, the water is slower, so it drops the sand and mud it is carrying. This dropping of material is called deposition. Over many years, the bends become bigger and bigger."
+    },
+    {
+     "id": "2214E34F-2F1E-51B8-BBD8-B2E9BCA71EB5",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Sometimes, two bends get so close that the river cuts straight through the narrow piece of land between them, especially when there is a lot of water. The river then takes the shorter route, and the old bend is left behind as a separate lake. Because of its curved shape, this is called an oxbow lake, after the U-shaped collar that was once used on oxen."
+    },
+    {
+     "id": "4A9547EC-DE8A-50A3-8514-222CCE6BDE9E",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "In the lower course, near the mouth, the land is almost flat, and the river is at its widest. It moves slowly and carries huge amounts of fine mud, called silt. When the river reaches the sea, it slows down even more, and much of this silt is deposited. If the sea's waves and currents are not strong enough to carry it away, the silt builds up and forms new land called a delta. The word comes from the Greek letter delta, which is shaped like a triangle, because the ancient Greek writer Herodotus noticed that the land at the mouth of the Nile had this shape."
+    },
+    {
+     "id": "81A67740-0449-5EA1-9CF3-A591E7EEC7EA",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Deltas are usually very fertile, because the silt is full of nutrients, so they have been important for farming for thousands of years. The Nile delta in Egypt, the Ganges delta in Bangladesh and India, and the Mekong delta in Vietnam are all home to millions of people. However, deltas are low and flat, so they are at risk from rising sea levels."
+    },
+    {
+     "id": "B69E3BAF-A83F-52A7-B294-CA5D8659C2C3",
+     "speaker": "Lecturer",
+     "accent": "en-GB",
+     "text": "Finally, a quick fact about the world's great rivers. The Nile is usually described as the longest river in the world, at about six thousand six hundred and fifty kilometres. But the Amazon in South America carries far more water than any other river. In fact, it carries around one fifth of all the river water that flows into the world's oceans. Next week, we'll look at how people use and change rivers, for example by building dams."
+    }
+   ],
+   "questions": [
+    {
+     "id": "practice14-L31",
+     "number": 31,
+     "format": "Note Completion",
+     "prompt": "A river's source may be a spring, a lake or melting __________",
+     "explanation": "Some rivers start from melting ice.",
+     "evidenceQuote": "or melting ice high in the mountains",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ice"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L32",
+     "number": 32,
+     "format": "Note Completion",
+     "prompt": "The end of a river is called its __________",
+     "explanation": "The end is the mouth.",
+     "evidenceQuote": "is called its mouth",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "mouth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L33",
+     "number": 33,
+     "format": "Note Completion",
+     "prompt": "Smaller rivers that join a larger one: __________",
+     "explanation": "They are tributaries.",
+     "evidenceQuote": "Smaller rivers that join a bigger one are called tributaries",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "tributaries"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L34",
+     "number": 34,
+     "format": "Note Completion",
+     "prompt": "Upper course: main process is __________ (wearing away the land)",
+     "explanation": "Erosion is the main process.",
+     "evidenceQuote": "the main process is erosion",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "erosion"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L35",
+     "number": 35,
+     "format": "Note Completion",
+     "prompt": "Upper course valleys are shaped like the letter __________",
+     "explanation": "The valley is V-shaped.",
+     "evidenceQuote": "which is shaped like the letter V",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "V"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L36",
+     "number": 36,
+     "format": "Note Completion",
+     "prompt": "A waterfall moves upstream and leaves a narrow valley called a __________",
+     "explanation": "It leaves a gorge.",
+     "evidenceQuote": "leaving a narrow valley called a gorge",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "gorge"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L37",
+     "number": 37,
+     "format": "Note Completion",
+     "prompt": "Middle course: large bends in the river are called __________",
+     "explanation": "The bends are meanders.",
+     "evidenceQuote": "These large bends are called meanders.",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "meanders"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L38",
+     "number": 38,
+     "format": "Note Completion",
+     "prompt": "An oxbow lake is named after a __________ once used on oxen",
+     "explanation": "It is named after a collar.",
+     "evidenceQuote": "after the U-shaped collar that was once used on oxen",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "collar"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L39",
+     "number": 39,
+     "format": "Note Completion",
+     "prompt": "Fine mud carried in the lower course is called __________",
+     "explanation": "Fine mud is silt.",
+     "evidenceQuote": "carries huge amounts of fine mud, called silt",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "silt"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-L40",
+     "number": 40,
+     "format": "Note Completion",
+     "prompt": "The Greek letter delta has the shape of a __________",
+     "explanation": "Delta is triangle-shaped.",
+     "evidenceQuote": "which is shaped like a triangle",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "triangle"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "keyVocabulary": [
+    "source",
+    "erosion",
+    "meander",
+    "deposition",
+    "delta"
+   ],
+   "groups": [
+    {
+     "from": 31,
+     "to": 40,
+     "instruction": "Questions 31–40. Complete the notes below. Write ONE WORD ONLY for each answer."
+    }
+   ]
+  }
+ ],
+ "readingPassages": [
+  {
+   "id": "practice14-rp1",
+   "passageNumber": 1,
+   "title": "The disappearing sea",
+   "discipline": "Environmental Geography",
+   "paragraphs": [
+    "In the middle of Central Asia, on the border between Kazakhstan and Uzbekistan, lies what remains of the Aral Sea. Although it was called a sea, it was really a huge lake, because it had no connection to the ocean. In 1960, it covered about sixty-eight thousand square kilometres and was the fourth-largest lake in the world. Its water was a beautiful blue, and many small islands were scattered across it. It was full of fish, and thousands of people worked in the fishing industry in towns along its shores.",
+    "The lake did not get its water from rain, because the region is very dry. Instead, it was fed by two long rivers, the Amu Darya and the Syr Darya, which carry water from the high mountains far to the south and east. For thousands of years, the amount of water that these rivers brought into the lake was roughly equal to the amount that was lost by evaporation in the hot summer sun, so the size of the lake stayed fairly stable.",
+    "This balance changed in the 1960s. At that time, the region was part of the Soviet Union, and the government decided to turn the surrounding deserts into farmland. Its main aim was to grow cotton, a crop that needs a great deal of water. At first, the plan seemed to be a great success. The region became one of the world's major producers of cotton, and the new farms provided work for many people. Engineers built thousands of kilometres of canals to take water from the two rivers to the new fields. Many of these canals were badly built, and large amounts of water leaked out of them or evaporated before reaching the crops.",
+    "As a result, much less water reached the Aral Sea, and it began to shrink. By the late 1980s, the water level had fallen so much that the lake divided into two separate parts: a smaller northern lake in Kazakhstan and a larger southern lake, mostly in Uzbekistan. The southern lake continued to get smaller, and in 2014, satellite photographs showed that its eastern part had dried up completely for the first time in modern history.",
+    "The effects on the people of the region were very serious. As the water level fell, the lake became much saltier, and most kinds of fish could no longer survive. The fishing industry collapsed, and thousands of people lost their jobs. Former fishing ports, such as Moynaq in Uzbekistan, were left far from the water, and rusty fishing boats now lie on the sand where the lake used to be. For a while, some fish factories stayed open by bringing in frozen fish from far away, but this could not continue for long. Many young people moved away to find work.",
+    "The dried-up lake bed also caused new problems. It became a new desert, covered in salt and in chemicals that had been used on the cotton fields and washed into the lake. Strong winds pick up this dust and carry it for hundreds of kilometres, damaging crops and causing breathing problems for local people. Even the local climate has changed: without the large body of water to cool the air in summer and warm it in winter, summers have become hotter and winters colder. Doctors in the region have also reported high levels of illness, and many people still worry about the quality of their drinking water.",
+    "However, the story of the northern lake has a more hopeful ending. In 2005, the government of Kazakhstan, with support from the World Bank, completed a dam called the Kok-Aral Dam, which stops water from the Syr Darya from flowing south into the larger lake. The northern lake began to fill up again much faster than scientists had expected. As its water became less salty, fish returned, and fishing has started again in towns such as Aralsk. The water, which had moved many kilometres away from the town, has also come closer again.",
+    "The southern lake is unlikely to recover, because so much water is still taken from the Amu Darya for farming. Instead, Uzbekistan has been planting millions of desert shrubs on the dry lake bed to hold the soil in place and reduce the dust storms. Some experts also hope that better ways of watering crops, such as using pipes instead of open canals, will mean that less water is wasted on farms. The Aral Sea is now often used as an example of how human decisions about water can change an entire region, and of how careful planning can sometimes repair some of the damage."
+   ],
+   "questions": [
+    {
+     "id": "practice14-R1",
+     "number": 1,
+     "format": "True / False / Not Given",
+     "prompt": "The Aral Sea was connected to the ocean.",
+     "explanation": "It had no connection to the ocean.",
+     "evidenceQuote": "because it had no connection to the ocean",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice14-R2",
+     "number": 2,
+     "format": "True / False / Not Given",
+     "prompt": "Most of the lake's water came from rain falling on the region.",
+     "explanation": "It was fed by rivers, not rain.",
+     "evidenceQuote": "The lake did not get its water from rain",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice14-R3",
+     "number": 3,
+     "format": "True / False / Not Given",
+     "prompt": "Before the 1960s, the size of the lake did not change very much.",
+     "explanation": "Its size stayed fairly stable.",
+     "evidenceQuote": "the size of the lake stayed fairly stable",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice14-R4",
+     "number": 4,
+     "format": "True / False / Not Given",
+     "prompt": "A lot of water was lost from the canals before it reached the fields.",
+     "explanation": "Water leaked or evaporated.",
+     "evidenceQuote": "large amounts of water leaked out of them or evaporated before reaching the crops",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice14-R5",
+     "number": 5,
+     "format": "True / False / Not Given",
+     "prompt": "Cotton from the region was mainly sold to other countries.",
+     "explanation": "Where the cotton was sold is not mentioned.",
+     "evidenceQuote": "Its main aim was to grow cotton, a crop that needs a great deal of water",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice14-R6",
+     "number": 6,
+     "format": "True / False / Not Given",
+     "prompt": "Dust from the lake bed has caused health problems.",
+     "explanation": "The dust causes breathing problems.",
+     "evidenceQuote": "causing breathing problems for local people",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "TRUE"
+     ]
+    },
+    {
+     "id": "practice14-R7",
+     "number": 7,
+     "format": "True / False / Not Given",
+     "prompt": "The northern lake filled up more slowly than scientists had predicted.",
+     "explanation": "It filled faster than expected.",
+     "evidenceQuote": "much faster than scientists had expected",
+     "skillTag": "tfng",
+     "options": [
+      "TRUE",
+      "FALSE",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "FALSE"
+     ]
+    },
+    {
+     "id": "practice14-R8",
+     "number": 8,
+     "format": "Note Completion",
+     "prompt": "In 1960, the Aral Sea was the world's __________-largest lake.",
+     "explanation": "It was the fourth-largest.",
+     "evidenceQuote": "was the fourth-largest lake in the world",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fourth"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R9",
+     "number": 9,
+     "format": "Note Completion",
+     "prompt": "The Soviet government built canals to bring water to fields of __________.",
+     "explanation": "They grew cotton.",
+     "evidenceQuote": "Its main aim was to grow cotton",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "cotton"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R10",
+     "number": 10,
+     "format": "Note Completion",
+     "prompt": "In 2014, the eastern part of the southern lake was seen in satellite __________ to be completely dry.",
+     "explanation": "Satellite photographs showed it.",
+     "evidenceQuote": "satellite photographs showed that its eastern part had dried up completely",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "photographs"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R11",
+     "number": 11,
+     "format": "Note Completion",
+     "prompt": "Old fishing __________ lie on the sand at Moynaq.",
+     "explanation": "Boats lie on the sand.",
+     "evidenceQuote": "rusty fishing boats now lie on the sand",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "boats"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R12",
+     "number": 12,
+     "format": "Note Completion",
+     "prompt": "Without the lake, local summers are hotter and winters are __________.",
+     "explanation": "Winters are colder.",
+     "evidenceQuote": "summers have become hotter and winters colder",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "colder"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R13",
+     "number": 13,
+     "format": "Note Completion",
+     "prompt": "Uzbekistan is planting __________ on the dry lake bed to reduce dust.",
+     "explanation": "Shrubs hold the soil.",
+     "evidenceQuote": "planting millions of desert shrubs on the dry lake bed",
+     "skillTag": "note_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "shrubs"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 769,
+   "groups": [
+    {
+     "from": 1,
+     "to": 7,
+     "instruction": "Questions 1–7. Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN."
+    },
+    {
+     "from": 8,
+     "to": 13,
+     "instruction": "Questions 8–13. Complete the notes below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice14-rp2",
+   "passageNumber": 2,
+   "title": "Lake Baikal: the blue eye of Siberia",
+   "discipline": "Physical Geography & Ecology",
+   "paragraphs": [
+    "Lake Baikal, in southern Siberia in Russia, is a lake of records. It is the deepest lake on Earth, reaching more than one thousand six hundred metres at its deepest point. It is also believed to be the oldest, having formed around twenty-five to thirty million years ago. Most lakes only last for a few thousand years before they fill up with mud and disappear, so Baikal is extremely unusual. Because of its great age and beauty, it was made a UNESCO World Heritage Site in 1996.",
+    "Baikal is not the largest lake in the world by area, but because it is so deep, it holds an enormous amount of water. In fact, it contains around a fifth of all the unfrozen fresh water found on the surface of the Earth, more than all five of North America's Great Lakes put together. The lake is about six hundred kilometres long, but in most places it is less than eighty kilometres wide. More than three hundred rivers and streams flow into the lake, but only one river, the Angara, flows out of it.",
+    "The lake lies in a deep crack in the Earth's surface, called a rift, where two parts of the Earth's crust are slowly moving apart. This movement is still happening today. Small earthquakes are common in the area, and scientists say that the lake is becoming wider by about two centimetres every year. Some believe that, in millions of years, the rift could become so wide that it turns into a new ocean.",
+    "One of the most famous things about Baikal is how clear its water is. In some places, it is possible to see objects more than thirty metres below the surface. On calm days, people in boats can look down and see rocks and fish far below them. One reason for this is a tiny animal, a kind of crustacean less than two millimetres long, which lives in the lake in enormous numbers. These creatures eat algae and bacteria, and in doing so, they help to keep the water very clean. The water also contains few minerals, so it is often described as being almost as pure as distilled water.",
+    "Because the lake has been separated from other water for so long, many of the animals and plants that live in it have developed in their own way. Around two-thirds of the species found there live nowhere else in the world. The best known is the Baikal seal, or nerpa, one of the very few seals that live only in fresh water. It is also one of the smallest seals in the world, and it spends much of its life under the water and ice. Scientists are still not sure how seals reached a lake so far from the sea. Another unusual animal is the golomyanka, a fish with a body so pale that it is almost transparent. It lives deep in the lake and, unusually for a fish, gives birth to live young instead of laying eggs.",
+    "In winter, the weather around Baikal is extremely cold, and from January until May the surface of the lake is covered in ice. In many places, the ice is more than a metre thick, strong enough for cars and lorries to drive across. The ice is often very clear, and in some places visitors can see cracks and bubbles of gas trapped inside it. In the early twentieth century, before a railway around the southern end of the lake was completed, railway tracks were even laid across the ice so that trains could cross. Today, thousands of tourists come in winter to walk, skate and cycle on the frozen lake.",
+    "Despite its size, Baikal faces several threats. For almost fifty years, a large factory producing paper materials on the southern shore released waste into the lake, until it finally closed in 2013. More recently, scientists have noticed large amounts of green algae growing near the shore in some places, which they link to waste water from towns and tourist hotels. Numbers of the omul, a fish that is an important food for local people, fell so much that commercial fishing for it was banned in 2017.",
+    "Many people believe that protecting Baikal is a responsibility for the whole world, not only for Russia. Scientists from many countries study the lake, and local groups organise clean-up days to remove rubbish from its shores. Visitors are also asked to stay on marked paths and to take all their rubbish home with them. Better treatment of waste water and careful control of tourism will be needed if the lake is to stay as clean and unusual as it has been for millions of years."
+   ],
+   "questions": [
+    {
+     "id": "practice14-R14",
+     "number": 14,
+     "format": "Matching Headings",
+     "prompt": "Paragraph B",
+     "explanation": "Paragraph B is about the volume of water.",
+     "evidenceQuote": "it holds an enormous amount of water",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "v",
+      "v. A huge store of fresh water",
+      "A huge store of fresh water"
+     ]
+    },
+    {
+     "id": "practice14-R15",
+     "number": 15,
+     "format": "Matching Headings",
+     "prompt": "Paragraph C",
+     "explanation": "Paragraph C explains the rift that is still moving.",
+     "evidenceQuote": "This movement is still happening today.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "viii",
+      "viii. A lake that is still growing",
+      "A lake that is still growing"
+     ]
+    },
+    {
+     "id": "practice14-R16",
+     "number": 16,
+     "format": "Matching Headings",
+     "prompt": "Paragraph D",
+     "explanation": "Paragraph D explains why the water is so clear.",
+     "evidenceQuote": "how clear its water is",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "i",
+      "i. The secret of the clear water",
+      "The secret of the clear water"
+     ]
+    },
+    {
+     "id": "practice14-R17",
+     "number": 17,
+     "format": "Matching Headings",
+     "prompt": "Paragraph E",
+     "explanation": "Paragraph E describes unique wildlife.",
+     "evidenceQuote": "Around two-thirds of the species found there live nowhere else in the world.",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "vi",
+      "vi. Wildlife found in only one place",
+      "Wildlife found in only one place"
+     ]
+    },
+    {
+     "id": "practice14-R18",
+     "number": 18,
+     "format": "Matching Headings",
+     "prompt": "Paragraph F",
+     "explanation": "Paragraph F is about the frozen lake.",
+     "evidenceQuote": "from January until May the surface of the lake is covered in ice",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "iii",
+      "iii. A frozen highway",
+      "A frozen highway"
+     ]
+    },
+    {
+     "id": "practice14-R19",
+     "number": 19,
+     "format": "Matching Headings",
+     "prompt": "Paragraph G",
+     "explanation": "Paragraph G lists dangers to the lake.",
+     "evidenceQuote": "Baikal faces several threats",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "ix",
+      "ix. Dangers to the lake",
+      "Dangers to the lake"
+     ]
+    },
+    {
+     "id": "practice14-R20",
+     "number": 20,
+     "format": "Matching Headings",
+     "prompt": "Paragraph H",
+     "explanation": "Paragraph H is about shared protection.",
+     "evidenceQuote": "Many people believe that protecting Baikal is a responsibility for the whole world",
+     "skillTag": "matching_headings",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ],
+     "acceptedAnswers": [
+      "ii",
+      "ii. A job for everyone",
+      "A job for everyone"
+     ]
+    },
+    {
+     "id": "practice14-R21",
+     "number": 21,
+     "format": "Multiple Choice",
+     "prompt": "Why is Baikal's age described as extremely unusual?",
+     "explanation": "Most lakes disappear quickly.",
+     "evidenceQuote": "Most lakes only last for a few thousand years before they fill up with mud and disappear",
+     "skillTag": "detail",
+     "options": [
+      "A. Most lakes fill with mud after a few thousand years.",
+      "B. It is older than the rivers around it.",
+      "C. It formed during an earthquake.",
+      "D. It was formed by ice."
+     ],
+     "acceptedAnswers": [
+      "A",
+      "A. Most lakes fill with mud after a few thousand years.",
+      "Most lakes fill with mud after a few thousand years."
+     ]
+    },
+    {
+     "id": "practice14-R22",
+     "number": 22,
+     "format": "Multiple Choice",
+     "prompt": "What do scientists not yet understand about the Baikal seal?",
+     "explanation": "They do not know how seals got there.",
+     "evidenceQuote": "Scientists are still not sure how seals reached a lake so far from the sea",
+     "skillTag": "detail",
+     "options": [
+      "A. what it eats",
+      "B. how long it lives",
+      "C. how it arrived in the lake",
+      "D. why its numbers are falling"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. how it arrived in the lake",
+      "how it arrived in the lake"
+     ]
+    },
+    {
+     "id": "practice14-R23",
+     "number": 23,
+     "format": "Multiple Choice",
+     "prompt": "What do scientists think is causing algae to grow near the shore?",
+     "explanation": "Waste water from towns and hotels.",
+     "evidenceQuote": "which they link to waste water from towns and tourist hotels",
+     "skillTag": "detail",
+     "options": [
+      "A. warmer winters",
+      "B. waste water from towns and hotels",
+      "C. waste from the paper factory",
+      "D. a fall in the number of fish"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. waste water from towns and hotels",
+      "waste water from towns and hotels"
+     ]
+    },
+    {
+     "id": "practice14-R24",
+     "number": 24,
+     "format": "Sentence Completion",
+     "prompt": "The only river that flows out of Lake Baikal is the __________.",
+     "explanation": "The Angara flows out.",
+     "evidenceQuote": "only one river, the Angara, flows out of it",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "Angara"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice14-R25",
+     "number": 25,
+     "format": "Sentence Completion",
+     "prompt": "The golomyanka is a fish that is almost __________.",
+     "explanation": "It is almost transparent.",
+     "evidenceQuote": "a fish with a body so pale that it is almost transparent",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "transparent"
+     ],
+     "maxWordCount": 2
+    },
+    {
+     "id": "practice14-R26",
+     "number": 26,
+     "format": "Sentence Completion",
+     "prompt": "Commercial fishing for the __________ was stopped in 2017.",
+     "explanation": "Omul fishing was banned.",
+     "evidenceQuote": "Numbers of the omul, a fish that is an important food for local people, fell so much that commercial fishing for it was banned in 2017",
+     "skillTag": "sentence_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "omul"
+     ],
+     "maxWordCount": 2
+    }
+   ],
+   "estimatedWordCount": 783,
+   "groups": [
+    {
+     "from": 14,
+     "to": 20,
+     "instruction": "Questions 14–20. Reading Passage 2 has eight paragraphs, A–H. Choose the correct heading for paragraphs B–H from the list of headings below.",
+     "options": [
+      "i. The secret of the clear water",
+      "ii. A job for everyone",
+      "iii. A frozen highway",
+      "iv. The best time to visit",
+      "v. A huge store of fresh water",
+      "vi. Wildlife found in only one place",
+      "vii. How the lake got its name",
+      "viii. A lake that is still growing",
+      "ix. Dangers to the lake"
+     ]
+    },
+    {
+     "from": 21,
+     "to": 23,
+     "instruction": "Questions 21–23. Choose the correct letter, A, B, C or D."
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "instruction": "Questions 24–26. Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer."
+    }
+   ]
+  },
+  {
+   "id": "practice14-rp3",
+   "passageNumber": 3,
+   "title": "Should rivers have rights?",
+   "discipline": "Environmental Law",
+   "paragraphs": [
+    "In most countries, the law treats a river as a thing. It can be owned, used and changed, and if it is polluted, it is usually the people who use the river, rather than the river itself, who can go to court. In recent years, however, a new idea has spread around the world: that rivers, lakes and other parts of nature should have legal rights of their own, in the same way that people and companies do.",
+    "The best-known example comes from New Zealand. For more than a century, the Māori people of the Whanganui region tried to persuade the government to recognise their special relationship with the Whanganui River, the country's third-longest river. For them, the river is not simply a resource but an ancestor and a living being. A well-known Māori saying from the region expresses this idea: 'I am the river, and the river is me.' In 2017, after many years of negotiation, the New Zealand parliament passed a law that recognised the river as a legal person. Two guardians, one chosen by the Māori community and one by the government, now speak on the river's behalf.",
+    "New Zealand was not the first country to move in this direction. In 2008, Ecuador became the first country to include the rights of nature in its constitution, the country's most important set of laws. Then, in 2016, the highest court in Colombia ruled that the Atrato River, which had been badly damaged by illegal gold mining, had rights to protection and restoration. In 2019, the High Court of Bangladesh went even further and declared that all of the country's rivers should be treated as legal persons.",
+    "Not every attempt has been successful. In 2017, a court in the Indian state of Uttarakhand declared that the Ganges and Yamuna rivers, which are sacred to Hindus, were legal persons. However, the state government argued that the decision was unclear and could cause practical problems, for example over who would be responsible if the river flooded and caused damage. A few months later, India's Supreme Court suspended the decision. In the United States, voters in the city of Toledo, Ohio, approved a 'Bill of Rights' for Lake Erie in 2019, after pollution had left the city without safe drinking water for several days in 2014. But a judge ruled the following year that the law was not valid.",
+    "Supporters of river rights say that traditional laws have failed to protect nature. Pollution laws often set limits on what can be released into a river, but these are frequently broken, and the fines are small. If a river is a legal person, they argue, its guardians can take polluters to court directly, without having to prove that any human has been harmed. In my view, this is the strongest argument for the idea. It changes the question from 'How much damage can we allow?' to 'What does the river need to stay healthy?' Supporters also say that the idea reflects the beliefs of many indigenous peoples, who have long seen themselves as part of nature rather than its owners.",
+    "Critics, however, raise several objections. Some say that the idea is mainly symbolic, and that it does little in practice unless the guardians have enough money and power to act. Others point out that a river cannot tell us what it wants, so the people who speak for it may simply use it to support their own opinions. There are also difficult questions about responsibility: if a river has rights, does it also have duties? Finally, some people worry that if rivers could take companies or governments to court too easily, it might become harder to build important projects, such as bridges or water supply systems.",
+    "I think these concerns are reasonable, but they are not a good reason to reject the idea completely. The Whanganui case shows that it can work well when it grows out of a long relationship between a community and a river, and when the guardians are given real resources. Problems are more likely when the idea is introduced suddenly by a court, without the support of the government or the people who live along the river.",
+    "In the end, giving rights to a river is a way of saying that it matters for its own sake, and not only because it is useful to us. Whether or not more countries follow New Zealand, the debate has already encouraged many people to think differently about the rivers and lakes around them, and that, I believe, is a valuable result in itself."
+   ],
+   "questions": [
+    {
+     "id": "practice14-R27",
+     "number": 27,
+     "format": "Matching Features",
+     "prompt": "A court decided that every river in the country should be a legal person.",
+     "explanation": "Bangladesh declared all its rivers legal persons.",
+     "evidenceQuote": "declared that all of the country's rivers should be treated as legal persons",
+     "skillTag": "matching_features",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ],
+     "acceptedAnswers": [
+      "F",
+      "F. Bangladesh",
+      "Bangladesh"
+     ]
+    },
+    {
+     "id": "practice14-R28",
+     "number": 28,
+     "format": "Matching Features",
+     "prompt": "A river was damaged by people looking for gold.",
+     "explanation": "The Atrato in Colombia was damaged by mining.",
+     "evidenceQuote": "which had been badly damaged by illegal gold mining",
+     "skillTag": "matching_features",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ],
+     "acceptedAnswers": [
+      "C",
+      "C. Colombia",
+      "Colombia"
+     ]
+    },
+    {
+     "id": "practice14-R29",
+     "number": 29,
+     "format": "Matching Features",
+     "prompt": "The rights of nature were written into the country's main laws.",
+     "explanation": "Ecuador put them in its constitution.",
+     "evidenceQuote": "Ecuador became the first country to include the rights of nature in its constitution",
+     "skillTag": "matching_features",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ],
+     "acceptedAnswers": [
+      "B",
+      "B. Ecuador",
+      "Ecuador"
+     ]
+    },
+    {
+     "id": "practice14-R30",
+     "number": 30,
+     "format": "Matching Features",
+     "prompt": "A decision was suspended by the country's highest court.",
+     "explanation": "India's Supreme Court suspended it.",
+     "evidenceQuote": "India's Supreme Court suspended the decision",
+     "skillTag": "matching_features",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ],
+     "acceptedAnswers": [
+      "D",
+      "D. India",
+      "India"
+     ]
+    },
+    {
+     "id": "practice14-R31",
+     "number": 31,
+     "format": "Matching Features",
+     "prompt": "People voted for a law after a problem with their drinking water.",
+     "explanation": "Toledo voters approved the bill.",
+     "evidenceQuote": "voters in the city of Toledo, Ohio, approved a 'Bill of Rights' for Lake Erie",
+     "skillTag": "matching_features",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ],
+     "acceptedAnswers": [
+      "E",
+      "E. the United States",
+      "the United States"
+     ]
+    },
+    {
+     "id": "practice14-R32",
+     "number": 32,
+     "format": "Yes / No / Not Given",
+     "prompt": "The most important benefit of river rights is that guardians can take polluters to court directly.",
+     "explanation": "The writer calls it the strongest argument.",
+     "evidenceQuote": "In my view, this is the strongest argument for the idea.",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice14-R33",
+     "number": 33,
+     "format": "Yes / No / Not Given",
+     "prompt": "The critics' concerns are a good reason to reject river rights completely.",
+     "explanation": "The writer disagrees.",
+     "evidenceQuote": "they are not a good reason to reject the idea completely",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice14-R34",
+     "number": 34,
+     "format": "Yes / No / Not Given",
+     "prompt": "River rights are more likely to succeed when they come from a long relationship with a local community.",
+     "explanation": "The writer says it works well then.",
+     "evidenceQuote": "it can work well when it grows out of a long relationship between a community and a river",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "YES"
+     ]
+    },
+    {
+     "id": "practice14-R35",
+     "number": 35,
+     "format": "Yes / No / Not Given",
+     "prompt": "The guardians of the Whanganui River are paid too little.",
+     "explanation": "Guardians' pay is not discussed.",
+     "evidenceQuote": "when the guardians are given real resources",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NOT GIVEN"
+     ]
+    },
+    {
+     "id": "practice14-R36",
+     "number": 36,
+     "format": "Yes / No / Not Given",
+     "prompt": "The debate about river rights has had no useful effect so far.",
+     "explanation": "The writer sees a valuable result.",
+     "evidenceQuote": "that, I believe, is a valuable result in itself",
+     "skillTag": "ynng",
+     "options": [
+      "YES",
+      "NO",
+      "NOT GIVEN"
+     ],
+     "acceptedAnswers": [
+      "NO"
+     ]
+    },
+    {
+     "id": "practice14-R37",
+     "number": 37,
+     "format": "Summary Completion",
+     "prompt": "In most countries, the law treats a river as a __________ that can be owned and used.",
+     "explanation": "A river is treated as a thing.",
+     "evidenceQuote": "the law treats a river as a thing",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "thing"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R38",
+     "number": 38,
+     "format": "Summary Completion",
+     "prompt": "For the Māori, the Whanganui River is an __________ and a living being.",
+     "explanation": "The river is an ancestor.",
+     "evidenceQuote": "an ancestor and a living being",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "ancestor"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R39",
+     "number": 39,
+     "format": "Summary Completion",
+     "prompt": "Supporters say that pollution limits are often broken and the __________ are small.",
+     "explanation": "Fines are small.",
+     "evidenceQuote": "the fines are small",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "fines"
+     ],
+     "maxWordCount": 1
+    },
+    {
+     "id": "practice14-R40",
+     "number": 40,
+     "format": "Summary Completion",
+     "prompt": "Some critics believe that the idea is mainly __________ and changes little in practice.",
+     "explanation": "Critics say it is symbolic.",
+     "evidenceQuote": "the idea is mainly symbolic",
+     "skillTag": "summary_completion",
+     "options": [],
+     "acceptedAnswers": [
+      "symbolic"
+     ],
+     "maxWordCount": 1
+    }
+   ],
+   "estimatedWordCount": 763,
+   "groups": [
+    {
+     "from": 27,
+     "to": 31,
+     "instruction": "Questions 27–31. Look at the following statements and the list of places below. Match each statement with the correct place, A–F.",
+     "options": [
+      "A. New Zealand",
+      "B. Ecuador",
+      "C. Colombia",
+      "D. India",
+      "E. the United States",
+      "F. Bangladesh"
+     ]
+    },
+    {
+     "from": 32,
+     "to": 36,
+     "instruction": "Questions 32–36. Do the following statements agree with the claims of the writer in Reading Passage 3? Write YES, NO or NOT GIVEN."
+    },
+    {
+     "from": 37,
+     "to": 40,
+     "instruction": "Questions 37–40. Complete the summary below. Choose ONE WORD ONLY from the passage for each answer."
+    }
+   ]
+  }
+ ],
+ "writingTask1": {
+  "id": "practice14-w1",
+  "title": "How drinking water is treated",
+  "visualType": "Process Diagram",
+  "instructions": "The diagram below shows how water from a river is treated so that it is safe to drink. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "minimumWords": 150,
+  "dataPoints": [],
+  "processSteps": [
+   "Water is taken from the river through an intake pipe",
+   "Screens remove leaves, fish and rubbish",
+   "Chemicals are added so that small particles stick together",
+   "Particles sink to the bottom of settling tanks",
+   "Water passes through filters of sand and gravel",
+   "Chlorine is added to kill bacteria",
+   "Clean water is stored in a covered reservoir",
+   "Water is pumped through pipes to homes"
+  ],
+  "keyOverviewPoints": [
+   "The process has eight stages, from taking water out of the river to sending it to homes.",
+   "Solid material is removed first, then the water is filtered and disinfected before being stored."
+  ]
+ },
+ "writingTask2": {
+  "id": "practice14-w2",
+  "title": "Polluted rivers and lakes",
+  "essayType": "Problem & Solution",
+  "topicDomain": "Environment",
+  "promptText": "In many parts of the world, rivers and lakes are becoming polluted. What are the main causes of this problem, and what can be done to solve it?",
+  "minimumWords": 250
+ },
+ "speakingSet": {
+  "id": "practice14-spk",
+  "theme": "Rivers, lakes and water",
+  "part1Questions": [
+   "Is there a river or a lake near where you live?",
+   "Do you like swimming?",
+   "How much water do you drink every day?",
+   "Did you play near water when you were a child?",
+   "Do you prefer holidays by the sea or by a lake?"
+  ],
+  "part2CueCard": {
+   "topic": "Describe a river, lake or beach that you have visited and enjoyed.",
+   "bulletPoints": [
+    "where it is",
+    "when you went there",
+    "what you did there",
+    "and explain why you enjoyed it"
+   ],
+   "prepSeconds": 60,
+   "speakSeconds": 120
+  },
+  "part3Questions": [
+   "Why do many cities grow up next to rivers?",
+   "How can ordinary people save water at home?",
+   "Should companies pay more when they pollute rivers?",
+   "Is clean water a problem in your country?",
+   "Do you think there will be enough fresh water for everyone in the future?"
+  ]
+ },
+ "provenance": {
+  "origin": "Original IELTS-Style Practice",
+  "isOfficialIELTSMaterial": false,
+  "generatorModel": "Hand-authored (Claude) — original IELTS-style text",
+  "validatedAt": "2026-11-27T07:45:41Z",
+  "validationPassed": true,
+  "validationNotes": [
+   "Passed build_exams.py: 4 Listening parts / 40 questions, 3 Reading passages / 40 questions, every evidence quote found verbatim, no cross-exam duplicates.",
+   "Geographical facts and dates are checked against standard reference sources; some figures are rounded for exam practice.",
+   "Original practice material written to the public IELTS Academic format. Not an official or past IELTS paper.",
+   "People and organisations named in passages and scripts are fictional unless the text states otherwise."
+  ],
+  "sourceReferenceIDs": [
+   "src-ielts-org",
+   "src-british-council",
+   "src-idp-ielts"
+  ]
+ }
+}
